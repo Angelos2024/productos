@@ -1,18 +1,18 @@
-import { Octokit } from "@octokit/rest";
+const { Octokit } = require("@octokit/rest");
 
 const REPO_OWNER = "angelos2024";
-const REPO_NAME = "verificador";
+const REPO_NAME = "productos";
 const BRANCH = "main";
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 export default async function handler(req, res) {
-  const allowedOrigins = [
-    "https://verificador-sigma.vercel.app",
+  const ALLOWED_ORIGINS = [
+    "https://productos.vercel.app",
     "https://angelos2024.github.io"
   ];
   const origin = req.headers.origin;
-  if (allowedOrigins.includes(origin)) {
+  if (ALLOWED_ORIGINS.includes(origin)) {
     res.setHeader("Access-Control-Allow-Origin", origin);
   }
 
@@ -21,19 +21,12 @@ export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Credentials", "true");
   res.setHeader("Vary", "Origin");
 
-  if (req.method === "OPTIONS") {
-    return res.status(204).end();
-  }
-
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Método no permitido" });
-  }
+  if (req.method === "OPTIONS") return res.status(204).end();
+  if (req.method !== "POST") return res.status(405).json({ error: "Solo POST permitido" });
 
   let body = req.body;
   if (typeof body === "string") {
-    try {
-      body = JSON.parse(body);
-    } catch {
+    try { body = JSON.parse(body); } catch {
       return res.status(400).json({ error: "JSON inválido" });
     }
   }
@@ -48,19 +41,20 @@ export default async function handler(req, res) {
       owner: REPO_OWNER,
       repo: REPO_NAME,
       path: "pendientes.json",
-      ref: BRANCH,
+      ref: BRANCH
     });
 
     const pendientesSha = pendientesRes.data.sha;
     const pendientes = JSON.parse(Buffer.from(pendientesRes.data.content, "base64").toString());
 
+    // 📨 Registro nuevo
     if (accion === "registrar") {
       pendientes.push(producto);
       await octokit.repos.createOrUpdateFileContents({
         owner: REPO_OWNER,
         repo: REPO_NAME,
         path: "pendientes.json",
-        message: `📥 Nuevo producto: ${producto.nombre}`,
+        message: `📥 Registro: ${producto.nombre}`,
         content: Buffer.from(JSON.stringify(pendientes, null, 2)).toString("base64"),
         sha: pendientesSha,
         branch: BRANCH,
@@ -69,18 +63,19 @@ export default async function handler(req, res) {
     }
 
     const match = pendientes.find(p => p.nombre === producto.nombre && p.marca === producto.marca);
-    if (!match) return res.status(404).json({ error: "No encontrado" });
+    if (!match) return res.status(404).json({ error: "Producto no encontrado" });
 
     if (accion === "aprobar") {
       const baseRes = await octokit.repos.getContent({
         owner: REPO_OWNER,
         repo: REPO_NAME,
         path: "base_tahor_tame.json",
-        ref: BRANCH,
+        ref: BRANCH
       });
 
       const baseSha = baseRes.data.sha;
       const base = JSON.parse(Buffer.from(baseRes.data.content, "base64").toString());
+
       delete producto.estado;
       base.push(producto);
 
@@ -95,6 +90,7 @@ export default async function handler(req, res) {
       });
     }
 
+    // ❌ Rechazar o limpiar
     const nuevosPendientes = pendientes.filter(p => !(p.nombre === producto.nombre && p.marca === producto.marca));
     await octokit.repos.createOrUpdateFileContents({
       owner: REPO_OWNER,
@@ -109,7 +105,7 @@ export default async function handler(req, res) {
     return res.status(200).json({ success: true });
 
   } catch (err) {
-    console.error("❌ Error:", err);
-    return res.status(500).json({ error: "Error en servidor" });
+    console.error("❌ Error API:", err);
+    return res.status(500).json({ error: "Error interno del servidor" });
   }
 }
