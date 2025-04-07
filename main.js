@@ -215,7 +215,7 @@ async function aprobarProducto(index) {
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'aprobar', producto })
@@ -233,7 +233,7 @@ async function rechazarProducto(index) {
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'rechazar', producto })
@@ -261,7 +261,7 @@ document.getElementById("formRegistroManual").addEventListener("submit", async (
   };
 
   try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api", {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ accion: "registrar", producto })
