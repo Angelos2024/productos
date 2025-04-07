@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "marca": "coca",
+    "nombre": "xco",
+    "pais": "MEX",
+    "ingredientes": [
+      "CVJDE",
+      "",
+      "VV",
+      "E"
+    ],
+    "tahor": false
+  }
+]
