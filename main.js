@@ -245,3 +245,35 @@ async function rechazarProducto(index) {
     console.error('❌ Error al rechazar producto:', err);
   }
 }
+
+// Registro manual de productos
+document.getElementById("formRegistroManual").addEventListener("submit", async (e) => {
+  e.preventDefault();
+
+  const producto = {
+    marca: document.getElementById("marcaManual").value.trim(),
+    nombre: document.getElementById("nombreManual").value.trim(),
+    pais: document.getElementById("paisManual").value.trim(),
+    ingredientes: document.getElementById("ingredientesManual").value
+      .split(",")
+      .map(i => i.trim()),
+    tahor: false
+  };
+
+  try {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accion: "registrar", producto })
+    });
+
+    if (!res.ok) throw new Error("Error al registrar producto");
+
+    document.getElementById("mensajeUsuario").innerHTML = "✅ Producto enviado para revisión.";
+    e.target.reset();
+  } catch (err) {
+    console.error("❌ Error al registrar producto:", err);
+    document.getElementById("mensajeUsuario").innerHTML = "❌ No se pudo registrar el producto.";
+  }
+});
+
