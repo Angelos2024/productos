@@ -8,7 +8,7 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 module.exports = async (req, res) => {
   const ALLOWED_ORIGINS = [
-    "https://productos.vercel.app",
+    "https://productos-amber.vercel.app",
     "https://angelos2024.github.io"
   ];
 
@@ -27,17 +27,17 @@ module.exports = async (req, res) => {
 
   let body = req.body;
   if (typeof body === "string") {
-    try { body = JSON.parse(body); } catch {
+    try {
+      body = JSON.parse(body);
+    } catch {
       return res.status(400).json({ error: "JSON inválido" });
     }
   }
 
   const { accion, producto } = body;
-  if (!accion || !producto) {
-    return res.status(400).json({ error: "Faltan datos" });
-  }
 
   try {
+    // Leer pendientes.json
     const pendientesRes = await octokit.repos.getContent({
       owner: REPO_OWNER,
       repo: REPO_NAME,
@@ -46,10 +46,19 @@ module.exports = async (req, res) => {
     });
 
     const pendientesSha = pendientesRes.data.sha;
-    const pendientes = JSON.parse(Buffer.from(pendientesRes.data.content, "base64").toString());
+    const pendientes = JSON.parse(
+      Buffer.from(pendientesRes.data.content, "base64").toString()
+    );
 
+    // 📥 Acción: LISTAR productos pendientes
+    if (accion === "listar") {
+      return res.status(200).json(pendientes);
+    }
+
+    // 📥 Acción: REGISTRAR nuevo producto
     if (accion === "registrar") {
       pendientes.push(producto);
+
       await octokit.repos.createOrUpdateFileContents({
         owner: REPO_OWNER,
         repo: REPO_NAME,
@@ -59,12 +68,19 @@ module.exports = async (req, res) => {
         sha: pendientesSha,
         branch: BRANCH,
       });
+
       return res.status(200).json({ success: true });
     }
 
-    const match = pendientes.find(p => p.nombre === producto.nombre && p.marca === producto.marca);
-    if (!match) return res.status(404).json({ error: "Producto no encontrado" });
+    // 📌 Validar existencia del producto
+    if (!producto) {
+      return res.status(400).json({ error: "Faltan datos del producto" });
+    }
 
+    const match = pendientes.find(p => p.nombre === producto.nombre && p.marca === producto.marca);
+    if (!match) return res.status(404).json({ error: "Producto no encontrado en pendientes.json" });
+
+    // ✅ Acción: APROBAR producto
     if (accion === "aprobar") {
       const baseRes = await octokit.repos.getContent({
         owner: REPO_OWNER,
@@ -90,6 +106,7 @@ module.exports = async (req, res) => {
       });
     }
 
+    // ❌ Acción: RECHAZAR (o limpiar luego de aprobar)
     const nuevosPendientes = pendientes.filter(p =>
       !(p.nombre === producto.nombre && p.marca === producto.marca)
     );
