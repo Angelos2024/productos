@@ -78,7 +78,7 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local...</strong></p>';
 
-  const base = await fetch("/base_tahor_tame.json").then(r => r.json());
+  const base = await fetch("base_tahor_tame.json").then(r => r.json());
   const clave = normalizeYsingularizar(marca + " " + nombre);
   const encontrado = base.find(p =>
     normalizeYsingularizar(p.marca + " " + p.nombre) === clave
@@ -193,7 +193,7 @@ async function cargarPendientes() {
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-   const res = await fetch('/pendientes.json');
+   const res = await fetch('pendientes.json');
     const productos = await res.json();
     productosPendientes = productos;
 
