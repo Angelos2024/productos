@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>  
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Escáner de Productos Lev 11</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<main class="contenedor">
+  <h1>Escáner de Productos Lev 11</h1>
+
+  <div id="menuInicial">
+    <button onclick="abrirTahor()">🧪 Verificador de productos Tahor</button>
+    <button disabled>🍞 Verificador de productos sin levadura (Próximamente)</button>
+  </div>
+
+  <div id="bloqueTahor" style="display:none">
+
+    <!-- PESTAÑAS SUPERIORES -->
+    <div id="tabs" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+      <div style="flex: 1;">
+        <button id="tabBuscar" class="tab-activa">🔍 Buscar productos</button>
+        <button id="tabRegistrar">📝 Ayúdanos a registrar más productos</button>
+      </div>
+      <button id="adminAccess" style="background:none; border:none; font-size:1.3rem; cursor:pointer;" title="Administrador">🔐</button>
+    </div>
+
+
+    <!-- Buzón de revisiones (inicialmente oculto) -->
+<section id="buzonRevisiones" style="display:none">
+  <h2>📬 Buzón de revisiones</h2>
+  <div id="listaPendientes" class="grupo-formulario">
+    <p>Cargando productos pendientes...</p>
+  </div>
+</section>
+
+    <!-- FORMULARIO DE BÚSQUEDA -->
+    <section id="formBusquedaProducto">
+      <h2>Buscar Producto</h2>
+      <div class="grupo-formulario">
+        <input type="text" id="marcaEntrada" placeholder="Marca *">
+        <input type="text" id="nombreEntrada" placeholder="Nombre del producto *">
+        <input type="text" id="eanEntrada" placeholder="Código de barras">
+      </div>
+
+      <select id="selectCamara" class="dropdown-camara"></select>
+
+      <div class="botones">
+        <button id="botonBusqueda">🔍 Buscar</button>
+        <button id="escanearCodigo">📷 Escanear</button>
+      </div>
+    </section>
+
+    <!-- RESULTADOS -->
+    <section id="analisisResultado"></section>
+
+    <!-- REGISTRO MANUAL -->
+    <section id="registroManual" style="display:none">
+      <h2>Registrar Producto Manualmente</h2>
+      <form id="formRegistroManual">
+        <input type="text" id="marcaManual" placeholder="Marca del producto" required>
+        <input type="text" id="nombreManual" placeholder="Nombre del producto" required>
+        <input type="text" id="paisManual" placeholder="País o región" required>
+        <textarea id="ingredientesManual" placeholder="Ingredientes separados por coma" required></textarea>
+        <button type="submit">Enviar a Revisión</button>
+      </form>
+      <p id="mensajeUsuario"></p>
+    </section>
+
+    <!-- PANEL ADMIN -->
+    <section id="adminPanel" style="display:none; margin-top:2rem">
+      <h2>Modo Administrador</h2>
+      <!-- Aquí va el contenido admin dinámico -->
+    </section>
+
+  </div>
+</main>
+
+<!-- Scripts -->
+<script src="tahor-checker.js"></script>
+<script src="https://unpkg.com/@zxing/library@0.18.6/umd/index.min.js"></script>
+<script src="main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@octokit/rest@19.0.7/dist/octokit.umd.js"
+        onload="loadAdmin()"></script>
+<script>
+  function loadAdmin() {
+    const script = document.createElement("script");
+    script.src = "admin.js";
+    document.body.appendChild(script);
+  }
+</script>
+
+<!-- Tabs y admin -->
+<script>
+ <!-- Tabs y acceso administrador -->
+
+  let adminAutenticado = false;
+
+  function activarTab(idActiva) {
+    document.querySelectorAll('#tabs button').forEach(btn => btn.classList.remove('tab-activa'));
+    document.getElementById(idActiva).classList.add('tab-activa');
+  }
+
+  document.getElementById('tabBuscar').addEventListener('click', () => {
+    document.getElementById('formBusquedaProducto').style.display = 'block';
+    document.getElementById('analisisResultado').style.display = 'block';
+    document.getElementById('registroManual').style.display = 'none';
+    document.getElementById('buzonRevisiones').style.display = 'none';
+    activarTab('tabBuscar');
+  });
+
+  document.getElementById('tabRegistrar').addEventListener('click', () => {
+    document.getElementById('formBusquedaProducto').style.display = 'none';
+    document.getElementById('analisisResultado').style.display = 'none';
+    document.getElementById('registroManual').style.display = 'block';
+    document.getElementById('buzonRevisiones').style.display = 'none';
+    activarTab('tabRegistrar');
+  });
+
+  document.getElementById('adminAccess').addEventListener('click', () => {
+    if (adminAutenticado) {
+      // Ya está autenticado, no volver a pedir contraseña
+      mostrarBuzonAdmin();
+      return;
+    }
+
+    const pass = prompt("🔑 Ingresa la contraseña de administrador:");
+    if (pass === "levitico11") {
+      adminAutenticado = true;
+      document.getElementById('adminPanel').style.display = 'block';
+      mostrarBuzonAdmin(); // esta función debe estar en main.js o admin.js
+      alert("✅ Acceso concedido al modo administrador.");
+    } else {
+      alert("❌ Contraseña incorrecta.");
+    }
+  });
+
+
+
+</script>
+</body>
+</html>

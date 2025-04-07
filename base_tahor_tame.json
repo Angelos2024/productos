@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "salchicha pavo chimex",
+    "marca": "Chimex",
+    "pais": "México",
+    "tahor": false,
+    "ingredientes": [
+      "grasa de cerdo",
+      "gelatina",
+      "colorante e120"
+    ]
+  },
+  {
+    "nombre": "galletas maría gamesa",
+    "marca": "Gamesa",
+    "pais": "México",
+    "tahor": true,
+    "ingredientes": [
+      "harina",
+      "azúcar",
+      "aceite vegetal"
+    ]
+  },
+  {
+    "id": 1743712885621,
+    "marca": "chimex",
+    "nombre": "salchichas con pavo",
+    "pais": "mexico",
+    "ingredientes": [
+      "carnicos (carne de pollo y carne de pavo)",
+      "agua",
+      "harina de trigo",
+      "sal yodada",
+      "saborizantes",
+      "fecula",
+      "cloruro de potasio",
+      "fosfato de sodio",
+      "lactato de potasio",
+      "acetato de potasio",
+      "diacetato de sodio",
+      "eritorbato de sodio",
+      "nitrito de sodio",
+      "carmín"
+    ],
+    "estado": "pendiente",
+    "tahor": false
+  },
+  {
+    "id": 1743787925425,
+    "marca": "Chimex",
+    "nombre": "chimex salchicas con pavo",
+    "pais": "Mexico",
+    "ingredientes": [
+      "carnicos (carne de pollo y carne de pavo)",
+      "agua",
+      "harina de trigo",
+      "sal yodada",
+      "saborizantes",
+      "fecula",
+      "cloruro de potasio",
+      "fosfato de sodio",
+      "lactato de potasio",
+      "acetato de potasio",
+      "diacetato de sodio",
+      "eritorbato de sodio",
+      "nitrito de sodio",
+      "carmín"
+    ],
+    "tahor": false,
+    "estado": "pendiente"
+  }
+]

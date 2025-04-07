@@ -1,0 +1,164 @@
+/* Estilos generales */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f3f3f3;
+  color: #333;
+}
+
+main.contenedor {
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  color: #34495e;
+  margin-top: 2rem;
+}
+
+/* Formularios */
+input, textarea {
+  width: 100%;
+  padding: 0.8rem;
+  margin-top: 0.4rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+textarea {
+  min-height: 90px;
+}
+
+/* Botones */
+button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 0.8rem 1.4rem;
+  margin-top: 0.6rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+.botones {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+@media (min-width: 480px) {
+  .botones {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+/* Secciones dinámicas */
+#analisisResultado,
+#registroManual,
+#adminPanel {
+  margin-top: 2rem;
+  background-color: #fafafa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+/* Mensajes */
+#mensajeUsuario {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+/* Imágenes de productos */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+.grupo-formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.grupo-formulario input {
+  padding: 0.5rem;
+  font-size: 0.95rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.dropdown-camara {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 0.95rem;
+  background-color: #fff;
+  color: #333;
+}
+
+#analisisResultado img {
+  max-width: 100%;
+  margin: 1rem 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+#tabs button {
+  background-color: #eee;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  margin-right: 0.3rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+#tabs button:hover {
+  background-color: #ddd;
+}
+
+#tabs .tab-activa {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.tarjeta-pendiente {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
