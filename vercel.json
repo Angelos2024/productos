@@ -1,7 +1,12 @@
 {
-  "functions": {
-    "api/verificador-api.js": {
-      "runtime": "nodejs18.x"
+  "version": 2,
+  "builds": [
+    { "src": "api/verificador-api.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    {
+      "src": "/api/verificador-api",
+      "dest": "api/verificador-api.js"
     }
-  }
+  ]
 }
