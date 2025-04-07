@@ -21,12 +21,10 @@ let marcaGlobal = '';
 let nombreGlobal = '';
 let eanGlobal = '';
 
-// Escaneo de código de barras desde cámara (mejorado para celular)
 if (escanearCodigoBtn) {
   const codeReader = new ZXing.BrowserBarcodeReader();
   const selectCamara = document.getElementById('selectCamara');
 
-  // Pedir permiso inicial para listar las cámaras con etiquetas visibles
   navigator.mediaDevices.getUserMedia({ video: true }).then(async () => {
     const devices = await codeReader.getVideoInputDevices();
     selectCamara.innerHTML = '';
@@ -61,7 +59,6 @@ if (escanearCodigoBtn) {
   });
 }
 
-
 botonBusqueda.addEventListener('click', async () => {
   const marca = document.getElementById('marcaEntrada').value.trim();
   const nombre = document.getElementById('nombreEntrada').value.trim();
@@ -78,7 +75,7 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local...</strong></p>';
 
-  const base = await fetch("base_tahor_tame.json").then(r => r.json());
+  const base = await fetch("https://raw.githubusercontent.com/angelos2024/productos/main/base_tahor_tame.json").then(r => r.json());
   const clave = normalizeYsingularizar(marca + " " + nombre);
   const encontrado = base.find(p =>
     normalizeYsingularizar(p.marca + " " + p.nombre) === clave
@@ -132,7 +129,6 @@ async function buscarEnOpenFoodFacts(nombre, ean) {
   }
 }
 
-
 function abrirTahor() {
   document.getElementById('menuInicial').style.display = 'none';
   document.getElementById('bloqueTahor').style.display = 'block';
@@ -141,9 +137,6 @@ function abrirTahor() {
   mensajeUsuario.innerHTML = '';
 }
 
-
-
-// Tabs: Buscar vs Registrar
 document.getElementById('tabBuscar').addEventListener('click', () => {
   document.getElementById('formBusquedaProducto').style.display = 'block';
   document.getElementById('analisisResultado').style.display = 'block';
@@ -164,11 +157,7 @@ function activarTab(idActiva) {
   document.getElementById(idActiva).classList.add('tab-activa');
 }
 
-
-
-// Añadir pestaña de Buzón al iniciar sesión como administrador
 function mostrarBuzonAdmin() {
-  // Verifica si ya existe la pestaña
   if (!document.getElementById('tabBuzon')) {
     const nuevaTab = document.createElement('button');
     nuevaTab.id = 'tabBuzon';
@@ -186,14 +175,12 @@ function mostrarBuzonAdmin() {
   }
 }
 
-
-// Cargar productos pendientes desde pendientes.json en GitHub
 async function cargarPendientes() {
   const contenedor = document.getElementById('listaPendientes');
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-   const res = await fetch('pendientes.json');
+    const res = await fetch('https://raw.githubusercontent.com/angelos2024/productos/main/pendientes.json');
     const productos = await res.json();
     productosPendientes = productos;
 
@@ -220,7 +207,6 @@ async function cargarPendientes() {
     console.error(err);
   }
 }
-
 
 let productosPendientes = [];
 
