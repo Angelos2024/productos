@@ -6,11 +6,12 @@ const BRANCH = "main";
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
-export default async function handler(req, res) {
+module.exports = async (req, res) => {
   const ALLOWED_ORIGINS = [
     "https://productos.vercel.app",
     "https://angelos2024.github.io"
   ];
+
   const origin = req.headers.origin;
   if (ALLOWED_ORIGINS.includes(origin)) {
     res.setHeader("Access-Control-Allow-Origin", origin);
@@ -47,7 +48,6 @@ export default async function handler(req, res) {
     const pendientesSha = pendientesRes.data.sha;
     const pendientes = JSON.parse(Buffer.from(pendientesRes.data.content, "base64").toString());
 
-    // 📨 Registro nuevo
     if (accion === "registrar") {
       pendientes.push(producto);
       await octokit.repos.createOrUpdateFileContents({
@@ -90,8 +90,10 @@ export default async function handler(req, res) {
       });
     }
 
-    // ❌ Rechazar o limpiar
-    const nuevosPendientes = pendientes.filter(p => !(p.nombre === producto.nombre && p.marca === producto.marca));
+    const nuevosPendientes = pendientes.filter(p =>
+      !(p.nombre === producto.nombre && p.marca === producto.marca)
+    );
+
     await octokit.repos.createOrUpdateFileContents({
       owner: REPO_OWNER,
       repo: REPO_NAME,
@@ -108,4 +110,4 @@ export default async function handler(req, res) {
     console.error("❌ Error API:", err);
     return res.status(500).json({ error: "Error interno del servidor" });
   }
-}
+};
