@@ -193,7 +193,7 @@ async function cargarPendientes() {
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-    const res = await fetch('https://raw.githubusercontent.com/angelos2024/verificador/main/pendientes.json');
+   const res = await fetch('/pendientes.json');
     const productos = await res.json();
     productosPendientes = productos;
 
