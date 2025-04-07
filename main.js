@@ -180,8 +180,15 @@ async function cargarPendientes() {
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-    const res = await fetch('https://raw.githubusercontent.com/angelos2024/productos/main/pendientes.json');
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accion: "listar" }) // NUEVA ACCIÓN
+    });
+
+    if (!res.ok) throw new Error("Error al listar productos");
     const productos = await res.json();
+
     productosPendientes = productos;
 
     if (!productos.length) {
@@ -202,11 +209,13 @@ async function cargarPendientes() {
       `;
       contenedor.appendChild(tarjeta);
     });
+
   } catch (err) {
     contenedor.innerHTML = "<p style='color:red;'>❌ Error al cargar pendientes.</p>";
     console.error(err);
   }
 }
+
 
 let productosPendientes = [];
 
