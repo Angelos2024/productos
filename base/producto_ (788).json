@@ -1,0 +1,5687 @@
+[
+  {
+    "nombre": "Organic Almonds",
+    "marca": "Equal Exchange",
+    "ean": "0745998206231",
+    "ingredientes": [
+      "Organic almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Cashews",
+    "marca": "Equal Exchange",
+    "ean": "0745998206262",
+    "ingredientes": [
+      "Organic cashews."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Roasted Salted Cashews",
+    "marca": "Equal Exchange",
+    "ean": "0745998206279",
+    "ingredientes": [
+      "organic cashews",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/820/6279/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dried Mango",
+    "marca": "Equal Exchange",
+    "ean": "0745998206286",
+    "ingredientes": [
+      "Organic mango"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pineapple Dried",
+    "marca": "Equal Exchange",
+    "ean": "0745998206293",
+    "ingredientes": [
+      "Organic pineapple"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Wild Apricots",
+    "marca": "Equal Exchange",
+    "ean": "0745998206309",
+    "ingredientes": [
+      "Organic apricots"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chilean Flame Raisins",
+    "marca": "Equal Exchange",
+    "ean": "0745998206330",
+    "ingredientes": [
+      "Raisins",
+      "vegetable oil (palm)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic fruit & nut bar",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998244059",
+    "ingredientes": [
+      "Organic dates",
+      "organic cashews",
+      "organic mangoes",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic fruit & nut bar",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998244066",
+    "ingredientes": [
+      "Organic dates",
+      "organic cashews",
+      "organic pineapple",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic fruit & nut bar",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998244073",
+    "ingredientes": [
+      "Organic dates",
+      "organic cashews",
+      "organic apricots",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light roast organic mind, body & soul whole bean arabica coffee",
+    "marca": "Equal Exchange",
+    "ean": "0745998405009",
+    "ingredientes": [
+      "Organic arabica coffee"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/840/5009/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium roast ethiopian organic full city roast whole bean coffee",
+    "marca": "Equal Exchange",
+    "ean": "0745998411062",
+    "ingredientes": [
+      "Organic arabica coffee"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/841/1062/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Tea",
+    "marca": "Equal Exchange",
+    "ean": "0745998500087",
+    "ingredientes": [
+      "Organic Black Tea Leaves"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/850/0087/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Ginger Herbal Tea",
+    "marca": "Equal Exchange",
+    "ean": "0745998500254",
+    "ingredientes": [
+      "Organic ginger"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/850/0254/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Baking Cocoa",
+    "marca": "Equal Exchange",
+    "ean": "0745998901013",
+    "ingredientes": [
+      "organic cocoa"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/890/1013/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic nonfat milk",
+    "marca": "Equal Exchange",
+    "ean": "0745998902027",
+    "ingredientes": [
+      "*organic cane sugar",
+      "organic nonfat dry milk powder",
+      "*organic cocoa powder - processed with alkali",
+      "organic guar gum",
+      "organic carob bean gum",
+      "sea salt",
+      "*organic vanilla powder (*organic vanilla extract",
+      "organic maltodextrin)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/890/2027/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange, organic spicy cocoa, chili & cinnamon",
+    "marca": "Equal Exchange",
+    "ean": "0745998902133",
+    "ingredientes": [
+      "*organic evaporated sugar cane juice",
+      "*organic cocoa powder - processed with alkali",
+      "organic cinnamon",
+      "organic cayenine pepper",
+      "organic vanilla powder (organic vanilla extract",
+      "organic maltodextrin and organic gum arabic)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange, chocolate chips, bittersweet",
+    "marca": "Equal Exchange",
+    "ean": "0745998903024",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic cocoa powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mint Chocolate With A Delicate Crunch",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998903055",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "peppermint crisps (*organic cane sugar",
+      "organic peppermint oil)",
+      "*organic unrefined whole cane sugar",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange chocolates, organic dark chocolate, panama",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998903086",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange chocolates, dark chocolate caramel crunch with sea salt",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998903093",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "* organic cocoa butter",
+      "organic caramel 10% (*organic raw cane sugar",
+      "organic whole milk powder)",
+      "*organic unrefined whole cane sugar",
+      "sea salt",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange, organic 65% cacao ecuador dark chocolate",
+    "marca": "Equal Exchange",
+    "ean": "0745998903109",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic ground vanilla beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange chocolates, organic dark chocolate, lemon ginger",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998903123",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "candied ginger 12% (organic raw cane sugar",
+      "organic ginger)",
+      "*organic unrefined whole cane sugar",
+      "*organic black pepper",
+      "organic essential lemon oil",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dark Chocolate",
+    "marca": "Equal Exchange",
+    "ean": "0745998903130",
+    "ingredientes": [
+      "*organic raw cane sugar",
+      "* organic chocolate liquor",
+      "*organic cocoa butter",
+      "organic freeze dried raspberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal exchange chocolates, organic dark chocolate, coconut",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998903147",
+    "ingredientes": [
+      "*organic raw cane sugar",
+      "*organic chocolate liquor",
+      "*organic cocoa butter",
+      "*organic coconut (8%)",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Chocolate Crisp",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998903260",
+    "ingredientes": [
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "organic milk powder",
+      "*organic chocolate liquor",
+      "organic rice",
+      "*organic quinoa",
+      "organic soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Chocoalte Peanut Butter",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998903277",
+    "ingredientes": [
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "organic milk powder",
+      "organic roasted peanuts",
+      "*organic chocolate liquor",
+      "sea salt",
+      "organic soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Fruit & Nut",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998903284",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "organic raisins",
+      "organic roasted almonds",
+      "organic soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Eggs",
+    "marca": "Equal Exchange",
+    "ean": "0745998903307",
+    "ingredientes": [
+      "Organic chocolate liquor*",
+      "organic raw cane sugar*",
+      "organic cocoa butter*",
+      "organic unrefined whole cane sugar*",
+      "organic ground vanilla beans*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Chocolate Eggs",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998903314",
+    "ingredientes": [
+      "Organic cocoa butter*",
+      "organic whole milk powder",
+      "organic raw cane sugar*",
+      "organic chocolate liquor*",
+      "organic unrefined whole cane sugar*",
+      "organic ground hazelnuts",
+      "organic ground vanilla beans*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Semi-Sweet Chocolate Chips",
+    "marca": "Equal Exchange",
+    "ean": "0745998903345",
+    "ingredientes": [
+      "*organic raw cane sugar",
+      "*organic chocolate liquor",
+      "*organic cocoa butter"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/890/3345/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bittersweet organic chocolate chips",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998903352",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "* organic cocoa butter",
+      "*organic cocoa powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dark Hot Chocolate",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998990093",
+    "ingredientes": [
+      "*organic evaporated sugar cane juice",
+      "*organic cocoa powder - processed with alkali",
+      "*organic dark chocolate (*organic chocolate liquor",
+      "*organic evaporated sugar cane juice",
+      "*organic cocoa powder)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic chocolate bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990130",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic unrefined whole cane sugar",
+      "*organic ground vanilla beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0130/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dark Chocolate, Almond",
+    "marca": "Equal Exchange Chocolates",
+    "ean": "0745998990147",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "organic chopped almonds (10%)",
+      "*organic unrefined whole cane sugar",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0147/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Classic Milk Chocolate Bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990154",
+    "ingredientes": [
+      "organic raw cane sugar",
+      "organic cocoa butter",
+      "organic whole milk powder",
+      "organic chocolate liquor",
+      "organic unrefined whole cane sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0154/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mint Crunch Dark Chocolate Bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990161",
+    "ingredientes": [
+      "organic chocolate liquor",
+      "organic raw cane sugar",
+      "organic cocoa butter",
+      "peppermint crisps 10% (organic cane sugar",
+      "organic peppermint oil)",
+      "organic unrefined whole cane sugar",
+      "organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0161/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998990165",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal Exchange, Organic Dark Chocolate, Infused Orange, 65% Cacao",
+    "marca": "Equal Exchange",
+    "ean": "0745998990178",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic unrefined whole cane sugar",
+      "natural flavor (essential orange oil)",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0178/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Panama Extra Dark Chocolate Bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990185",
+    "ingredientes": [
+      "organic chocolate liquor",
+      "organic raw cane sugar",
+      "organic cocoa butter",
+      "organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0185/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Caramel Crunch Bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990192",
+    "ingredientes": [
+      "organic chocolate liquor",
+      "organic raw cane sugar",
+      "organic cocoa butter",
+      "organic caramel 10% (organic raw cane sugar",
+      "organic whole milk powder)",
+      "organic unrefined whole cane sugar",
+      "sea salt",
+      "organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0192/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal Exchange Chocolates, Dark Chocolate",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998990208",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "*organic cocoa butter",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Fairly Traded Dark Chocolate Extreme Dark",
+    "marca": "Equal Exchange",
+    "ean": "0745998990215",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic cocoa butter",
+      "*organic raw cane sugar",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0215/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caraml Crunch Milk Chocolate Bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990222",
+    "ingredientes": [
+      "organic raw cane sugar",
+      "organic cocoa butter",
+      "organic whole milk powder",
+      "organic chocolate liquor",
+      "organic caramel 10% (organic raw cane sugar",
+      "organic whole milk powder)",
+      "organic unrefined whole cane sugar",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0222/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Equal Exchange Chocolates, Organic Dark Chocolate, Lemon Ginger With Black Pepper",
+    "marca": "Equal Exchange  Inc.",
+    "ean": "0745998990239",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "* organic cocoa butter",
+      "candied ginger 12% (organic raw cane sugar",
+      "organic ginger)",
+      "*organic unrefined whole cane sugar",
+      "*organic black pepper",
+      "organic essential lemon oil",
+      "* organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almonds & sea salt organic dark chocolate",
+    "marca": "Equal Exchange",
+    "ean": "0745998990642",
+    "ingredientes": [
+      "*organic chocolate liquor",
+      "*organic raw cane sugar",
+      "organic whole almonds (18%)",
+      "*organic cocoa butter",
+      "*organic unrefined whole cane sugar",
+      "sea salt",
+      "*organic ground vanilla beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0642/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Coconut Milk Chocolate Bar",
+    "marca": "Equal Exchange",
+    "ean": "0745998990703",
+    "ingredientes": [
+      "organic coconut palm sugar",
+      "organic chocolate liquor",
+      "organic cocoa butter",
+      "organic coconut flakes",
+      "organic coconut milk powder (organic coconut milk",
+      "organic tapioca maltodextrin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/599/899/0703/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pasteurized frozen egg",
+    "marca": "Pappetti's",
+    "ean": "0746025511038",
+    "ingredientes": [
+      "Whole Eggs",
+      "Monosodium Phosphate added to preserve color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/602/551/1038/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cage-free hard boiled eggs",
+    "marca": "Easy Eggs",
+    "ean": "0746025612421",
+    "ingredientes": [
+      "eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/602/561/2421/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sugar Free Brittle",
+    "marca": "Judy's Candy Company",
+    "ean": "0746068007451",
+    "ingredientes": [
+      "Maltitol",
+      "almonds",
+      "walnuts",
+      "cashews",
+      "brazil nuts",
+      "pecans",
+      "butter (cream",
+      "salt)",
+      "hazel nuts",
+      "natural vanilla flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Judy's, Milk Pecan Caramel Cluster",
+    "marca": "Judy's Candy Company",
+    "ean": "0746068012134",
+    "ingredientes": [
+      "Roasted pecans",
+      "milk chocolate [(sugar",
+      "cocoa butter",
+      "milk",
+      "chocolate liquor) with added lecithin emulsifier and pure vanilla extract]",
+      "caramel [corn syrup",
+      "super kreme (sugar",
+      "milk",
+      "corn syrup",
+      "partially hydrogenated vegetable oil (soybean",
+      "cottonseed oil)",
+      "cream",
+      "salt)",
+      "white sugar",
+      "whole evaporated milk (milk",
+      "dipotassium phosphate. carrageenan",
+      "vitamin d3)",
+      "hydrogenated vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Judy's candy company, english toffee",
+    "marca": "Judy's Candy Company",
+    "ean": "0746068012196",
+    "ingredientes": [
+      "Almonds",
+      "toffee (sugar",
+      "butter (cream",
+      "salt)",
+      "soya lecithin)",
+      "milk chocolate (milk chocolate (sugar",
+      "cocoa butter",
+      "milk chocolate liquor)",
+      "soya lecithin",
+      "vanillin (an artificial flavor))."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Judy's candy company, chocolate fudge with walnuts",
+    "marca": "Judy's Candy Company",
+    "ean": "0746068012738",
+    "ingredientes": [
+      "Sugar",
+      "heavy whipping cream",
+      "butter (cream",
+      "salt)",
+      "half & half cream",
+      "walnuts",
+      "brown sugar",
+      "whole evaporated milk (milk",
+      "dipotassium phosphate",
+      "carrageenan",
+      "vitamin d3)",
+      "corn syrup",
+      "water",
+      "cocoa powder",
+      "natural vanilla flavor",
+      "gelatin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Handmade Gourmet Marshmallows",
+    "marca": "Judy's Candy Company",
+    "ean": "0746068016552",
+    "ingredientes": [
+      "Corn syrup",
+      "white sugar",
+      "water",
+      "egg albumen",
+      "gelatin and cornstarch."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "castor oil",
+    "marca": "vrindavan",
+    "ean": "0746092298054",
+    "ingredientes": [
+      "Certified organic cold pressed ricinus communis (castor) seed oil. Stora hel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/609/229/8054/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Ronnybrook, Creamline Milk",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104100030",
+    "ingredientes": [
+      "Unhomogenized milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Natural Creamline Yogurt",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104130020",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "pure maple syrup",
+      "pure vanilla extract",
+      "skim milk",
+      "active live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "l. rhamnosus",
+      "bifidobacterium lactis)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ronnybrook, creanline yogurt, coconut",
+    "marca": "Ronnybrook",
+    "ean": "0746104130051",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "sugar",
+      "coconut pulp and milk",
+      "nonfat dry milk",
+      "pectin",
+      "natural flavors",
+      "citric acid",
+      "imported live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "l. rhamnosus",
+      "bifidobacterium lactus)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ronnybrook, creamline yogurt, peach",
+    "marca": "Ronnybrook",
+    "ean": "0746104130068",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "peaches",
+      "sugar",
+      "nonfat dry milk",
+      "pectin",
+      "natural flavors",
+      "citric acid",
+      "imported live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "l. rhamnosus",
+      "bifidobacterium lactis"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Drinkable Yogurt",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104140104",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "skim milk",
+      "strawberry base (strawberries",
+      "strawberry flavor",
+      "organic sugar",
+      "pectin",
+      "natural flavors",
+      "citric acid)",
+      "live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "s. lactis",
+      "s. cremoris",
+      "s. diacetylactis",
+      "l. cremoris",
+      "l.rhamnosus",
+      "bifidobacterium lactis)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ronnybrook, All Natural Grade A Drinkable Yogurt, Peach",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104140111",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "skim milk",
+      "peach base (peaches",
+      "organic sugar",
+      "pectin",
+      "natural flavors",
+      "citric acid)",
+      "live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "s. lactis",
+      "s. cremoris",
+      "s. diacetylactis",
+      "l. cremoris",
+      "l. rhamnosus",
+      "bifidobacterium lactis).1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ronnybrook, Plain Drinkable Yogurt",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104140128",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "skim milk",
+      "imported live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "s. lactis",
+      "s. cremoris",
+      "s. diqacetylactis",
+      "l. cremoris",
+      "l. rhamnosus",
+      "bifidobacterium lactis)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ronnybrook, Drinkable Yogurt, Blackberry",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104140135",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "skim milk",
+      "blackberry base (blackberries",
+      "organic sugar",
+      "other natural flavors",
+      "pectin",
+      "citric acid)",
+      "live cultures (l. bulgaricus",
+      "l. yogurll",
+      "l. acidophilus",
+      "s. themophilus",
+      "s. lactis",
+      "s. cremoris",
+      "s. diacetylactis",
+      "l. creamoris",
+      "l. rhamnosus",
+      "bifidobacterium lactis)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Drinkable Yogurt",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104140142",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "skim milk",
+      "mango base (mangos",
+      "organic sugar",
+      "pectin",
+      "natural flavors",
+      "citric acid)",
+      "live cultures (l. bulgaricus",
+      "l. yogurtii",
+      "l. acidophilus",
+      "s. thermophilus",
+      "s. lactis",
+      "s. cremoris",
+      "s. diacetylactis",
+      "l. cremoris",
+      "l. rhamnosus",
+      "bifidobacterium lactis)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Drinkable Lowfat Yogurt",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104140180",
+    "ingredientes": [
+      "Pasteurized lowfat milk",
+      "blueberry and pomegranate base (organic sugar",
+      "blueberry puree",
+      "water",
+      "pomegranate juice concentrate",
+      "blueberry and pomegranate flavor with other natural flavors",
+      "pectin",
+      "citric acid)",
+      "live cultures (l. bulgaricus",
+      "l yogurtii",
+      "l acidophilus",
+      "s. thermophilus",
+      "s. lactis",
+      "s. cremoris",
+      "s. diacetylactis",
+      "l cremoris",
+      "l rhamnosus",
+      "bifidobacterium lactis)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "blueberry and pomegranate base (organic sugar",
+        "razon": "Contiene blueberry and pomegranate base (organic sugar, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "pomegranate juice concentrate",
+        "razon": "Contiene pomegranate juice concentrate, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "blueberry and pomegranate flavor with other natural flavors",
+        "razon": "Contiene blueberry and pomegranate flavor with other natural flavors, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamline Milk",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104144041",
+    "ingredientes": [
+      "Milk",
+      "sugar",
+      "cocoa processed with alkali",
+      "nonfat dry milk",
+      "guar gum",
+      "carrageenan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/610/414/4041/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kefir",
+    "marca": "Ronnybrook",
+    "ean": "0746104199058",
+    "ingredientes": [
+      "WHOLE MILK",
+      "SKIM MILK",
+      "BLUEBERRY",
+      "ORGANIC CANE SUGAR",
+      "BLUEBERRY PUREE",
+      "WATER",
+      "POMEGRANATE JUICE CONCENTRATE",
+      "BLUEBERRY",
+      "POMEGRANATE FLAVORS",
+      "NATURAL FLAVORS",
+      "PECTIN",
+      "CITRIC ACID",
+      "KEFIR GRAINS",
+      "MICROFLORA",
+      "KEFIR YEASTS",
+      "LACTIC ACID BACTERIA: LACTOCOCCUS LACTIS SUBSP",
+      "LEUCONOSTOC SP",
+      "LACTOBACILLUS SP",
+      "STREPTOCOCCUS THERMOPHILUS"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "POMEGRANATE JUICE CONCENTRATE",
+        "razon": "Contiene POMEGRANATE JUICE CONCENTRATE, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "POMEGRANATE FLAVORS",
+        "razon": "Contiene POMEGRANATE FLAVORS, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/610/419/9058/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamline Milk",
+    "marca": "Ronnybrook Farm Dairy  Inc.",
+    "ean": "0746104400031",
+    "ingredientes": [
+      "Milk",
+      "sugar",
+      "cocoa powder",
+      "guar gum",
+      "carrageenan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/610/440/0031/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Chocolate milk",
+    "marca": "Ronny Brook",
+    "ean": "0746104410016",
+    "ingredientes": [
+      "MILK",
+      "SUGAR",
+      "COCOA",
+      "NON-FAT DRY",
+      "MILK",
+      "CARRAGEENAN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/610/441/0016/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "1% Low Fat Milk",
+    "marca": "Hudson Valley Fresh",
+    "ean": "0746104555427",
+    "ingredientes": [
+      "Milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mouliné de Légumes Bio",
+    "marca": "Liebig",
+    "ean": "07461163",
+    "ingredientes": [
+      "Eau",
+      "carotte*",
+      "pomme de terre&quot",
+      "oignon*",
+      "céleri-rave*",
+      "chou-fleur*",
+      "poireau*",
+      "courgette“",
+      "crème“ en poudre",
+      "sel de mer",
+      "amidon de maïs*",
+      "arôme naturel. * issus de l’agriculture biologique. Peut contenir des traces de blé (gluten) et œuf. 1Le"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/746/1163/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Achla Hummus",
+    "marca": "Strauss Fresh Foods Ltd.",
+    "ean": "0746132000937",
+    "ingredientes": [
+      "Chickpeas (water",
+      "chickpeas",
+      "sodium bicarbonate water)",
+      "sesame seed paste",
+      "canola oil",
+      "salt",
+      "citric acid",
+      "garlic",
+      "potassium sorbate (preservative)",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bittersweet chocolate coins",
+    "marca": "Elite",
+    "ean": "0746132001255",
+    "ingredientes": [
+      "Sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin & pgpr (emulsifiers)",
+      "artificial flavor (vanillin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/613/200/1255/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Houmous picanti au piment rouge",
+    "marca": "Strauss",
+    "ean": "0746132001545",
+    "ingredientes": [
+      "Houmous: Pois chiches cuits 60% (eau",
+      "pois chiches",
+      "correcteur d'acidité (bicarbonate de sodium)",
+      "eau",
+      "pâte de _sésame_ 14%",
+      "huile végétale (colza)",
+      "sel",
+      "acide citrique",
+      "épices",
+      "ail",
+      "conservateur (sorbate de potassium).  Salade épicée de piments: eau",
+      "piments rouges 1%",
+      "huile végétale (colza)",
+      "coriandre",
+      "ail",
+      "sel",
+      "épices",
+      "conservateur (sorbate de potassium)",
+      "acide citrique",
+      "stabilisants (gomme xanthate)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/613/200/1545/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Houmous aux pignons de pin",
+    "marca": "Strauss",
+    "ean": "0746132001552",
+    "ingredientes": [
+      "Pois chiches 60% (eau",
+      "pois chiches",
+      "correcteur d'acidité (bicarbonate de sodium)",
+      "eau",
+      "pâte de _sésame_ 14%",
+      "huile végétale (colza)",
+      "_pignons de pin_ 1.8%",
+      "sel",
+      "acide citrique",
+      "épices",
+      "ail",
+      "conservateur: (sorbate de potassium)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/613/200/1552/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Achla Humus With Zatar 400GR",
+    "marca": "Strauss",
+    "ean": "0746132001569",
+    "ingredientes": [
+      "Pois chiches cuits 60% (eau",
+      "pois chiches",
+      "correcteur d'acidité (bicarbonate de sodium))",
+      "eau",
+      "pâte de sésame 14%",
+      "huile végétale (colza)",
+      "garniture d'hysope 1.3% (graines de sésame",
+      "hysope)",
+      "sel",
+      "acide citrique",
+      "épices",
+      "huile végétale (olive)",
+      "ail",
+      "conservateur (sorbate de potassium)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Peach Pepper Jelly",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143001411",
+    "ingredientes": [
+      "Peach juice",
+      "pure cane sugar",
+      "apple cider vinegar",
+      "peppers",
+      "pectin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry Fig Syruo",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143001466",
+    "ingredientes": [
+      "Figs",
+      "strawberries",
+      "water",
+      "cane sugar",
+      "corn syrup",
+      "lemon juice",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hot Cinnamon Apple Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002029",
+    "ingredientes": [
+      "Corn syrup",
+      "apples",
+      "pure cane sugar",
+      "light brown sugar lemon juice",
+      "cinnamon oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pumpkin Spice Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002036",
+    "ingredientes": [
+      "Corn syrup",
+      "pumpkin",
+      "water pure cane sugar",
+      "light brown sugar",
+      "lemon juice cinnamon",
+      "nutmeg",
+      "ground cloves",
+      "allspice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple Butter Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002043",
+    "ingredientes": [
+      "Corn syrup",
+      "apples",
+      "pure cane sugar",
+      "dark brown sugar",
+      "light brown sugar",
+      "apple juice",
+      "nutmeg",
+      "cloves",
+      "cinnamon",
+      "allspice",
+      "lemon juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry patch, blueberry syrup, blueberry",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002074",
+    "ingredientes": [
+      "Corn syrup",
+      "blueberries",
+      "pure cane sugar",
+      "lemon juice",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/614/300/2074/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Peach Cobbler Syrup",
+    "marca": "Blackberry Patch",
+    "ean": "0746143002081",
+    "ingredientes": [
+      "Corn syrup",
+      "peaches",
+      "pure cane sugar",
+      "water",
+      "lemon juice",
+      "natural flavorings",
+      "cinnamon."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Starbucks medium roast columbia ground coffee",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002135",
+    "ingredientes": [
+      "Corn syrup",
+      "maple syrup",
+      "water",
+      "natural butter flavoring",
+      "natural maple flavoring",
+      "natural praline flavoring",
+      "natural caramel coloring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Triple Berry Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002142",
+    "ingredientes": [
+      "Corn syrup",
+      "cane sugar",
+      "blackberries",
+      "blueberries",
+      "raspberries",
+      "lemon juice",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted Pecan Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002197",
+    "ingredientes": [
+      "Corn syrup",
+      "water",
+      "vanilla flavoring",
+      "pecan flavoring",
+      "caramel color",
+      "pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/614/300/2197/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Red Ripe Strawberry Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143002241",
+    "ingredientes": [
+      "Corn syrup",
+      "strawberries",
+      "cane sugar",
+      "lemon juice",
+      "raspberry juice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa",
+    "marca": "Blackberry Patch",
+    "ean": "0746143007208",
+    "ingredientes": [
+      "Diced tomatoes",
+      "blackberry puree",
+      "pure cane sugar",
+      "onions",
+      "tomato paste",
+      "jalapeno peppers",
+      "vinegar",
+      "citric acid",
+      "garlic",
+      "salt",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa",
+    "marca": "Blackberry Patch",
+    "ean": "0746143007222",
+    "ingredientes": [
+      "Diced tomatoes",
+      "red raspberry puree",
+      "pure cane sugar",
+      "onion",
+      "tomato paste",
+      "jalapeno peppers",
+      "vinegar",
+      "citric acid",
+      "garlic",
+      "salt",
+      "spices",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa",
+    "marca": "Blackberry Patch",
+    "ean": "0746143007239",
+    "ingredientes": [
+      "Diced tomatoes",
+      "apples",
+      "pure cane sugar",
+      "apple juice",
+      "onion",
+      "tomato paste",
+      "jalapeno peppers",
+      "vinegar",
+      "citric acid",
+      "garlic",
+      "salt",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peach salsa",
+    "marca": "Blackberry Patch",
+    "ean": "0746143007246",
+    "ingredientes": [
+      "Diced tomatoes",
+      "peaches",
+      "onion",
+      "jalapeno peppers",
+      "pure cane sugar",
+      "tomato paste",
+      "vinegar",
+      "citric acid",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/614/300/7246/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Muscadine Syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143100015",
+    "ingredientes": [
+      "Corn syrup",
+      "muscadine juice",
+      "lemon juice",
+      "pure cane sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peach syrup",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143100145",
+    "ingredientes": [
+      "Maltitol",
+      "peaches",
+      "natural peaches flavoring",
+      "lemon juice",
+      "butter flavor",
+      "cinnamon."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mama's choice, premium blackberry syrup, blackberry",
+    "marca": "Mama,  Blackberry Patch Inc.",
+    "ean": "0746143400191",
+    "ingredientes": [
+      "Corn syrup",
+      "blackberries",
+      "pure cane sugar",
+      "lemon juice",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mama's choice, syrup, blueberry, premium",
+    "marca": "Mama,  Blackberry Patch Inc.",
+    "ean": "0746143400238",
+    "ingredientes": [
+      "Corn syrup",
+      "blueberries",
+      "pure cane sugar",
+      "lemon juice",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry Patch, Raspberry Lime Topping For Breakfast And Dessert",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143400849",
+    "ingredientes": [
+      "Corn syrup",
+      "pure cane sugar",
+      "raspberries",
+      "lime juice",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry patch, cinnamon apple topping, cinnamon, apple",
+    "marca": "Blackberry Patch Inc.",
+    "ean": "0746143400863",
+    "ingredientes": [
+      "Corn syrup",
+      "apples",
+      "pure cane sugar",
+      "lemon juice",
+      "spices",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Pumpkin Spice Syrup",
+    "marca": "Blackberry patch",
+    "ean": "0746143412880",
+    "ingredientes": [
+      "Pure cane sugar",
+      "pumpkin",
+      "light brown sugar",
+      "lemon juice",
+      "cinnamon",
+      "nutmeg",
+      "cloves and allspice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Apple Butter Syrup",
+    "marca": "Blackberry Patch Inc., Blackberry patch",
+    "ean": "0746143412897",
+    "ingredientes": [
+      "Apples",
+      "pure cane sugar",
+      "lemon juice",
+      "cinnamon",
+      "cloves",
+      "nutmeg",
+      "allspice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry Ketchup",
+    "marca": "Blackberry Patch",
+    "ean": "0746143413436",
+    "ingredientes": [
+      "Blackberries",
+      "pure cane sugar",
+      "apple cider vinegar",
+      "key lime juice",
+      "balsamic vinegar",
+      "lemon juice",
+      "cinnamon",
+      "salt",
+      "ginger",
+      "cayenne pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ketchup",
+    "marca": "Blackberry Patch",
+    "ean": "0746143413443",
+    "ingredientes": [
+      "Blueberries",
+      "pure cane sugar",
+      "dark brown sugar",
+      "balsamic vinegar",
+      "lemon juice",
+      "onion powder",
+      "garlic powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry Syrup 3 Ingredients",
+    "marca": "Blackberry patch",
+    "ean": "0746143413832",
+    "ingredientes": [
+      "strawberries",
+      "cane sugar",
+      "lemon juice blackberry patch"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/614/341/3832/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen Chicken Mo:mo",
+    "marca": "Hamro Mo:mo",
+    "ean": "0746160756837",
+    "ingredientes": [
+      "Ingredients FROZEN CHICKEN MO:MO MO: MO Chicken Mince",
+      "Ginger",
+      "Garlic",
+      "Vegetable Oil",
+      "Salt",
+      "Onions",
+      "Shallots",
+      "Coriander",
+      "Mo:Mo Spices &Flour Sauce Achar Tomato",
+      "Chilli",
+      "Fresh Herbs",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/616/075/6837/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "Cooked Easy Peel Shrimp Iqf",
+    "marca": "Choice Canning Co. Inc.",
+    "ean": "0746167110342",
+    "ingredientes": [
+      "Shrimp",
+      "water",
+      "sodium tripolyphosphate (to retain moisture)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salad Shrimp",
+    "marca": "Tastee Choice Foods",
+    "ean": "0746167570245",
+    "ingredientes": [
+      "Shrimp",
+      "water",
+      "sodium tripolyphosphate",
+      "salt",
+      "natural and artificial colors (paprika",
+      "fd&c red no.3)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shrimp Cooked Peeled, Tail-Off",
+    "marca": "Wal Mart Stores",
+    "ean": "0746167571242",
+    "ingredientes": [
+      "Shrimp",
+      "water",
+      "salt",
+      "sodium tripolyphosphate (to retain moisture) natural & artificial colors (paprika",
+      "fd & c red #40)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raw Shrimp Jumbo",
+    "marca": "Wal-Mart Stores  Inc",
+    "ean": "0746167691094",
+    "ingredientes": [
+      "Farm raised shrimp (litopenaeus vannamei)",
+      "water",
+      "salt",
+      "sodium tripolyphosphate (to retain moisture)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shrimp Primavera",
+    "marca": "Taste Choice",
+    "ean": "0746167810020",
+    "ingredientes": [
+      "Cooked pasta: durum wheat flour",
+      "water",
+      "mild marinara sauce: tomato",
+      "water",
+      "tomato paste",
+      "onion",
+      "olive oil",
+      "cream (water",
+      "edible vegetable fat",
+      "liquid glucose",
+      "milk solids)",
+      "sugar",
+      "seasoning powder (wheat flour",
+      "sugar",
+      "salt",
+      "milk solids (whey powder",
+      "lactose)",
+      "soy sauce powder (wheat flour",
+      "soya sauces",
+      "corn starch",
+      "salt)",
+      "dehydrated onion & garlic powder",
+      "yeast extract",
+      "hydrolyzed vegetable protein",
+      "pepper)",
+      "garlic",
+      "paprika",
+      "salt",
+      "parsley",
+      "modified starch",
+      "xanthan gum. shrimp: shrimp",
+      "salt",
+      "sodium phosphate",
+      "carrots",
+      "broccoli florets."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bayou recipe cookin' shrimp & sausage gumbo spicy mix of creole seasoned vegetables, plump shrimp and andouille sausage simmered in a spicy southern inspired roux",
+    "marca": "Tastee Choice",
+    "ean": "0746167810129",
+    "ingredientes": [
+      "Vegetables: okra",
+      "tomato",
+      "celery",
+      "onions. green bell peppers.precooked white rice: long grain",
+      "parboiled white rice (rice",
+      "water) shrimp: uncooked shrimp",
+      "water",
+      "sodium phosphate. andouille sausage: pork",
+      "water",
+      "seasoning (dehydrated garlic and onion",
+      "paprika",
+      "spices",
+      "sugar",
+      "salt",
+      "sassafras)",
+      "less than 2% salt",
+      "potato starch",
+      "spices",
+      "smoke flavoring",
+      "paprika",
+      "natural flavor. gumbo roux seasoning: wheat flour (unbleached wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "hydrolyzed soy protein",
+      "salt",
+      "maltodextrin",
+      "caramel color",
+      "spices",
+      "dehydrated garlic",
+      "corn syrup solids",
+      "onion powder",
+      "chicken fat",
+      "silicon dioxide (prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shrimp & Sausage Jambalaya",
+    "marca": "Tastee Choice",
+    "ean": "0746167810136",
+    "ingredientes": [
+      "Precooked white rice: (long grain",
+      "parboiled white rice [rice",
+      "water]). vegetables :(tomatoes",
+      "celery",
+      "onions",
+      "green bell peppers). shrimp: (uncooked shrimp",
+      "water",
+      "sodium phosphate). andouille pork sausage: (pork",
+      "water",
+      "seasoning {dehydrated garlic & onion",
+      "paprika",
+      "spices",
+      "sugar",
+      "salt",
+      "sassafras}",
+      "less than 2% salt",
+      "potato starch",
+      "spices",
+      "smoke flavoring",
+      "paprika",
+      "natural flavor.)",
+      "creole seasoning: (salt",
+      "paprika",
+      "red pepper and other spices",
+      "garlic with less than 2% silicon dioxide added to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shrimp Creole",
+    "marca": "Tastee Choice",
+    "ean": "0746167810143",
+    "ingredientes": [
+      "Precooked white rice: long grain",
+      "parboiled white rice (rice",
+      "water)",
+      "vegetables: tomatoes",
+      "celery",
+      "onions",
+      "green bell peppers",
+      "creole sauce",
+      "water",
+      "tomatoes",
+      "modified food starch",
+      "lemon juice powder (corn syrup solids",
+      "lemon juice",
+      "lemon oil",
+      "bht)",
+      "spices",
+      "salt",
+      "lemon peel",
+      "citric acid",
+      "dehydrated bell peppers",
+      "parsley",
+      "potassium sorbate 0.20%",
+      "sodium benzoate 0.10% as preservatives",
+      "shrimp: uncooked shrimp",
+      "water",
+      "sodium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken & sausage gumbo",
+    "marca": "Choice Canning Co. Inc.",
+    "ean": "0746167820074",
+    "ingredientes": [
+      "Vegetables: okra",
+      "tomato",
+      "celery",
+      "onions green bell peppers precooked white rice: long grain",
+      "parboiled white rice (rice",
+      "water) chicken strips: chicken white meat",
+      "water",
+      "modified food starch",
+      "salt sodium phosphate. andouille sausage: pork",
+      "water",
+      "seasoning (dehydrated garlic and onion",
+      "paprika",
+      "spices",
+      "sugar",
+      "salt",
+      "sassafras)",
+      "less than 2% salt",
+      "potato starch",
+      "spices",
+      "smoke flavoring",
+      "paprika",
+      "natural flavor. gumbo roux seasoning: wheat flour (unbleached wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "hydrolyzed soy protein",
+      "salt",
+      "maltodextrin",
+      "caramel color",
+      "spices",
+      "dehydrated garlic",
+      "corn syrup solids",
+      "onion powder",
+      "chicken fat",
+      "silicon dioxide (prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shrimp fried rice",
+    "marca": "Tastee choice",
+    "ean": "0746167840041",
+    "ingredientes": [
+      "WHITE RICE (WATER",
+      "RICE). ORIENTAL SAUCE: WATER",
+      "OYSTER SAUCE (SUGAR",
+      "SALT",
+      "MODIFIED STARCH",
+      "OYSTER EXTRACT",
+      "SOY PROTEIN",
+      "WATER) SUNFLOWER OIL",
+      "MODIFIED STARCH",
+      "LIGHT SOY SAUCE ( WATER",
+      "SOYA BEANS",
+      "WHEAT",
+      "SALT)",
+      "SEASONING POWDER (WHEAT FLOUR",
+      "SUGAR",
+      "SALT",
+      "MILK SOLIDS (WHEY POWDER",
+      "LACTOSE)",
+      "DEHYDRATED ONION & GARLIC POWDER",
+      "YEAST EXTRACT",
+      "PEPPER)",
+      "GARLIC",
+      "SOY SAUCE (SOYA BEAN EXTRACT(WATER",
+      "SOY BEANS",
+      "WHEAT",
+      "SALT)",
+      "MOLASSES",
+      "CARAMEL)",
+      "GINGER",
+      "VINEGAR",
+      "SALT",
+      "SUGAR",
+      "MALIC ACID",
+      "CITRIC ACID",
+      "XANTHAN GUM. SHRIMP: (SHRIMP",
+      "WATER",
+      "SALT",
+      "SODIUMTRI-POLY - PHOSPHATE) CARROTS",
+      "GREEN BEANS",
+      "YELLOW BELL PEPPERS",
+      "CELERY",
+      "GREEN ONIONS. CONTAINS: OYSTER",
+      "SHRIMP",
+      "MILK",
+      "WHEAT",
+      "SOY. TASTEE CHOICE FOODS TEL.1.888.8.TASTEE MON-FRI 9:00AM-5:00PM EST WEB: TASTEECHOICE.COM P.O. BOX 3863 JERSEY CITY",
+      "NJ 07303 USA 2012 CHOICE CANNING CO.",
+      "INC. PRODUCT OF USA PACKED IN USA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/616/784/0041/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kara Lahana Sarma Dolma",
+    "marca": "MODA",
+    "ean": "0746241180179",
+    "ingredientes": [
+      "Black Cabbage",
+      "Onion",
+      "Rice",
+      "Mint",
+      "Salt",
+      "Pepper",
+      "Parsley",
+      "Sugar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/624/118/0179/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ranch",
+    "marca": "Aliño",
+    "ean": "0746242350434",
+    "ingredientes": [
+      "Agua",
+      "maltodextrina",
+      "almidón modificado de maíz (espesante)",
+      "glucosa",
+      "jarabe de maiz alto en fructosa",
+      "sal",
+      "vinagre",
+      "aceite vegetal de soya",
+      "sabor lácteo artificial",
+      "dióxido de titanio (colorante artificial)",
+      "especias deshidratadas",
+      "ácido láctico (regulador de acidez)",
+      "goma xantan (espesante)",
+      "sal reducida en sodio",
+      "sucralosa (edulcorante)",
+      "benzoato de sodio y sorbato de potasio (preservantes)",
+      "glutamato monosódico (notenciador de sabor) polisorbato (emulsionante)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Peru"
+  },
+  {
+    "nombre": "Light mermelada Mora",
+    "marca": "delga-c",
+    "ean": "0746242350519",
+    "ingredientes": [
+      "Moras",
+      "agua",
+      "polidextrosa",
+      "pectina (gelificante)",
+      "goma algarrobo (espesante)",
+      "colorante caramelo",
+      "goma xantan (espesante)",
+      "colorante morado",
+      "SUcralosa (edulcorante)",
+      "acesulfame (edulcorante)",
+      "de potasio saborizante identico al natural de acido ascorbico (antioxidante)",
+      "cloruro de calcio",
+      "sorbato de potasio (preservante)",
+      "rojo #40 (colorante)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/624/235/0519/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Light mermelada guayaba",
+    "marca": "Delga-C",
+    "ean": "0746242350526",
+    "ingredientes": [
+      "Agua",
+      "guayaba",
+      "polidextrosa",
+      "pectina (gelificante",
+      "acido citrico (regulador de acidez)",
+      "xantan (espesante)",
+      "goma saborizante identico al natural de guayaba",
+      "(espesante)",
+      "sucralosa (edulcorante)",
+      "acesulfame de potasio (edulcorante)",
+      "colorante caramelo",
+      "acido ascorbico (antioxidante)",
+      "cloruro de calcio",
+      "sorbato de potasio (preservante)",
+      "rojo #40 (colorante). goma algarrobo"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/624/235/0526/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Mediterranean Herb Oil",
+    "marca": "Lesley Elizabeth",
+    "ean": "0746258100016",
+    "ingredientes": [
+      "Canola & olive oil",
+      "balsamic vinegar (sulfites)",
+      "salt",
+      "onion",
+      "garlic",
+      "italian seasoning",
+      "oregano",
+      "rosemary",
+      "bell pepper",
+      "thyme",
+      "crushed red pepper",
+      "lavender",
+      "black pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Basil & Garlic Oil",
+    "marca": "Lesley Elizabeth  Inc.",
+    "ean": "0746258100023",
+    "ingredientes": [
+      "Canola & olive oil",
+      "balsamic vinegar (sulfites)",
+      "garlic",
+      "salt",
+      "basil",
+      "parsley",
+      "onion",
+      "black pepper",
+      "italian seasoning."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic Rosemary Grilling and Saute' Oil",
+    "marca": "Lesley Elizabeth",
+    "ean": "0746258100368",
+    "ingredientes": [
+      "Canola & olive oil",
+      "salt",
+      "onion",
+      "garlic",
+      "italian seasoning",
+      "oregano",
+      "rosemary",
+      "bell pepper",
+      "thyme",
+      "crushed red pepper",
+      "lavender",
+      "black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/625/810/0368/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lesley Elizabeth Inc., Herbes De Provence Seasoning",
+    "marca": "Lesley Elizabeth Inc.",
+    "ean": "0746258300331",
+    "ingredientes": [
+      "Garlic",
+      "thyme",
+      "basil",
+      "salt",
+      "onion",
+      "oregano",
+      "rosemary",
+      "lavender",
+      "black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lesley Elizabeth Inc., Sundried Tomato Seasoning & Pesto",
+    "marca": "Lesley Elizabeth Inc.",
+    "ean": "0746258300393",
+    "ingredientes": [
+      "Onion",
+      "garlic",
+      "tomato (sulfies) basil",
+      "parsley",
+      "salt",
+      "black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petit D'Affinois, Creamy Soft Ripened Cheese",
+    "marca": "Fromager D'Affinois",
+    "ean": "0746395098085",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "cream",
+      "ferments",
+      "garlic & fine herbs (1.5%)",
+      "salt",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mini double cream, mini soft ripened cheese",
+    "marca": "Fromager D'Affinois",
+    "ean": "0746395129093",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "cream",
+      "ferments",
+      "salt",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Triple Garlic Salsa",
+    "marca": "The Garlic Survival Co",
+    "ean": "0746454123123",
+    "ingredientes": [
+      "Roasted tomatoes",
+      "roasted garlic",
+      "pickled garlic",
+      "jalapenos",
+      "onions",
+      "parsley",
+      "vinegar",
+      "_celery_",
+      "cilantro",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/645/412/3123/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomatillo Salsa",
+    "marca": "The Garlic Survival Co",
+    "ean": "0746454123130",
+    "ingredientes": [
+      "Fire roasted tomatillos",
+      "onio",
+      "garlic",
+      "jalapeno",
+      "cilantro",
+      "lime & pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/645/412/3130/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mediterranean Ring Bread",
+    "marca": "Avo’s",
+    "ean": "0746590010189",
+    "ingredientes": [
+      "Unbleached wheat flour (flour",
+      "niacin",
+      "thiamine",
+      "riboflavin)",
+      "malted barley flour",
+      "filtered water",
+      "salt",
+      "vegetable oil (canola oil)",
+      "may contain sesame seeds",
+      "yeast",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Fava Beans",
+    "marca": "Golchin",
+    "ean": "0746646102417",
+    "ingredientes": [
+      "Yellow fava beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pomegranate Juice",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646200748",
+    "ingredientes": [
+      "concentrate & water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Balsamic Vinegar Of Modena",
+    "marca": "Golchin",
+    "ean": "0746646202605",
+    "ingredientes": [
+      "Balsamic vinegar of modena."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Hedysarum Water",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646202957",
+    "ingredientes": [
+      "Hedysarum",
+      "distilled water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Dillweed Water",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646202988",
+    "ingredientes": [
+      "Dillweed",
+      "distilled water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Mint Water",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646202995",
+    "ingredientes": [
+      "Distilled water",
+      "mint flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chick Peas",
+    "marca": "Golchin",
+    "ean": "0746646300806",
+    "ingredientes": [
+      "Chick peas",
+      "water",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Beans",
+    "marca": "Golchin",
+    "ean": "0746646300820",
+    "ingredientes": [
+      "Black beans",
+      "water",
+      "salt",
+      "acid ascorbic"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Kidney Beans",
+    "marca": "Golchin",
+    "ean": "0746646300837",
+    "ingredientes": [
+      "Red kidney beans",
+      "water",
+      "sugar",
+      "salt",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tahini",
+    "marca": "Golchin",
+    "ean": "0746646302121",
+    "ingredientes": [
+      "Hulled sesame seeds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Sliced Beets",
+    "marca": "Golchin",
+    "ean": "0746646303159",
+    "ingredientes": [
+      "Beetroot",
+      "water",
+      "vinegar",
+      "salt (nacl)",
+      "garlic",
+      "green chili",
+      "tarragon leaves",
+      "and calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Vegetables",
+    "marca": "Golchin",
+    "ean": "0746646303166",
+    "ingredientes": [
+      "Water",
+      "gherkins",
+      "radish",
+      "cauliflower",
+      "carrot",
+      "red bell pepper",
+      "vinegar",
+      "salt",
+      "(nacl)",
+      "garlic",
+      "green chili",
+      "tarragon leaves and calcium cholride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Vegetables",
+    "marca": "Golchin",
+    "ean": "0746646303180",
+    "ingredientes": [
+      "Water",
+      "gherkins",
+      "radish",
+      "cauliflower",
+      "carrot",
+      "red bell pepper",
+      "vinegar",
+      "salt (naci)",
+      "garlic",
+      "green chili",
+      "tarragon leaves and calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Cucumbers In Brine",
+    "marca": "Golchin",
+    "ean": "0746646303326",
+    "ingredientes": [
+      "Cucumbers",
+      "water",
+      "salt",
+      "acetic acid",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Cucumbers",
+    "marca": "Golchin",
+    "ean": "0746646303333",
+    "ingredientes": [
+      "Cucumbers",
+      "water",
+      "salt",
+      "acetic acid",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Cucumbers In Brine",
+    "marca": "Golchin",
+    "ean": "0746646303371",
+    "ingredientes": [
+      "Cucumbers",
+      "water",
+      "salt",
+      "acetic acid",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Cucumbers In Brine",
+    "marca": "Golchin",
+    "ean": "0746646303388",
+    "ingredientes": [
+      "Cucumbers",
+      "water",
+      "salt",
+      "acetic acid",
+      "spices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Turnips",
+    "marca": "Golchin",
+    "ean": "0746646303685",
+    "ingredientes": [
+      "Vinegar",
+      "turnip",
+      "water",
+      "garlic",
+      "salt",
+      "jalapeno",
+      "beet color",
+      "citric acid",
+      "beet powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Jalapenos",
+    "marca": "Golchin",
+    "ean": "0746646303708",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "distilled vinegar",
+      "salt",
+      "calcium chloride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Giardeniera",
+    "marca": "Golchin",
+    "ean": "0746646303715",
+    "ingredientes": [
+      "Cauliflower",
+      "water",
+      "distilled vinegar",
+      "carrots",
+      "celery",
+      "tomatoes",
+      "pickles",
+      "olives",
+      "onions",
+      "peppers",
+      "salt",
+      "spices",
+      "sodium bisulfite (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cracked Green Olives With Garlic",
+    "marca": "Golchin",
+    "ean": "0746646303739",
+    "ingredientes": [
+      "Cracked green olives",
+      "water",
+      "parsley",
+      "garlic 1% vinager",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Cracked Green Oiives, Lemon",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646303753",
+    "ingredientes": [
+      "Cracked green olives",
+      "water",
+      "lemon* (10%)",
+      "vinegar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cracked Green Olives With Chili Peppers",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646303760",
+    "ingredientes": [
+      "Cracked green olives",
+      "water",
+      "chili peppers 10%",
+      "black pepper",
+      "vinegar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Baby Persian Pickles",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646303777",
+    "ingredientes": [
+      "Pickled cucumber",
+      "tarragon",
+      "garlic",
+      "pepper",
+      "water",
+      "salt",
+      "cane vinegar",
+      "potassium sorbate less than 0.05%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Persian Pickles",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646303784",
+    "ingredientes": [
+      "Pickled cucumber",
+      "tarragon",
+      "garlic",
+      "pepper",
+      "water",
+      "salt",
+      "cane vinegar",
+      "potassium sorbate less than 0.05%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peperoncini",
+    "marca": "Golchin",
+    "ean": "0746646303913",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "distilled vinegar",
+      "salt",
+      "citric acid",
+      "benzoate",
+      "sodium bisulfite (preservative)",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/664/630/3913/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jalapeno",
+    "marca": "Golchin",
+    "ean": "0746646304033",
+    "ingredientes": [
+      "Jalapeno",
+      "white vinegar",
+      "water",
+      "carrots",
+      "onions",
+      "salt",
+      "sugar",
+      "soybean oil",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pickled Diced Vegetables",
+    "marca": "Golchin",
+    "ean": "0746646304156",
+    "ingredientes": [
+      "Carrots",
+      "white vinegar",
+      "eggplant",
+      "jicama",
+      "cauliflower",
+      "cabbage",
+      "onions",
+      "sunchoke",
+      "apple",
+      "celery",
+      "water",
+      "parsley",
+      "cilantro",
+      "salt",
+      "spices",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hot Yellow Peppers",
+    "marca": "Golchin",
+    "ean": "0746646304705",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "distilled vinegar",
+      "salt",
+      "turmeric",
+      "yellow 5",
+      "sodium bisulfite (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/664/630/4705/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mediterranean blend",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646306501",
+    "ingredientes": [
+      "Canola oil (75%)",
+      "extra virgin olive oil (25%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% pure canola oil",
+    "marca": "Golchin",
+    "ean": "0746646306761",
+    "ingredientes": [
+      "Canola oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% pure corn oil",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646306778",
+    "ingredientes": [
+      "Corn oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, All Natural Pure Vegetable Oil",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646306785",
+    "ingredientes": [
+      "Soybean oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Iodized Salt",
+    "marca": "Overseas Food Dist.",
+    "ean": "0746646505836",
+    "ingredientes": [
+      "SALT",
+      "POTASSIUM IODIDE",
+      "DEXTROSE",
+      "SODIUM BICARBONATE",
+      "YELLOW PRUSSIATE OF SODA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/664/650/5836/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Solid Light Tuna In Vegetable Oil",
+    "marca": "Golchin",
+    "ean": "0746646604201",
+    "ingredientes": [
+      "Solid light tuna",
+      "soy bean oil",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Small Candy In White Pieces",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646701511",
+    "ingredientes": [
+      "Cane sugar",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Yellow Small Candy Pieces",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646701528",
+    "ingredientes": [
+      "Cane sugar",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golchin, Saffron Rock Candy",
+    "marca": "Overseas Food Dist Inc.",
+    "ean": "0746646702051",
+    "ingredientes": [
+      "Crystallized sugar",
+      "saffron",
+      "water",
+      "color fd&c yellow no.5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Rock Candy",
+    "marca": "Golchin",
+    "ean": "0746646702068",
+    "ingredientes": [
+      "Crystallized sugar",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sour Cherry Jam",
+    "marca": "Golchin",
+    "ean": "0746646708985",
+    "ingredientes": [
+      "Sour cherry (35%)",
+      "sugar",
+      "glucose syrup",
+      "acidity regulator (citric acid e330)",
+      "thickener (e440)",
+      "conservator (sodium metabisulfite e223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry jam",
+    "marca": "Golchin",
+    "ean": "0746646708992",
+    "ingredientes": [
+      "Strawberry (35%)",
+      "sugar",
+      "glucose syrup",
+      "acidity regulator (citric acid e330)",
+      "thickener (e440)",
+      "conservator (sodium metabisulfite e223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "JAM",
+    "marca": "Gochin",
+    "ean": "0746646709005",
+    "ingredientes": [
+      "Orange (35%)",
+      "sugar",
+      "glucose syrup",
+      "acidity regulator (citric acid e330)",
+      "thickener (e440)",
+      "conservator (sodium metabisulfite e223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "JAM",
+    "marca": "Golchin",
+    "ean": "0746646709012",
+    "ingredientes": [
+      "Red raspberry (35%)",
+      "sugar",
+      "glucose syrup",
+      "acidity regulator (citric acid e330)",
+      "thickener (e440)",
+      "conservator (sodium metabisulfite e223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fig Jam",
+    "marca": "Golchin",
+    "ean": "0746646709029",
+    "ingredientes": [
+      "Fig (35%)",
+      "sugar",
+      "glucose syrup",
+      "acidity regulator (citric acid e330)",
+      "thickener (e440)",
+      "conservator (sodium metabisulfite e223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Quince jam",
+    "marca": "Golchin",
+    "ean": "0746646709036",
+    "ingredientes": [
+      "Quince (35%)",
+      "sugar",
+      "glucose syrup",
+      "acidity regulator (citric acid e330)",
+      "thickener (e440)",
+      "conservator (sodium metabisulfite e223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire baie, sparkling water, strawberry lemonade, strawberry lemonade",
+    "marca": "Wit Group",
+    "ean": "0746742000044",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "aspartame",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "malic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire baie, sparkling water, blackberry. raspberry, blackberry. raspberry",
+    "marca": "Wit Group",
+    "ean": "0746742000051",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (preserves flavor)",
+      "acesulfame potassium",
+      "malic acid and sucralose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire baie, sparkling water, tangerine lime, tangerine lime",
+    "marca": "Wit Group",
+    "ean": "0746742000082",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "aspartame",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "malic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire baie, sparkling water, blackberry raspberry, blackberry raspberry",
+    "marca": "Wit Group",
+    "ean": "0746742000136",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "sucralose and malic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Tea",
+    "marca": "Claire Baie",
+    "ean": "0746742000204",
+    "ingredientes": [
+      "Filtered water",
+      "high fructose corn syrup",
+      "green tea essence",
+      "green tea extract",
+      "ascorbic acid",
+      "caramel color",
+      "citric acid",
+      "sodium benzoate",
+      "potassium sorbate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lightly Sweetened Tea",
+    "marca": "Claire Baie",
+    "ean": "0746742000211",
+    "ingredientes": [
+      "Filtered water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "tea solids",
+      "phosphoric acid",
+      "sodium benzoate (preservative) and potassium sorbate (preservative)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raspberry Tea",
+    "marca": "Claire Baie",
+    "ean": "0746742000228",
+    "ingredientes": [
+      "Filtered water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "citric acid",
+      "tea solids",
+      "phosphoric acid",
+      "sodium benzoate (preservative) and potassium sorbate (preservative)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire Baie, Raspberry Tea",
+    "marca": "Wit Group",
+    "ean": "0746742000365",
+    "ingredientes": [
+      "Filtered water",
+      "high fructose",
+      "corn syrup",
+      "natural flavor",
+      "citric acid",
+      "tea solids",
+      "phosphoric acid sodium benzoate (preservative) and potassium sorbate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Claire Baie",
+    "ean": "0746742000464",
+    "ingredientes": [
+      "Carbonated water",
+      "orange juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "yellow #6",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow #5",
+      "pyrodoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Claire Baie",
+    "ean": "0746742000471",
+    "ingredientes": [
+      "Carbonated water",
+      "blackberry juice concentrate",
+      "malic acid",
+      "potassium benzoate (to preserve freshness)",
+      "sucralose",
+      "green tea extract",
+      "red # 40",
+      "natural flavor",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Claire Baie",
+    "ean": "0746742000488",
+    "ingredientes": [
+      "Carbonated water",
+      "clarified lemon juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "yellow # 5",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyrodoxine hydrochloride (vitamin b6)",
+      "blue # 1",
+      "biotin",
+      "cyanocobalamin (vitamin b12)",
+      "and vitamin d2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Juice",
+    "marca": "Claire Baie",
+    "ean": "0746742000495",
+    "ingredientes": [
+      "Carbonated water",
+      "clarified grapefruit juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "red #40",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage",
+    "marca": "Claire Baie",
+    "ean": "0746742000501",
+    "ingredientes": [
+      "Carbonated water",
+      "apple juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "red #40",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "blue #1",
+      "pyrodoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Claire Baie",
+    "ean": "0746742000518",
+    "ingredientes": [
+      "Carbonated water",
+      "kiwi juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "natural flavor",
+      "glycerol ester of wood rosin",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow #5",
+      "pyrodoxine",
+      "hydrochloride (vitamin b6)",
+      "blue #1",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage",
+    "marca": "Claire Baie",
+    "ean": "0746742000525",
+    "ingredientes": [
+      "Carbonated water",
+      "pear juice",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "sucralose",
+      "green tea extract",
+      "natural flavor wonf",
+      "niacinamide",
+      "(vitamin b3)",
+      "fd&c yellow #5",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "fd&c blue #1",
+      "biotin",
+      "cyanocobalamin (vitamin b12)",
+      "and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire Baie, Classic Lemonade",
+    "marca": "Wit Group",
+    "ean": "0746742000594",
+    "ingredientes": [
+      "Filtered water",
+      "sugar",
+      "lemon juice concentrate",
+      "natural & artificial flavor and colors",
+      "fd&c yellow #5",
+      "fd&c yellow #6",
+      "citric acid",
+      "sodium benzoate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire Baie, Lemonade, Raspberry",
+    "marca": "Wit Group",
+    "ean": "0746742000600",
+    "ingredientes": [
+      "Filtered water",
+      "sugar",
+      "lemon juice concentrate",
+      "natural & artificial flavor",
+      "citric acid",
+      "gum arabic",
+      "ester gum",
+      "brominated vegetable oil",
+      "sodium benzoate fd&c yellow #5",
+      "caramel color",
+      "fd&c red #40",
+      "and bha."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire Baie, Lemonade, Strawberry",
+    "marca": "Wit Group",
+    "ean": "0746742000617",
+    "ingredientes": [
+      "Filtered water",
+      "sugar",
+      "lemon juice concentrate",
+      "natural & artificial flavor",
+      "citric acid",
+      "gum arabic",
+      "ester gum brominated vegetable oil",
+      "sodium benzoate",
+      "fd&c yellow #5. fd&c red #40",
+      "and bha."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Claire Baie, Cherry Limeade",
+    "marca": "Wit Group",
+    "ean": "0746742000631",
+    "ingredientes": [
+      "Filtered water",
+      "sugar",
+      "lime juice concentrate",
+      "natural & artificial flavor",
+      "citric acid",
+      "gum arabic",
+      "ester gum",
+      "brominated vegetable oil",
+      "sodium benzoate",
+      "fd&c red #40",
+      "and bha."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda, the original",
+    "marca": "Wit Group",
+    "ean": "0746742001027",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "natural flavors (natural lime & lemon flavors)",
+      "citric acid",
+      "sodium benzoate & potassium sorbate as preservatives",
+      "yellow 5 and blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green River Diet",
+    "marca": "Green River",
+    "ean": "0746742001034",
+    "ingredientes": [
+      "Triple Filtered Carbonated Water",
+      "Natural Flavors (Natural Lime & Lemon Flavors)",
+      "Citric Acid",
+      "Aspartame Acesulfame",
+      "Potassium",
+      "Sodium Benzoate and Potassium Sorbate as Preservatives",
+      "Yellow 5",
+      "Blue 1",
+      "Phenylalanine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/674/200/1034/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cream soda",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742100072",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "citric acid",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet Soda",
+    "marca": "Wit Beverage Company",
+    "ean": "0746742106005",
+    "ingredientes": [
+      "Filtered carbonated water",
+      "pure cane sugar",
+      "caramel color",
+      "phosphoric acid",
+      "natural and artificial flavors",
+      "caffeine",
+      "fd&c red 40",
+      "ethanol",
+      "sodium benzoate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Black Bear Beverages",
+    "ean": "0746742290285",
+    "ingredientes": [
+      "Carbonated water",
+      "orange juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "yellow # 6",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow # 5",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Black Bear",
+    "ean": "0746742290308",
+    "ingredientes": [
+      "Carbonated water",
+      "clarified lemon juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "yellow # 5",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "blue # 1",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage With Juice",
+    "marca": "Black Bear Beverages",
+    "ean": "0746742290322",
+    "ingredientes": [
+      "Carbonated water",
+      "apple juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "glycerol ester of wood rosin",
+      "natural flavor",
+      "red # 40",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "blue # 1",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage",
+    "marca": "Black Bear",
+    "ean": "0746742290339",
+    "ingredientes": [
+      "Carbonated water",
+      "kiwi juice concentrate",
+      "citric acid",
+      "potassium benzoate (to preserve freshness)",
+      "gum acacia",
+      "sucralose",
+      "green tea extract",
+      "natural flavor",
+      "glycerol ester of wood rosin",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow # 5",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "blue # 1",
+      "biotin",
+      "cyanocobalamin (vitamin b12) and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Fashioned Soda",
+    "marca": "Black Bear Beverages",
+    "ean": "0746742290377",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "caramel color",
+      "natural and artificial flavor",
+      "citric acid",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Black Bear",
+    "ean": "0746742290407",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "citric acid",
+      "artificial flavor and color",
+      "red #40",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beverages, peach pear",
+    "marca": "Black Bear",
+    "ean": "0746742290605",
+    "ingredientes": [
+      "Carbonated water",
+      "pear juice",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "sucralose",
+      "green tea extract",
+      "natural flavor",
+      "niacinamide (vitamin b3)",
+      "fd&c yellow # 5",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "fd&c blue # 1",
+      "biotin cyanocobalamin (vitamin b12) and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, cola, original",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290735",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "phosphoric acid",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Wit Group",
+    "ean": "0746742290742",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "artificial flavor",
+      "caramel color",
+      "red #40",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, black cherry",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290759",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "citric acid",
+      "gum acacia",
+      "artificial flavor and color",
+      "red #40",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, flavored soda, fruit punch",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290766",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "artificial flavor and color",
+      "red #40",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, very berry soda, blue raspberry",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290773",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "artificial flavor",
+      "blue #1",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, old fashioned root beer soda",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290780",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "citric acid",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, flavored soda, juicy orange",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290797",
+    "ingredientes": [
+      "Triple filtered carbonated water water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural orange flavor",
+      "yellow #6",
+      "red #49",
+      "sodium benzonate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark vanilla cream soda beverages",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290803",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "citric acid",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, flavored soda, lime",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290810",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "gum acacia",
+      "glycerol ester of wood rosin",
+      "bormated vegetable oil",
+      "yellow #5 and #1",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, concord grape soda",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290827",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "artificial flavor",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, tart lemonade",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290841",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "lemon concentrate",
+      "natural and artificial flavors and colors",
+      "yellow no. 5-6",
+      "citric acid",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, diet soda, orchard black cherry",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290865",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "citric acid",
+      "gum acacia",
+      "artificial flavor and color",
+      "sucralose",
+      "acesulfame k",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beverages, Root Beer, Diet Soda",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290872",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "citric acid",
+      "gum acacia",
+      "artificial flavor and color",
+      "sucralose",
+      "acesulfame k",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, diet soda, blue raspberry",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290889",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "citric acid",
+      "gum acacia",
+      "artificial flavor and color",
+      "sucralose",
+      "acesulfamek",
+      "sodium benzoate as a preservatives."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet lime soda",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290896",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "citric acid",
+      "gum acacia",
+      "artificial flavor and color",
+      "sucralose",
+      "acesulfame k",
+      "sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black bear beverages, sweet soda, lemon lime",
+    "marca": "Black Bear,  Wit Group",
+    "ean": "0746742290919",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wbc goose island, soda with 100% cane sugar, root beer, root beer",
+    "marca": "Wit Group",
+    "ean": "0746742400134",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "cane sugar",
+      "natural and artificial flavor",
+      "caramel color",
+      "sodium benzoate and potassium sorbate as preservatives and citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda with 100% cane sugar",
+    "marca": "Wit Group",
+    "ean": "0746742400141",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "cane sugar",
+      "citric acid",
+      "natural flavor",
+      "yellow 6",
+      "red 40",
+      "sodium benzoate and potassium sorbate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla Cream soda",
+    "marca": "Wit Group",
+    "ean": "0746742400158",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "cane sugar",
+      "natural flavor",
+      "citric acid",
+      "sodium benzoate",
+      "caramel color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/674/240/0158/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda, spicy ginger",
+    "marca": "Wit Group",
+    "ean": "0746742400165",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "cane sugar",
+      "natural flavor",
+      "citric acid",
+      "sodium benzoate",
+      "caramel color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda, root beer",
+    "marca": "Wit Group",
+    "ean": "0746742400189",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "natural and artificial flavor",
+      "caramel color",
+      "sodium benzoate and potassium sorbate as preservatives",
+      "sucralose",
+      "acesulfame k and citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda with 100% cane sugar, black cherry",
+    "marca": "Wit Group",
+    "ean": "0746742400196",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "pure cane sugar",
+      "natural and artificial flavors",
+      "caramel",
+      "color",
+      "red 40",
+      "citric acid",
+      "sodium benzoate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wbc Goose Island, Cane Sugar Soda, Concord Grape",
+    "marca": "Wit Group",
+    "ean": "0746742400295",
+    "ingredientes": [
+      "Triple filtered carbonated water cane sugar",
+      "natural flavor",
+      "tartaric acid",
+      "sodium benzoate (as a preservative)",
+      "citric acid",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Root Beer",
+    "marca": "Wit Beverage Company",
+    "ean": "0746742400301",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "natural and artificial flavor",
+      "caramel color",
+      "sodium benzoate and potassium sorbate as preservatives and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Craft Soda, Orange Cream",
+    "marca": "Wit Beverage Company",
+    "ean": "0746742400318",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "yellow 6",
+      "red 40",
+      "sodium benzoate as a preservative and potassium sorbate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wbc, soda with real sugar, vanilla cream",
+    "marca": "Wit Beverage Company",
+    "ean": "0746742400325",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "sodium benzoate as a preservative and caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/674/240/0325/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spicy Ginger Craft Soda, Ginger",
+    "marca": "Wit Group",
+    "ean": "0746742400332",
+    "ingredientes": [
+      "Triple filtered water",
+      "sugar",
+      "natural flavor citric acid",
+      "sodium benzoate presentiment and caramel color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wbc, Craft Soda, Concord Grape",
+    "marca": "Wit Group",
+    "ean": "0746742400349",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "tartaric acid",
+      "sodium benzoate as a preservative",
+      "red 40 and blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wbc, caffeine free soda, orange cream",
+    "marca": "Wbc",
+    "ean": "0746742400363",
+    "ingredientes": [
+      "Triple filtered carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "yellow 6",
+      "red 40 sodium benzoate as a preservative and potassium sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caruso's, Limoncello Italian Style Soda",
+    "marca": "Wit Group",
+    "ean": "0746742720300",
+    "ingredientes": [
+      "Filtered carbonated water",
+      "sugar",
+      "natural flavoring",
+      "citric acid",
+      "gum arabic",
+      "ester gum",
+      "sodium benzoate",
+      "fd&c yellow #5",
+      "brominated vegetable oil",
+      "and bha."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jelly belly, gourmet soda, lemon drop",
+    "marca": "Jelly Belly,  Wit Group",
+    "ean": "0746742900559",
+    "ingredientes": [
+      "Purified carbonated water",
+      "cane sugar",
+      "citric acid",
+      "sodium benzoate",
+      "natural flavors",
+      "sodium citrate",
+      "fd*c yellow #5 and brominated soybean oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet soda",
+    "marca": "Jelly Belly,  Wit Group",
+    "ean": "0746742900887",
+    "ingredientes": [
+      "Filtered carbonated water",
+      "cane sugar",
+      "citric acid",
+      "sodium benzoate",
+      "sodium citrate",
+      "natural flavors and fd&c red #40 and blue #1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Van Guilder's, Hot Chocolate, Vanilla Drizzle",
+    "marca": "The Mambo Group  Llc",
+    "ean": "0746750160051",
+    "ingredientes": [
+      "Sugar",
+      "nonfat dried milk",
+      "cocoa (processed with alkali)",
+      "salt",
+      "artificial flavor and carrageenan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coffee roasters",
+    "marca": "Berres Brothers Inc.",
+    "ean": "0746774050109",
+    "ingredientes": [
+      "Non-dairy creamer [hydrogenated coconut oil",
+      "corn syrup solids",
+      "sodium caseinate (a milk derivative)",
+      "dipotassium phosphate",
+      "sugar",
+      "mono - and diglycerides",
+      "sodium silicoaluminate",
+      "sodium stearoyl lactylate",
+      "soy lecithin",
+      "artificial colors",
+      "artificial flavors]",
+      "sugar",
+      "cocoa",
+      "salt",
+      "natural and artificial flavor",
+      "sucralose",
+      "sodium aluminosilicate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cappuccino",
+    "marca": "Berres Brothers Inc.",
+    "ean": "0746774050116",
+    "ingredientes": [
+      "Non-dairy creamer [hydrogenated coconut oil",
+      "corn syrup solids",
+      "sodium caseinate (a milk derivative)",
+      "dipotassium phosphate",
+      "sugar",
+      "mono - and diglycerides",
+      "sodium silicoaluminate",
+      "sodium stearoyl lactylate",
+      "soy lecithin",
+      "artificial colors",
+      "artificial flavors]",
+      "non-fat dry milk",
+      "granulated sugar",
+      "food starch-modified",
+      "coffee",
+      "natural and artificial flavor",
+      "salt",
+      "tri calcium phosphate (anti-caking agent)",
+      "sucralose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "via natural ultra care",
+    "marca": "yea tree oil",
+    "ean": "0746817579314",
+    "ingredientes": [
+      "VIA NATURAL ULTRA CARE Tea Tree OIL Promotes a Healthy Scalp & Clean Hair Helps Control Dryness with Natural Oils Contains Natural Oils Moisturizing Oil For Hait Scalp & Body 1.5 Fl. Oz. (45 m"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/681/757/9314/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Trinidad and Tobago"
+  },
+  {
+    "nombre": "Cod Liver Oil",
+    "marca": "Nordic",
+    "ean": "0746880000500",
+    "ingredientes": [
+      "Cod Liver Oil",
+      "EPA (Eicosapentaenoic Acid)",
+      "DHA (Docosahexaenoic Acid)",
+      "Natural Mixed Tocopherols",
+      "Contains Fish (Cod)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/688/000/0500/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mega Cocoleche Milk Coconut Candy",
+    "marca": "Delicias De Jalisco",
+    "ean": "0746918001226",
+    "ingredientes": [
+      "Coconut",
+      "sugar",
+      "milk",
+      "vanilla",
+      "glucose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Stock",
+    "marca": "San Elk",
+    "ean": "0746935213442",
+    "ingredientes": [
+      "Sea salt",
+      "corn flour",
+      "raw sugar",
+      "extra virgin olive oil",
+      "onion chicken",
+      "tomato",
+      "garlic",
+      "cracked pepper",
+      "parsley and nutmeg."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/693/521/3442/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "Premium Almond Protein",
+    "marca": "MacroMike",
+    "ean": "0746935313852",
+    "ingredientes": [
+      "Almond Protein",
+      "Faba Bean Protein",
+      "Natural Flavours",
+      "Coconut Milk Powder",
+      "Coconut Nectar",
+      "Himalayan Rock Salt",
+      "Guar Gum",
+      "Panmol B-Complex",
+      "Sweetener Blend (Monk Fruit Extract",
+      "Thaumatin)",
+      "Probiotic LactoSpore (Bacillus Coagulans)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/693/531/3852/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "Basmati rice gold",
+    "marca": "Khushboo",
+    "ean": "0746935622275",
+    "ingredientes": [
+      "Rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/693/562/2275/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Chargrilled Chicken W/ Brown Rice, Broccoli & Sesame Pumpkin",
+    "marca": "Pasta Pantry",
+    "ean": "0746935794859",
+    "ingredientes": [
+      "chargrilled chicken",
+      "chicken breast",
+      "basil",
+      "lemon juice",
+      "balsamic vinegar",
+      "black pepper",
+      "salt",
+      "canola oil",
+      "white cooking wine",
+      "sesame pumpkin",
+      "pumpkin",
+      "white balsamic vinegar",
+      "sugar",
+      "salt",
+      "black pepper",
+      "honey",
+      "canola oil",
+      "sesame oil",
+      "sesame seed",
+      "broccoli",
+      "brown rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/693/579/4859/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "Ekone Oyster Co., Fresh Oysters, Medium",
+    "marca": "Ekone Oyster Co.",
+    "ean": "0747094100024",
+    "ingredientes": [
+      "Ingredients: pacific oysters",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ekone Oyster Co., Fresh Oysters, Yearlings",
+    "marca": "Ekone Oyster Co.",
+    "ean": "0747094100079",
+    "ingredientes": [
+      "Ingredients: pacific oysters",
+      "water. keep refrigerated consuming raw or undercooked shellfish may increase your risk of foodborne illness",
+      "especially if you have certain medical conditions. we advise cooking to an internal temperature of 145 f."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "goûter pépites de chocolat",
+    "marca": "gerblé",
+    "ean": "07471094",
+    "ingredientes": [
+      "Farine de blé 58",
+      "sucre de canne roux",
+      "pépite de chocolat 12",
+      "sucre",
+      "beurre de cacao",
+      "émulsifiant",
+      "lécithine de soja) huile de colza",
+      "farine de lupin",
+      "dextrose d'origine végétale",
+      "riz",
+      "fibre d'avoine",
+      "arôme naturel",
+      "calcium",
+      "magnésium",
+      "sel de mer",
+      "avoine",
+      "protéines de lait",
+      "sirop de malt d'orge",
+      "amidon de blé",
+      "orge",
+      "vitamines B1",
+      "B5",
+      "B9",
+      "PP et E (lactose",
+      "protéines de lait)",
+      "poudre à lever",
+      "carbonate d'ammonium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/747/1094/front_fr.27.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fronana, Banana Based Ice Cream, Wildberry Whirl",
+    "marca": "Borders Frame & Molding  Inc.",
+    "ean": "0747150659305",
+    "ingredientes": [
+      "Banana",
+      "raspberries",
+      "blackberries",
+      "madagascar bourbon vanilla",
+      "citric acid (natural preservatives)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kikkoman, teriyaki merinade & sauce, roasted garlic",
+    "marca": "Kikkoman,  Polaroid Corporation",
+    "ean": "07473210",
+    "ingredientes": [
+      "Naturally brewed soy sauce (water",
+      "wheat",
+      "soybean",
+      "salt)",
+      "sugar",
+      "wine",
+      "crushed garlic",
+      "contains 2% or less of the following: salt",
+      "vinegar",
+      "natural garlic flavor",
+      "xanthan gum",
+      "roasted garlic powder",
+      "natural flavorings",
+      "onion powder",
+      "succinic acid",
+      "soybean oil",
+      "sodium benzoate: less than 1/10 of 1% as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "garlic peanut chutney powder",
+    "marca": "Graminway from the roots",
+    "ean": "0747356051705",
+    "ingredientes": [
+      "Roasted Channa",
+      "Whole Red Chilli",
+      "Garlic. Cumin",
+      "Asofetida & Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/735/605/1705/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "One Smart Cookie, Peanut Butter Chocolate Chunk Cookies",
+    "marca": "Jimmy's Cookies  Llc",
+    "ean": "0747366018231",
+    "ingredientes": [
+      "Peanut butter (roasted peanuts",
+      "dextrose",
+      "palm oil",
+      "salt)",
+      "wheat flour",
+      "semi-sweet chocolate (sugar",
+      "unsweetened chocolate",
+      "cocoa butter",
+      "soy lecithin [an emulsifier]",
+      "natural vanilla extract",
+      "salt)",
+      "brown sugar",
+      "margarine (soybean oil",
+      "palm oil",
+      "water",
+      "salt",
+      "mono - and diglycerides",
+      "soy lecithin [an emulsifier]",
+      "natural butter flavor",
+      "annatto extract color",
+      "vitamin a palmitate)",
+      "sugar",
+      "peanut drops (sugar",
+      "palm kernel and palm oil",
+      "partially defatted peanut flour",
+      "nonfat dry milk solids",
+      "anhydrous dextrose",
+      "salt",
+      "soy lecithin)",
+      "egg whites",
+      "baking soda",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jimmy's Cookies, Oatmeal Cookies",
+    "marca": "Jimmy's Cookies  Llc",
+    "ean": "0747366135013",
+    "ingredientes": [
+      "Wheat flour",
+      "whole grain rolled oats",
+      "blueberry flavored cranberries (cranberries",
+      "sugar",
+      "grape juice concentrate",
+      "blueberry juice concentrate",
+      "sunflower oil)",
+      "brown sugar",
+      "aa sweet cream butter",
+      "sugar",
+      "eggs",
+      "canola oil",
+      "honey",
+      "invert sugar",
+      "water",
+      "salt",
+      "cinnamon",
+      "baking soda."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jimmy's Cookies, Oatmeal Cookies, Raspberry, Infused Cranberry",
+    "marca": "Jimmy's Cookies  Llc",
+    "ean": "0747366135037",
+    "ingredientes": [
+      "Wheat flour",
+      "whole grain rolled oats",
+      "raspberry flavored cranberries (cranberries",
+      "sugar",
+      "natural flavors",
+      "citric acid",
+      "sunflower oil",
+      "elderberry juice concentrate [color])",
+      "brown sugar",
+      "aa sweet cream butter",
+      "sugar",
+      "eggs",
+      "canola oil",
+      "honey",
+      "invert sugar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cranberry oatmeal cookies",
+    "marca": "Jimmy's Cookies  Llc",
+    "ean": "0747366135051",
+    "ingredientes": [
+      "Wheat flour",
+      "whole grain rolled oats",
+      "dried cranberries (cranberries",
+      "sugar",
+      "citric acid",
+      "sunflower oil",
+      "elderberry juice concentrate)",
+      "brown sugar",
+      "aa sweet cream butter",
+      "sugar",
+      "eggs",
+      "canola oil",
+      "honey",
+      "invert sugar",
+      "water",
+      "salt",
+      "cinnamon",
+      "baking soda."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jimmy's cookies",
+    "marca": "Jimmy's Cookies",
+    "ean": "0747366162187",
+    "ingredientes": [
+      "Unbleached wheat flour",
+      "semi-sweet chocolate chips (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin",
+      "vanillin)",
+      "soybean oil",
+      "palm oil",
+      "mono and diglycerides",
+      "soy lecithin",
+      "natural flavor",
+      "annatto",
+      "brown sugar",
+      "sugar",
+      "egg whites",
+      "crystalline fructose",
+      "invert sugar",
+      "water",
+      "baking soda",
+      "vanilla extract",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cookies",
+    "marca": "Jimmy's Cookies",
+    "ean": "0747366162484",
+    "ingredientes": [
+      "Unbleached wheat flour",
+      "semi-sweet chocolate (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin",
+      "vanilla extract",
+      "salt)",
+      "brown sugar",
+      "soybean oil",
+      "palm oil",
+      "mono and diglycerides",
+      "soy lecithin",
+      "natural flavor",
+      "annatto",
+      "sugar",
+      "egg whites",
+      "cocoa",
+      "invert sugar",
+      "water",
+      "baking soda",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet Cookies",
+    "marca": "Jimmy's Cookies",
+    "ean": "0747366163146",
+    "ingredientes": [
+      "Unbleached wheat flour",
+      "semi-sweet chocolate (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin [an emulsifier]",
+      "vanilla extract",
+      "salt)",
+      "margarine (soybean oil",
+      "palm oil",
+      "water",
+      "salt",
+      "mono - and diglycerides",
+      "soy lecithin [an emulsifier]",
+      "natural butter flavor",
+      "annatto extract color",
+      "vitamin a palmitate)",
+      "brown sugar",
+      "sugar",
+      "egg whites",
+      "crystalline fructose",
+      "invert sugar",
+      "water",
+      "baking soda",
+      "vanilla extract",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinara Sauce",
+    "marca": "Rao's, Rao's Homemade",
+    "ean": "0747479000017",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "olive oil",
+      "onions",
+      "salt",
+      "garlic",
+      "basil",
+      "black pepper",
+      "dried oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0017/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rao's, homemade, roasted peppers with golden raisins & pine nuts",
+    "marca": "Rao's",
+    "ean": "0747479000024",
+    "ingredientes": [
+      "Roasted red peppers (peppers",
+      "water",
+      "salt",
+      "citric acid)",
+      "canola oil",
+      "golden raisins**",
+      "sugar",
+      "pine nuts*",
+      "olive oil",
+      "fresh garlic."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinara sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000031",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Olive Oil",
+      "Onions",
+      "Salt",
+      "Garlic",
+      "Basil",
+      "Black Pepper",
+      "Oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Arrabbiata Sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000048",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "olive oil",
+      "fresh onions",
+      "salt",
+      "fresh garlic",
+      "fresh basil",
+      "crushed red pepper",
+      "black pepper",
+      "dried oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0048/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Puttanesca sauce, puttanesca",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000055",
+    "ingredientes": [
+      "Italian tomatoes",
+      "calamata olives*",
+      "fresh onions",
+      "olive oil",
+      "anchovies",
+      "capers",
+      "fresh garlic",
+      "salt",
+      "black pepper",
+      "fresh basil",
+      "oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Homemade roasted eggplant sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000062",
+    "ingredientes": [
+      "Italian tomatoes",
+      "fresh eggplant",
+      "pure olive oil",
+      "fresh onions",
+      "salt",
+      "fresh garlic",
+      "fresh basil",
+      "black pepper",
+      "crushed red pepper",
+      "oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "marinara sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000079",
+    "ingredientes": [
+      "italian whole peeled tomatoes",
+      "olive oil",
+      "onions",
+      "salt",
+      "garlic",
+      "basil",
+      "black pepper",
+      "dried oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0079/front_en.33.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mushroom & Bell Pepper",
+    "marca": "Rao's,Rao's Homemade",
+    "ean": "0747479000093",
+    "ingredientes": [
+      "amount per serving the % daily value (dv) tells you how much a nutrient calories a day is used for general nutrition advice",
+      "about 5 servings per container"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0093/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bolognese",
+    "marca": "Rao's",
+    "ean": "0747479000123",
+    "ingredientes": [
+      "Italian whole peeled tomatoes (peeled tomatoes",
+      "tomato puree",
+      "basil leaf",
+      "salt",
+      "citric acid [acidity regulator])",
+      "beef/ pork crumble (beef",
+      "pork",
+      "romano cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "romano cheese (pasteurized sheep's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "water",
+      "salt",
+      "soy flour",
+      "spices",
+      "garlic",
+      "parsley",
+      "natural flavoring)",
+      "onions",
+      "carrots",
+      "olive oil",
+      "celery",
+      "uncured pancetta crumbles no nitrites or nitrates added except those naturally occurring in cultured celery powder and sea salt (pork",
+      "salt",
+      "water",
+      "spices",
+      "cultured celery powder (celery powder",
+      "sea salt)",
+      "natural flavoring)",
+      "garlic",
+      "salt",
+      "black pepper",
+      "thyme",
+      "parsley",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vodka Sauce",
+    "marca": "Rao's, Rao's Homemade",
+    "ean": "0747479000130",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Olive Oil",
+      "Parmesan Cheese (cow's milk",
+      "salt",
+      "rennet)",
+      "Whey",
+      "Romano Cheese (pasteurized sheep's milk",
+      "rennet",
+      "salt)",
+      "Onions",
+      "Salt",
+      "Garlic",
+      "Basil",
+      "Black Pepper",
+      "Vodka",
+      "Oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0130/front_en.25.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Basil pesto sauce",
+    "marca": "Rao’s Homemade",
+    "ean": "0747479000154",
+    "ingredientes": [
+      "Basil",
+      "sunflower oil",
+      "hard grated cheese (cow's milk",
+      "enzymes",
+      "salt)",
+      "cashews",
+      "sea salt",
+      "sugar",
+      "potato flakes (potatoes)",
+      "pine nuts",
+      "dried glucose syrup",
+      "garlic",
+      "lactic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0154/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinara",
+    "marca": "Rao's",
+    "ean": "0747479000215",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes (peeled tomatoes",
+      "tomato puree",
+      "salt",
+      "basil leaf)",
+      "Olive Oil",
+      "Onions",
+      "Salt",
+      "Garlic",
+      "Basil",
+      "Black Pepper",
+      "Oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0215/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rao's, lemon cooking sauce",
+    "marca": "Rao's",
+    "ean": "0747479000321",
+    "ingredientes": [
+      "Water",
+      "lemon juice",
+      "canola oil",
+      "red wine vinegar",
+      "pure olive oil",
+      "chablis white wine",
+      "garlic",
+      "salt",
+      "basil",
+      "parsley",
+      "oregano black pepper",
+      "fennel",
+      "xanthan gum (a natural thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinara Sauce",
+    "marca": "Rao's Specialty Foods Inc., Rao's Homemade",
+    "ean": "0747479000406",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Olive Oil",
+      "Onions",
+      "Salt",
+      "Garlic",
+      "Basil",
+      "Black Pepper",
+      "Oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0406/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinara Sauce",
+    "marca": "Rao, Rao's Homemade",
+    "ean": "0747479000413",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Olive Oil",
+      "Onions",
+      "Salt",
+      "Garlic",
+      "Basil",
+      "Black Pepper",
+      "Oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0413/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Rao's Homemade, Organic Red Wine Vinegar",
+    "marca": "Rao's Specialty Foods Inc.",
+    "ean": "0747479000451",
+    "ingredientes": [
+      "Red wine vinegar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rao's Homemade, Extra Virgin Olive Oil",
+    "marca": "Rao's Specialty Foods Inc.",
+    "ean": "0747479000505",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rao's Pizza Sauce",
+    "marca": "Rao's Specialty Foods Inc.,Rao's",
+    "ean": "0747479000574",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Italian Cherry Tomatoes",
+      "Olive Oil",
+      "Carrots",
+      "Onions",
+      "Salt",
+      "Oregano",
+      "Garlic",
+      "Basil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0574/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sensitive marinara sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000604",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "olive oil",
+      "carrots",
+      "salt",
+      "celery",
+      "basil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0604/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pizza Sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000611",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Italian Cherry Tomatoes",
+      "Olive Oil",
+      "Carrots",
+      "Onions",
+      "Salt",
+      "Oregano",
+      "Garlic",
+      "Basil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/0611/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Artichoke sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479000703",
+    "ingredientes": [
+      "Imported italian tomatoes",
+      "fresh artichokes",
+      "pure olive oil",
+      "salt",
+      "fresh garlic",
+      "fresh basil",
+      "black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "tomato basil sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479001052",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "olive oil",
+      "onions",
+      "basil",
+      "salt",
+      "garlic",
+      "black pepper",
+      "dried oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1052/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Basil Sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479001069",
+    "ingredientes": [
+      "Italian whole peeled tomatoes (peeled tomatoes",
+      "tomato puree",
+      "salt",
+      "basil leaf)",
+      "olive oil",
+      "onions",
+      "basil",
+      "salt",
+      "garlic",
+      "black pepper",
+      "oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1069/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Four Cheese Pasta Sauce",
+    "marca": "Rao’s",
+    "ean": "0747479001083",
+    "ingredientes": [
+      "Italian Whole Peeled Tomatoes",
+      "Olive Oil",
+      "Parmigiano Reggiano Cheese (milk",
+      "salt",
+      "rennet)",
+      "Carrots",
+      "Whey",
+      "Salt",
+      "Pecorino Romano Cheese (sheep's milk",
+      "rennet",
+      "salt)",
+      "Grana Padano Cheese (milk",
+      "salt",
+      "rennet)",
+      "Asiago Cheese (milk",
+      "salt",
+      "rennet)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Grana Padano Cheese (milk",
+        "razon": "Contiene Grana Padano Cheese (milk, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1083/front_en.5.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted peppers with portobello mushrooms",
+    "marca": "Rao's Specialty Foods  Inc.",
+    "ean": "0747479001106",
+    "ingredientes": [
+      "Roasted red peppers (peppers",
+      "water",
+      "salt",
+      "citric acid",
+      "calcium chloride)",
+      "canola oil",
+      "portobello mushrooms",
+      "sugar",
+      "olive oil",
+      "garlic",
+      "water",
+      "vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Arrabbiata Sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479001144",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "olive oil",
+      "onions",
+      "salt",
+      "garlic",
+      "basil",
+      "crushed red pepper",
+      "black pepper",
+      "dried oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Basil Sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479001151",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "olive oil",
+      "onions",
+      "basil",
+      "salt",
+      "garlic",
+      "black pepper",
+      "dried oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1151/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Margherita Pizza Sauce",
+    "marca": "Rao's Homemade",
+    "ean": "0747479001168",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "italian cherry tomatoes",
+      "olive oil",
+      "carrots",
+      "onions",
+      "salt",
+      "basil",
+      "garlic",
+      "oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Homemade alfredo sauce",
+    "marca": "Rao's",
+    "ean": "0747479001182",
+    "ingredientes": [
+      "Light Cream (cream",
+      "milk)",
+      "Water",
+      "Butter (cream",
+      "natural flavorings)",
+      "Parmesan and Romano Cheese (pasteurized part-skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "Enzyme Modified Egg Yolks",
+      "Parmesan Cheese (pasteurized milk",
+      "salt",
+      "rennet)",
+      "Sea Salt",
+      "Black Pepper",
+      "White Pepper",
+      "Modified Cornstarch",
+      "Disodium Phosphate",
+      "Xanthan Gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1182/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rao's Homemade, Grilled Green Olives",
+    "marca": "Rao's Specialty Foods  Inc.",
+    "ean": "0747479001205",
+    "ingredientes": [
+      "Pitted green olives",
+      "sunflower oil",
+      "peppers",
+      "salt",
+      "spices",
+      "white wine vinegar",
+      "lactic acid",
+      "citric acid",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted Garlic Sauce",
+    "marca": "Homemade,  Rao's Homemade",
+    "ean": "0747479001557",
+    "ingredientes": [
+      "italian whole peeled tomatoes",
+      "italian cherry tomatoes",
+      "olive oil",
+      "roasted garlic",
+      "carrots",
+      "salt",
+      "basil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1557/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Herb",
+    "marca": "Rao's Homemade",
+    "ean": "0747479001601",
+    "ingredientes": [
+      "Italian whole peeled tomatoes",
+      "italian cherry tomatoes",
+      "olive oil",
+      "carrots",
+      "onions",
+      "salt",
+      "dried oregano",
+      "garlic",
+      "basil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/074/747/900/1601/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]
