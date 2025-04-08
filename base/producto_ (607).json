@@ -1,0 +1,1268 @@
+[
+  {
+    "nombre": "Filets de poulet blanc fermier d'Auvergne",
+    "marca": "Carrefour",
+    "ean": "0287457058840",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/745/705/8840/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet fermier jaune",
+    "marca": "Carrefour",
+    "ean": "0287458041063",
+    "ingredientes": [
+      "Filets de poulet fermier jaune d'auvergne."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/745/804/1063/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de Marrons",
+    "marca": "Deluxe, Lidl",
+    "ean": "02874692",
+    "ingredientes": [
+      "Sucre"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/287/4692/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "saucisse sèche Perche",
+    "marca": "Carrefour",
+    "ean": "0287483044930",
+    "ingredientes": [
+      "porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/748/304/4930/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour Bio",
+    "ean": "0287515018564",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/501/8564/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour BIO",
+    "ean": "0287515018564",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/501/8564/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "EMMENTAL FRANCAIS",
+    "marca": "carrefour Bio",
+    "ean": "0287515019424",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/501/9424/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental francais",
+    "marca": "Carrefour,Carrefour Bio",
+    "ean": "0287515020208",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/0208/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour Bio",
+    "ean": "0287515020277",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/0277/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour Bio",
+    "ean": "0287515020475",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferment lactique",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/0475/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental francais",
+    "marca": "Carrefour Bio",
+    "ean": "0287515020604",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/0604/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental au lait cru",
+    "marca": "Carrefour",
+    "ean": "0287515020734",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français au lait cru",
+    "marca": "Carrefour",
+    "ean": "0287515020796",
+    "ingredientes": [
+      "Lait de vache"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/0796/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour Bio",
+    "ean": "0287515021069",
+    "ingredientes": [
+      "@ Emmental au lait cru issu de l'agriculture biologique - Fromage à pâte pressée cuite • 30% de matière grasse dans le produit fini."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/1069/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Carrefour",
+    "ean": "0287515021328",
+    "ingredientes": [
+      "afkomstig uit de biologische lan Gekookte harde kaas • 30% vet!.. in het eindproduet. @ Cet emmental est fabri uéau Franche-Comté à parjr français. @ Deze emmentalerwerd ge roduc}li het hadje van Franche-Comté met melk van Franse koeien. Ingrédients / Ingrediëntehl CD Lall cru biologique de vache ferments enzs",
+      "me Biologische rauwe koems\\ 2Ectmenten",
+      "stremse!enzym"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/1328/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour",
+    "ean": "0287515021380",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "enzyme coagulante",
+      "ferments lactiques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/1380/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Francais Au lait cru",
+    "marca": "Carrefour BIO",
+    "ean": "0287515021656",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/1656/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Carrefour Bio",
+    "ean": "0287515021977",
+    "ingredientes": [
+      "in Origine / OOtSPtOag @Cet t Franchcgomté a @ Oe:e het hattje van Franche.C:— melkvan Ingrédicnts/lngtedienten LI @ Biologische"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/1977/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental francais",
+    "marca": "Carrefour Bio",
+    "ean": "0287515022240",
+    "ingredientes": [
+      "@ cru biologique de vache",
+      "sel",
+      "ferments enzyme coagulante. @ Biologische rauwe koene.lk",
+      "zoutt m±fermenten",
+      "stremselenzym."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2240/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour",
+    "ean": "0287515022370",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2370/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour",
+    "ean": "0287515022370",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2370/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour Bio",
+    "ean": "0287515022431",
+    "ingredientes": [
+      "—melKVan'Franse-koeien. Ingrédients/ Ingredienten @ Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante. @ Biologjsche rauwe koemelk",
+      "zout melkfermenten",
+      "stremselenzym."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2431/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour Bio",
+    "ean": "0287515022639",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "_ferments lactiques_",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2639/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour BIO",
+    "ean": "0287515022639",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "_ferments lactiques_",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2639/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental bio",
+    "marca": "Carrefour",
+    "ean": "0287515022837",
+    "ingredientes": [
+      "ragrfculturo biologique • Fromage à pâte pressée cuite • 30% de matière grasse dans produit fini. @ Emmentalermet rauae€e melk afkomstJg ult dobloloqlsche lar±0LM• Gekookto hard@ua•- Ot/ovetgethl",
+      "ite in het cin Q) fabfiruéauca",
+      "l) français."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2837/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental biologique",
+    "marca": "Carrefour",
+    "ean": "0287515022967",
+    "ingredientes": [
+      "/ Ingrediéntcn L @ Lail cru biologique de vache. sel",
+      "ferments lactiques",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2967/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental biologique",
+    "marca": "Carrefour",
+    "ean": "0287515022967",
+    "ingredientes": [
+      "/ Ingrediéntcn L @ Lail cru biologique de vache. sel",
+      "ferments lactiques",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/2967/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français",
+    "marca": "Carrefour",
+    "ean": "0287515023292",
+    "ingredientes": [
+      "se enzyme coagulante. e I rauwe zou QEfermenten",
+      "stremselenzym."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/3292/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour Bio",
+    "ean": "0287515023551",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/3551/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour BIO",
+    "ean": "0287515023551",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/3551/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français",
+    "marca": "Carrefour",
+    "ean": "0287515023612",
+    "ingredientes": [
+      "Emmental Francais Au lait cru Franse Emmentaler Met rauwe melk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/3612/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour bio",
+    "ean": "0287515024077",
+    "ingredientes": [
+      "Origine / Oorsprong @ Cet emmental est fabriqué au cœur de Franche-Comté à partir de lait de vadie\\- français. @ Deze emmentaler werd geproduceerd in het hadje van Franche-Comté met rauwe melk van Franse koeien",
+      "Ingrédients / Ingrediënten @ Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante. @ Biotogische zout",
+      "melkfementen",
+      "stremselenzym."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/4077/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français au lait cru",
+    "marca": "Carrefour Bio",
+    "ean": "0287515024145",
+    "ingredientes": [
+      "lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/4145/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental français au lait cru",
+    "marca": "Carrefour Bio",
+    "ean": "0287515024602",
+    "ingredientes": [
+      "Lait cru biologique de vache",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/502/4602/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comté AOP Bio (34 % MG)",
+    "marca": "Carrefour BIO,Carrefour",
+    "ean": "0287516019812",
+    "ingredientes": [
+      "lait cru (issu de l'agriculture biologique)",
+      "sel",
+      "ferments",
+      "presure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/751/601/9812/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fruit Scone",
+    "marca": "Tesco",
+    "ean": "0287521001000",
+    "ingredientes": [
+      "Fruit scone 165g Contains: Wheat",
+      "Milk",
+      "Egg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/752/100/1000/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "escalopes de dinde",
+    "marca": "carrefour",
+    "ean": "0287556021653",
+    "ingredientes": [
+      "Découpe de dinde crue. Classe A. Produit frais. Dinde nourrie sans OGM (&lt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/755/602/1653/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes de Dinde",
+    "marca": "Carrefour",
+    "ean": "0287556023350",
+    "ingredientes": [
+      "Escalope de dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/755/602/3350/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes de Dinde",
+    "marca": "Carrefour",
+    "ean": "0287556023350",
+    "ingredientes": [
+      "Escalope de dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/755/602/3350/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes de Dinde",
+    "marca": "Carrefour Classic",
+    "ean": "0287556030570",
+    "ingredientes": [
+      "Découpe de dinde crue. Classe A. Produit frais. Dinde origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/755/603/0570/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "filets de poulet fermier",
+    "marca": "Carrefour bio,Carrefour",
+    "ean": "0287565049594",
+    "ingredientes": [
+      "filets de poulet fermier"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/756/504/9594/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet fermier",
+    "marca": "Carrefour",
+    "ean": "0287565061732",
+    "ingredientes": [
+      "Marque - Carrefour Ingrédients Filetdeeppule— Dôrineesnutrlttonelles Glucides (dont sucres : Fibres alimentaires . Protéines . Sel Conservation"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/756/506/1732/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "filets de poulet fermier",
+    "marca": "Carrefour bio",
+    "ean": "0287567040544",
+    "ingredientes": [
+      "Filets de poulet fermier issu de l'agriculture biologique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/756/704/0544/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet fermier bio jaune",
+    "marca": "Carrefour Bio",
+    "ean": "0287567040872",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/756/704/0872/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet Fermier",
+    "marca": "Carrefour Bio",
+    "ean": "0287567044085",
+    "ingredientes": [
+      "Filets de poulet fermier élevé en plein air* Durée d'élevage:81 jours minimum. *conformément au mode de production biologique. Produit frais. Classe A."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/756/704/4085/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Croc tofou au comté",
+    "marca": "Soy",
+    "ean": "02876481",
+    "ingredientes": [
+      "Tofu* 91",
+      "soja",
+      "agents de coagulation: sulfate de calcium",
+      "nigari)",
+      "Comté 11%",
+      "flocons de millet",
+      "semoule de mais*",
+      "extrait de levure",
+      "farine de riz*",
+      "sel de mer",
+      "épices",
+      "épaississant: gomme guar*. Ingrédients issus de l'agriculture biologique. Préparé avec 54",
+      "oeuf",
+      "fruits à coque",
+      "céleri et sésame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/287/6481/front_fr.22.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Селско кюфте",
+    "marca": "Мусан",
+    "ean": "0287701600502",
+    "ingredientes": [
+      "КОМБК ПОДПРАВКА:ЕМУЛГАТОРИ-ПОЛИФОСФАТИ ОВКУСИТЕЛ-МОНОНАТРНЕВ ГЛУТАМAТ"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/770/160/0502/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Bulgaria"
+  },
+  {
+    "nombre": "Tesco White Snack Roll 12 Pack",
+    "marca": "Tesco",
+    "ean": "0287710000000",
+    "ingredientes": [
+      "Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Water",
+      "Yeast",
+      "Emulsifiers (Mono - and Di-Glycerides of Fatty Acids",
+      "Sodium Stearoyl-2-Lactylate",
+      "Mono - and Di-Acetyltartaric Esters of Mono - and Di-Glycerides of Fatty Acids)",
+      "Salt",
+      "Sugar",
+      "Wheat Gluten",
+      "Dextrose",
+      "Palm Oil",
+      "Soya Flour",
+      "Thickener (Guar Gum)",
+      "Rapeseed Oil",
+      "Flour Treatment Agents (Ascorbic Acid",
+      "L-Cysteine Hydrochloride)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "wholemeal & grain loaf",
+    "marca": "countdown",
+    "ean": "0287710003105",
+    "ingredientes": [
+      "Wholemeal Wheat Flour (90%). Gluten. water. Grain and Seeds (9%) (Rolled oats. Kibbled Red Wheat. Soy Grits Flaked Malt Wheat Wheat Bran. Sunflower Seeds. Kibbled Rye) Yeast. lodised Salt. canola oil. soy Flour. Emulsifiers (472e. 481)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/771/000/3105/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "New Zealand"
+  },
+  {
+    "nombre": "Cookies n cream cookie cake",
+    "marca": "Tesco Finest",
+    "ean": "0287784001755",
+    "ingredientes": [
+      "Sugar",
+      "Wheat Flour [Wheat Flour. Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Butter (Milk ) (20%)",
+      "Dark Brown Sugar",
+      "Egg Rapeseed Oll",
+      "Dried Whole Milk",
+      "Palm Kernel oll",
+      "Cocoa Powder. Sunflower Oll. Dextrose. Raising Agents (Sodium Bicarbonate. Monocalcium Phosphate. Disodium Diphosphate",
+      "Ammonium Carbonate). Palm Oll",
+      "Fat Reduced Cocoa Powder",
+      "Cocoa Mass",
+      "Whey Powder (Milk)",
+      "Wheat Starch",
+      "Emulsifiers (Soya Lecithins",
+      "Rapeseed Lecithins",
+      "Sunflower Lecithins). Salt",
+      "Shea Fat",
+      "Flavouring. This bakery product may also contain peanuts",
+      "nuts. milk",
+      "sesame",
+      "egg",
+      "soya and other allergens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/778/400/1755/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Brown sourdough bloomer",
+    "marca": "Morrisons",
+    "ean": "0287919002008",
+    "ingredientes": [
+      "water",
+      "_wheat_ flour",
+      "wholemeal _wheat_flour",
+      "salt",
+      "malted _barley_flour",
+      "_wheat_ gluten",
+      "maize",
+      "rapeseed oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/791/900/2008/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Organic Penne Rigate",
+    "marca": "365 Whole Foods Market",
+    "ean": "02879642",
+    "ingredientes": [
+      "organic durum wheat semolina."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/287/9642/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked Mackerel Fillets",
+    "marca": "Waitrose",
+    "ean": "0287992003237",
+    "ingredientes": [
+      "Mackerel (Scomber scombrus) (fish) (97%)",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/799/200/3237/front_en.16.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "brandade de morue",
+    "marca": "briau",
+    "ean": "0287992051368",
+    "ingredientes": [
+      "Morue 38 % (gadus spp&quot",
+      "pommes Conseil de pr de terre 37%",
+      "huile de tournesol",
+      "oignons",
+      "flocons de Verser la bran pommes de tere",
+      "lait en poudre",
+      "ail sec",
+      "sel",
+      "persil",
+      "- au four tradi poivre. Traces possibles dė mollusques et crustacés. - au micro-ond *Malgré tout le soin apporté à la préparation de ce poisson",
+      "qualité Emballé le : sans aréte",
+      "la présence exceptionnelle d'arête n'est jamais exclue."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "la présence exceptionnelle d'arête n'est jamais exclue.",
+        "razon": "Contiene la présence exceptionnelle d'arête n'est jamais exclue., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/799/205/1368/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "dejeunette x6",
+    "marca": "e. leclerv",
+    "ean": "0288024011480",
+    "ingredientes": [
+      "Pate blanche (Farine T65 »",
+      "Eau",
+      "Sel",
+      "Levure&gt",
+      "LOT:101403814137"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/802/401/1480/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Barons Picnic macaroni salad",
+    "marca": "barons market",
+    "ean": "0288055602275",
+    "ingredientes": [
+      "enriched pasta (wheat flour",
+      "niacin",
+      "ferrous sulfate (Iron)",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "mayonnaise (soybean oil",
+      "egg",
+      "vinegar",
+      "salt",
+      "sugar",
+      "lemon juice",
+      "calcium disodium",
+      "EDTA added to protect quality)",
+      "Pimento",
+      "kosher pickles (cucumbers",
+      "salt",
+      "vinegar",
+      "spice",
+      "natural flavor)",
+      "green onion",
+      "garlic salt (salt",
+      "garlic",
+      "modified food starch",
+      "sugar",
+      "natural flavor and carrot oil (for color))",
+      "mustard (vinegar",
+      "salt",
+      "spice & natural flavor)",
+      "natural flavors",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Buttertoast",
+    "marca": "Goldähren",
+    "ean": "02881336",
+    "ingredientes": [
+      "Weizenmehl",
+      "Wasser",
+      "Natursauerteig",
+      "Butterreinfett",
+      "Invertzuckersirup",
+      "Hefe",
+      "Salz",
+      "Ackerbohnenmehl",
+      "Natriumacetate",
+      "Weizenmalzmehl"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/288/1336/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Tesco Finest Granola Squares",
+    "marca": "Tesco",
+    "ean": "0288214001505",
+    "ingredientes": [
+      "Oats",
+      "Sugar",
+      "Sultanas (10%)",
+      "Milk Fat",
+      "Sunflower Seed (5%)",
+      "Pumpkin Seed (5%)",
+      "Sweetened Dried Cranberries (4.5%) [Sugar",
+      "Cranberry",
+      "Sunflower Oil]",
+      "Palm Oil",
+      "Partially Inverted Refiners Syrup",
+      "Modified Maize Starch",
+      "Water",
+      "Rapeseed Oil",
+      "Whey Powder (Milk)",
+      "Maltodextrin",
+      "Molasses",
+      "Raising Agents (Disodium Diphosphate",
+      "Sodium Bicarbonate)",
+      "Salt",
+      "Wheat Flour [Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin]"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Lemon Meringue Pie 10&quot;",
+    "marca": "Sauders Homemade",
+    "ean": "0288330917995",
+    "ingredientes": [
+      "water",
+      "lemon juice",
+      "eggs",
+      "thermflo",
+      "butter",
+      "salt",
+      "sugar",
+      "cream of tartar",
+      "flour",
+      "veg. shortening",
+      "water",
+      "egg",
+      "baking powder",
+      "vinegar",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/833/091/7995/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Belgian Buns",
+    "marca": "Tesco",
+    "ean": "0288354001502",
+    "ingredientes": [
+      "Wheat Flour [Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin]",
+      "Sugar",
+      "Water",
+      "Sultanas (9%)",
+      "Palm Oil",
+      "Rapeseed Oil",
+      "Invert Sugar Syrup",
+      "Yeast",
+      "Cherry",
+      "Milk Sugar",
+      "Dried Egg",
+      "Emulsifiers (Citric Acid Esters of Mono - and Diglycerides of Fatty Acids",
+      "E471",
+      "E472e",
+      "Polysorbate 60)",
+      "Glucose Syrup",
+      "Wheat Starch",
+      "Dried Whole Milk",
+      "Fructose-Glucose Syrup",
+      "Humontant (Glycerol) Pasteurised Foo. Salt. ՆԱՆԱՄ NOTDIXIN",
+      "Curcumin",
+      "Plant Car Olchica)",
+      "MAIZO rantvas Starch",
+      "Lemon Oil",
+      "Concentrated Lemon Juice",
+      "Flavourings",
+      "Acidity Regulators (Citric Acid",
+      "Trisodium Citrate",
+      "Acetic Acid)",
+      "Gelling Agent (Agar)",
+      "Preservative (Potassium Sorbate)",
+      "Whey Powder (Milk)",
+      "Sunflower Oil",
+      "Flour Treatment Agent (Ascorbic Acid)",
+      "Carrot Concentrate",
+      "Aronia Concentrate",
+      "Vitamin A. This bakery product may also contain peanuts",
+      "nuts",
+      "milk",
+      "sesame",
+      "egg",
+      "soya and other allergens. 1111 it uns swirl n curd fling alf a giacé c RELIENTS Flour [Wheat F Thiamin)",
+      "Sugar ed Oil",
+      "Invert S Fructose-Glucose Syru egulator (Citri urd [Sugar",
+      "Wa Oil",
+      "Maize Sta gulators (Citri otenes)",
+      "Flavou Yeast",
+      "Milk Sug s of Mono-and Diglycerides o"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E471",
+        "razon": "Contiene E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/835/400/1502/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chips ondulées allégées en sel",
+    "marca": "Natur’Avenir",
+    "ean": "0288640038021",
+    "ingredientes": [
+      "Pommes de terre* (64",
+      "huilé de tournesol* (35%)",
+      "sel (0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/864/003/8021/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tesco Finest Stonebaked Rye & Sprouted Grain Bloomer",
+    "marca": "Tesco Finest",
+    "ean": "0288739002254",
+    "ingredientes": [
+      "Wheat Flour [Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin]. Water",
+      "Sprouted Rye (10%)",
+      "Fermented Rye Flour (4%). Ry Flour (2.5%)",
+      "Rye Flakes (2.5%)",
+      "Fermented Rye",
+      "Malted Barley Flour",
+      "Yeast",
+      "Salt",
+      "Wheat Gluten",
+      "Semolina (Wheat)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/873/900/2254/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Finest White Sourdough",
+    "marca": "Tesco",
+    "ean": "0288762003754",
+    "ingredientes": [
+      "Wheat Flour (Wheat Flour",
+      "Calclum Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin]",
+      "Water",
+      "Sea Salt",
+      "Rye Flour",
+      "Stoneground Wholemeal Wheat Flour",
+      "Barley Malt Flour. Barley Malt Extract. Durum Wheat Semolina. This bakery product may also contain peanuts",
+      "nuts",
+      "milk",
+      "sesame",
+      "egg",
+      "soya and other allergens."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/876/200/3754/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Tesco Crusty White Split Tin Sliced Bread 400G",
+    "marca": "Tesco",
+    "ean": "0289050000000",
+    "ingredientes": [
+      "Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Water",
+      "Yeast",
+      "Salt",
+      "Dextrose",
+      "Sourdough Culture (Wheat)",
+      "Wheat Gluten",
+      "Soya Flour",
+      "Palm Oil",
+      "Flavouring",
+      "Rapeseed Oil",
+      "Flour Treatment Agent (Ascorbic Acid)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Escalope de Dinde extra fine",
+    "marca": "Carrefour Classic'",
+    "ean": "0289054029520",
+    "ingredientes": [
+      "Deux escalopes de Dinde extra fines"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/905/402/9520/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tesco Hot Dog Rolls 6 Pack",
+    "marca": "Tesco",
+    "ean": "0289070000000",
+    "ingredientes": [
+      "Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Water",
+      "Yeast",
+      "Emulsifiers (Mono - and Di-Glycerides of Fatty Acids",
+      "Sodium Stearoyl-2-Lactylate",
+      "Mono - and Di-Acetyltartaric Esters of Mono - and Di-Glycerides of Fatty Acids)",
+      "Salt",
+      "Sugar",
+      "Wheat Gluten",
+      "Dextrose",
+      "Palm Oil",
+      "Soya Flour",
+      "Thickener (Guar Gum)",
+      "Rapeseed Oil",
+      "Flour Treatment Agents (Ascorbic Acid",
+      "L-Cysteine Hydrochloride)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese and onion baked",
+    "marca": "Walkers",
+    "ean": "02890825",
+    "ingredientes": [
+      "Potato Flakes",
+      "Starch",
+      "Rapeseed Oil",
+      "Prawn Cocktail Seasoning",
+      "Sugar",
+      "Emulsifier (Lecithins)",
+      "Sunflower Oil",
+      "Colour (Annatto Norbixin). Prawn Cocktail Seasoning: Flavouring",
+      "Sugar",
+      "Yeast Powder",
+      "Salt",
+      "Dextrose",
+      "Acid (Citric Acid)",
+      "Potassium Chloride",
+      "Onion Powder",
+      "Tomato Powder",
+      "Colour (Paprika Extract)",
+      "Sweetener (Sucralose). Allergy Advice May Contain: Milk",
+      "Wheat",
+      "Gluten",
+      "Barley",
+      "Soya",
+      "Celery",
+      "Mustard"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Cajun Smoked Salmon Flavoured Spread, Salmon",
+    "marca": "Kanimi",
+    "ean": "0289143004551",
+    "ingredientes": [
+      "Imitation salmon (fish protein [pollock",
+      "pacific whiting and/or salmon]",
+      "water wheat starch",
+      "rice [water",
+      "sugar",
+      "alcohol",
+      "rice",
+      "salt)",
+      "egg white",
+      "sugar",
+      "soybean oil",
+      "sorbitol",
+      "potato starch",
+      "contains 2% or less of: natural & artificial flavors",
+      "modified tapioca starch",
+      "salt",
+      "soy protein isolate",
+      "wheat gluten",
+      "calcium carbonate",
+      "oat fiber",
+      "autolyzed yeast extract",
+      "sodium tripolyphosphate",
+      "tetrasodium pyrophosphate",
+      "carmine",
+      "color added)",
+      "sour cream (cultured pasteurized grade a milk",
+      "cream and nonfat milk solids",
+      "and gelatin)",
+      "mayonnaise (soybean oil",
+      "water",
+      "egg yolks",
+      "distilled vinegar",
+      "salt",
+      "polysorbate 60",
+      "mustard flour",
+      "xanthan flavor)",
+      "neufchatel cheese (pasteurized cultured milk and cram",
+      "cheese culture",
+      "salt",
+      "stabilizers [xanhan gum and/or carob bean and/or guar gums])",
+      "contains 2% or less: water",
+      "salt",
+      "dehydrated garlic",
+      "spices",
+      "green onions",
+      "glucond delta lactone",
+      "modified corn starch",
+      "potassium sorbate and sodium benzote (preservatives)",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Filets de Poulet",
+    "marca": "Le Gaulois",
+    "ean": "0289163026830",
+    "ingredientes": [
+      "Poulet (France)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/028/916/302/6830/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

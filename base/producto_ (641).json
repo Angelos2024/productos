@@ -1,0 +1,1301 @@
+[
+  {
+    "nombre": "Fire Roasted Primavera Mistura",
+    "marca": "Pura Vida",
+    "ean": "0558693634083",
+    "ingredientes": [
+      "Red Bell Pepper",
+      "Zucchini",
+      "Yellow Squash",
+      "Red Onions",
+      "Broccoli",
+      "Avocado Oil",
+      "Garlic Powder",
+      "Himalayan Pink Salt",
+      "Onion Powder",
+      "Black Pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/055/869/363/4083/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Nigeria"
+  },
+  {
+    "nombre": "Instant Coffee - Rich French Vanilla",
+    "marca": "Nestlé",
+    "ean": "05588202",
+    "ingredientes": [
+      "chicory",
+      "instant coffee flavour and arti"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Nescafe Hazelnut",
+    "marca": "Nescafé",
+    "ean": "05588309",
+    "ingredientes": [
+      "CHICORY",
+      "INSTANT COFFEE",
+      "FLAVOUR AND ARTIFICIAL FLAVOUR",
+      "ACESULFAME-POTASSIUM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/558/8309/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "salame al tartufo",
+    "marca": "Gianni Negrini",
+    "ean": "05591826",
+    "ingredientes": [
+      "viande de porc sel dextrose épices truffe noire 1% arômes ascorbate de sodium nitrate de potassium nitrite de sodium 33"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "les papillotes",
+    "marca": "révillon",
+    "ean": "0559496048077",
+    "ingredientes": [
+      "sucre",
+      "sirop de glucose",
+      "purées de fruits (pommes",
+      "poires",
+      "framboises",
+      "abricots)",
+      "gélifiant :  pectine",
+      "jus de citron concentré",
+      "arômes naturels de poire et d abricot",
+      "antioxydant : acide ascorbique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dry Mustard Pwd  • Moutarde",
+    "marca": "Keen’s & Colman’s",
+    "ean": "05600122",
+    "ingredientes": [
+      "Dry Mustard Powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/560/0122/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Redhot sauce buffalo and ranch",
+    "marca": "Frank's",
+    "ean": "05600229",
+    "ingredientes": [
+      "soybean oil",
+      "vinegar",
+      "water",
+      "milk ingredients",
+      "aged cayenne red peppers",
+      "sugar",
+      "egg yolk",
+      "salt",
+      "modified corn starch",
+      "spices and herbs",
+      "garlic powder",
+      "onion powder",
+      "lactic acid",
+      "phosphoric acid",
+      "% daily value 06 % valeur quotídienne d/saturés 1.5 g trans 0 g ate/glucides 3 g 1% 8% yeast extract",
+      "xanthan gum",
+      "sour cream (milk 0 sa 0%ingredients",
+      "bacterial 2% culture)",
+      "sodium benzoate",
+      "natural flavour",
+      "calcium disodium edta. /sucres 2 g protéines 0.4 g rol/cholestérol 10 mg ingrédients : huile de fève % 6 100mg de soya",
+      "vinaigre",
+      "eau",
+      "substances laitières",
+      "piments de cayenne rouges % vieillis",
+      "sucre",
+      "jaune d'oeuf",
+      "sel",
+      "amidon de maïs modifié",
+      "epices et herbes",
+      "poudre d'ail",
+      "poudre d'oignon",
+      "acide lactique",
+      "acide phosphorique",
+      "extrait de levure",
+      "gomme xanthane",
+      "crème sure (substances laitières",
+      "culture bactérienne)",
+      "benzoate de sodium",
+      "arôme naturel",
+      "edta de calcium disodique. 10mg less is a little"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mini Orange Sodas",
+    "marca": "Crush",
+    "ean": "05600502",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural flavour",
+      "Modified corn starch",
+      "Ester gum",
+      "Sunset yellow FCF",
+      "Salt",
+      "Allura red."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/560/0502/front_en.29.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pizza cuite au feu de bois Chorizo",
+    "marca": "Carrefour Original",
+    "ean": "0560070345397",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "poivrons rouges et jaunes 10%",
+      "purée de tomates 9",
+      "correcteur d'acidité: acide citrique)",
+      "édam 7",
+      "chorizo 7",
+      "gras de porc",
+      "sel",
+      "dextrose",
+      "poivre",
+      "gingembre",
+      "coriandre",
+      "piment",
+      "cannelle",
+      "panais",
+      "paprika",
+      "antioxydants: acide érythorbique - érythorbate de sodium - extrait de romarin",
+      "conservateur: nitrite de sodium",
+      "ferments lactiques)",
+      "huile de tournesol",
+      "concentré de tomates 2%",
+      "oignons frits (oignons",
+      "huile de tournesol)",
+      "sel",
+      "levure",
+      "amidon modifié de maïs",
+      "oignon",
+      "origan",
+      "romarin",
+      "sarriette",
+      "basilic",
+      "marjolaine",
+      "thym",
+      "ail",
+      "poivre noir. Viande de porc origine France. Peut contenir des traces de soja et moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/007/034/5397/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salted caramel",
+    "marca": "NAKD.",
+    "ean": "0560088707937",
+    "ingredientes": [
+      "dates",
+      "raisins",
+      "cashew",
+      "peanuts",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/008/870/7937/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Shiitake Snack",
+    "marca": "Izudori",
+    "ean": "0560294972419",
+    "ingredientes": [
+      "Shiitake mushroom",
+      "vegetable oil (palm oil)",
+      "sugar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pan Rustic",
+    "marca": "Andrés",
+    "ean": "05603941",
+    "ingredientes": [
+      "Harina de TRIGO (GLUTEN)",
+      "Harina de CENTENO (GLUTEN)",
+      "agua",
+      "aceite de oliva virgen extra (2%) sal",
+      "levadura y emulgente E472e."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "levadura y emulgente E472e.",
+        "razon": "Contiene levadura y emulgente E472e., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/560/3941/front_es.4.400.jpg",
+    "tahor": false,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Bolinhos de Amendoim",
+    "marca": "Frutos do Oeste",
+    "ean": "0560447600775",
+    "ingredientes": [
+      "AMENDOIM(55%)",
+      "açúcar",
+      "FARINHA DE TRIGO",
+      "água",
+      "mel",
+      "cacau em pó",
+      "oleo vegetal e fermento"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/044/760/0775/front_pt.4.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Filets de sardines Tomate & Petits légumes",
+    "marca": "Pêche Océan",
+    "ean": "0560460119433",
+    "ingredientes": [
+      "Filets de sardines précuits",
+      "eau",
+      "double concentré de tomate 12 %",
+      "oignons 5%",
+      "courgettes 5 %",
+      "sel",
+      "vinaigre d'alcool",
+      "sucre",
+      "amidon modifié de maïs",
+      "basilic."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/046/011/9433/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Caribbean paradise, coconut water",
+    "marca": "Caribbean Paradise",
+    "ean": "0560490010854",
+    "ingredientes": [
+      "Coconut juice",
+      "sugar",
+      "citric acid",
+      "sodium metabisulphite",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocours",
+    "marca": "Marque Repère",
+    "ean": "0560506658995",
+    "ingredientes": [
+      "Sirop de glucose",
+      "chocolat au lait 30 % (sucre",
+      "beurre de cacao",
+      "poudre de lait entier",
+      "pâte de cacao",
+      "émulsifiant : lécithines (soja)",
+      "arôme naturel de vanille)",
+      "sucre",
+      "dextrose",
+      "sucre glace",
+      "gélatine de porc",
+      "arôme naturel de vanille",
+      "protéines de lait hydrolysées. Traces de gluten et fruits à coque."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/050/665/8995/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Miel de Fleurs",
+    "marca": "Bio Village",
+    "ean": "0560587108129",
+    "ingredientes": [
+      "Miel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/058/710/8129/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "뿌셔 뿌셔",
+    "marca": "Ottogi",
+    "ean": "05608203",
+    "ingredientes": [
+      "farine de ble",
+      "huile de palme",
+      "fécule de pomme de terre",
+      "modifié pome de terre)",
+      "assaisonnement pour barbecue sauce de soua",
+      "glucose",
+      "extrait de levure)",
+      "sel",
+      "farine sucre arome de barbecue glucose sauce de soja",
+      "arôme a régulateurs d'acidite(carbonate de sodium",
+      "triph pentasodique",
+      "diphosphate disodique",
+      "carbonate de polyphosphate de potassium)",
+      "sauce de soja'soja",
+      "ble mais",
+      "glycosides de stéviol ġlycosyļės",
+      "phošphate tr= carbonate de calcium",
+      "extrait de thé vert",
+      "riboflavin 'enpoudre content ble",
+      "soja",
+      "laip peut contenir des arach 7s des noix",
+      "du sésame. des crustaces",
+      "des mollusoues",
+      "de la moutarde",
+      "how to enjoy/comment dége"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/560/8203/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Orange Soda",
+    "marca": "Crush",
+    "ean": "05609008",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural flavour",
+      "Modified corn starch",
+      "Ester gum",
+      "Sunset yellow FCF",
+      "Salt",
+      "Allura red"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/560/9008/front_en.34.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Miel de Caña",
+    "marca": "Bloch",
+    "ean": "05611012",
+    "ingredientes": [
+      "Melaza de caña."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/561/1012/front_es.12.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Cacahuètes enrobsé goût paprika",
+    "marca": "Tokapi",
+    "ean": "0561201700262",
+    "ingredientes": [
+      "Cacahuètes 50 %",
+      "amidon de pomme de terre 30%",
+      "huile de tournesol",
+      "sucre glace",
+      "sel",
+      "épices (ail en poudre",
+      "paprika 0",
+      "dextrose",
+      "amidon de blé",
+      "amidon modifié de maïs",
+      "sucre",
+      "oignon en poudre",
+      "levure en poudre : colorants : curcumine",
+      "extrait de paprika",
+      "extrait de levure",
+      "acidifiant : acide citrique",
+      "correcteur d'acidité : E2 arôme naturel",
+      "farine de blé",
+      "extrait de curcuma. Traces de fruits à coque."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/120/170/0262/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pecheresse",
+    "marca": "Lindemans",
+    "ean": "05612127",
+    "ingredientes": [
+      "eau de brassage",
+      "concentré de pêche (min. 20%)",
+      "malt d'orge",
+      "sucre",
+      "froment",
+      "houblon",
+      "arômes naturels",
+      "édulcorant glycosides de stéviol",
+      "antioxydant acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/561/2127/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sanpellegtino clementina e pesca",
+    "marca": "Sanpellegrino",
+    "ean": "05613117",
+    "ingredientes": [
+      "Eau",
+      "jus de clémentine à base de concentré 4%",
+      "jus de pêche à base de concentré 4%",
+      "sucre",
+      "dioxyde de carbone",
+      "arôme naturel de tangerine avec autres arômes naturels",
+      "arôme naturel de pêche avec autres arômes naturels orôme naturel",
+      "concentré de curcuma",
+      "concentré de carotte et de cassis",
+      "acidifiant : acide citrique. S A consommer"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/561/3117/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ajonjoli - semillas",
+    "marca": "San Lazaro",
+    "ean": "0561881940019",
+    "ingredientes": [
+      "au wwWdigrais.com INGREDIENTES: Semilla de Ajonjol."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/188/194/0019/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Reissirup-Aufstrich",
+    "marca": "Werz",
+    "ean": "05621310",
+    "ingredientes": [
+      "Zutaten",
+      "Fermentiert",
+      "Wasser",
+      "Kakao",
+      "Palmöl",
+      "Rapsöl",
+      "Reissirup"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/562/1310/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Spaghetti",
+    "marca": "Boni, Boni Selection",
+    "ean": "05624652",
+    "ingredientes": [
+      "SPAGHETTI AUX EUFS FRAIS - Semoule de BLÉ dur",
+      "eau. PEUT CONTENIR DES TRACES DE SOJA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/562/4652/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Pesto rouge algues et légumes du soleil",
+    "marca": "Marinoë",
+    "ean": "0563030208094",
+    "ingredientes": [
+      "Algues marines* 40% (Haricot de mer*",
+      "Dulse*)",
+      "eau",
+      "huile de colza désodorisée*",
+      "tomates* 8% (tomates concentrées*",
+      "amidon de mais*)",
+      "poivrons rouges*",
+      "vinaigre de cidre",
+      "sel de mer",
+      "ail*",
+      "jus concentré de citron*",
+      "cumin*",
+      "piment*",
+      "acidifiant : acide lactique. *Issus de l'agriculture biologique traces possibles de soja",
+      "moutarde",
+      "sésame",
+      "noix",
+      "mollusques et crustacés Source de fibres."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/303/020/8094/front_fr.24.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Cream Soda",
+    "marca": "Crush",
+    "ean": "05630804",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural and artificial flavour",
+      "Amaranth",
+      "Quillaia extract",
+      "Caramel colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/563/0804/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bananes Cavendish",
+    "marca": "BioVillage",
+    "ean": "0563147141710",
+    "ingredientes": [
+      "Banane 100 %"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/314/714/1710/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Batido de chocolate",
+    "marca": "Pascual",
+    "ean": "05633439",
+    "ingredientes": [
+      "Leche parcialmente desnatada al 1% M.G. (91%)",
+      "azúcar",
+      "cacao desgrasado (1",
+      "estabilizantes: E-460",
+      "E-466",
+      "E-500",
+      "E-339 y aromas."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/563/3439/front_es.14.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Riz semi-complet",
+    "marca": "Bio Village",
+    "ean": "0563468117357",
+    "ingredientes": [
+      "riz"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/346/811/7357/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de maquereaux Marinade Aromates et Muscadet",
+    "marca": "Pêche Océan",
+    "ean": "0563560016619",
+    "ingredientes": [
+      "Filets de _maquereaux_ 59",
+      "eau",
+      "vinaigre de vin blanc",
+      "vinaigre d'alcool",
+      "poivrons rouges 2",
+      "carottes 2",
+      "cornichons au vinaigre 2",
+      "sel",
+      "vinaigre d'alcool",
+      "affermissant : chlorure de calcium)",
+      "muscadet 1",
+      "oignons 1",
+      "sel",
+      "arôme naturel de poivre",
+      "persil 0",
+      "arôme naturel d'oignon",
+      "arôme naturel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/356/001/6619/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "délisse yaourt à la grecque sur lit aux fruits",
+    "marca": "Délisse",
+    "ean": "0563560827840",
+    "ingredientes": [
+      "Lait entier pasteurisé 59",
+      "crème pasteurisée 14",
+      "sucre 10",
+      "morceaux et purée de pêche 10% ou purée de fruit de la passion 3",
+      "amidon (variété pêche) ou amidon modifié (variété fruit de la passion)",
+      "protéines de lait",
+      "arômes naturels",
+      "correcteurs d'acidité: E331 (variété fruit de la passion)",
+      "acide citrique",
+      "épaississant: pectines",
+      "ferments lactiques. CONSERVATION"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/356/082/7840/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "MULTIFRUITS, boisson à base de jus de fruits et de jus filtré désucré",
+    "marca": "Jafaden",
+    "ean": "0563566649064",
+    "ingredientes": [
+      "Jus de pomme filtré 32 %",
+      "jus d'orange 23 %",
+      "jus de pomme 19 %",
+      "jus d'ananas 8%",
+      "purée de mangue 7",
+      "purée de banane 7%",
+      "purée d'abricot 2",
+      "jus de fruit de la passion 1 %."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/356/664/9064/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sucre vanillé",
+    "marca": "Bio Village",
+    "ean": "0563567102360",
+    "ingredientes": [
+      "Sucre de canne 94%",
+      "extrait naturel de vanille",
+      "gousses de vanille broyées 1",
+      "amidon de maïs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/356/710/2360/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "mogette de Vendée cuite au naturel",
+    "marca": "Nos Régions ont du Talent",
+    "ean": "0563569188096",
+    "ingredientes": [
+      "eau",
+      "mogette de Vendée label rouge sèche",
+      "trempée",
+      "blanchie",
+      "sel marin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/356/918/8096/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bio-Fruchtjoghurt mild Himbeere-Holunderbeere",
+    "marca": "Lidl",
+    "ean": "05640140",
+    "ingredientes": [
+      "Joghurt mild",
+      "Zucker 4% Himbeeren",
+      "Maisstärke",
+      "Zitronensaftkonzentrat",
+      "Verdickungsmittel: Johannisbrotkernmehl",
+      "färbendes Rote-Bete-Saftkonzentrat."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/0140/front_de.13.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Kaubo Mix",
+    "marca": "Sweet Tec",
+    "ean": "05640188",
+    "ingredientes": [
+      "Zucker",
+      "Glukosesirup",
+      "Palmfett",
+      "Feuchthaltemittel: Sorbit",
+      "Säuerungsmittel: Citronensäure",
+      "Speisegelatine (Schwein)",
+      "Kokosnussöl",
+      "Maltodextrin",
+      "natürliches Aroma",
+      "Emulgator: Lecithine (Sonnenblume)",
+      "färbende Lebensmittel (Konzentrat aus Kürbis",
+      "Apfel",
+      "Spirulina",
+      "Karotte",
+      "Schwarze Johannisbeere",
+      "Rettich",
+      "Süßkartoffel",
+      "Saflor)",
+      "Überzugsmit - tel: Bienenwachs weiß und gelb",
+      "natürliches Orangen-Aroma",
+      "Antioxidationsmittel: Ascorbinsäure",
+      "Farbstoff: Zuckerkulor",
+      "Kupferkomplexe der Chlorophylle und Chlorophylline. Kann Spuren von Milch und Schalenfrüchten (Mandeln",
+      "Haselnuss",
+      "Cashew) enthalten."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulgator: Lecithine (Sonnenblume)",
+        "razon": "Contiene Emulgator: Lecithine (Sonnenblume), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/0188/front_de.4.400.jpg",
+    "tahor": false,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Elbow macaroni product",
+    "marca": "Shop Rite",
+    "ean": "05640403",
+    "ingredientes": [
+      "Semolina. enriched with iron (ferrous sulfate)",
+      "and b vitamins (niacin",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vegetarische filet americain",
+    "marca": "Vemondo,Lidl",
+    "ean": "05640621",
+    "ingredientes": [
+      "Raapzaadolie",
+      "tuinbonenbloem",
+      "water",
+      "havervlokken",
+      "eigeel",
+      "suiker",
+      "rijstzetmeel",
+      "verdikkingsmiddelen: natriumalginaat",
+      "carrageen",
+      "guarpitmeel",
+      "xanthaangom",
+      "dextrose",
+      "spečerijen (bevat mosterd)",
+      "voedingszuren: azijnzuur",
+      "kaliumacetaten",
+      "kaliumlactaat",
+      "citroenzuur",
+      "melkeiwitten",
+      "tomatenpuree",
+      "zout",
+      "natuurlijke aroma's (bevat mosterd)",
+      "glucose-fructosestroop",
+      "gemodificeerd zetmeel (mais)",
+      "azijn",
+      "gedroogde groenten (tomaat",
+      "champignon)",
+      "mosterd (water",
+      "mosterdzaad",
+      "azijn",
+      "zout",
+      "kurkuma)",
+      "gehydrolyseerde eiwitten (soja",
+      "mais)",
+      "conserveermiddel: kaliumsorbaat",
+      "gistextract",
+      "specerijextracten (bevat selderij)",
+      "stabilisator: natriumcitraten",
+      "ijzerfosfaat",
+      "lavasblad. *van scharreleieren."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/0621/front_nl.7.400.jpg",
+    "tahor": true,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Pechuga pavo finas lonchas",
+    "marca": "Realvalle",
+    "ean": "05642212",
+    "ingredientes": [
+      "COUNTRY CROCK AN GATORADE"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "COUNTRY CROCK AN GATORADE",
+        "razon": "Contiene COUNTRY CROCK AN GATORADE, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/2212/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "chili con carne -boeuf",
+    "marca": "Carrefour",
+    "ean": "0564555758323",
+    "ingredientes": [
+      "Haricots rouges réhydratés 33%",
+      "eau",
+      "viande de boeuf 15%",
+      "concentré de tomates",
+      "poivrons",
+      "mais 3%",
+      "oignons",
+      "Sucre",
+      "sel",
+      "épices (cumin",
+      "coriandre",
+      "piment fort)",
+      "farine de blé",
+      "al en poudre",
+      "arôme naturel de poivre avec d'autres arômes naturels",
+      "colorant: extrait de paprika. Peut contenir des traces de lait",
+      "céleri",
+      "moutarde",
+      "ceuf. Viande de boeuf: origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/455/575/8323/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "fruchtgurt",
+    "marca": "milbona",
+    "ean": "05647262",
+    "ingredientes": [
+      "Nährwerte Jogh Zutae 0/100 g aft 377 kJ/90 kcal Chn L事DL Energie 3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/7262/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Sicilian Lemon Extract",
+    "marca": "Lidl Belbake",
+    "ean": "05648229",
+    "ingredientes": [
+      "Rapeseed Oil",
+      "Sicilian Lemon Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/8229/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Orange Premium",
+    "marca": "Solevita",
+    "ean": "05648238",
+    "ingredientes": [
+      "Direktsaft Orange"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/8238/front_de.5.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Grandes tranches",
+    "marca": "Maître Jean Pierre",
+    "ean": "05648979",
+    "ingredientes": [
+      "eau",
+      "sucre",
+      "huile de colza",
+      "sel",
+      "farine de fève",
+      "levure",
+      "arôme (contient alcool)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/564/8979/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "bon gelati premium ice cream",
+    "marca": "Lidl",
+    "ean": "05649518",
+    "ingredientes": [
+      "skimmed milk",
+      "sugar",
+      "cocoa butter¹",
+      "liquid whey concentrate (milk)",
+      "whole milk powder",
+      "coconut fat",
+      "glucose syrup",
+      "cocoa mass",
+      "glucose-fructose syrup butter oil (milk)",
+      "emulsifiers: mono - and diglycerides of fatty acids",
+      "lecithins (soya)",
+      "polyglycerol polyricinoleate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Bio Tomato Ketchup",
+    "marca": "Kania",
+    "ean": "05651153",
+    "ingredientes": [
+      "purée de tomates concentrées* 74% - sucre brut de canne*% - vinaigre d'alcool* - semaine - epices *. *issus de l'agriculture biologique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/565/1153/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "salade fresh bowling au poulet mariné aneth",
+    "marca": "I-Lunch",
+    "ean": "05651223",
+    "ingredientes": [
+      "Quinoa blanc 38%",
+      "filet de poulet 19% (origine France)",
+      "pois chiches 15% (pois chiches",
+      "eau",
+      "sel)",
+      "carotte 8%",
+      "vinaigre de Xérès 6% (sulfites)",
+      "fromage blanc (lait écrémé",
+      "crème pasteurisée",
+      "ferments lactiques)",
+      "échalote",
+      "huile d'olive",
+      "baies de goji (issues de l'agriculture biologique)",
+      "aneth",
+      "persil plat",
+      "jus de citron vert us de citron vert et citron à base de concentré (45% dont 5% de pulpe)",
+      "acidifiant : acide citrique extraits naturels de citron vert",
+      "extraits naturels de végétaux colorant : E141]. Allergènes: Sulfites",
+      "lait. Produit sur un site utilisant tous les allergènes majeurs. Préparé à la main dans nos ateliers en lle-de-France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Orange Soda",
+    "marca": "Crush",
+    "ean": "05654309",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural flavour",
+      "Modified corn starch",
+      "Ester gum",
+      "Sunset yellow FCF",
+      "Salt",
+      "Allura red"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/565/4309/front_en.23.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Grape Soft Drink",
+    "marca": "Crush",
+    "ean": "05654406",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugar/glucose-fructose",
+      "Citric acid",
+      "Natural and artificial flavour",
+      "Sodium benzoate",
+      "Colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/565/4406/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Vitamin lemonade",
+    "marca": "Hema",
+    "ean": "05654451",
+    "ingredientes": [
+      "Eau",
+      "sucre",
+      "dextrose",
+      "lactate de calcium",
+      "artne naturel",
+      "correcteur d'acidité E330",
+      "antioxydant E300",
+      "émulsifiant Vitamine B5",
+      "colorant E160e",
+      "Vitamine B6",
+      "Vitamine B8",
+      "Vitamine B"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/565/4451/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cream Soda",
+    "marca": "Crush",
+    "ean": "05654503",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural and artificial flavour",
+      "Amaranth",
+      "Quillaia extract",
+      "Caramel colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/565/4503/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cream Soda",
+    "marca": "Crush",
+    "ean": "05660300",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural and artificial flavour",
+      "Amaranth",
+      "Quillaia extract",
+      "Caramel colour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/566/0300/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Hershey's almonds",
+    "marca": "Hershey",
+    "ean": "05663038",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk ingredients",
+      "cocoa butter",
+      "unsweetened chocolate",
+      "lecithin [soy]",
+      "polyglycerol polyricinoleate",
+      "natural flavour)",
+      "Almonds",
+      "Sunflower oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/566/3038/front_en.41.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Creamy Milk Chocolate Bar",
+    "marca": "Hershey's",
+    "ean": "05663135",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk ingredients",
+      "cocoa butter",
+      "unsweetened chocolate",
+      "lecithin [soy]",
+      "polyglycerol polyricinoleate",
+      "natural flavour)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/566/3135/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "100% oranges sans pulpe",
+    "marca": "innocent",
+    "ean": "05663156",
+    "ingredientes": [
+      "oranges pressées 100%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/566/3156/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Keto bread original",
+    "marca": "Carbonaut",
+    "ean": "0566851000014",
+    "ingredientes": [
+      "*5% or less is a little",
+      "Wheat protein",
+      "Resistant tapioca and/or resistant potato starch",
+      "Flax meal",
+      "High oleic sunflower oil",
+      "Wheat and/or bamboo fibre",
+      "Yeast",
+      "Psyllium",
+      "Inulin",
+      "Cultured wheat starch",
+      "Pea fibre",
+      "Salt",
+      "Citric acid",
+      "Sesame flour. Contains: Wheat",
+      "Sesame. Ingrédients : L'eau",
+      "Protéine de blé",
+      "Tapioca résistant et/ou fécule de pomme de terre résistant",
+      "Farine de lin",
+      "Huile de tournesol à haute teneur en acide oléique",
+      "Fibre de blé et/ou de bambou",
+      "Levure",
+      "Psyllium",
+      "Inuline",
+      "Amidon de blé de culture",
+      "Fibre de pois",
+      "Sel",
+      "Acide citrique",
+      "Farine de sésame. Contient: Ble",
+      "Sésame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/056/685/100/0014/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Herseys kisses",
+    "marca": "Hershey's",
+    "ean": "05668839",
+    "ingredientes": [
+      "sugar",
+      "milk ingredients",
+      "cocoa butter",
+      "unsweetened chocolate",
+      "lecithin (soy)",
+      "artificial flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/566/8839/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Lowensenf, Hot Mustard",
+    "marca": "Dusseldorfer Lowensenf Gmbh.",
+    "ean": "0567045340343",
+    "ingredientes": [
+      "Mustard seed",
+      "vinegar",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Arriba",
+    "marca": "Old Dutch",
+    "ean": "05670642",
+    "ingredientes": [
+      "Whole grain corn",
+      "Vegetable oil",
+      "Sugars (corn maltodextrin",
+      "sugar)",
+      "Salt",
+      "Onion powder",
+      "Spices",
+      "Garlic powder",
+      "Hydrolyzed com protein",
+      "Cheddar cheese",
+      "Cornstarch",
+      "Tomato powder Monosodium glutamate",
+      "Whey powder",
+      "Sodium diacetate",
+      "Natural flavour",
+      "Buttermilk powder Silicon dioxide",
+      "Sodium phosphate",
+      "Paprika extract",
+      "Lactic acid",
+      "Dehydrated parsley",
+      "Citric acid Turmeric extract",
+      "Disodium guanylate",
+      "Disodium inosinate",
+      "Calcium hydroxide. Contains: Milk Ingrédients: Mais à grains entiers",
+      "Huile végétale",
+      "Sucres (maltodextrine de maïs",
+      "sucre). Sel Poudre d'oignon",
+      "Epices",
+      "Poudre d'ail",
+      "Protéines hydrolysées de mais",
+      "Fromage cheddar",
+      "Fécule de mais",
+      "Poudre de tomate",
+      "Glutamate monosodique",
+      "Poudre de lactosérum",
+      "Diacétate de sodiu Arome naturel",
+      "Poudre de babeurre",
+      "Dioxyde de silicium",
+      "Phosphate de sodium",
+      "Extrait de pe Acide lactique",
+      "Persil déshydraté",
+      "Acide citrique",
+      "Extrait de curcuma",
+      "Guanylate disodique",
+      "disodique",
+      "Hydroxyde de calcium. Contient: Lait"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/567/0642/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  }
+]

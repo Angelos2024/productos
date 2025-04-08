@@ -1,0 +1,749 @@
+[
+  {
+    "nombre": "Mousse pur canard",
+    "marca": "Carrefour",
+    "ean": "0295907015619",
+    "ingredientes": [
+      "Foie maigre de canard 38.5%",
+      "graisse de canard 34%",
+      "LAIT demi-écrémé",
+      "eau",
+      "farine de BLE",
+      "sel",
+      "acidifiants: Lactate de sodium et acétate de sodium",
+      "dextrose",
+      "LACTOSE",
+      "Porto rouge. protéine de LAIT",
+      "poivre",
+      "sucre",
+      "gélifiant : carraghénanes. colorants : carmins et caroténoïdes",
+      "antioxydant: érythorbate de sodium",
+      "blanc d'OEUF en poudre",
+      "épices",
+      "plantes aromatiques",
+      "conservateur : nitrite de sodium",
+      "arôme. Peut contenir : fruits à coque",
+      "céleri",
+      "moutarde",
+      "soja",
+      "crustacés",
+      "poissons",
+      "sésame",
+      "mollusques. Canard origine UE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/590/701/5619/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lean Ground Beef",
+    "marca": "Publix",
+    "ean": "0296040515240",
+    "ingredientes": [
+      "ground beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/604/051/5240/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "tofu moelleux",
+    "marca": "pangniu food",
+    "ean": "02961507",
+    "ingredientes": [
+      "Eau 75%",
+      "soja 24%",
+      "séquestrant ES75"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/296/1507/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisson",
+    "marca": "Boni",
+    "ean": "0296299063172",
+    "ingredientes": [
+      "Viande de porc (125g utilisés pour 100 g de produit fini)",
+      "sel",
+      "lactose",
+      "dextrose",
+      "sirop de glucose",
+      "sucre",
+      "épices",
+      "conservateur : nitrate de potassium",
+      "ferments. Présence éventuelle de l'allergène blé. BOYAU NATUREL DE PORC SANS AJOUT DE COLORANT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "2 hand cut Welsh lamb rack cutlets",
+    "marca": "Waitrose",
+    "ean": "0296357003980",
+    "ingredientes": [
+      "Lamb cutlets"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/635/700/3980/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Morbier",
+    "marca": "Le Montagnon",
+    "ean": "0296412012339",
+    "ingredientes": [
+      "_Lait cru_",
+      "sel",
+      "ferments",
+      "présure",
+      "colorant : charbon végétal."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/641/201/2339/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Morbier",
+    "marca": "le montagnon",
+    "ean": "0296412016016",
+    "ingredientes": [
+      "_Lait cru_",
+      "sel",
+      "ferments",
+      "présure",
+      "colorant : charbon végétal."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/641/201/6016/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Morbier",
+    "marca": "Le Montagnon",
+    "ean": "0296412019352",
+    "ingredientes": [
+      "Valeurs Glucides dont sua e» Sel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/641/201/9352/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fromage",
+    "marca": "Morbier",
+    "ean": "0296412019482",
+    "ingredientes": [
+      "Lait cru",
+      "sel",
+      "ferments",
+      "presure",
+      "colorant : charbon végétal."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/641/201/9482/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental francais",
+    "marca": "Sapins Verts",
+    "ean": "0296432024206",
+    "ingredientes": [
+      "à consommer (apidernent aptes A consoiT1jner de pcéfécence avant Ir: Incrédients Lait) Sel",
+      "Lôit origine Valeurs ni)tlitionnelles (lloyennes r»out Energie 576RJ ("
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/643/202/4206/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental sapins verts",
+    "marca": "EPE",
+    "ean": "0296432030115",
+    "ingredientes": [
+      "LaitÊ Sel",
+      "Fennentse coagulant",
+      "'Lait Oligine France. ts nutii(ionnelles moyennes pour oog : ("
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/643/203/0115/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental sapin vert",
+    "marca": "Sapin Vert",
+    "ean": "0296432031099",
+    "ingredientes": [
+      "Lait",
+      "Sel",
+      "Ferments",
+      "coagulant."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/643/203/1099/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Deli Fresh Popcorn",
+    "marca": "Publix",
+    "ean": "0296651102495",
+    "ingredientes": [
+      "POPCORN(POPPING CORN",
+      "SALT",
+      "ARTIFICIAL FLAVOR",
+      "YELLOW 5 LAKE",
+      "YELLOW 6 LAKE)",
+      "OIL (SUNFLOWER OIL CANOLA OIL ARTIFIC IAL FLAVOR",
+      "BETA CAROTENE (COLOR)",
+      "TBHQ(TO PRESERVE FRESHNESS})"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/665/110/2495/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Breasts",
+    "marca": "Trader Joe's",
+    "ean": "0296763706833",
+    "ingredientes": [
+      "FRESH THIN SLICE BONELESS/SKINLESS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/676/370/6833/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roquefort",
+    "marca": "Le Fromager",
+    "ean": "0297041019553",
+    "ingredientes": [
+      "Lait de brebis • sel - présure • ferments lactiques pénicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/704/101/9553/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roquefort",
+    "marca": "Gabriel Coulet",
+    "ean": "0297045019689",
+    "ingredientes": [
+      "Lait cru de brebis - sel-présure - ferments lactiques - pénicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/704/501/9689/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roquefort",
+    "marca": "Gabriel Coulet",
+    "ean": "0297045023167",
+    "ingredientes": [
+      "Lait cru de brebis - sel - présure - ferments lactiques - pénicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/704/502/3167/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roquefort AOP Bio",
+    "marca": "Gabriel Coulet SA",
+    "ean": "0297048023553",
+    "ingredientes": [
+      "Lait Bio cru de brebis",
+      "sel",
+      "présure",
+      "ferments lactiques",
+      "penicillium requeforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/704/802/3553/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roquefort Bio",
+    "marca": "Gabriel COULET",
+    "ean": "0297063028212",
+    "ingredientes": [
+      "Lait cru Bio de brebis - sel présure - ferments lactiques - pénicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/706/302/8212/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "British beef fillet steak",
+    "marca": "Waitrose Duchy. Organic",
+    "ean": "0297109011727",
+    "ingredientes": [
+      "Beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/710/901/1727/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Poitrine plate de porc",
+    "marca": "Maison ADER",
+    "ean": "0297133022508",
+    "ingredientes": [
+      "poitrine de porc origine france",
+      "sel",
+      "poivre",
+      "épices",
+      "saccharose",
+      "dextrose",
+      "conservateur salpetre",
+      "sel nitrite - conserver de préférence en - de 18° dans un endroit sec et aéré produit suiet a dessication No lot: 201920 DSD: 23527 Date d'emballage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/713/302/2508/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sliced Pasteurized Process Yello American Cheese",
+    "marca": "Winco Foods",
+    "ean": "0297201602991",
+    "ingredientes": [
+      "Cultured milk",
+      "water",
+      "cream",
+      "sodium citrate",
+      "salt",
+      "lactic acid",
+      "sorbic acid(preservative)",
+      "artificial color",
+      "enzymes",
+      "soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deli, White American Cheese",
+    "marca": "Winco Foods",
+    "ean": "0297203002874",
+    "ingredientes": [
+      "Cultured milk",
+      "water",
+      "cream",
+      "salt",
+      "sodium citrate",
+      "lactic acid",
+      "sorbic acid (preservative)",
+      "artificial color",
+      "enzymes",
+      "soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Biery, sliced muenster cheese",
+    "marca": "Biery",
+    "ean": "0297212303016",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa Feurig",
+    "marca": "Gut & Günstig",
+    "ean": "02972220",
+    "ingredientes": [
+      "Wasser",
+      "Tomatenmark einfach konzentriert 24%",
+      "Zucker",
+      "Branntweinessig",
+      "Tomaten 7%",
+      "Zwiebeln 4",
+      "Paprika 4",
+      "modifizierte Stärke",
+      "Speisesalz",
+      "Jalapeño-Chilis 1",
+      "Chili",
+      "Kräuter",
+      "Verdickungsmittel Xanthan",
+      "Gewürze",
+      "färbendes Lebensmittel: Rote-Bete-Saftkonzentrat",
+      "Sâuerungsmittel: Cironensäure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/297/2220/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Winco foods, busseto foods, prosciutto ham",
+    "marca": "Winco Foods",
+    "ean": "0297269704705",
+    "ingredientes": [
+      "Pork ham",
+      "salt",
+      "and less than 2% of the following: sugar",
+      "sodium nitrate",
+      "natural flavorings",
+      "sodium ascorbate",
+      "sodium nitrite",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Maxi Crêpe Grand Marnier x4",
+    "marca": "Leclerc",
+    "ean": "0297272023619",
+    "ingredientes": [
+      "Beurre (_LAIT_)",
+      "farine de _blé_ (_GLUTEN_)",
+      "_lait_ demi écrémé (_LAIT_)",
+      "_oeufs_ entiers (_OEUFS_ ENTIER)",
+      "sucre cristal",
+      "extrait de grand marnier (alcool",
+      "cognac (11%))",
+      "extrait naturel d'oranges amères",
+      "colorant (caramel))"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/727/202/3619/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "1,000 Day Gouda Cheese",
+    "marca": "Trader Joe's",
+    "ean": "0297274306956",
+    "ingredientes": [
+      "Pasteurized Cow's Milk",
+      "Salt",
+      "Cheese Cultures",
+      "Animal Rennet",
+      "Annatto added for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/727/430/6956/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Comté AOP (34% MG) - 323 g -  Leader Price",
+    "marca": "Leader Price",
+    "ean": "0297283020867",
+    "ingredientes": [
+      "lait cru de vache",
+      "sel",
+      "ferments lactiques",
+      "présure animale"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/728/302/0867/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Huvudroll",
+    "marca": "Ikea",
+    "ean": "0297317362444",
+    "ingredientes": [
+      "Minced chicken meat* (69 %)",
+      "water",
+      "onions",
+      "chicken skin",
+      "fried onion (onions",
+      "rapeseed oil)",
+      "potato starch",
+      "salt",
+      "onion powder",
+      "white pepper",
+      "ground ginger",
+      "allspice.* Origin: EU."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/731/736/2444/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "emmental",
+    "marca": "La Vie Claire",
+    "ean": "0297394022835",
+    "ingredientes": [
+      "Mûres*",
+      "sucre de canne non raffiné*",
+      "jus concentré de citron*",
+      "gélifiant : pectine de fruits. Confiture préparée avec 60 g de fruits pour 100 g. Teneur totale en sucres : 61 g pour 100 g"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/739/402/2835/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Monoprix Bio",
+    "ean": "0297394023757",
+    "ingredientes": [
+      "Lait pasteurisé de vache* - sel - ferments lactiques - coagulant microbien. *Issu de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/739/402/3757/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Monoprix bio",
+    "ean": "0297394024938",
+    "ingredientes": [
+      "Lait pasteurisé de vache* - sel - ferments lactiques - coagulant microbien. 'Lsu de l'agriculture biologique. les informations cn gras sont destinées aux personnes intolérantes ou allergiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/739/402/4938/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Monoprix",
+    "ean": "0297394024990",
+    "ingredientes": [
+      "Lait pasteurisé de vache* sel - ferments lactiques - coagulant microbien. *Issu de l'agriculture biologique. Les informations en gras sont destinées aux personnes intolérantes ou allergiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Monoprix",
+    "ean": "0297394025652",
+    "ingredientes": [
+      "Fromage à pâte pressée cuite biologique ( RîréAients•. Lait pasteurisé de vache* ferment tactiques coagu microbienn *Issu de l'egriculture biologi Les informations en gras sor destinées aux peruonnes intolérantes ou allergiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/739/402/5652/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "pain fougasse",
+    "marca": "pain fougasse bac/from 350",
+    "ean": "0297413706999",
+    "ingredientes": [
+      "bacon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "L’assiette de profiteroles 15 choux",
+    "marca": "Leclerc",
+    "ean": "0297428045854",
+    "ingredientes": [
+      "INGREOIENTS . crème patissière (sucre",
+      "amidon modifié",
+      "POUDRE DE LAIT ÉCRÉMÉ",
+      "POUDRE DE LAIT ENTIER",
+      "LACTOSE",
+      "LACTOSÉRUM",
+      "matiéres grasses végétales palmiste",
+      "palmiste totalement hydrogénée",
+      "coco",
+      "SIROP DE GLUCOSE",
+      "PROTÉINES dE LAIT",
+      "sel",
+      "arômes",
+      "colorant . caroténoïdes. émulsifiants : mono et diglycéride d'acides gras",
+      "estères acétiques des mono et diglycéride d'acides gras",
+      "stabilisants : acétate dE calcium",
+      "diphosphatas",
+      "phosphat de sodium)",
+      "sucre glace (dextrose",
+      "RMIDON DE FROMENT",
+      "huila dB colza partiellgmgnt hydrogénée) matière grasse i palma totalement hydrogénée",
+      "arômes antiagglomérants E170",
+      "E470b)",
+      "eau",
+      "pâte à choux FRRINE MATIÈRE DE LRIT",
+      "colorant . E160a",
+      "poudras à : E450i",
+      "E500ii",
+      "stabilisant : E420i génoise sucre",
+      "FRRINE DE BLÉ",
+      "eau",
+      "sirop de sucre inverti",
+      "arôme",
+      "sel",
+      "émulsifiants : E471",
+      "E475",
+      "poudres à lever : AMIDON BLÉ",
+      "E450i",
+      "E500ii",
+      "stabilisant • crème UHT(CRÈHE LIQUIDE",
+      "carraghénanas)",
+      "ganache chocolat (pâte de cacao sucre",
+      "beurre da cacao",
+      "émulsifiant LÉCITHINE DE SOJA)",
+      "sucre (sucra",
+      "sirop dB sucre inverti",
+      "antiagglomérant colorant : caramel)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E470b)",
+        "razon": "Contiene E470b), impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiants : E471",
+        "razon": "Contiene émulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E475",
+        "razon": "Contiene E475, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/742/804/5854/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chef's Salad",
+    "marca": "Publix",
+    "ean": "0297650706998",
+    "ingredientes": [
+      "iceberg lettuce",
+      "bacon ranch dressing",
+      "vegetable oil",
+      "nonfat buttermilk",
+      "whey",
+      "water",
+      "skim milk powder",
+      "corn starch",
+      "tapioca starch",
+      "carrageenan",
+      "locust bean gum",
+      "culture",
+      "water",
+      "egg yolk",
+      "vinegar",
+      "sugar",
+      "salt",
+      "bacon",
+      "water",
+      "salt",
+      "sugar",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrate",
+      "apple cider vinegar",
+      "natural flavor",
+      "dried garlic",
+      "spices",
+      "gums",
+      "xanthan",
+      "guar",
+      "skim milk powder blend",
+      "whey",
+      "sodium caseinate",
+      "skim milk powder",
+      "dried onion",
+      "dried green onion",
+      "ground mustard",
+      "grape tomatoes",
+      "eggs",
+      "cooked turkey breast",
+      "celery juice powder",
+      "sea salt",
+      "cherry powder",
+      "carrot",
+      "ham",
+      "water",
+      "salt",
+      "potassium lactate",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "sodium phosphates",
+      "swiss cheese",
+      "part-skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "anti-caking agent",
+      "potato starch",
+      "powdered cellulose",
+      "natamycin",
+      "cheddar cheese",
+      "milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "annatto",
+      "anti-caking agent",
+      "potato starch",
+      "powdered cellulose",
+      "natamycin",
+      "red cabbage",
+      "carrot",
+      "red cabbage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "langues de porc cuites",
+    "marca": "la bressr",
+    "ean": "0297789026578",
+    "ingredientes": [
+      "ERU",
+      "SE DEXTROSE EPICES ET WROMATES",
+      "CONSERVATEDRS E E316. AROME NATUREL VIANDE ORIGINE UE A CONSO MER RAPIDEMENT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/029/778/902/6578/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

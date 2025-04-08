@@ -1,0 +1,3641 @@
+[
+  {
+    "nombre": "Rustic Tomato Basil Sauce",
+    "marca": "Lucini",
+    "ean": "0648505540517",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC ONIONS",
+      "ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "ORGANIC BASIL",
+      "ORGANIC CARROTS",
+      "SEA SALT",
+      "ORGANIC BLACK PEPPER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium sauce",
+    "marca": "Lucini Italia",
+    "ean": "0648505557201",
+    "ingredientes": [
+      "Tomatoes",
+      "artichokes",
+      "extra virgin olive oil",
+      "onions",
+      "carrots",
+      "sea salt",
+      "parsley",
+      "basil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic sauce",
+    "marca": "Lucini Italia",
+    "ean": "0648505557218",
+    "ingredientes": [
+      "Organic fresh tomatoes",
+      "organic black olives",
+      "organic onions",
+      "organic capers",
+      "organic extra virgin olive oil",
+      "organic white wine vinegar",
+      "sea salt",
+      "organic fresh parsley",
+      "organic fresh basil",
+      "organic black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raspberry Cider",
+    "marca": "1911",
+    "ean": "0648558945406",
+    "ingredientes": [
+      "FRESH PRESSED CIDER",
+      "SUGAR",
+      "MALIC ACID",
+      "NATURAL RASPBERRY EXTRACT",
+      "SULFITES TO PROTECT FLAVOR",
+      "LIGHTLY CARBONATED."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/855/894/5406/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkish Apricots",
+    "marca": "Joseph Xavier Fine Foods",
+    "ean": "0648570000237",
+    "ingredientes": [
+      "Apricots",
+      "sulphur dioxide. added as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Joseph xavier fine foods, sun dried tomatoes",
+    "marca": "Joseph Xavier Fine Foods",
+    "ean": "0648570001067",
+    "ingredientes": [
+      "Sun-dried tomatoes",
+      "so2 (for color retention)",
+      "citric acid",
+      "glucose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepitas",
+    "marca": "Elizabeth's Naturals",
+    "ean": "0648570001166",
+    "ingredientes": [
+      "raw shelled pumpkin seeds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/857/000/1166/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raw Cashews",
+    "marca": "Elizabeth's Naturals",
+    "ean": "0648570004853",
+    "ingredientes": [
+      "raw cashews"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/857/000/4853/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Chocolate Cranberries",
+    "marca": "Robert's Gourmet",
+    "ean": "0648570005904",
+    "ingredientes": [
+      "Milk chocolate(sugar",
+      "cocoa butter",
+      "milk",
+      "chocolate liquor",
+      "soy lecithin (emulsifier)",
+      "lactose",
+      "vanillin (artificial flavor)",
+      "salt)",
+      "cranberries (sugar",
+      "sunflower oil)",
+      "and confectioner's glaze."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rita's Pure Earth Organics, Organic Green Earth Almond Trail Mix",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.",
+    "ean": "0648570011103",
+    "ingredientes": [
+      "Organic raw almonds",
+      "organic raisins (organic sunflower oil)",
+      "organic apricots",
+      "organic pepitas",
+      "organic walnuts",
+      "organic banana chips (organic coconut oil",
+      "organic cane sugar)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Simply Organic Granola, Very Berry",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570011356",
+    "ingredientes": [
+      "Organic whole rolled oats",
+      "organic sunflower seeds",
+      "organic coconut palm sugar",
+      "organic dessicated coconut",
+      "organic extra virgin coconut oil or organic palm fruit oil",
+      "organic unhulled sesame seeds",
+      "sea salt. organic thompson raisins (organic sunflower oil)",
+      "organic cranberries (organic sugar",
+      "organic sunflower oil)",
+      "organic wild blueberries (organic apple juice concentrate",
+      "organic sunflower oil) & organic dried mulberries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rita's Pure Earth Organics, Organic Pecans",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.",
+    "ean": "0648570011837",
+    "ingredientes": [
+      "Organic pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rita's pure earth organics, cashews roasted no salt",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570011875",
+    "ingredientes": [
+      "Organic cashews no salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rita's Pure Earth Organics, Organic Raw Mixed Nuts",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.",
+    "ean": "0648570011882",
+    "ingredientes": [
+      "Organic raw almonds",
+      "organic raw cashews",
+      "organic walnuts",
+      "organic pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Turkish Apricots",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570011943",
+    "ingredientes": [
+      "Organic dried apricots"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Banana Chips",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570011950",
+    "ingredientes": [
+      "Organic bananas (organic coconut oil",
+      "organic sugar)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Cranberries",
+    "marca": "Rita's Pure Earth Oragnics",
+    "ean": "0648570011967",
+    "ingredientes": [
+      "Organic cranberries (organic sugar",
+      "organic sunflower oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Golden Flax Seeds",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570015095",
+    "ingredientes": [
+      "Organic golden flax seeds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Brown Flax Seeds",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570015200",
+    "ingredientes": [
+      "Organic brown flax seeds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Banana Chips",
+    "marca": "Rita's Pure Earth",
+    "ean": "0648570015316",
+    "ingredientes": [
+      "Organic bananas (organic coconut oil",
+      "organic sugar)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Energy Mix",
+    "marca": "Rita's Pure Earth Organics",
+    "ean": "0648570015354",
+    "ingredientes": [
+      "Organic raw sunflower seeds",
+      "organic thompson raisins (organic sunflower oil)",
+      "organic pepitas",
+      "organic almonds",
+      "organic cranberries (organic sugar",
+      "organic sunflower oil)",
+      "organic banana chips (organic coconut oil",
+      "organic cane sugar)",
+      "organic walnuts",
+      "organic brazil nuts",
+      "organic raw cashews."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "American Pistachio Farms, Dry Roasted California Pistachios",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.",
+    "ean": "0648570018072",
+    "ingredientes": [
+      "Pistachios roasted no salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey Mustard Party Mix",
+    "marca": "Joseph Xavier Fine Foods",
+    "ean": "0648570019246",
+    "ingredientes": [
+      "Glutinous rice",
+      "palm oil",
+      "soy sauce (water",
+      "soy bean",
+      "salt",
+      "wheat)",
+      "honey",
+      "chili",
+      "seaweed (aosa)",
+      "modified tapioca starch",
+      "wasabi powder",
+      "yellow corn",
+      "masa",
+      "soy oil",
+      "unbleached wheat flour",
+      "barley",
+      "malt",
+      "beet powder",
+      "turmeric",
+      "onion powder",
+      "potato flour",
+      "garlic powder",
+      "green bell pepper powder",
+      "paprika",
+      "mustard",
+      "rye flour and peanuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Joseph Xavier Fine Foods, Wasabi Blast",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.",
+    "ean": "0648570019260",
+    "ingredientes": [
+      "Hot cajun corn sticks (yellow corn masa",
+      "soybean oil",
+      "cajun seasoning (potato four",
+      "spices and herbs",
+      "salt",
+      "onion powder",
+      "tomato powder",
+      "garlic powder",
+      "natural flavoring",
+      "maltodextrin",
+      "cornstarch-modified",
+      "green pepper)",
+      "salt. multiseed mini chips: unblea"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Joseph Xavier Fine Foods, Honey Mustard Pretzel Bite",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.",
+    "ean": "0648570019277",
+    "ingredientes": [
+      "Unbleached enriched wheat flour (flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate b-1",
+      "riboflavin b-2",
+      "folic acid)",
+      "yeast",
+      "soybean oil",
+      "salt",
+      "natural flavors",
+      "malt",
+      "soda and honey/mustard onion seasoning (canola oil",
+      "sugar",
+      "dried mustard (distilled vinegar",
+      "spice",
+      "salt",
+      "malto-dextrin",
+      "modified food starch",
+      "turmeric)",
+      "whey",
+      "lactose",
+      "dextrose",
+      "dried honey",
+      "onion powder",
+      "spice",
+      "salt",
+      "wheat starch",
+      "garlic powder",
+      "sodium diacetate",
+      "citric acid",
+      "horseradish powder",
+      "natural flavor",
+      "soybean oil",
+      "silica gel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brazil Nuts",
+    "marca": "Sagsveen & Sagsveen Food Brokers Ltd.,Elizabeth's Naturals",
+    "ean": "0648570490052",
+    "ingredientes": [
+      "Brazil nuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Burgers",
+    "marca": "Nadines",
+    "ean": "0648579500097",
+    "ingredientes": [
+      "Chicken",
+      "salt",
+      "spices",
+      "granulated garlic"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bratwurst",
+    "marca": "Niman Ranch",
+    "ean": "0648649060254",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "honey",
+      "onion powder",
+      "marjoram",
+      "nutmeg",
+      "black pepper",
+      "cultures celery powder (celery powder",
+      "sea salt)",
+      "ginger",
+      "lemon juice extract",
+      "lemon rind."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/906/0254/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, andouille sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649060308",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "garlic",
+      "alt",
+      "black pepper",
+      "cayenne pepper",
+      "thyme",
+      "celery powder",
+      "bay leaves."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, all-natural fully cooked chorizo sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649060315",
+    "ingredientes": [
+      "Pork",
+      "seasoning [turbinado sugar",
+      "paprika",
+      "spices",
+      "garlic powder",
+      "onion powder",
+      "citric acid",
+      "spice extractives (from pepper)]",
+      "water",
+      "salt",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet italian sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649060322",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "honey",
+      "sherry wine",
+      "toasted fennel seed",
+      "garlic",
+      "oregano",
+      "black pepper",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/906/0322/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple Gouda Uncured Sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649060377",
+    "ingredientes": [
+      "pork",
+      "apple juice (water",
+      "apple juice concentrate",
+      "ascorbic acid)",
+      "gouda cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto)",
+      "dehydrated apple",
+      "sea salt",
+      "water",
+      "spices",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/906/0377/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple Gouda Uncured Sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649060520",
+    "ingredientes": [
+      "pork",
+      "apple juice (water",
+      "apple juice concentrate",
+      "ascorbic acid)",
+      "gouda cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto)",
+      "dehydrated apple",
+      "sea salt",
+      "water",
+      "spices",
+      "cultured celery powder (celery powder",
+      "sea salt)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/906/0520/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spicy Italian Uncured Sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649060537",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "spices",
+      "turbinado sugar",
+      "celery powder",
+      "parsley flakes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/906/0537/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uncured Canadian Bacon",
+    "marca": "Niaman Ranch",
+    "ean": "0648649060582",
+    "ingredientes": [
+      "Pork loins",
+      "water",
+      "sea salt",
+      "turbinado sugar",
+      "celery powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fearless Uncured Beef Franks",
+    "marca": "Niman Ranch",
+    "ean": "0648649060674",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "salt",
+      "dextrose",
+      "mustard",
+      "paprika",
+      "garlic",
+      "sodium phosphate",
+      "celery powder",
+      "nonfat dry milk",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/906/0674/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, uncured bacon, applewood smoked, center cut",
+    "marca": "Niman Ranch",
+    "ean": "0648649070079",
+    "ingredientes": [
+      "Pork prepared with: water",
+      "salt",
+      "turbinado sugar",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/907/0079/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, uncured bacon, pepper, applewood smoked, center cut",
+    "marca": "Niman Ranch",
+    "ean": "0648649070208",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "turbinado sugar",
+      "celery powder. coated with black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, uncured corned sliced beef",
+    "marca": "Niman Ranch",
+    "ean": "0648649080443",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "sea salt",
+      "sugar",
+      "celery powder",
+      "flavorings (extractives of onion",
+      "garlic",
+      "spices)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nman ranch, uncured beef pastrami",
+    "marca": "Nman Ranch",
+    "ean": "0648649080450",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "sea salt",
+      "sugar",
+      "celery powder",
+      "flavorings (extractives of spices",
+      "garlic)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, roast sliced beef rubeed with natural seasonings",
+    "marca": "Niman Ranch",
+    "ean": "0648649080467",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "sea salt",
+      "sugar",
+      "flavorings (extractive of onion",
+      "garlic",
+      "spices)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Niman ranch, apple cinnamon uncured breakfast sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649090183",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "dehydrated apples",
+      "salt",
+      "evaporated cane juice",
+      "spices (including cinnamon)",
+      "citric acid",
+      "cocoa",
+      "sugar",
+      "celery powder",
+      "brown sugar",
+      "maple syrup"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pulled pork",
+    "marca": "Niman Ranch",
+    "ean": "0648649091524",
+    "ingredientes": [
+      "Pork",
+      "water. sea salt. sauce: water",
+      "sugar",
+      "tomato paste",
+      "vinegar",
+      "corn syrup",
+      "modified food starch",
+      "salt",
+      "pineapple juice concentrate",
+      "cultured dextrose",
+      "natural smoke flavor",
+      "caramel color",
+      "molasses",
+      "spices",
+      "cayenne pepper",
+      "garlic powder",
+      "tamarind",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Applewood Smoked Pulled Pork",
+    "marca": "Niman Ranch",
+    "ean": "0648649091630",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "sea salt",
+      "rosemary extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/909/1630/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground Beef",
+    "marca": "Niman Ranch",
+    "ean": "0648649186183",
+    "ingredientes": [
+      "Natural* beef."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/918/6183/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uncured prosciutto",
+    "marca": "Niman Ranch",
+    "ean": "0648649250808",
+    "ingredientes": [
+      "Pork",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uncured pepperoni",
+    "marca": "Niman Ranch",
+    "ean": "0648649250846",
+    "ingredientes": [
+      "Pork",
+      "sea salt",
+      "less than 2% of: liquid pepperoni seasoning (natural spice extractives",
+      "extractives of paprika",
+      "natural hickory smoke flavor)",
+      "turbinado sugar",
+      "natural flavoring",
+      "starter culture. GLUTEN FREE. of @nimanranch ON 23"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/925/0846/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pulled Pork With Smoky Chipotle Barbecue Sauce",
+    "marca": "Niman Ranch",
+    "ean": "0648649251973",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "sea salt. sauce: water",
+      "brown sugar",
+      "tomato paste",
+      "corn syrup",
+      "vinegar",
+      "molasses",
+      "honey",
+      "aged red peppers",
+      "less than 2% of salt",
+      "sugar",
+      "modified corn starch",
+      "dehydrated onion",
+      "dehydrated garlic",
+      "lemon juice concentrate",
+      "spices",
+      "dehydrated chipotle pepper",
+      "dehydrated cayenne pepper",
+      "tamarind",
+      "natural flavors",
+      "paprika (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pulled Pork",
+    "marca": "Niman Ranch",
+    "ean": "0648649251980",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "sea salt. sauce: water",
+      "sugar",
+      "tomato paste",
+      "soy sauce (water",
+      "soybeans",
+      "wheat",
+      "salt)",
+      "vinegar",
+      "salt",
+      "pineapple juice concentrate",
+      "chipotle puree (chipotle pepper",
+      "water",
+      "salt",
+      "vinegar)",
+      "less than 2% of peach juice concentrate",
+      "sweet potato",
+      "modified corn starch",
+      "natural flavors",
+      "orange juice concentrate",
+      "habanero peppers",
+      "soybeans",
+      "lemon juice concentrate",
+      "red jalapeno peppers",
+      "molasses",
+      "corn syrup",
+      "dehydrated garlic",
+      "spices",
+      "citric acid",
+      "tamarind",
+      "sesame seed",
+      "wheat flour",
+      "dehydrated chili peppers",
+      "ascorbic acid",
+      "acetic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uncured Ham Steak",
+    "marca": "Niman Ranch",
+    "ean": "0648649252055",
+    "ingredientes": [
+      "Uncured ham prepared with: water",
+      "salt",
+      "turbinado sugar",
+      "sodium phosphate",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Applewood smoked uncured bacon",
+    "marca": "Niman Ranch",
+    "ean": "0648649256466",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/925/6466/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked Bacon Uncured Breakfast Sausage",
+    "marca": "Niman Ranch",
+    "ean": "0648649256985",
+    "ingredientes": [
+      "Pork",
+      "uncured Applewood smoked bacon",
+      "water",
+      "salt",
+      "turbinado sugar",
+      "cultured celery powder",
+      "water",
+      "beef",
+      "salt",
+      "dried vinegar",
+      "turbinado sugar",
+      "cultured celery powder",
+      "paprika",
+      "spices",
+      "natural lamb casing"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/864/925/6985/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Safflower Oil",
+    "marca": "Oleic",
+    "ean": "0648705000156",
+    "ingredientes": [
+      "High oleic safflower oil",
+      "corn alcohol (added to clarify)",
+      "soy lecithin (anti-sticking agent) and vitamin e."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "High Oleic Safflower Oil",
+    "marca": "Coral Internacional  S.A. De C.V., Oleico",
+    "ean": "0648705000248",
+    "ingredientes": [
+      "High oleic safflower oil",
+      "vitamin e."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/870/500/0248/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Galletas Tostada",
+    "marca": "Consum",
+    "ean": "06487214",
+    "ingredientes": [
+      "Harina de trigo (gluten)",
+      "azúcar",
+      "grasa vegetal (palma)",
+      "jarabe de glucosa y fructosa",
+      "gasificantes (carbonato ácido de sodio y carbonato ácido de amonio)",
+      "colorante (caramelo de sulfito amónico)",
+      "sal",
+      "emulgente (lecitina de soja)",
+      "antioxidante (metabisulfito sódico). Puede contener leche."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Greece"
+  },
+  {
+    "nombre": "Vegan Mac 'N Cheese",
+    "marca": "Olive Tree",
+    "ean": "0648912001090",
+    "ingredientes": [
+      "organic soy milk",
+      "sunflower oil",
+      "nutritional yeast",
+      "organic tofu",
+      "organic tamari",
+      "sea salt",
+      "spices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kalamata Olive Hummus",
+    "marca": "Olive Tree",
+    "ean": "0648912002080",
+    "ingredientes": [
+      "Organic chick peas",
+      "tahini",
+      "lemon juice",
+      "kalamata olives",
+      "garlic",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hot Red Chili Hummus",
+    "marca": "Olive Tree",
+    "ean": "0648912005081",
+    "ingredientes": [
+      "Organic chick peas",
+      "tahini",
+      "lemon juice",
+      "red chilies",
+      "garlic",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Granola",
+    "marca": "Bountiful Berry  Inc.",
+    "ean": "0648960000069",
+    "ingredientes": [
+      "Organic oats",
+      "organic sesame seeds organic sunflower seeds",
+      "sea salt",
+      "organic honey",
+      "organic oleic sunflower oil",
+      "organic vanilla and organic wild blueberries (organic blueberries",
+      "organic high oleic sunflower oil",
+      "organic cane sugar)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grandyoats organic granola original coconola",
+    "marca": "Grandy Organics",
+    "ean": "0648960000700",
+    "ingredientes": [
+      "Organic unsweetened coconut",
+      "organic cashews",
+      "organic pumpkin seeds",
+      "organic sunflower seeds",
+      "organic pecans",
+      "organic sesame seeds",
+      "organic honey",
+      "organic maple syrup",
+      "and organic vanilla."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/896/000/0700/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic vanilla almond granola",
+    "marca": "Grandy Oats",
+    "ean": "0648960003589",
+    "ingredientes": [
+      "*oats",
+      "agave nectar",
+      "*almonds",
+      "*oat bran",
+      "*vanilla",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grandy Organics classic Granola",
+    "marca": "Grandy Organics",
+    "ean": "0648960013014",
+    "ingredientes": [
+      "SNACK ON THE GO TOP OFF Y"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/896/001/3014/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Swiss Style Muesli",
+    "marca": "Grandyoats",
+    "ean": "0648960103517",
+    "ingredientes": [
+      "*oats",
+      "*wheat flakes",
+      "*raisins",
+      "*rye flakes",
+      "*sunflower seeds",
+      "*date pieces in rice flour",
+      "oat bran",
+      "*roasted domestic almonds",
+      "*roasted hazelnuts",
+      "*unsulphured apple pieces"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Maple Roasted Cashes",
+    "marca": "Bountiful Berry  Inc.",
+    "ean": "0648960201015",
+    "ingredientes": [
+      "*cashews",
+      "*maple syrup",
+      "*brown rice flour",
+      "*expeller pressed high oleic sunflower oil",
+      "*vanilla",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grandyoats, Nori Sesame Cashews",
+    "marca": "Bountiful Berry  Inc.",
+    "ean": "0648960201374",
+    "ingredientes": [
+      "*cashews",
+      "*wheat free tamari (water",
+      "*soybeans",
+      "salt",
+      "alcohol)",
+      "sesame seeds",
+      "*dulse",
+      "*nori and *kelp."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grandy Oats, High Antioxidant Trail Mix",
+    "marca": "Bountiful Berry  Inc.",
+    "ean": "0648960201497",
+    "ingredientes": [
+      "*jumbo raisins (*raisins",
+      "*high oleic sunflower oil)",
+      "*sea salt roasted pumpkin seeds",
+      "*cranberries (*cranberries",
+      "*cane sugar",
+      "*high oleic sunflower oil)",
+      "*almonds *walnuts *mulberries and *goji berries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Honey Nut Granola",
+    "marca": "Grandy Oats",
+    "ean": "0648960203453",
+    "ingredientes": [
+      "*oats",
+      "*honey",
+      "*expeller pressed high oleic sunflower oil",
+      "*sunflower seeds",
+      "*sesame seeds",
+      "almonds",
+      "*cashews",
+      "*walnuts",
+      "sea salt",
+      "*vanilla"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Halloumi Cheese",
+    "marca": "Shepherds Of Cyprus",
+    "ean": "0648967242813",
+    "ingredientes": [
+      "Pasteurized sheep's milk",
+      "salt",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dalston’s real squeezed peach and sparkling water",
+    "marca": "Dalstons",
+    "ean": "0649090810658",
+    "ingredientes": [
+      "SPARKLING WATER",
+      "PEACH JUICE FROM CONCENTRATE (20%)",
+      "WHITE GRAPE JUICE FROM CONCENTRATE",
+      "NATURAL FLAVOURINGS. FR. BOISSON PETILLANTE A LA ECHE INGREDIENTS EAU PÉTILLANTE",
+      "JUS DE PECHE A BASE DE CONCENTRE (20 %). JUS DE RAISIN BLANC A BASE DE EN DE KOHLENSAUREHALTIGES ERFRISCHUNGSCETRANK WES CONCENTRE",
+      "AROMES NATURELS. MIT PFIRSICHSAFT ZUTATEN: KOHLENSÄUREHALTIGES WASSER",
+      "PFIRSICHSAFT AUS KONZENTRAT (20 %)",
+      "WEISSER TRAUBENSAFT AUS KONZENTRAT",
+      "NATÜRLICHE AROMEN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/909/081/0658/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "New Zealand Clover Honey",
+    "marca": "Pic’s",
+    "ean": "0649191002501",
+    "ingredientes": [
+      "HONEY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/919/100/2501/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Finland"
+  },
+  {
+    "nombre": "Risotto De Boletus",
+    "marca": "Ferrer",
+    "ean": "0649192011694",
+    "ingredientes": [
+      "Tin: vegetable broth (water",
+      "salt",
+      "vegetable (carrot",
+      "onion",
+      "potato",
+      "leek",
+      "cauliflower",
+      "celery)",
+      "yeast extract",
+      "dairy solids",
+      "lactose and sugar)",
+      "mushrooms (boletus edulis) (8%) and sofrito sauce (onion",
+      "carrot. cooking cream",
+      "olive oil (1.4%)",
+      "butter",
+      "su"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic & Oil Sauce, All I Oli",
+    "marca": "Conserves Ferrer  S.A.",
+    "ean": "0649192011717",
+    "ingredientes": [
+      "Sunflower oil [79%]",
+      "water",
+      "garlic [6.7%]",
+      "lemon juice and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Prepared Spanish Omelet Mix",
+    "marca": "Conserves Ferrer",
+    "ean": "0649192012998",
+    "ingredientes": [
+      "Potato (79%)",
+      "sunflower oil",
+      "olive oil and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ferrer, Black Olive Tapenade & Dip",
+    "marca": "Conserves Ferrer  S.A.",
+    "ean": "0649192013148",
+    "ingredientes": [
+      "Black olives and olive oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fried Tomato Sauce",
+    "marca": "Conserves Ferrer",
+    "ean": "0649192030008",
+    "ingredientes": [
+      "Tomato (70%)",
+      "water",
+      "onion",
+      "sunflower oil",
+      "sugar",
+      "garlic",
+      "salt and almond (0.4%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Calcots Sauce",
+    "marca": "Ferrer",
+    "ean": "0649192030046",
+    "ingredientes": [
+      "Tomato",
+      "olive oil",
+      "sunflower oil",
+      "water",
+      "toasted almonds",
+      "wine vinegar",
+      "spices",
+      "salt",
+      "garlic and stabilizer: xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gazpacho",
+    "marca": "Ferrer",
+    "ean": "0649192031005",
+    "ingredientes": [
+      "Water",
+      "vegetables (34%) (tomato",
+      "red pepper",
+      "onion",
+      "cucumber)",
+      "olive oil (3%)",
+      "vinegar",
+      "garlic",
+      "salt and stabilizer: xanthan gum. 80 - 02"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/919/203/1005/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Himalasalt primordial himalayan sea salt",
+    "marca": "Himala Salt",
+    "ean": "0649241838111",
+    "ingredientes": [
+      "no additives."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/924/183/8111/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Meyer Lemon Curd",
+    "marca": "Sonoma cheese factory",
+    "ean": "0649241868002",
+    "ingredientes": [
+      "Eggs",
+      "sugar",
+      "water",
+      "butter (_cream_)(_milk_)",
+      "lemon puree",
+      "tapioca starch",
+      "&lt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/924/186/8002/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pan Sobao",
+    "marca": "Panaderia Pan Del Cielo",
+    "ean": "0649241893981",
+    "ingredientes": [
+      "Sugar",
+      "margarine",
+      "salt",
+      "yeast",
+      "water",
+      "flour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/924/189/3981/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bread",
+    "marca": "Panaderia Pan Del Cielo",
+    "ean": "0649241893998",
+    "ingredientes": [
+      "Water",
+      "salt",
+      "lard",
+      "yeast",
+      "sugar",
+      "flour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yogurt",
+    "marca": "Saint Benoit Creamery",
+    "ean": "0649241929116",
+    "ingredientes": [
+      "Whole organic jersey milk",
+      "organic strawberry spread organic strawberries",
+      "organic sugar",
+      "pectin)",
+      "living cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "French Style Organic Yogurt Meyer Lemon",
+    "marca": "Saint Benoit Creamery",
+    "ean": "0649241929130",
+    "ingredientes": [
+      "Whole organic jersey milk",
+      "organic meyer lemon spread (organic meyer lemon",
+      "organic sugar",
+      "pectin)",
+      "living cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yogurt French Vanilla",
+    "marca": "Saint Benoit Creamery",
+    "ean": "0649241929147",
+    "ingredientes": [
+      "Organic jersey cow whole milk",
+      "organic vanilla sauce (organic cane sugar",
+      "water",
+      "organic flavor",
+      "organic gum acacia)",
+      "live active cultures (l. acidophilus",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "and bifidobacterium)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/924/192/9147/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pasture-Raised Jersey Cow's Plain Milk Yogurt",
+    "marca": "Saint Benoit Creamery",
+    "ean": "0649241929154",
+    "ingredientes": [
+      "Whole organic jersey milk",
+      "living cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/924/192/9154/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Goji Berries",
+    "marca": "BBN",
+    "ean": "0649275583377",
+    "ingredientes": [
+      "Dried Goji Berries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/927/558/3377/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Black Chia Seeds",
+    "marca": "Benefits By Nature",
+    "ean": "0649275635410",
+    "ingredientes": [
+      "Organic Black Chia Seeds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/927/563/5410/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Appelmoes compote de pommes",
+    "marca": "Freshona",
+    "ean": "06492885",
+    "ingredientes": [
+      "sucre",
+      "acidifiant: acide citrique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/2885/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Spearmint Gum",
+    "marca": "Excel",
+    "ean": "06493137",
+    "ingredientes": [
+      "Sorbitol",
+      "Maltitol",
+      "Gum base",
+      "Glycerin",
+      "Gum arabic",
+      "Natural and artificial flavours",
+      "Soy lecithin",
+      "Aspartame",
+      "Acesulfame-potassium",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/3137/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Excel - Peppermint",
+    "marca": "Menthe",
+    "ean": "06493234",
+    "ingredientes": [
+      "sorbitol",
+      "gum base",
+      "ni maltitol",
+      "glycerin",
+      "natural and artificial flavours",
+      "gum arabic",
+      "soy lecithin",
+      "aspartame",
+      "colour",
+      "acesulfame-potassium",
+      "carnauba wax. aspartame: 10.5mg",
+      "acesulfame-potassium: 2.5mg/2 pieces. aspartame contains phenylalanine. • ingrédients : sorbitol",
+      "base de gomme",
+      "maltitol",
+      "glycérine",
+      "e arômes naturels et artificiels",
+      "gomme arabique",
+      "lécithine de * soja",
+      "aspartame",
+      "colorant",
+      "cire de 00carnauba. aspartame : 10",
+      "acésulfame-potassium 2"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/3234/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Winterfresh Gum",
+    "marca": "Wrigley's,Excel",
+    "ean": "06493438",
+    "ingredientes": [
+      "Sorbitol",
+      "Maltitol",
+      "Gum base",
+      "Natural and artificial flavours",
+      "Gum arabic",
+      "Glycerin",
+      "Aspartame",
+      "Soy lecithin",
+      "Acesulfame-potassium",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/3438/front_en.30.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Drum Rock Products, Fis-Chic Wonder Batter",
+    "marca": "Drum Rock Specialty Co. Inc.",
+    "ean": "0649369200012",
+    "ingredientes": [
+      "Wheat flour",
+      "corn flour",
+      "whey",
+      "baking powder (calcium acid phosphate",
+      "baking soda",
+      "corn starch)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Drum Rock Products, Spicey Fry Mix",
+    "marca": "Drum Rock Specialty Co. Inc.",
+    "ean": "0649369230019",
+    "ingredientes": [
+      "Wheat flour",
+      "corn flour",
+      "whey",
+      "baking powder (calcium acid phosphate",
+      "baking soda",
+      "corn starch)",
+      "salt",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Polar Ice Gum",
+    "marca": "Excel, Wrigley's",
+    "ean": "06494437",
+    "ingredientes": [
+      "Sorbitol",
+      "Maltitol",
+      "Gum base",
+      "Natural and artificial flavours",
+      "Gum arabic",
+      "Glycerin",
+      "Aspartame",
+      "Soy lecithin",
+      "Acesulfame-potassium",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/4437/front_en.32.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Corn Tortillas",
+    "marca": "Tortilleria Los Comanches",
+    "ean": "0649474125699",
+    "ingredientes": [
+      "Corn",
+      "water & lime"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beef Pappy Hot Dogs",
+    "marca": "Zenner's Quality Meat Products  Inc.",
+    "ean": "0649522420608",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "non fat dry milk",
+      "salt",
+      "spices",
+      "paprika",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thick Style Totopos",
+    "marca": "El Milagro",
+    "ean": "0649619906558",
+    "ingredientes": [
+      "Stone ground corn",
+      "corn oil",
+      "sea salt",
+      "calcium hydroxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kokita, Gado Gado Indonesian Salad Dressing",
+    "marca": "Pt. Ikafood Putramas",
+    "ean": "0649626018022",
+    "ingredientes": [
+      "Peanut",
+      "sugar",
+      "red chili",
+      "coconut milk",
+      "salt",
+      "flavor enhancer (hydrolyzed vegetable protein",
+      "disodium inosinate & guanylated)",
+      "acidity regulator",
+      "stabilizer antioxidant (a-tocopherol ascorbyl palmitate)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced apple & caramel",
+    "marca": "Reichel",
+    "ean": "0649632000806",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "contains 2% or less of water",
+      "disodium phosphate",
+      "salt",
+      "pectin",
+      "potassium sorbate as a preservative",
+      "artificial flavors",
+      "mono & diglycerides (vegetable)",
+      "calcium chloride",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Apples & Caramel With Peanuts",
+    "marca": "Dippin' Stix",
+    "ean": "0649632000813",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "contains 2% or less of water",
+      "disodium phosphate",
+      "salt",
+      "pectin",
+      "potassium sorbate as a preservative",
+      "artificial flavors",
+      "mono & diglycerides (vegetable)",
+      "calcium chloride",
+      "xanthan gum. dry roasted peanuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Apples & Yogurt Fruit Dip",
+    "marca": "Dippin'stix",
+    "ean": "0649632000820",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. yogurt fruit dip: sugar",
+      "water",
+      "dextrose",
+      "corn syrup",
+      "nonfat yogurt (cultured nonfat milk)",
+      "butter (cream",
+      "salt)",
+      "food starch - modified (corn)",
+      "glycerin",
+      "contains 2% or less of natural flavors",
+      "titanium dioxide (color)",
+      "salt",
+      "lactic acid",
+      "natural & artificial flavor",
+      "xanthan gum",
+      "potassium sorbate (preservative)",
+      "sodium benzoate (preservative)",
+      "mono & diglyceride (vegetable)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Apples & Peanut Butter",
+    "marca": "Dippin' Stix",
+    "ean": "0649632000837",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. peanut butter: roasted peanuts",
+      "sugar",
+      "less than 2% of salt",
+      "hydrogenated vegetable oils (cottonseed and rapeseed)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/963/200/0837/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby Carrots & Ranch Dip",
+    "marca": "Dippin'stix",
+    "ean": "0649632000844",
+    "ingredientes": [
+      "Carrots with calcium chloride. ranch dip: water",
+      "soybean oil",
+      "sugar",
+      "maltodextrin",
+      "egg yolks",
+      "vinegar",
+      "modified food starch (corn)",
+      "contains less than 2% of salt",
+      "buttermilk powder",
+      "disodium inosinate and disodium guanylate",
+      "dehydrated onion",
+      "natural flavors",
+      "torula yeast",
+      "citric acid",
+      "cultured low fat milk",
+      "potassium sorbate (preservative)",
+      "xanthan gum",
+      "dehydrated garlic",
+      "mustard flour",
+      "dehydrated parsley",
+      "calcium disodium edta (to protect flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reichel, Dippin' Stix, Sliced Apple & Caramel",
+    "marca": "Reichel Foods  Inc.",
+    "ean": "0649632001087",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "contains 2% or less of water",
+      "disodium phospahte",
+      "salt",
+      "pectin",
+      "potassium sorbate as a preservative",
+      "artificial flavors",
+      "mono & diglycerides (vegetable)",
+      "calcium chloride",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Gala Apples & Caramel",
+    "marca": "Dippin' Stix",
+    "ean": "0649632001148",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "contains 2% or less of water",
+      "disodium phosphate",
+      "salt",
+      "pectin",
+      "potassium sorbate as a preservative",
+      "artificial flavors",
+      "mono & diglycerides (vegetable)",
+      "calcium chloride",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/963/200/1148/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dippin' stix, sliced apples, peanut butter & chocolate",
+    "marca": "Dippin' Stix",
+    "ean": "0649632001230",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid",
+      "and calcium chloride. peanut butter: roasted peanuts",
+      "sugar",
+      "less than 2% of salt",
+      "hydrogenated vegetable oils (cottonseed and rapeseed). chocolate chips: sugar",
+      "unsweetened chocolate",
+      "whole milk powder",
+      "cocoa butter",
+      "soy lecithin (an emulsifier)",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Apples With Caramel, Peanuts & Chocolate",
+    "marca": "Dippin' Stix",
+    "ean": "0649632001285",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "water",
+      "pectin",
+      "disodium phosphate",
+      "salt",
+      "potassium sorbate as a preservative",
+      "artificial flavors",
+      "mono & diglycerides (vegetable)",
+      "calcium chloride",
+      "xanthan gum",
+      "chocolate chips: sugar",
+      "unsweetened chocolate",
+      "whole milk powder",
+      "cocoa butter",
+      "soy lecithin (an emulsifier)",
+      "vanillin (artificial flavor). dry roasted peanuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Apples & Caramel With Greek Yogurt Chips",
+    "marca": "Dippin' Stix",
+    "ean": "0649632001308",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "water",
+      "pectin",
+      "disodium phosphate",
+      "salt",
+      "potassi"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Gala Apples & Caramel",
+    "marca": "Reichel",
+    "ean": "0649632001315",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. caramel dip: high fructose corn syrup",
+      "sweetened condensed skim milk (skim milk",
+      "sugar",
+      "corn syrup)",
+      "sugar",
+      "corn syrup",
+      "butter (cream",
+      "salt)",
+      "water",
+      "pectin",
+      "disodium phosphate",
+      "salt",
+      "potassium sorbate as a preservative",
+      "artificial flavors",
+      "mono & diglycerides (vegetable)",
+      "calcium chloride",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced apple with mild cheddar cheese",
+    "marca": "Pro2snax",
+    "ean": "0649632001414",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. mild cheddar cheese cubes: cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (vegetable color))",
+      "potato starch and powdered cellulose (to prevent caking)",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Gala Apples With Almonds",
+    "marca": "Pro2snax",
+    "ean": "0649632001421",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. almonds: almonds",
+      "vegetable oil (peanut",
+      "cottonseed",
+      "soybean and/or sunflower seed)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reichel, Pro2 Snax, Baby Carrots With Sriracha Jack Cheese",
+    "marca": "Reichel Foods  Inc.",
+    "ean": "0649632001438",
+    "ingredientes": [
+      "Carrots with calcium chloride. sriracha-jack cheese: pasteurized milk",
+      "red bell peppers",
+      "contains 2% or less of cheese culture",
+      "enzymes",
+      "garlic powder",
+      "maltodextrin",
+      "modified food starch",
+      "natural flavor",
+      "paprika",
+      "potato starch and powdered cellulose (to prevent caking)",
+      "natamycin (a natural mold inhibitor)",
+      "salt",
+      "vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Gala Apples With Mild Cheddar Cheese & Pretzels",
+    "marca": "Pro 2 Snax",
+    "ean": "0649632001445",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. mild cheddar cheese: cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (vegetable color))",
+      "potato starch and powdered cellulose (to prevent caking)",
+      "natamycin (a natural mold inhibitor). pretzels: enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "salt",
+      "less than 2% of canola oil and/or soybean oil",
+      "corn syrup",
+      "barley malt extract",
+      "leavening (contains one or more of yeast",
+      "sodium bicarbonate",
+      "ammonium bicarbonate)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby Carrot With White Cheddar Cheese & Almonds",
+    "marca": "Pro2snax",
+    "ean": "0649632001452",
+    "ingredientes": [
+      "Carrots with calcium chloride. white cheddar cheese: cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "potato starch and powdered cellulose (to prevent caking)",
+      "natamycin (a natural mold inhibitor). almonds: almonds",
+      "vegetable oil (peanut",
+      "cottonseed",
+      "soybean and/or sunflower seed)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Apples With Mild Cheddar Cheese, Dried Cranberries & Cashews",
+    "marca": "Pro 2 Snax",
+    "ean": "0649632001469",
+    "ingredientes": [
+      "Apples with calcium ascorbate",
+      "citric acid and calcium chloride. mild cheddar cheese: cheddar cheese [pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (vegetable color)]",
+      "potato starch and powdered cellulose (to prevent caking)",
+      "natamycin (a natural mold inhibitor). dried sliced cranberries: cranberries",
+      "sugar",
+      "sunflower oil. cashews: cashews",
+      "vegetable oil (peanut",
+      "cottonseed",
+      "soybean",
+      "and/or sunflower seed)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hubba bubba max",
+    "marca": "null",
+    "ean": "06496338",
+    "ingredientes": [
+      "SUGAR",
+      "GUM BASE",
+      "CORN SYRUP",
+      "NATURAL AND ARTIFICIAL FLAVOURS",
+      "GLYCERIN",
+      "CITRIC ACID",
+      "SOY LECITHIN",
+      "MALIC ACID",
+      "COLOURS (WITH TARTRAZINE)",
+      "ACESULFAME-POTASSIUM",
+      "ASPARTAME. ASPARTAME: 7.4mg",
+      "ACESULFAME POTASSIUM: 10mg/1 PIECE. ASPARTAME CONTAINS PHENYLALANINE • INGRÉDIENTS : SUCRE",
+      "BASE DE GOMME",
+      "SIROP DE MAIS",
+      "AROMES NATURELS ET ARTIFICIELS",
+      "GLYCERINE",
+      "ACIDE CITRIQUE",
+      "LÉCITHINE DE SOJA",
+      "ACIDE MALIOUE",
+      "COLORANTS (AVEC DE LA TARTRAZINE). ACÉSULFAME POTASSIUM",
+      "ASPARTAME. ASPARTAME : 7"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/6338/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sel de régime sans sodium",
+    "marca": "XAL",
+    "ean": "06496427",
+    "ingredientes": [
+      "Chlorure de potassium",
+      "chlorure d'ammonium",
+      "acide glutamique",
+      "chlorure de magnésium. Antiagglomérant : phosphate dicalcique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/6427/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Monaco"
+  },
+  {
+    "nombre": "Tropical Fruit Punch",
+    "marca": "Mistic",
+    "ean": "0649674092777",
+    "ingredientes": [
+      "filtered water",
+      "high fructose corn syrup",
+      "apple and pear juice concentrate",
+      "citric acid",
+      "natural and artificial flavors",
+      "red 40"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/967/409/2777/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Baguette",
+    "marca": "Acme Bread Company",
+    "ean": "0649742000017",
+    "ingredientes": [
+      "Organic Unbleached Wheat Flour (Organic Malted Barley Flour)",
+      "Water",
+      "Sea Salt",
+      "Yeast"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/974/200/0017/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frosted Flakes",
+    "marca": "Lasso",
+    "ean": "0649747511044",
+    "ingredientes": [
+      "MAIZE",
+      "SUGAR",
+      "SALT",
+      "BARLEY MALT",
+      "VITAMINS (NIACIN",
+      "VITAMIN E",
+      "PANTOTHENIC ACID",
+      "VITAMIN B6",
+      "VITAMIN B2",
+      "VITAMIN B1",
+      "FOLIC ACID",
+      "VITAMIN B12). CONTAINS BARLEY PRODUCTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/974/751/1044/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "Jamaica"
+  },
+  {
+    "nombre": "Old Fashioned Smoked Ham",
+    "marca": "Badger",
+    "ean": "0649804042320",
+    "ingredientes": [
+      "Cured with water",
+      "salt",
+      "cane and maple sugar",
+      "sodium tripolyphosphate",
+      "sodium erythorbate",
+      "sodium nitrite and flavorings."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peppermint Natural Chewing Gum",
+    "marca": "Verve  Inc., Glee Gum",
+    "ean": "0649815000005",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "natural peppermint flavor",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax",
+      "and chlorophyll for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0005/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tangerine Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815000012",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "natural tangerine flavor",
+      "citric acid",
+      "gum arabic",
+      "resinous glaze",
+      "beta carotene for color",
+      "beeswax",
+      "and carnauba wax. soy present in fac"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cinnamon Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815000029",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "natural cinnamon flavor",
+      "gum arabic",
+      "red beet for color",
+      "resinous glaze",
+      "beeswax",
+      "and carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bubblegum Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815000104",
+    "ingredientes": [
+      "CANE SUGAR",
+      "GUM BASE (CHICLE",
+      "CANDELILLA WAX",
+      "CITRIC ACID)",
+      "BROWN RICE SYRUP",
+      "NATURAL FLAVORS",
+      "GUM ARABIC",
+      "RADISH",
+      "LEMON",
+      "BLACKCURRANT (COLOR)",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0104/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spearmint Natural Chewing Gum",
+    "marca": "Verve  Inc, Glee Gum",
+    "ean": "0649815000111",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "natural spearmint flavor",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax",
+      "and chlorophyll for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mixed Berry Natural Chewing Gum",
+    "marca": "Verve  Inc., Glee Gum",
+    "ean": "0649815000128",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "gum arabic",
+      "natural flavors (strawberry",
+      "raspberry and blueberry)",
+      "black carrot and black currant juice for color",
+      "resinous glaze",
+      "beeswax",
+      "and carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0128/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Peppermint Natural Chewing Gum",
+    "marca": "Verve  Inc., Glee Gum",
+    "ean": "0649815000500",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "natural peppermint flavor",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "and carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0500/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Lemon-Lime Natural Chewing Gum",
+    "marca": "Verve  Inc., Glee Gum",
+    "ean": "0649815000517",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "natural flavors (lemon",
+      "lime)",
+      "gum arabic",
+      "citric acid",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax",
+      "and beta carotene for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0517/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Watermelon Natural Chewing Gum",
+    "marca": "Verve  Inc., Glee Gum",
+    "ean": "0649815000524",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "natural watermelon flavor",
+      "gum arabic",
+      "citric acid",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax",
+      "and lycopene for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0524/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Bubblegum Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815000531",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "natural flavors",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax",
+      "and red beet for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Wintergreen Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815000548",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "natural wintergreen flavor",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "and carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/0548/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peppermint Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815002009",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "natural peppermint flavor",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax and chlorophyll."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/2009/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bubblegum Natural Chewing Gum",
+    "marca": "Verve  Inc., Glee Gum",
+    "ean": "0649815002108",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "brown rice syrup",
+      "natural flavors",
+      "gum arabic",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax and red beet color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Peppermint Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815002504",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "gum arabic",
+      "glycerine",
+      "natural flavor (peppermint)",
+      "sunflower lecithin",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax and chlorophyll."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/2504/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Xylitol Sweetened Watermelon Natural Chewing Gum",
+    "marca": "Glee Gum",
+    "ean": "0649815002528",
+    "ingredientes": [
+      "Xylitol",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "gum arabic",
+      "glycerine",
+      "citric acid",
+      "natural flavors",
+      "sunflower lecithin",
+      "resinous glaze",
+      "beeswax",
+      "carnauba wax",
+      "lycopene for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/981/500/2528/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Glee Gum, Gum Pops, Sweet Strawberry, Crisp Green Apple & Juicy Orange",
+    "marca": "Verve  Inc.",
+    "ean": "0649815004003",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base circle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "citric acid",
+      "natural flavors",
+      "glycerine",
+      "with annatto",
+      "beet juice",
+      "chlorophyll and turmeric for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gum pops",
+    "marca": "Glee Gum",
+    "ean": "0649815004102",
+    "ingredientes": [
+      "Cane sugar",
+      "glucose",
+      "gum base (chicle",
+      "calcium carbonate",
+      "candelilla wax",
+      "dehydrated citrus peels)",
+      "citric acid",
+      "natural flavors",
+      "glycerine",
+      "with annatto",
+      "beet juice",
+      "chlorophyll",
+      "and turmeric for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Excel Gomme tendre menthe",
+    "marca": "Wrigley's",
+    "ean": "06498530",
+    "ingredientes": [
+      "XYLITOL",
+      "BASE DE GOMME",
+      "ARÔMES NATURELS ET ARTIFICIELS",
+      "GUMI ARABIKUM",
+      "ASPARTAME",
+      "LECITHINE DE SOJA",
+      "SORBITOL",
+      "MANNITOL",
+      "ACESULFAME-POTASSIUM. BICARBONATE DE SODIUM",
+      "CIRE DE CARNAUBA",
+      "COLORANT. ASPARTAME: 9",
+      "ACESULFAME-POTASSIUM: 3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/8530/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Hubba Bubba Max",
+    "marca": "Hubba Bubba,Wrigley's",
+    "ean": "06498831",
+    "ingredientes": [
+      "Sugar",
+      "Gum base",
+      "Corn syrup",
+      "Glycerin",
+      "Natural and artificial flavours",
+      "Soy lecithin",
+      "Acesulfame-potassium",
+      "Colours",
+      "Aspartame"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/8831/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Multi Collagen",
+    "marca": "Nutrabio",
+    "ean": "0649908219741",
+    "ingredientes": [
+      "Hydrolyzed Bovine Peptides (Type I",
+      "III)",
+      "Bovine Bone Collagen (Type II)",
+      "Chicken",
+      "Eggshell Membrane Collagen (Type I",
+      "V",
+      "X)",
+      "Astrion (Astragalus membranaceus root",
+      "Centella asiatica whole plant)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Astrion (Astragalus membranaceus root",
+        "razon": "Contiene Astrion (Astragalus membranaceus root, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creatine Monohydrate",
+    "marca": "NutraBio",
+    "ean": "0649908230111",
+    "ingredientes": [
+      "PharmaPure Creatine Monohydrate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/990/823/0111/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Excel menthes",
+    "marca": "Wrigley's",
+    "ean": "06499238",
+    "ingredientes": [
+      "sorbitol",
+      "natural and artificial flavours",
+      "magnesium stearate",
+      "sucralose",
+      "acesulfame-potassium",
+      "colou s cralose: 2.5 mg acesulfame-potassium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/649/9238/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Farmer Steve's Popcorn, Lightly Salted",
+    "marca": "Amwell Valley Organic Grains",
+    "ean": "0649925000100",
+    "ingredientes": [
+      "Organic popcorn",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pop corn",
+    "marca": "Farmer Steve's",
+    "ean": "0649925000209",
+    "ingredientes": [
+      "Organic popcorn."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/064/992/500/0209/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Giardino spaghettini",
+    "marca": "Grass Pasta",
+    "ean": "06500023",
+    "ingredientes": [
+      "Semoule de blé dur · Niacine· Niacin Fe ous sulphate Thiamine Manufactured in 2 acility that uses eggs. Sufate ferreux Mononitrate de thiamine Riboflavine ide folique. Fabriqué dais des installations qui manipulent des oeufs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/650/0023/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bebida hidratante",
+    "marca": "SueroX",
+    "ean": "0650240032295",
+    "ingredientes": [
+      "Agua Purificada",
+      "Cloruro de Sodio",
+      "Lactato de sodio",
+      "Ácido cítrico",
+      "Citrato de sodio anhidro",
+      "Lactato de calcio",
+      "Sulfato de Magnesio",
+      "Goma Xanthana",
+      "Cloruro de potasio",
+      "Sorbato de potasio",
+      "Benzoato de sodio",
+      "Estevia (contiene 14 mg de Estevia por 100 ml de prodycto)",
+      "Maltodextrina",
+      "Gluconato de zínc",
+      "Acido ascórbico",
+      "Saborizantes naturales y artificiales",
+      "Extracto de Citrus aurantium",
+      "Piramicina",
+      "Nisina",
+      "Color FD&C Azúl No.1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/024/003/2295/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Sue rox",
+    "marca": "Suerox",
+    "ean": "0650240032325",
+    "ingredientes": [
+      "Agua Purificada",
+      "Cloruro de Sodio",
+      "Ácido láctico",
+      "Ácido cítrico",
+      "Citrato de sodio anhidro",
+      "Lactato de calcio",
+      "Sulfato de Magnesio",
+      "Goma Xanthana",
+      "Cloruro de potasio",
+      "Sorbato de potasio",
+      "Benzoato de sodio",
+      "Saborizantes naturales y artificiales Estevia (contiene 14 mg de Estevia por 100 ml de producto)",
+      "Maltodextrina",
+      "Goma arábiga",
+      "Aceite vegetal",
+      "Gluconato de zinc",
+      "Acido ascórbico",
+      "Color FD&C Amarillo No.5",
+      "Extracto de Citrus aurantium",
+      "Piramicina",
+      "Nisina."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/024/003/2325/front_es.22.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Suerox sabor a Manzana",
+    "marca": "Suerox",
+    "ean": "0650240063220",
+    "ingredientes": [
+      "Agua",
+      "minerales (citrato de sodio",
+      "lactato de calcio",
+      "cloruro de potasio",
+      "cloruro de sodio",
+      "lactato de magnesio",
+      "gluconato de calcio",
+      "gluconato de zinc)",
+      "acidulante (ácido cítrico)",
+      "conservadores (sorbato de potasio",
+      "benzoato de sodio)",
+      "estabilizante (goma xantana)",
+      "saborizantes artificiales",
+      "edulcorantes (acesulfame de potasio 0.007%",
+      "sucralosa 0.007%)",
+      "colorantes (caramelo clase IV",
+      "amarillo ocaso (FD&C amarillo No 6))."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/024/006/3220/front_es.16.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Tropigood!, Custard Mixture With Sugar Cane",
+    "marca": "Iberia Foods Corp.",
+    "ean": "0650369200018",
+    "ingredientes": [
+      "Dried cane syrup",
+      "corns starch and sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pandeyuca Tapioca Bread",
+    "marca": "Tropigood!",
+    "ean": "0650369200056",
+    "ingredientes": [
+      "Corn starch",
+      "modified tapioca starch."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh Orange Juice",
+    "marca": "Una Fruta",
+    "ean": "0650402790049",
+    "ingredientes": [
+      "fresh orange juice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/040/279/0049/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Sweden"
+  },
+  {
+    "nombre": "Miel de châtaigner",
+    "marca": "Les ruchers de Verneuil",
+    "ean": "0650414064862",
+    "ingredientes": [
+      "Miel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/041/406/4862/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Spiruline de Grasse Bio",
+    "marca": "Azur Naturel",
+    "ean": "0650414071068",
+    "ingredientes": [
+      "Spiruline"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/041/407/1068/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "miel de printemps",
+    "marca": "les ruchers de Verneuil",
+    "ean": "0650414319924",
+    "ingredientes": [
+      "Miel de Printemps"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/041/431/9924/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Moutarde douce",
+    "marca": "Migros",
+    "ean": "0650445640905",
+    "ingredientes": [
+      "Eau",
+      "graines de moutarde 19%",
+      "vinaigre de vin blanc",
+      "vinaigre d'alcool",
+      "sel",
+      "sucre",
+      "curcuma",
+      "épices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/044/564/0905/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Mini Crunchy Cookies",
+    "marca": "Choi Heong Yuen",
+    "ean": "0650495031197",
+    "ingredientes": [
+      "Sugar",
+      "wheat flour",
+      "white gourd",
+      "sesame seeds",
+      "maltose",
+      "glutinous rice flour",
+      "vegetable oil (rapeseed oil)",
+      "shallot",
+      "eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/049/503/1197/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cookies",
+    "marca": "Ackerman Food Enterprises",
+    "ean": "0650549120501",
+    "ingredientes": [
+      "Certified gluten free oatmeal",
+      "evaporated cane sugar",
+      "brown sugar",
+      "eggs",
+      "whole",
+      "raw fresh",
+      "tapioca flour. chocolate chips (sugar",
+      "chocolate",
+      "cocoa butter",
+      "milkfat",
+      "soy lecithin natural flavors)",
+      "xanthan gum",
+      "vanilla extract",
+      "table salt",
+      "butter: without salt",
+      "baking soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Prairie Kitchen, Chocolate Chip Pecan Oatmeal",
+    "marca": "Ackerman Food Enterprises",
+    "ean": "0650549121270",
+    "ingredientes": [
+      "Certified gluten free oatmeal",
+      "nuts",
+      "pecans",
+      "evaporated cane sugar",
+      "brown sugar",
+      "eggs: whole raw fresh",
+      "tapioca flour",
+      "chocolate chips (sugar",
+      "chocolate",
+      "cocoa butter",
+      "milkfat",
+      "soy lecithin natural flavors)",
+      "xanthan gum",
+      "vanilla extract",
+      "table salt",
+      "butter: without salt",
+      "baking soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Total 2% Milkfat",
+    "marca": "Fage",
+    "ean": "0650599083023",
+    "ingredientes": [
+      "grade a pasteurized skimmed milk and cream",
+      "live active yogurt cultures (l. bulgaricus",
+      "s. thermophilus",
+      "l. acidophilus",
+      "bifidus",
+      "l. casei)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/059/908/3023/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cool fruits, fruit juice freezers, grape & cherry",
+    "marca": "Cool Fruits",
+    "ean": "0650637374007",
+    "ingredientes": [
+      "Water",
+      "apple juice concentrate",
+      "contains less than 2% of the following: citric acid",
+      "colored with fruit and vegetable juice powder",
+      "natural flavors",
+      "ascorbic acid (vitamin c)",
+      "gum acacia and guar gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lulu, honey, white truffle",
+    "marca": "Lulu",
+    "ean": "0650658000060",
+    "ingredientes": [
+      "Clover honey",
+      "white truffle oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Romesco Sauce",
+    "marca": "Lulu",
+    "ean": "0650658000077",
+    "ingredientes": [
+      "Roasted red peppers",
+      "olive oil",
+      "roasted garlic",
+      "toasted almonds",
+      "basil",
+      "red wine vinegar (contains sulfites)",
+      "anchovy paste (cured anchovies [fish]",
+      "salt and water)",
+      "sugar",
+      "salt",
+      "red pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harissa roasted tomato",
+    "marca": "Lulu",
+    "ean": "0650658000084",
+    "ingredientes": [
+      "Roasted tomatoes",
+      "roasted red peppers",
+      "olive oil",
+      "carrots",
+      "red wine vinegar",
+      "salt",
+      "red pepper",
+      "coriander",
+      "sugar",
+      "garlic",
+      "beets",
+      "thyme",
+      "caraway"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grilling Sauce",
+    "marca": "Lulu",
+    "ean": "0650658000763",
+    "ingredientes": [
+      "Honey",
+      "expeller pressed canola oil",
+      "white wine (contains sulfites)",
+      "onions",
+      "champagne vinegar",
+      "sea salt",
+      "parsley",
+      "garlic",
+      "cracked black pepper",
+      "rosemary",
+      "lavender."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Meyer lemon syrup",
+    "marca": "Meyer",
+    "ean": "0650658000992",
+    "ingredientes": [
+      "Sugar",
+      "meyer lemon juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Wheat Noodles",
+    "marca": "Explore Asian",
+    "ean": "0650748777292",
+    "ingredientes": [
+      "Organic sifted wheat flour (98%)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic wheat noodles brown rice udon",
+    "marca": "Opal International Ltd.",
+    "ean": "0650748777360",
+    "ingredientes": [
+      "Organic sifted wheat flour (60%)",
+      "organic brown rice flour (38%)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Explore asian, lomein, organic wheat noodles",
+    "marca": "Explore Asian",
+    "ean": "0650748777384",
+    "ingredientes": [
+      "Organic sifted wheat flour (98%)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Black Bean",
+    "marca": "Spaghetti",
+    "ean": "0650748777599",
+    "ingredientes": [
+      "Organic black beans 92%",
+      "water 8%."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic soybean pasta",
+    "marca": "Explore Asian",
+    "ean": "0650748777605",
+    "ingredientes": [
+      "Organic soybeans 92%",
+      "water 8%."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/074/877/7605/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Edamame & Mung Bean Fettuccine Shape",
+    "marca": "Explore Asian",
+    "ean": "0650748777612",
+    "ingredientes": [
+      "Organic edamame (green soybeans)",
+      "organic mung beans",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gluten Free Soybean Noodle Soup, Vegetarian Beef",
+    "marca": "Explore Asian",
+    "ean": "0650748778091",
+    "ingredientes": [
+      "Organic soybean",
+      "organic rice",
+      "water. seasoning and vegetables: cane sugar",
+      "maltodextrin",
+      "soy sauce powder natural vegetarian imitation beef flavor (hydrolyzed soy protein) paprika powder",
+      "pepper powder",
+      "sichuanese pepper",
+      "wild pepper",
+      "star anise",
+      "garlic",
+      "ginger",
+      "cinnamon",
+      "dehydrated chives",
+      "dehydrated carrot granules",
+      "dehydrated sweet corn. separate salt sachet inside."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soybean noodle soup, vegetable",
+    "marca": "Explore Asian",
+    "ean": "0650748778107",
+    "ingredientes": [
+      "Organic soybean",
+      "organic rice",
+      "water",
+      "salt",
+      "seasoning and vegetables: maltodextrin",
+      "sichuanese pepper",
+      "wild pepper",
+      "star anise",
+      "garlic",
+      "ginger",
+      "cinnamon",
+      "dehydrated chives",
+      "dehydrated carrot granules",
+      "dehydrated sweet corn",
+      "separate salt sachet inside."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Heirloom farms, tender cuts baby corn",
+    "marca": "Heirloom Farms",
+    "ean": "0650748779234",
+    "ingredientes": [
+      "Baby corn",
+      "water",
+      "salt",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Heirloom farms, broken straw mushrooms",
+    "marca": "Heirloom Farms",
+    "ean": "0650748779241",
+    "ingredientes": [
+      "Straw mushrooms",
+      "water",
+      "salt",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bean Sprouts, Whole",
+    "marca": "Heirloom Farms",
+    "ean": "0650748779258",
+    "ingredientes": [
+      "Bean sprouts",
+      "water",
+      "salt",
+      "vitamin c",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Heirloom farms, sliced water chestnuts",
+    "marca": "Heirloom Farms",
+    "ean": "0650748779265",
+    "ingredientes": [
+      "Water chestnuts",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Heirloom farms, slied hand picked & boiled in water",
+    "marca": "Heirloom Farms",
+    "ean": "0650748779272",
+    "ingredientes": [
+      "Bamboo shoots",
+      "water",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Heirloom farms, mixed stir fry vegetables",
+    "marca": "Heirloom Farms",
+    "ean": "0650748779289",
+    "ingredientes": [
+      "Bean sprouts",
+      "bamboo shoots",
+      "water chestnuts",
+      "baby corn",
+      "carrots",
+      "citric acid",
+      "water and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thai Red Rice Pad Thai Noodles",
+    "marca": "Explore Asian",
+    "ean": "0650748779326",
+    "ingredientes": [
+      "Organic jasmine red rice",
+      "organic thai brown rice",
+      "organic tapioca flour",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thai Red Rice Noodles Vermicelli",
+    "marca": "Explore Asian",
+    "ean": "0650748779333",
+    "ingredientes": [
+      "Organic jasmine red rice",
+      "organic thai brown rice",
+      "organic tapioca flour",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Thai Brown Rice Pasta Penne",
+    "marca": "Explore Asian",
+    "ean": "0650748779340",
+    "ingredientes": [
+      "Organic thai brown rice",
+      "organic tapioca flour",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic edamame spaghetti",
+    "marca": "Explore Asian",
+    "ean": "0650748779906",
+    "ingredientes": [
+      "Organic edamame (green soybeans)",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/065/074/877/9906/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Bean Spaghetti With Mild Thai Red Curry Sauce",
+    "marca": "Explore Asian",
+    "ean": "0650748779920",
+    "ingredientes": [
+      "Organic black bean spaghetti 43%",
+      "coconut milk 42%",
+      "cane sugar",
+      "fresh chili peppers",
+      "dried red chilies",
+      "fresh ginger",
+      "garlic",
+      "salt",
+      "shallots",
+      "tapioca starch derivative",
+      "fresh cilantro",
+      "lemongrass",
+      "kaffir lime zest",
+      "galangal",
+      "coriander seeds",
+      "cumin",
+      "cardamom."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Edamame Fettuccine With Thai Coconut Sauce",
+    "marca": "Explore Asian",
+    "ean": "0650748779937",
+    "ingredientes": [
+      "Organic edamame (green soybean) fettuccine 43%",
+      "coconut milk 42%",
+      "fresh cilantro",
+      "lemongrass",
+      "fresh chili peppers",
+      "cane sugar",
+      "salt",
+      "shredded coconut",
+      "galangal",
+      "kaffir lime leaves",
+      "tapioca starch derivative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soybean spaghetti with sun-dried tomato sauce",
+    "marca": "Explore Asian",
+    "ean": "0650748779944",
+    "ingredientes": [
+      "Organic soybean spaghetti",
+      "coconut milk",
+      "sun-dried tomatoes",
+      "sunflower oil",
+      "garlic",
+      "salt",
+      "extra virgin olive oil",
+      "mint",
+      "oregano",
+      "acetic acid",
+      "basil",
+      "black cumin",
+      "citric acid",
+      "ascorbic acid",
+      "cane sugar",
+      "chili powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

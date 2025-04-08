@@ -1,0 +1,1992 @@
+[
+  {
+    "nombre": "Grape Juice",
+    "marca": "Coca-Cola",
+    "ean": "05261062",
+    "ingredientes": [
+      "reconstituted grape juice concentrate grape skin extract carbon dioxide",
+      "citric acid",
+      "preservatives (potassium sorbate and pimaricin grapetiser is a trademark of european refreshments. 2019. coca-cola beverages south africa (pty) ltd",
+      "clayville",
+      "gauteng",
+      "south consumer information: 0860 112526. manufactured in south africa"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "South Africa"
+  },
+  {
+    "nombre": "Garlic powder",
+    "marca": "McCormick",
+    "ean": "05262610",
+    "ingredientes": [
+      "garlic powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/2610/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Adobo Seasoning with Pepper",
+    "marca": "Mccormick",
+    "ean": "05263114",
+    "ingredientes": [
+      "Salt",
+      "garlic",
+      "black pepper",
+      "tricalcium phosphate (to make free flowing)",
+      "oregano and turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/3114/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Adobo Seasoning Without Pepper",
+    "marca": "Mccormick",
+    "ean": "05263176",
+    "ingredientes": [
+      "Salt",
+      "garlic",
+      "tricalcium phosphate (to make free flowing)",
+      "oregano",
+      "and turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bold flavor total seasoning for beef, bold",
+    "marca": "Mccormic",
+    "ean": "05263211",
+    "ingredientes": [
+      "Salt",
+      "onion",
+      "spices (including paprika",
+      "oregano",
+      "parsley)",
+      "garlic",
+      "yeast extract",
+      "calcium silicate (to make free flowing)",
+      "bromelain (tenderizer)",
+      "and extractives of paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "La chocolaterie de provence, classic line milk chocolate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330001901",
+    "ingredientes": [
+      "Sugar",
+      "cocoa butter",
+      "milk powder",
+      "chocolate liquor",
+      "skim milk powder",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Chocolate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330001918",
+    "ingredientes": [
+      "Sugar",
+      "milk powder",
+      "cocoa butter",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Classic Line 52% Dark Chocolate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330001925",
+    "ingredientes": [
+      "Sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Chocolate With Puffed Rice",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330001949",
+    "ingredientes": [
+      "Sugar",
+      "cocoa butter",
+      "milk powder",
+      "puffed rice [rice flour",
+      "sugar",
+      "malted wheat",
+      "yellow corn flour",
+      "wheat gluten",
+      "dextrose (wheat)",
+      "salt]",
+      "chocolate liquor",
+      "skim milk powder",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "La chocolaterie de provence, gourmet line white chocolate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330001987",
+    "ingredientes": [
+      "Sugar",
+      "milk powder",
+      "cocoa butter",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "La chocolaterie de provence, milk chocolate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330001994",
+    "ingredientes": [
+      "Sugar",
+      "cocoa butter",
+      "milk powder",
+      "chocolate liquor",
+      "skim milk powder",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "La chocolaterie de provence, white & coconut chocolate, coconut",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330002007",
+    "ingredientes": [
+      "Sugar",
+      "milk powder",
+      "cocoa butter",
+      "grated coconut",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "La chocolaterie de provence, dark & orange chocolate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330002045",
+    "ingredientes": [
+      "Sugar",
+      "chocolate liquor",
+      "orange pieces [orange pulp",
+      "sucrose",
+      "apple",
+      "dextrose",
+      "pineapple fibers",
+      "citric acid (acidifier)",
+      "sodium alginate",
+      "di-calcium phosphate",
+      "natural orange flavor]",
+      "cocoa butter",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "La chocolaterie de provence, dark chocolate, pomegranate",
+    "marca": "La Chocolaterie De Provence",
+    "ean": "0526330002052",
+    "ingredientes": [
+      "Sugar",
+      "chocolate liquor",
+      "pomegranate chunks [sucrose",
+      "pomegranate juice",
+      "apple juice",
+      "dextrose",
+      "pineapple fibers",
+      "sodium alginate",
+      "artificial flavors",
+      "calcium phosphate",
+      "citric acid (acidifier)",
+      "fruit juice concentrates (elderberry",
+      "aronia)]",
+      "cocoa butter",
+      "soy lecithin",
+      "vanillin (artificial flavor)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate chunks [sucrose",
+        "razon": "Contiene pomegranate chunks [sucrose, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "pomegranate juice",
+        "razon": "Contiene pomegranate juice, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Adobo seasoning without pepper, adobo",
+    "marca": "Mccormick",
+    "ean": "05263716",
+    "ingredientes": [
+      "Salt",
+      "garlic",
+      "tricalcium phosphate (to make free flowing)",
+      "oregano and turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chipotle Chili Pepper",
+    "marca": "McCormick",
+    "ean": "05263813",
+    "ingredientes": [
+      "Chili pepper",
+      "silicon dioxide"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/3813/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chaque de Trigo",
+    "marca": "Bloch",
+    "ean": "05264007",
+    "ingredientes": [
+      "Granos de trigo partidos"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/4007/front_es.14.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Pre-measured spices & recipe card, rosemary roasted chicken with potatoes",
+    "marca": "Mccormick",
+    "ean": "05264016",
+    "ingredientes": [
+      "Garlic",
+      "paprika",
+      "and rosemary."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Recipe Inspirations, Pre-Measured Spices & Recipe Card, Country Herb Chicken & Dumplings",
+    "marca": "Mccormick",
+    "ean": "05264113",
+    "ingredientes": [
+      "Rosemary",
+      "thyme",
+      "and sage."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pre-Measured Spices & Recipe Card",
+    "marca": "Mccormick",
+    "ean": "05264210",
+    "ingredientes": [
+      "Garlic",
+      "rosemary",
+      "and thyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken marsala, pre-measured spices & recipe card",
+    "marca": "Mccormick",
+    "ean": "05264317",
+    "ingredientes": [
+      "Garlic",
+      "basil",
+      "and marjoram."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mccormick, recipe inspirations, lime garlic chicken fajitas",
+    "marca": "Mccormick",
+    "ean": "05264511",
+    "ingredientes": [
+      "Garlic",
+      "cumin",
+      "and oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Classics Banana & Mixed Berry Baby Food",
+    "marca": "Beech-Nut",
+    "ean": "05264821",
+    "ingredientes": [
+      "Bananas",
+      "apple puree concentrate",
+      "water",
+      "blueberries",
+      "strawberries",
+      "citric acid",
+      "ascorbic acid (vitamin c)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground Cumin",
+    "marca": "McCormick",
+    "ean": "05265112",
+    "ingredientes": [
+      "ground whole cumin seeds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/5112/front_en.25.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Onion salt",
+    "marca": "Mccormick",
+    "ean": "05265617",
+    "ingredientes": [
+      "ngredients: salt",
+      "nion",
+      "sodium licoaluminate (to make free flowing) and extractives of onion."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/5617/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crushed Red Pepper",
+    "marca": "McCormick",
+    "ean": "05267615",
+    "ingredientes": [
+      "(PLU 1640368) PIMIENTA ROJA TRITURADA ALÉRGENOS: en producto no en planta soya",
+      "cereales",
+      "leche",
+      "gluten",
+      "huevo",
+      "sulfito",
+      "mostaza",
+      "apio"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/7615/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chocolate puffs cereal",
+    "marca": "Farm Girl",
+    "ean": "0526783617582",
+    "ingredientes": [
+      "Oat Protein",
+      "Oat Fibre",
+      "Prebiotic Fibre",
+      "Faba Protein",
+      "Potato Protein",
+      "Tapioca Starch",
+      "Isomaltose",
+      "Natural Flavours",
+      "Monk Fruit Juice Extract",
+      "Aronia Juice Extract",
+      "Spirulina Extract",
+      "Turmeric Powder",
+      "Black Carrot Extract",
+      "Red Beet Extract",
+      "Sea Salt",
+      "Calcium Carbonate",
+      "Virgin Avocado Oil. MAY CONTAIN: Tree Nuts",
+      "Banana and Sesame. INGRÉDIENTS : Protéines d'avoine",
+      "fibres d'avoine",
+      "fibres prébiotiques",
+      "protéines de Faba",
+      "protéines de pomme de terre",
+      "amidon de tapioca",
+      "isomaltose",
+      "arômes",
+      "naturels",
+      "extrait de jus de fruits de moine",
+      "extrait de jus d'aronia",
+      "extrait de spiruline",
+      "poudre de curcuma",
+      "extrait de carotte noire",
+      "extrait de betterave rouge",
+      "sel marin",
+      "carbonate de calcium",
+      "huile d'avocat vierge. PEUT CONTENIR : Noix",
+      "banane et sésame. ון Get 10% off your first order! о"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/052/678/361/7582/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Basil Leaves",
+    "marca": "McCormick",
+    "ean": "05269613",
+    "ingredientes": [
+      "basil leaves"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/9613/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bay Leaves",
+    "marca": "McCormick",
+    "ean": "05269817",
+    "ingredientes": [
+      "bay leaves."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/526/9817/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "beech-nut",
+    "marca": "Beech-Nut",
+    "ean": "05270521",
+    "ingredientes": [
+      "pear(pear puree concentrate",
+      "water) lemon juice concentrate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/0521/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peach",
+    "marca": "Beech-Nut",
+    "ean": "05270628",
+    "ingredientes": [
+      "Peach puree concentrate",
+      "water",
+      "citric acid",
+      "ascorbic acid (vitamin c)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/0628/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Squash",
+    "marca": "Beech-Nut Nutrition Company",
+    "ean": "05271229",
+    "ingredientes": [
+      "Squash",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/1229/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beechnut",
+    "marca": "Beech-Nut",
+    "ean": "05271423",
+    "ingredientes": [
+      "Carrots",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/1423/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beech-nut",
+    "marca": "Beech Nut",
+    "ean": "05271520",
+    "ingredientes": [
+      "Green beans",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/1520/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "McCormick Oregano Leaves",
+    "marca": "Mccormick",
+    "ean": "05271618",
+    "ingredientes": [
+      "sunist de corn tortilla's tish про рувим у бья отож sour cream whole fouchs mod ade ise po tom 21.2 pavy jomp onions.99 futsar mad i non gmo mccormick the taste you trust me mccormick oregano leaves net u careftly selected f robust flavor b ws 17"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/1618/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Peas Baby Food",
+    "marca": "Beech-Nut Nutrition Company, Beech-Nut",
+    "ean": "05271627",
+    "ingredientes": [
+      "Peas",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/1627/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Banana Muellermilk",
+    "marca": "Muller",
+    "ean": "05271771",
+    "ingredientes": [
+      "müller müllerkib 1",
+      "B2",
+      "B6",
+      "B12 VITAMINES BANANA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/1771/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic pepper seasoning, garlic pepper",
+    "marca": "Mccormick",
+    "ean": "05272219",
+    "ingredientes": [
+      "Garlic",
+      "black pepper",
+      "red and green bell peppers",
+      "onion and brown sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Stock Concentrate",
+    "marca": "Urban Forager",
+    "ean": "0527509799735",
+    "ingredientes": [
+      "Vegetables (Carrot",
+      "Celery",
+      "Onion",
+      "Garlic)",
+      "Chicken 20%",
+      "Lake Salt",
+      "Apple Cider Vinegar",
+      "Spices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/052/750/979/9735/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "Mango",
+    "marca": "Beech-Nut Nutrition Company",
+    "ean": "05277825",
+    "ingredientes": [
+      "Mangos",
+      "water",
+      "apricot puree concentrate",
+      "lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkey + turkey broth",
+    "marca": "Beech Nut",
+    "ean": "05279221",
+    "ingredientes": [
+      "Finely ground turkey",
+      "turkey broth"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/9221/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "beef & beef broth",
+    "marca": "Beech Nut",
+    "ean": "05279726",
+    "ingredientes": [
+      "Beef",
+      "beef broth"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/527/9726/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby food",
+    "marca": "Beech-Nut",
+    "ean": "05281129",
+    "ingredientes": [
+      "Pear puree concentrate",
+      "water",
+      "crushed pineapple (pineapple",
+      "pineapple juice)",
+      "ascorbic acid (vitamin c)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/1129/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "cacao",
+    "marca": "Nesquik",
+    "ean": "05281190",
+    "ingredientes": [
+      "areuis INSREDIENTS 100% NATURELS ualité du eurs V ZONDER KUNSTMATIGE AROMA'S SANS AROMES ARTIFICIELS V RUWE (ONGERAFFINEERDE) RIETSUIKER SUCRE DE CANNE RAW (BRUT) INGREDIENTEN: RIETSUIKER (62%)",
+      "MAGERE CACAOPOEDER (36%)",
+      "EMULGATOR (SOJALECITHINE)",
+      "NATUURLIJK AROMA",
+      "KANEEL",
+      "BEVAT MOGELIJK MELK İNGRÉDIENTS : SUCRE DE CANNE (62%)",
+      "CACAO MAIGRE (36%)",
+      "ÉMULSIFIANT (LÉCITHINE DE SOJA)",
+      "ARÔME NATUREL",
+      "CANNELLE",
+      "PEUT CONTENIR DU LAIT Good Food",
+      "Good Life Nestle."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "EMULGATOR (SOJALECITHINE)",
+        "razon": "Contiene EMULGATOR (SOJALECITHINE), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/1190/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Garden vegetables",
+    "marca": "Beech Nut",
+    "ean": "05282623",
+    "ingredientes": [
+      "Vegetables (peas",
+      "green beans",
+      "carrots",
+      "rehydrated potatoes)",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/2623/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mixed vegetables",
+    "marca": "Beech-Nut",
+    "ean": "05282720",
+    "ingredientes": [
+      "Vegetables (carrots",
+      "green bean",
+      "peas)",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/2720/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "everythings gonna be all rice",
+    "marca": "McCormick",
+    "ean": "05283710",
+    "ingredientes": [
+      "spices (including sesame seed",
+      "ginger)",
+      "salt",
+      "garlic",
+      "onion&sesame oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/3710/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original all-purpose salt free seasoning",
+    "marca": "Mccormick & Co.  Inc.",
+    "ean": "05284117",
+    "ingredientes": [
+      "Onion",
+      "spices (including parsley",
+      "basil",
+      "oregano",
+      "thyme",
+      "and red pepper)",
+      "garlic",
+      "lemon peel",
+      "celery",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/4117/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic & herb",
+    "marca": "Mccormick,  Mccormick & Co.  Inc.",
+    "ean": "05284311",
+    "ingredientes": [
+      "Garlic",
+      "spices (including oregano",
+      "rosemary",
+      "basil",
+      "and red pepper)",
+      "orange peel",
+      "onion",
+      "paprika",
+      "and celery."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/528/4311/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beech Nut, Beef & Beef Broth",
+    "marca": "Goya",
+    "ean": "05286425",
+    "ingredientes": [
+      "Beef",
+      "beef broth."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "choc",
+    "marca": "Boar's Head",
+    "ean": "05288489",
+    "ingredientes": [
+      "steamed chickpeas",
+      "organic sugar",
+      "water",
+      "sunflower oil",
+      "cocoa powder",
+      "vanilla extract",
+      "sea salt",
+      "dvi",
+      "p nisin (a natural preservative). dv)",
+      "fiber dv)",
+      "protein nutrition amount per fat 0.5g cholest f"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Halloumi cheese",
+    "marca": "Charalambides Christis Ltd.",
+    "ean": "0529003600104",
+    "ingredientes": [
+      "Blend of cow's",
+      "goat's & sheep's milk",
+      "salt",
+      "rennet (non animal) mint."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Museli",
+    "marca": "Stamford Street Co",
+    "ean": "0529040005313",
+    "ingredientes": [
+      "Oat flakes (38%) wheat flakes (38%) barley flakes (11%)",
+      "toasted wheat flakes",
+      "mixed dried fruit (4.5%) chopped hazelnuts (1%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/052/904/000/5313/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Pure Vanilla Extract",
+    "marca": "Spice Classics",
+    "ean": "05298819",
+    "ingredientes": [
+      "Vanilla bean extractives in water",
+      "alcohol (35%)",
+      "and corn syrup."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/529/8819/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mish cheese",
+    "marca": "King",
+    "ean": "0530043210987",
+    "ingredientes": [
+      "PASTEURIZED BUFFALO MILK",
+      "MILK POWDER",
+      "SALT",
+      "BACTERIAL CULTURE",
+      "RENNET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/004/321/0987/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mayonnaise",
+    "marca": "M Budget",
+    "ean": "05303322",
+    "ingredientes": [
+      "Ingrédlents: huile de tournesol",
+      "eau",
+      "vinaigre d'alcool",
+      "jaune d'œuf 6",
+      "moutarde",
+      "sel de cuisine",
+      "dextrose",
+      "épaississant: E415",
+      "extrait de poivre",
+      "colorant: bêta-carotène."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/530/3322/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Elsie borden, extra sharp cheddar cheese",
+    "marca": "Borden",
+    "ean": "05304206",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Sharp Cheddar Cheese",
+    "marca": "Borden",
+    "ean": "05305302",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Sharp White Cheddar Cheese",
+    "marca": "Borden",
+    "ean": "05305506",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Borden, muenster cheese",
+    "marca": "Borden,  Borden  Inc.",
+    "ean": "05305603",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golda Dolce latte coffee 200",
+    "marca": "wings food",
+    "ean": "05306150",
+    "ingredientes": [
+      "Air",
+      "Gula",
+      "Krimer Nabati (mengandung susu). Susu Skim Bubuk",
+      "Ekstrak Kopi (2 3%). Kopi Bubuk Instan (0 63%). Penstabil Nabati",
+      "Perisa Sintetik (mengandung antioksidan tokoferol)",
+      "Pengemulsi Nabati. Pengatur Keasaman",
+      "Garam",
+      "Ekstrak Malt (mengandung pewarna alami karamel kelas III)",
+      "Penstabil Fosfat Margandung alergen",
+      "hat daltar bahan yang dicetak bebal Layanan Konsumen PO BOX PT KAS - SB 60012 Surabaya - Indonesia 0-800-18-18-818 PULSA 031-5325005 PENGGUNA MANDPHONE NKV"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/530/6150/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Indonesia"
+  },
+  {
+    "nombre": "Borden, natural colby & monterey jack cheese",
+    "marca": "Borden",
+    "ean": "05307407",
+    "ingredientes": [
+      "Colby cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto [color])",
+      "monterey jack cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Pepper Jack Cheese",
+    "marca": "Borden",
+    "ean": "05307504",
+    "ingredientes": [
+      "Pasteurized milk",
+      "jalapeno peppers",
+      "cheese culture",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepper Jack Cheese",
+    "marca": "Borden",
+    "ean": "05307601",
+    "ingredientes": [
+      "Pasteurized milk",
+      "jalapeno peppers",
+      "cheese culture",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vegetarios",
+    "marca": "Eberswalder",
+    "ean": "05313563",
+    "ingredientes": [
+      "Trinkwasser",
+      "Verdickungsmittel: Xanthan",
+      "Johannisbrotkernmehl",
+      "semiraffiniertes Carrageen",
+      "Konjak",
+      "natürliche Aromen",
+      "Speisesalz",
+      "Gewürze",
+      "modifizierte Stärke",
+      "Dextrose",
+      "Würze",
+      "Säureregulator: Natriumacetate",
+      "Karotten",
+      "Farbstoff: Eisenoxid",
+      "Buchenholzrauch"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/531/3563/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Sharp Cheddar Cheese",
+    "marca": "Borden",
+    "ean": "05314902",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium Cheddar Cheese",
+    "marca": "Borden",
+    "ean": "05315008",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheddar cheese",
+    "marca": "Elsie Borden",
+    "ean": "05315105",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Borden, sharp cheddar cheese, sharp cheddar",
+    "marca": "Borden",
+    "ean": "05315202",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Compote pomme nature sans sucres ajoutés",
+    "marca": "Andros",
+    "ean": "05316335",
+    "ingredientes": [
+      "Pommes 99",
+      "acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/531/6335/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bio-Vollkorn-Haferflocken Zart",
+    "marca": "Gut Bio",
+    "ean": "0531916853164",
+    "ingredientes": [
+      "BIO-VOLLKORN - HAFERFLOCKEN ZART™ &quot",
+      "aus kontrolliert biologischem Anbau. Kann weitere glutenhaltige Getreide enthalten."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/191/685/3164/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Thé blanc de la Reunion au galabert",
+    "marca": "Le labyrinthe En Champ Thé",
+    "ean": "05321629",
+    "ingredientes": [
+      "Thé blanc*",
+      "Galabert*"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/532/1629/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Réunion"
+  },
+  {
+    "nombre": "corn Flakes",
+    "marca": "Kelloggs",
+    "ean": "0532332081452",
+    "ingredientes": [
+      "Maize",
+      "barley malt extract",
+      "sugar",
+      "salt",
+      "niacin",
+      "iron",
+      "vitamin B6",
+      "riboflavin",
+      "thiamin",
+      "folic acid",
+      "vitamin D",
+      "vitamin B12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/233/208/1452/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Square toasts",
+    "marca": "Delhaize",
+    "ean": "05335862",
+    "ingredientes": [
+      "Farine de BLÉ",
+      "FARINE DE BLÉ COMPLÈTE",
+      "GLUTEN DE BLÉ",
+      "levure",
+      "huile de tournesol non hydrogénée",
+      "agent de traitement de la farine : acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/533/5862/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Chocolate Rye Crumb Milk & Sea Salt",
+    "marca": "Pump Street Bakery",
+    "ean": "0533637835382",
+    "ingredientes": [
+      "Fèves de cacao",
+      "sucre de canne",
+      "beurre de cacao biologique",
+      "_lait_ en poudre",
+      "sel de mer et chapelure (_blé",
+      "_seigle_)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/363/783/5382/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tojorí",
+    "marca": "Bloch",
+    "ean": "05342507",
+    "ingredientes": [
+      "Maíz molido."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/534/2507/front_es.4.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Bubble gum",
+    "marca": "Bubbleyum",
+    "ean": "05348730",
+    "ingredientes": [
+      "Sugar",
+      "gum base",
+      "corn syrup",
+      "contains 2% or less of: glycerin",
+      "artificial flavor",
+      "artificial color (blue 1 lake)",
+      "bht (to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Orange juice",
+    "marca": "Bluebird",
+    "ean": "05352136",
+    "ingredientes": [
+      "water",
+      "concentrated orange juice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/535/2136/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trigo",
+    "marca": "Bloch",
+    "ean": "05354007",
+    "ingredientes": [
+      "Granos de trigo seleccionados."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/535/4007/front_es.9.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Guacamole",
+    "marca": "Hacendado",
+    "ean": "05356751",
+    "ingredientes": [
+      "Aguacate 95%",
+      "sal",
+      "cebolla deshidratada",
+      "jalapeño",
+      "azúcar",
+      "antioxidantes (ácido ascórbico",
+      "ascorbato sódico",
+      "citrato sódico)",
+      "corrector de acidez (ácido cítrico)",
+      "conservador (sorbato potásico)",
+      "aroma de ajo",
+      "cilantro deshidratado."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/535/6751/front_es.8.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Pâte Feuilletée Multicéréale BIO",
+    "marca": "Biobleud",
+    "ean": "0535800761702",
+    "ingredientes": [
+      "Farine de blé T65*",
+      "Eau",
+      "Matières grasses végétales non hydrogénées (palme*",
+      "tournesol*). Farines multicéréales* (10%) (Farine de blé complète T110*",
+      "Farine d'épeautre semi-complète T80*",
+      "Farine de seigle complète T130*)",
+      "Sel de Guérande",
+      "Jus de citron concentré*. Peut contenir des traces de lait et de soja. *Ingrédients AB",
+      "issus de l'Agriculture Biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/580/076/1702/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Farfalle",
+    "marca": "Barilla",
+    "ean": "05359684",
+    "ingredientes": [
+      "Integrale grano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/535/9684/front_it.3.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "Couscous semi-complet",
+    "marca": "Bio Village",
+    "ean": "0536127084833",
+    "ingredientes": [
+      "Semoule de blé dur précuite issue de l'agriculture biologique. Traces de : moutarde et soja."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/612/708/4833/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Borden, natural gouda cheese",
+    "marca": "Borden",
+    "ean": "05367409",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit and nut bar",
+    "marca": "Nature Valley",
+    "ean": "05379088",
+    "ingredientes": [
+      "ALMONDS",
+      "RAISINS PEANUTS CRANBERRIES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/537/9088/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emmental râpé",
+    "marca": "ETREZ",
+    "ean": "0538094731628",
+    "ingredientes": [
+      "La cru (origine France set",
+      "ferments lactiques (lait)",
+      "coagulant"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/809/473/1628/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet panées",
+    "marca": "Carrefour",
+    "ean": "05381302",
+    "ingredientes": [
+      "Ingrédients (à la mise en oeuvre): Aiguillettes de poulet 54%",
+      "eau",
+      "farine de blé",
+      "huile de tournesol",
+      "fécule de pomme de terre",
+      "sel",
+      "ail en poudre",
+      "sucre",
+      "agent levant: E500ii",
+      "poivres en poudre (poivre noir et poivre de Cayenne)",
+      "extrait de levure",
+      "thym en poudre",
+      "épaississants: E415 et E1442",
+      "conservateurs : E200 et E202. Peut contenir des traces de lait."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/538/1302/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Novosal",
+    "marca": "Céréal",
+    "ean": "05381540",
+    "ingredientes": [
+      "Potassio cloruro",
+      "sodio cloruro (35%)",
+      "potassio citrato",
+      "magnesio solfato",
+      "magnesio carbonato",
+      "calcio carbonato."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/538/1540/front_it.3.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "vitad'or",
+    "marca": "vitad'or",
+    "ean": "05384990",
+    "ingredientes": [
+      "UILE DE TOURNES Aconsommer de préférence avant fio/Lot vir surla outelle."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/538/4990/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lomo blanc",
+    "marca": "Bellota-bellota",
+    "ean": "0539163400100",
+    "ingredientes": [
+      "Viande de porc de beLLota",
+      "sel",
+      "épices",
+      "antioxydant (+301)",
+      "conservateurs (E-252",
+      "E-250) et sucre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/916/340/0100/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Carys",
+    "marca": "Borden  Inc.",
+    "ean": "05393131",
+    "ingredientes": [
+      "Water",
+      "sorbitol",
+      "cellulose gum",
+      "natural and artificial flavors",
+      "salt",
+      "caramel color",
+      "sodium benzoate and potassium sorbate (to preserve freshness)",
+      "sucralose",
+      "phosphoric acid",
+      "acesulfame potassium",
+      "aspartame*",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/539/3131/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seeded Multigrain with Barley",
+    "marca": "Massimo",
+    "ean": "0539689510710",
+    "ingredientes": [
+      "Unbleached high protein wheat flour",
+      "water",
+      "seeds (6%) (flaxseed",
+      "sunflower seed",
+      "black sesame",
+      "chia seed)",
+      "sugar",
+      "barley (4%)",
+      "vegetable fat (non-hydrogenated palm based)",
+      "wheat bran",
+      "wheat protein",
+      "malt extract",
+      "salt",
+      "whey powder",
+      "vitamins and minerals",
+      "fermented rye flour",
+      "yeast",
+      "dough conditioners (INS 481",
+      "INS 170)",
+      "preservative (INS 282)",
+      "emulsifiers (INS 471",
+      "INS 481) and enzymes. Contains gluten",
+      "soy and milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/968/951/0710/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Malaysia"
+  },
+  {
+    "nombre": "Serrano Sea Salt Vinegar Potato Chips",
+    "marca": "Siete",
+    "ean": "0539866008085",
+    "ingredientes": [
+      "Potatoes",
+      "avocado oil",
+      "distilled white vinegar powder",
+      "sea salt",
+      "serrano powder",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/053/986/600/8085/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Choucroute natuur",
+    "marca": "Delhaize",
+    "ean": "0540011258009",
+    "ingredientes": [
+      "Chou blanc",
+      "sel",
+      "antioxydants",
+      "acide ascorbique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Butter Chicken Sergio Herman",
+    "marca": "Delhaize",
+    "ean": "0540011953977",
+    "ingredientes": [
+      "Water",
+      "kippendij 18%",
+      "tomatenpassata (tomaat",
+      "zuurte - regelaar (E330)]",
+      "basmatirijst 7%",
+      "ui 6%",
+      "rode paprika 4%",
+      "wortel 4%",
+      "witte kool 4%",
+      "bloemkool 4%",
+      "Griekse yoghurt [room (melk)",
+      "magere melk",
+      "yoghurtculturen",
+      "magere melkpoeder",
+      "stabilisator (melkeiwit)",
+      "gelatine",
+      "gemodificeerd maiszetmeel",
+      "boter 3% (melk)",
+      "rietsuiker",
+      "room (melk)",
+      "azijn 2%",
+      "geraffineerde raapzaadolie",
+      "kippenbouillon [kippenvleesextract",
+      "gistextract",
+      "maltodextrine",
+      "kippenvet",
+      "rijstzetmeel",
+      "zout",
+      "groente-extracten (wortel",
+      "ui)",
+      "citroensap",
+      "kruiden - en specerijenextracten (peper",
+      "kurkuma",
+      "lavas]]",
+      "zout",
+      "gember",
+      "knoflookpasta (knoflook",
+      "ongeharde zonnebloemolie",
+      "ongeharde olijfolie",
+      "zout",
+      "citroensap)",
+      "koriander 0",
+      "specerijen 0",
+      "komijn",
+      "gember",
+      "kaneel",
+      "peper",
+      "nootmuskaat",
+      "oregano",
+      "kardemom",
+      "chilipeper",
+      "kruidnagel",
+      "laurier)",
+      "komijn 0",
+      "kurkuma 0",
+      "gebrande suikerstroop",
+      "gemodificeerd maiszetmeel",
+      "geraffineerde plantaardige oliën (zonnebloemolie",
+      "emulgator (E322)",
+      "aroma]",
+      "mosterdzaad",
+      "paprikacrème [invertsuikerstroop",
+      "kleurstof (E160c]",
+      "kruiden en specerijen",
+      "verdikkingsmiddel (E415). Gemaakt in een bedrijf waar ook gluten",
+      "schaaldieren",
+      "ei",
+      "vis",
+      "soja",
+      "noten",
+      "selderij",
+      "sesam",
+      "sulfeten",
+      "lupines en weekdieren worden verwerkt."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulgator (E322)",
+        "razon": "Contiene emulgator (E322), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/001/195/3977/front_nl.6.400.jpg",
+    "tahor": false,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Yaourt entier vanille",
+    "marca": "Delhaize",
+    "ean": "0540012117101",
+    "ingredientes": [
+      "Lait entier",
+      "lait maigre en poudre",
+      "arômes naturelles de vanilles 0",
+      "ferments l'actif vivant",
+      "sucre de cannes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "chispi chocs",
+    "marca": "Gaveti",
+    "ean": "0540069863272",
+    "ingredientes": [
+      "harina de trigo (gluten)",
+      "azúcares añadidos (jarabe de agave orgánico (16%))",
+      "aceite vegetal de canola",
+      "chips de chocolate sin azúcar (4.5%) (soya)",
+      "sabor vainilla natural",
+      "inulina de agave orgánico",
+      "leudantes (bicarbonato de amonio y bicarbonato de sodio)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/006/986/3272/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Max Havelaar Bananen",
+    "marca": "Coop Naturaplan,Naturaplan,Coop",
+    "ean": "0540100002059",
+    "ingredientes": [
+      "Bananen"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/010/000/2059/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Bio Max Havelaar Bananes",
+    "marca": "Max havelaar",
+    "ean": "0540101002553",
+    "ingredientes": [
+      "Banane"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Fleischtomaten",
+    "marca": "Coop",
+    "ean": "0540180001706",
+    "ingredientes": [
+      "Tomaten"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/018/000/1706/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Bio Coeur de Boeuf",
+    "marca": "Coop",
+    "ean": "0540205006556",
+    "ingredientes": [
+      "Tomaten"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/020/500/6556/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Orangen",
+    "marca": "Coop Primagusto,Coop Naturaplan,Primagusto,Naturaplan,Coop",
+    "ean": "0540273000852",
+    "ingredientes": [
+      "Orangen"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/027/300/0852/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Bio Auberginen",
+    "marca": "Coop",
+    "ean": "0540299005602",
+    "ingredientes": [
+      "Auberginen"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/029/900/5602/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "vegetable oil",
+    "marca": "Sainsbury's",
+    "ean": "0540359239930",
+    "ingredientes": [
+      "rapeseed oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/035/923/9930/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chocolate easter Squad",
+    "marca": "Favori à",
+    "ean": "05405961",
+    "ingredientes": [
+      "beurre de cacao",
+      "lait en poudre entier",
+      "lait en poudre écrémé",
+      "pâte de cacao",
+      "émulsifiant: lécithines (soja)",
+      "arôme naturel de vanille)",
+      "pâte de cacao",
+      "lait en poudre entier",
+      "lait en poudre écrémé",
+      "émulsifiant: lécithines(soja)",
+      "arôme naturel de vanille",
+      "colorants: rocou",
+      "lutéine). *rapporté au produit fini. Chocolat au lait: cacao: 32% minimum",
+      "matière sèche issue du lait: 27% minimum ."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Delux Meusli",
+    "marca": "Infinity Foods",
+    "ean": "05407945",
+    "ingredientes": [
+      "OAT Flakes",
+      "BARLEY Flakes",
+      "WHEAT Flakes",
+      "Raisins (with Sunflower Oil)",
+      "Chopped Dates (with Rice Flour)",
+      "Sunflower Seeds",
+      "WALNUTS",
+      "Roasted HAZELNUTS",
+      "CASHEWS (NUTS). Flaked ALMONDS (NUTS). For allergens",
+      "including ce containing gluten",
+      "see ing in CAPITAL letters. Packe environment containing s seeds",
+      "soya",
+      "peanuts and"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/540/7945/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Para Negra",
+    "marca": "Jamones Quercus",
+    "ean": "0541146500103",
+    "ingredientes": [
+      "Jambon d'appat de patürage ibérique",
+      "du sel",
+      "de la dextrose",
+      "du sucre",
+      "antioxydants (E-331iii",
+      "E-316) et conservateur (E-252: E-250)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon d'appat de patürage ibérique",
+        "razon": "Contiene Jambon d'appat de patürage ibérique, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/114/650/0103/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Alpro Soya",
+    "marca": "Alpro",
+    "ean": "0541188122098",
+    "ingredientes": [
+      "eau",
+      "feves de soja décortiquées (6",
+      "sucre",
+      "jus de fruits oug jus concentrés (2",
+      "groseille rouge",
+      "fraise",
+      "framboise",
+      "múre en pm riable)",
+      "jus de pomme à base de jus concentré",
+      "phosphate tricalcique",
+      "maltodetare teurs d'acidité (acide lactique",
+      "acide citrique)",
+      "stabilisants (pectines",
+      "agar-agari carotte",
+      "aromes",
+      "sel marin de table",
+      "arôme naturel",
+      "vitamines (B2",
+      "B12",
+      "ni gluten. Source de protéines. Naturellement sans lactose. f..daaisizaluau."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/118/812/2098/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Fresa",
+    "marca": "Peñafiel",
+    "ean": "0541274831155",
+    "ingredientes": [
+      "Agua Mineral Carbonatada",
+      "Ácido Cítrico",
+      "Concentrado Peñafiel Fresa",
+      "Saborizantes Artificiales y Naturales",
+      "Benzoato de Sodio",
+      "Ácido Málico",
+      "Mezcla: Sucralosa / Acesulfame K (30 mg/100 g)",
+      "Rojo 40 (Colorante Artificial)",
+      "EDTA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/054/127/483/1155/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Nectar orange",
+    "marca": "casino",
+    "ean": "05416172",
+    "ingredientes": [
+      "à base de jus de fruits concentré",
+      "teneur en fruits 55%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/541/6172/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sardine s rajčicom",
+    "marca": "Eva,Podravka",
+    "ean": "05416479",
+    "ingredientes": [
+      "Srdela (Sardina pilchardus) min. 65 %",
+      "umak max. 35 % (voda",
+      "koncentrat rajčice 20 %",
+      "sojino ulje",
+      "šećer",
+      "kuhinjska sol",
+      "ocat",
+      "pšenično brašno)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/541/6479/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Croatia"
+  },
+  {
+    "nombre": "Veg Crisp",
+    "marca": "Tyrrels",
+    "ean": "05417797",
+    "ingredientes": [
+      "Mélange de légumes en proportions variables (nanais",
+      "betterave et patate douce orange) (58%)",
+      "huile de tournesol",
+      "sucre",
+      "poudre de vinaigre balsamique",
+      "sel de mer",
+      "arômes naturels",
+      "extrait de levure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/541/7797/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Norvegesi",
+    "marca": "DailyBread",
+    "ean": "05419043",
+    "ingredientes": [
+      "Fiocchi di farro (29%)",
+      "semi di girasole",
+      "semi di lino (1%)",
+      "crusca di avena",
+      "semi di zucca (11%)",
+      "crusca di frumento",
+      "crusca di farro (7%)",
+      "farina di farro integrale (2%)",
+      "acqua",
+      "sale"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/541/9043/front_it.4.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  }
+]

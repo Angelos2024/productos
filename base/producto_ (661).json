@@ -1,0 +1,1949 @@
+[
+  {
+    "nombre": "Tuna Salad Wedge",
+    "marca": "7-Eleven",
+    "ean": "0621401002136",
+    "ingredientes": [
+      "Whole wheat bread",
+      "Flaked tuna",
+      "Salad dressing",
+      "Romaine lettuce."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/100/2136/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chicken Caesar Wrap",
+    "marca": "7-Eleven",
+    "ean": "0621401010612",
+    "ingredientes": [
+      "Plain tortilla",
+      "Chicken strips",
+      "Romaine lettuce",
+      "Creamy caesar dressing",
+      "Parmesan cheese."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/101/0612/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "BLT Wedge",
+    "marca": "7-Eleven",
+    "ean": "0621401013590",
+    "ingredientes": [
+      "White sandwich bread",
+      "Tomatoes",
+      "Fully cooked bacon",
+      "Romaine lettuce",
+      "Mayonnaise",
+      "Cheddar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/101/3590/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Nacho Cheese Flavour Tortilla Chips",
+    "marca": "7-Select",
+    "ean": "0621401028662",
+    "ingredientes": [
+      "Whole grain yellow corn",
+      "Vegetable oil",
+      "Modified milk ingredients",
+      "Sugar",
+      "Salt",
+      "Cheddar and romano cheese solids",
+      "Corn maltodextrin",
+      "Monosodium glutamate",
+      "Onion powder",
+      "Natural flavour",
+      "Garlic powder",
+      "Dried tomato",
+      "Citric acid",
+      "Autolyzed yeast extract",
+      "Spices",
+      "Colour",
+      "Disodium phosphate",
+      "Disodium inosinate and disodium guanylate",
+      "Mono and diglycerides",
+      "Lactic acid",
+      "Calcium hydroxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/102/8662/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Zesty Taco Flavour Tortilla Chips",
+    "marca": "7-Select",
+    "ean": "0621401028679",
+    "ingredientes": [
+      "Whole grain yellow corn",
+      "Vegetable oil",
+      "Modified milk ingredients",
+      "Salt",
+      "Onion powder",
+      "Spices",
+      "Monosodium glutamate",
+      "Torula yeast",
+      "Dextrose",
+      "Corn maltodextrin",
+      "Sugar",
+      "Cheddar cheese",
+      "Garlic powder",
+      "Natural and artificial flavours (natural smoke flavour)",
+      "Sodium acetate and acetic acid",
+      "Tomato powder",
+      "Yeast extract",
+      "Spice extractives",
+      "Sodium phosphate",
+      "Cornstarch",
+      "Dehydrated parsley",
+      "Citric acid",
+      "Lactic acid",
+      "Calcium hydroxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/102/8679/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Nacho Cheese Flavour Tortilla Chips",
+    "marca": "7-Select",
+    "ean": "0621401028693",
+    "ingredientes": [
+      "Whole grain yellow corn",
+      "Vegetable oil",
+      "Modified milk ingredients",
+      "Sugar",
+      "Salt",
+      "Cheddar and romano cheese solids",
+      "Corn maltodextrin",
+      "Monosodium glutamate",
+      "Onion powder",
+      "Natural flavour",
+      "Garlic powder",
+      "Dried tomato",
+      "Citric acid",
+      "Autolyzed yeast extract",
+      "Spices",
+      "Colour",
+      "Disodium phosphate",
+      "Disodium inosinate and disodium guanylate",
+      "Mono and diglycerides",
+      "Lactic acid",
+      "Calcium hydroxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/102/8693/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Zesty Taco Flavour Tortilla Chips",
+    "marca": "7-Select",
+    "ean": "0621401028709",
+    "ingredientes": [
+      "Whole grain yellow corn",
+      "Vegetable oil",
+      "Sugars (corn maltodextrin",
+      "sugar)",
+      "Salt",
+      "Onion powder",
+      "Spices",
+      "Garlic powder",
+      "Hydrolyzed corn protein",
+      "Cheddar cheese",
+      "Cornstarch",
+      "Tomato powder",
+      "Monosodium glutamate",
+      "Whey powder",
+      "Sodium diacetate",
+      "Natural flavour",
+      "Buttermilk powder",
+      "Silicon dioxide",
+      "Sodium phosphate",
+      "Paprika extract",
+      "Lactic acid",
+      "Dehydrated parsley",
+      "CItric acid",
+      "Turmeric extract",
+      "Disodium guanylate",
+      "Disodium inosinate",
+      "Calcium hydroxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/102/8709/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cheesy Jalapeño Flavour Tortilla Chips",
+    "marca": "7-Select",
+    "ean": "0621401030788",
+    "ingredientes": [
+      "Whole grain corn",
+      "Vegetable oil",
+      "Salt",
+      "Corn maltodextrin",
+      "Sugars (dextrose",
+      "sugar)",
+      "Monosodium glutamate",
+      "High oleic sunflower oil",
+      "Cheddar cheese solids",
+      "Milk ingredients",
+      "Spices (jalapeño)",
+      "Dehydrated vegetables (tomato",
+      "onion",
+      "garlic)",
+      "Natural and artificial flavours",
+      "Disodium phosphate",
+      "Citric acid",
+      "Caramel",
+      "Tartrazine",
+      "Disodium inosinate and disodium guanylate",
+      "Annatto",
+      "Paprika",
+      "Turmeric",
+      "Sunset yellow FCF",
+      "Lactic acid",
+      "Calcium hydroxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/140/103/0788/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "La Fallue",
+    "marca": "Merci Mamie",
+    "ean": "06214876",
+    "ingredientes": [
+      "Farine de LE",
+      "EUFS",
+      "EURRE BE-SEL OCH R CAR BEURRE Farine de LE Remi-sel d'Isig SEL CEUFS",
+      "REURRE eciats_de caramel au de aluse",
+      "LAIT Concentré sabilisants: pectine",
+      "y ÁORU AOF SICre",
+      "BEURR demi on levure",
+      "aroe naturel 9% (sirop Sodium",
+      "SACTE",
+      "eau",
+      "Hant: lécithine de tournesol. alcool) sel",
+      "poudre de LAITentierurele vune1 de caramel o",
+      "vanille (contient de FRUIT SA COQUES et de GRAIN ES DE SESAME. ESAME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/621/4876/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Papa John's, Welchs Grape Soda, 20 Oz",
+    "marca": "Papa John's",
+    "ean": "0621493149394",
+    "ingredientes": [
+      "undefined"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Noisette",
+    "marca": "Galler",
+    "ean": "0621498005188",
+    "ingredientes": [
+      "noisettes 30%",
+      "sucre",
+      "matières grasses végétales (beurre de karité",
+      "poudre de lait écrémé",
+      "agent de charge : polydextrose",
+      "cacao maigre en poudre",
+      "anti-agglomérant : isomalt",
+      "dextrine",
+      "inuline",
+      "émulsifiant : lécithine de soja",
+      "arôme naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/149/800/5188/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cereales petit dejeuner arome miel noix",
+    "marca": "Protidiet",
+    "ean": "0621498005195",
+    "ingredientes": [
+      "*Protéine de _soja_",
+      "farine de _soja_",
+      "farine de riz",
+      "maltodextrine de maïs",
+      "huile de tournesol",
+      "épaississant: E414",
+      "arôme (1.9%) édulcorant: E955."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/149/800/5195/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Potage légumes",
+    "marca": "Proti diet",
+    "ean": "0621498710358",
+    "ingredientes": [
+      "Protéines de lait",
+      "protéines de soja",
+      "poudre de légumes: 16% (tomate",
+      "extrait de céleri",
+      "carotte",
+      "poivron rouge",
+      "poivron vert",
+      "oignon)",
+      "sel",
+      "arôme naturel (extrait de levure",
+      "maltodextrine de pomme de terre",
+      "arôme naturel)",
+      "extrait de levure autolysée (extrait de levure",
+      "huile de tournesol partiellement hydrogénée)",
+      "fructose",
+      "épaississant: E415",
+      "agent moussant: E500",
+      "maltodextrine de blé",
+      "arômes (contient de la maltodextrine de blé)",
+      "épices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/149/871/0358/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Protidiet Potage Arome Poulet",
+    "marca": "Protidiet",
+    "ean": "0621498710419",
+    "ingredientes": [
+      "fibrédients : Protéines de lait",
+      "protéines de soja",
+      "arôme naturel (extrait de levure maltodextrine de pomme de terre",
+      "arôme naturel)/ sel",
+      "extrait de levure autolysée épaississant: E415",
+      "poudre dloignon",
+      "protéines de soja hydrolysées",
+      "agent moussant E500",
+      "huile de tournesol",
+      "colorant: El 00",
+      "arômes",
+      "épices. Traces de produits à base de cacahuètes",
+      "de noix",
+      "de graines",
+      "dlœuf et de blé."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "collatio",
+    "marca": "caron",
+    "ean": "06214999",
+    "ingredientes": [
+      "pommes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/621/4999/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Lawry's, seasoned salt",
+    "marca": "Lawry's",
+    "ean": "0621500007001",
+    "ingredientes": [
+      "Salt",
+      "sugar",
+      "spices (including paprika and turmeric)",
+      "onion",
+      "cornstarch",
+      "garlic",
+      "tricalcium phosphate (prevents caking)",
+      "natural flavor",
+      "paprika oleoresin (for color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheddar doux bio",
+    "marca": "Bouchard artisan bio",
+    "ean": "0621511040011",
+    "ingredientes": [
+      "Lait bio pasteurisé Culture bactérienne Sel - Présure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/151/104/0011/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Yogourt nature bio",
+    "marca": "Bouchard",
+    "ean": "0621511050010",
+    "ingredientes": [
+      "Non-homogenized organic whole milk Milk powder. Active bacterial culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/151/105/0010/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Yogourt bio bleuet sauvage",
+    "marca": "Bouchard artisan bio",
+    "ean": "0621511050027",
+    "ingredientes": [
+      "Ingrédients Lait entier bio non homogénéisé Compote de bleuets bio (bleuets sauvages bio",
+      "sucre de canne bio",
+      "eau",
+      "jus de bleuet bio",
+      "fécule de pomme de terre bio",
+      "jus de citron bio). Poudre de lait Culture bactérienne active Ingredi"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/151/105/0027/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Yogourt nature",
+    "marca": "Bouchard",
+    "ean": "0621511250014",
+    "ingredientes": [
+      "Ingrédients Lait entier bio non homogénéisé. Poudre de lait Culture bactérienne active."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/151/125/0014/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ginger Ale",
+    "marca": "Canada Dry",
+    "ean": "06215718",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural flavour",
+      "Caramel colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/621/5718/front_en.52.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Grilled Seasoned Chicken Strips",
+    "marca": "Pro2go",
+    "ean": "0621588318044",
+    "ingredientes": [
+      "Chicken breast",
+      "Water",
+      "Olive oil",
+      "Dry vinegar",
+      "Sea salts",
+      "Lemon juice",
+      "Dried yeast",
+      "Dried citrus pulp",
+      "Onion powder",
+      "Garlic powder",
+      "Natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/158/831/8044/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Syria"
+  },
+  {
+    "nombre": "Pâtés Impériaux au poulet",
+    "marca": "DELIWOK",
+    "ean": "0621624024601",
+    "ingredientes": [
+      "INGRÉDIENÏS : GARNITURE  Chou",
+      "poulet",
+      "oignons",
+      "céleri",
+      "sauce so a (eau",
+      "sel",
+      "soya",
+      "sucre",
+      "Farine de blé",
+      "caramel",
+      "benzoate de sodium",
+      "inosinate et guanylate de sodium)",
+      "épices (sel",
+      "épices irradiées",
+      "sucre",
+      "ail déshydraté",
+      "agents de conditionnement (bioxyde de silicium",
+      "pol sorbate 80)",
+      "substances laitières modillées",
+      "sésame",
+      "poudre de blanc d’œuf (agent de conditionnement : levures boulangères et acide citriquell.  PÂTE : Farine de blé",
+      "eau",
+      "œuf entier liquide et/ou blanc d’œuf liquide",
+      "sel",
+      "amidon de maïs et/ou amidon de maïs modifié",
+      "stéaroyl lactylate de sodium",
+      "acide acétique",
+      "propionate de calcium",
+      "sorbate de potassium",
+      "carbonate de potassium",
+      "bicarbonate de sodium",
+      "colorant",
+      "huile de soya."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/162/402/4601/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Organic Brown Rice Pasta Spaghetti Style",
+    "marca": "Tinkyáda",
+    "ean": "0621683020156",
+    "ingredientes": [
+      "Organic brown rice",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/168/302/0156/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Brown Rice Penne",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683021153",
+    "ingredientes": [
+      "Organic brown rice",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Brown Rice Pasta Spirals",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683021252",
+    "ingredientes": [
+      "Organic brown rice",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Brown Rice Pasta Lasagne",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683021351",
+    "ingredientes": [
+      "Organic brown rice",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Rice Pasta Spaghetti Style",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683520151",
+    "ingredientes": [
+      "White rice",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Spinach Spaghetti Style",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683620158",
+    "ingredientes": [
+      "Brown rice",
+      "spinach powder",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Vegetable Spirals",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683721251",
+    "ingredientes": [
+      "Brown rice",
+      "carrot powder",
+      "tomato powder",
+      "spinach powder",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Spaghetti Style",
+    "marca": "Tinkyáda, Food Directions Inc.",
+    "ean": "0621683920159",
+    "ingredientes": [
+      "Brown rice",
+      "rice bran",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/168/392/0159/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Brown Rice Pasta Fettucini Style",
+    "marca": "Food Directon  Inc., Tinkyada",
+    "ean": "0621683920258",
+    "ingredientes": [
+      "Brown rice",
+      "rice bran",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Elbow",
+    "marca": "Tinkyáda Food Directions Inc., Tinkyada",
+    "ean": "0621683920555",
+    "ingredientes": [
+      "brown rice",
+      "water",
+      "gluten free certified cor kosher  nongmo verified  manufactured by food directions inc",
+      "unit 8",
+      "scarborough",
+      "ontario tы m1b 2x5 canada where quality improvement a made in canada"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/168/392/0555/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Shells",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683920753",
+    "ingredientes": [
+      "Brown rice",
+      "rice bran",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Penne",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683921156",
+    "ingredientes": [
+      "BROWN RICE",
+      "WATER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/168/392/1156/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Spirals",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683921255",
+    "ingredientes": [
+      "BROWN RICE",
+      "WATER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/168/392/1255/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Lasagne",
+    "marca": "Tinkyádad Food Direction Inc., Tinkyada",
+    "ean": "0621683921354",
+    "ingredientes": [
+      "brown rice",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/168/392/1354/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Rice Pasta Little Dreams",
+    "marca": "Food Directions Inc., Tinkyada",
+    "ean": "0621683921453",
+    "ingredientes": [
+      "Brown rice",
+      "rice bran",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wildly Delicious, Asian Wasabi Stir Fry Oil",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787013603",
+    "ingredientes": [
+      "Canola oil",
+      "sesame oil",
+      "minced garlic",
+      "sesame seeds",
+      "crushed chili",
+      "capsicum essence",
+      "wasabi",
+      "lemon oil",
+      "garlic essence",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wildly Delicious Fine Foods, Pizza Drizzling Oil, Pro Cuisine",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787013627",
+    "ingredientes": [
+      "Canola oil",
+      "salt",
+      "minced garlic",
+      "crushed chilli",
+      "basil essence",
+      "paprika essence",
+      "garlic essence",
+      "spices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven Roasted Tomato & Basil Bruschetta",
+    "marca": "Wildly Delicious Preserve Co. Ltd",
+    "ean": "0621787021028",
+    "ingredientes": [
+      "Diced tomatoes (tomatoes",
+      "tomato juice",
+      "salt",
+      "citric acid",
+      "calcium chloride)",
+      "onions",
+      "oven roasted tomatoes (sundried tomatoes",
+      "oil",
+      "lemon juice",
+      "sugar",
+      "onion",
+      "spices)",
+      "canola oil",
+      "water",
+      "red wine vinegar",
+      "basil",
+      "parsley",
+      "garlic",
+      "sugar",
+      "concentrated lemon juice",
+      "sea salt",
+      "spices",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wildly Delicious, Grilling Sauce",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787021769",
+    "ingredientes": [
+      "Soy sauce (water",
+      "wheat",
+      "soybeans",
+      "salt",
+      "alcohol",
+      "vinegar",
+      "lactic acid)",
+      "rice vinegar",
+      "sugar",
+      "maltodextrin",
+      "onion powder",
+      "xanthan gum (thickener)",
+      "natural and artificial blood orange flavour",
+      "natural-ginger essence",
+      "citric acid",
+      "potassium sorbate (preservative)",
+      "garlic essence."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomatillo & Jalapeno Bruschetta",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787022148",
+    "ingredientes": [
+      "Diced tomatoes (tomatoes",
+      "tomato juice",
+      "salt",
+      "calcium chloride",
+      "citric acid)",
+      "crushed tomatillos (tomatillo",
+      "water",
+      "salt",
+      "sugar",
+      "citric acid",
+      "spice)",
+      "onions",
+      "water",
+      "canola oil",
+      "white wine vinegar",
+      "cilantro",
+      "parsley",
+      "modified corn starch",
+      "concentrated lemon juice",
+      "jalapeno peppers",
+      "sea salt",
+      "sugar",
+      "garlic",
+      "oregano",
+      "spices",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bruschetta",
+    "marca": "Wildly",
+    "ean": "0621787025002",
+    "ingredientes": [
+      "Diced tomatoes (tomatoes",
+      "tomato juice",
+      "salt",
+      "calcium chloride",
+      "citric acid)",
+      "green peppers",
+      "onions",
+      "sunflower oil",
+      "red peppers",
+      "yellow peppers",
+      "water",
+      "garlic",
+      "red wine vinegar",
+      "basil",
+      "sea salt",
+      "concentrated lemon juice",
+      "parsley",
+      "spice",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wildly Delicious, Butternut Squash With White Bean & Brown Sugar Warm Dip",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787025392",
+    "ingredientes": [
+      "Butternut squash",
+      "white kidney bean (salt",
+      "calcium chloride",
+      "disodium edta)",
+      "water",
+      "onions",
+      "extra virgin olive oil",
+      "brown sugar",
+      "white wine vinegar (contains sulphites)",
+      "garlic",
+      "sea salt",
+      "citric acid",
+      "green chili",
+      "black pepper",
+      "curry powder",
+      "potassium sorbate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cuisine Oil",
+    "marca": "Wildly Delicious Fine Foods",
+    "ean": "0621787027532",
+    "ingredientes": [
+      "Sunflower oil",
+      "grapeseed oil",
+      "minced garlic",
+      "roasted garlic",
+      "dehydrated shallots",
+      "roasted garlic essence",
+      "shallot essence",
+      "garlic essence."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grilled Vegetable And Potato Cuisine Oil",
+    "marca": "Wildly Delicious Fine Foods",
+    "ean": "0621787027549",
+    "ingredientes": [
+      "Sunflower oil",
+      "grapeseed oil",
+      "minced garlic",
+      "basil essence",
+      "salt",
+      "thyme essence",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramelized Onion & Balsamic",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787033939",
+    "ingredientes": [
+      "Red onions",
+      "sugar",
+      "balsamic vinegar",
+      "water",
+      "canola oil",
+      "modified corn starch",
+      "sea salt",
+      "black pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wildly, Cranberry, Port & Pecan Compote",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787033946",
+    "ingredientes": [
+      "Cranberries",
+      "sugar",
+      "port",
+      "water",
+      "merlot vinegar",
+      "canola oil",
+      "sultanas",
+      "modified corn starch",
+      "pecans",
+      "natural brandy flavor",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Compote For Cheddar Cheese",
+    "marca": "Wildly Delicious Preserve Co. Ltd.",
+    "ean": "0621787033953",
+    "ingredientes": [
+      "Apples (apples",
+      "water",
+      "salt",
+      "ascorbic acid",
+      "citric acid)",
+      "water",
+      "sugar",
+      "black mission fig paste",
+      "walnuts",
+      "balsamic vinegar",
+      "canola oil",
+      "modified corn starch",
+      "sea salt",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "31% M.F. Cheddar Cheese Curds",
+    "marca": "St. Albert",
+    "ean": "0621861450126",
+    "ingredientes": [
+      "Pasteurized milk. Bacterial culture Salt Calcium chloride Microbial enzyme.  Contains: Milk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/186/145/0126/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Le petit crémeux",
+    "marca": "La fromagerie Boivin",
+    "ean": "0621879007503",
+    "ingredientes": [
+      "Fromage (lait pasteurisé",
+      "proteines de lait",
+      "chlorure de calcium",
+      "culture bactérienne",
+      "enzyme microbienne",
+      "colorant naturel )",
+      "eau",
+      "beurre",
+      "poudre de lactosérum",
+      "maltodextrine",
+      "sel",
+      "polyphosphate de sodium",
+      "phosphate trisomique",
+      "citrate de sodium",
+      "sorbate de potassium",
+      "colorant naturel",
+      "acide citrique",
+      "CONTIENT : Lait"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/187/900/7503/front_fr.47.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Noix de cajou rôties non salées",
+    "marca": "Mère Nature",
+    "ean": "0621898055172",
+    "ingredientes": [
+      "Noix de cajous",
+      "Huile de tournesol. Contient: Noix."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/189/805/5172/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "D3+k2",
+    "marca": "PURE-LE",
+    "ean": "0621910005345",
+    "ingredientes": [
+      "vitamin D3 (cholecalciferol)",
+      "vegan vitamin K2 (MK-7)",
+      "MCT",
+      "safflower oil",
+      "organic sunflower oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/191/000/5345/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jong belgen kaas",
+    "marca": "Beemster",
+    "ean": "06219604",
+    "ingredientes": [
+      "Gepasteuriseerde koeMELK",
+      "zout",
+      "melkzuurfermenten",
+      "dierlijk stremsel",
+      "kleurstof E160b(i)]",
+      "conserveermiddel (E251)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/621/9604/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Beurre de Pommes",
+    "marca": "Le Versant Rouge",
+    "ean": "0621980022501",
+    "ingredientes": [
+      "Pommes",
+      "sucre",
+      "sirop d'érable",
+      "_lait_ concentré."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/198/002/2501/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Graines de lin Doré",
+    "marca": "Markal",
+    "ean": "0622095611208",
+    "ingredientes": [
+      "Graines de fin doré biologiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/209/561/1208/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Soda gingembre",
+    "marca": "Canada Dry",
+    "ean": "06221010",
+    "ingredientes": [
+      "d-6202 gafc.05715g o 622101o carbonated water",
+      "sugar/glucose-fructose",
+      "citric acid",
+      "sodium benzoate",
+      "colour",
+      "natural flavour. eau gazeifie",
+      "sucre/glucose-fructose",
+      "acide citrique",
+      "c1-877-350-6590 benzoe e sodu",
+      "co orant",
+      "arve naturel. *tm/mc/canada dry mott",
+      "viesuga",
+      "on l5r 3e7 recyclable/refund where applicable / remboursement siappnicable on facts nutr /par 3 % daily value % valeur quotidienne calories 130 0g sodium 50 mg glucides 32 g 11% 0 % 2 % nta sucres 32 g potéines o g ant source of saturated fat",
+      "aksterol",
+      "fibre",
+      "vitamin a",
+      "cabum or iron. pable de lipides saturés",
+      "rolestérol",
+      "fibres",
+      "ine c",
+      "calcium et fer. intended for individual resale/ vente individuelle interdite &pack upc/cup pour emballage de 6"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/1010/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Terry's, chocolate minis, chocolate orange",
+    "marca": "Terry's",
+    "ean": "0622210147698",
+    "ingredientes": [
+      "Sugar",
+      "cocoa butter",
+      "cocoa mass",
+      "dried skimmed milk",
+      "dried whey (from milk)",
+      "milk fat",
+      "vegetable fats (palm",
+      "shea)",
+      "emulsifier (soya lecithin)",
+      "flavourings (orange oil",
+      "vanillin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bassetts, jelly babies",
+    "marca": "Bassetts",
+    "ean": "0622210307559",
+    "ingredientes": [
+      "Sugar",
+      "glucose syrup (contains sulphites)",
+      "water",
+      "gelatine (bovine)",
+      "concentrated fruit juices** (1%) (apple",
+      "lime",
+      "orange",
+      "strawberry",
+      "blackcurrant",
+      "lemon",
+      "raspberry)",
+      "citric acid",
+      "colours (anthocyanins",
+      "vegetable carbon",
+      "paprika extract",
+      "lutein)",
+      "flavourings",
+      "concentrated vegetable extracts (spinach",
+      "stinging nettle",
+      "turmeric)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zero Sugar Raspberry Lemonade Ginger Ale",
+    "marca": "Canada Dry",
+    "ean": "06222213",
+    "ingredientes": [
+      "Carbonated water",
+      "Citric acid",
+      "Malic acid",
+      "Sodium citrate",
+      "Aspartame (phenylalanine)",
+      "Natural flavour",
+      "Sodium benzoate",
+      "Acesulfame potassium",
+      "Potassium sorbate",
+      "Acacia gum",
+      "Ester gum",
+      "Allura red",
+      "Tartrazine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/2213/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mini Biscotti",
+    "marca": "Gourmet Foods Canada  Inc.",
+    "ean": "0622297420325",
+    "ingredientes": [
+      "Enriched unbleached wheat flour",
+      "sugar",
+      "eggs",
+      "almonds",
+      "canola oil",
+      "baking powder",
+      "hazelnuts",
+      "salt",
+      "natural flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mini Biscotti",
+    "marca": "Mom's",
+    "ean": "0622297450056",
+    "ingredientes": [
+      "Almond hazelnut: enriched unbleached flour (wheat flour",
+      "amylase",
+      "niacin [vitamin b3]",
+      "riboflavin [vitamin b2]",
+      "thiamine mononitrate [vitamin b1]",
+      "folic acid",
+      "ascorbic acid",
+      "azodicarbonate)",
+      "sugar",
+      "eggs",
+      "almonds",
+      "canola oil",
+      "natural flavor",
+      "baking powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Biscotti, Almond",
+    "marca": "Mom's Best Gourmet Foods",
+    "ean": "0622297510446",
+    "ingredientes": [
+      "Nuts (almonds",
+      "hazelnuts) unbleached wheat flour",
+      "eggs",
+      "sugar",
+      "canola oil",
+      "honey",
+      "baking powder",
+      "natural flavour salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dona Pepa Cookies With Chocolate",
+    "marca": "Field",
+    "ean": "0622300095878",
+    "ingredientes": [
+      "Sugar",
+      "fortified wheat flour",
+      "(iron",
+      "niacin",
+      "riboflavin",
+      "tiamin and folic acid)",
+      "vegetable fat (palm)",
+      "milk whey",
+      "cocoa",
+      "sugar syrup",
+      "salt",
+      "artificial flavour (vainilla) ammonium bicarbonate",
+      "soy lecithin",
+      "sodium bicarbonate sodium bisulphite",
+      "colors: fd&c yellow n 5",
+      "fd&c red n 3 and fd&c blue n 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rich Dark Chocolate With A Smooth Mint Fondant Centre Laced With Crisp Sugar Pieces",
+    "marca": "Terry's",
+    "ean": "0622300319059",
+    "ingredientes": [
+      "Sugar",
+      "cocoa mass",
+      "vegetable fat",
+      "whey powder",
+      "cocoa butter",
+      "emulsifiers (soya lecithin",
+      "e476)",
+      "flavourings (peppermint oil",
+      "vanillin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trempette tzatziki",
+    "marca": "Arahiva",
+    "ean": "0622314000011",
+    "ingredientes": [
+      "Substances laitière",
+      "concombre",
+      "huile de canola",
+      "vinaigre",
+      "ail",
+      "sel",
+      "culture bactérienne",
+      "enzyme microbienne. Contient: lait."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/231/400/0011/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Movie Popcorn",
+    "marca": "Imperial Popcorn",
+    "ean": "0622341709468",
+    "ingredientes": [
+      "Popcorn",
+      "Canola oil",
+      "Sea salt",
+      "Flavour",
+      "Beta-carotene"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/234/170/9468/front_en.24.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ninja Thirsti Energy",
+    "marca": "Ninja Thirsty",
+    "ean": "0622356615334",
+    "ingredientes": [
+      "Serv Size: 3",
+      "Amount Per Serving: Calories Q",
+      "Total Fat 0g (0% DV)",
+      "Sat Fat 0g (0% DI)",
+      "Trans Fat 0g",
+      "Cholest Omg (0% DV)",
+      "Sodium 0mg (0% DV)",
+      "Toial Card Og (0% DV)",
+      "Dietary Fiber 0g (0% DV)",
+      "Total Sugars 0g (Includes Og Added Sugars",
+      "Protein 0g",
+      "Vit D (0% DV)",
+      "Calcium (0% DV)",
+      "Iron (0% DV)",
+      "Potas Omg (0% DV) - Water",
+      "Citric Acid",
+      "Natural Flavors",
+      "Fruit and Vegetable Juice* (For Color)",
+      "Sueralose",
+      "Caffeine",
+      "Sodium Benzoate and Potassium Sorbate 6 (Preservatives) 22356 61533 4 *Adds atrial amount of sugar DIS BY SHARKNINJA LC NEEDHAM",
+      "MA 02494 | PAT: SHARENNIA COM/PATENTS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/235/661/5334/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canada Dry Ginger Ale",
+    "marca": "Canada Dry",
+    "ean": "06224017",
+    "ingredientes": [
+      "Carbonated water",
+      "Sugars (sugar/glucose-fructose)",
+      "Citric acid",
+      "Sodium benzoate",
+      "Natural flavour",
+      "Caramel colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/4017/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "CANADA DRY DIET GINGER ALE",
+    "marca": "Canada Dry",
+    "ean": "06224114",
+    "ingredientes": [
+      "arbonated water",
+      "citric acid",
+      "sodium citrate",
+      "sodium benzoate",
+      "malic acid",
+      "aspartame (82 mg/ 355 ml contains henylalanine)",
+      "natural flavour",
+      "colour",
+      "acesulfame potassium (34 mg/ 355 ml)",
+      "calcium disodium edta. /eau gazéifiée",
+      "cide citrique",
+      "citrate de sodium",
+      "benzoate de sodium",
+      "acide malique",
+      "aspartame (82 mg/ 355 ml contient de la phénylalanine)",
+      "essence naturelle",
+      "colorant",
+      "acésulfame de potassium (34 mg/ 355 ml)",
+      "edta de calcium et de disodium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Soda Club low sodium",
+    "marca": "Canada Dry",
+    "ean": "06224318",
+    "ingredientes": [
+      "Carbonated water",
+      "Potassium bicarbonate",
+      "Potassium citrate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/4318/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sucette Sirop D'érable 20G",
+    "marca": "les bonbons richard",
+    "ean": "0622436201013",
+    "ingredientes": [
+      "sirop d'érable pur",
+      "glucose"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/243/620/1013/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sucette au sirop d'érable",
+    "marca": "Turkey Hill",
+    "ean": "0622436211005",
+    "ingredientes": [
+      "SIROP D'ÉRABLE PUR.  GLUCOSE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/243/621/1005/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "bonbons à l'érable",
+    "marca": "american dream market",
+    "ean": "0622436522019",
+    "ingredientes": [
+      "Sirop d'érable pur",
+      "glucose",
+      "sucre. Fabriqué par: NOKOMIS INC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/243/652/2019/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Soda Tonique",
+    "marca": "Canada Dry",
+    "ean": "06224415",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "SUGAR/GLUCOSE-FRUCTOSE CITRIC ACID",
+      "SODIUM BENZOATE",
+      "HYDROCHLORIDE",
+      "NATURAL FLAVOUR. / EAU GAZÉIFIEE",
+      "SUCRE/GLUCOSE-FRUCTOSE",
+      "ACIDE CITRI BENZOATE DE SObiUM",
+      "HYDROCHLORURE DE QUININE",
+      "ESSENCE NATURELLE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/4415/front_fr.22.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cranberry ginger ale",
+    "marca": "Canada Dry",
+    "ean": "06224813",
+    "ingredientes": [
+      "on gf carbonated water",
+      "sugar/glucose-fructose",
+      "citric acid",
+      "natural and artificial flavour",
+      "sodi benzoate",
+      "colour. 7 eau gazéifiée",
+      "sucre/glucose-fructose",
+      "acide citrique",
+      "aromes naturels et artificiels",
+      "benzoate de sodium",
+      "colorant. 0622481 3 c0 00 tin facts tnutritive made fr a/ s55 ml dail value % valeur quol dienne limted time offer te/calorles 140 0 % tad/saturés og jas/tans 0g 0 % satral/cholestérol o mg since dm/sodium 50 mg yte/glucides 33 g /fores 0g apan/sucres 33 g /proteines 0 g th a/viamine a 0 % bitc/viamine c 0 % in/clcium 0% 860 0 % nccanada dry motts inc.",
+      "misissauga",
+      "on l5r 3 7 cran gin ww.canadadry.ca 1-877-350-6590 naturail"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/4813/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Eau de source naturelle ozonée",
+    "marca": "Tim Hortons",
+    "ean": "0622687882405",
+    "ingredientes": [
+      "Eau de source",
+      "Ozone"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/268/788/2405/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Portuguese Dinner Rolls",
+    "marca": "Azores Cambridge Bakery",
+    "ean": "0622810120220",
+    "ingredientes": [
+      "_ENRICHED WHEAT FLOUR_",
+      "WATER",
+      "VEGETABLE OIL",
+      "SALT",
+      "SUGAR",
+      "_GLUTEN_",
+      "FRESH YEAST",
+      "EMULTOS",
+      "_SEMOLINA FLOUR_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/281/012/0220/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Carrot & Parsnip Soup",
+    "marca": "Morrisons",
+    "ean": "06229702",
+    "ingredientes": [
+      "Water",
+      "Carrot (21%)",
+      "Parsnip (17%)",
+      "Modified maize starch",
+      "Double cream (milk) (3%)",
+      "Onion",
+      "Concentrated carrot juice",
+      "Salt",
+      "Sugar",
+      "Leek powder",
+      "Onion powder",
+      "Garlic powder",
+      "Black pepper",
+      "Flavouring (contains celery)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/622/9702/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Whole Wheat Pocketless Pita",
+    "marca": "Haddad Bakery",
+    "ean": "0623002000252",
+    "ingredientes": [
+      "Whole wheat flour",
+      "Water",
+      "Yeast",
+      "Salt",
+      "Canola Oil",
+      "Sugar",
+      "Calcium Propionate",
+      "Vegetable Monoglycerides",
+      "Sorbic Acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/300/200/0252/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Shreddies Big Pack",
+    "marca": "Nestlé",
+    "ean": "0623085154231",
+    "ingredientes": [
+      "Whole grain WHEAT (96.1%)",
+      "sugar",
+      "invert sugar syrup",
+      "BARLEY malt extract",
+      "salt",
+      "molasses",
+      "iron",
+      "vitamin B3",
+      "B5",
+      "B9",
+      "B6",
+      "B2. May contain PEANUTS and NUTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/308/515/4231/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "India's magic masala",
+    "marca": "Lay's",
+    "ean": "06231512",
+    "ingredientes": [
+      "ta ahaba gahav uahah"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/623/1512/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "India"
+  },
+  {
+    "nombre": "Beurre d'arachide crémeux",
+    "marca": "Les sœurs en vrac",
+    "ean": "0623157002668",
+    "ingredientes": [
+      "Arachides rôties à sec. Peut contenir des noix et des graines de sésame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/315/700/2668/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pacanes Pralinées",
+    "marca": "Les Soeurs en vrac",
+    "ean": "0623157002859",
+    "ingredientes": [
+      "PACANES ROTIeS",
+      "SUCRE FIN",
+      "SIUCRE GLACE",
+      "GLUCOSE",
+      "HUILE VÉGÉTALE HYDROGEMEE (CANOLA)",
+      "GOMME ARABIQUE",
+      "LÉCITHINE DE SOYA E (EMULSFIAHI)",
+      "SAVEUR ARTIFICIELLE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/315/700/2859/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Luncheon Meat",
+    "marca": "Mario's",
+    "ean": "0623190810459",
+    "ingredientes": [
+      "Pork",
+      "Pork by-product",
+      "Mechanically separated pork",
+      "Corn or potato starch",
+      "Salt",
+      "Sodium caseinate",
+      "Sodium phosphate",
+      "Sugar",
+      "Sodium ascorbate",
+      "Onion extract",
+      "Spice extracts",
+      "Sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/319/081/0459/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Luncheon Meat",
+    "marca": "Elite",
+    "ean": "0623190810466",
+    "ingredientes": [
+      "Mechanically separated chicken",
+      "Water",
+      "Potato starch",
+      "Soy protein concentrate",
+      "Salt",
+      "Sodium phosphate",
+      "Spices",
+      "Flavour",
+      "Dextrose",
+      "Sodium erythorbate",
+      "Sodium nitrite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/319/081/0466/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Jambon cuit",
+    "marca": "Mario's",
+    "ean": "0623190810503",
+    "ingredientes": [
+      "Jambon",
+      "eau",
+      "sel",
+      "sucre",
+      "phosphate de sodium",
+      "carraghénine",
+      "ascorbate de sodium",
+      "nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon",
+        "razon": "Contiene Jambon, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/319/081/0503/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chopped Ham",
+    "marca": "Mario's",
+    "ean": "0623190810541",
+    "ingredientes": [
+      "Pork",
+      "Water",
+      "Salt",
+      "Sugar",
+      "Sodium phosphate",
+      "Potassium chloride",
+      "Sodium ascorbate",
+      "Sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/319/081/0541/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chicken Salad",
+    "marca": "Mario's",
+    "ean": "0623190811135",
+    "ingredientes": [
+      "Chicken salad (cooked chicken",
+      "salad dressing [soybean oil",
+      "water",
+      "vinegar",
+      "sugar",
+      "liquid yolk",
+      "modified cornstarch",
+      "salt",
+      "mustard flour",
+      "spices",
+      "natural flavour",
+      "dried garlic]",
+      "celery",
+      "water",
+      "sugar",
+      "textured soy flour",
+      "glucono delta lactone",
+      "whey powder",
+      "salt",
+      "dehydrated onion)",
+      "Butter crackers (enriched flour",
+      "canola and/or sunflower oil",
+      "sugars [sugar",
+      "corn syrup]",
+      "salt",
+      "baking soda",
+      "butter",
+      "soya lecithin",
+      "monocalcium phosphate",
+      "protease",
+      "amylase)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/319/081/1135/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mini Vienna Sausages",
+    "marca": "Mario's",
+    "ean": "0623190811418",
+    "ingredientes": [
+      "Mechanically separated pork",
+      "Water",
+      "Pork by-product",
+      "Pork rind",
+      "Corn and tapioca starch",
+      "Salt",
+      "Potassium chloride",
+      "Sodium phosphate",
+      "Calcium chloride",
+      "Smoke flavour",
+      "Dextrose",
+      "Sodium alginate",
+      "Seasoning",
+      "Sodium ascorbate",
+      "Sodium nitrite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/319/081/1418/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Carrots, Organic",
+    "marca": "Fountainview Farm",
+    "ean": "0623202002001",
+    "ingredientes": [
+      "Organic Carrots."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/320/200/2001/front_en.33.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Hindú Para la Noche",
+    "marca": "Hindú",
+    "ean": "06232334",
+    "ingredientes": [
+      "Cidrón",
+      "manzanilla",
+      "pasionaria",
+      "toronjil y menta."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/623/2334/front_es.15.400.jpg",
+    "tahor": true,
+    "pais": "Colombia"
+  },
+  {
+    "nombre": "6 Kaiser Buns",
+    "marca": "Sorrento Bakery",
+    "ean": "0623237000201",
+    "ingredientes": [
+      "Enriched white flour",
+      "water",
+      "yeast",
+      "salt",
+      "shortening (palm oil",
+      "soybean oil",
+      "modified palm oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bun",
+    "marca": "Niagara Bakery",
+    "ean": "0623237000263",
+    "ingredientes": [
+      "Enriched white flour",
+      "water",
+      "yeast salt",
+      "shortening."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cretons Grand-Mère",
+    "marca": "Norel",
+    "ean": "0623338000032",
+    "ingredientes": [
+      "porc eau chapelure de blé grillée oignons sel glutamate monosodique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/062/333/800/0032/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  }
+]
