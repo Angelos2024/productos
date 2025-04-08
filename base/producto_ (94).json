@@ -1,0 +1,5005 @@
+[
+  {
+    "nombre": "Smoked paprika",
+    "marca": "Sainsbury's",
+    "ean": "00222952",
+    "ingredientes": [
+      "Smoked Paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Caramia, california style, marinated artichoke hearts",
+    "marca": "Caramia",
+    "ean": "0022300000016",
+    "ingredientes": [
+      "Trimmed artichoke hearts",
+      "water",
+      "canola oil",
+      "distilled vinegar",
+      "salt",
+      "garlic",
+      "spices",
+      "citric and ascorbic acid to preserve color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "California Style Marinated Artichoke Hearts",
+    "marca": "Cara Mia",
+    "ean": "0022300000023",
+    "ingredientes": [
+      "TRIMMED ARTICHOKE HEARTS",
+      "WATER",
+      "DISTILLED VINEGAR",
+      "CANOLA OIL",
+      "SALT",
+      "GARLIC",
+      "SPICES",
+      "CITRIC AND ASCORBIC ACID TO PRESERVE COLOR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Artichoke Hearts",
+    "marca": "Caramia",
+    "ean": "0022300000085",
+    "ingredientes": [
+      "TRIMMED ARTICHOKE HEARTS",
+      "WATER",
+      "ASCORBIC ACID TO PRESERVE COLOR",
+      "CITRIC ACID AND SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grilled Artichoke Hearts",
+    "marca": "Cara Mia",
+    "ean": "0022300000108",
+    "ingredientes": [
+      "Grilled artichoke hearts",
+      "sunflower vegetable oil",
+      "distilled vinegar",
+      "salt",
+      "spices",
+      "citric acid",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/230/000/0108/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grilled Artichoke Hearts",
+    "marca": "Cara Mia",
+    "ean": "0022300000122",
+    "ingredientes": [
+      "GRILLED ARTICHOKE HEARTS",
+      "SUNFLOWER VEGETABLE OIL",
+      "DISTILLED VINEGAR",
+      "SALT",
+      "SPICES",
+      "CITRIC ACID",
+      "ASCORBIC ACID TO PRESERVE COLOR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hand Grilled Piquillo Pepper",
+    "marca": "Cara Mia",
+    "ean": "0022300008524",
+    "ingredientes": [
+      "PIQUILLO PEPPERS",
+      "WATER",
+      "SUGAR",
+      "SALT",
+      "CITRIC ACID AND CALCIUM CHLORIDE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/230/000/8524/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Melon Creamy Soda",
+    "marca": "Ueshima Coffee (Ucc Hawaii) Corp",
+    "ean": "0022304203062",
+    "ingredientes": [
+      "Water",
+      "high fructose corn syrup",
+      "evaporated skimmed milk",
+      "citric acid",
+      "artificial flavor",
+      "ascorbic acid",
+      "sodium citrate",
+      "acesulfame-k",
+      "fd&c yellow 5",
+      "fd&c blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/230/420/3062/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Soda, Mango",
+    "marca": "Ueshima Coffee (Ucc Hawaii) Corp",
+    "ean": "0022304203116",
+    "ingredientes": [
+      "Water",
+      "high fructose corn syrup",
+      "evaporated skimmed milk",
+      "citric acid",
+      "ascorbic acid",
+      "artificial flavor",
+      "sodium citrate",
+      "acesulfame-k."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/230/420/3116/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Tea",
+    "marca": "Ueshima Coffee (Ucc Hawaii) Corp",
+    "ean": "0022304205110",
+    "ingredientes": [
+      "Water",
+      "green tea",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/230/420/5110/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ucc, Oolong Tea",
+    "marca": "Ueshima Coffee (Ucc Hawaii) Corp",
+    "ean": "0022304205127",
+    "ingredientes": [
+      "Water",
+      "oolong tea",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crème de Marrons de l'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314010018",
+    "ingredientes": [
+      "Châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait de vanille Madagascar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0018/front_fr.38.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marrons de l'Ardèche",
+    "marca": "Clement Faugier",
+    "ean": "0022314010025",
+    "ingredientes": [
+      "châtaignes 50%",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille Madagascar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0025/front_en.47.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marrons de l'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314010032",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0032/front_fr.41.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Clement Faugier - Vanilla Chestnut Spread, 250g (8.75oz)",
+    "marca": "Clément Faugier",
+    "ean": "0022314010049",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0049/front_fr.40.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marron",
+    "marca": "Clément Faugier",
+    "ean": "0022314010056",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "Sirop de glucose",
+      "eau",
+      "extrait naturel de vanille Préparé avec 50g de fruits pour 100g Teneur totale en sucres 60g pour 100G SANS GLUTEN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0056/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de Marrons de l'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314010070",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille Préparé avec 50g de fruits pour 100g Teneur totale en sucres : 60g pour 100g couvercle"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0070/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marrons de l'Ardèche",
+    "marca": "Clement Faugier",
+    "ean": "0022314010094",
+    "ingredientes": [
+      "Châtaignes",
+      "sucre",
+      "débris de marrons glacés écrasés (marrons",
+      "sucre",
+      "sirop de glucose",
+      "arôme naturel de vanille)",
+      "eau",
+      "sirop de glucose",
+      "arôme naturel de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0094/front_en.34.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marrons",
+    "marca": "Clément Faugier",
+    "ean": "0022314010100",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0100/front_en.30.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de Marrons de l'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314010117",
+    "ingredientes": [
+      "Châtaignes 50 %",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/0117/front_fr.20.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Crème de marrons",
+    "marca": "Clément Faugier",
+    "ean": "0022314014108",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/4108/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Creme de marrons de l’ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314015037",
+    "ingredientes": [
+      "Châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait de vanille Madagascar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5037/front_fr.20.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Faugier Tube Creme Marron Blisterx3 Tubes",
+    "marca": "Clement faugier",
+    "ean": "0022314015099",
+    "ingredientes": [
+      "Oc oc l'ardèche c&quot",
+      "Esrt",
+      "Ur châtaignes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5099/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Creme de marrons",
+    "marca": "Clement faugier",
+    "ean": "0022314015136",
+    "ingredientes": [
+      "châtaignes d'Ardèche AOP (50%)",
+      "sucre",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille Préparé avec 50g de fruits pour 100g Teneur totale en sucres : 60g pour 100g"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5136/front_fr.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marron",
+    "marca": "Clément Faugier",
+    "ean": "0022314015167",
+    "ingredientes": [
+      "Châtaignes",
+      "sucre",
+      "débris de marrons glacés",
+      "eau",
+      "sirop de glucose",
+      "arôme naturel de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5167/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de Marrons de L'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314015174",
+    "ingredientes": [
+      "Châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait de vanille Madagascar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5174/front_fr.43.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Creme de Marrons de l’Ardeche",
+    "marca": "Clement Faugier",
+    "ean": "0022314015181",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille Sans gluten"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5181/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de marrons de l'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314015242",
+    "ingredientes": [
+      "Châtaignes",
+      "sucre",
+      "débris de marrons glacés",
+      "eau",
+      "sirop de glucose",
+      "arôme naturel vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5242/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de Marrons de l'Ardèche",
+    "marca": "Clément Faugier, Faugier",
+    "ean": "0022314015617",
+    "ingredientes": [
+      "Châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5617/front_fr.33.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Creme de marron d’Ardèche",
+    "marca": "Clement Faugier",
+    "ean": "0022314015648",
+    "ingredientes": [
+      "Châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5648/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crème de Marrons de l'Ardèche",
+    "marca": "Clément Faugier",
+    "ean": "0022314015655",
+    "ingredientes": [
+      "châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/5655/front_fr.29.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marpoms",
+    "marca": "Clément Faugier",
+    "ean": "0022314016102",
+    "ingredientes": [
+      "pommes (60%)",
+      "crème de marrons (40%) (châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/6102/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marpom's",
+    "marca": "Clément Faugier",
+    "ean": "0022314016119",
+    "ingredientes": [
+      "pommes (60%)",
+      "crème de marrons (40%) (châtaignes (50%)",
+      "sucre",
+      "marrons glacés",
+      "sirop de glucose",
+      "eau",
+      "extrait naturel de vanille)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/6119/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marpom's",
+    "marca": "Clement Faugier",
+    "ean": "0022314016201",
+    "ingredientes": [
+      "Pommes (45%)",
+      "crème de marrons (40%) châtaignes",
+      "sucre",
+      "débris de marrons glacés écrasés (marrons",
+      "sucre",
+      "sirop de glucose",
+      "arôme naturel vanille)",
+      "eau",
+      "arôme naturel vanille)",
+      "abricots (15%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/6201/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Farine de châtaignes",
+    "marca": "Clément Faugier",
+    "ean": "0022314018373",
+    "ingredientes": [
+      "châtaignes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/401/8373/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Whole Chestnuts",
+    "marca": "clément faugier",
+    "ean": "0022314020116",
+    "ingredientes": [
+      "*RNI : Repères Nutritionnels Journaliers pour un base d'un apport moyen de"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/402/0116/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Whole Chestnuts",
+    "marca": "Clément Faugier",
+    "ean": "0022314020123",
+    "ingredientes": [
+      "châtaignes",
+      "eau"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/402/0123/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Whole peeled chestnuts vacuum packed",
+    "marca": "Clement Faugier",
+    "ean": "0022314020154",
+    "ingredientes": [
+      "châtaignes (100%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/402/0154/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marrons Entiers",
+    "marca": "Clément Faugier",
+    "ean": "0022314020161",
+    "ingredientes": [
+      "châtaignes (100%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/402/0161/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Clement Faugier Chestnut Puree",
+    "marca": "Clément Faugier",
+    "ean": "0022314030214",
+    "ingredientes": [
+      "$HESTNUY PUREY MADE IN FRANCE Net Weight 1 (b 15 Oz (31 oz) 879g Ingredjents : chestnuts water GLUTEN FREE the lid y consÙming afteropening"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Purée de marrons",
+    "marca": "Clement Faugier",
+    "ean": "0022314030221",
+    "ingredientes": [
+      "Châtaignes (80%)",
+      "eau"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/403/0221/front_fr.68.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Purée de marrons Bio",
+    "marca": "Clément Faugier",
+    "ean": "0022314030238",
+    "ingredientes": [
+      "Châtaigne 70%",
+      "eau."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/403/0238/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Farine de Châtaignes",
+    "marca": "Clément Faugier",
+    "ean": "0022314031266",
+    "ingredientes": [
+      "châtaignes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/403/1266/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pâte de marrons confits extra",
+    "marca": "Clement Faugier",
+    "ean": "0022314040510",
+    "ingredientes": [
+      "Marrons (54%)",
+      "sucre",
+      "sirop de glucose",
+      "Extrait naturel de vanille Bourbon Madagascar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/404/0510/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marrons Glacés Brisés 300g",
+    "marca": "Clément Faugier",
+    "ean": "0022314081230",
+    "ingredientes": [
+      "marrons (54%)",
+      "sucre",
+      "sirop de glucose",
+      "extrait naturel de-van Poids Net : 300g Clément Faugier Le Logis du Roy - 07000 Privas www.clementfaugier.fr"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/408/1230/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marrons glacés brisures",
+    "marca": "Faugier",
+    "ean": "0022314081261",
+    "ingredientes": [
+      "marrons (54%)",
+      "sucre",
+      "sirop de glucose",
+      "extrait naturel de vanille Poids Net : 1 Kg Clément Faugier Le Logis du Roy - 07000 Privas www.clementfaugier.fr 22314 08126 rver au frais et à consommer 15 jours après uverture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/408/1261/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marrons Glacés Gros Cassés",
+    "marca": "Clément Faugier",
+    "ean": "0022314081421",
+    "ingredientes": [
+      "marrons (54%)",
+      "sucre",
+      "sirop de glucose",
+      "extrait naturel de vanille Poids Net : 500g Clément Faugier Le Logis du Roy - 07000 Privas www.clementfaugier.fr"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/408/1421/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marrons Glacés Gros Cassés",
+    "marca": "Clément Faugier",
+    "ean": "0022314081490",
+    "ingredientes": [
+      "Marrons",
+      "sucre",
+      "sirop de glucose",
+      "arôme naturel vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/408/1490/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marron glaces entiers",
+    "marca": "Clement Faugier",
+    "ean": "0022314081568",
+    "ingredientes": [
+      "marrons (54%)",
+      "sucre",
+      "sirop de glucose",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/408/1568/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Marrons Glaces",
+    "marca": "Clement Faugier, Fars Corporation",
+    "ean": "0022314084859",
+    "ingredientes": [
+      "MAMONS",
+      "SUGAR",
+      "GLUCOSE",
+      "SYRUP VANILLA NATURAL FLAVOUR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marrons glacés",
+    "marca": "Clément Faugier",
+    "ean": "0022314084866",
+    "ingredientes": [
+      "marrons (63.62%)",
+      "sucre",
+      "sirop de glucose",
+      "extrait naturel de vanille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/408/4866/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Carotte en rondelles bio surgelées",
+    "marca": "Clément Faugier",
+    "ean": "0022314551474",
+    "ingredientes": [
+      "Carottes en rondelles"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/455/1474/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Apitherapy Raw Honey",
+    "marca": "Honey Gardens",
+    "ean": "0022318000015",
+    "ingredientes": [
+      "RAW HONEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/800/0015/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apitherapy Raw Honey",
+    "marca": "Honey Gardens",
+    "ean": "0022318000039",
+    "ingredientes": [
+      "RAW HONEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Elderberry",
+    "marca": "Honey Gardens Apiaries",
+    "ean": "0022318000084",
+    "ingredientes": [
+      "PURE GRAIN ALCOHOL AND PURIFIED WATER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/231/800/0084/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry",
+    "marca": "Honey Gardens",
+    "ean": "0022318184852",
+    "ingredientes": [
+      "RAW HONEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apitherapy organic raw honey",
+    "marca": "Honey Gardens Apiaries",
+    "ean": "0022318203171",
+    "ingredientes": [
+      "Organic raw honey"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Paprika",
+    "marca": "Sainsbury's",
+    "ean": "00223294",
+    "ingredientes": [
+      "Paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3294/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "New Mexico Chile Pods",
+    "marca": "Ole Mexican Foods",
+    "ean": "0022331023652",
+    "ingredientes": [
+      "Whole chile pods"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Elegant Desserts, Assorted Holiday Bites",
+    "marca": "New Ngc  Inc.",
+    "ean": "0022332798158",
+    "ingredientes": [
+      "Eggs",
+      "cream cheese (pasteurized milk and cream",
+      "cheese culture",
+      "salt",
+      "carob bean gum) wheat flour",
+      "fondant cane sugar",
+      "corn syrup",
+      "water",
+      "sodium metabisulfate) milk unstalted sweet butter",
+      "egg nog",
+      "almond paste",
+      "white chocolate",
+      "vegetable shortening",
+      "granulated sugar dark chocolate",
+      "water",
+      "bittersweet chocolate (cocoa mass sugar cocoa butter",
+      "soy lecithin)",
+      "wheat flour",
+      "hazelnut flavor",
+      "raspberry flavor",
+      "rum flavor whipped topping corn starch",
+      "hazelnuts sweet condensed milk",
+      "instant coffee cream of tartar",
+      "nutmeg",
+      "baking soda",
+      "vanilla coloring: blue (e133)",
+      "red 3 (e127) yellow 5 (e102)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet peppers",
+    "marca": "Sainsbury's",
+    "ean": "00223362",
+    "ingredientes": [
+      "Peppers."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3362/front_en.28.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Onion salt",
+    "marca": "Sainsbury's, By sainsbury's",
+    "ean": "00223430",
+    "ingredientes": [
+      "Sea Salt",
+      "Dried Onion (24%) Salt",
+      "Anti Caking Agent: Silicon Dioxide",
+      "Natural Flavourings: Garlic Oil",
+      "Onion Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3430/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "El Yucateco, Condimented Annatto Paste",
+    "marca": "El Yucateco Salsas Y Condimentos S.A. De C.V.",
+    "ean": "0022343160036",
+    "ingredientes": [
+      "Water",
+      "annatto seed",
+      "corn flour",
+      "salt",
+      "garlic",
+      "spices",
+      "acetic acid and sodium benzoate as a preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caribbean Hot Sauce",
+    "marca": "El Yucateco Salsas Y Condimentos  S.A. De C.V.",
+    "ean": "0022343160159",
+    "ingredientes": [
+      "WATER",
+      "HABANERO PEPPER",
+      "CARROT",
+      "SALT",
+      "SPICES",
+      "ACETIC AC.",
+      "ONION POWDER",
+      "CITRIC AC.",
+      "XANTHAN GUM",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE AS PRESERVATIVES",
+      "CALCIUM DISODIUM EDTA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/234/316/0159/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground Nutmeg",
+    "marca": "Sainsbury’s",
+    "ean": "00223591",
+    "ingredientes": [
+      "Ground Nutmeg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3591/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Ground Cumin",
+    "marca": "Sainsbury’s, Co-op",
+    "ean": "00223638",
+    "ingredientes": [
+      "Ground cumin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3638/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Ground Cinnamon",
+    "marca": "Sainsbury's",
+    "ean": "00223652",
+    "ingredientes": [
+      "Ground Cinnamon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3652/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chocolate Football Game",
+    "marca": "Marks & Spencer",
+    "ean": "00223812",
+    "ingredientes": [
+      "Sucre • _Lait_ en poudre entier • Beurre de cacao • Masse de cacao • émulsifiant : Lécithine de _soja_ • Arôme vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3812/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ground Black Pepper",
+    "marca": "Sainsbury’s",
+    "ean": "00223874",
+    "ingredientes": [
+      "Ground Black Pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/3874/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Marka hipon brand, sauteed shrimp paste, spicy",
+    "marca": "Marka Hipon Brand",
+    "ean": "0022392271851",
+    "ingredientes": [
+      "Tiny shrimp paste",
+      "corn oil",
+      "vinegar",
+      "salt",
+      "sugar",
+      "garlic",
+      "onion",
+      "pepper and monosodium glutamate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fil-Choice, Stew Base Mix (Kare - Kare)",
+    "marca": "Fitrite Incorporated",
+    "ean": "0022392476157",
+    "ingredientes": [
+      "Cornstarch",
+      "sugar",
+      "rice powder",
+      "iodized salt",
+      "flavor enhancer (monosodium glutamate)",
+      "onion powder",
+      "garlic powder (may contain sulphite in excess of 10ppm) and colorant (annatto powder)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fit-Choice, Tamarind Seasoning Mix, Tamarind",
+    "marca": "Fitrite Incorporated",
+    "ean": "0022392476195",
+    "ingredientes": [
+      "Iodized salt",
+      "sugar",
+      "acidity regulator (citric acid)",
+      "flavor enhancer (monosodium glutamate)",
+      "tamarind powder",
+      "hydrolyzed vegetable protein (from corn/soy) onion powder and black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mother's Choice, Spanish Chicken Rice Mix",
+    "marca": "Fitrite Incorporated",
+    "ean": "0022392476348",
+    "ingredientes": [
+      "Sugar",
+      "tomato powder",
+      "salt",
+      "chicken flavour",
+      "garlic powder",
+      "msg",
+      "onion powder",
+      "pepper",
+      "cornstarch and annatto powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chinese Style Noodles",
+    "marca": "Monika",
+    "ean": "0022392573184",
+    "ingredientes": [
+      "Wheat flour",
+      "vegetable oils 37% (palm",
+      "coconut",
+      "corn",
+      "in varying proportions)",
+      "salt",
+      "colour: E160a."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Ube Macapuno",
+    "marca": "Monika",
+    "ean": "0022392576123",
+    "ingredientes": [
+      "Purple yam 50% (Dioscorea alata)",
+      "sugar",
+      "coconut pulp 12%",
+      "dextrose",
+      "water",
+      "preservative: E202"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/239/257/6123/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Powdered Purple Yam",
+    "marca": "Fit-Choice",
+    "ean": "0022392873147",
+    "ingredientes": [
+      "DEHYDRATED PURPLE YAM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grated Cassava Yuca",
+    "marca": "Restaurant Item",
+    "ean": "0022392875738",
+    "ingredientes": [
+      "CASSAVA AND 0.001% SODIUM METABISULFITE ADDED AS PRESERVATIVE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pangasinan, dried salted finlet scad (salaysalay)",
+    "marca": "Pangasinan",
+    "ean": "0022392876421",
+    "ingredientes": [
+      "Finlet scad (selaroides leptolepis) and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Operetta",
+    "marca": "M&S",
+    "ean": "00224031",
+    "ingredientes": [
+      "Sugar Roasted Chopped suitab/ Hazelnuts • Vegetable Fats (Palm",
+      "Sunflower",
+      "Palm",
+      "nut2e Kernel) in varying proportions • Roasted Whole Hazelnuts • Wheatflour (contains Gluten) • Cocoa Butter • Cocoa Mass • Dried Whole Milk • Hazelnut Paste • Fat Reduced Cocoa Powder • Dried Skimmed Milk • Dried Whey (Milk) • Lactose (Milk) • Emulsifier: Soya Lecithin",
+      "Sunflower Lecithin • Flavourings • Dried Free Range Egg • Caramelised Sugar Syrup • Raising Agent: Sodium Bicarbonate • Salt. For allergens see ingredients in bold. Not suitable for Sesame allergy sufferers due to manufacturing methods."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4031/front_en.23.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cheese Puffs",
+    "marca": "Medallion,Shearer's Foods",
+    "ean": "0022422260008",
+    "ingredientes": [
+      "Enriched yellow corn (yellow corn",
+      "thiamine mononitrate",
+      "riboflavin",
+      "niacin",
+      "ferrous sulfate",
+      "folic acid)",
+      "vegetable oil (contains one or more of: corn oil",
+      "sunflower oil",
+      "canola oil)",
+      "whey",
+      "corn starch",
+      "salt",
+      "color blend (whey",
+      "yellow 5",
+      "yellow 6)",
+      "monosodium glutamate",
+      "lactic acid",
+      "cheese blend (whey",
+      "cheddar cheese [whole _milk_",
+      "culture",
+      "salt",
+      "enzymes]",
+      "salt",
+      "butter",
+      "_buttermilk_",
+      "disodium phosphate",
+      "natural flavors",
+      "yellow 6",
+      "oleoresin turmeric)",
+      "maltodextrin",
+      "natural & artificial flavors",
+      "citric acid",
+      "yellow 6 lake",
+      "yellow 5 lake",
+      "fructose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/242/226/0008/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medallion, Tortilla Chip, Cheese",
+    "marca": "Ralston Foods",
+    "ean": "0022422270007",
+    "ingredientes": [
+      "Whole corn",
+      "canola and/or corn and/or soybean and/or cottonseed oil",
+      "maltodextrin",
+      "whey",
+      "salt",
+      "contains 2% or less of: monosodium glutamate",
+      "cheddar",
+      "parmesan",
+      "and romano cheese (cow's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "yellow 5 lake",
+      "cultured buttermilk",
+      "whey protein concentrate",
+      "lactose",
+      "yellow 6 lake",
+      "soybean oil",
+      "paprika spice",
+      "lactic acid",
+      "tomato powder",
+      "natural flavors",
+      "citric acid",
+      "disodium inosinate and disodium guanylate",
+      "yellow 5",
+      "yellow 6",
+      "enzyme modified cheddar cheese (milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tortilla Chips",
+    "marca": "Ralston Foods",
+    "ean": "0022422700139",
+    "ingredientes": [
+      "CORN",
+      "CANOLA AND/OR CORN AND/OR COTTONSEED AND/OR SUNFLOWER AND/OR SAFFLOWER OIL. CONTAINS 2% OR LESS OF SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium Curry Powder",
+    "marca": "Sainsbury's",
+    "ean": "00224376",
+    "ingredientes": [
+      "Coriander Seeds",
+      "Turmeric",
+      "Ginger",
+      "Cumin Seeds",
+      "Cayenne Pepper",
+      "Salt",
+      "Garlic Granules",
+      "Pimento",
+      "Black Pepper",
+      "Fenugreek."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4376/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Orange juice and crushed mango",
+    "marca": "Sainsburys",
+    "ean": "00224420",
+    "ingredientes": [
+      "poasted coriander seeds",
+      "roasted cumin seeds. chili powder (chilli powder",
+      "cumin",
+      "garlic powder",
+      "salt",
+      "oregano)",
+      "paprika",
+      "garlic powder",
+      "salt",
+      "turmeric",
+      "r ginger",
+      "cardamom",
+      "coriander leaf",
+      "nutmeg. ud & pot check locally we're sure you'll love this product. fyou don't",
+      "simply return for a full refund. or",
+      "call our careline 0800 636262. our statutory rights are not affected. produced in the uk for sainsbury's supermarkets ltd",
+      "london ec1n 2ht. 0 www.sainsburys.co.uk chcike toom befe"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4420/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Fresh Ginger Root",
+    "marca": "M&S Eat Well",
+    "ean": "00224437",
+    "ingredientes": [
+      "Ginger Root"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Scotland"
+  },
+  {
+    "nombre": "Mild Chilli Powder",
+    "marca": "Sainsbury's, By sainsbury's",
+    "ean": "00224451",
+    "ingredientes": [
+      "Chilli Powder (93%)",
+      "Cumin",
+      "Garlic",
+      "Oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4451/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Hot Chilli Powder",
+    "marca": "Sainsbury’s",
+    "ean": "00224475",
+    "ingredientes": [
+      "Chilli Powder (93%)",
+      "Cumin",
+      "Garlic",
+      "Oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Reduced fat milk",
+    "marca": "Guida's",
+    "ean": "0022451011008",
+    "ingredientes": [
+      "Reduced fat _milk_",
+      "vitamin A",
+      "palmitiate",
+      "vitamin D3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/245/101/1008/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Skim Milk",
+    "marca": "Guida's",
+    "ean": "0022451012104",
+    "ingredientes": [
+      "REDUCED FAT MILK",
+      "VITAMIN A PALMITATE",
+      "VITAMIN D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/245/101/2104/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole milk",
+    "marca": "Guida-Seibert Dairy Co.",
+    "ean": "0022451017505",
+    "ingredientes": [
+      "Milk",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/245/101/7505/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Guida's, 2% Reduced Fat Milk",
+    "marca": "Guida-Seibert Dairy Co.",
+    "ean": "0022451017604",
+    "ingredientes": [
+      "Reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat milk",
+    "marca": "Guida-Seibert Dairy Co.",
+    "ean": "0022451017703",
+    "ingredientes": [
+      "Lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/245/101/7703/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harissa Spices",
+    "marca": "sainsburys",
+    "ean": "00224581",
+    "ingredientes": [
+      "Coriander Seeds (18%)",
+      "Red pepper Powder",
+      "Dried Garlic (15%)",
+      "Paprika",
+      "Cumin Seeds",
+      "Chilli Flakes (8%)",
+      "Salt",
+      "Black Pepper",
+      "Caraway Seed",
+      "Mint"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4581/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Herring fillets in dill-herb sauce",
+    "marca": "Alstertor",
+    "ean": "0022462562308",
+    "ingredientes": [
+      "Herring fillets",
+      "water",
+      "cream",
+      "cream",
+      "rapeseed oil",
+      "sugar",
+      "salt",
+      "distilled vinegar",
+      "mustard",
+      "thickening agents(locust bean gum",
+      "modified starch)",
+      "butter fat",
+      "seasoning dill tips."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nigella Seeds",
+    "marca": "By sainsbury's",
+    "ean": "00224628",
+    "ingredientes": [
+      "Nigella Seeds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4628/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Zaatar",
+    "marca": "Sainsbury’s",
+    "ean": "00224635",
+    "ingredientes": [
+      "Sesame Seeds (45%)",
+      "Sumac (21%) (Sumac (95%)",
+      "Salt)",
+      "Salt",
+      "Cumin Seeds",
+      "Oregano",
+      "Marjoram"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Onion granules",
+    "marca": "Sainsbury's",
+    "ean": "00224789",
+    "ingredientes": [
+      "dried onion"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Crushed Chillies",
+    "marca": "Sainsbury's, By sainsbury's",
+    "ean": "00224802",
+    "ingredientes": [
+      "Chilli Flakes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4802/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Cury leaves",
+    "marca": "Sainsbury's",
+    "ean": "00224826",
+    "ingredientes": [
+      "Curry Leaves."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/4826/front_en.23.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Large tomatoes",
+    "marca": "Sainsbury's",
+    "ean": "00224888",
+    "ingredientes": [
+      "Organic large tomatoes ."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Spelt Fusilli",
+    "marca": "By sainsbury's, Sainsburys",
+    "ean": "00225007",
+    "ingredientes": [
+      "Spelt (Wheat) Semolina"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/5007/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Wholegrain spelt penne",
+    "marca": "Sainsbury's",
+    "ean": "00225014",
+    "ingredientes": [
+      "Wholegrain Spelt Semolina."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/5014/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Balsamic Vinegar",
+    "marca": "The Hain Celestial Group  Inc.",
+    "ean": "0022506002043",
+    "ingredientes": [
+      "WINE VINEGAR AND CONCENTRATED GRAPE MUST."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Balsamic Vinegar",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506002050",
+    "ingredientes": [
+      "ORGANICALLY GROWN AND PROCESSED WINE VINEGAR AND ORGANIC CONCENTRATED GRAPE MUST."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Red Wine Vinegar",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506002067",
+    "ingredientes": [
+      "ORGANICALLY GROWN AND PROCESSED RED WINE VINEGAR",
+      ".DILUTED WITH WATER TO 6% ACIDITY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/2067/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic White Wine Vinegar",
+    "marca": "Spectrum,The Hain Celestial Group  Inc.",
+    "ean": "0022506002074",
+    "ingredientes": [
+      "Organically grown and processed white wine vinegar. diluted with water to 6% acidity"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/2074/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Extra Virgin Mediterranean Olive Oill",
+    "marca": "Spectrum",
+    "ean": "0022506002333",
+    "ingredientes": [
+      "FIRST COLD PRESSED EXTRA VIRGIN UNREFINED ORGANIC OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mayonnaise",
+    "marca": "Spectrum,Spectrum Naturals",
+    "ean": "0022506002357",
+    "ingredientes": [
+      "Organic expeller pressed soy and/or canola oil",
+      "organic whole eggs",
+      "organic egg yolks",
+      "organic distilled white vinegar",
+      "organic honey",
+      "filtered water",
+      "sea salt",
+      "organic mustard (organic distilled vinegar",
+      "water",
+      "organic mustard seed",
+      "salt",
+      "organic spices)",
+      "organic lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/2357/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spectrum naturals, organic mayonnaise",
+    "marca": "Spectrum,  Spectrum Naturals",
+    "ean": "0022506002395",
+    "ingredientes": [
+      "Organic expeller pressed soy and flaxseed oils",
+      "organic whole eggs",
+      "filtered water",
+      "organic honey",
+      "organic egg yolks",
+      "organic distilled vinegar",
+      "sea salt",
+      "organic mustard (organic distilled vinegar",
+      "water",
+      "organic mustard seed",
+      "salt",
+      "organic spices)",
+      "organic lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mayonnaise",
+    "marca": "Spectrum",
+    "ean": "0022506002401",
+    "ingredientes": [
+      "Organic expeller pressed soy and/or canola oil",
+      "organic whole eggs",
+      "organic egg yolks",
+      "filtered water",
+      "organic honey",
+      "organic distilled white vinegar",
+      "sea salt",
+      "organic mustard (organic distilled vinegar",
+      "water",
+      "organic mustard seed",
+      "salt",
+      "organic spices)",
+      "organic lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/2401/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Distilled White Vinegar",
+    "marca": "Spectrum,  Spectrum Naturals",
+    "ean": "0022506002487",
+    "ingredientes": [
+      "Organic distilled vinegar. diluted with water to 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/2487/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Balsamic Vinegar",
+    "marca": "The Hain Celestial Group  Inc.",
+    "ean": "0022506002630",
+    "ingredientes": [
+      "ORGANICALLY GROWN AND PROCESSED WINE VINEGAR AND ORGANIC CONCENTRATED GRAPE MUST."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mayonnaise",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506002913",
+    "ingredientes": [
+      "ORGANIC EXPELLER PRESSED SOY AND/OR CANOLA OIL",
+      "ORGANIC WHOLE EGGS",
+      "ORGANIC EGG YOLKS",
+      "FILTERED WATER",
+      "ORGANIC HONEY",
+      "ORGANIC DISTILLED WHITE VINEGAR",
+      "SEA SALT",
+      "ORGANIC MUSTARD (ORGANIC DISTILLED VINEGAR",
+      "WATER",
+      "ORGANIC MUSTARD SEED",
+      "SALT",
+      "ORGANIC SPICES)",
+      "ORGANIC LEMON JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/2913/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Mayonnaise",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506003019",
+    "ingredientes": [
+      "EXPELLER PRESSED CANOLA OIL",
+      "PASTEURIZED WHOLE EGGS",
+      "FILTERED WATER",
+      "HONEY",
+      "DISTILLED WHITE VINEGAR",
+      "SEA SALT",
+      "MUSTARD (DISTILLED VINEGAR",
+      "WATER",
+      "MUSTARD SEED",
+      "SALT)",
+      "LEMON JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Canola Mayo",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506003026",
+    "ingredientes": [
+      "FILTERED",
+      "WATER",
+      "EXPELLER PRESSED CANOLA OIL",
+      "CORNSTARCH",
+      "DISTILLED WHITE VINEGAR",
+      "APPLE CIDER VINEGAR",
+      "SEA SALT",
+      "SOY PROTEIN ISOLATE",
+      "LEMON JUICE CONCENTRATE",
+      "XANTHAN GUM",
+      "ONION POWDER",
+      "NATURAL VITAMIN E MIXED TOCOPHEROLS",
+      "ROSEMARY EXTRACT",
+      "MUSTARD OIL",
+      "TURMERIC EXTRACT",
+      "EXTRACTIVES OF PAPRIKA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mayonnaise With Extra Virgin Olive Oil",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506003873",
+    "ingredientes": [
+      "ORGANIC EXPELLER PRESSED SOY AND/OR CANOLA OIL",
+      "ORGANIC WHOLE EGGS",
+      "ORGANIC EGG YOLKS",
+      "ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "FILTERED WATER",
+      "ORGANIC HONEY",
+      "ORGANIC DISTILLED VINEGAR",
+      "SEA SALT",
+      "ORGANIC MUSTARD (ORGANIC DISTILLED VINEGAR",
+      "WATER",
+      "ORGANIC MUSTARD SEED",
+      "SALT",
+      "ORGANIC SPICES)",
+      "ORGANIC LEMON JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/600/3873/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola & Coconut Oil Blend",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506005518",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED REFINED CANOLA OIL AND ORGANIC REFINED COCONUT OIL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola & Olive Oil Blend",
+    "marca": "Spectrum",
+    "ean": "0022506005808",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED REFINED CANOLA OIL",
+      "FIRST COLD PRESSED EXTRA VIRGIN UNREFINED OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Culinary organic hot chili pepper extra virgin olive oil",
+    "marca": "Spectrum",
+    "ean": "0022506052109",
+    "ingredientes": [
+      "First cold pressed extra virgin organic olive oil",
+      "organic cayenne pepper extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/605/2109/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic rosemary olive oil",
+    "marca": "Spectrum",
+    "ean": "0022506053007",
+    "ingredientes": [
+      "First cold pressed extra virgin organic olive oil",
+      "organic rosemary extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/605/3007/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Avocado Oil Expeller Pressed",
+    "marca": "Spectrum",
+    "ean": "0022506065307",
+    "ingredientes": [
+      "COLD PRESSED REFINED AVOCADO OIL. Bottled in a facility that produces peanut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/606/5307/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic all vegetable shortening",
+    "marca": "Spectrum",
+    "ean": "0022506102606",
+    "ingredientes": [
+      "expeller pressed organic palm fruit oil.*"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/610/2606/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spectrum naturals, organic asian stir fry oil",
+    "marca": "Spectrum,  Spectrum Naturals",
+    "ean": "0022506103801",
+    "ingredientes": [
+      "Mechanically (expeller) pressed organic soy oil",
+      "organic peanut oil",
+      "organic toasted sesame oil and natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Virgin Coconut Oil",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506105614",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED FAIR TRADE UNREFINED VIRGIN ORGANIC COCONUT OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Extra Virgin Olive Oil",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506108059",
+    "ingredientes": [
+      "FIRST COLD PRESSED EXTRA VIRGIN UNREFINED ORGANIC OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sesame Oil Expeller Pressed Refined",
+    "marca": "Spectrum",
+    "ean": "0022506115101",
+    "ingredientes": [
+      "Expeller pressed refined sesame oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Essentials, Organic Dry Roasted Premium Flaxseed Dietary Supplement",
+    "marca": "Spectrum,  Spectrum Essentials",
+    "ean": "0022506125063",
+    "ingredientes": [
+      "Organic dry roasted golden flaxseed",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fish oil",
+    "marca": "Spectrum",
+    "ean": "0022506129030",
+    "ingredientes": [
+      "Gelatin",
+      "glycerin",
+      "purified water",
+      "mixed natural CONTAINS: FISH (ANCHOVIES",
+      "SARDINES",
+      "MACKEREL) tocopherols",
+      "sunflower oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Spectrum naturals, apricot kernel oil",
+    "marca": "Spectrum,Spectrum Naturals",
+    "ean": "0022506131057",
+    "ingredientes": [
+      "Expeller Pressed Refined High Oleic Organic Sunflower Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spectrum Culinary Organic Coconut Oil Refined",
+    "marca": "Spectrum",
+    "ean": "0022506135604",
+    "ingredientes": [
+      "Expeller pressed refined organic coconut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spectrum Culinary Organic Virgin Coconut Oil Unrefined",
+    "marca": "Spectrum, Specturm",
+    "ean": "0022506135635",
+    "ingredientes": [
+      "Mechanically (expeller) pressed naturally unrefined virgin organic coconut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/613/5635/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Spray Oil",
+    "marca": "The Hain Celestial Group  Inc",
+    "ean": "0022506138063",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED CANOLA OIL",
+      "SOY LECITHIN",
+      "PROPELLANT (NO CHLOROFLUOROCARBONS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut oil non-stick cooking spray",
+    "marca": "Spectrum",
+    "ean": "0022506138070",
+    "ingredientes": [
+      "Expeller pressed refined organic coconut oil*",
+      "soy lecithin",
+      "natural flavor",
+      "propellant."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Essentials, Savory Blend Flax & Hemp Oil Dietary Supplement",
+    "marca": "Spectrum,  Spectrum Essentials",
+    "ean": "0022506201095",
+    "ingredientes": [
+      "Cold-pressed unrefined organic flax seed oil",
+      "cold-pressed hemp seed oil",
+      "natural garlic flavor",
+      "organic rosemary extract and vitamin e mixed tocopherols (to protect freshness)",
+      "oil of oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Mayonnaise",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506201163",
+    "ingredientes": [
+      "EXPELLER PRESSED CANOLA OIL",
+      "PASTEURIZED WHOLE EGGS",
+      "FILTERED WATER",
+      "HONEY",
+      "DISTILLED WHITE VINEGAR",
+      "SEA SALT",
+      "MUSTARD (DISTILLED VINEGAR",
+      "WATER",
+      "MUSTARD SEED",
+      "SALT)",
+      "LEMON JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/620/1163/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Mayonnaise",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506201323",
+    "ingredientes": [
+      "EXPELLER PRESSED CANOLA OIL",
+      "PASTEURIZED WHOLE EGGS",
+      "FILTERED WATER",
+      "HONEY",
+      "DISTILLED WHIT VINEGAR",
+      "SEA SALT",
+      "MUSTARD (DISTILLED VINEGAR",
+      "WATER",
+      "MUSTARD SEED",
+      "SALT)",
+      "LEMON JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/620/1323/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Eggless vegan light canola mayo",
+    "marca": "Spectrum",
+    "ean": "0022506202160",
+    "ingredientes": [
+      "Filtered water",
+      "expeller pressed canola oil",
+      "cornstarch",
+      "distilled white vinegar",
+      "apple cider vinegar",
+      "sea salt",
+      "soy protein isolate",
+      "lemon juice concentrate",
+      "xanthan gum",
+      "onion powder",
+      "natural vitamin e mixed tocopherols",
+      "rosemary extract",
+      "mustard oil turmeric extract",
+      "extractives of paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/620/2160/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Canola Mayo",
+    "marca": "Spectrum",
+    "ean": "0022506202320",
+    "ingredientes": [
+      "FILTERED WATER",
+      "EXPELLER PRESSED CANOLA OIL",
+      "CORNSTARCH",
+      "DISTILLED WHITE VINEGAR",
+      "APPLE CIDER VINEGAR",
+      "SEA SALT",
+      "SOY PROTEN ISOLATE",
+      "LEMON",
+      "JUICE CONCENTRATE",
+      "XANTHAN GUM",
+      "ONION POWDER",
+      "NATURAL VITAMIN MIXED TOCOPHEROLS",
+      "ROSEMARY EXTRACT",
+      "MUSTARD OIL",
+      "TURMERIC EXTRACT",
+      "EXTRACTIVES OF PAPRIKA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Essentials, Organic Flax Oil With Lemon, Dietary Supplement",
+    "marca": "Spectrum,  Spectrum Essentials",
+    "ean": "0022506204348",
+    "ingredientes": [
+      "Organic flaxseed oil",
+      "organic lemon oil",
+      "non-genetically engineered natural vitamin e mixed tocopherols and organic rosemary extract (to protect freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola & Olive Spray Oil",
+    "marca": "The Hain Celestial Group  Inc.",
+    "ean": "0022506235809",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED REFINED CANOLA OIL",
+      "FIRST COLD PRESSED UNREFINED EXTRA VIRGIN OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vegan Non-Aerosol Spray Oil",
+    "marca": "The Hain Celestial Group  Inc.",
+    "ean": "0022506238619",
+    "ingredientes": [
+      "Mechanically (expeller) pressed refined canola oil and sunflower oil",
+      "natural flavor (non-dairy)",
+      "annatto extract for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Unpasteurized Apple Cider Vinegar Unfiltered",
+    "marca": "Spectrum",
+    "ean": "0022506270169",
+    "ingredientes": [
+      "Organic raw unpasteurized apple cider vinegar with naturally occurring mother of vinegar",
+      "diluted with water for 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/627/0169/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Unpasteurized Apple Cider Vinegar Unfiltered",
+    "marca": "Spectrum,  Spectrum Naturals",
+    "ean": "0022506270282",
+    "ingredientes": [
+      "Organic raw unpasteurized apple cider vinegar with naturally occurring mother of vinegar",
+      "diluted with water to 5% acidity"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple Cider Vinegar",
+    "marca": "Spectrum Naturals",
+    "ean": "0022506270329",
+    "ingredientes": [
+      "ORGANIC RAW UNPASTEURIZED APPLE CIDER VINEGAR WITH NATURALLY OCCURRING MOTHER OF VINEGAR. DILUTED WITH WATER TO 5% ACIDITY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spectrum naturals, organic white wine vinegar, pear",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506272811",
+    "ingredientes": [
+      "Organic pear juice concentrate",
+      "organic white wine vinegar",
+      "water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Unpasteurized Apple Cider Vinegar Filtered",
+    "marca": "Spectrum,  Spectrum Naturals",
+    "ean": "0022506280168",
+    "ingredientes": [
+      "Organic raw unpasteurized apple cider vinegar with naturally occurring mother of vinegar. diluted with water to 5% acidity"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Oil Non-Stick Cooking Spray",
+    "marca": "Spectrum",
+    "ean": "0022506285606",
+    "ingredientes": [
+      "Mechanically (expeller) pressed refined organic coconut oil",
+      "soy lecithin",
+      "natural flavor",
+      "propellant (no chlorofluorocarbons)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grapeseed Spray Oil",
+    "marca": "The Hain Celestial Group  Inc.",
+    "ean": "0022506324053",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED NATURALLY REFINED GRAPESEED OIL",
+      "SOY LECITHIN",
+      "PROPELLANT (NO CHLOROFLUOROCARBONS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Sunflower Oil Spray",
+    "marca": "Spectrum",
+    "ean": "0022506324077",
+    "ingredientes": [
+      "MECHANICALLY (EXPELLER) PRESSED NATURALLY REFINED HIGH OLEIC ORGANIC SUNFLOWER OIL",
+      "ORGANIC GRAIN ALCOHOL FROM CORN",
+      "ORGANIC SOY LECITHIN",
+      "AND PROPELLANT-COMPRESSED GAS",
+      "(NO HYDROCARBONS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Olive Spray Oil",
+    "marca": "Spectrum",
+    "ean": "0022506324084",
+    "ingredientes": [
+      "FIRST COLD PRESSED EXTRA VIRGIN ORGANIC OLIVE OIL",
+      "ORGANIC GRAIN ALCOHOL FROM CORN",
+      "ORGANIC",
+      "SOY LECITHIN AND PROPELLANT - COMPRESSED GAS. (NO HYDROCARBONS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/632/4084/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Oil Expeller Pressed Refined",
+    "marca": "Spectrum",
+    "ean": "0022506411753",
+    "ingredientes": [
+      "canola oil. bottled in a facility that produces peanut oil and sesame oil. ingrédients: huile de canola. mise en bouteille dans une usine qui produit des huile d'arachide et huile de sésame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Organic Extra Virgin Olive Oil",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506421370",
+    "ingredientes": [
+      "FIRST COLD PRESSED EXTRA VIRGIN UNREFINED ORGANIC OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Extra Virgin Olive Oil",
+    "marca": "Spectrum,  The Hain Celestial Group  Inc.",
+    "ean": "0022506421752",
+    "ingredientes": [
+      "FIRST COLD PRESSED EXTRA VIRGIN UNREFINED ORGANIC OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/642/1752/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil",
+    "marca": "Spectrum",
+    "ean": "0022506423756",
+    "ingredientes": [
+      "FIRST COLD PRESSED EXTRA VIRGIN UNREFINED OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Chia Seed",
+    "marca": "Spectrum",
+    "ean": "0022506521063",
+    "ingredientes": [
+      "Organic chia seed Seed product of canada or usa Certified GF Omega-3 (alpha-linolenic acid ALA) 22 138% Omega-6 (linoleic acid LA) 0.70 Gluten-free NO PRESERVATIVES Manufactured for Distribution by The Hain Celestial Group",
+      "Inc. Lake Success",
+      "NY 11042 USA 800.343.7833 www.spectrumorganics.com 2019 Spectrum Organic Products",
+      "LLC CERTIFIED ORGANIC BY QAI PACKAGED IN THE USA OF 5% O 2%* 15% 6% 5% 10% HAIN ELESTIAL L"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/652/1063/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Ground Chia Seed",
+    "marca": "Spectrum",
+    "ean": "0022506521070",
+    "ingredientes": [
+      "Organic ground chia seed"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Decadent Blend Chia & Flax Seed Coconut & Cocoa",
+    "marca": "Spectrum,Spectrum Essentials",
+    "ean": "0022506521087",
+    "ingredientes": [
+      "Organic ground chia seed",
+      "dried coconut",
+      "organic ground flax seed",
+      "organic alkalized cocoa powder",
+      "organic evaporated cane sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/652/1087/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Ground Flaxseed",
+    "marca": "Spectrum",
+    "ean": "0022506541009",
+    "ingredientes": [
+      "TURA MED THE TASTE OF GOODNESS What is good taste? For most people taste is simply a matter orca We believe that the tastegoodness is about making conscious am about the foods we eate the planet we share and the people we wor th every day THE BENEFITS OF FLAXSEED Flaxseed offers the benefits of fiber",
+      "Omega-3 fatty acid Alpha-Linolenic Acid (ALA)",
+      "protein and SDG lignans* Fiber promotes regularity and supports normal functioning of the digestive a fat and lipids within normal levels * ALA is an Omega-3 essential fatty acid that helps support normal cardiovascular function and helps to maintain healthy hair",
+      "skin and als This premium flaxseed is a highly concentrated source of secoisolariciresinol diglucoside (SDG) lignans - which are phytonutrients NOT ALL FLAXSEEDS ARE CREATED EQUAL Spectrum Essentials® Brand Flaxseeds are premium quality organic seeds that have been carefully selected for their nutritive content Flaxseed is a highly concentrated source of SDG lignans - the amount of SDG lignans can vary from 07% to 19% of seed weight depending on seasonal variation in growing conditions These select seeds are meticulously cleaned using a three-part process to remove ow weight",
+      "broken",
+      "and dirty seeds commonly found in bulk bins Only Spectrum Essentials® brand uses a proprietary milling process fat finely slices the seed",
+      "rather than crushing it",
+      "thereby preventing te loss of valuable nutrients from oxidation The sliced seed is menately packaged in this light protective pouch and sealed rigitto ensure optimum nutritive benefits and product freshness SUGGESTED SERVING: 2-3 Tbsp daily Can be eaten alone",
+      "sonied on cereal",
+      "yogurt and other foods",
+      "or used in baking Forfere omega-3 benefits",
+      "we recommend Spectrum Essentials® Bred organic Flax Oil Consult your healthcare practitioner for foundividual needs FRIGERATE AFTER OPENING: To store",
+      "press air out of pouch and  Best if used within 3-4 months after opening men to extend shelf life Supplement Facts Serving Size 2 Tbsp (14g) Servings Per Container 48 Amount Per Serving % Daily Value Calories 70 Total Fat 6g Saturated Fal 05g Total Carbohydrate 4g Dietary Fiber 3g 7%* 3%* 1%* 11%* Protein 3g Calcium 28mg 2% Iron 09mg 5% Magnesium 51mg 12% Potassium 100mg 2% Omega-3 (alpha-linolenic acid ALA) 29g 180% Omega-6 (linoleic acid LA) 06g Omega-9 (oleic acid DA) 08g Lignans (SDG) 98mg • Percent Daily Values are based on a 2",
+      "Inc",
+      "Lake Success",
+      "NY 11080 8003437833 • wwwspectrumorganicscom ©2019 Spectrum Organic Products",
+      "LLC CERTIFIED ORGANIC BY QAI SEED PRODUCT OF CANADA OR USA PACKAGED IN THE USA Certified 5100 *These statements have not been evaluated by the Food and Drug Administration This product is not intended to diagnose",
+      "treat",
+      "cure or prevent any disease Gluten-Free BB: 07 JUN24H0 13:13 PRODUCT OF INDIA NO 1 3866"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/654/1009/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic Ground Premium Flaxseed Dietary Supplement",
+    "marca": "Spectrum",
+    "ean": "0022506677890",
+    "ingredientes": [
+      "ORGANIC COLD MILLED GROUND FLAXSEED."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/250/667/7890/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic virgin coconut oil",
+    "marca": "Spectrum",
+    "ean": "0022506705616",
+    "ingredientes": [
+      "Mechanically (expeller) pressed unrefined virgin organic coconut oil.+"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Extra Virgin Olive Oil",
+    "marca": "Spectrum",
+    "ean": "0022506721753",
+    "ingredientes": [
+      "INGREDIEUT: olive peanutoil. Bottlcdinatacilitythatproduces biologique. Peut contenir de l'huile d'arachide Embouteillé dans une instal&tion qui produit de l'huile d'arachide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Olive Oil Non-Stick Cooking Spray",
+    "marca": "Spectrum,  Spectrum Naturals",
+    "ean": "0022506800069",
+    "ingredientes": [
+      "First cold presses extra virgin olive oil",
+      "soy lecithin",
+      "propellant (no chlorofluorocarbons)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oregon Berry Blend",
+    "marca": "Willamette Valley Fruit Company",
+    "ean": "0022518876007",
+    "ingredientes": [
+      "Marionberries",
+      "Strawberries",
+      "Blueberries",
+      "Red Raspberries",
+      "Boysenberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/251/887/6007/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sontava!, Xx Hot Sauce, Habanero",
+    "marca": "Teasdale Foods  Inc.",
+    "ean": "0022531000144",
+    "ingredientes": [
+      "Habanero peppers",
+      "carrots",
+      "onions",
+      "lime juice",
+      "vinegar",
+      "garlic",
+      "and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/253/100/0144/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "W.B. Williams, Georgia Style Salsa, Peach",
+    "marca": "Teasdale Foods  Inc.",
+    "ean": "0022531006627",
+    "ingredientes": [
+      "Diced tomatoes",
+      "peaches",
+      "vinegar",
+      "tomato paste",
+      "fresh onions",
+      "brown sugar",
+      "water",
+      "green chiles",
+      "fresh jalapeno peppers",
+      "salt",
+      "fresh bell peppers",
+      "dehydrated garlic",
+      "spices",
+      "and xanthan gum (a natural thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Barbecue Sauce",
+    "marca": "Jardine Foods  Inc.",
+    "ean": "0022531018835",
+    "ingredientes": [
+      "TOMATO PASTE",
+      "WORCESTERSHIRE SAUCE (DISTILLED VINEGAR",
+      "MOLASSES",
+      "CORN SYRUP",
+      "WATER",
+      "SALT",
+      "CARAMEL COLOR",
+      "GARLIC POWDER",
+      "SUGAR",
+      "SPICES",
+      "TAMARIND",
+      "NATURAL FLAVOR)",
+      "SUGAR",
+      "JALAPENO PEPPERS (JALAPENO PEPPERS",
+      "VINEGAR",
+      "WATER",
+      "SALT",
+      "SPICES)",
+      "CANOLA OIL",
+      "RED WINE VINEGAR",
+      "SALT",
+      "ONION POWDER",
+      "GRANULATED ONION",
+      "SPICES",
+      "GARLIC POWDER",
+      "GRANULATED GARLIC",
+      "DEHYDRATED CELERY",
+      "MOLASSES",
+      "ONIONS",
+      "BELL PEPPERS",
+      "HICKORY SMOKE",
+      "JALAPENO PEPPERS",
+      "DEHYDRATED ONIONS",
+      "GARLIC POWDER",
+      "XANTHAN GUM",
+      "AND RED PEPPER FLAVORING (RED PEPPERS",
+      "VINEGAR",
+      "SALT)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Texas Champagne",
+    "marca": "Teasdale Foods  Inc.",
+    "ean": "0022531052556",
+    "ingredientes": [
+      "Red peppers",
+      "vinegar",
+      "salt and xanthan gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/253/105/2556/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Killer Barbecue Sauce",
+    "marca": "D.L. Jardines",
+    "ean": "0022531118832",
+    "ingredientes": [
+      "Water",
+      "Tomato Paste",
+      "Worcestershire Sauce (Vinegar",
+      "Molasses",
+      "Corn Syrup",
+      "Water",
+      "Salt",
+      "Color 150",
+      "Garlic",
+      "Sugar",
+      "Spices",
+      "Tamarind",
+      "Flavour)",
+      "Sugar",
+      "Jalapeno Peppers (Jalapeno Peppers",
+      "Vinegar",
+      "Spices)",
+      "Canola Oil",
+      "Vinegar",
+      "Salt",
+      "Onion",
+      "Garlic",
+      "Celery",
+      "Molasses",
+      "Capsicum",
+      "Hickory Smoke",
+      "Thickener (415)",
+      "Flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/253/111/8832/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "5-Star Barbecue Sauce",
+    "marca": "Jardine Foods  Inc.",
+    "ean": "0022531189016",
+    "ingredientes": [
+      "Brown sugar",
+      "water",
+      "tomato paste",
+      "mustard (distilled vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "turmeric",
+      "paprika",
+      "spice",
+      "garlic powder)",
+      "onions",
+      "vinegar",
+      "soy sauce (water",
+      "wheat",
+      "soybeans",
+      "salt)",
+      "worcestershire sauce (distilled vinegar",
+      "molasses",
+      "corn syrup",
+      "water",
+      "salt",
+      "caramel color",
+      "garlic powder",
+      "sugar",
+      "spices",
+      "tamarind",
+      "natural flavor)",
+      "celery",
+      "bell pepper",
+      "salt",
+      "lemon juice",
+      "spices",
+      "jalapeno peppers",
+      "garlic powder",
+      "orange peel",
+      "natural hickory smoke",
+      "corn starch",
+      "xanthan gum (a natural thickener)",
+      "cilantro",
+      "and caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jardines, 7j queso amarillo, mild",
+    "marca": "Jardines",
+    "ean": "0022531501009",
+    "ingredientes": [
+      "Water",
+      "tomato",
+      "natural",
+      "cheese pre mix (corn starch",
+      "cheese powder[dehydrated cheese (milk",
+      "cheese culture",
+      "salt enzymes)",
+      "whey",
+      "canola oil",
+      "whey protein concentrate",
+      "lactose",
+      "maltodextrin",
+      "salt",
+      "sodium",
+      "phosphate",
+      "citric acid",
+      "natural flavor",
+      "lactic acid]",
+      "whey",
+      "dextrose",
+      "salt",
+      "maltodextrin",
+      "xanthan gum",
+      "yeast",
+      "titanium dioxide",
+      "soy lecithin)",
+      "soybean oil",
+      "fresh yellow onion",
+      "natural cheese enhancer (gluconic acid",
+      "natural flavor)",
+      "red bell peppers",
+      "corn starch",
+      "fresh jalapeno peppers",
+      "green bell peppers",
+      "green chiles",
+      "fresh poblano peppers",
+      "salt",
+      "chipotles (chipotles peppers",
+      "water",
+      "tomato paste",
+      "sugar",
+      "onion",
+      "and vinegar)",
+      "garlic powder",
+      "annatto and spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "7j  Salsa",
+    "marca": "Jardines",
+    "ean": "0022531502105",
+    "ingredientes": [
+      "DICED TOMATOES",
+      "RED JALAPENO PUREE (RED JALAPENO PEPPERS",
+      "SALT AND CITRIC ACID)",
+      "WATER",
+      "FRESH ONION",
+      "DARK ROASTED TOMATOES",
+      "FRESH GARLIC",
+      "SALT",
+      "CILANTRO AND SPICES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "7j ranch tomatillo salsa",
+    "marca": "Jardines",
+    "ean": "0022531502112",
+    "ingredientes": [
+      "Tomatillo",
+      "water",
+      "onion",
+      "dehydrated onion",
+      "jalapeno pepper",
+      "salt",
+      "cilantro",
+      "distilled vinegar",
+      "xanthan gum (natural thickener)",
+      "dehydrated garlic and black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Small Batch",
+    "marca": "Teasdale Foods  Inc.",
+    "ean": "0022531502129",
+    "ingredientes": [
+      "TOMATOES",
+      "ROASTED TOMATOES",
+      "ROASTED JALAPENO PEPPERS CHIPOTLE PEPPERS (CHIPOTLE PEPPERS",
+      "WATER",
+      "TOMATO PASTE",
+      "SALT",
+      "SUGAR",
+      "ORION",
+      "VINEGAR)",
+      "WATER",
+      "SALT",
+      "ROASTED ONION",
+      "VINEGAR",
+      "SESAME OIL",
+      "ROASTED GARLIC",
+      "CARROTS",
+      "GRANULATED ONIONS",
+      "LIME CONC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Summer Corn Medley",
+    "marca": "Jardine's",
+    "ean": "0022531502204",
+    "ingredientes": [
+      "RED BELL PEPPER",
+      "WHILE CORN",
+      "YELLOW CORN",
+      "SUGAR",
+      "WATER",
+      "JALAPENO PEPPER (JALAPENO PEPPER",
+      "VINEGAR",
+      "SALT AND ACETIC ACID)",
+      "GREEN BELL PEPPER",
+      "ONION",
+      "DISTILLED VINEGAR",
+      "RED BEANS",
+      "BLACK BEANS",
+      "SPICES",
+      "LIME JUICE CONCENTRATE AND XANTHAN GUM (NATURAL THICKENE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa",
+    "marca": "Jardine's",
+    "ean": "0022531502280",
+    "ingredientes": [
+      "TOMATO",
+      "TOMATO JUICE",
+      "WATER",
+      "ONION",
+      "TOMATO PASTE",
+      "SUGAR",
+      "JALAPENO PEPPER",
+      "POMEGRANATE JUICE CONCENTRATE (POMEGRANATE CONCENTRATE",
+      "WATER)",
+      "CILANTRO",
+      "SALT",
+      "LIME JUICE CONCENTRATE",
+      "NATURAL POMEGRANATE FLAVOR",
+      "DEHYDRATED GARLIC",
+      "CITRIC ACID",
+      "CALCIUM CHLORIDE."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "POMEGRANATE JUICE CONCENTRATE (POMEGRANATE CONCENTRATE",
+        "razon": "Contiene POMEGRANATE JUICE CONCENTRATE (POMEGRANATE CONCENTRATE, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "NATURAL POMEGRANATE FLAVOR",
+        "razon": "Contiene NATURAL POMEGRANATE FLAVOR, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "7j texasalsa",
+    "marca": "Jardines",
+    "ean": "0022531502440",
+    "ingredientes": [
+      "Tomatoes in juice (tomato",
+      "tomato juice",
+      "citric acid",
+      "calcium chloride)",
+      "water",
+      "tomato paste",
+      "jalapeno peppers (jalapeno peppers",
+      "vinegar",
+      "salt",
+      "acetic acid)",
+      "fresh onion",
+      "distilled vinegar",
+      "cilantro",
+      "salt",
+      "dehydrated onion",
+      "green chile (green chiles",
+      "citric acid)",
+      "dehydrated garlic",
+      "xanthan gum (natural thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sriracha salsa",
+    "marca": "Jardines",
+    "ean": "0022531502600",
+    "ingredientes": [
+      "Tomato",
+      "tomato juice",
+      "red jalapeno pepper",
+      "water",
+      "onion",
+      "sugar",
+      "distilled vinegar",
+      "green jalapeno pepper",
+      "dehydrated garlic",
+      "salt",
+      "potato starch",
+      "acetic acid",
+      "citric acid",
+      "citric acid",
+      "calcium chloride",
+      "potassium sorbate",
+      "sodium bisulfite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jardines, 7j ranch black bean & corn salsa, medium",
+    "marca": "Jardines",
+    "ean": "0022531502662",
+    "ingredientes": [
+      "Tomatoes",
+      "water",
+      "corn",
+      "tomato paste",
+      "apple cider vinegar",
+      "black beans",
+      "fresh onion",
+      "jalapenos (jalapeno peppers",
+      "vinegar",
+      "salt",
+      "acetic acid)",
+      "green chiles",
+      "salt",
+      "red bell peppers",
+      "dehydrated onion",
+      "cilantro",
+      "lime juice concentrate",
+      "dehydrated garlic",
+      "spices",
+      "black pepper",
+      "sugar",
+      "xanthan gum powder (natural thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium salsa",
+    "marca": "Jardines",
+    "ean": "0022531502815",
+    "ingredientes": [
+      "Tomato",
+      "peach",
+      "water",
+      "tomato paste",
+      "onion",
+      "brown sugar",
+      "distilled vinegar",
+      "jalapeno pepper (jalapeno pepper",
+      "vinegar",
+      "salt and acetic acid)",
+      "green chiles",
+      "salt",
+      "green bell pepper",
+      "dehydrated garlic",
+      "spice and xanthan gum (natural thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jardine's, street taco sauce, mild",
+    "marca": "Jardine's",
+    "ean": "0022531503003",
+    "ingredientes": [
+      "Tomato",
+      "roasted tomato",
+      "tomato juice",
+      "jalapeno pepper",
+      "water",
+      "onion",
+      "salt",
+      "vinegar",
+      "dehydrated garlic",
+      "chipotle peppers in adobo sauce (chipotle peppers",
+      "water",
+      "tomato paste",
+      "salt",
+      "sugar",
+      "onion",
+      "vinegar)",
+      "tomato paste",
+      "crushed red pepper flakes",
+      "sugar",
+      "dehydrated cilantro",
+      "citric acid",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jardines, Street Taco Verde Sauce, Med",
+    "marca": "Teasdale Foods  Inc.",
+    "ean": "0022531503034",
+    "ingredientes": [
+      "Green chiles",
+      "water",
+      "fresh jalapenos",
+      "fresh onions",
+      "salt",
+      "fresh garlic",
+      "potato starch",
+      "cilantro",
+      "dehydrated garlic",
+      "sugar",
+      "spice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/253/150/3034/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa",
+    "marca": "Jardine Foods  Inc.",
+    "ean": "0022531504406",
+    "ingredientes": [
+      "WATER",
+      "TOMATOES",
+      "NATURAL CHEESE PRE MIX (CORN STARCH",
+      "CHEESE POWDER [DEHYDRATED CHEESE {MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES}",
+      "WHEY",
+      "CANOLA OIL",
+      "WHEY PROTEIN CONCENTRATE",
+      "LACTOSE",
+      "MALTODEXTRIN",
+      "SALT",
+      "SODIUM PHOSPHATE",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "LACTIC ACID]",
+      "WHEY",
+      "DEXTROSE",
+      "SALT",
+      "MALTODEXTRIN",
+      "XANTHAN GUM (A NATURAL THICKENER)",
+      "YEAST",
+      "TITANIUM DIOXIDE",
+      "SOY LECITHIN)",
+      "SOYBEAN OIL (SOYBEAN OIL",
+      "CITRIC ACID)",
+      "YELLOW ONION",
+      "NATURAL ENHANCER (CLUCONIC ACID",
+      "NATURAL FLAVOR)",
+      "RED BELL PEPPERS",
+      "CORN STARCH",
+      "JALAPENO PEPPERS",
+      "GREEN BELL PEPPERS",
+      "GREEN CHILES",
+      "POBLANO PEPPERS",
+      "SALT",
+      "CHIPOTLE PEPPERS (CHIPOTLE PEPPERS",
+      "WATER",
+      "TOMATO PASTE",
+      "SALT",
+      "SUGAR",
+      "ONION",
+      "VINEGAR)",
+      "GARLIC POWDER",
+      "SPICES AND ANNATTO."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Simply natural campfire roasted salsa",
+    "marca": "Jardine Foods  Inc.",
+    "ean": "0022531506523",
+    "ingredientes": [
+      "Tomatoes",
+      "dark roasted tomatoes",
+      "water",
+      "roasted yellow onions",
+      "salt",
+      "roasted garlic",
+      "morita peppers",
+      "dehydrated garlic",
+      "lemon concentrate and natural hickory flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa",
+    "marca": "Jardines",
+    "ean": "0022531509104",
+    "ingredientes": [
+      "Tomato",
+      "tomato juice",
+      "water",
+      "onions",
+      "bell peppers",
+      "cilantro",
+      "tomato paste",
+      "dehydrated onion",
+      "jalapeno pepper",
+      "distilled vinegar",
+      "salt",
+      "potato starch",
+      "dehydrated garlic",
+      "spices",
+      "citric acid",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Southwest cilantro",
+    "marca": "Jardines",
+    "ean": "0022531521601",
+    "ingredientes": [
+      "Tomato",
+      "water",
+      "tomato paste",
+      "onion",
+      "jalapeno pepper",
+      "carrot",
+      "distilled vinegar",
+      "green bell pepper",
+      "cilantro",
+      "salt",
+      "granulated garlic",
+      "spice",
+      "and xanthan gum (thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hanfblätter",
+    "marca": "Salus",
+    "ean": "00225319",
+    "ingredientes": [
+      "Hanfblätter in THC-armer Qualität"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/5319/front_de.10.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Chocolate & nut selection",
+    "marca": "Marks&spencer",
+    "ean": "00225533",
+    "ingredientes": [
+      "Noisettes (21%) Amandes SanuÉ",
+      "{mondées 20%) Amandes (15%) • Sucre Noix de t*ddried : cajou (800 • Masse de cacao • Beurre de cacao • •ûàolate •rztdFaelnuts (5%) • Lait en : de so•a",
+      "Laà?hine de • Sheilac • :dÊtêpioca roir Witjent cacao 53% Iat sau lait contient cacqq 32% c contient matière sèche de lait minimum. Pour les allergènes",
+      "voir {es Ingred en gras. pas aux persona Vt3J aiergiques aux fruits à coque",
+      "aux arachides en raison des méthodes de fabìcati]vent een meiange ?ces"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/5533/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boules De Whey Au Chocolat",
+    "marca": "Bulk",
+    "ean": "00225586",
+    "ingredientes": [
+      "Chocolat au lait (sucre",
+      "pâte de cacao",
+      "lait entier en poudre",
+      "beurre de cacao",
+      "poudre de lactosérum (lait)",
+      "émulsifiant : E322 (lécithines) (soja)",
+      "arôme naturel de vanille)",
+      "isolat de lactosérum (lait)",
+      "amidon de pomme de terre",
+      "agents de glaçage : E414 (gomme arabique (gomme acacia))",
+      "E904 (gomme laque)",
+      "sirop de glucose",
+      "sucre",
+      "émulsifiant : E322 (lécithines)",
+      "stabilisant : E170 (carbonate de calcium)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/022/5586/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dark Chocolate Salted Caramel Grahams",
+    "marca": "National Nut Company  Inc.",
+    "ean": "0022586502006",
+    "ingredientes": [
+      "SEMISWEET CHOCOLATE (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER",
+      "MILKFAT",
+      "SOY LECITHIN-AN EMUSIFIER",
+      "VANILLA",
+      "CARAMEL",
+      "(CORN SYRUP",
+      "SUGAR",
+      "MILK",
+      "FAT",
+      "VANILLA)",
+      "GRAHAM (UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "(VITAMIN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kowalskis Markets, Chocolate Grahams, Peanut Butter",
+    "marca": "National Nut Company  Inc.",
+    "ean": "0022586502105",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk",
+      "cocoa butter",
+      "chocolate liquor",
+      "soy lecithin-an emusifier",
+      "vanillin-artificial flavor",
+      "peanut butter mix",
+      "(roasted peanuts",
+      "sugar",
+      "palm kernel oil",
+      "nonfat milk",
+      "sweet dairy whey",
+      "(milk)",
+      "lactose(milk)",
+      "milkfat",
+      "buttermilk",
+      "sod"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Water Bottle (16.9 Fl Oz)",
+    "marca": "Ozarka",
+    "ean": "0022592007014",
+    "ingredientes": [
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/259/200/7014/front_en.31.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Spring Water",
+    "marca": "Ozarka",
+    "ean": "0022592053028",
+    "ingredientes": [
+      "Spring Water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spring Water",
+    "marca": "Ozarka",
+    "ean": "0022592055053",
+    "ingredientes": [
+      "Spring Water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% Natural Spring Water",
+    "marca": "Ozarka",
+    "ean": "0022592431147",
+    "ingredientes": [
+      "Spring water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/259/243/1147/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Spring Water",
+    "marca": "Ozarka",
+    "ean": "0022592445700",
+    "ingredientes": [
+      "SPRING WATER",
+      "CO2",
+      "NATURAL FLAVORS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling natural spring water",
+    "marca": "Ozarka",
+    "ean": "0022592446714",
+    "ingredientes": [
+      "Spring water",
+      "co2",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/259/244/6714/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Levadura nutricional beauty",
+    "marca": "Saludviva",
+    "ean": "0022610000003",
+    "ingredientes": [
+      "Levadura"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/261/000/0003/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Mini Gusto, Dough For Pastries",
+    "marca": "Meadow Sales  Inc.",
+    "ean": "0022634910142",
+    "ingredientes": [
+      "Flour",
+      "water",
+      "vegetable shortening and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Atlantic Nova Salmon",
+    "marca": "Vita Classic",
+    "ean": "0022635150158",
+    "ingredientes": [
+      "SALMON (COLOR ADDED WITH FEED). SALT",
+      "SODIUM NITRITE A PRESERVATIVE",
+      "HARDWOOD SMOKE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Atlantic Nova Salmon",
+    "marca": "Vita Classic",
+    "ean": "0022635150226",
+    "ingredientes": [
+      "SALMON (COLOR ADDED WITH FEED)",
+      "SALT",
+      "SODIUM NITRITE (PRESERVATIVE)",
+      "HARDWOOD SMOKE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild herring in wine sauce",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635400031",
+    "ingredientes": [
+      "Wild herring",
+      "water",
+      "onions",
+      "cane sugar",
+      "vinegar",
+      "wine",
+      "salt",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild Herring In Wine Sauce",
+    "marca": "Vita",
+    "ean": "0022635400116",
+    "ingredientes": [
+      "Wild herring",
+      "water",
+      "onions",
+      "cane sugar",
+      "vinegar",
+      "wine",
+      "salt",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/263/540/0116/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild Herring In Real Sour Cream",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635400154",
+    "ingredientes": [
+      "WILD HERRING",
+      "SWEETENED CULTURED SOUR CREAM (CULTURED MILK",
+      "CREAM",
+      "NONFAT DRY MILK",
+      "CANE SUGAR",
+      "CORN STARCH",
+      "GUAR GUM",
+      "CARRAGEENAN",
+      "LOCUST BEAN GUM",
+      "ENZYMES",
+      "NATAMYCIN (A NATURAL PRESERVATIVE))",
+      "ONIONS",
+      "WATER",
+      "CANE SUGAR",
+      "VINEGAR",
+      "CULTURED WHEY",
+      "WINE",
+      "SALT",
+      "NATURAL FLAVORINGS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild Herring In Real Sour Cream",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635400161",
+    "ingredientes": [
+      "Wild herring",
+      "sweetened cultured sour cream (cultured milk",
+      "cream",
+      "nonfat dry milk",
+      "cane sugar",
+      "corn starch",
+      "guar gum",
+      "carrageenan",
+      "locust bean gum",
+      "enzymes",
+      "natamycin (a natural preservative))",
+      "onions",
+      "water",
+      "cane sugar",
+      "vinegar",
+      "cultured whey",
+      "wine",
+      "salt",
+      "natural flavorings",
+      "cultured dextrose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/263/540/0161/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild Herring In Wine Sauce",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635408112",
+    "ingredientes": [
+      "WILD HERRING",
+      "WATER",
+      "ONIONS",
+      "CANE SUGAR",
+      "VINEGAR",
+      "WINE",
+      "SALT",
+      "NATURAL FLAVORS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Horseradish Prepared",
+    "marca": "Vita",
+    "ean": "0022635430120",
+    "ingredientes": [
+      "HORSERADISH",
+      "DISTILLED VINEGAR",
+      "WATER",
+      "SOYBEAN OIL",
+      "SALT",
+      "ARTIFICIAL FLAVORING",
+      "SODIUM BISULFITE (TO PROTECT COLOR AND FLAVOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Horseradish",
+    "marca": "Vita",
+    "ean": "0022635430182",
+    "ingredientes": [
+      "HORSERADISH",
+      "DISTILLED VINEGAR",
+      "WATER",
+      "CREAM",
+      "SALT",
+      "ARTIFICIAL FLAVORING",
+      "SODIUM BISULFITE (TO PROTECT COLOR AND FLAVOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Atlantic Hot Smoked Salmon",
+    "marca": "Vita Food Products Inc.",
+    "ean": "0022635602800",
+    "ingredientes": [
+      "SALMON (COLOR ADDED WITH FEED)",
+      "SALT",
+      "BROWN SUGAR",
+      "SODIUM NITRITE (PRESERVATIVES)",
+      "NATURAL HARDWOOD SMOKE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vita Classic, Wild Sockeye Salmon, Hot Smoked",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635602824",
+    "ingredientes": [
+      "Salmon",
+      "salt",
+      "brown sugar",
+      "sodium nitrite (preservative)",
+      "natural hardwood smoke."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jim Beam, Bourbon Lime Tilapia Fillets",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635603272",
+    "ingredientes": [
+      "Tilapia",
+      "water",
+      "vegetable oil (soy and/or canola)",
+      "granulated sugar",
+      "distilled vinegar",
+      "salt",
+      "orange juice concentrate (orange juice",
+      "water)",
+      "brownulated sugar",
+      "lime juice concentrate (lime juice",
+      "water)",
+      "spices",
+      "granulated garlic",
+      "minced garlic",
+      "minced onion",
+      "black pepper",
+      "caramel color",
+      "natural flavor",
+      "xanthan gum",
+      "crushed red pepper",
+      "jim beam bourbon",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bourbon Blackened Tilapia",
+    "marca": "Jim Beam",
+    "ean": "0022635603500",
+    "ingredientes": [
+      "TILAPIA",
+      "PAPRIKA",
+      "SALT",
+      "BLACK PEPPER",
+      "GRANULATED GARLIC",
+      "MUSTARD FLOUR",
+      "GRANULATED ONION",
+      "GROUND OREGANO",
+      "CAYENNE PEPPER",
+      "BOURBON FLAVOR",
+      "JIM BEAM BOURBON."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fire Roasted Tilapia",
+    "marca": "Vita",
+    "ean": "0022635609120",
+    "ingredientes": [
+      "TILAPIA",
+      "TOMATO",
+      "FIRE ROASTED TOMATOES",
+      "TOMATO POWDER",
+      "CANOLA AND OLIVE OIL BLEND",
+      "DICED GREEN OLIVES",
+      "GARLIC POWDER",
+      "SALT",
+      "CITRIC ACID",
+      "ONION POWDER",
+      "GROUND WHITE PEPPER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fiesta Lime Tilapia",
+    "marca": "The Biggest Loser",
+    "ean": "0022635609137",
+    "ingredientes": [
+      "TILAPIA",
+      "WATER",
+      "FIESTA LIME SEASONING (DEHYDRATED GARLIC",
+      "ONION",
+      "RED PEPPERS",
+      "TURMERIC",
+      "SALT",
+      "CITRIC ACID",
+      "LIME JUICE POWDER",
+      "ARABIC GUM",
+      "NATURAL FLAVOR AND SILICON DIOXIDE (LESS THAN 2% TO PREVENT CAKING))",
+      "CANOLA AND OLIVE OIL BLEND"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dijon Herb Wild Salmon",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635609151",
+    "ingredientes": [
+      "SALMON",
+      "DIJON MUSTARD",
+      "WATER",
+      "TARRAGON",
+      "BASIL",
+      "OREGANO",
+      "MARJORAM",
+      "ROSEMARY",
+      "THYME"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild nova salmon",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635700117",
+    "ingredientes": [
+      "Salmon",
+      "salt",
+      "sugar",
+      "sodium erythorbate (preservative)",
+      "sodium nitrate (preservative)",
+      "sodium benzoate (preservative)",
+      "fd&c yellow #6",
+      "yellow #5",
+      "red #40",
+      "natural smoke flavor",
+      "natural hard wood smoke."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/263/570/0117/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Classic Sliced Atlantic Nova Salmon",
+    "marca": "Vita Food Products  Inc",
+    "ean": "0022635700407",
+    "ingredientes": [
+      "SALMON (COLOR ADDED WITH FEED)",
+      "SALT",
+      "SODIUM NITRITE A PRESERVATIVE",
+      "HARDWOOD SMOKE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vita Gold, Premium Sliced Smoked Salmon",
+    "marca": "Vita Food Products  Inc.",
+    "ean": "0022635712042",
+    "ingredientes": [
+      "Salmon",
+      "salt",
+      "sugar",
+      "hardwood smoke."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gold Sweetened Condensed Milk",
+    "marca": "Longevity Brand",
+    "ean": "0022652161007",
+    "ingredientes": [
+      "CONCENTRATED WHOLE MILK AND SUGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/216/1007/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweetened Condensed Milk",
+    "marca": "Longevity Brand",
+    "ean": "0022652161014",
+    "ingredientes": [
+      "MILK",
+      "SUGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/216/1014/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweetened Condensed Filled Milk",
+    "marca": "Parrot",
+    "ean": "0022652161038",
+    "ingredientes": [
+      "NONFAT MILK",
+      "SUGAR",
+      "PALM OIL",
+      "VITAMIN A PALMITATE",
+      "RIBOFLAVIN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/216/1038/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweetened Condensed Filled Milk",
+    "marca": "Black & White",
+    "ean": "0022652161120",
+    "ingredientes": [
+      "Nonfat Milk",
+      "Sugar",
+      "Palm Oil",
+      "Vitamin A Palmitate",
+      "Riboflavin (For Color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/216/1120/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Filled Evaporated Milk",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652161175",
+    "ingredientes": [
+      "Fat free milk",
+      "partially hydrogenated soybean oil",
+      "disodium phosphate",
+      "carrageenan",
+      "vitamin a palmitate and vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Evaporated Filled Milk",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652161236",
+    "ingredientes": [
+      "Nonfat milk*",
+      "partially hydrogenated soybean oil",
+      "contains 0.5% or less of: dipotassium phosphate",
+      "carrageenan",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/216/1236/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fancy Crab Meat",
+    "marca": "Flower",
+    "ean": "0022652163018",
+    "ingredientes": [
+      "CRABMEAT",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "CITRIC ACID",
+      "CALCIUM DISODIUM EDTA",
+      "SODIUM METABISULPHITE (AS A PERSERVATIVE)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crab Meat",
+    "marca": "Fortune",
+    "ean": "0022652163032",
+    "ingredientes": [
+      "CRABMEAT",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "CITRIC ACID",
+      "CALCIUM DISODIUM EDTA",
+      "SODIUM METABISULPHITE (AS A PRESERVATIVE)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby Clams In Brine",
+    "marca": "Flower",
+    "ean": "0022652163223",
+    "ingredientes": [
+      "CLAMS",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "CITRIC ACID",
+      "CALCIUM DISODIUM EDTA TO PROMOTE COLOR RETENTION",
+      "SODIUM PYROPHOSPHATE TO MAINTAIN FLAVOR AND FIRMNESS",
+      "SODIUM SULFITE AS A PRESERVATIVE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "A1 Seasoned Cuttle Fish With Soy Bean Sauce",
+    "marca": "Flower Brand",
+    "ean": "0022652163803",
+    "ingredientes": [
+      "CUTTLEFISH",
+      "SOY SAUCE",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "CITRIC ACID",
+      "SODIUM PYROPHOSPHATE",
+      "SODIUM METABISULFITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Liver Spread",
+    "marca": "Fortune",
+    "ean": "0022652180114",
+    "ingredientes": [
+      "WATER",
+      "PORK LIVER",
+      "PORK FAT",
+      "PORK",
+      "ENRICHED WHEAT FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "REDUCED IRON",
+      "FOLIC ACID)",
+      "SALT",
+      "CONTAINS 2% OR LESS OF: NON FAT DRY MILK",
+      "WHEY PROTEIN CONCENTRATE",
+      "ONION POWDER",
+      "SPICES",
+      "SUGAR",
+      "AGAR-AGAR",
+      "GARLIC POWDER",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE",
+      "PARTIALLLY HYDROGENATED SOYBEAN OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fortune, clear broth, chicken, chicken",
+    "marca": "Fortune",
+    "ean": "0022652191035",
+    "ingredientes": [
+      "Chicken broth (water",
+      "chicken",
+      "salt",
+      "sugar",
+      "dried chicken stock",
+      "fried onion (onion",
+      "soybean oil)",
+      "dextrose)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Water",
+    "marca": "Parrot",
+    "ean": "0022652191448",
+    "ingredientes": [
+      "COCONUT WATER (NOT LESS THAN 85%)",
+      "COCONUT FLESH PULP",
+      "SUGAR (FROM CANE",
+      "FOR STANDARDIZING SWEETNESS)",
+      "SODIUM METABISULFITE (FOR COLOR RETENTION)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Milk",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652191516",
+    "ingredientes": [
+      "Coconut extract",
+      "water",
+      "modified starch",
+      "guar gum",
+      "polysorbate 60",
+      "sodium carboxy methyl cellulose (cmc)",
+      "carrageenan",
+      "xanthan gum",
+      "sodium metabisulfite",
+      "locust bean gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/219/1516/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Parrot brand, pink guava juice",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192018",
+    "ingredientes": [
+      "Water",
+      "pink guava juice",
+      "cane sugar",
+      "citric acid",
+      "natural flavor",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/219/2018/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Vera Drink, Pineapple",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192063",
+    "ingredientes": [
+      "Purified water",
+      "sugar",
+      "aloe vera gel",
+      "citric acid",
+      "pineapple flavor",
+      "pineapple concentrate",
+      "calcium lactate",
+      "sodium citrate",
+      "citrus flavor",
+      "vitamin c",
+      "gellan gum",
+      "beta carotene."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Vera Drink, Aloe Strawberry",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192070",
+    "ingredientes": [
+      "Purified water",
+      "sugar",
+      "aloe vera gel",
+      "citric acid",
+      "artificial strawberry flavor",
+      "honey",
+      "calcium lactate",
+      "vitamin c",
+      "sodium citrate",
+      "cochineal extract",
+      "gellan gum",
+      "caramel extract",
+      "sucralose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Vera Drink",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192087",
+    "ingredientes": [
+      "PURIFIED WATER",
+      "SUGAR",
+      "ALOE VERA GEL",
+      "CITRIC ACID",
+      "CALCIUM LACTATE",
+      "ARTIFICIAL ALOE FLAVOR",
+      "SODIUM CITRATE",
+      "VITAMIN C (TO RETAIN FRESHNESS)",
+      "GELLAN GUM",
+      "BETA CAROTENE (AS NATURAL COLORING)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/219/2087/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Vera Drink, Mango",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192094",
+    "ingredientes": [
+      "Purified water",
+      "sugar",
+      "aloe vera gel",
+      "citric acid",
+      "artificial mango flavor",
+      "mango extract",
+      "calcium lactate",
+      "sodium citrate",
+      "citrus flavor",
+      "vitamin c (to retain freshness)",
+      "beta carotene (as natural coloring)",
+      "gellan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/219/2094/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Vera Drink",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192117",
+    "ingredientes": [
+      "PURIFIED WATER",
+      "SUGAR",
+      "COCONUT GELLY",
+      "ALOE POWDER",
+      "ARTIFICIAL COCONUT FLAVOR",
+      "CALCIUM LACTATE",
+      "CITRIC ACID",
+      "VITAMIN C (TO RETAIN FRESHNESS)",
+      "SODIUM CITRATE",
+      "GELLAN GUM",
+      "VITAMIN B1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/219/2117/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Vera Drink",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192148",
+    "ingredientes": [
+      "PURIFIED WATER",
+      "SUGAR",
+      "ALOE VERA GEL",
+      "CITRIC ACID",
+      "ARTIFICIAL STRAWBERRY FLAVOR",
+      "HONEY",
+      "CALCIUM LACTATE",
+      "VITAMIN C",
+      "SODIUM CITRATE",
+      "COCHINEAL EXTRACT",
+      "GELLAN GUM",
+      "CARAMEL EXTRACT",
+      "SUCRALOSE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aloe Mango",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192162",
+    "ingredientes": [
+      "PURIFIED WATER",
+      "SUGAR",
+      "ALOE VERA GEL",
+      "CITRIC ACID",
+      "ARTIFICIAL MANGO FLAVOR",
+      "MANGO EXTRACT",
+      "CALCIUM LACTATE",
+      "SODIUM CITRATE",
+      "CITRUS FLAVOR",
+      "VITAMIN C (TO RETAIN FRESHNESS)",
+      "BETA CAROTENE (AS NATURAL COLORING)",
+      "GELLAN GUM."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/219/2162/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Parrot, Aloe Vera Drink, Coco",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652192186",
+    "ingredientes": [
+      "Purified water",
+      "sugar",
+      "coconut gelly",
+      "aloe powder",
+      "artificial coconut flavor",
+      "calcium lactate",
+      "citric acid",
+      "vitamin c (to retain freshness)",
+      "sodium citrate",
+      "gellan gum",
+      "vitamin b1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Calrose Rice",
+    "marca": "Parrot",
+    "ean": "0022652196542",
+    "ingredientes": [
+      "CALIFORNIA MEDIUM GRAIN MILLED RICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Long Grain White Rice",
+    "marca": "Sun Hing Foods  Inc.",
+    "ean": "0022652196597",
+    "ingredientes": [
+      "LONG GRAIN WHITE RICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Long Grain White Rice",
+    "marca": "Parrot",
+    "ean": "0022652196610",
+    "ingredientes": [
+      "LONG GRAIN WHITE RICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Calrose Rice",
+    "marca": "Parrot",
+    "ean": "0022652197501",
+    "ingredientes": [
+      "CALIFORNIA MEDIUM GRAIN BROWN RICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Butterball, rotisserie style chicken breast, garlic & herb",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655000020",
+    "ingredientes": [
+      "Dextrose",
+      "spices",
+      "natural flavor (contains maltodextrin",
+      "salt",
+      "modified food starch)",
+      "dehydrated onion and garlic",
+      "sugar",
+      "corn syrup solids",
+      "sodium diacetate",
+      "citric acid. browned in vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven Roasted Turkey Breast",
+    "marca": "Butterball",
+    "ean": "0022655101611",
+    "ingredientes": [
+      "Turkey breast",
+      "turkey broth",
+      "contains 2% or less of salt",
+      "dextrose",
+      "modified food starch",
+      "potassium lactate",
+      "carrageenan",
+      "sodium phosphate",
+      "sodium nitrite",
+      "sodium diacetate",
+      "sodium erythorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/510/1611/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Thin Sliced Honey Roasted Turkey Breast",
+    "marca": "Butterball",
+    "ean": "0022655101635",
+    "ingredientes": [
+      "Turkey breast",
+      "turkey broth",
+      "honey",
+      "contains 2% or less of salt",
+      "dextrose",
+      "modified food starch",
+      "potassium lactate",
+      "carrageenan",
+      "sodium phosphate",
+      "sodium nitrite",
+      "sodium diacetate",
+      "sodium erythorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/510/1635/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deep Fried Turkey Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655101727",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "WATER",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "LEMON JUICE CONCENTRATE AND VINEGAR",
+      "MODIFIED CORNSTARCH",
+      "BROWN SUGAR",
+      "TURKEY BROTH",
+      "ONION POWDER",
+      "MALTODEXTRIN",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "ASCORBIC ACID",
+      "MODIFIED FOOD STARCH",
+      "POTASSIUM LACTATE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven Roasted Chicken Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655180135",
+    "ingredientes": [
+      "CHICKEN BREAST MEAT",
+      "CHICKEN BROTH",
+      "CULTURED SUGAR",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "MODIFIED FOOD STARCH",
+      "POTASSIUM LACTATE",
+      "SALT",
+      "SODIUM DIACETATE",
+      "SODIUM PHOSPHATE",
+      "VINEGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mesquite Smoked Turkey Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655220466",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "TURKEY BROTH",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "SEA SALT",
+      "SALT",
+      "CARRAGEENAN",
+      "VINEGAR",
+      "SODIUM PHOSPHATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Butterball, smoked turkey breast, honey roasted",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655228103",
+    "ingredientes": [
+      "Turkey breast",
+      "turkey broth (water",
+      "turkey flavor)",
+      "honey",
+      "contains 2% or less of modified food starch",
+      "salt",
+      "smoke flavoring",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium lactate",
+      "sodium nitrite",
+      "sodium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven Roasted Turkey Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655229261",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "TURKEY BROTH (WATER",
+      "TURKEY FLAVOR)",
+      "CULTURED SUGAR",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "MODIFIED FOOD STARCH",
+      "POTASSIUM LACTATE",
+      "SALT",
+      "SODIUM DIACETATE",
+      "SODIUM PHOSPHATE",
+      "VINEGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lean White Turkey",
+    "marca": "Butterball",
+    "ean": "0022655241218",
+    "ingredientes": [
+      "WHITE TURKEY",
+      "TURKEY BROTH",
+      "CORN SYRUP",
+      "MODIFIED FOOD STARCH",
+      "CONTAINS 2% OR LESS OF SALT",
+      "POTASSIUM LACTATE",
+      "SODIUM DIACETATE",
+      "SODIUM NITRITE",
+      "SODIUM PHOSPHATE",
+      "FLAVORING."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/524/1218/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Butterball, thick sliced white turkey, honey roasted",
+    "marca": "Butterball",
+    "ean": "0022655241263",
+    "ingredientes": [
+      "White turkey",
+      "water",
+      "honey",
+      "corn syrup",
+      "modified food starch",
+      "contains 2% or less of potassium lactate",
+      "salt",
+      "sodium phosphate",
+      "sodium diacetate",
+      "smoke flavoring",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "flavoring"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/524/1263/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven Roasted Turkey Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655273127",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "TURKEY BROTH",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "SEA SALT",
+      "CARRAGEENAN",
+      "VINEGAR",
+      "SODIUM PHOSPHATE",
+      "COATED WITH DEXTROSE",
+      "SALT",
+      "HONEY SOLIDS (REFINERY SYRUP",
+      "HONEY)",
+      "PAPRIKA",
+      "SPICES",
+      "ONION",
+      "NATURAL EXTRACTIVES OF PAPRIKA AND TURMERIC."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Boneless Roast Turkey Breast",
+    "marca": "Butterball",
+    "ean": "0022655274872",
+    "ingredientes": [
+      "GRAVY PACKET INGREDIENTS: WATER",
+      "MODIFIED CORN STARCH",
+      "MALTODEXTRIN",
+      "SALT",
+      "RICE FLOUR",
+      "COOKED TURKEY",
+      "ONION POWDER",
+      "CARAMEL COLOR",
+      "GARLIC POWDER",
+      "SPICES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/527/4872/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven roasted chicken breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655287698",
+    "ingredientes": [
+      "Chicken breast",
+      "water",
+      "contains",
+      "sea salt",
+      "carrageenan",
+      "seasoned salt (salt",
+      "sodium diacetate",
+      "flavorings)",
+      "vinegar",
+      "sodium phosphate. browned in vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Buffalo Style Chicken Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655287803",
+    "ingredientes": [
+      "CHICKEN BREAST",
+      "WATER",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "SEA SALT",
+      "CARRAGEENAN",
+      "SEASONED SALT (SALT",
+      "SODIUM DIACETATE",
+      "FLAVORINGS)",
+      "VINEGAR",
+      "SODIUM PHOSPHATE. COATED WITH HOT SAUCE POWDER (RED PEPPER",
+      "SALT",
+      "DISTILLED VINEGAR",
+      "GARLIC POWDER). BROWNED IN VEG"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Naturally Roasted Turkey Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655298397",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "TURKEY BROTH",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "SEA SALT",
+      "CARRAGEENAN",
+      "VINEGAR",
+      "SODIUM PHOSPHATE. FLAVORING."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkey bacon",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655300441",
+    "ingredientes": [
+      "Turkey",
+      "water",
+      "sugar",
+      "contains 2% or less of salt",
+      "canola oil",
+      "sunflower oil",
+      "natural flavor",
+      "sodium phosphate",
+      "potassium diacetate",
+      "potassium acetate",
+      "smoke flavor",
+      "sodium erythorbate",
+      "sodium nitrite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkey Bacon",
+    "marca": "Butterball",
+    "ean": "0022655303015",
+    "ingredientes": [
+      "POULTRY INGREDIENTS (TURKEY",
+      "MECHANICALLY SEPARATED TURKEY)",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "CONTAINS 2% OR LESS OF CANOLA OIL",
+      "SUNFLOWER OIL NATURAL FLAVOR",
+      "SODIUM PHOSPHATE SODIUM ERYTHORBATE",
+      "SODIUM NITRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/530/3015/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked cured dark & white turkey bacon",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655303053",
+    "ingredientes": [
+      "Turkey",
+      "water",
+      "salt",
+      "sugar",
+      "contains 2% or less of canola oil",
+      "sunflower oil",
+      "natural flavor",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Everyday Fully Cooked Turkey Bacon",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655303091",
+    "ingredientes": [
+      "TURKEY",
+      "MECHANICALLY SEPARATED TURKEY",
+      "WATER",
+      "SLAT",
+      "SUGAR",
+      "CONTAINS 2% OR LESS OF CANOLA OIL",
+      "SUNFLOWER OIL",
+      "NATURAL FLAVOR",
+      "SODIUM PHOSPHATE",
+      "SMOKE FLAVOR",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thick Sliced Turkey Bologna",
+    "marca": "Butterball",
+    "ean": "0022655303114",
+    "ingredientes": [
+      "MECHANICALLY SEPARATED TURKEY",
+      "WATER",
+      "CORN SYRUP",
+      "MODIFIED FOOD STARCH",
+      "SALT",
+      "CONTAINS 2% OR LESS OF VITAMIN C (ASCORBIC ACID)",
+      "DEXTROSE",
+      "SODIUM PHOSPHATE",
+      "SODIUM DIACETATE",
+      "SODIUM NITRITE",
+      "OLEORESIN OF PAPRIKA",
+      "FLAVORINGS",
+      "SODIUM AND POTASSIUM LACTATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Everyday Turkey Bacon Thin & Crispy",
+    "marca": "Butterball",
+    "ean": "0022655303657",
+    "ingredientes": [
+      "Poultry ingredients (turkey",
+      "mechanically separated turkey)",
+      "water",
+      "salt",
+      "sugar",
+      "contains 2% or less of canola oil",
+      "sunflower oil",
+      "natural flavor",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/530/3657/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Everyday Lower Sodium Turkey Bacon",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655303671",
+    "ingredientes": [
+      "Poultry ingredients (turkey",
+      "mechanically separated turkey)",
+      "water",
+      "sugar",
+      "contains 2% or less of smoke flavoring",
+      "salt",
+      "canola oil",
+      "sunflower oil",
+      "potassium chloride",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "sodium phosphate",
+      "natural flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/530/3671/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Butterball, turkey bacon, natural smoke flavor added",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655305583",
+    "ingredientes": [
+      "Poultry ingredients (turkey",
+      "mechanically separated turkey)",
+      "water",
+      "salt",
+      "sugar",
+      "contains 2% or less of canola oil",
+      "sunflower oil",
+      "natural flavor",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkey Bologna",
+    "marca": "Butterball",
+    "ean": "0022655305729",
+    "ingredientes": [
+      "MECHANICALLY SEPARATED TURKEY",
+      "WATER",
+      "CORN SYRUP",
+      "MODIFIED FOOD STARCH",
+      "SALT",
+      "CONTAINS 2% OR LESS OF VITAMIN C (ASCORBIC ACID)",
+      "DEXTROSE",
+      "SODIUM PHOSPHATE",
+      "SODIUM DIACETATE",
+      "SODIUM NITRATE",
+      "OLEORESIN OF PAPRIKA",
+      "FLAVORINGS",
+      "SODIUM AND POTASSIUM LACTATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Everyday Turkey Sausage",
+    "marca": "Butterball",
+    "ean": "0022655306047",
+    "ingredientes": [
+      "POULTRY INGREDIENTS (TURKEY",
+      "MECHANICALLY SEPARATED TURKEY)",
+      "WATER",
+      "CORN SYRUP",
+      "CONTAINS 2% OR LESS OF SALT",
+      "VITAMIN C (ASCORBIC ACID)",
+      "AUTILYZED YEAST",
+      "DEXTROSE",
+      "SODIUM NITRITE",
+      "SODIUM PHOSPHATE",
+      "FLAVORINGS",
+      "POTASSIUM AND SODIUM LACTATE. GLUTEN FREE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/530/6047/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkey Sausage",
+    "marca": "Butterball",
+    "ean": "0022655306054",
+    "ingredientes": [
+      "MECHANICALLY SEPARATED TURKEY",
+      "WATER",
+      "CORN SYRUP",
+      "CONTAIN 2% OR LESS SALT",
+      "VITAMIN C (ASCORBIC ACID)",
+      "AUTOLYZED YEAST DEXTROSE",
+      "MODIFIED FOOD STARCH",
+      "SODIUM DIACETATE",
+      "SODIUM NITRITE SODIUM PHOSPHATE FLAVORINGS",
+      "POTASSIUM AND SODIUM LACTATE GLUTEN FREE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/530/6054/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey roasted turkey breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655306221",
+    "ingredientes": [
+      "Turkey breast",
+      "turkey broth",
+      "honey",
+      "dextrose",
+      "contains 2% or less of sea salt",
+      "salt",
+      "carrageenan",
+      "vinegar",
+      "sodium phosphate. caramel color added."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked Turkey Breast",
+    "marca": "Butterball,  Butterball  Llc",
+    "ean": "0022655306276",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "TURKEY BROTH",
+      "CONTAINS 2% OR LESS OF DEXTROSE",
+      "SEA SALT",
+      "SALT",
+      "CARRAGEENAN",
+      "VINEGAR",
+      "SODIUM PHOSPHATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural inspirations turkey breakfast sausage patties",
+    "marca": "Butterball",
+    "ean": "0022655306306",
+    "ingredientes": [
+      "Turkey",
+      "water",
+      "contains 2% or less of: salt",
+      "spices",
+      "sugar",
+      "rosemary extract",
+      "citric acid",
+      "vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/002/265/530/6306/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

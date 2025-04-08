@@ -1,0 +1,2508 @@
+[
+  {
+    "nombre": "Spray candy all kidz blend bonus",
+    "marca": "Innovative Candy Concepts",
+    "ean": "0000630135899",
+    "ingredientes": [
+      "Water",
+      "xylitol",
+      "citric acid",
+      "lactic acid",
+      "apple juice concentrate*",
+      "ascorbic acid",
+      "malic acid",
+      "natural and artificial flavors",
+      "sucralose",
+      "blueberry juice concentrate",
+      "sodium benzoate and potassium sorbate (as a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/063/013/5899/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sour & Fruity Candy",
+    "marca": "Innovative Candy Concepts",
+    "ean": "0000630138791",
+    "ingredientes": [
+      "WATER",
+      "GLYCERIN",
+      "CITRIC ACID",
+      "XYLITOL",
+      "APPLE JUICE CONCENTRATE*",
+      "ASCORBIC ACID",
+      "XANTHAN GUM",
+      "SUCRALOSE",
+      "MALIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVORS",
+      "SODIUM BENZOATE AND POTASSIUM SORBATE (AS PRESERVATIVES)",
+      "YELLOW #5",
+      "BLUE #1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
+    "marca": "Trader Joe's",
+    "ean": "0000630843237",
+    "ingredientes": [
+      "carbonated water",
+      "organic apple juice concentrate",
+      "organic apple cider vinegar",
+      "organic lemon juice concentrate",
+      "organic strawberry juice concentrate",
+      "natural flavors",
+      "fruit and vegetable juice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/063/084/3237/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "pate de piment",
+    "marca": "traiteur le reunionnais",
+    "ean": "0000641612107",
+    "ingredientes": [
+      "sel . piment . huile d'olive . vinaigre  .ail . gingembre"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/064/161/2107/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Romaine Hearts",
+    "marca": "Ocean Mist Farms",
+    "ean": "0000651003214",
+    "ingredientes": [
+      "ROMAINE HEARTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/065/100/3214/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Romaine",
+    "marca": "Ocean Mist Farms",
+    "ean": "0000651041001",
+    "ingredientes": [
+      "ROMAINE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Leaf Lettuce",
+    "marca": "Ocean Mist Farms",
+    "ean": "0000651041025",
+    "ingredientes": [
+      "GREEN LEAF."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/065/104/1025/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh Spinach",
+    "marca": "Cean Mist Farms",
+    "ean": "0000651213019",
+    "ingredientes": [
+      "SPINACH."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cooking Spinach",
+    "marca": "Ocean Mist",
+    "ean": "0000651213026",
+    "ingredientes": [
+      "COOKING SPINACH"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Quick Cook Sprout Halves",
+    "marca": "Ocean Mist Farms",
+    "ean": "0000651319018",
+    "ingredientes": [
+      "BRUSSELS SPROUTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Celery",
+    "marca": "Ocean Mist",
+    "ean": "0000651511016",
+    "ingredientes": [
+      "CELERY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/065/151/1016/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season & Steam Kalettes (Kale Sprouts)",
+    "marca": "Ocean Mist Farms",
+    "ean": "0000651813103",
+    "ingredientes": [
+      "Kalettes [kale sprouts]."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "porridge",
+    "marca": "great British porridge company",
+    "ean": "0000653930006",
+    "ingredientes": [
+      "Wholegrain Oats",
+      "Dates",
+      "Pumpkin Seeds (6.2%)",
+      "Coconut Cream",
+      "Goji Berries (4%)",
+      "Chia Seeds",
+      "Freeze Dried Raspberries (1%)",
+      "Flaxseed",
+      "Pink Himalayan Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/065/393/0006/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Freeze Dried To Go Sausage Scramble",
+    "marca": "Thrive Life",
+    "ean": "00006546",
+    "ingredientes": [
+      "Freeze dried sausage crumbles cooked pork (pork",
+      "salt",
+      "sugar",
+      "spices)",
+      "Scrambled eggs (egg whites",
+      "whole eggs",
+      "corn starch",
+      "xanthan gum",
+      "beta carotene)",
+      "Potatoes",
+      "Red and green bell peppers",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/6546/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Premier protien 100% Whey Powder",
+    "marca": "Premier",
+    "ean": "00006566",
+    "ingredientes": [
+      "WHEY PROTEIN ISOLATE",
+      "WHEY PROTEIN CONCENTRATE COCOA PROCESSED WITH ALKALI",
+      "CONTAINS 2% OR LESS OF SOLUBLE CORN FIBER",
+      "SUNFLOWER LECITHIN",
+      "NATURAL AND ARTIFICIAL FLAVORS ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "XANTHAN GUM",
+      "SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/6566/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Dark Chocolate Chips",
+    "marca": "Trader Joe's",
+    "ean": "0000659416900",
+    "ingredientes": [
+      "unsweetened chocolate",
+      "allulose",
+      "cocoa butter"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/065/941/6900/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Drizzled Granola Bars Birthday Cake Flavor",
+    "marca": "Made Good",
+    "ean": "00006702",
+    "ingredientes": [
+      "pure gluten free oats",
+      "chocolate",
+      "cane sugar",
+      "unsweetened chocolate",
+      "cocoa butter",
+      "agave syrup",
+      "sprinkles",
+      "rice crisps",
+      "rice flour",
+      "cane syrup",
+      "salt",
+      "vegetable glycerin",
+      "sunflower oil",
+      "beet powder",
+      "purple sweet potato powder",
+      "maltodextrin",
+      "purple sweet potato extract",
+      "citric acid",
+      "spirulina extract",
+      "brown rice syrup",
+      "invert cane syrup",
+      "sunflower oil",
+      "brown rice crisps",
+      "gluten free oat flour",
+      "natural flavor",
+      "vegetable extracts",
+      "spinach",
+      "broccoli",
+      "carrots",
+      "tomatoes",
+      "beets",
+      "shiitake mushrooms",
+      "salt",
+      "agar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/6702/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain complet",
+    "marca": "Intermarché",
+    "ean": "0000675006567",
+    "ingredientes": [
+      "Farine de BLE complète (57%)",
+      "eau",
+      "sel",
+      "levure",
+      "GLUTEN DE BLE",
+      "farine de BLE",
+      "mono et diglycérides d'acides gras",
+      "acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/067/500/6567/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Kinder tejszelet",
+    "marca": "Kinder",
+    "ean": "00006789",
+    "ingredientes": [
+      "pasztőrözött  _tej_ (40%)",
+      "pálmaolaj)",
+      "cukor",
+      "_búzaliszt_ (10%)",
+      "sovány _tejpor_ (99%)",
+      "méz (5%)",
+      "dehidratált _vaj_",
+      "_tojáspor_",
+      "zsírszegény kakaópor",
+      "_búzakorpa_",
+      "térfogatnövelő szerek (dinátrium-difoszfát",
+      "natrium-hidrogén-karbonát",
+      "ammónium-karbonát)",
+      "emulgeálószer (zsírsavak mono-és digliceridjei)",
+      "aromák",
+      "étkezési só"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/6789/front_hu.13.400.jpg",
+    "tahor": true,
+    "pais": "Hungary"
+  },
+  {
+    "nombre": "Designer Whey Protein Vanilla",
+    "marca": "ESN",
+    "ean": "0000683442920",
+    "ingredientes": [
+      "Whey protein blend (ultrafiltered whey protein concentrate",
+      "cross-flow mi - (carrageenan)",
+      "salt",
+      "sweeteners (acesulfame potassium",
+      "sodium cyclamate",
+      "sodium sac - crofiltered whey protein isolate)",
+      "flavors",
+      "emulsifier (sunflower lecithin)",
+      "thickening agent char'ne",
+      "sucralose)",
+      "sunflower oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/068/344/2920/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "jelly bean",
+    "marca": "Galerie",
+    "ean": "0000683955429",
+    "ingredientes": [
+      "sugar",
+      "corn syrup",
+      "modified cornstarch",
+      "cornstarch",
+      "shellag",
+      "titanium dioxide (for color)",
+      "carnauba wax",
+      "natural flavors yellow 5",
+      "white mineral oi̇l",
+      "red 40",
+      "yellow 6",
+      "red 3",
+      "blue 1",
+      "beeswax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Self Rising Crust Jalapeno Bacon Pizza",
+    "marca": "Ahold",
+    "ean": "0000688267179",
+    "ingredientes": [
+      "Crust (enriched flour [wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid]",
+      "water",
+      "soybean oil",
+      "sugar",
+      "yeast",
+      "sodium aluminum phosphate]",
+      "salt",
+      "corn meal",
+      "ascorbic acid",
+      "enzymes",
+      "soy l"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peanut butter filled Pretzels",
+    "marca": "Trader Joe’s",
+    "ean": "00006910",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "PEANUT BUTTER (ROASTED PEANUTS",
+      "SUGAR",
+      "SALT)",
+      "CONTAINS 2% OR LESS OF SALT",
+      "PALM OIL",
+      "CORN SYRUP",
+      "L-CYSTEINE HYDROCHLORIDE",
+      "SODIUM HYDROXIDE. CONTAINS WHEAT",
+      "PEANUT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/6910/front_en.28.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "St Hubert omega 3 bio",
+    "marca": "St Hubert",
+    "ean": "00006969",
+    "ingredientes": [
+      "Deionized Water",
+      "Glycerin USP",
+      "Petrolatum USP",
+      "Distearyldimonium Chloride",
+      "Isopropyl Palmitate",
+      "Cetyl Alcohol",
+      "Dimethicone",
+      "Allantoin",
+      "T36-C5 Melaleuca Oil",
+      "Benzyl Alcohol",
+      "Fragrance"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Feletti, Pralines Candy, Milk Chocolate",
+    "marca": "Better Ideas",
+    "ean": "0000698309041",
+    "ingredientes": [
+      "Sugar",
+      "vegetable oil (coconut (tree nut)",
+      "palm kernel",
+      "palm)",
+      "cocoa butter",
+      "whole milk powder",
+      "cocoa mass",
+      "whey powder",
+      "cereals (corn flour",
+      "rice flour",
+      "wheat flour",
+      "sugar",
+      "lowfat cocoa powder",
+      "barley's",
+      "malt extract",
+      "salt)",
+      "hazelnuts (tree nut)",
+      "lowfat cocoa powder",
+      "skim milk powder",
+      "soy lecithin (emulsifier)",
+      "artificial flavourings."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feletti, Milk Chocolate Pralines",
+    "marca": "Better Ideas",
+    "ean": "0000698465815",
+    "ingredientes": [
+      "Sugar",
+      "vegetable oil (coconut (tree nut)",
+      "palm kernel",
+      "palm)",
+      "cocoa mass",
+      "cocoa butter",
+      "whey powder",
+      "lowfat cocoa powder",
+      "whole milk powder",
+      "hazelnuts (tree nut)",
+      "cereals (corn flour",
+      "rice flour",
+      "wheat flour",
+      "sugar",
+      "lowfat cocoa powder",
+      "barley's malt extract",
+      "salt)",
+      "skim milk powder",
+      "soy lecithin (emulsifier)",
+      "artificial flavourings."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Instant Dry Yeast",
+    "marca": "fiamma",
+    "ean": "0000700800343",
+    "ingredientes": [
+      "Yeast",
+      "rhizopus",
+      "food additives (a-amylase",
+      "glucoamylase",
+      "phytase)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/070/080/0343/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "Bangladesh"
+  },
+  {
+    "nombre": "Houmous oignons caramélisés",
+    "marca": "Fontaine santé",
+    "ean": "0000703302420",
+    "ingredientes": [
+      "Pois chiches",
+      "eau",
+      "tahini (beurre de sesame)",
+      "huile de canola",
+      "oignons caramélisés",
+      "sel de mer",
+      "vinaigre",
+      "ail",
+      "huile d’olive",
+      "epices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/070/330/2420/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Herbal Tea",
+    "marca": "Celestial Seasonings",
+    "ean": "0000707344444",
+    "ingredientes": [
+      "Chamomile",
+      "orange peel",
+      "natural honey flavor with other natural flavors (contains soy lecithin)",
+      "licorice",
+      "roasted chicory and lemongrass."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream Of Mushroom Condensed Soup",
+    "marca": "Tops",
+    "ean": "0000708425202",
+    "ingredientes": [
+      "Water",
+      "mushrooms",
+      "wheat flour",
+      "cream",
+      "contains 2% or less of corn starch",
+      "salt",
+      "whey protein concentrate (milk)",
+      "modified corn starch",
+      "soybean oil",
+      "monosodium glutamate",
+      "buttermilk powder",
+      "skim milk powder",
+      "disodium inosinate",
+      "disodium guanylate",
+      "natural flavor (contains milk)",
+      "potassium chloride",
+      "xanthan gum",
+      "maltodextrin",
+      "onion powder",
+      "garlic powder",
+      "soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spark",
+    "marca": "AdvoCare",
+    "ean": "00007093",
+    "ingredientes": [
+      "Maltodextrin",
+      "Citric Acid",
+      "Beet Root Powder",
+      "Natural",
+      "Artificial Flavors",
+      "Sucralose",
+      "Silica"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7093/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "spark",
+    "marca": "advocare",
+    "ean": "00007094",
+    "ingredientes": [
+      "maltodextrin",
+      "citric acid",
+      "silicon dioxide",
+      "sucralose",
+      "natural flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7094/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Lithuania"
+  },
+  {
+    "nombre": "Spark",
+    "marca": "AdvoCare",
+    "ean": "00007095",
+    "ingredientes": [
+      "Maltodextrin",
+      "Citric Acid",
+      "Natural Flavors",
+      "Sucralose",
+      "Acesulfame Potassium",
+      "Silicon Dioxide",
+      "FD",
+      "C Red #40"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7095/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Decorated Marshmallow Eggs",
+    "marca": "Peeps",
+    "ean": "0000709754635",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "gelatin",
+      "contains less than 0.5% of the following: maltodextrin",
+      "natural flavors",
+      "potassium sorbate (a preservative)",
+      "artificial color",
+      "red #40",
+      "yellow #5 (tartrazine)",
+      "blue #1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% Pure Orange Juice from Concentrate",
+    "marca": "Mr. J's,USDA,M & B Products",
+    "ean": "00007098",
+    "ingredientes": [
+      "WATER",
+      "ORANGE JUICE CONCENTRATE FROM FLORIDA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7098/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ribbelchips naturel",
+    "marca": "Gwoon",
+    "ean": "0000715259000",
+    "ingredientes": [
+      "zout."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/071/525/9000/front_nl.3.400.jpg",
+    "tahor": true,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Garofalo Gluten Free Pasta",
+    "marca": "Garofalo",
+    "ean": "00007224",
+    "ingredientes": [
+      "Corn flour (50",
+      "brown rice flour (22%)",
+      "rice flour (21",
+      "potato starch",
+      "quinoa flour (3%)",
+      "stabiliser: mono and diglycerides of fatty acids. May contain SOY",
+      "Specifically formulated for coeliacs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7224/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Oreillettes",
+    "marca": "Pays Gourmand",
+    "ean": "0000726074771",
+    "ingredientes": [
+      "Farine de blé",
+      "sucre",
+      "huile de tournesol",
+      "eau",
+      "oeufs",
+      "levure",
+      "poudres à lever (diphosphate disodique",
+      "bicarbonate de sodium)",
+      "sel",
+      "amidon de blé",
+      "arôme naturel",
+      "arôme naturel d'orange."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/072/607/4771/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Taami Elite, Milk Choolate Bar, Puffed Rice And Nougat-Caramel Cream",
+    "marca": "Keepsake",
+    "ean": "0000729181042",
+    "ingredientes": [
+      "Sugar",
+      "puffed rice (12%)",
+      "vegetable oil & fat (palm)",
+      "milk powder",
+      "glucose syrup",
+      "cocoa mass",
+      "cocoa butter",
+      "water",
+      "soy flour",
+      "hazelnuts (3%)",
+      "butter oil",
+      "glycerin (humectants)",
+      "soya & rapeseed lecithin and pgpr (emulsifier)",
+      "salt",
+      "vanillin",
+      "artificial fla"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cucumbero Pineaple",
+    "marca": "Brand",
+    "ean": "00007314",
+    "ingredientes": [
+      "pineapple",
+      "cucumber",
+      "lemon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7314/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Bulgaria"
+  },
+  {
+    "nombre": "Aminos",
+    "marca": "Bragg",
+    "ean": "0000740500032",
+    "ingredientes": [
+      "Vegetable protein |from Soybeans and Purified Water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/074/050/0032/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Indonesia"
+  },
+  {
+    "nombre": "Fibra Canadiense McBerry",
+    "marca": "McBerry",
+    "ean": "0000746263446",
+    "ingredientes": [
+      "Hinaza molida / Milled Flaxseed (Linum ussitatissimim) 375g",
+      "Nopal / Prickly Pear (Opuntia ficus indica) 40g",
+      "Hoja Sen / Senna leaf (Cassia angustifolía) 20g. Maple / Maple flavor. Maltodextrina MODO DE USO: Mezclar o espolvorear 2 cucharadas so (14g) rasas en un vaso de agua",
+      "jugo o bebida de su prefere también en cereales o frutas. Utilizar preferentemente ante desayuno al gusto."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/074/626/3446/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Miel châtaignier et ronce",
+    "marca": "Miellerie de Boissy",
+    "ean": "00007543",
+    "ingredientes": [
+      "Miel Châtaignier et Ronce bio"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7543/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Camembert d'Isigny Sainte Mère",
+    "marca": "Tesco finest",
+    "ean": "00007573",
+    "ingredientes": [
+      "Milk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/7573/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Fuji pom blend juice",
+    "marca": "Ryan Orchards",
+    "ean": "0000764001770",
+    "ingredientes": [
+      "Fuji apple cider",
+      "apple cider",
+      "pomegranate juice."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate juice.",
+        "razon": "Contiene pomegranate juice., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ryan's, Lemonade",
+    "marca": "Ryan Orchards",
+    "ean": "0000764001787",
+    "ingredientes": [
+      "Filtered water",
+      "lemon juice",
+      "pure cane sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ryan's, Spiced Apple Cider",
+    "marca": "Ryan Orchards",
+    "ean": "0000764003033",
+    "ingredientes": [
+      "Apple cider",
+      "natural flavor and spice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple cider",
+    "marca": "Ryan Orchards",
+    "ean": "0000764003040",
+    "ingredientes": [
+      "Pink lady apple cider",
+      "apple cider."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ryan's, Opal Blend Melange, Apple Cider",
+    "marca": "Ryan Orchards",
+    "ean": "0000764708617",
+    "ingredientes": [
+      "Opal apple cider",
+      "apple cider."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple cider",
+    "marca": "Ryan's",
+    "ean": "0000764708655",
+    "ingredientes": [
+      "Honey crisp apple cider",
+      "apple cider"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/076/470/8655/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "famous amos bite size cookies",
+    "marca": "famous amos",
+    "ean": "0000766710014",
+    "ingredientes": [
+      "enriched flour",
+      "wheat",
+      "flour",
+      "niacin",
+      "reduce iron",
+      "vitamin b1",
+      "thiamine mononitrate",
+      "vitamin b2",
+      "semisweet chocolate chips",
+      "chocolate",
+      "sugar",
+      "dextrose",
+      "soy lecithin",
+      "natural flavour",
+      "sugar",
+      "vegetable oil",
+      "soybean",
+      "palm and or palm kernel oil with tbhq for freshness",
+      "contains 2% or less of molases",
+      "salt",
+      "eggs",
+      "baking soda",
+      "natural and artificial flavours",
+      "whey"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Nigeria"
+  },
+  {
+    "nombre": "muhammad",
+    "marca": "25",
+    "ean": "00007790",
+    "ingredientes": [
+      "vhgyujj"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Serious Meat Pizza",
+    "marca": "Papa John's Salad & Produce",
+    "ean": "00007827",
+    "ingredientes": [
+      "Dough (enriched wheat flour (wheat hour",
+      "niacin",
+      "iron",
+      "amylase",
+      "ascorbic acid",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "yeast",
+      "extra virgin olive oil",
+      "sugar",
+      "salt",
+      "canola oil as a manufacturing aid)",
+      "pizza sauce (tomatoes",
+      "blend of extra virg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bowtie Noodles",
+    "marca": "Great Value",
+    "ean": "0000787423049",
+    "ingredientes": [
+      "SEMOLINA (WHEAT)",
+      "NIACIN",
+      "FERROUS SULFATE (IRON)",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/078/742/3049/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sonnenblumenhack",
+    "marca": "DmBio",
+    "ean": "0000790001201",
+    "ingredientes": [
+      "Sonnenblumenkerne teilentfettet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/079/000/1201/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Sobe, fruit strip snacks, mango, pineapple",
+    "marca": "Sobe,  Healthy Food Brands Llc",
+    "ean": "0000790100027",
+    "ingredientes": [
+      "Concentrated apple puree",
+      "concentrated apple juice",
+      "ascorbic acid (vitamin c)",
+      "natural pineapple flavor",
+      "natural mango flavor",
+      "concentrated black carrot juice (for color)",
+      "pectin",
+      "coconut oil",
+      "shellac",
+      "beeswax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sobe, fruit twist snacks blueberry pomec-ranate",
+    "marca": "Sobe,  Healthy Food Brands Llc",
+    "ean": "0000790100058",
+    "ingredientes": [
+      "Concentrated apple puree",
+      "concentrated apple juice",
+      "ascorbic acid (vitamin c)",
+      "natural blueberry flavor",
+      "natural pomegranate flavor",
+      "concentrated black carrot juice (for color)",
+      "pectin",
+      "coconut oil",
+      "shellac",
+      "beeswax."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "natural pomegranate flavor",
+        "razon": "Contiene natural pomegranate flavor, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Healthy Food Brands, A&W, Soda Bottles Gummy Candies With Real A&W Root Beer",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790105282",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "gelatin",
+      "natural & artificial flavor",
+      "root beer concentrate (caramel color",
+      "water",
+      "natural & artificial flavor)",
+      "mineral oil*",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emojeez, Gummies, Assorted Fruits",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790110002",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "gelatin",
+      "dextrose",
+      "citric acid",
+      "natural & artificial flavor",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "mineral oil",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emojeez, Gummies Candy, Fruit",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790110019",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "gelatin",
+      "dextrose",
+      "citric acid",
+      "natural & artificial flavor",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "mineral oil",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emojeez, Fruit Flavored Gummies, Green Apple, Orange, Fruit Punch, Lemon, Cherry Blue Raspberry",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790110026",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "gelatin",
+      "dextrose",
+      "citric acid",
+      "natural & artificial flavor",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "mineral oil",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gummies",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790110033",
+    "ingredientes": [
+      "CORN SYRUP",
+      "SUGAR",
+      "WATER",
+      "GELATIN",
+      "DEXTROSE",
+      "CITRIC ACID",
+      "NATURAL & ARTIFICIAL FLAVOR",
+      "FD&C RED 40",
+      "YELLOW 5",
+      "YELLOW 6",
+      "BLUE 1",
+      "MINERAL OIL",
+      "CARNAUBA WAX"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emojeez, Fruit Gummies, Assorted",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790110040",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "gelatin",
+      "dextrose",
+      "citric acid",
+      "natural & artificial flavor",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "mineral oil",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emojeez, Gummies Candy, Fruit",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790110057",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "gelatin",
+      "dextrose",
+      "citric acid",
+      "natural & artificial flavor",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "mineral oil",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fine Chocolate Candy Bar, Dark Chocolate",
+    "marca": "Simply,  Simply Natural Foods  Llc.",
+    "ean": "0000790200123",
+    "ingredientes": [
+      "Maltitol",
+      "chocolate liquor",
+      "cocoa butter",
+      "inulin (natural vegetable fiber)",
+      "soy lecithin",
+      "vanilla",
+      "cinnamon."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/079/020/0123/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sour Fruit Gummies",
+    "marca": "Candy Crush",
+    "ean": "0000790310013",
+    "ingredientes": [
+      "sugar",
+      "corn syrup",
+      "white grape juice from concentrate",
+      "gelatin",
+      "citric acid",
+      "tartaric acid",
+      "fumaric acid",
+      "sorbitol",
+      "natural & artificial flavours",
+      "silicon dioxide (anticaking agent)",
+      "artificial colours (fd&c red 40",
+      "yellow 6",
+      "blue 1",
+      "yellow 5)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/079/031/0013/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Jelly Fish",
+    "marca": "Candy Crush",
+    "ean": "0000790310020",
+    "ingredientes": [
+      "sugar",
+      "corn syrup",
+      "modified corn starch",
+      "citrict acid",
+      "sodium citrate",
+      "natural and artificial flavours",
+      "mineral oil",
+      "carnauba wax",
+      "red 40",
+      "yellow 6",
+      "yellow 5",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/079/031/0020/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Mixed fruit gummies",
+    "marca": "Candy Crush",
+    "ean": "0000790310075",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "white grape juice from concentrate",
+      "gelatin",
+      "citric acid",
+      "sorbitol",
+      "natural & artificial flavors",
+      "carnauba wax",
+      "artificial colors (fd&c blue 1",
+      "yellow 5",
+      "yellow 6",
+      "red 40)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hfb Candy, Candy Crush Color Bombs",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790350040",
+    "ingredientes": [
+      "Sugar",
+      "assorted nonpareils (sugar",
+      "corn starch",
+      "confectioners glaze",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "carnauba wax)",
+      "hydrogenated palm kernel oil",
+      "whey protein concentrate [milk]",
+      "cocoa powder",
+      "chocolate liquor",
+      "cocoa powder (processed with alkali)",
+      "soy lecithin",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hfb Candy, Jelly Fish Candy",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790350187",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "modified corn starch",
+      "citric acid",
+      "sodium citrate",
+      "natural and artificial flavors",
+      "mineral oil",
+      "carnauba wax",
+      "red 40",
+      "yellow 6",
+      "yellow 5",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Angry Birds, Fruit Snack, Cherry, Lemon, Raspberry, Apple, Grape, Strawberry",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790350385",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "water",
+      "apple juice concentrate",
+      "modified food starch (corn)",
+      "gelatin",
+      "dextrose",
+      "apple puree",
+      "citric acid",
+      "artificial flavor",
+      "ascorbic acid",
+      "mineral oil",
+      "carnuba wax",
+      "artificial colors (fd&c red 40",
+      "yellow 5",
+      "blue 1)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, freeze-dried banana & strawberry slices",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400028",
+    "ingredientes": [
+      "Bananas",
+      "strawberries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, freeze-dried mango slices",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400042",
+    "ingredientes": [
+      "Mangos."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, freeze-dried grapes",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400066",
+    "ingredientes": [
+      "Grapes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, freeze-dried apple slices",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400301",
+    "ingredientes": [
+      "Fuji apples",
+      "ascorbic acid",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, freeze-dried fruit slices, banana & strawberry",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400325",
+    "ingredientes": [
+      "Bananas",
+      "strawberries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, freeze-dried mango slices",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400349",
+    "ingredientes": [
+      "Mangos."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freeze-Dried Grapes",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790400363",
+    "ingredientes": [
+      "Grapes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, dried cranberries, concord grape",
+    "marca": "Welch's",
+    "ean": "0000790410003",
+    "ingredientes": [
+      "Caranberries",
+      "sugar",
+      "natural flavors",
+      "sunflower oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dried Cranberries, Pomegranate Flavor",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790410010",
+    "ingredientes": [
+      "Cranberries",
+      "sugar",
+      "natural flavors",
+      "sunflower oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, dried cranberries, blueberry",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790410027",
+    "ingredientes": [
+      "Cranberries",
+      "sugar",
+      "natural flavors",
+      "sunflower oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dried Cranberries",
+    "marca": "Welch's",
+    "ean": "0000790410034",
+    "ingredientes": [
+      "CRANBERRIES",
+      "SUGAR",
+      "NATURAL FLAVORS",
+      "SUNFLOWER OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dried Mediterranean Apricots",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790410041",
+    "ingredientes": [
+      "DRIED APRICOTS",
+      "NATURAL FLAVORS",
+      "SULFUR DIOXIDE (TO PRESERVE FLAVOR)",
+      "CITRIC ACID",
+      "ASCORBIC ACID",
+      "MALIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dried Honey Crisp Apples",
+    "marca": "Welch's",
+    "ean": "0000790410058",
+    "ingredientes": [
+      "HONEY CRISP APPLES",
+      "SULFUR DIOXIDE (TO PRESERVE FRESHNESS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wholesome & Delicious Dried Mangos",
+    "marca": "Welch's",
+    "ean": "0000790410065",
+    "ingredientes": [
+      "MANGO",
+      "SUGAR",
+      "MANGO JUICE",
+      "SULFUR DIOXIDE (TO PRESERVE FLAVOR)",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, triple fruit treat, mango, cranberries, blueberries",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790410553",
+    "ingredientes": [
+      "Cranberries",
+      "mangos",
+      "blueberries",
+      "sugar",
+      "sunflower oil",
+      "sulfur dioxide (to preserve flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Apple Chips",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790420002",
+    "ingredientes": [
+      "APPLES",
+      "SODIUM SULPHITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, pb&j trail mix, grape",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790430018",
+    "ingredientes": [
+      "Peanuts flavored dried cranberries (cranberries",
+      "sugar",
+      "sunflower oil",
+      "natural flavor)",
+      "peanut flavored coating dried cane syrup",
+      "palm kernel oil",
+      "partially defatted peanut flour",
+      "whey powder [milk]",
+      "salt",
+      "soy lecithin [an emulsifier]",
+      "yogurt flavored coating (sugar",
+      "palm kernel oil and/or palm oil",
+      "nonfat dry milk",
+      "whey powder",
+      "nonfat yogurt powder [cultured whey",
+      "nonfat milk]",
+      "titanium dioxide [color]",
+      "soy lecithin [an emulsifier]",
+      "lactic acid",
+      "vanilla)",
+      "sugar",
+      "corn oil",
+      "salt",
+      "coloring (includes vegetable juice)",
+      "tapioca dextrin",
+      "honey",
+      "gum arabic",
+      "natural flavors",
+      "corn syrup",
+      "confectioner's glaze."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, pb & j trail mix, strawberry",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790430063",
+    "ingredientes": [
+      "Peanuts",
+      "strawberry flavored dried cranberries (cranberries",
+      "sugar",
+      "natural flavors",
+      "citric acid",
+      "sunflower oil",
+      "elderberry juice concentrate [color])",
+      "peanut flavored coating (dried cane syrup",
+      "palm kernel oil",
+      "partially defatted peanut flour",
+      "whey powder [milk]",
+      "salt",
+      "soy lecithin [an emulsifier])",
+      "yogurt flavored coating (sugar",
+      "palm kernel oil and/or palm oil",
+      "nonfat dry milk",
+      "whey powder",
+      "nonfat yogurt powder [cultured whey",
+      "nonfat milk]",
+      "titanium dioxide [color]",
+      "soy lecithin [an emulsifier]",
+      "lactic acid",
+      "vanilla)",
+      "sugar",
+      "corn oil",
+      "salt",
+      "coloring (includes beet juice beta carotene",
+      "beet juice concentrate)",
+      "tapioca dextrin",
+      "honey",
+      "gum arabic",
+      "corn syrup",
+      "natural flavors",
+      "confectioner's glaze."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Welch's, pb&j trail mix, grape",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790430070",
+    "ingredientes": [
+      "Peanuts",
+      "flavored dried cranberries (cranberries",
+      "sugar",
+      "sunflower oil",
+      "natural flavor). peanut flavored coating (dried cane syrup",
+      "palm kernel oil",
+      "partially defatted peanut flour",
+      "whey powder [milk]",
+      "salt",
+      "soy lecithin [an emulsifier]",
+      "yogurt flavored coating (sugar",
+      "palm kernel oil and/or palm oil",
+      "nonfat dry milk",
+      "whey powder",
+      "nonfat yogurt powder [cultured whey",
+      "nonfat milk]",
+      "titanium dioxide [color]",
+      "soy lecithin [an emulsifier]",
+      "lactic acid",
+      "vanilla)",
+      "sugar",
+      "corn oil",
+      "salt",
+      "coloring (includes vegetable juice)",
+      "tapioca dextrin",
+      "honey",
+      "gum arabic",
+      "natural flavors",
+      "corn syrup",
+      "confectioner's glaze."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Apple Chips",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790440017",
+    "ingredientes": [
+      "APPLES",
+      "SODIUM SULPHITE (TO PRESERVE FRESHNESS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Apple Chips",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790440024",
+    "ingredientes": [
+      "APPLES",
+      "SODIUM SULPHITE (TO PRESERVE FRESHNESS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Apple Chips",
+    "marca": "Welch's,  Healthy Food Brands Llc",
+    "ean": "0000790440031",
+    "ingredientes": [
+      "APPLES",
+      "SODIUM SULPHITE (TO PRESERVE FRESHNESS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Gummies",
+    "marca": "Angry Birds",
+    "ean": "0000790500117",
+    "ingredientes": [
+      "SUGAR",
+      "CORN SYRUP",
+      "WHITE GRAPE JUICE CONCENTRATE",
+      "GELATIN",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C RED 40",
+      "YELLOW 5",
+      "YELLOW 6",
+      "BLUE 1",
+      "RED 3",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Gummies Candy",
+    "marca": "Angry Birds",
+    "ean": "0000790500148",
+    "ingredientes": [
+      "SUGAR",
+      "CORN SYRUP",
+      "WHITE GRAPE JUICE CONCENTRATE",
+      "GELATIN",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C RED 40",
+      "YELLOW 5",
+      "YELLOW 6",
+      "BLUE 1",
+      "RED 3",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit gummies",
+    "marca": "Angry Birds",
+    "ean": "0000790500186",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "white grape juice concentrate",
+      "gelatin",
+      "citric acid",
+      "natural and artificial flavor",
+      "fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "blue 1",
+      "red 3",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gummies",
+    "marca": "Angry Birds",
+    "ean": "0000790500230",
+    "ingredientes": [
+      "SUGAR",
+      "CORN SYRUP",
+      "WHITE GRAPE JUICE CONCENTRATE",
+      "GELATIN",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C RED 40",
+      "YELLOW 5",
+      "YELLOW 6",
+      "BLUE 1",
+      "RED 3",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Gummies",
+    "marca": "Angry Birds",
+    "ean": "0000790500247",
+    "ingredientes": [
+      "SUGAR",
+      "CORN SYRUP",
+      "WHITE GRAPE JUICE CONCENTRATE",
+      "GELATIN",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C RED 40",
+      "YELLOW 5",
+      "YELLOW 6",
+      "BLUE 1",
+      "RED 3",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Gummies",
+    "marca": "Angry Birds",
+    "ean": "0000790500254",
+    "ingredientes": [
+      "SUGAR",
+      "CORN SYRUP",
+      "WHITE GRAPE JUICE CONCENTRATE",
+      "GELATIN",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C RED 40",
+      "YELLOW 5",
+      "YELLOW 6",
+      "BLUE 1",
+      "RED 3",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Angry birds, fruit snacks, cherry, lemon, raspberry, apple, grape, strawberry",
+    "marca": "Angry Birds",
+    "ean": "0000790520603",
+    "ingredientes": [
+      "Grape juice",
+      "concentrate",
+      "corn syrup",
+      "sugar",
+      "modified food starch",
+      "apple puree",
+      "gelatin",
+      "citric acid",
+      "sodium citrate",
+      "ascorbic acid (vitamin c)",
+      "natural and artificial flavors",
+      "fd&c red 40",
+      "yellow 5",
+      "blue 1",
+      "red 3",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Angry Birds, Fruit Snacks, Cherry-Lemon-Raspberry-Apple-Grape-Strawberry",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790520702",
+    "ingredientes": [
+      "Grape juice concentrate",
+      "corn syrup",
+      "modified food starch",
+      "apple puree",
+      "gelatin",
+      "citric acid",
+      "sodium citrate",
+      "ascorbic acid (vitamin c)",
+      "natural & artificial flavors",
+      "fd&c red 40",
+      "yellow 5",
+      "blue 1",
+      "red 3",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Ninja, Fruit Snacks, Original",
+    "marca": "Healthy Food Brands Llc",
+    "ean": "0000790620105",
+    "ingredientes": [
+      "Sugar",
+      "white grape juice from concentrate",
+      "corn syrup",
+      "modified corn starch",
+      "gelatin",
+      "citric acid",
+      "apple puree",
+      "natural and artificial flavors",
+      "sodium citrate",
+      "ascorbic acid (vitamin c)",
+      "carnauba wax",
+      "artificial colors (fd&c red 40",
+      "yellow 5",
+      "yellow 6",
+      "re"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Snacks Red Belt",
+    "marca": "Fruit Ninja",
+    "ean": "0000790620112",
+    "ingredientes": [
+      "CORN SYRUP",
+      "SUGAR",
+      "WATER",
+      "APPLE JUICE CONCENTRATE",
+      "MODIFIED FOOD STARCH (CORN)",
+      "GELATIN",
+      "DEXTROSE",
+      "APPLE PUREE",
+      "CITRIC ACID",
+      "NATURAL & ARTIFICIAL FLAVOR",
+      "ASCORBIC ACID (VITAMIN C)",
+      "MINERAL OIL",
+      "CARNAUBA WAX",
+      "ARTIFICIAL COLORS (FD&C RED 40",
+      "YELLOW 5",
+      "YELLO"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Skippy wafer bar",
+    "marca": "Skippy",
+    "ean": "0000790870043",
+    "ingredientes": [
+      "peanut butter (roasted peanuts",
+      "sugar",
+      "hydrogenated vegetable oil (cottonseed",
+      "soybean and rapeseed oil) to prevent separation",
+      "salt)",
+      "wheat wafers (pastry flour",
+      "soybean oil",
+      "sodium bicarbonate)",
+      "peanut flour",
+      "palm oil",
+      "sugar",
+      "milk chocolate compound coating (sugar",
+      "vegetable oil [palm kernel oil and hydrogenated palm kernel oil]",
+      "cocoa powder",
+      "nonfat dry milk",
+      "whole milk powder",
+      "whey powder",
+      "soy lecithin [an emulsifier]",
+      "salt",
+      "artificial flavor)",
+      "corn starch",
+      "salt. contains milk",
+      "peanut",
+      "soy",
+      "wheat."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/079/087/0043/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tnt Exploding Candy",
+    "marca": "Angry Birds",
+    "ean": "0000790900115",
+    "ingredientes": [
+      "SUCROSE",
+      "LACTOSE (MILK)",
+      "CORN SYRUP SOLIDS",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C BLUE 1",
+      "PROCESSED WITH CARBON DIOXIDE FOR POPPING EFFECT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Exploding Candy",
+    "marca": "Angry Birds",
+    "ean": "0000790900122",
+    "ingredientes": [
+      "SUCROSE",
+      "LACTOSE (MILK)",
+      "CORN SYRUP SOLIDS",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C YELLOW 5",
+      "PROCESSED WITH CARBON DIOXIDE FOR POPPING EFFECT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Exploding Candy",
+    "marca": "Angry Birds",
+    "ean": "0000790900139",
+    "ingredientes": [
+      "SUCROSE",
+      "LACTOSE (MILK)",
+      "CORN SYRUP SOLIDS",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "FD&C YELLOW 5",
+      "BLUE 1",
+      "PROCESSED WITH CARBON DIOXIDE FOR POPPING EFFECT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Épices à pain d'épices",
+    "marca": "Fortwenger",
+    "ean": "0000800000002",
+    "ingredientes": [
+      "EPICES A PAINS DI EPICES ln Epices cannelle) gingembre",
+      "coriandre",
+      "anis",
+      "clous de girofle",
+      "anis étoilé",
+      "muscade",
+      "poivre SCIcre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/080/000/0002/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Osella LINEA protein",
+    "marca": "Osella",
+    "ean": "0000800003772",
+    "ingredientes": [
+      "Pasteurized MILK*",
+      "MILK* pasteurized skimmed",
+      "salt",
+      "lactic ferments"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/080/000/3772/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "nectar pour ngalax",
+    "marca": "torodo",
+    "ean": "0000800135001",
+    "ingredientes": [
+      "eau",
+      "pulpe de baobab",
+      "sucre",
+      "sorbate de potassium (e202)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/080/013/5001/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Senegal"
+  },
+  {
+    "nombre": "Min Cha Milk Tea",
+    "marca": "Min Cha",
+    "ean": "00008052",
+    "ingredientes": [
+      "non dairy creamer",
+      "instnt tea powder",
+      "whey powder (contains milk protein)",
+      "maltodextrin",
+      "bamboo salt",
+      "stevia extract",
+      "sucralose",
+      "contains stabilizer as permitted food container"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/8052/front_ms.5.400.jpg",
+    "tahor": true,
+    "pais": "Malaysia"
+  },
+  {
+    "nombre": "вита баница със сирене и извара",
+    "marca": "Kaufland",
+    "ean": "00008256",
+    "ingredientes": [
+      "подобрител Г.ПШЕНИЕЧН ГЛУТЕh",
+      "агент за обработка на брашното: L-цистенк. Пълнеж (35: ИЗВАРА (45%)",
+      "сHрицен ензии)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/8256/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "Bulgaria"
+  },
+  {
+    "nombre": "Nourishing Protein",
+    "marca": "WelleCo",
+    "ean": "00008262",
+    "ingredientes": [
+      "Organic Pea Protein (26%)",
+      "Organic Brown Rice Protein (24%)",
+      "Cocoa Powder",
+      "Natural Flavours",
+      "Organic Cacao Powder",
+      "Xylitol",
+      "Fructooligosaccharides (FOS)",
+      "L-Glutamine",
+      "Maltodextrin",
+      "L-Phenylalanine",
+      "Pomegranate (Punica granatum) Powder",
+      "Acai (Euterpe oleracea) Fruit Powder",
+      "Psyllium (Plantago ovata) Seed Husk",
+      "Magnesium Citrate",
+      "Guar gum",
+      "Digestive Enzyme Blend (Papain",
+      "Bromelain)",
+      "Tumeric (Curcuma longa) Root Extract",
+      "Rosehip (Rosa canina) Fruit Powder",
+      "Taurine",
+      "Grape (Vitis vinifera) Seed Extract",
+      "Vitamin Blend (Nicotinamide",
+      "Choline Bitartrate",
+      "Pyridoxine Hydrochloride",
+      "Riboflavin",
+      "Thiamine Mononitrate",
+      "Folic Acid",
+      "Cyanocobalamin",
+      "Colecalciferol (Vitamin D3))",
+      "Steviol Glycosides",
+      "Probiotic Blend (Lactobacillus acidophilus",
+      "Bifidobacterium lactis",
+      "Bifidobacterium bifidum",
+      "Bifidobacterium longum)",
+      "Dandelion (Taraxacum officinale) Leaf Extract",
+      "Chromium Picolinate"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Pomegranate (Punica granatum) Powder",
+        "razon": "Contiene Pomegranate (Punica granatum) Powder, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/8262/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Avena, Oatmeal Smoothie, Cinnamon",
+    "marca": "Alpina,  Cauca Zona Franca S.A.S.",
+    "ean": "0000832206373",
+    "ingredientes": [
+      "Whole milk",
+      "water",
+      "sugar",
+      "oat flour",
+      "artificial flavor",
+      "mono and diglycerides",
+      "carrageenan",
+      "guar gum",
+      "sodium tripolyphosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bee, Creamed Honey With Raspberry, Raspberry",
+    "marca": "Vintage,  Vintage Bee",
+    "ean": "0000835766119",
+    "ingredientes": [
+      "Pure raw honey",
+      "whole organic raspberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamed Honey",
+    "marca": "Vintage Bee  Inc.",
+    "ean": "0000835766317",
+    "ingredientes": [
+      "PURE RAW HONEY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamed honey with cinnamon",
+    "marca": "Vintage,  Vintage Bee",
+    "ean": "0000835766331",
+    "ingredientes": [
+      "Pure raw honey",
+      "organic cinnamon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamed honey with lemon",
+    "marca": "Vintage,  Vintage Bee",
+    "ean": "0000835766355",
+    "ingredientes": [
+      "Pure raw honey",
+      "lemon juice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamed Honey With Hibiscus",
+    "marca": "Vintage Bee  Inc.",
+    "ean": "0000835766553",
+    "ingredientes": [
+      "PURE RAW HONEY",
+      "WHOLE ORGANIC HIBISCUS FLOWERS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Minis Creamed Honey With Cinnamon",
+    "marca": "Vintage,  Vintage Bee  Inc.",
+    "ean": "0000835766560",
+    "ingredientes": [
+      "PURE RAW HONEY",
+      "CINNAMON."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamed Honey With Lemon",
+    "marca": "Vintage Bee  Inc.",
+    "ean": "0000835766577",
+    "ingredientes": [
+      "PURE RAW HONEY",
+      "LEMON JUICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamed Honey With Raspberry",
+    "marca": "Vintage Bee  Inc.",
+    "ean": "0000835766584",
+    "ingredientes": [
+      "PURE RAW HONEY",
+      "REAL RASPBERRIES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage minis",
+    "marca": "Vintage,  Vintage Bee  Inc.",
+    "ean": "0000835766607",
+    "ingredientes": [
+      "Pure raw honey",
+      "real hibiscus flowers."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Minis Candy",
+    "marca": "Vintage,  All American Products Co. Inc.",
+    "ean": "0000835766614",
+    "ingredientes": [
+      "PURE RAW HONEY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Happy Hippo",
+    "marca": "Kinder",
+    "ean": "0000840083624",
+    "ingredientes": [
+      "Sugar",
+      "vegetable fats (palm",
+      "shea)",
+      "WHEAT flour",
+      "MILK powder (7.5%) fat-reduced cocoa powder (5%)",
+      "skimmed MILK powder (4.5%)",
+      "HAZELNUTS",
+      "whey powder (MILK)",
+      "chocolate (sugar",
+      "cocoa mass",
+      "cocoa butter",
+      "emulsifier: lecithits (S0YA. vanillin)",
+      "WHEAT starch",
+      "emutsifier: lecithins (SOYA)",
+      "sunflower ol",
+      "whey proteits (MAC raising agents (ammonium bicarbonate",
+      "sodium bicarbonate)",
+      "salt",
+      "vanillin Toa solids: 12%. Nutrition declaration per 100 g: energy 2471/593 kJ/kcal",
+      "fat 38.64 saturates 17.6 g",
+      "carbohydrate 53.6 g",
+      "of which sugars 45.1 g",
+      "protein 6.7 g For More Information Visit: www.kinder.com or contact us on 00 44 330S 23m"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/084/008/3624/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trix",
+    "marca": "General Mills",
+    "ean": "0000848454849",
+    "ingredientes": [
+      "whole grain corn",
+      "corn meal",
+      "sugar",
+      "corn syrup",
+      "canola and/or sunflower oil",
+      "salt",
+      "color (vegetable and fruit juice",
+      "turmeric extract",
+      "annatto extract)",
+      "trisodium phosphate",
+      "natural flavor",
+      "citric acid",
+      "malic acid",
+      "vitamins and minerals: calcium carbonate",
+      "tricalcium phosphate",
+      "iron and zinc (mineral nutrients)",
+      "vitamin c (sodium ascorbate)",
+      "a b vitamin (niacinamide)",
+      "vitamin b",
+      "(pyridoxine hydrochloride)",
+      "vitamin bhiamin mononitrate",
+      "vitamin a (palmitate)",
+      "vitamin b2 (riboflavin)",
+      "a b vitamin (folic acid)",
+      "vitamin b₁2",
+      "vitamin d3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cioccolato a forma di banconota",
+    "marca": "Di Costa",
+    "ean": "00008503",
+    "ingredientes": [
+      "Latte",
+      "cioccolato"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/000/8503/front_it.7.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "Raw Shrimp",
+    "marca": "Maxfield",
+    "ean": "0000850600108",
+    "ingredientes": [
+      "SHRIMP SALT",
+      "SODIUM PHOSPHATE (TO RETAIN MOISTURE)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

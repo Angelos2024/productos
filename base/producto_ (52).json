@@ -1,0 +1,3734 @@
+[
+  {
+    "nombre": "Pineapple Bubly",
+    "marca": "Bubbly",
+    "ean": "0012000182884",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "NATURAL FLAVOR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/018/2884/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baja blast original low calorie dew tropical lime soda",
+    "marca": "Mtn dew",
+    "ean": "0012000183386",
+    "ingredientes": [
+      "carbonated water",
+      "citric acid",
+      "natural and artificial flavor",
+      "sodium benzoate",
+      "potassium citrate",
+      "caffeine",
+      "sucralose",
+      "acesulfame potassium",
+      "gum arabic",
+      "calcium disodium edta",
+      "sucrose acetate isobutyrate",
+      "yellow 5",
+      "blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/018/3386/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baja blast original tropical lime diet soda",
+    "marca": "Mountain Dew",
+    "ean": "0012000183393",
+    "ingredientes": [
+      "carbonated water",
+      "citric acid",
+      "natural and artificial flavor",
+      "sodium benzoate",
+      "potassium citrate",
+      "caffeine",
+      "sucralose",
+      "acesulfame potassium",
+      "gum arabic",
+      "calcium disodium EDTA",
+      "sucrose acetate isobutyrate",
+      "yellow 5",
+      "blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/018/3393/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi lime",
+    "marca": "Pepsi",
+    "ean": "0012000184185",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CLAFED LIME JUICE CONCENTRATE",
+      "CARAMEL COLOR",
+      "NATURAL RANR SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR)",
+      "PHOSPHOR ACID",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS) CFE GUM ARABIC",
+      "CALCIUM DISODIUM EDTA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/018/4185/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "With a splash of mango juice",
+    "marca": "Pepsi",
+    "ean": "0012000184222",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "mango juice concentrate",
+      "caramel color",
+      "sodium polyphosphates (to protect flavor)",
+      "phosphoric acid",
+      "natural flavor",
+      "potassium sorbate (preserves freshness)",
+      "caffeine",
+      "gum arabic",
+      "citric acid",
+      "calcium disodium edta (to protect flavor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/018/4222/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Extra sweet tea",
+    "marca": "Pure Leaf",
+    "ean": "0012000184475",
+    "ingredientes": [
+      "Brewed black tea",
+      "sugar",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/018/4475/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Starbucks frappuccino brown butter caramel",
+    "marca": "Starbucks",
+    "ean": "0012000190216",
+    "ingredientes": [
+      "brewed starbucks coffee (water",
+      "coffee)",
+      "reduced-fat milk",
+      "cold-brewed starbucks coffee (water",
+      "coffee)",
+      "skim mik",
+      "sugar",
+      "maltodextrin",
+      "cream",
+      "natural flavorš",
+      "pectiń",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/0216/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grapefruit Sparkling Water",
+    "marca": "Bubly",
+    "ean": "0012000190872",
+    "ingredientes": [
+      "carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/0872/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cherry enhanced sparkling water",
+    "marca": "Bubly",
+    "ean": "0012000190896",
+    "ingredientes": [
+      "carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/0896/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zero sugar soda",
+    "marca": "Mountain Dew",
+    "ean": "0012000191435",
+    "ingredientes": [
+      "serving at oc toma % dv 0% 3% carbonated water",
+      "citric acid natural flavor. potassium benzoate (preserves freshness)",
+      "citrus pectin. aspartame potassium citrate",
+      "caffeine gum arabic acesulfame potassium sucralose 0% sodium citrate",
+      "calcium disodium edta (to protect flavori",
+      "yellow 5 phenylketonurics: sugars og ed sugars 0% contains phenylalanine bottled under the authority of pepsico. inc. purchase. ny 10577. me-vt-ct-ma-ny ia-h15cmi-or 10c ca crv use of other nutrients 645f-242-0000-2709-jo"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/1435/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zero sugar soda",
+    "marca": "Mountain Dew",
+    "ean": "0012000191442",
+    "ingredientes": [
+      "carbonated water",
+      "citric acid",
+      "natural flavor",
+      "sodium benzoate",
+      "citrus pectin",
+      "aspartame",
+      "potassium citrate",
+      "caffeine",
+      "gum arabic",
+      "acesulfame potassium",
+      "sucralose",
+      "sodium citrate",
+      "calcium disodium EDTA",
+      "yellow 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/1442/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mtn drew zero sugar",
+    "marca": "Mountain Dew",
+    "ean": "0012000191466",
+    "ingredientes": [
+      "nutron facts serving size 1 can amount per serving calories 0 % dv total fat 0g sodium 40mg total carbohydrate 0g total sugars og includes og added sugars 0% protein og 0% 2% 0% not a significant source of other nutrients",
+      "% dv",
+      "% daily value carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate (preserves freshness)",
+      "citrus pectin",
+      "aspartame",
+      "potassium citrate",
+      "caffeine",
+      "gum arabic",
+      "acesulfame potassium",
+      "sucralose",
+      "sodium citrate",
+      "calcium disodium edta (10 protect flavor)",
+      "yellow 5",
+      "phenylketonurics: contains phenylalanine b18770 6450-101-0000 bottled under the authority of pepsico",
+      "inc",
+      "purchase",
+      "ny 10577",
+      "caffeine content: g8mg/12 fl oz",
+      "we're hers to bolp"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/1466/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Tea Watermelon",
+    "marca": "Lipton",
+    "ean": "0012000191503",
+    "ingredientes": [
+      "water",
+      "sugar",
+      "malic acid",
+      "sodium polyphosphates",
+      "green tea",
+      "natural flavor",
+      "ascorbic acid",
+      "potassium sorbate",
+      "phosphoric acid",
+      "stevia leaf extract",
+      "calcium disodium EDTA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/1503/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Peach Green Tea",
+    "marca": "Lipton",
+    "ean": "0012000191527",
+    "ingredientes": [
+      "nutrition facts contains 0% juice total fat 0g sodium 170mg total carb. 22g amount/serving serving size 1 bottle calories per serving total sugars 22g 90 incl. 22g added sugars 4% protein og vitamin c 90mg 100% not a significant source of saturated ft",
+      "tau fat",
+      "cholesterol",
+      "dietary fiber",
+      "vitami",
+      "abin iron",
+      "and potassium. hater",
+      "sugar",
+      "malic acid",
+      "sodium polyphosphates (to protegt ru natural flavor",
+      "citric acid",
+      "potassium sorbate (preserve re (vitam in c)",
+      "purified stevia leaf extract",
+      "calcium disodum bi hanufactured by independent producers for the pepsiupt partmership",
+      "purchase",
+      "ny 10577. ©lipton",
+      "a division of uniur we're here to help. im on & lipon tea.com or 800.657.3001 refprigerate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/1527/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew Zero Sugar",
+    "marca": "Mountain Dew",
+    "ean": "0012000192722",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "NATURAL FLAVOR POTASSIUM BENZOATE (PRESERVES FRESHNESS). CITRUS PECTIN",
+      "ASPARTAME",
+      "POTASSIUM CITRATE CAFFEINE",
+      "GUM ARABIC",
+      "ACESULFAME POTASSIUM. SUCRALOSE",
+      "SODIUM CITRATE",
+      "CALCIUM DISODIUM EOTA (TO PROTECT FLAVOR). YELLOW 5. PHENYLKETONURICS: CONTAINS PHENYLALANINE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/2722/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry enhanced sparkling water",
+    "marca": "Bubly",
+    "ean": "0012000192760",
+    "ingredientes": [
+      "carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/2760/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nitro Cold Brew",
+    "marca": "Starbucks",
+    "ean": "0012000192869",
+    "ingredientes": [
+      "COLD BREWED STARBUCKS COFFEE (WATER",
+      "COFFEE)",
+      "NITROGEN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/2869/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla Sweet Cream Nitro Cold Brew",
+    "marca": "Starbucks",
+    "ean": "0012000192906",
+    "ingredientes": [
+      "COLD BREWED STARBUCKS® COFFEE (WATER",
+      "COFFEE",
+      "REDUCED-FAT MILK",
+      "SUGAR",
+      "CREAM NATURAL FLAVORS",
+      "PECTIN",
+      "NITROGEN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/2906/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raspberry Chamomile",
+    "marca": "Pure Leaf, Pepsi, Lipton, Unilever",
+    "ean": "0012000193170",
+    "ingredientes": [
+      "BREWED CHAMOMILE TEA",
+      "SUGAR",
+      "NATURAL FLAVOR",
+      "CITRIC ACID",
+      "ASCORBIC ACID (TO PROTECT FLAVOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/3170/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brisk Blackberry Smash Iced Tea",
+    "marca": "Lipton",
+    "ean": "0012000193736",
+    "ingredientes": [
+      "WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACIO",
+      "NATURAL FLAVOR",
+      "SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR). PHOSPHORIC ACID",
+      "POTASSIUM CITRATE",
+      "GREEN TEA. POTASSIUM SORBATE (PRESERVES cts 60 mL) FRESHNESS). GUM ARABIC",
+      "ASCORBIC ACIO (TO PROTECT FLAVOR). ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "XANTHAN GUM",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EOTA (TO PROTECT FLAVOR). RED MANUFACTURED BY INDEPENDENT PRODUCERS FOR THE PEPSI/LIPTON TEA PARTNERSHIP",
+      "PURCHASE",
+      "NY 10577. 0% CLIPTON",
+      "A DIVISION OF UNILEVER. PLEASE RECYCLE container 40. BLUE 1. % DV* ng 15% 17% LIPTON and BRISK are Unilever 91% BRANDS",
+      "used under license. Lipton hient in a alories a C® (R ME-HI-5COR10C CA CRV 893A-382-0000-DO 12000 19373"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/3736/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew Frost Bite",
+    "marca": "Mountain Dew",
+    "ean": "0012000194207",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "CITRIC ACID",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "GUM ARABIC",
+      "CAFFEINE SODIUM CITRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "SUCROSE ACETATE ISOBUTYRATE",
+      "BLUE 1",
+      "RED 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/4207/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew FrostBite",
+    "marca": "Mountain Dew",
+    "ean": "0012000194214",
+    "ingredientes": [
+      "total fat op sodlum 55mg total carbonydrat totat sugars 46g includes 46g added sugars 91% protein og 0% 2% 50 17% not a significant source of other nutrients *% dv",
+      "% daily value carbonated water",
+      "high fructose corn strup",
+      "natural and artificial flavor citric acid",
+      "sodium benzoate preserves freshness)",
+      "gum arabic cafeine",
+      "sodium citrate",
+      "glycerol ester of rosin",
+      "calcium disodium edta c0o protect flavor)",
+      "sucrose acetate 1sobutyrate",
+      "blue 1",
+      "red 40",
+      "caffeine content: 55mg/12 fl oz",
+      "me'n here to help mountaindew",
+      "com or 800",
+      "ny 10577",
+      "please recycle"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/4214/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Citrus Cherry Caffeinated Sparkling Water",
+    "marca": "Bubly Bounce",
+    "ean": "0012000194443",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "NATURAL FLAVOR",
+      "CAFFEINE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/019/4443/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Iced tea",
+    "marca": "Lipton",
+    "ean": "0012000202377",
+    "ingredientes": [
+      "Water",
+      "high fructose corn syrup",
+      "citric acid",
+      "instant tea",
+      "sodium hexametaphosphate (to protect flavor)",
+      "natural flavor",
+      "phosphoric acid",
+      "sodium benzoate (preserves freshness)",
+      "potassium sorbate (preserves freshness)",
+      "caramel color",
+      "acesulfame potassium",
+      "calcium disodium edta (to protect flavor)",
+      "sucralose",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/2377/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brisk Lemon Iced Tea",
+    "marca": "Brisk",
+    "ean": "0012000202384",
+    "ingredientes": [
+      "Water",
+      "high fructose corn syrup",
+      "citric acid",
+      "tea powder",
+      "sodium polyphosphates (to protect flavor)",
+      "natural flavor",
+      "phosphoric acid",
+      "sodium benzoate (preserves freshness)",
+      "potassium sorbate (preserves freshness)",
+      "caramel color",
+      "acesulfame potassium",
+      "sucralose",
+      "calcium disodium edta (to protect flavor)",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/2384/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tripleshot Energy Zero Sugar",
+    "marca": "Starbucks",
+    "ean": "0012000203084",
+    "ingredientes": [
+      "wgredients: brewed starbucks coffee (nater calcium 22mg iron omg polassium 624mg vitamin a 153mcg vitamin c 30mg rit ofi vi 3.4mg nia cir 3 mg vitamin be 4mg piridoxine hydrochloride (mtamin b6",
+      "coarana (palllina cupano seed extract",
+      "sodium ascorbate",
+      "maltodextrin",
+      "panak grseng root extract",
+      "niacinamide",
+      "tricalcum phosphate coffee)",
+      "natural flavors",
+      "sucralose",
+      "nostol boflavi vitamin a palmitate",
+      "witamn d3. 15 35 260 240 240 the % daily value ls wmuch a nutrint ba daily diet. 2",
+      "nac ltodextrin pann gaseng hydrochloride mtamin b6 kd"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "coarana (palllina cupano seed extract",
+        "razon": "Contiene coarana (palllina cupano seed extract, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/3084/front_en.7.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew Maui Burst",
+    "marca": "Mountain Dew,MTN DEW,PepsiCo",
+    "ean": "0012000203107",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "GUM ARABIC",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "SUCROSE ACETATE ISOBUTYRATE",
+      "YELLOW 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/3107/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frappuccino",
+    "marca": "Starbucks",
+    "ean": "0012000203978",
+    "ingredientes": [
+      "brewed Starbucks coffee",
+      "reduced fat milk",
+      "sugar",
+      "skim milk",
+      "maltodextrin",
+      "cream",
+      "natural flavors",
+      "cocoa powder",
+      "pectin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/3978/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lipton Herbal Iced Tea Strawberry & Mint",
+    "marca": "Lipton",
+    "ean": "0012000204739",
+    "ingredientes": [
+      "ontains 0% juice hers tion amount/serving %dv sira total fat 0g 0% 8% sodium 180mg ng size le alories a serving 8% total carb. 21g total sugars 20g incl. 20g added sugars 40% protein 0g uer 80 empty4 nota significant sourca of other nutrients. * %dv= %daily value plastic botte ere to help. lpton 803573001 ater opening hfcs niler used unde migh"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/4739/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Cocoa Sweet Cream Nitro Cold Brew",
+    "marca": "Starbucks",
+    "ean": "0012000204784",
+    "ingredientes": [
+      "cold Brew Starbucks coffee",
+      "reduced fat milk",
+      "sugar",
+      "pectin",
+      "cocoa extract",
+      "cream",
+      "natural flavors",
+      "sea salt",
+      "nitrogen"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/4784/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew Major Melon",
+    "marca": "Mountain Dew",
+    "ean": "0012000204951",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "GUM ARABIC",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA(TO PROTECT FLAVOR)",
+      "RED 40"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/4951/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mtn dew - major melon",
+    "marca": "Mountain Dew",
+    "ean": "0012000204968",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "GUM ARABIC",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS) CAFFEINE",
+      "SODIUM CITRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "RED 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mtn Dew zero sugar major melon",
+    "marca": "Mtn Dew",
+    "ean": "0012000205064",
+    "ingredientes": [
+      "inc. purchase",
+      "ny 10577. caffeine content 68mg/12l.oz contains 0% juice serving size"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5064/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zero sugar mango",
+    "marca": "Pepsi",
+    "ean": "0012000205163",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "phosphore d",
+      "aspartame",
+      "natural flavor",
+      "caffene lassium sorbate (preserves freshness putassium citrate",
+      "acesulfame potassum citric acid. phenyliketomurics: contans fenylalanine bottled under the authority of pepsico",
+      "inc.",
+      "purchase",
+      "ny 10577. caffeine content: 69mg/12 fl oz"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5163/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cold & Crafted Coffee",
+    "marca": "Starbucks",
+    "ean": "0012000205224",
+    "ingredientes": [
+      "COLD-BREWED STAR BUCKS COFFEE (WATER",
+      "COFFEE)",
+      "BREWED STARBUCKS COFFEE (WATER",
+      "COFFEE)",
+      "REDUCED-FAT MLIK",
+      "SUGAR",
+      "NATURAL FLAVORS",
+      "CREAM."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5224/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cold & Crafted",
+    "marca": "Starbucks",
+    "ean": "0012000205286",
+    "ingredientes": [
+      "cold-brewed starbuckso coffee (water",
+      "coffee)",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5286/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "maui burst",
+    "marca": "Mountain Dew",
+    "ean": "0012000205378",
+    "ingredientes": [
+      "carbonated water high fructose corn syrup",
+      "citric acib",
+      "natural flavor",
+      "sodium benzoate (preserve freshness)",
+      "gum arabic",
+      "caffeine",
+      "sodium citrate",
+      "glycerol ester of rosin",
+      "calcium disodium edta (to protect flavor) sucrose acetate sobutyrate",
+      "yellow 5. caffeine content: 77mg/16.9 oz."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5378/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet citrus green tea",
+    "marca": "Lipton",
+    "ean": "0012000205828",
+    "ingredientes": [
+      "CONTAINS 0% JUICE Nutrition Facts Abut 5 servings per container Sering size 12 fl oz (360 mL) Amount per serving Calories WATER",
+      "CITRIC ACID",
+      "SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR)",
+      "GREEN TEA",
+      "NATURAL FLAVOR",
+      "ASCORBIG ACID (VITAMIN C)",
+      "PHOSPHORIC ACID",
+      "POTASSIUM SORBATE (PRESERVES FRESHNES)",
+      "ASPARTAME",
+      "ACESULFAME POTASSIUM",
+      "CITRUS PECTIN",
+      "CALCIUM DISODIUM EDTA (ID PROTECT FLAVOR) PHENVLKETONURIGS: Empty",
+      "Replace Cap CONTAINS PHENVLALANINE MANUFACTURED BY INDEPENDENT PRODUCERS FOR THE PEPSI/LIPTON TEA PARTNERSHIP",
+      "PURCHASE",
+      "smartlabel® NEW YORK 10371 PLASTIC BOTTLE tal Fat 0g đium 125mg atal Carbony drate 0g Soa Sugars 0g Cu h des Sugars 0 % DV* 0% 5% 0% INGH FRUC NO &quot",
+      "• HFCS",
+      "CORN SYRUS scan for info Call for info 1-800-657-3001 © 2023 LIPTON ICED TEA 0% LIPTON ICED TEA IS A REGISTERED TRADEMARK USED UNDER LICENSE 100% Souce of saturated fal",
+      "We re here to help Lieton Tea com ar 8006523000 otary tuber",
+      "RÉFRIGERATE AFTER OPENING LERO CALORIE potasslum ME-HISC CTRV CA CRV 2000 20582"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5828/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Churro Frappuccino",
+    "marca": "Starbucks",
+    "ean": "0012000205927",
+    "ingredientes": [
+      "brewed starbucks coffee (water",
+      "coffee reduced-fat milk",
+      "sugar",
+      "skim milk",
+      "natural flavors",
+      "cream pectin",
+      "cocoa."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/5927/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rise Energy Peach Mango",
+    "marca": "Mtn Dew",
+    "ean": "0012000206382",
+    "ingredientes": [
+      "white grape juice concentrate",
+      "ditrc citicoline",
+      "caffeine",
+      "ascorbic acid (vitamin c. aspartame",
+      "gum arabic",
+      "potassium sorbate r preserves freshness)",
+      "acesulfame potassium. sucralose",
+      "niacinamide (vitamin b3)",
+      "glycerol ester of rosin",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 6 calcium pantothenate (vitamin b5",
+      "sucrose acetate isobutyrate",
+      "zinc sulfate",
+      "pyridoxinhydrochloride (vitamin b6)",
+      "beta carotene (vin a). phenyliketonuricscntains phenylalanine bottled under t thority of pepsico",
+      "inc. purchase",
+      "ny 105 caffeine conten80mg/16 fl oz. please recycl 21033043m011) b21585"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/6382/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew Baja Flash",
+    "marca": "Mountain Dew",
+    "ean": "0012000206580",
+    "ingredientes": [
+      "high fructose corn syrup",
+      "% dv natural and artificial flavor",
+      "citric acid",
+      "gum 0% arabic",
+      "sodium benzoate (preserves freshnes)",
+      "caffeine",
+      "sodium citrate",
+      "glycerol ester of rosin",
+      "sugrose ars 73g acetate isobutyrate",
+      "yellow 5",
+      "yellow 6. bottled under the authority of pepsico",
+      "inc",
+      "no purchase necessary. open to legal us residents"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/6580/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Bubly",
+    "ean": "0012000206863",
+    "ingredientes": [
+      "carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/6863/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream Soda Cola - Soda Shop Line",
+    "marca": "Pepsi",
+    "ean": "0012000207204",
+    "ingredientes": [
+      "can Total Carbohydrate 39g 14% CANFEINE CONTENT: 38mg/12 1 z. PEPSICO",
+      "INC.",
+      "PURCHASE",
+      "NY 10577. per serving Alories 150 % DV Total Fat 0g Sodium 35mg 0% 1% Total Sugars 39g Includes 39g Added Suga s 78% Protein Og Not a significant source of other nutrients. % DV = % Daily Value CARBONATED WATER",
+      "SUGAR",
+      "NATURAL RLAVOR",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS)",
+      "POTASSIUM CITRATE",
+      "CAFFEINE 150 BOTTLED UNDER THE AUTHORITY OF CALORIES POR CAN CAF FEINE CONTENT: 38mg/12 1 2. Were here to help. Pepst.com or 800.433.2652 12 FL O7 LEGO 32527-20514 PEPSI-COLA PEPSI-COLA SODA SHOP and the Popal Globe are trademarkor of PapalCo. Inc. PLEASE RECYCLE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/7204/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi-Cola Soda Shop Black Cherry Cola",
+    "marca": "Pepsi",
+    "ean": "0012000207259",
+    "ingredientes": [
+      "so odlum 35mg 1% total carbohydrate 399 14% includes 39g added sugars 78% a total sugars 39g protein og not a signincant source of other nutrients *%dv=% daily value cerbonared water sugar cara odidr watural flavor phospho ecid potassium sorbate (preser freshness) potassium citra daffeine red 40 blue 1 beitled under the authori pepsiod inc. purchase chories mer can lefune contet be00/171 heir lere to help 12 fl oz 05 ml) parac's 655 150 yous pepsi-cola pepsi-c2 32530-20514"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/7259/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "MTN Dew Genderbread Swapd",
+    "marca": "Mountain Dew",
+    "ean": "0012000207679",
+    "ingredientes": [
+      "Carbonated Water",
+      "High Fructose Corn Syrup",
+      "Citric Acid",
+      "Natural Flavor",
+      "Gum Arabic",
+      "Sodium Benzoate (Preserves Freshness)",
+      "Caffeine",
+      "Sodium Citrate",
+      "Glycerol Ester of Rosin",
+      "Calcium Disodium EDTA (To Protect Flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/7679/front_en.25.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain dew gingerbread snap’d",
+    "marca": "Mountain Dew",
+    "ean": "0012000207754",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "GUM ARABIC",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/7754/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yerba Mate Passionfruit Energy Drink",
+    "marca": "Yachak Organic",
+    "ean": "0012000207884",
+    "ingredientes": [
+      "brewed yerba mate",
+      "organic yerba mate leaf extract",
+      "organic cane sugar",
+      "citric acid",
+      "organic maqui juice concentrate",
+      "organic natural flavor",
+      "organic caffeine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/7884/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yerba Mate Blackberry Energy Drink",
+    "marca": "Yachak, Yachak Organic",
+    "ean": "0012000207907",
+    "ingredientes": [
+      "BREWED YERBA MATE (WATER",
+      "ORGANIC YERBA MATE (Ilex paraguariensis) LEAF EXTRACTIVE)",
+      "ORGANIC CANE SUGAR",
+      "CITRIC ACID",
+      "ORGANIC BLACKBERRY JUICE CONCENTRATE",
+      "ORGANIC CAFFEINE",
+      "NATURAL FLAVOR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/020/7907/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mtn Dew Uproar",
+    "marca": "Mountain Dew",
+    "ean": "0012000210099",
+    "ingredientes": [
+      "Carbonated Water",
+      "High Fructose Corn Syrup",
+      "Citric Acid",
+      "Natural and Artificial Flavor",
+      "Gum Arabic",
+      "Sodium Benzoate",
+      "Caffeine",
+      "Sodium Citrate",
+      "Glycerol Ester of Rosin",
+      "Calcium Disodium EDTA",
+      "Yellow 6",
+      "Red 40"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/0099/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lipton Green Tea",
+    "marca": "Lipton",
+    "ean": "0012000210563",
+    "ingredientes": [
+      "water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "sodium polyphosphates",
+      "green tea",
+      "ascorbic acid",
+      "potassium sorbate",
+      "purified stevia leaf extract",
+      "zinc gluconate",
+      "sucralose",
+      "citrus pectin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/0563/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "blood orange",
+    "marca": "Lipton",
+    "ean": "0012000210655",
+    "ingredientes": [
+      "water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "sodium polyphosphates (to protect flavor)",
+      "potassium citrate",
+      "green tea facts powder",
+      "potassium sorbate (preserves ice ner (360 ml) freshness)",
+      "gum arabic",
+      "ascorbic acid (to protect flavor)",
+      "acesulfame potassium",
+      "sucralose",
+      "glycerol ester of rosin",
+      "yellow 6",
+      "calcium disodium edta (to protect flavor)",
+      "red 40",
+      "blue 1. manufactured by independent producers for the pepsi/lipton tea partnership",
+      "purchase",
+      "ny 10577. per container me-hi-5cor-10¢ caffeine content: 9mg/12 fl oz"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/0655/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oatmilk Caramel Waffle Cookie Frappuccino",
+    "marca": "Starbucks",
+    "ean": "0012000210808",
+    "ingredientes": [
+      "oatmilk (water",
+      "oat flour)",
+      "brewed starbucks coffee (water",
+      "coffee)",
+      "sugar",
+      "sunflower oil",
+      "cellulose gel",
+      "natural flavors",
+      "carrageenan",
+      "cellulose gum",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/0808/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Brownie with Oat Milk",
+    "marca": "Starbucks",
+    "ean": "0012000210822",
+    "ingredientes": [
+      "oatmilk (water",
+      "oat flour)",
+      "brewed starbucks coffee (water",
+      "coffee)",
+      "sugar",
+      "sunflower oil",
+      "natural flavors cellulose gel",
+      "cocoa",
+      "cellulose gum carrageenan",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/0822/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mtn Dew Spark",
+    "marca": "Mountain Dew",
+    "ean": "0012000211775",
+    "ingredientes": [
+      "= % Daily Value OF-Z6ZEZ-ZZ986 CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "GUM ARABIC",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM & EDTA (TO PROTECT FLAVOR)",
+      "RED 40. CAFFEINE CONTENT: 77mg/16.9 fl oz."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/1775/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain Dew Zero Sugar Spark",
+    "marca": "Mountain Dew",
+    "ean": "0012000211799",
+    "ingredientes": [
+      "Carbonated Water",
+      "Citric Acid",
+      "Aspartame",
+      "Potassium Citrate",
+      "Natural Flavor",
+      "Caffeine",
+      "Sodium Benzoate (Preserves Freshness)",
+      "Gum Arabic",
+      "Acesulfame Potassium",
+      "Sucralose",
+      "Glycerol Ester of Rosin",
+      "Calcium Disodium EDTA (To Protect Flavor)",
+      "Red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/1799/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nitro pepsi",
+    "marca": "Pepsi",
+    "ean": "0012000211980",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR NATURAL FLAVOR SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR)",
+      "PHOSPHORIC ACID CAFFEINE",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS) TARTARIC ACID",
+      "GUM ARABIC",
+      "CITRIC ACID",
+      "SALT",
+      "QUILLAIA EXTRACT",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "NITROGEN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/1980/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nitro Vanilla Draft Cola",
+    "marca": "Pepsi",
+    "ean": "0012000211997",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR)",
+      "PHOSPHORIC ACID",
+      "CAFFEINE",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS)",
+      "TARTARIC ACID",
+      "CITRIC ACID",
+      "GUM ARABIC",
+      "QUILLAIA EXTRACT",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "SALT",
+      "NITROGEN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/1997/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baya Energy Raspberry Lime",
+    "marca": "Starbucks",
+    "ean": "0012000212024",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "WHITE GRAPE JUICE FROM CONCENTRATE",
+      "CANE SUGAR",
+      "LEMON JUICE FROM CONCENTRATE RASPBERRY JUICE FROM CONCENTRATE LIME JUICE FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "ASCORBIC ACID (VITAMIN C)",
+      "COFFEE FRUIT EXTRACT",
+      "GREEN COFFEE BEAN EXTRACT",
+      "LYCOPENE (COLOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/2024/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Starbucks Baya Energy",
+    "marca": "Starbucks",
+    "ean": "0012000212048",
+    "ingredientes": [
+      "carbonated water",
+      "white grape juice concentrate",
+      "cane sugar",
+      "mango juice from concentrate",
+      "natural flavors",
+      "beta carotene(color)",
+      "ascorbic acid (vitamin  c)",
+      "coffee fruit extract",
+      "green coffee bean extract",
+      "citrus acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/2048/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "En-us"
+  },
+  {
+    "nombre": "Green tea pineapple mango immune support",
+    "marca": "Lipton",
+    "ean": "0012000213335",
+    "ingredientes": [
+      "ops per bottle 40 0₁ calories sat fat 0% dv 170mg sodium 7% dv 80 total sugars *vitamin c & zinc help support immune function 12-16.9 fl oz bottles (202.8 fl oz) 12-500 ml bottles (6 l) immun lipton int & hardware 16th total car support green tea pineapple mango flavor with other natural flavors 47 sodium omg 12 12-16.9 fl oz bottles"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/3335/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Subtly Sweet Peach Tea",
+    "marca": "Pure Leaf",
+    "ean": "0012000213519",
+    "ingredientes": [
+      "BREWED BLACK TEA SUGAR NATURAL FAVOR CITRIC ACID",
+      "PURIFIED STEVIA LEAF EXTRACT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/3519/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Subtly sweet peach",
+    "marca": "Lipton",
+    "ean": "0012000213564",
+    "ingredientes": [
+      "BREWED BLACK TEA",
+      "SUGAR",
+      "NATURAL FLAVOR",
+      "CITRIC ACID",
+      "PURIFIED STEVIA LEAF EXTRACT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/3564/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sierra mist, flavored soda, lemon-lime, lemon-lime",
+    "marca": "Sierra mist",
+    "ean": "0012000215094",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium sorbate (preserves freshness)",
+      "purified stevia leaf extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/021/5094/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemon Sorbet",
+    "marca": "bubly",
+    "ean": "0012000221002",
+    "ingredientes": [
+      "carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/1002/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "bubly",
+    "marca": "bubly",
+    "ean": "0012000221019",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "NATURAL FLAVOR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/1019/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Starry Lemon Lime",
+    "marca": "Starry",
+    "ean": "0012000221446",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "POTASSIUM BENZOATE (PRESERVES FRESHNESS)",
+      "POTASSIUM CITRATE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/1446/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Starry Lemon Lime",
+    "marca": "Starry",
+    "ean": "0012000221514",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "GITRIC ACID",
+      "NATURAL FLAVOR",
+      "POTASSIUM BENZOATE (PRESERVES FRESHNESS)",
+      "POTASSIUM CITRATE",
+      "CALCIUM DISODIUM EDTA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/1514/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Starry Lemon Lime Flavored Soda",
+    "marca": "Pepsico",
+    "ean": "0012000221545",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FAVOR",
+      "POTASSIUM BENZOATE",
+      "POTASSIUM CITRATE",
+      "CALCIUM DISODIUM EDTA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/1545/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peeps Pepsi",
+    "marca": "Pepsi",
+    "ean": "0012000221705",
+    "ingredientes": [
+      "Carbonated Water",
+      "High Frustose Corn Syrup",
+      "Natural Flavor",
+      "Phosphoric Acid",
+      "Caffeine",
+      "Citric Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/1705/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "MTN DEW Caribbean splash",
+    "marca": "Mountain Dew",
+    "ean": "0012000223358",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "CITRIC ACID",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GUM smartlabel ARABIC",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR) RED 40",
+      "YELLOW 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/022/3358/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caffeine free soda",
+    "marca": "Sierra Mist",
+    "ean": "0012000227226",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "tartaric acid",
+      "malic acid",
+      "potassium benzoate (preserves freshness)",
+      "potassium citrate",
+      "red 40",
+      "calcium disodium edta (to protect flavor)",
+      "purified stevia leaf extract",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "purple thunder mr dew",
+    "marca": "Mountain Dew",
+    "ean": "0012000230356",
+    "ingredientes": [
+      "carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "sodium benzoate (preserves freshness)",
+      "caffeine",
+      "sodium smartlabel citrate",
+      "gum arabic",
+      "calcium disodium edta (to protect flavor)",
+      "red 40 blue 1. bottled under the authority of persion ing ca we 771-23292"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Bubbly",
+    "ean": "0012000230387",
+    "ingredientes": [
+      "carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rockstar Focus Watermelon Kiwi",
+    "marca": "Rockstar",
+    "ean": "0012000230516",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "NATURAL FLAVOR. CAFFEINE",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS)",
+      "LION'S MANE MUSHROOM EXTRACT",
+      "SUCRALOSE",
+      "ACESULFAME POTASSIUM",
+      "NIACINAMIDE (VITAMIN B3)",
+      "CALCIUM PANTOTHENATE (VITAMIN B5)",
+      "MILK THISTLE EXTRACT",
+      "PYRIDOXINE HYDROCHLORIDE (VITAMIN B6)",
+      "TAURINE",
+      "RED 40",
+      "GUARANA SEED EXTRACT",
+      "CARAMEL COLOR",
+      "YELLOW 6",
+      "CYANOCOBALAMIN (VITAMIN B12). CAFFEINE CONTENT: 200mg/12 fl oz. We're here to help. 800.433.2652. ZERO CALORIES 8369-23149 M"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "GUARANA SEED EXTRACT",
+        "razon": "Contiene GUARANA SEED EXTRACT, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "ROCKSTAR FOCUS MXD BERRY",
+    "marca": "Rockstar",
+    "ean": "0012000230530",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "NATURAL FLAVOR CAFFEINE",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS)",
+      "LION'S MANE MUSHROOM EXTRACT",
+      "SUCRALOSE",
+      "ACESULFAME POTASSIUM",
+      "NIACINAMIDE (VITAMIN B3)",
+      "CALCIUM PANTOTHENATE (VITAMIN B5)",
+      "MILK THISTLE EXTRACT",
+      "PYRIDOXINE HYDROCHLORIDE (VITAMIN B6)",
+      "TAURINE",
+      "RED 40",
+      "GUARANA SEED EXTRACT",
+      "CARAMEL COLOR",
+      "BLUE 1",
+      "CYANOCOBALAMIN (VITAMIN B12). CAFFEINE CONTENT: 200mg/12 fl oz. We're here to help. 800.433.2652. ZERO CALORIES 366-23149 M"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "GUARANA SEED EXTRACT",
+        "razon": "Contiene GUARANA SEED EXTRACT, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/023/0530/front_en.6.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bubly Burst Peach Mango",
+    "marca": "Bubly",
+    "ean": "0012000230615",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "PEACH JUICE CONCENTRATE CITRIC ACID",
+      "NATURAL FLAVOR",
+      "MALIC ACID POTASSIUM SORBATE (PRESERVES FRESHNESS) POTASSIUM BENZOATE (PRESERVES FRESHNESS) ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "ASCORBIC ACID (TO PROTECT COLOR)",
+      "ZINC GLUCONATE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "VITAMIN E ACETATE",
+      "BETA CAROTENE (COLOR). smartlabel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/023/0615/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bubly Burst Watermelon Lime",
+    "marca": "Bubly, PepsiCo Inc.",
+    "ean": "0012000230639",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "CLARIFIED LIME JUICE CONCENTRATE",
+      "NATURAL FLAVOR",
+      "CITRIC ACID",
+      "POTASSIUM BENZOATE (PRESERVES FRESHNESS)",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "ZINC GLUCONATE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "VITAMIN E ACETATE",
+      "CARROT JUICE CONCENTRATE (COLOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/023/0639/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Triple Berry",
+    "marca": "Bubly Burst",
+    "ean": "0012000230653",
+    "ingredientes": [
+      "carbonated water",
+      "blueberry juice concentrate",
+      "citric acid",
+      "natural flavor",
+      "malic acid",
+      "potassium benzoate",
+      "black carrot juice concentrate",
+      "acesulfame potassium",
+      "sucralose",
+      "zinc gluconate",
+      "calcium disodium EDTA",
+      "vitamin E acetate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/023/0653/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bubly burst sparkling beverage",
+    "marca": "Bubly",
+    "ean": "0012000230677",
+    "ingredientes": [
+      "trans fat",
+      "cholesterol",
+      "dietary fiber",
+      "vitamin d",
+      "calcium",
+      "and iron. me-vt ma hisc carbonated water",
+      "peach juice concentrate natural flavor",
+      "citric acid",
+      "malic acid",
+      "potassium sorbate (preserves freshness) potassium benzoate (preserves freshness)",
+      "sucralose",
+      "ascorbic acid (to protect color)",
+      "zinc gluconate calcium disodium edta (to protect flavor vitamin e acetate",
+      "beta carotene (color) smartlabel® bottled under the authority of pepsico inc.",
+      "purchase",
+      "ny 10577 help. call"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freedom Fusion",
+    "marca": "Mtn Dew",
+    "ean": "0012000231346",
+    "ingredientes": [
+      "carbonated water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "citric acid",
+      "gum arabic",
+      "sodium benzoate",
+      "caffeine",
+      "sodium citrate",
+      "glycerol ester of rosin",
+      "calcium disodium EDTA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/023/1346/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Game Fuel Citrus Blackberry",
+    "marca": "Mountain Dew",
+    "ean": "0012000240218",
+    "ingredientes": [
+      "carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "caffeine",
+      "sodium benzoate",
+      "sodium citrate",
+      "gum arabic",
+      "calcium disodium EDTA",
+      "red 40",
+      "blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/024/0218/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi Zero Sugar Wild Cherry & Cream",
+    "marca": "Pepsi",
+    "ean": "0012000240560",
+    "ingredientes": [
+      "trans tal",
+      "vitamin d",
+      "calcium",
+      "iron",
+      "and po phosphoric acid",
+      "aspartame",
+      "caffeine",
+      "potassium sorbate (preserves carbonated water",
+      "natural and artificial flavor caramel color freshness)",
+      "potassium citrate",
+      "acesulfame potassium",
+      "citric acid. phenylketonurics: contains phenylalanine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zero Sugar Wild Cherry & Cream",
+    "marca": "Pepsi",
+    "ean": "0012000240584",
+    "ingredientes": [
+      "carbonated water",
+      "natural and artificial flavor",
+      "caramel color",
+      "phosphoric acid",
+      "aspartame",
+      "caffeine",
+      "potassium sorbate",
+      "potassium citrate",
+      "acesulfame potassium",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/024/0584/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild Cherry & Cream",
+    "marca": "Pepsi",
+    "ean": "0012000240829",
+    "ingredientes": [
+      "carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "caramel color",
+      "phosphoric acid",
+      "caffeine",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/024/0829/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Real Brewed Extra Sweet Tea",
+    "marca": "Pure Leaf",
+    "ean": "0012000286179",
+    "ingredientes": [
+      "BREWED TEA",
+      "SUGAR",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6179/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pure Leaf Lemon Iced Tea",
+    "marca": "Pure Leaf",
+    "ean": "0012000286186",
+    "ingredientes": [
+      "Brewed Tea",
+      "Sugar",
+      "Citric Acid",
+      "Natural Flavor",
+      "Pectin. CAFFEINE CONTENT 25MG/8 FL OZ"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6186/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sweet Tea",
+    "marca": "Lipton, Pepsi, Pure Leaf, Unilever",
+    "ean": "0012000286193",
+    "ingredientes": [
+      "Brewed black tea",
+      "sugar",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6193/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Unsweetened Black Tea",
+    "marca": "Pure Leaf",
+    "ean": "0012000286209",
+    "ingredientes": [
+      "Brewed Tea",
+      "Citric Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6209/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Real brewed tea peach",
+    "marca": "Lipton, Pure Leaf",
+    "ean": "0012000286216",
+    "ingredientes": [
+      "Brewed black tea (rainforest alliance certified)",
+      "sugar",
+      "citric acid",
+      "natural flavor",
+      "citrus pectin",
+      "caffeine content: 69mg/18.5 fl oz"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6216/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Leaf diet lemon real brewed tea",
+    "marca": "Pure Leaf, Lipton",
+    "ean": "0012000286230",
+    "ingredientes": [
+      "brewed black tea",
+      "citric acid",
+      "potassium citrate",
+      "natural flavor",
+      "malic acid",
+      "sucralose",
+      "acesulfame potassium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6230/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Peach",
+    "marca": "Pure Leaf, Unilever, Lipton",
+    "ean": "0012000286247",
+    "ingredientes": [
+      "brewed black tea",
+      "citric acid",
+      "natural flavor",
+      "malic acid",
+      "citrus pectin",
+      "sucralose",
+      "acesulfame potassium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/028/6247/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Green Coffee Energy Beverage",
+    "marca": "Starbucks",
+    "ean": "0012000374029",
+    "ingredientes": [
+      "Carbonated water",
+      "fruit juices from concentrate (white grape",
+      "apple",
+      "pomegranate",
+      "red raspberry)",
+      "sugar",
+      "erythritol",
+      "natural flavors",
+      "vegetable juice (color)",
+      "green coffee bean extract",
+      "citric acid",
+      "ascorbic acid (vitamin c)",
+      "rebaudioside-a (stevia leaf extract)",
+      "panax ginseng root powder extract",
+      "niacinamide (vitamin b3)",
+      "calcium d-pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate",
+        "razon": "Contiene pomegranate, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/037/4029/front_en.4.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brisk Pink Lemonade",
+    "marca": "Brisk juice drink, Lipton",
+    "ean": "0012000384196",
+    "ingredientes": [
+      "CONTAINS 1% JUICE Nutrition Facts About 4 servings per container Serving size 8 fl oz (240 mL) Amount per serving Calories 45 % DV* Total Fat 0g Sodium 65mg Total Carbohydrate 11g 4% Total Sugars 11g Includes 11g Added Sugars 22% Protein Og 0% 3% 504U-38A MEHRIR DUB LIPTONad BRIK ae Unibr BRANDS under koe Not a significant source of other nutrients. *% DV = % Daily Value Lipt WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "LEMON JUICE CONCENTRATE",
+      "SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR)",
+      "POTASSIUM BENZOATE AND POTASSIUM SORBATE (PRESERVE FRESHNESS)",
+      "GUM ARABIC",
+      "SALT",
+      "GLYCEROL ESTER OF ROSIN",
+      "NATURAL FLAVOR",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "RED 40. MANUFACTURED BY INDEPENDENT PRODUCERS FOR THE PEPSI/LIPTON TEA PARTNERSHIP",
+      "PURCHASE",
+      "NY 10577. OLIPTON",
+      "A DIVISION OF UNILEVER. We're here to help. DrinkBrisk.com or 800.657.3001 PLEASE RECYCLE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/038/4196/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Iced tea & lemonade",
+    "marca": "Lipton,  Unilever",
+    "ean": "0012000387807",
+    "ingredientes": [
+      "Water",
+      "High Fructose Corn Syrup",
+      "Citric Acid",
+      "Lemon Juice Concentrate",
+      "Sodium Hexametaphosphate (to Protect Flavor)",
+      "Tea",
+      "Natural Flavor",
+      "Phosphoric Acid",
+      "Potassium Sorbate (Preserves Freshness)",
+      "Acesulfame Potassium",
+      "Gum Arabic",
+      "Glycerol Ester of Rosin",
+      "Calcium Disodium EDTA (to Protect Flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/038/7807/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Half & Half Iced Tea and Lemonade",
+    "marca": "Lipton",
+    "ean": "0012000387869",
+    "ingredientes": [
+      "WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "CLARIFIED LEMON J CONCENTRATE",
+      "SODIUM POLYPHOSPHATES (TO PROTEST FLAVOR)",
+      "BLACK NATURAL FLAVOR",
+      "PHOSPHORIC ACID",
+      "POTASSIUM SORBATE (PRESERVES FRESHNESS)",
+      "ACESULFAME POTASSIUM",
+      "GUM ARABIC",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/038/7869/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi",
+    "marca": "PepsiCo Inc.",
+    "ean": "0012000394379",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "SUGAR. PHOSPHORIC ACID. CAFFEINE. CITRIC ACID",
+      "NATURAL FLAVOR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/039/4379/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi cola",
+    "marca": "Pepsi",
+    "ean": "0012000504051",
+    "ingredientes": [
+      "other nütrients",
+      "*percent daily values are based on a 2",
+      "carbonateo water",
+      "high fructose corn syrup",
+      "caramel color",
+      "sugar",
+      "phosphoric acio",
+      "caffeine",
+      "citric acio",
+      "natural flavor",
+      "caffeine content: 53mg/16"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/050/4051/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Mtn Dew",
+    "ean": "0012000504082",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CONCENTRATED ORANGE JUICE",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "ERYTHORBIC ACID (PRESERVES FRESHNESS)",
+      "GUM ARABIC",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVO"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/050/4082/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Miranda",
+    "marca": "Mirinda",
+    "ean": "0012000520365",
+    "ingredientes": [
+      "MRINDA STRAWBERRY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/052/0365/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Algeria"
+  },
+  {
+    "nombre": "Pitch black soda",
+    "marca": "Pepsico",
+    "ean": "0012000547409",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "sodium benzoate (preserves freshness)",
+      "caffeine",
+      "gum arabic",
+      "sodium citrate",
+      "red 40",
+      "calcium disodium edta (to protect flavor)",
+      "sucrose acetate isobutyrate",
+      "blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/054/7409/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brisk Fruit Punch",
+    "marca": "Brisk",
+    "ean": "0012000567490",
+    "ingredientes": [
+      "water",
+      "high fructose corn syrup",
+      "citric acid",
+      "pear juice concentrate",
+      "natural flavor",
+      "phosphoric acid",
+      "potassium citrate",
+      "sodium polyphosphates (to protect flavor)",
+      "potassium benzoate (preserves freshness)",
+      "gum arabic",
+      "potassium sorbate (preserves freshness)",
+      "acesulfame potassium",
+      "red 40",
+      "xanthan gum",
+      "sucralose",
+      "glycerol ester of rosin",
+      "calcium disodium edta (to protect flavor)",
+      "blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/056/7490/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Iced Tea & Lemonade, Half & Half Flavor With Other Natural Flavors",
+    "marca": "Lipton,  Unilever",
+    "ean": "0012000616204",
+    "ingredientes": [
+      "Water",
+      "high fructose corn syrup",
+      "citric acid",
+      "lemon juice concentrate",
+      "sodium hexametaphosphate (to protect flavor)",
+      "black tea",
+      "natural flavor",
+      "phosphoric acid",
+      "potassium sorbate (preserves freshness)",
+      "acesulfame potassium",
+      "gum arabic",
+      "glycerol ester of r"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lipton Half and Half Iced Tea Lemonade 20 Fluid Ounce Plastic Bottle",
+    "marca": "Lipton,  Unilever",
+    "ean": "0012000629907",
+    "ingredientes": [
+      "Water",
+      "High Fructose Corn Syrup",
+      "Citric Acid",
+      "Lemon Juice Concentrate",
+      "Sodium Hexametaphosphate (to Protect Flavor)",
+      "Tea",
+      "Natural Flavor",
+      "Phosphoric Acid",
+      "Potassium Sorbate (Preserves Freshness)",
+      "Acesulfame Potassium",
+      "Gum Arabic",
+      "Glycerol Ester of Rosin",
+      "Calcium Disodium EDTA (to Protect Flavor). CAFFEINE CONTENT: 31mg/20 fl oz."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caffeine Free Lemon-Lime Soda",
+    "marca": "Sierra Mist",
+    "ean": "0012000692574",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi Cola",
+    "marca": "Pepsi",
+    "ean": "0012000800030",
+    "ingredientes": [
+      "carbonated water",
+      "sugar",
+      "color (caramel E150d)",
+      "acidity regulator (phosphoric acid)",
+      "caffeine",
+      "emulsifier (gum arabic)",
+      "natural cola flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/0030/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mountain dew",
+    "marca": "Mountain Dew",
+    "ean": "0012000800306",
+    "ingredientes": [
+      "٥٠ AED2.50 حقائق تغذوية"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/0306/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pepsi Regular Mini Drink",
+    "marca": "Pepsi",
+    "ean": "0012000801655",
+    "ingredientes": [
+      "carbonated water",
+      "sugar",
+      "citric acid",
+      "sodium citrate",
+      "flavor",
+      "aspartame",
+      "acesulfame potassium",
+      "caffeine",
+      "gum arabic",
+      "sodium benzoate",
+      "color (caramel E150d)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/1655/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Kuwait"
+  },
+  {
+    "nombre": "Lemon & Lime",
+    "marca": "7UP",
+    "ean": "0012000804083",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "SUGAR",
+      "NATURAL CITRUS FLAVOUR",
+      "ACIDULANTS (CITRIC ACID",
+      "MALIC ACID)",
+      "ACIDITY REGULATOR (SODIUM CITRATE)",
+      "PRESERVATIVE (SODIUM BENZOATE)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/4083/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "7up NRB",
+    "marca": "7 up",
+    "ean": "0012000804144",
+    "ingredientes": [
+      "SUGAR",
+      "ACIDULANTS (CITRIC ACID",
+      "MALIC ACID)",
+      "ACIDITY REGULATOR (SODIUM ITS CITRATE)",
+      "PRESERVATIVE (SODIUM BENZOATE)",
+      "NATURAL CITRUS FLAVOUR",
+      "SWEETENERS (STEVIOL GLYCOSIDE 111 mg/L",
+      "ACESULFAME POTASSIUM 52 mg/L",
+      "SUCRALOSE 19 mg/L). SEE PACKAGE FOR EXPIRY DATE. FILLED BY DUBAI (PJ.S.C.). PO. BOX 420",
+      "REFRESHMENT NUTRITIONAL INFORMAATION % RI UNDER NTHORITY OF SEUEL PENERGY (K cal)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/4144/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United Arab Emirates"
+  },
+  {
+    "nombre": "Mirinda citrus",
+    "marca": "miranda",
+    "ean": "0012000805240",
+    "ingredientes": [
+      "الطبيعية، مواد حافظة کافيين، مادة منظمة ل لحموضة )سيترات الصوديوم(، مستحلب )صمغ عربي(، لون )تارترازین(، مادة مضادة ل لتأكسد )حامض الأسكوربيك(. أنظر إلى تاريخ الإنتهاء على العبوة.تعبئة مصانع أحمدي - البحرين، پترخيص من بیبسيكو إنك، بورشاس، نيويورك. يحفظ في مکان بارد. •هذه المواد قد يكون لها تأثير سلبي على النشاط والتركيز لدى الأطفال. CARBONATED BEVERAGE CONTAINS: CARBONATED WATER",
+      "SUGAR",
+      "CONCENTRATED ORANGE JUICE",
+      "ACIDULANT (CITRIC ACID)",
+      "HATURAL CITRUS FLAVOUR",
+      "PRESERVATIVES (SODIUM BEHZOATE",
+      "POTASSIUM SORBATE)",
+      "CAFFEINE",
+      "ACIDITY REGULATOR (SODIUM CITRATE)",
+      "EMULSIFIER (GUM ARABIC)",
+      "COLOUR (TARTRAZINE**)",
+      "ANTIOXIDANT (ASCORBIC ACID). SEE PACKAGE FOR EXPIRY DATE. FILLED BY AHMADI INDUSTRIES BAHRAIN",
+      "UNDER FROM PEPSICO PURCHASE",
+      "M.Y. STORE IN A COOL PLACE. **THIS MATERIAL MAY BE HAVING EFFECT ON ACTIVITY AND SATURATED FAT (g) 0 0% %. CONCENTRATION CHILDREN",
+      "APPOINTMENT INC.",
+      "NUTRITIONAL INFORMATION PER 100 ml ENERGY (Kcal) المعلومات الغذائية % RI* 47 2% 7Y EV (5ls glis) aall 00% %. الطاقة )كيلو كالوري( 47 HEGATIVE FAT (g) دهون مشبعة )غ( IN CARBOHYDRATES (g)12 5% %0IY (è)ls FIBER (g) DSUGAR (g) PROTEIN (o) SODIUM (mg) CAFFEINE (mg) 00%% • 12 14% 7 E1Y 00% 14 0% البروتين )غ( 14 P40413 0ml"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/5240/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Bahrain"
+  },
+  {
+    "nombre": "Ting grapefruit soda",
+    "marca": "Pepsi-Cola Jamaica Bottling Company",
+    "ean": "0012000808593",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "SUGAR",
+      "GRAPEFRUIT JUICE (6%)",
+      "NATURAL GRAPEFRUIT FLAVOUR",
+      "Citric Acid AND SODIUM CIRATE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/8593/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Diet soda",
+    "marca": "Mountain Dew",
+    "ean": "0012000809972",
+    "ingredientes": [
+      "carbonated water",
+      "concentrated orange juice",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate",
+      "aspartame",
+      "caffeine",
+      "sodium citrate",
+      "acesulfame potassium",
+      "sucralose",
+      "gum arabic",
+      "sodium benzoate",
+      "calcium disodium EDTA",
+      "yellow 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/9972/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain dew code red soda",
+    "marca": "Pepsi-Cola, Mountain Dew",
+    "ean": "0012000809989",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CONCENTRATED ORANGE-JUICE",
+      "CITRIC ACID",
+      "SODIUM POLYPHOSPHATES (TO PROTECT FLAVOR)",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "NATURAL FLAVOR",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GUM ARABIC",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "RED 40",
+      "Yellow 5",
+      "Blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/080/9989/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepsi Wild Cherry",
+    "marca": "Pepsi",
+    "ean": "0012000811197",
+    "ingredientes": [
+      "caffeine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/081/1197/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Root Beer",
+    "marca": "Mug",
+    "ean": "0012000811425",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "CALCIUM DISODIUM EDTA (TO PROTEGT FLAVOR)",
+      "QUILLAIA EXTRACT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/081/1425/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla Frappuccino",
+    "marca": "Starbucks",
+    "ean": "0012000813313",
+    "ingredientes": [
+      "BREWED STARBUCKS COFFEE (WATER",
+      "COFFEE)",
+      "REDUCED-FAT MILK",
+      "SUGAR",
+      "MALTODEXTRIN",
+      "PECTIN",
+      "NATURAL FLAVOR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/081/3313/front_en.36.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Mtn Dew Soda 16 Fluid Ounce Plastic Bottle",
+    "marca": "Mountain Dew",
+    "ean": "0012000813344",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CONCENTRATED ORANGE JUICE",
+      "CITRIC ACID",
+      "NATURAL FLAVOR",
+      "SODIUM BENZOATE",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "GUM ARABIC",
+      "ERYTHORBIC ACID",
+      "CALCIUM DISODIUM EDTA",
+      "YELLOW 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/081/3344/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Mtn Dew",
+    "ean": "0012000910296",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CONCENTRATED ORANGE JUICE",
+      "CITRIC ACID. NATURAL FLAVOR",
+      "SODIUM BENZOATE (PRESERVES FRESHNESS)",
+      "CAFFEINE",
+      "SODIUM CITRATE",
+      "ERYTHORBIC ACID (PRESERVES FRESHNESS)",
+      "GUM ARABIC",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVO"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/091/0296/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chef d'oeuf™avec fromage sur muffin anglais",
+    "marca": "A&W",
+    "ean": "0012009012168",
+    "ingredientes": [
+      "Œuf : moyen frais",
+      "catégorie Canada A. / Fromage cheddar fondu : fromage (lait",
+      "ingrédients de lait modifié",
+      "culture bactérienne",
+      "sel",
+      "présure ou enzyme microbienne",
+      "chlorure de calcium",
+      "colorant",
+      "lipase",
+      "acide sorbique)",
+      "ingrédients de lait modifié",
+      "eau",
+      "citrate de sodium ou phosphate de sodium",
+      "glucose",
+      "acide acétique",
+      "sel",
+      "acide sorbique",
+      "lécithine de soya",
+      "carboxyméthylcellulose",
+      "colorant. / Galette de saucisse : Porc",
+      "eau",
+      "substances laitières modifies",
+      "sel",
+      "extrait sec de sirop demaïs",
+      "dextrose",
+      "épice. Contient: lait. /Muffin anglais: farine de blé enrichie",
+      "eau",
+      "levure",
+      "semoule de maïs",
+      "sel",
+      "huile végétale (canola ou soya)",
+      "glucose-fructose/sucre",
+      "phosphate monocalcique",
+      "propionate de calcium",
+      "sulfate de calcium",
+      "chlorure d'ammonium",
+      "gluten de blé",
+      "esters tartriques des mono-et diglycérides acétylés. / Margarine : huile de canola",
+      "eau",
+      "huiles de palme et de palmiste modifiées",
+      "sel",
+      "monoglycérides végétales",
+      "lécithine de soja",
+      "benzoate de sodium",
+      "acide citrique",
+      "arôme naturel",
+      "colorant",
+      "palmitate de vitamine A",
+      "vitamine D3. / Huile pour le gril : huile de canola",
+      "lécithine de soya",
+      "arôme naturel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/200/901/2168/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "100% Juice, Orange",
+    "marca": "Florida's Natural",
+    "ean": "00120188",
+    "ingredientes": [
+      "Pasteurized orange juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wholegrain & Edemame",
+    "marca": "Marks & Spencer",
+    "ean": "00120197",
+    "ingredientes": [
+      "Cooked Spelt (42%) (Water Spelt (Wheat contains Gluten)) Braised Black Lentils (23%) (Water Black Lentils Extra Virgin Olive Oil - Vegetable Stock (Water Leeks Onions - Carrots Parsley Tomato Purée White Peppercorns - Bay Leaves) Lemon Juice Garlic Purée Salt Ground Black Ⓡ Pepper) Cooked Couscous (21%) (Water Durum Wheat Semolina (contains Gluten)) Edamame Soybeans (8%). Vegetable Oil (Sunflower/Rapeseed) Salt Ground Black Pepper Turmeric"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0197/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "All butter Shortbread Cookies with Apricot or Raspberry Filling",
+    "marca": "M&S",
+    "ean": "00120241",
+    "ingredientes": [
+      "Farine de blé contient Gluten (avec Farine de blé",
+      "Carbonate de calcium",
+      "Fer",
+      "Niacine",
+      "Thiamine) Beurre (Lait) • Sucre • Fécule de maïs Farine de riz • Sel • Poudre à lever : Bicarbonate de soude."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0241/front_fr.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mushroom Rice",
+    "marca": "Sainsbury's",
+    "ean": "00120364",
+    "ingredientes": [
+      "Cooked Parboiled Long Grain Rice (85%)",
+      "Mushroom (10%)",
+      "Vegetable Oil (Sunflower Oil",
+      "Rapeseed Oil)",
+      "Mushroom Flavouring (1.5%)",
+      "Onion Powder",
+      "Yeast Powder",
+      "Garlic Powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pure Leaf unsweetened green tea",
+    "marca": "Pure Leaf",
+    "ean": "0012040003095",
+    "ingredientes": [
+      "vitamin D",
+      "calcium",
+      "iron",
+      "and potassium *% DV = % Daily Value BREWED GREEN TEA",
+      "ASCORBIC ACID (VITAMIN C)",
+      "NATURAL FLAVOR CAFFEINE CONTENT: smartlabel 44mp/18.5 fl oz *RAINFOREST ALLIANCE CERTIFIED FIND OUT MORE AT RA ORC 118"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/204/000/3095/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Spice Wilderness",
+    "marca": "Deodorant￼",
+    "ean": "0012044029992",
+    "ingredientes": [
+      "get medical help or contact a poison control center right away. directions apply to underarms only inactive ingredients cyclopentasiloxane",
+      "stearyl alcohol",
+      "mineral oil",
+      "ppg-14 butyl ether",
+      "hydrogenated castor oil",
+      "petrolatum",
+      "fragrance talc",
+      "cyclodextrin",
+      "ozokerite",
+      "c20-40 pareth-10",
+      "lavandula angustifolia (lavender) oil",
+      "charcoal powder",
+      "behenyl alcohol 2. 1264tnu2 exp 08."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old spice",
+    "marca": "Old spice",
+    "ean": "0012044037539",
+    "ingredientes": [
+      "Dipropylene Glycol",
+      "Water",
+      "Propylene Glycol",
+      "Sodium Stearate",
+      "Fragrance",
+      "Poloxamine 1307",
+      "PPG-3 Myristyl Ether",
+      "Tetrasodium EDTA",
+      "Blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/204/403/7539/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "￼ Deodorant",
+    "marca": "Old spice",
+    "ean": "0012044038918",
+    "ingredientes": [
+      "dipropylene glycol",
+      "water propylene glycol",
+      "sodium stearate poloxamine 1307",
+      "fragrance",
+      "ppg-3 myristyl ether",
+      "tetrasodium edta",
+      "violet 2. green 6 90615044 2044 03891 questions? 1-800-677-7582 www.oldspice.com distr. by procter & gamble cincinnati",
+      "oh 45202 0292tnw3 ots ch"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/204/403/8918/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "golden wonder - ketchup",
+    "marca": "golden wonder",
+    "ean": "0012051109304",
+    "ingredientes": [
+      "potatoes",
+      "sunflower oil",
+      "tomato ketchup seasoning [sugar",
+      "salt",
+      "flavourings (wheat)",
+      "flavour enhancer: monosodium glutamate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/205/110/9304/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Brown Rice",
+    "marca": "By Sainsbury's",
+    "ean": "00120562",
+    "ingredientes": [
+      "Cooked Parboiled Brown Long Grain Rice (98%). Sunflower Oil",
+      "Salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0562/front_en.24.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Balance within probiotic",
+    "marca": "Nutrilite",
+    "ean": "00120571",
+    "ingredientes": [
+      "Maltodextrin",
+      "Silicon Dioxide. No Artificial Colors",
+      "Flavors",
+      "or Preservatives Soy Free",
+      "Dairy Free ¹At Expiration Date under recommended storage conditions. ** NCFM",
+      "La-14°",
+      "BL-04*",
+      "Lpc-37° are registered trademarks of International Flavors and Fragrances. HN019TM is a trademark of the Fonterra Group of companies used under license. 86 mg % Daily Value GắF GLUTEN FREE &lt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0571/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Potato, Parsnip and Beetroot Hand Cooked Vegetable Crisps",
+    "marca": "Marks & Spencer, Marks and Spencer",
+    "ean": "00120623",
+    "ingredientes": [
+      "Mélange de légumes en proportion variable (66%) (Panais - Patates douces - Betterave) - Hui|e de tournesol - Sel de mer."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0623/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Papas, White Covered Opera Cream",
+    "marca": "Chris A. Papas & Son Co.  Inc.",
+    "ean": "0012065002202",
+    "ingredientes": [
+      "Sugar",
+      "white coating (sugar",
+      "palm kernel oil",
+      "non-fat milk",
+      "sweet dairy whey - milk",
+      "lactose - milk",
+      "milk fat",
+      "buttermilk",
+      "sodium caseinate - milk",
+      "soy lecithin - on emulsifier",
+      "hydrogenated palm oil",
+      "artificial flavors)",
+      "heavy cream",
+      "whole milk",
+      "water",
+      "salt",
+      "invertase"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Vegetable Rice",
+    "marca": "Sainsbury’s",
+    "ean": "00120678",
+    "ingredientes": [
+      "cooked parboiled long grain rice (84%)",
+      "carrot (4%)",
+      "sweetcorn (3%)",
+      "red pepper (3%)",
+      "peas (2%)",
+      "vegetable oil (sunflower oil",
+      "rapeseed oil)",
+      "natural flavouring",
+      "garlic powder",
+      "colour:curcumin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0678/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Spicy Mexican style rice",
+    "marca": "Sainsbury's",
+    "ean": "00120715",
+    "ingredientes": [
+      "spices maltodextrin salt",
+      "sunflower oil",
+      "flavouring)",
+      "yeast extract powder",
+      "sugar",
+      "turmeric extract",
+      "onion powder",
+      "chilli purée (02 cooked long grain rice (68%)",
+      "tomato juice",
+      "sweetcorn",
+      "adzuki beans",
+      "tomato concentrate",
+      "red pepper",
+      "sunflower oil",
+      "flavourings and chill",
+      "white wine vinegar",
+      "rapeseed oil",
+      "salt)",
+      "garlic powder",
+      "coriander leaf",
+      "jalapeño pepper",
+      "salt",
+      "colour: paprika extract coriander extract pouch-plastic not currently recycled we're sure you'll love this product. if you don't",
+      "simply return for a full refund. or call our careline 0800 636262 best before:"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0715/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Carvery Ham Slices",
+    "marca": "Sainsbury's",
+    "ean": "00120807",
+    "ingredientes": [
+      "Pork",
+      "Salt",
+      "Sugar",
+      "Stabilisers: Triphosphates",
+      "Antioxidant: Sodium Ascorbate",
+      "Preservative: Sodium Nitrite. Made using 100g of pork per 100g of finished product."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0807/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British Ham Slices",
+    "marca": "Sainsburys, Sainsbury's, By sainsbury's",
+    "ean": "00120814",
+    "ingredientes": [
+      "Pork",
+      "Salt",
+      "Breadcrumbs (Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Yeast",
+      "Salt",
+      "Colours: Paprika Extract",
+      "Curcumin))",
+      "Sugar",
+      "Stabilisers: Triphosphates",
+      "Pork Gelatine",
+      "Antioxidant: Sodium Ascorbate",
+      "Preservative: Sodium Nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0814/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Italian tomato puree",
+    "marca": "Sainsbury's",
+    "ean": "00120883",
+    "ingredientes": [
+      "Tomatoes",
+      "Acidity Regulator: Citric Acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0883/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Basmati & Wild Rice",
+    "marca": "By Sainsbury's",
+    "ean": "00120913",
+    "ingredientes": [
+      "Parboiled Basmati Rice (85%)",
+      "Wild Rice (15%). Don't Recycle We're sure you'll love this product. If you don't",
+      "simply return for a full refund. Or",
+      "call our careline 0800 636 52 Your statutory rights are not ffected. Packed in the Netherlands for Sainsbury's Supermarkets Ltd",
+      "London",
+      "EC 2HT and Sainsbury's Supermarkets Ltd Upper Galwally 3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0913/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Brown rice",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "00120920",
+    "ingredientes": [
+      "long grain brown rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0920/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Thai jasmine rice",
+    "marca": "By Sainsbury's",
+    "ean": "00120944",
+    "ingredientes": [
+      "Thai-Jasmine-rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0944/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Thai sticky rice",
+    "marca": "Sainsbury's",
+    "ean": "00120999",
+    "ingredientes": [
+      "Long Grain Rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/0999/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Thai jasmine rice",
+    "marca": "Sainsburys",
+    "ean": "00121002",
+    "ingredientes": [
+      "Thai Jasmine Rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1002/front_en.34.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "British ham",
+    "marca": "Sainsbury's",
+    "ean": "00121019",
+    "ingredientes": [
+      "Pork",
+      "Salt",
+      "Sugar",
+      "Stabilisers: Triphosphates",
+      "Antioxidant: Sodium Ascorbate",
+      "Preservative: Sodium Nitrite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1019/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Honey roast",
+    "marca": "Sainsbury's",
+    "ean": "00121033",
+    "ingredientes": [
+      "Pork (96%)",
+      "Honey (4%)",
+      "Salt",
+      "Sugar",
+      "Stabilisers: Triphosphates",
+      "Antioxidant: Sodium Ascorbate",
+      "Preservative: Sodium Nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1033/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Engelein Ruth",
+    "marca": "DETOQ",
+    "ean": "0012111042818",
+    "ingredientes": [
+      "Grüner Tee* (44%)",
+      "Rotbuschtee* (20%)",
+      "Brennnesselblätter*",
+      "Zitronenschalen*",
+      "Gojibeeren*(5%)",
+      "Sanddornbeerenschalen*",
+      "Rosmarin*",
+      "grüne Mate* (3%)",
+      "Zitronenmyrte*",
+      "Hibiskusblüten* *"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/211/104/2818/front_de.10.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Tomatoes puree",
+    "marca": "By Sainsbury's",
+    "ean": "00121125",
+    "ingredientes": [
+      "Tomatoes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1125/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "100% Pure Organic Raw & Unfiltered Honey",
+    "marca": "Nature Nate's",
+    "ean": "0012112610169",
+    "ingredientes": [
+      "Organic Honey"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/211/261/0169/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% Pure Raw & Unfiltered Honey",
+    "marca": "Nature Nate's",
+    "ean": "0012112830321",
+    "ingredientes": [
+      "Honey"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/211/283/0321/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream of chicken and mushrooms Soup",
+    "marca": "By sainsbury's",
+    "ean": "00121200",
+    "ingredientes": [
+      "Water",
+      "Maize Starch",
+      "Mushroom (4.0%)",
+      "Rapeseed Oil",
+      "Chicken (2.5%)",
+      "Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Whey Protein Concentrate (Cows' Milk)",
+      "Double Cream (Cows' Milk) (0.5%)",
+      "Potato Starch",
+      "Chicken Fat",
+      "Salt",
+      "Yeast Extract",
+      "Flavouring (Barley)",
+      "Mushroom Extract",
+      "Onion Powder",
+      "Chicken Stock Powder (Chicken Extract",
+      "Chicken",
+      "Chicken Fat",
+      "Yeast Extract",
+      "Sugar",
+      "Salt",
+      "Lemon Juice",
+      "Glucose Syrup",
+      "Sage)",
+      "Roasted Barley Malt Extract",
+      "Colour:Paprika Extract",
+      "Carotenes",
+      "Modified Maize Starch",
+      "Sugar. 7642753 P0175 11.22 ! Allergy advice: For allergens including cereals containing gluten",
+      "see ingredients in bold. Also",
+      "not suitable for customers with an allergy to egg due to manufacturing methods Safety: Although every care has been taken to remove all bones",
+      "some may remain. 90g 50g Low saturated fat: Enjoy as part of a varied and balanced diet and a healthy lifestyle."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1200/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Tomato, red pepper &lentil soup",
+    "marca": "By sainsbury's",
+    "ean": "00121279",
+    "ingredientes": [
+      "Tomato (33%)",
+      "Water",
+      "Lentils (14%)",
+      "Carrots",
+      "Red Pepper (7%)",
+      "Onion",
+      "Modified Maize Starch",
+      "Sugar",
+      "Garlic Purée",
+      "Salt",
+      "Basil",
+      "Black Pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1279/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Diet Mountain Dew",
+    "marca": "Pepsi",
+    "ean": "00121340",
+    "ingredientes": [
+      "carbonated water",
+      "concentrated orange juice",
+      "citric acid",
+      "natural flavor",
+      "citrus pectin",
+      "potassium benzoate",
+      "aspartame",
+      "potassium citrate",
+      "caffeine",
+      "sodium citrate",
+      "acesulfame potassium sucralose",
+      "gum arabic",
+      "sodium benzoate",
+      "calcium disodium EDTA",
+      "brominated vegetable oil",
+      "yellow 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Real Jewish Rye Bread With Caraway Seeds",
+    "marca": "Pechter's",
+    "ean": "0012135435176",
+    "ingredientes": [
+      "WHEAT FLOUR",
+      "WATER",
+      "RYE FLOUR",
+      "CORN STARCH",
+      "ACETIC ACID",
+      "LACTIC ACID",
+      "SALT",
+      "SOYBEAN OIL",
+      "CARAWAY SEEDS",
+      "GROUND CARAWAY",
+      "YEAST",
+      "AND 2% OR LESS OF THE FOLLOWING: SILICON DIOXIDE",
+      "CARMEL COLOR",
+      "GROUND FENNEL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hazelnut Spread",
+    "marca": "Great Value",
+    "ean": "0012142028699",
+    "ingredientes": [
+      "SUGAR",
+      "HAZELNUTS",
+      "MODIFIED PALM OIL CANOLA OIL",
+      "COCOA (PROCESSED WITH ALKALI",
+      "SKIM MILK",
+      "PALMOL WHEY",
+      "SUNFLOWER AND/OR CANOLA LECITHIN",
+      "ARTIFICIAL FLAVOR 1477 PRODUCT For be Retund"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/202/8699/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sugar free vanilla instant pudding & pie filling",
+    "marca": "Great value",
+    "ean": "0012142036632",
+    "ingredientes": [
+      "MODIFIED FOOD STARCH",
+      "MALTODEXTRIN",
+      "DISODIUM PHOSPHATE",
+      "TETRASODIUM PYROPHOSPHATE",
+      "CONTAINS 2% OR LESS OF TITANIUM DIOXIDE (FOR COLOR)",
+      "MONO - AND DIGLYCERIDES (CONTAINS PROPYL GALLATE AND CITRIC ACID AS ANTIOXIDANTS)",
+      "SALT",
+      "CALCIUM SULFATE",
+      "XANTHAN GUM",
+      "ACESULFAME POTASSIUM (SWEETENER)",
+      "ASPARTAME (SWEETENER)",
+      "ARTIFICIAL FLAVORING",
+      "YELLOW 5",
+      "YELLOW 6. *PHERYLKETONURICS: CONTAINS PHENYLALANINE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/203/6632/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Great value, drink mix, strawberry watermelon",
+    "marca": "Great Value",
+    "ean": "0012142047171",
+    "ingredientes": [
+      "Cane sugar",
+      "maltodextrin",
+      "malic acid",
+      "natural flavor",
+      "sodium citrate",
+      "contains less than 2% of: stevia leaf extract",
+      "citric acid",
+      "salt",
+      "potassium citrate",
+      "magnesium oxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Member’s Mark Purified Water",
+    "marca": "Members Mark",
+    "ean": "0012142051451",
+    "ingredientes": [
+      "PURIFIED WATER",
+      "CALCIUM CHLORIDE",
+      "SODIUM BICARBONATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/205/1451/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Instant Pudding & Pie Filling",
+    "marca": "Great Value",
+    "ean": "0012142058375",
+    "ingredientes": [
+      "SUGAR",
+      "MODIFIED FOOD STARCH",
+      "DEXTROSE",
+      "CONTAINS 2% OR LESS OF DISODIUM PHOSPHATE",
+      "TETRASODIUM PYROPHOSPHATE",
+      "SALT",
+      "MONO - AND DIGLYCERIDES (PREVENTS FOAMING)",
+      "NONFAT DRY MILK",
+      "PALM OIL",
+      "TITANIUM DIOXIDE (FOR COLOR)",
+      "YELLOW 5",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "YELLOW 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sugar free syrup",
+    "marca": "Great Value",
+    "ean": "0012142061535",
+    "ingredientes": [
+      "WATER",
+      "SORBITOL*",
+      "CONTAINS 2% OR LESS OF. CELLULOSE GUM",
+      "SALT",
+      "NATURAL AND ARTIFICIAL FLAVORS",
+      "CARAMEL COLOR",
+      "XANTHAN GUM",
+      "SORBIC ACID (PRESERVATIVE)",
+      "SODIUM BENZOÁTE (PRESERVATIVE)",
+      "ACESULFAME POTASSIUM (NONNUTRITIVE SWEETENER)*",
+      "POTASSIUM CHLORIDE",
+      "SODIUM HEXAMETAPHOSPHATE",
+      "PHOSPHORIC ACID",
+      "SUCRALOSE (NONNUTRITIVE SWEETENER) &quot",
+      "INGREDIENTS NOT IN REGULAR SYRUP. MAY CONTAIN TRACES OF MILK",
+      "EGGS",
+      "ANCHOVIES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/206/1535/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ginger snaps",
+    "marca": "Great value",
+    "ean": "0012142063362",
+    "ingredientes": [
+      "Protein 4 otassium 36mg The Ss Daily Value (DV) lis you how much a nutrienn in a serving of tood contributes to a daily diet. 2",
+      "IncC. INGREDIENTS: ENRICHED FLOUR (WHEAT FLOUR NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE VITAMIN B]",
+      "RIBOFLAVIN VITAMIN B. FOLIC ACID) SUGAR",
+      "VEGETABLE OIL (PALM OIL AND/OR SOYBEAN OIL)",
+      "MOLASSES",
+      "GINGER",
+      "BAKING SODA (FOR LEAVENING)",
+      "SALT",
+      "SOY LECITHIN (AN EMULSIFIER) CONTAINS WHEAT AND SOY. MAY CONTAIN TRACES OF MILK",
+      "EGGS",
+      "COCONUT AND PEANUTS. Calories per gram:"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Burgers",
+    "marca": "Great value",
+    "ean": "0012142074955",
+    "ingredientes": [
+      "Protein4 Carbohydra 4 Calories per gram Fat 9 INGREDIENTS: 100 PURE BEEF PATTIES DISTRIBU"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Instant Pudding & Pie Filling",
+    "marca": "Great Value",
+    "ean": "0012142093505",
+    "ingredientes": [
+      "sugar",
+      "modified food starch",
+      "cocoa powder processed with alkali",
+      "disodium phosphate",
+      "tetrasodium pyrophosphate",
+      "salt",
+      "maltodextrin",
+      "mono - and diglycerides",
+      "propyl gallate",
+      "citric acid",
+      "gum arabic",
+      "natural and artificial flavoring",
+      "red 40",
+      "yellow 5",
+      "blue 1",
+      "butter",
+      "cream",
+      "salt",
+      "silicon dioxide",
+      "nonfat milk",
+      "corn starch"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/209/3505/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mostaza de Dijon Great Value",
+    "marca": "Great Value",
+    "ean": "0012142100661",
+    "ingredientes": [
+      "Agua",
+      "semilla de Mostaza",
+      "vinagre",
+      "sal",
+      "vino blanco",
+      "ácido cítrico",
+      "cúrcuma turmerico",
+      "ácido tartarico",
+      "especias."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/210/0661/front_es.8.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Salted Sweat Cream Butter",
+    "marca": "Member’s Mark",
+    "ean": "0012142104423",
+    "ingredientes": [
+      "PASTEURIZED CREAM",
+      "SALT CONTAINS: MILK"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/210/4423/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Cheese",
+    "marca": "Great Value",
+    "ean": "0012142148861",
+    "ingredientes": [
+      "Vitamin LD Calcium 140ma Iron 0.1mg Potassium 20mg 10% 0% 0% The % Daily Value (DVM tells you hoOW Much a nutrient in a serving of food contributes to a daly diet. 2",
+      "CHEESE CLTURE",
+      "SALT",
+      "ENZYMES",
+      "ANNATTO COLOR. CONTAI DISTRIBUTED BY: Walmart Inc. Bentonville",
+      "AR 72716 S"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/214/8861/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Flavored Pasta & Sauce",
+    "marca": "Great Value",
+    "ean": "0012142194813",
+    "ingredientes": [
+      "ENRICHED MACARONI PRODUCT (WHEAT FLOUR. NIACIN",
+      "FERROUS SULFATE (IRON). THIAMINE MONONITRATE. RIBOFLAVIN",
+      "FOLIC ACID)",
+      "MALTODEXTRIN (FROM CORN). CORN STARCH",
+      "HYDROLYZED CORN PROTEIN",
+      "YEAST EXTRACT",
+      "DRIED ONION",
+      "SEA SALT",
+      "DRIED RED BELL PEPPER",
+      "NATURAL FLAVOR. SPICE",
+      "DRIED CHICKEN",
+      "POTASSIUM CHLORIDE",
+      "DISODIUM INOSINATE AND DISODIUM GUANYLATE",
+      "TURMERIC EXTRACT (COLOR)",
+      "DRIED CHICKEN BROTH",
+      "PAPRIKA EXTRACT (COLOR)",
+      "SODIUM CASEINATE (FROM MILK)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/219/4813/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Thins With Almonds & Sea Salt",
+    "marca": "Member's Mark",
+    "ean": "0012142219233",
+    "ingredientes": [
+      "dark chocolate",
+      "sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "chocolate liquor processed with alkali",
+      "soy lecithin",
+      "natural flavor",
+      "almonds",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/221/9233/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% orange juice",
+    "marca": "Great Value",
+    "ean": "0012142350783",
+    "ingredientes": [
+      "FILTERED WATER",
+      "ORANGE JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Melt'n Dip",
+    "marca": "Great Value",
+    "ean": "0012142353289",
+    "ingredientes": [
+      "american cheese (milk",
+      "cheese culture",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/235/3289/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Cream Butter",
+    "marca": "Great Value",
+    "ean": "0012142374277",
+    "ingredientes": [
+      "PASTEURIZED CREAM",
+      "NATURAL FLAVORS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Instand White Rice",
+    "marca": "Great Value",
+    "ean": "0012142430393",
+    "ingredientes": [
+      "rice",
+      "niacin",
+      "iron [ferric orthophosphate]",
+      "thiamine [thiamine mononitrate]",
+      "folic acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/214/243/0393/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet India, Original Tandoori Naan",
+    "marca": "Gourmet India Food Company Llc",
+    "ean": "0012144800309",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "organic soybean oil",
+      "organic cultured wheat starch",
+      "yeast",
+      "organic sugar",
+      "organic wheat gluten",
+      "sea salt",
+      "baking powder (sodium a"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet India, Tandoori Naan, Garlic",
+    "marca": "Gourmet India Food Company Llc",
+    "ean": "0012144800323",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "organic soybean oil",
+      "organic culture",
+      "wheat starch",
+      "garlic",
+      "wheat gluten",
+      "organic sugar",
+      "yeast",
+      "sea salt",
+      "baking powder (sodium ac"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet India, Whole Wheat Tandoori Naan",
+    "marca": "Gourmet India Food Company Llc",
+    "ean": "0012144800422",
+    "ingredientes": [
+      "Water",
+      "organic whole wheat flour",
+      "organic wheat flour",
+      "organic soybean oil",
+      "cultured organic wheat flour",
+      "organic sugar",
+      "organic vital wheat gluten",
+      "yeast",
+      "sea salt",
+      "baking powder (sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "corn starch",
+      "monocalcium phosphate)",
+      "citric acid",
+      "enzymes",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Multi Grain Sourdough",
+    "marca": "Trader Joe’s",
+    "ean": "00121453",
+    "ingredientes": [
+      "WATER",
+      "STONE GROUND WHOLE WHEAT FLOUR",
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "MALTED BARLEY FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "ORGANIC STEEL CUT CRACKED GRAIN MIX (ORGANIC WHEAT BERRIES",
+      "ORGANIC HULLED BARLEY",
+      "ORGANIC RYE BERRIES",
+      "ORGANIC TRITICALE",
+      "ORGANIC HULLED MILLET",
+      "ORGANIC CORN",
+      "ORGANIC BROWN RICE",
+      "ORGANIC OAT GROATS",
+      "ORGANIC FLAXSEED)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/012/1453/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yoghourt Bonlac Digestive",
+    "marca": "Bonlac",
+    "ean": "0012157102421",
+    "ingredientes": [
+      "Iow fat milkt fruit base (Pear",
+      "sugar",
+      "water",
+      "modified starth",
+      "citric acid",
+      "{laver",
+      "sodium benzoate",
+      "potassium sorbate natural color inulin (fiber non fat:mllk soiidst stabi izer (mdtfied starch",
+      "pectin",
+      "kosher getatin) vitamin probiotic lactic cultures: Bifidobacterium BB?IE (Bifidus Equilibtium)",
+      "lactobacil!us acidopïLs",
+      "thermcph\\fus",
+      ". Lactobadluj Streptococcus deibweckii subsp",
+      "Bulgaricus. (ontiene leche / Contains milk sanitatpiol Reg."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/215/710/2421/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Yogurt estilo griego",
+    "marca": "bonlac",
+    "ean": "0012157103411",
+    "ingredientes": [
+      "Leche Descremada",
+      "base de Miel preparada (Miel de abeja",
+      "azúcar",
+      "agua",
+      "almidón",
+      "ácido citrico",
+      "sabor",
+      "color natural)",
+      "sólidos lácteos descremados",
+      "proteina láctea",
+      "estabilizante (almidón",
+      "pectina",
+      "gelatina Kosher)",
+      "vitaminas A y D",
+      "cultivos lácticos probióticos: Lactobacillus acidophilus",
+      "Bifidobacterium",
+      "Vitamina Streptococcus thermophilus",
+      "Lactobacillus delbrueckii subsp. Bulgaricus. Proteina/Prote Calcio/Calcium BAGAGNGINGIN Vital Vitaminas A&D Información Na Nutrition Fats Ackle/Senly Sony Porciones por ese Cantidad por Pordón/A Energia/Energy 180 k Energia de Grasa/ Grasa Total/Total Fat Grasa saturada/Saturated Colesterol/Cholester Sodio/Sodium Carbohidrato Total Fibra de Los porcentales de de 2000 calorias MANTENGASE REF MEJOR SI SE CONS"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "base de Miel preparada (Miel de abeja",
+        "razon": "Contiene base de Miel preparada (Miel de abeja, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "gelatina Kosher)",
+        "razon": "Contiene gelatina Kosher), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/215/710/3411/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "Panama"
+  },
+  {
+    "nombre": "yogurt de vainilla🍶",
+    "marca": "bonlac",
+    "ean": "0012157110242",
+    "ingredientes": [
+      "leche descremada",
+      "base de vainilla preparada (agua almidón de maíz modificado",
+      "ácido cítrico",
+      "sabor vainilla",
+      "color natural",
+      "sobato de potasio",
+      "benzoato de sodio",
+      "*aspartame como edulcorante)",
+      "estabilizante (almidón de maíz modificado",
+      "gelatina)",
+      "sólidos lácteos",
+      "vitamina A y D cultivos lácticos probióticos: Lactobacillus acidophilus",
+      "Bifidobacterium",
+      "Streptococcus thermophilus",
+      "Lactobacillus delbrueckii subsp. Bulgaricus. *Fenilcetonúricos:Contiene Fenilalanina. Contiene leche (lactosa y proteína láctea)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "gelatina)",
+        "razon": "Contiene gelatina), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/215/711/0242/front_es.3.400.jpg",
+    "tahor": false,
+    "pais": "Panama"
+  },
+  {
+    "nombre": "Leche Entera",
+    "marca": "Bonlac",
+    "ean": "0012157301022",
+    "ingredientes": [
+      "Leche entera Grado A",
+      "Vitamina D."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/215/730/1022/front_es.4.400.jpg",
+    "tahor": true,
+    "pais": "Panama"
+  },
+  {
+    "nombre": "Yogurt Natural",
+    "marca": "Bonlac",
+    "ean": "0012157401012",
+    "ingredientes": [
+      "Leche grado A",
+      "vitamina A y D",
+      "cultivos de lácticos probióticos Lactobacillus acidophilus",
+      "Bifidobacterium",
+      "Streptococcus thermophilus",
+      "Lactobacillus delbrueckii subsp",
+      "Bulgaricus."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/215/740/1012/front_es.4.400.jpg",
+    "tahor": true,
+    "pais": "Panama"
+  },
+  {
+    "nombre": "Jugo de Naranja 100% Natural",
+    "marca": "Bonlac",
+    "ean": "0012157906197",
+    "ingredientes": [
+      "Jugo de naranja"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/001/215/790/6197/front_es.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tayto, Potato Crisps, Cheese & Onion",
+    "marca": "Martech Enterprises  Inc.",
+    "ean": "0012159033143",
+    "ingredientes": [
+      "Potatoes",
+      "vegetable oils: rapeseed oil",
+      "sunflower oil",
+      "cheese and onion flavour (onion powder",
+      "yeast powder",
+      "cheese powder",
+      "(milk)",
+      "flavour enhancer: monosodium glutamate: wheat flour",
+      "salt)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tayto, Potato Chips, Salt & Vinegar",
+    "marca": "Martech Enterprises  Inc.",
+    "ean": "0012159033204",
+    "ingredientes": [
+      "Potatoes",
+      "vegetable oils: rapeseed oil",
+      "sunflower oil: salt and vinegar flavour (whey extract (milk)",
+      "salt",
+      "maltodextrin",
+      "flavouring",
+      "acid: citric acid",
+      "yeast extract)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]
