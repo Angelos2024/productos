@@ -1,0 +1,5986 @@
+[
+  {
+    "nombre": "Fire Roasted Diced Tomatoes With Garlic",
+    "marca": "Raley's",
+    "ean": "0046567013961",
+    "ingredientes": [
+      "Fire roasted diced tomatoes",
+      "tomato juice",
+      "sea salt",
+      "dehydrated garlic",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Cling Diced Peaches In Naturally Flavored Fruit Juices From Concentrates",
+    "marca": "Raley's",
+    "ean": "0046567014265",
+    "ingredientes": [
+      "Diced peaches",
+      "water",
+      "white grape juice concentrate",
+      "lemon juice concentrate",
+      "natural flavor",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced Pears In Naturally Flavored Fruit Juices From Concentrates",
+    "marca": "Raley's",
+    "ean": "0046567014272",
+    "ingredientes": [
+      "Diced pears",
+      "water",
+      "white grape juice concentrate",
+      "lemon juice concentrate",
+      "ascorbic acid (vitamin c) to protect color",
+      "natural flavor",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/701/4272/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cherry Mixed Fruit In Naturally Flavored Fruit Juices From Concentrates",
+    "marca": "Raley's",
+    "ean": "0046567014289",
+    "ingredientes": [
+      "Diced peaches",
+      "diced pears",
+      "water",
+      "white grape juice concentrate",
+      "cherries artificially colored red with carmine",
+      "lemon juice concentrate",
+      "natural flavor",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mandarin Oranges In Grape And Lemon Juice From Concentrate",
+    "marca": "Raley's",
+    "ean": "0046567014296",
+    "ingredientes": [
+      "Mandarin oranges",
+      "water",
+      "white grape juice concentrate",
+      "lemon juice concentrate",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mozzarella Cheese String",
+    "marca": "Raley's",
+    "ean": "0046567015149",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/701/5149/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes With Jalapenos",
+    "marca": "Raley's",
+    "ean": "0046567015200",
+    "ingredientes": [
+      "Diced tomatoes",
+      "tomato juice",
+      "chopped green jalapeno chili peppers",
+      "less than 2% of: sea salt",
+      "vinegar",
+      "natural flavors",
+      "calcium chloride",
+      "citric acid",
+      "spices",
+      "cilantro."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Broccoli Florets",
+    "marca": "Raley's",
+    "ean": "0046567015422",
+    "ingredientes": [
+      "BROCCOLI."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced Tomatoes In Tomato Juice With Roasted Garlic & Onion",
+    "marca": "Raley's",
+    "ean": "0046567015439",
+    "ingredientes": [
+      "Diced tomatoes",
+      "tomato juice",
+      "sea salt",
+      "dehydrated onions",
+      "dehydrated roasted garlic",
+      "spices",
+      "citric acid",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes With Garlic & Olive Oil",
+    "marca": "Raley's",
+    "ean": "0046567015446",
+    "ingredientes": [
+      "Diced tomatoes",
+      "tomato juice",
+      "dehydrated minced garlic",
+      "sea salt",
+      "olive oil",
+      "spices",
+      "citric acid",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes With Chipotle",
+    "marca": "Raley's",
+    "ean": "0046567015453",
+    "ingredientes": [
+      "Diced tomatoes",
+      "tomato juice",
+      "less than 2% of: sea salt",
+      "sugar",
+      "vinegar",
+      "spices",
+      "chipotle pepper",
+      "dried cilantro",
+      "dehydrated onion",
+      "chili powder",
+      "garlic powder",
+      "citric acid",
+      "calcium chloride",
+      "toasted sesame oil",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Tomato Paste",
+    "marca": "Raley's",
+    "ean": "0046567015460",
+    "ingredientes": [
+      "Tomato puree (tomato paste",
+      "water)",
+      "sea salt",
+      "soybean oil",
+      "spices",
+      "natural flavor",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Tomato Sauce With Basil, Garlic & Oregano",
+    "marca": "Raley's",
+    "ean": "0046567015477",
+    "ingredientes": [
+      "Tomatoes",
+      "salt",
+      "less than 2% of: dried oregano",
+      "garlic powder",
+      "dried basil",
+      "spices",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Crushed Tomatoes In Puree",
+    "marca": "Raley's",
+    "ean": "0046567015484",
+    "ingredientes": [
+      "Cut tomatoes",
+      "tomato puree",
+      "sea salt",
+      "dehydrated onion",
+      "dehydrated garlic",
+      "spices",
+      "calcium chloride",
+      "citric acid",
+      "dehydrated parsley",
+      "celery seed",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Cocktail",
+    "marca": "Raley's",
+    "ean": "0046567015859",
+    "ingredientes": [
+      "Diced peaches",
+      "diced pears",
+      "water",
+      "grapes",
+      "peach pulp and juice",
+      "pineapple sectors",
+      "pear juice concentrate",
+      "halved cherries artificially colored red with carmine",
+      "ascorbic acid (vitamin c) to protect color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit cocktail in extra light syrup",
+    "marca": "Raley's",
+    "ean": "0046567015866",
+    "ingredientes": [
+      "Diced peaches",
+      "water",
+      "diced pears",
+      "grapes",
+      "sugar",
+      "pineapple sectors",
+      "halved cherries artificially colored red with carmine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Cling Peach Slices In Peach Juice & Pear Juice from Concentrate",
+    "marca": "Raley's",
+    "ean": "0046567015873",
+    "ingredientes": [
+      "Peaches",
+      "water",
+      "pear juice concentrate",
+      "peach pulp and juice",
+      "ascorbic acid (vitamin c) to protect color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken broth",
+    "marca": "Raley's",
+    "ean": "0046567017785",
+    "ingredientes": [
+      "Chicken broth",
+      "contains less than 2% of salt",
+      "sea salt",
+      "sugar",
+      "yeast extract",
+      "natural flavor",
+      "carrot juice concentrate",
+      "onion powder",
+      "chicken fat",
+      "chicken powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/701/7785/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Microwave Popcorn",
+    "marca": "Raley's",
+    "ean": "0046567018751",
+    "ingredientes": [
+      "Popcorn",
+      "palm oil with preservative (tbhq)",
+      "salt",
+      "natural flavor",
+      "color (annatto extract)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/701/8751/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Applesauce",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567018928",
+    "ingredientes": [
+      "Organic apples."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Classic Panko Bread Crumbs",
+    "marca": "Raley's",
+    "ean": "0046567023144",
+    "ingredientes": [
+      "Wheat flour",
+      "dextrose",
+      "sugar",
+      "yeast",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/702/3144/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spaghetti, Enriched Macaroni Product",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023151",
+    "ingredientes": [
+      "Durum wheat semolina",
+      "niacin",
+      "ferrous lactate (iron)",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fusilli Enriched Macaroni Product",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023168",
+    "ingredientes": [
+      "DURUM WHEAT SEMOLINA",
+      "NIACIN",
+      "FERROUS LACTATE (IRON)",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tortiglioni",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023182",
+    "ingredientes": [
+      "DURUM WHEAT SEMOLINA",
+      "NIACIN",
+      "FERROUS LACTATE (IRON)",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Farfalle Pasta",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023199",
+    "ingredientes": [
+      "DURUM WHEAT SEMOLINA",
+      "NIACIN",
+      "FERROUS LACTATE (IRON)",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Linguine, Enriched Macaroni Product",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023205",
+    "ingredientes": [
+      "Durum wheat semolina",
+      "niacin",
+      "ferrous lactate (iron)",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "California Extra Virgin Olive Oil",
+    "marca": "Raley's",
+    "ean": "0046567023229",
+    "ingredientes": [
+      "EXTRA VIRGIN OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Basil Imported Tomato Sauce",
+    "marca": "Raley's",
+    "ean": "0046567023779",
+    "ingredientes": [
+      "TOMATO (TOMATO",
+      "CITRIC ACID)",
+      "ONION",
+      "EXTRA VIRGIN OLIVE OIL",
+      "BASIL",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Artichoke Tomato Sauce",
+    "marca": "Nob Hill",
+    "ean": "0046567023786",
+    "ingredientes": [
+      "TOMATO DICED (TOMATO DICED",
+      "CITRIC ACID)",
+      "ARTICHOKE",
+      "ONION",
+      "CAPERS",
+      "EXTRA VIRGIN OLIVE OIL",
+      "SUNFLOWER OIL",
+      "SEA SALT",
+      "BLACK PEPPER",
+      "PARSLEY",
+      "DRIED CHILI."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tuscan Eggplant Tomato Sauce",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023809",
+    "ingredientes": [
+      "TOMATO (TOMATO",
+      "CITRIC ACID)",
+      "EGGPLANT",
+      "ONION",
+      "EXTRA VIRGIN OLIVE OIL",
+      "SUNFLOWER OIL",
+      "BASIL",
+      "GARLIC",
+      "SEA SALT",
+      "DRIED CHILI."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tuscan Arrabbiata Sauce",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567023816",
+    "ingredientes": [
+      "TOMATO (TOMATO",
+      "CITRIC ACID)",
+      "GARLIC",
+      "EXTRA VIRGIN OLIVE OIL",
+      "SEA SALT",
+      "BASIL",
+      "CHILI."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raisins",
+    "marca": "Raley's",
+    "ean": "0046567023946",
+    "ingredientes": [
+      "RAISINS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Blueberries",
+    "marca": "Raley's",
+    "ean": "0046567024301",
+    "ingredientes": [
+      "ORGANIC BLUEBERRIES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Strawberries",
+    "marca": "Raley's",
+    "ean": "0046567024318",
+    "ingredientes": [
+      "ORGANIC STRAWBERRIES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Sliced Peaches",
+    "marca": "Raley's",
+    "ean": "0046567024325",
+    "ingredientes": [
+      "ORGANIC PEACHES",
+      "ASCORBIC ACID AND CITRIC ACID ADDED TO RETARD OXIDATION."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Mango Chunks",
+    "marca": "Raley's",
+    "ean": "0046567024332",
+    "ingredientes": [
+      "ORGANIC MANGO."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Large Bowtie",
+    "marca": "Raley's",
+    "ean": "0046567024639",
+    "ingredientes": [
+      "SEMOLINA (WHEAT)",
+      "DURUM FLOUR (WHEAT)",
+      "NIACIN",
+      "FERROUS SULFATE (IRON)",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tortilla Chips",
+    "marca": "Raley's",
+    "ean": "0046567025551",
+    "ingredientes": [
+      "CORN MASA FLOUR (STONEGROUND BLUE CORN MASA FLOUR",
+      "TRACE OF LIME)",
+      "HIGH OLEIC SAFFLOWER OIL EXPELLER PRESSED",
+      "SESAME SEEDS",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Apple Sauce",
+    "marca": "Raley's",
+    "ean": "0046567025575",
+    "ingredientes": [
+      "ORGANIC APPLES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Applesauce",
+    "marca": "Raley's",
+    "ean": "0046567025582",
+    "ingredientes": [
+      "ORGANIC APPLES",
+      "ORGANIC MIXED BERRY PUREE (ORGANIC STRAWBERRIES",
+      "ORGANIC BLACKBERRIES",
+      "ORGANIC RASPBERRIES)",
+      "WATER",
+      "ASCORBIC ACID (VITAMIN C)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Meat Chicken & Spinach Ravioli",
+    "marca": "Raley's",
+    "ean": "0046567025605",
+    "ingredientes": [
+      "EXTRA FANCY DURUM FLOUR",
+      "SEMOLINA FLOUR",
+      "EGG WATER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Five Cheese Tortelloni",
+    "marca": "Raley's",
+    "ean": "0046567025667",
+    "ingredientes": [
+      "FILLING INGREDIENTS: AGED IMPORTED ROMANO CHEESE (SHEEP'S MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES)",
+      "RICOTTA CHEESE (MILK",
+      "CREAM",
+      "DAIRY SOLIDS",
+      "VINEGAR",
+      "SALT)",
+      "PANKO (WHEAT FLOUR",
+      "ORGANIC CANE SYRUP",
+      "SEA SALT",
+      "YEAST)",
+      "WATER",
+      "AGED IMPORTED PARMESAN CHEESE (PAST"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Almond Butter",
+    "marca": "Raley's",
+    "ean": "0046567025680",
+    "ingredientes": [
+      "Almonds",
+      "unrefined cane sugar",
+      "palm oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crunchy Almond Butter",
+    "marca": "Raley's",
+    "ean": "0046567025690",
+    "ingredientes": [
+      "Almonds",
+      "unrefined cane sugar",
+      "palm oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil",
+    "marca": "Raley's",
+    "ean": "0046567025704",
+    "ingredientes": [
+      "ORGANIC EXTRA VIRGIN OLIVE OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/702/5704/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, french sparkling soda, coconut lime",
+    "marca": "Raley's",
+    "ean": "0046567025957",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "natural coco flavor",
+      "natural lime flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling water beverage, orange, mango",
+    "marca": "Raley's",
+    "ean": "0046567026008",
+    "ingredientes": [
+      "Carbonated water",
+      "orange juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "gum acacia",
+      "sucralose",
+      "green tea",
+      "ester gum",
+      "calcium disodium edta (to protect flavor)",
+      "magnesium sulfate",
+      "calcium chloride",
+      "yellow 6",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "yellow 5",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling water beverage, black raspberry",
+    "marca": "Raley's",
+    "ean": "0046567026015",
+    "ingredientes": [
+      "Carbonated water",
+      "blackberry juice concentrate",
+      "malic acid",
+      "natural flavor",
+      "potassium benzoate and potassium sorbate (preservatives) sucralose",
+      "green tea",
+      "red 40",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling water beverage, kiwi strawberry",
+    "marca": "Raley's",
+    "ean": "0046567026022",
+    "ingredientes": [
+      "Carbonated water",
+      "kiwi juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "gum acacia",
+      "green tea",
+      "ester gum",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow 5",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "blue 1",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling water, lemonade",
+    "marca": "Raley's",
+    "ean": "0046567026039",
+    "ingredientes": [
+      "Carbonated water",
+      "lemon juice concentrate",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "green tea",
+      "gum acacia",
+      "sucralose acetate isobutyrate",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "yellow 5",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water Beverage",
+    "marca": "Raley's",
+    "ean": "0046567026046",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "NATURAL FLAVOR",
+      "PINK GRAPEFRUIT JUICE CONCENTRATE",
+      "CITRIC ACID",
+      "POTASSIUM BENZOATE AND POTASSIUM SORBATE (PRESERVATIVES)",
+      "GUM ACACIA",
+      "SUCRALOSE",
+      "GREEN TEA",
+      "ESTER GUM",
+      "CALCIUM DISODIUM EDTA (TO PROTECT FLAVOR)",
+      "MAGNESIUM SULFATE",
+      "CALCIUM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling water, coconut flavored",
+    "marca": "Raley's",
+    "ean": "0046567026053",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "pear juice concentrate",
+      "natural flavor",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "gum acacia",
+      "green tea",
+      "ester gum",
+      "calcium disodium edta (to protect flavor)",
+      "magnesium sulfate",
+      "calcium chloride",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5",
+      "pyridoxine (hydrochloride (vitamin b6)",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pineapple tidbits in pineapple juice from concentrate",
+    "marca": "Raley's",
+    "ean": "0046567026077",
+    "ingredientes": [
+      "Pineapple",
+      "water",
+      "pineapple juice from concentrate",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flaked Coconut",
+    "marca": "Raley's",
+    "ean": "0046567026084",
+    "ingredientes": [
+      "COCONUT",
+      "SODIUM METABISULFITE (TO RETAIN WHITENESS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Maple Syrup",
+    "marca": "Raley's",
+    "ean": "0046567026091",
+    "ingredientes": [
+      "ORGANIC MAPLE SYRUP."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/702/6091/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rayley's, tortilla chips, nacho cheese",
+    "marca": "Rayley's",
+    "ean": "0046567026107",
+    "ingredientes": [
+      "Ground yellow corn",
+      "vegetable oil (contains one or more of the following: corn",
+      "sunflower",
+      "safflower or canola oil)",
+      "maltodextrin",
+      "salt",
+      "whey powder",
+      "whey",
+      "buttermilk powder",
+      "natural flavoring",
+      "monosodium glutamate",
+      "onion powder",
+      "tomato powder",
+      "cheddar cheese (cultured milk",
+      "salt",
+      "enzymes)",
+      "butter (cream",
+      "salt",
+      "annatto)",
+      "whey protein concentrate",
+      "spice",
+      "yellow 6 lake",
+      "spice and coloring (contains paprika)",
+      "disodium guanylate",
+      "disodium inosinate",
+      "polysorbate 80",
+      "yellow 5 lake",
+      "yellow 6",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All American Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567026121",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL [CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER OR CANOLA OIL)",
+      "AND SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomatoes Petite Diced In Juice",
+    "marca": "Raley's",
+    "ean": "0046567026145",
+    "ingredientes": [
+      "TOMATOES",
+      "TOMATO JUICE",
+      "CALCIUM CHLORIDE",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium White Chunk Chicken Breast",
+    "marca": "Raley's",
+    "ean": "0046567026152",
+    "ingredientes": [
+      "CHICKEN BREST MEAT WITH RIB MEAT",
+      "WATER",
+      "CONTAINS 2% OR LESS OF SEA SALT",
+      "MODIFIED FOOD STARCH",
+      "SODIUM PHOSPHATES",
+      "CHICKEN FLAVOR (SALT",
+      "CHICKEN BROTH",
+      "NATURAL FLAVORS)",
+      "FLAVORING."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chili With Beans",
+    "marca": "Raley's",
+    "ean": "0046567026169",
+    "ingredientes": [
+      "TURKEY BROTH (CONTAINS SALT AND FLAVOR)",
+      "MECHANICALLY SEPARATED TURKEY",
+      "BEANS",
+      "DEHYDRATED ONIONS",
+      "CONCENTRATED CRUSHED TOMATOES",
+      "CONTAINS 2% OR LESS OF GREEN CHILES (CONTAINS CITRIC ACID)",
+      "DEHYDRATED BELL PEPPERS",
+      "WHEAT FLOUR (ENRICHED WITH NIACIN",
+      "REDUCE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Applesauce",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567026244",
+    "ingredientes": [
+      "Organic apples."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling soda, blood orange",
+    "marca": "Raley's",
+    "ean": "0046567026268",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "concentrated orange juice (2%)",
+      "citric acid anthocyanins and beta carotene (as colors)",
+      "natural orange flavor with other natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, sparkling soda, pomegranate blueberry",
+    "marca": "Raley's",
+    "ean": "0046567026275",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "pomegranate juice from concentrate (1.5%)",
+      "blueberry juice from concentrate (1.1%)",
+      "citric acid",
+      "natural flavor",
+      "concentrate from carrot (as color)",
+      "gum arabic (as stabilizer)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate juice from concentrate (1.5%)",
+        "razon": "Contiene pomegranate juice from concentrate (1.5%), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Soda",
+    "marca": "Raley's",
+    "ean": "0046567026282",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "SUGAR",
+      "NATURAL LEMON AND LIME FLAVOR (INCLUDING LEMON JUICE)",
+      "CITRIC ACID",
+      "GRAPE SKIN EXTRACT (AS COLOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chunk White Albacore In Water",
+    "marca": "Raley's",
+    "ean": "0046567026343",
+    "ingredientes": [
+      "WHITE TUNA",
+      "WATER",
+      "VEGETABLE BROTH (SOY)",
+      "SALT",
+      "SODIUM PYROPHOSPHATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced tomatoes & green chilies in water",
+    "marca": "Raley's",
+    "ean": "0046567026398",
+    "ingredientes": [
+      "Diced tomatoes",
+      "water",
+      "chopped green jalapeno chili peppers",
+      "sea salt",
+      "vinegar",
+      "cilantro",
+      "citric acid",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rising Crust Supreme Pizza",
+    "marca": "Raley's",
+    "ean": "0046567026572",
+    "ingredientes": [
+      "CRUST: WHEAT FLOUR",
+      "WATER",
+      "SUGAR",
+      "SOYBEAN OIL",
+      "WHITE CORNMEAL",
+      "YEAST",
+      "VITAL WHEAT GLUTEN",
+      "SALT",
+      "CORNMEAL",
+      "DOUGH CONDITIONERS (WHEAT FLOUR",
+      "DATEM",
+      "DEXTROSE",
+      "SOYBEAN OIL",
+      "ASCORBIC ACID",
+      "ENZYMES",
+      "L-CYSTEINE)",
+      "NATURAL FLAVOR",
+      "SODIUM BICARBONATE",
+      "SODIUM ALUMIN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thin Crust Margherita Pizza",
+    "marca": "Raley's",
+    "ean": "0046567026589",
+    "ingredientes": [
+      "CRUST: WHEAT FLOUR",
+      "WATER",
+      "SOYBEAN OIL",
+      "SALT",
+      "YEAST",
+      "SUGAR",
+      "CALCIUM PROPIONATE",
+      "L-CYSTEINE. CHEESE BLEND: MOZZARELLA CHEESE (PASTEURIZED PART SKIM MILK",
+      "CULTURES",
+      "SALT",
+      "ENZYMES)",
+      "PROVOLONE CHEESE (CULTURED PART SKIM MILK",
+      "SALT",
+      "ENZYMES",
+      "MAY CONTAIN SMOKE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thin Crust Pizza",
+    "marca": "Raley's",
+    "ean": "0046567026596",
+    "ingredientes": [
+      "CRUST: WHEAT FLOUR",
+      "WATER",
+      "SOYBEAN OIL",
+      "SALT",
+      "YEAST",
+      "SUGAR",
+      "CALCIUM PROPIONATE",
+      "L-CYSTEINE. CHEESE BLEND: MOZZARELLA CHEESE (PASTEURIZED PART SKIM MILK",
+      "CULTURES",
+      "SALT",
+      "ENZYMES)",
+      "PROVOLONE CHEESE (CULTURED PART SKIM MILK",
+      "SALT",
+      "ENZYMES",
+      "MAY CONTAIN SMOKE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thin Crust Pizza",
+    "marca": "Raley's",
+    "ean": "0046567026609",
+    "ingredientes": [
+      "Crust: wheat flour",
+      "water",
+      "soybean oil",
+      "salt",
+      "yeast",
+      "sugar",
+      "calcium propionate",
+      "l-cysteine",
+      "cheese blend: low-moisture mozzarella cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "natamycin [a natural mold inhibitor]. may contain vinegar.)",
+      "provolone cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "natural smoked flavor)",
+      "romano cheese from cow's milk (pasteurized part skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "sauce: water",
+      "maltodextrin",
+      "palm oil",
+      "garlic",
+      "dehydrated parsley",
+      "xanthan gum",
+      "lactic acid",
+      "calcium lactate",
+      "spice",
+      "less than 2% silicon dioxide (to prevent caking)",
+      "chicken breast (chicken breast",
+      "water",
+      "salt",
+      "sodium phosphate)",
+      "onion",
+      "spinach",
+      "tomato",
+      "red bell peppers",
+      "bacon (bacon",
+      "spices",
+      "sodium nitrite)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Paste",
+    "marca": "Raley's",
+    "ean": "0046567027197",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic tomato sauce",
+    "marca": "Raley's",
+    "ean": "0046567027203",
+    "ingredientes": [
+      "Organic tomato puree",
+      "sea salt",
+      "organic sugar",
+      "organic red pepper",
+      "naturally derived citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567027210",
+    "ingredientes": [
+      "ORGANIC DICED TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "SEA SALT",
+      "ORGANIC SPICES (ORGANIC BASIL",
+      "ORGANIC OREGANO",
+      "ORGANIC THYME) ORGANIC GARLIC POWDER",
+      "CALCIUM CHLORIDE",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567027227",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "SEA SALT",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567027234",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes In Organic Tomato Juice",
+    "marca": "Raley's",
+    "ean": "0046567027241",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "SEA SALT",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes Juice",
+    "marca": "Raley's",
+    "ean": "0046567027258",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Fire Roasted Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567027265",
+    "ingredientes": [
+      "ORGANIC FIRE ROASTED DICED TOMATOES",
+      "ORGANIC TOMATO JUICE (ORGANIC TOMATO PASTE AND WATER)",
+      "SEA SALT",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Tomato Sauce",
+    "marca": "Raley's",
+    "ean": "0046567027272",
+    "ingredientes": [
+      "ORGANIC TOMATO PUREE",
+      "SEA SALT",
+      "ORGANIC SUGAR",
+      "ORGANIC RED PEPPER",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Tomato Sauce No Salt Added",
+    "marca": "Raley's",
+    "ean": "0046567027289",
+    "ingredientes": [
+      "Organic tomato puree",
+      "organic red pepper",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Diced Tomatoes In Tomato Juice",
+    "marca": "Raley's",
+    "ean": "0046567027296",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "SEA SALT",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Peeled Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567027302",
+    "ingredientes": [
+      "ORGANIC TOMATOES",
+      "ORGANIC TOMATO JUICE",
+      "SEA SALT",
+      "CALCIUM CHLORIDE",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crushed Peeled Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567027319",
+    "ingredientes": [
+      "ORGANIC TOMATO PUREE",
+      "ORGANIC TOMATOES",
+      "SEA SALT",
+      "NATURALLY DERIVED CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Sliced Pears In Organic Pear Juice From Concentrate",
+    "marca": "Raley's",
+    "ean": "0046567027333",
+    "ingredientes": [
+      "Organic pears",
+      "water",
+      "organic pear juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic sliced yellow clingstone peaches",
+    "marca": "Raley's",
+    "ean": "0046567027340",
+    "ingredientes": [
+      "Organic peaches",
+      "water",
+      "organic peach pulp and juice",
+      "organic pear juice concentrate",
+      "ascorbic acid (vitamin c) to protect color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yellow Cling Diced Peaches In Organic Pear Juice From Concentrate",
+    "marca": "Raley's",
+    "ean": "0046567027357",
+    "ingredientes": [
+      "Organic peaches",
+      "water",
+      "organic pear juice concentrate",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic diced pears in organic pear juice from concentrate",
+    "marca": "Raley's",
+    "ean": "0046567027364",
+    "ingredientes": [
+      "Organic pears",
+      "water",
+      "organic pear juice concentrate",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yellow Cling Diced Peaches & Pears In Organic Pear Juice From Concentrate",
+    "marca": "Raley's",
+    "ean": "0046567027371",
+    "ingredientes": [
+      "Organic peaches",
+      "water",
+      "organic pears",
+      "organic pear juice concentrate",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Apple Juice",
+    "marca": "Raley's, Raley's Purely Made",
+    "ean": "0046567027388",
+    "ingredientes": [
+      "Unfiltered pasteurized organic apple juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit juice",
+    "marca": "Raley's",
+    "ean": "0046567027395",
+    "ingredientes": [
+      "Organic apple cider",
+      "natural cinnamon flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit juice",
+    "marca": "Raley's",
+    "ean": "0046567027401",
+    "ingredientes": [
+      "Organic honeycrisp apple juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gala Apple Fruit Juice",
+    "marca": "Raley's",
+    "ean": "0046567027418",
+    "ingredientes": [
+      "ORGANIC GALA APPLE JUICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit juice",
+    "marca": "Raley's",
+    "ean": "0046567027425",
+    "ingredientes": [
+      "Organic concord grape juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Apple Cranberry Fruit Juice",
+    "marca": "Raley's",
+    "ean": "0046567027432",
+    "ingredientes": [
+      "ORGANIC APPLE JUICE",
+      "ORGANIC CRANBERRY JUICE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Fruit Juice",
+    "marca": "Raley's",
+    "ean": "0046567027449",
+    "ingredientes": [
+      "ORGANIC POMEGRANATE FRUIT CONCENTRATE AND WATER."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "ORGANIC POMEGRANATE FRUIT CONCENTRATE AND WATER.",
+        "razon": "Contiene ORGANIC POMEGRANATE FRUIT CONCENTRATE AND WATER., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salted Popcorn",
+    "marca": "Raley's",
+    "ean": "0046567027609",
+    "ingredientes": [
+      "POPCORN",
+      "VEGETABLE OIL (CORN",
+      "AND/OR SUNFLOWER",
+      "AND/OR CANOLA)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, caramel popcorn",
+    "marca": "Raley's",
+    "ean": "0046567027616",
+    "ingredientes": [
+      "Brown sugar",
+      "popcorn",
+      "vegetable oil (corn and/or sunflower",
+      "and/or canola)",
+      "corn syrup",
+      "soy lecithin",
+      "salt",
+      "baking soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White cheddar popcorn, white cheddar",
+    "marca": "Raley's",
+    "ean": "0046567027623",
+    "ingredientes": [
+      "Popcorn",
+      "vegetable oil (contains one or more of the following: sunflower",
+      "corn",
+      "or canola oil)",
+      "white cheddar seasoning (whey",
+      "cheddar cheese [cultured milk",
+      "salt",
+      "enzymes]",
+      "buttermilk",
+      "maltodextrin",
+      "natural flavors",
+      "salt",
+      "modified food starch",
+      "lactic acid",
+      "citric acid)",
+      "citric acid",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut dark chocolate",
+    "marca": "Raley's",
+    "ean": "0046567027630",
+    "ingredientes": [
+      "Bittersweet chocolate (unsweetened chocolate",
+      "sugar",
+      "cocoa",
+      "butter",
+      "milk fat",
+      "soy lecithin [emulsifier]",
+      "vanilla)",
+      "almonds",
+      "sugar",
+      "butter (cream",
+      "salt)",
+      "cream",
+      "coconut",
+      "enriched flour (wheat flour",
+      "niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "honey",
+      "coconut cream extract (natural flavor contains soy lecithin)",
+      "vanilla."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Electrolyte Water, Lemon",
+    "marca": "Raley's",
+    "ean": "0046567028736",
+    "ingredientes": [
+      "Distilled water",
+      "electrolytes (calcium chloride",
+      "potassium bicarbonate",
+      "magnesium chloride}",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Electrolyte Water, Mixed Berry",
+    "marca": "Raley's",
+    "ean": "0046567028743",
+    "ingredientes": [
+      "Distilled water",
+      "electrolytes (calcium chloride",
+      "potassium bicarbonate",
+      "magnesium chloride}",
+      "natural berry flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Electrolyte Water, Tropical Mango",
+    "marca": "Raley's",
+    "ean": "0046567028750",
+    "ingredientes": [
+      "Distilled water",
+      "electrolytes (calcium chloride",
+      "potassium bicarbonate",
+      "magnesium chloride}",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Virgin Coconut Oil",
+    "marca": "Raley's",
+    "ean": "0046567028958",
+    "ingredientes": [
+      "ORGANIC VIRGIN COCONUT OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, tortilla chips, sweet potato",
+    "marca": "Raley's",
+    "ean": "0046567029016",
+    "ingredientes": [
+      "Whole grain corn masa flour",
+      "vegetable oil (sunflower or safflower or corn)",
+      "cane sugar",
+      "sweet potato flour (dehydrated sweet potatoes)",
+      "honey granules (cane sugar and honey)",
+      "sweet potato",
+      "sea salt",
+      "annatto (color)",
+      "trace of lime."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pumpkin Tortilla Chips",
+    "marca": "Raley's",
+    "ean": "0046567029023",
+    "ingredientes": [
+      "WHOLE GRAIN CORN MASA FLOUR",
+      "VEGETABLE OIL (SUNFLOWER OR SAFFLOWER OR CORN)",
+      "PUMPKIN",
+      "PUMPKIN SEED",
+      "HONEY GRANULES (CANE SUGAR AND HONEY)",
+      "TOASTED CORN GERM",
+      "SPICE",
+      "SEA SALT",
+      "TRACE OF LIME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Bean Quinoa Tortilla Chips",
+    "marca": "Raley's",
+    "ean": "0046567029030",
+    "ingredientes": [
+      "WHOLE GRAIN CORN MASA FLOUR",
+      "VEGETABLE OIL (SUNFLOWER",
+      "AND/OR SAFFLOWER",
+      "AND/OR CORN)",
+      "BLACK BEANS",
+      "WHITE QUINOA",
+      "BLACK BEAN FLOUR",
+      "TOASTED CORN GERM",
+      "SEA SALT",
+      "TRACE OF LIME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kale & Spinach Chia Tortilla Chips",
+    "marca": "Raley's",
+    "ean": "0046567029047",
+    "ingredientes": [
+      "WHOLE GRAIN CORN MASA FLOUR",
+      "VEGETABLE OIL (SUNFLOWER OR SAFFLOWER OR CORN)",
+      "BROWN RICE FLOUR",
+      "BROWN FLAX SEEDS",
+      "KALE",
+      "SPINACH",
+      "CANE SUGAR",
+      "CORN BRAN",
+      "CHIA SEEDS",
+      "QUINOA",
+      "HONEY GRANULES (CANE SUGAR AND HONEY)",
+      "NATURAL COLORING",
+      "SEA SALT",
+      "TRACE OF LIME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Multigrain Flax Tortilla Chips",
+    "marca": "Raley's",
+    "ean": "0046567029054",
+    "ingredientes": [
+      "WHOLE GRAIN CORN MASA FLOUR",
+      "VEGETABLE OIL (SUNFLOWER OR SAFFLOWER OR CORN)",
+      "BROWN FLAX SEEDS",
+      "WHOLE GRAIN BROWN RICE FLOUR",
+      "SUNFLOWER SEED",
+      "SEA SALT",
+      "CANE SUGAR",
+      "SESAME SEED",
+      "HONEY GRANULES (CANE SUGAR AND HONEY)",
+      "TRACE OF LIME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, tortilla chips, multigrain flax sriracha",
+    "marca": "Raley's",
+    "ean": "0046567029061",
+    "ingredientes": [
+      "Whole grain corn masa flour",
+      "vegetable oil (sunflower or safflower or corn)",
+      "brown flax seeds",
+      "wholegrain brown rice flour",
+      "sunflower seed",
+      "sea salt",
+      "cane sugar",
+      "sesame seeds",
+      "honey granules (cane sugar and honey)",
+      "sriracha seasoning (sugar",
+      "salt",
+      "spice",
+      "cayenne pepper sauce [aged red pepper",
+      "vinegar",
+      "salt",
+      "garlic]",
+      "garlic powder",
+      "honey",
+      "natural flavors",
+      "citric acid",
+      "extractives of paprika",
+      "vinegar",
+      "silicon dioxide and tricalcium phosphate [processing aid])",
+      "trace of lime."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Spicy Brown Mustard",
+    "marca": "Raley's",
+    "ean": "0046567029108",
+    "ingredientes": [
+      "ORGANIC WHITE DISTILLED VINEGAR",
+      "WATER",
+      "ORGANIC MUSTARD SEED",
+      "SALT",
+      "ORGANIC SPICES",
+      "ORGANIC TURMERIC."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Mustard",
+    "marca": "Raley's",
+    "ean": "0046567029115",
+    "ingredientes": [
+      "ORGANIC WHITE DISTILLED VINEGAR",
+      "WATER",
+      "ORGANIC MUSTARD SEED",
+      "SALT",
+      "ORGANIC TURMERIC",
+      "ORGANIC PAPRIKA",
+      "ORGANIC SPICES",
+      "ORGANIC DEHYDRATED GARLIC."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dijon Mustard",
+    "marca": "Raley's",
+    "ean": "0046567029122",
+    "ingredientes": [
+      "WATER",
+      "ORGANIC MUSTARD SEED",
+      "ORGANIC WHITE WINE VINEGAR",
+      "ORGANIC WHITE DISTILLED VINEGAR",
+      "SALT",
+      "ORGANIC SUGAR",
+      "CITRIC ACID",
+      "ORGANIC GARLIC",
+      "XANTHAN GUM."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cookies, Chocolate Creme",
+    "marca": "Raley's",
+    "ean": "0046567029139",
+    "ingredientes": [
+      "Sugar",
+      "enriched flour (wheat flour",
+      "niacin",
+      "iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "canola and/or soybean (with tbhq added for freshness) and/or palm oil",
+      "cocoa (processed with alkali)",
+      "dextrose",
+      "contains 2% or less of: high fructose corn syru"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Applesauce",
+    "marca": "Raley's",
+    "ean": "0046567029146",
+    "ingredientes": [
+      "ORGANIC APPLES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567029214",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER",
+      "OR CANOLA OIL)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, kettle potato chips, original",
+    "marca": "Raley's",
+    "ean": "0046567029221",
+    "ingredientes": [
+      "Potatoes",
+      "vegetable oil",
+      "(contains one or more of the following corn",
+      "sunflower",
+      "or canola oil)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic vanilla with almonds granola",
+    "marca": "Raley's",
+    "ean": "0046567029436",
+    "ingredientes": [
+      "Organic whole rolled oats",
+      "organic milled cane sugar",
+      "organic expeller pressed canola oil",
+      "organic rice flour",
+      "organic cornstarch",
+      "organic almonds",
+      "organic honey",
+      "salt",
+      "natural flavor",
+      "organic barley malt syrup",
+      "herb blend (organic sugar",
+      "organic cardamom",
+      "organic fennel seed",
+      "organic fenugreek",
+      "organic nutmeg)",
+      "organic vanilla extract",
+      "mixed tocopherols (natural vitamin e to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's organic, cocoa and chia seeds granola",
+    "marca": "Raley's",
+    "ean": "0046567029450",
+    "ingredientes": [
+      "Organic whole rolled oats",
+      "organic milled cane sugar",
+      "organic rice flour",
+      "organic expeller pressed canola oil",
+      "organic chia seeds",
+      "organic cocoa (processed with alkali)",
+      "salt",
+      "organic barley malt syrup",
+      "natural flavor",
+      "mixed tocopherols (natural vitamin e to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic baobab & coconut granola",
+    "marca": "Raley's",
+    "ean": "0046567029467",
+    "ingredientes": [
+      "Organic whole rolled oats",
+      "organic milled cane sugar",
+      "organic expeller pressed canola oil",
+      "organic rice flour",
+      "organic coconut",
+      "organic cornstarch",
+      "organic honey",
+      "natural flavor",
+      "salt",
+      "organic baobab fruit powder",
+      "organic barley malt syrup",
+      "organic almonds",
+      "mixed tocopherols (natural vitamin e to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Chocolate Corn Puffs Cereal",
+    "marca": "Raley's",
+    "ean": "0046567029504",
+    "ingredientes": [
+      "ORGANIC CORN FLOUR",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC INULIN",
+      "ORGANIC COCOA (PROCESSED WITH ALKALI)",
+      "ORGANIC SUNFLOWER OIL",
+      "COLOR ADDED",
+      "CALCIUM CARBONATE",
+      "SALT",
+      "NATURAL FLAVOR",
+      "ORGANIC SOY LECITHIN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey Oats And Almonds",
+    "marca": "Raley's",
+    "ean": "0046567029511",
+    "ingredientes": [
+      "WHOLE GRAIN CORN FLOUR",
+      "DRIED CANE SYRUP",
+      "CORN MEAL",
+      "WHOLE ROLLED OATS",
+      "ALMONDS",
+      "MALT SYRUP (CORN SYRUP",
+      "BARLEY MALT EXTRACT)",
+      "BROWN SUGAR",
+      "WHOLE WHEAT FLOUR",
+      "WHEAT BRAN",
+      "CORN FLOUR",
+      "SUGAR",
+      "SALT",
+      "WHOLE OAT FLOUR",
+      "HONEY",
+      "HIGH OLEIC SUNFLOWER OIL",
+      "RICE FLOU"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crispy Rice",
+    "marca": "Raley's",
+    "ean": "0046567029528",
+    "ingredientes": [
+      "ORGANIC RICE FLOUR",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC TAPIOCA SYRUP",
+      "SEA SALT",
+      "ORGANIC SUNFLOWER LECITHIN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Toasted Oats Cereal",
+    "marca": "Raley's",
+    "ean": "0046567029535",
+    "ingredientes": [
+      "ORGANIC WHOLE OAT FLOUR",
+      "ORGANIC WHEAT FLOUR",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC OAT BRAN",
+      "ORGANIC WHEAT STARCH",
+      "ORGANIC OAT FIBER",
+      "SALT",
+      "MIXED TOCOPHEROLS (USED TO MAINTAIN FRESHNESS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Honey Toasted Oats Cereal",
+    "marca": "Raley's",
+    "ean": "0046567029542",
+    "ingredientes": [
+      "ORGANIC WHOLE OAT FLOUR",
+      "ORGANIC WHEAT FLOUR",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC HONEY",
+      "ORGANIC OAT BRAN",
+      "ORGANIC WHEAT STARCH",
+      "ORGANIC SUNFLOWER OIL",
+      "ORGANIC OAT FIBER",
+      "SALT",
+      "MIXED TOCOPHEROLS (USED TO MAINTAIN FRESHNESS)",
+      "NATURAL FLAVORS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Wheat Flakes",
+    "marca": "Raley's",
+    "ean": "0046567029559",
+    "ingredientes": [
+      "ORGANIC WHOLE WHEAT FLOUR",
+      "ORGANIC WHEAT BRAN",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC BARLEY MALT EXTRACT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic cocoa crispy rice cereal",
+    "marca": "Raley's",
+    "ean": "0046567029573",
+    "ingredientes": [
+      "Organic rice flour",
+      "organic dried cane syrup",
+      "organic tapioca syrup",
+      "organic cocoa (processed with alkali)",
+      "organic sunflower oil",
+      "natural flavor",
+      "sea salt",
+      "organic sunflower lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic ground cumin",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567029641",
+    "ingredientes": [
+      "Organic ground cumin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic curry powder",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567029672",
+    "ingredientes": [
+      "Organic coriander",
+      "organic turmeric",
+      "organic cumin",
+      "organic fenugreek",
+      "sea salt",
+      "organic cayenne",
+      "organic ginger",
+      "organic cinnamon",
+      "organic cloves",
+      "organic cardamom",
+      "organic nutmeg."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sesame Seed",
+    "marca": "Raley's",
+    "ean": "0046567029696",
+    "ingredientes": [
+      "ORGANIC SESAME SEED."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Chili Powder",
+    "marca": "Raley's",
+    "ean": "0046567029726",
+    "ingredientes": [
+      "*CHILI PEPPER",
+      "SEA SALT",
+      "*CUMIN",
+      "*OREGANO",
+      "*GARLIC."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Beef Jerky",
+    "marca": "Raley's",
+    "ean": "0046567029764",
+    "ingredientes": [
+      "ORGANIC BEEF",
+      "WATER",
+      "ORGANIC EVAPORATED CANE SYRUP",
+      "ORGANIC SOY SAUCE (WATER",
+      "ORGANIC SOYBEANS",
+      "SALT",
+      "ORGANIC ALCOHOL)",
+      "ORGANIC APPLE CIDER VINEGAR SEA SALT",
+      "ORGANIC PAPRIKA NATURAL SMOKE FLAVORING",
+      "ORGANIC BLACK PEPPER",
+      "ORGANIC ONION POWDER",
+      "ORGANIC GARL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Almonds",
+    "marca": "Raley's",
+    "ean": "0046567029795",
+    "ingredientes": [
+      "ORGANIC ALMONDS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dry Roasted Almonds No Salt",
+    "marca": "Raley's",
+    "ean": "0046567029801",
+    "ingredientes": [
+      "Organic almonds dry roasted."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Cashews",
+    "marca": "Raley's",
+    "ean": "0046567029818",
+    "ingredientes": [
+      "ORGANIC CASHEWS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Roasted & Salted Whole Cashews",
+    "marca": "Raley's",
+    "ean": "0046567029825",
+    "ingredientes": [
+      "ORGANIC CASHEWS",
+      "ORGANIC OLEIC SUNFLOWER OIL",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Chocolate Fruit And Nut Mix",
+    "marca": "Raley's",
+    "ean": "0046567029832",
+    "ingredientes": [
+      "ORGANIC DARK CHOCOLATE CHIPS (ORGANIC CANE SUGAR",
+      "ORGANIC CHOCOLATE LIQUOR",
+      "ORGANIC COCOA BUTTER",
+      "SOY LECITHIN",
+      "ORGANIC VANILLA EXTRACT)",
+      "ORGANIC DRY ROASTED PEANUTS",
+      "ORGANIC DARK CHOCOLATE RAISINS (ORGANIC RAISINS",
+      "ORGANIC SUGAR",
+      "ORGANIC DRIED CANE SYRUP"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Walnuts Halves & Pieces",
+    "marca": "Raley's",
+    "ean": "0046567029849",
+    "ingredientes": [
+      "ORGANIC RAW WALNUTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Raw Halves Pecans",
+    "marca": "Raley's",
+    "ean": "0046567029856",
+    "ingredientes": [
+      "ORGANIC RAW PECANS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit And Nut Mix",
+    "marca": "Raley's",
+    "ean": "0046567029863",
+    "ingredientes": [
+      "ORGANIC ALMONDS",
+      "ORGANIC CRANBERRIES (ORGANIC CRANBERRIES",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC SUNFLOWER OIL)",
+      "ORGANIC RAISINS (TREATED WITH ORGANIC SUNFLOWER AND/OR ORGANIC CANOLA OIL)",
+      "ORGANIC CASHEW PIECES",
+      "ORGANIC RAW WALNUTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freeze Dried Strawberries",
+    "marca": "Raley's, Raley's Purely Made",
+    "ean": "0046567029870",
+    "ingredientes": [
+      "Strawberries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freeze Dried Apples Slices",
+    "marca": "Raley's",
+    "ean": "0046567029887",
+    "ingredientes": [
+      "FREEZE-DRIED FUJI APPLE WITH PEEL",
+      "ASCORBIC ACID",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Freeze Dried Bueberries",
+    "marca": "Raley's",
+    "ean": "0046567029894",
+    "ingredientes": [
+      "FREEZE-DRIED BLUEBERRIES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freeze Dried Grapes",
+    "marca": "Raley's",
+    "ean": "0046567029900",
+    "ingredientes": [
+      "FREEZE-DRIED RED GRAPES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freeze Dried Banana",
+    "marca": "Raley's",
+    "ean": "0046567029917",
+    "ingredientes": [
+      "FREEZE-DRIED BANANAS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/702/9917/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pumpkin Seeds",
+    "marca": "Raley's",
+    "ean": "0046567029924",
+    "ingredientes": [
+      "PUMPKIN SEED KERNEL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pure Made Sliced Mango",
+    "marca": "Raley's",
+    "ean": "0046567029931",
+    "ingredientes": [
+      "MANGO",
+      "SUGAR",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Veggie Chips",
+    "marca": "Raley's",
+    "ean": "0046567029955",
+    "ingredientes": [
+      "SWEET POTATO",
+      "SQUASH",
+      "CARROT",
+      "TARO",
+      "GREEN BEANS",
+      "NON-HYDROGENATED CANOLA OIL",
+      "DEXTRIN",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roley's, Dry Roasted Tamari Almonds",
+    "marca": "Raley's",
+    "ean": "0046567029962",
+    "ingredientes": [
+      "Almonds",
+      "organic wheat-free tamari seasoning (water",
+      "organic soybeans",
+      "salt",
+      "organic alcohol)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, honey sesame sticks, roasted",
+    "marca": "Raley's",
+    "ean": "0046567029979",
+    "ingredientes": [
+      "Unbleached wheat flour (contains malted barley flour as a natural enzyme additive)",
+      "soybean oil",
+      "sesame seeds",
+      "honey coating (sucrose",
+      "wheat starch",
+      "honey)",
+      "bulgur wheat",
+      "tack blend (maltodextrin",
+      "xanthan gum)",
+      "salt",
+      "beet powder (color)",
+      "turmeric (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Beans",
+    "marca": "Raley's",
+    "ean": "0046567029986",
+    "ingredientes": [
+      "GREEN BEANS",
+      "NON-HYDROGENATED CANOLA OIL",
+      "DEXTRIN",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dry Roasted Salted Edamame",
+    "marca": "Raley's",
+    "ean": "0046567029993",
+    "ingredientes": [
+      "SOYBEAN",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baked Woven Wheats Crackers",
+    "marca": "Raley's",
+    "ean": "0046567030043",
+    "ingredientes": [
+      "WHOLE WHEAT",
+      "CANOLA AND/OR SOYBEAN AND/OR PALM OIL WITH TBHQ ADDED TO PRESERVE FRESHNESS",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, baked thin wheat crackers, original thin and crispy",
+    "marca": "Raley's",
+    "ean": "0046567030050",
+    "ingredientes": [
+      "Whole wheat flour",
+      "canola and/or soybean and/or palm oil with tbhq added to preserve freshness",
+      "sugar",
+      "corn starch",
+      "contains 2% or less of: salt",
+      "malt cereal syrup",
+      "invert sugar",
+      "calcium phosphate (leavening)",
+      "baking soda",
+      "annatto extract (color)",
+      "oleoresin turmeric (color)",
+      "sodium sulfite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baked Thin Wheat Crackers",
+    "marca": "Raley's",
+    "ean": "0046567030067",
+    "ingredientes": [
+      "WHOLE WHEAT FLOUR",
+      "SUGAR",
+      "CANOLA AND/OR SOYBEAN AND/OR PALM OIL WITH TBHQ ADDED TO PRESERVE FRESHNESS",
+      "CORN STARCH",
+      "CONTAINS 2% OR LESS OF: SALT",
+      "MALT CEREAL SYRUP",
+      "INVERT SUGAR",
+      "CALCIUM PHOSPHATE (LEAVENING)",
+      "BAKING SODA",
+      "ANNATTO EXTRACT (COLOR)",
+      "OLEORES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Corn Flakes",
+    "marca": "Raley's",
+    "ean": "0046567030074",
+    "ingredientes": [
+      "ORGANIC WHOLE GRAIN CORN FLOUR",
+      "ORGANIC CORN MEAL",
+      "ORGANIC DRIED CANE SYRUP",
+      "ORGANIC TAPIOCA SYRUP",
+      "SEA SALT",
+      "ORGANIC BARLEY MALT EXTRACT",
+      "REDUCED IRON",
+      "FOLIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Napoletana Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030081",
+    "ingredientes": [
+      "ITALIAN VINE RIPENED ORGANIC TOMATOES (ORGANIC DICED",
+      "ORGANIC JUICE)",
+      "ITALIAN ORGANIC WHOLE CHERRY TOMATOES",
+      "ORGANIC TOMATO PASTE",
+      "ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "ORGANIC ONION",
+      "ORGANIC CARROTS",
+      "ORGANIC ITALIAN BASIL",
+      "SALT",
+      "CITRIC ACID",
+      "ORGANIC GROUND BLA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030098",
+    "ingredientes": [
+      "ITALIAN VINE RIPENED ORGANIC TOMATOES (ORGANIC DICED",
+      "ORGANIC JUICE)",
+      "ITALIAN ORGANIC WHOLE CHERRY TOMATOES",
+      "ORGANIC TOMATO PASTE",
+      "ORGANIC EXTRA VIRGIN OLIVE OI",
+      "ORGANIC PARMIGIANO REGGIANO CHEESE (ORGANIC COW'S MILK",
+      "RENNET",
+      "SALT)",
+      "ORGANIC ONION",
+      "SALT",
+      "O"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Arrabbiata Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030104",
+    "ingredientes": [
+      "ITALIAN VINE RIPENED ORGANIC TOMATOES (ORGANIC DICED",
+      "ORGANIC JUICE)",
+      "ITALIAN ORGANIC WHOLE CHERRY TOMATOES",
+      "ORGANIC TOMATO PASTE",
+      "ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "ORGANIC ONION",
+      "ORGANIC CARROTS",
+      "SALT",
+      "CITRIC ACID",
+      "ORGANIC CHILI PEPPER POWDER",
+      "ORGANIC GROU"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030111",
+    "ingredientes": [
+      "ITALIAN VINE RIPENED ORGANIC TOMATOES (ORGANIC DICED",
+      "ORGANIC JUICE)",
+      "ITALIAN ORGANIC WHOLE CHERRY TOMATOES",
+      "ORGANIC TOMATO PASTE",
+      "ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "ORGANIC ROASTED GARLIC",
+      "ORGANIC PARSLEY",
+      "CITRIC ACID",
+      "ORGANIC GARLIC POWDER",
+      "ORGANIC GROUND"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030128",
+    "ingredientes": [
+      "ITALIAN VINE RIPENED ORGANIC TOMATOES (ORGANIC DICED",
+      "ORGANIC JUICE)",
+      "ITALIAN ORGANIC WHOLE CHERRY TOMATOES",
+      "ORGANIC TOMATO PASTE",
+      "ORGANIC SLICED GREEN OLIVES",
+      "ORGANIC CAPERS",
+      "ORGANIC EXTRA VIRGIN OLIVE OIL",
+      "SALT",
+      "ORGANIC PARSLEY",
+      "CITRIC ACID",
+      "ORGANIC GAR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oatmeal Berry Crunch Cereal",
+    "marca": "Raley's",
+    "ean": "0046567030173",
+    "ingredientes": [
+      "WHOLE OAT FLOUR",
+      "SUGAR",
+      "WHOLE WHEAT FLOUR",
+      "WHOLE ROLLED OATS",
+      "DRIED CANE SYRUP",
+      "MALT SYRUP (CORN SYRUP",
+      "BARLEY MALT EXTRACT)",
+      "BARLEY MALT EXTRACT",
+      "POTASSIUM CITRATE",
+      "STRAWBERRIES",
+      "BLUEBERRIES",
+      "RASPBERRIES",
+      "NATURAL FLAVOR",
+      "WHEAT STARCH",
+      "SALT",
+      "COLOR ADDED"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bloody Mary Cocktail Mix",
+    "marca": "Raley's",
+    "ean": "0046567030418",
+    "ingredientes": [
+      "WATER",
+      "TOMATOES",
+      "ROCHESTER SAUCE (DISTILLED VINEGAR",
+      "CORN SYRUP",
+      "WATER",
+      "SALT",
+      "GARLIC POWDER",
+      "SPICES",
+      "TAMARIND",
+      "NATURAL FLAVOR)",
+      "FRESH ONION",
+      "FRESH HORSERADISH",
+      "CELERY SALT (CELERY",
+      "SALT)",
+      "FRESH GARLIC",
+      "FRESH DILL",
+      "FRESH LEMON JUICE",
+      "HOT SAUCE (AGED CAYENN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic raisins",
+    "marca": "Raley's",
+    "ean": "0046567030456",
+    "ingredientes": [
+      "Organic raisins."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yellow Popcorn",
+    "marca": "Raley's",
+    "ean": "0046567030463",
+    "ingredientes": [
+      "ORGANIC YELLOW POPCORN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, amarena gelato, cherry, cream",
+    "marca": "Raley's",
+    "ean": "0046567030517",
+    "ingredientes": [
+      "Skim milk",
+      "cherry syrup (corn syrup",
+      "cherry juice",
+      "sugar",
+      "pectin",
+      "propylene glycol alginate",
+      "citric acid",
+      "artificial flavor)",
+      "sugar",
+      "coconut oil",
+      "high fructose corn syrup",
+      "cherries",
+      "corn syrup",
+      "butter",
+      "mono-and diglycerides",
+      "sodium alginate",
+      "locust bean gum",
+      "citric acid",
+      "tartaric acid",
+      "artificial flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tuscan Caponata",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567030531",
+    "ingredientes": [
+      "EGGPLANT",
+      "DICED TOMATO",
+      "EXTRA VIRGIN OLIVE OIL",
+      "ONION",
+      "CELERY",
+      "OLIVES",
+      "CAPERS",
+      "BLACK PEPPER",
+      "SUGAR",
+      "WINE VINEGAR",
+      "RAISIN",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Artichoke",
+    "marca": "Raley's",
+    "ean": "0046567030548",
+    "ingredientes": [
+      "ARTICHOKE (ARTICHOKE",
+      "WATER",
+      "SALT",
+      "CITRIC ACID",
+      "ASCORBIC ACID)",
+      "DICED TOMATO",
+      "EXTRA VIRGIN OLIVE OIL",
+      "ONION",
+      "GARLIC",
+      "PARSLEY",
+      "BASIL",
+      "SEA SALT",
+      "CHILI."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nob Hill Trading Co, Triple Chocolate Chip Cookie Mix",
+    "marca": "Raley's",
+    "ean": "0046567030593",
+    "ingredientes": [
+      "Traditional base: enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "pure cane sugar",
+      "brown sugar (sugar",
+      "molasses)",
+      "baking soda (sodium bicarbonate)",
+      "salt",
+      "white chocolate: sugar",
+      "cocoa butter",
+      "whole milk powder",
+      "nonfat milk powder",
+      "soy lecithin (emulsifier)",
+      "vanilla and natural flavor. milk chocolate: sugar",
+      "whole milk powder",
+      "chocolate liquor",
+      "cocoa butter",
+      "milk fat",
+      "soy lecithin (emulsifier)",
+      "and natural flavor. semisweet chocolate: sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin (emulsifier)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Traditional Refried Beans",
+    "marca": "Raley's",
+    "ean": "0046567030623",
+    "ingredientes": [
+      "COOKED BEANS",
+      "WATER",
+      "LARD",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vegetarian Refried Beans",
+    "marca": "Raley's",
+    "ean": "0046567030630",
+    "ingredientes": [
+      "COOKED BEANS",
+      "WATER",
+      "CANOLA OIL",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Refried Beans",
+    "marca": "Raley's",
+    "ean": "0046567030654",
+    "ingredientes": [
+      "COOKED BEANS",
+      "WATER",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Vegetarian Seasoned Refried Beans",
+    "marca": "Raley's",
+    "ean": "0046567030678",
+    "ingredientes": [
+      "COOKED ORGANIC BEANS",
+      "WATER",
+      "LESS THAN 2% OF THE FOLLOWING: SEA SALT",
+      "ORGANIC CANOLA OIL AND ORGANIC SEASONING (ORGANIC ONION POWDER",
+      "ORGANIC SPICES)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Vegetarian Black Refried Beans",
+    "marca": "Raley's",
+    "ean": "0046567030685",
+    "ingredientes": [
+      "PREPARED ORGANIC BLACK BEANS",
+      "WATER",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Mushrooms",
+    "marca": "Raley's",
+    "ean": "0046567030692",
+    "ingredientes": [
+      "MUSHROOMS",
+      "WATER",
+      "SALT",
+      "CITRIC ACID",
+      "ASCORBIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Goat Cheese & Roasted Tomato Ravioli",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567030708",
+    "ingredientes": [
+      "FILLING: RICOTTA CHEESE (MILK WHEY",
+      "SALT",
+      "CITRIC ACID)",
+      "CREAM",
+      "MOZZARELLA CHEESE (MILK",
+      "SALT",
+      "RENNET)",
+      "BREADCRUMBS (WHEAT FLOUR",
+      "NATURAL YEAST",
+      "SALT)",
+      "ROASTED TOMATO",
+      "SUNFLOWER OIL",
+      "GRANA PADANO CHEESE DOP (MILK",
+      "SALT",
+      "RENNET",
+      "LYSOZYME FROM EGG WHITE)",
+      "SA"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "GRANA PADANO CHEESE DOP (MILK",
+        "razon": "Contiene GRANA PADANO CHEESE DOP (MILK, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Porcini Mushroom Ravioli",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567030715",
+    "ingredientes": [
+      "FILLING: SAUTEED MUSHROOMS (MUSHROOMS",
+      "PORCINI MUSHROOMS",
+      "ONION",
+      "SUNFLOWER OIL",
+      "PARSLEY",
+      "SALT",
+      "DRIED PORCINI MUSHROOM",
+      "BLACK PEPPER",
+      "GARLIC)",
+      "BUTTER",
+      "BREADCRUMBS (WHEAT FLOUR",
+      "NATURAL YEAST",
+      "SALT)",
+      "RICOTTA CHEESE (CULTURED WHEY",
+      "SALT",
+      "CITRIC ACID)",
+      "WATER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Buffalo Milk Mozzarella & Balsamic Vinegar Ravioli",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567030739",
+    "ingredientes": [
+      "FILLING: BUFFALO MILK MOZZARELLA CHEESE (BUFFALO MILK",
+      "SALT",
+      "BENNET)",
+      "BUTTER",
+      "RICOTTA CHEESE (CULTURED WHEY",
+      "SALT",
+      "CITRIC ACID)",
+      "GRANA PADANO CHEESE DOP (MILK",
+      "SALT",
+      "RENNET",
+      "LYSOZYME FROM EGG WHITE)",
+      "BALSAMIC VINEGAR SAUCE [BALSAMIC VINEGAR SAUCE"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "GRANA PADANO CHEESE DOP (MILK",
+        "razon": "Contiene GRANA PADANO CHEESE DOP (MILK, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Solid white albacore",
+    "marca": "Raley's",
+    "ean": "0046567030753",
+    "ingredientes": [
+      "Albacore tuna",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Evaporated Milk",
+    "marca": "Raley's",
+    "ean": "0046567030821",
+    "ingredientes": [
+      "MILK",
+      "DIPOTASSIUM PHOSPHATE",
+      "CARRAGEENAN",
+      "VITAMIN D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Cream",
+    "marca": "Raley's",
+    "ean": "0046567030838",
+    "ingredientes": [
+      "MILK",
+      "SUGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Three Cheese Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030869",
+    "ingredientes": [
+      "TOMATO PUREE (WATER",
+      "TOMATO PASTE)",
+      "DICED TOMATOES IN TOMATO JUICE",
+      "SUGAR",
+      "VEGETABLE OIL (COTTONSEED AND/OR CANOLA AND/OR SOYBEAN)",
+      "SALT",
+      "ROMANO CHEESE MADE FROM COW'S MILK (PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYME)",
+      "RICOTTA CHEESE (PASTEURIZED MILK"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinara Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030876",
+    "ingredientes": [
+      "TOMATO PUREE (WATER",
+      "TOMATO PASTE)",
+      "DICED TOMATOES IN TOMATO JUICE",
+      "CANOLA OIL",
+      "SALT",
+      "DEHYDRATED ONIONS",
+      "DEHYDRATED GARLIC",
+      "SPICE",
+      "CITRIC ACID",
+      "DEHYDRATED PARSLEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Meat flavored pasta sauce, meat",
+    "marca": "Raley's",
+    "ean": "0046567030883",
+    "ingredientes": [
+      "Tomato puree (water",
+      "tomato paste)",
+      "diced tomatoes in tomato juice",
+      "sugar",
+      "vegetable oil (cottonseed and/or canola and/or soybean)",
+      "contains less than 1% of: salt",
+      "beef",
+      "dehydrated garlic",
+      "onion powder",
+      "spices",
+      "citric acid",
+      "dehydrated parsley",
+      "flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/0883/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030890",
+    "ingredientes": [
+      "TOMATO PUREE (WATER",
+      "TOMATO PASTE)",
+      "DICED TOMATOES IN TOMATO JUICE MUSHROOMS",
+      "SUGAR",
+      "VEGETABLE OIL (COTTONSEED AND/OR CANOLA AND/OR SOYBEAN",
+      "SALT",
+      "DEHYDRATED GARLIC",
+      "ONION POWDER",
+      "SPICES (BASIL",
+      "OREGANO",
+      "SPICE)",
+      "CITRIC ACID",
+      "DEHYDRATED PARSLEY",
+      "FLAVORING."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pasta Sauce",
+    "marca": "Raley's",
+    "ean": "0046567030913",
+    "ingredientes": [
+      "TOMATO PUREE (WATER",
+      "TOMATO PASTE)",
+      "DICED TOMATOES IN TOMATO JUICE SUGAR",
+      "VEGETABLE OIL (COTTONSEED AND/OR CANOLA AND/OR SOYBEAN)",
+      "SALT",
+      "DEHYDRATED GARLIC",
+      "ONION POWDER",
+      "SPICES (BASIL",
+      "OREGANO",
+      "SPICE)",
+      "CITRIC ACID",
+      "DEHYDRATED PARSLEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lightly Salted Dry Roasted Seasoned Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567030937",
+    "ingredientes": [
+      "DRY ROASTED SEASONED PEANUTS (PEANUTS",
+      "DRY ROAST SEASONING [SALT",
+      "CORNSTARCH",
+      "SUGAR",
+      "TORULA YEAST",
+      "SPICES",
+      "PAPRIKA",
+      "ONION POWDER",
+      "SOYBEAN OIL",
+      "MALTODEXTRIN",
+      "GARLIC POWDER",
+      "NATURAL HICKORY SMOKE FLAVOR]",
+      "MALTODEXTRIN AND XANTHAN GUM)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dry Roasted Seasoned Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567030944",
+    "ingredientes": [
+      "DRY ROASTED SEASONED PEANUTS (PEANUTS",
+      "DRY ROAST SEASONING [SALT",
+      "CORNSTARCH",
+      "SUGAR",
+      "TORULA YEAST",
+      "SPICES",
+      "PAPRIKA",
+      "ONION POWDER",
+      "SOYBEAN OIL",
+      "MALTODEXTRIN",
+      "GARLIC POWDER",
+      "NATURAL HICKORY SMOKE FLAVOR]",
+      "MALTODEXTRIN AND XANTHAN GUM)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Dry Roasted Unsalted Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567030951",
+    "ingredientes": [
+      "DRY ROASTED PEANUTS (DRY ROASTED BLANCHED PEANUTS)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted salted almonds",
+    "marca": "Raley's",
+    "ean": "0046567030968",
+    "ingredientes": [
+      "Almonds",
+      "vegetable oil (may contain one or more of the following: peanut",
+      "canola",
+      "sunflower and/or soybean oil)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cashews Halves & Pieces",
+    "marca": "Raley's",
+    "ean": "0046567030975",
+    "ingredientes": [
+      "CASHEWS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted party peanuts",
+    "marca": "Raley's",
+    "ean": "0046567030982",
+    "ingredientes": [
+      "Peanuts",
+      "vegetable oil (may contain one or more of the following: peanut",
+      "canola",
+      "sunflower and/or soybean oil)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Lightly Salted Cashews",
+    "marca": "Raley's",
+    "ean": "0046567030999",
+    "ingredientes": [
+      "CASHEWS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Almonds",
+    "marca": "Raley's",
+    "ean": "0046567031002",
+    "ingredientes": [
+      "ALMONDS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Macadamia Nuts",
+    "marca": "Raley's",
+    "ean": "0046567031019",
+    "ingredientes": [
+      "MACADAMIA NUTS",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Whole Cashews",
+    "marca": "Raley's",
+    "ean": "0046567031026",
+    "ingredientes": [
+      "CASHEWS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deluxe Mixed Nuts",
+    "marca": "Raley's",
+    "ean": "0046567031033",
+    "ingredientes": [
+      "CASHEWS",
+      "ALMONDS",
+      "BRAZIL NUTS",
+      "FILBERTS",
+      "PECANS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey Roasted Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567031040",
+    "ingredientes": [
+      "PEANUTS",
+      "HONEY POWDER (SUCROSE",
+      "WHEAT STARCH",
+      "HONEY VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "MALTODEXTRIN",
+      "XANTHAN GUM",
+      "SUGAR",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mixed Nuts With Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567031057",
+    "ingredientes": [
+      "PEANUTS",
+      "ALMONDS",
+      "CASHEWS",
+      "BRAZIL NUTS",
+      "FILBERTS",
+      "PECANS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Spanish Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567031064",
+    "ingredientes": [
+      "PEANUTS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked Almonds",
+    "marca": "Raley's",
+    "ean": "0046567031071",
+    "ingredientes": [
+      "ALMONDS",
+      "SMOKED ALMOND SEASONING (SALT",
+      "CORN STARCH",
+      "HYDROLYZED SOY PROTEIN",
+      "DEXTROSE",
+      "NATURAL SMOKE FLAVOR [MALTODEXTRIN",
+      "NATURAL HICKORY SMOKE FLAVOR",
+      "HYDRATED SILICON DIOXIDE FOR ANTICAKING]",
+      "GARLIC",
+      "ONION POWDER",
+      "WITH NO MORE THAN 2% SILICON DIOXIDE A"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sunflower Kernels",
+    "marca": "Raley's",
+    "ean": "0046567031088",
+    "ingredientes": [
+      "SUNFLOWER SEEDS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mixed Nuts With Peanuts",
+    "marca": "Raley's",
+    "ean": "0046567031095",
+    "ingredientes": [
+      "PEANUTS",
+      "ALMONDS",
+      "CASHEWS",
+      "BRAZIL NUTS",
+      "FILBERTS",
+      "PECANS",
+      "VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: PEANUT",
+      "CANOLA",
+      "SUNFLOWER AND/OR SOYBEAN OIL)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Potato Gnocchi",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567031101",
+    "ingredientes": [
+      "POTATO PUREE 70% [WATER",
+      "DEHYDRATED POTATO FLAKE (POTATOES",
+      "EMULSIFIER: MONO AND DIGLYCERIDES OF FATTY ACIDS",
+      "NATURAL FLAVORINGS)]",
+      "WHEAT FLOUR",
+      "POTATO STARCH",
+      "RICE FLOUR",
+      "SALT",
+      "SPICES",
+      "ACIDITY REGULATOR: LACTIC ACID",
+      "PRESERVATIVE: POTASSIUM SORBATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mini Potato Gnocchi",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567031118",
+    "ingredientes": [
+      "POTATO PUREE 70% [WATER",
+      "DEHYDRATED POTATO FLAKE (POTATOES",
+      "EMULSIFIER: MONO AND DIGLYCERIDES OF FATTY ACIDS",
+      "NATURAL FLAVORINGS)]",
+      "WHEAT FLOUR",
+      "POTATO STARCH",
+      "RICE FLOUR",
+      "SALT",
+      "SPICES",
+      "ACIDITY REGULATOR: LACTIC ACID",
+      "PRESERVATIVE: POTASSIUM SORBATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Chewy Covered With Dark Chocolate",
+    "marca": "Raley's",
+    "ean": "0046567031125",
+    "ingredientes": [
+      "SEMISWEET CHOCOLATE (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER",
+      "CHOCOLATE LIQUOR PROCESSED WITH ALKALI",
+      "SOY LECITHIN [EMULSIFIER]",
+      "VANILLA EXTRACT)",
+      "RAISINS (TREATED WITH SUNFLOWERS OIL)",
+      "CONFECTIONER'S GLAZE (WATER",
+      "GUM ARABIC",
+      "SUGAR",
+      "CORN SYRUP)",
+      "RESINOUS G"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Coffee Beans",
+    "marca": "Raley's",
+    "ean": "0046567031132",
+    "ingredientes": [
+      "SEMISWEET CHOCOLATE (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER",
+      "CHOCOLATE LIQUOR PROCESSED WITH ALKALI",
+      "SOY LECITHIN [EMULSIFIER]",
+      "VANILLA EXTRACT)",
+      "ROASTED COFFEE BEANS",
+      "CONFECTIONER'S GLAZE (WATER",
+      "GUM ARABIC",
+      "SUGAR",
+      "CORN SYRUP)",
+      "RESINOUS GLAZE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yogurt Raisins",
+    "marca": "Raley's",
+    "ean": "0046567031156",
+    "ingredientes": [
+      "YOGURT-FLAVORED COATING (SUGAR",
+      "PALM KERNEL AND PALM OIL",
+      "SKIM MILK POWDER",
+      "YOGURT POWDER [CULTURED WHEY PROTEIN CONCENTRATE",
+      "CULTURED SKIM MILK]",
+      "REDUCED MINERAL WHEY POWDER",
+      "SOY LECITHIN [AN EMULSIFIER]",
+      "VANILLA EXTRACT",
+      "LACTIC ACID",
+      "SALT)",
+      "RAISINS (TRE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted Almonds In Dark Chocolates",
+    "marca": "Raley's",
+    "ean": "0046567031187",
+    "ingredientes": [
+      "SEMISWEET CHOCOLATE (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER",
+      "CHOCOLATE LIQUOR PROCESSED WITH ALKALI",
+      "SOY LECITHIN [EMULSIFIER]",
+      "VANILLA EXTRACT)",
+      "ALMONDS (ROASTED IN SUNFLOWER OIL)",
+      "CONFECTIONER'S GLAZE (WATER",
+      "GUM ARABIC",
+      "SUGAR",
+      "CORN SYRUP)",
+      "RESINOUS GLAZ"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Chocolate Butter Crunch Toffee",
+    "marca": "Raley's",
+    "ean": "0046567031200",
+    "ingredientes": [
+      "TOFFEE CENTER (SUGAR",
+      "CORN SYRUP",
+      "SWEET BUTTER [CREAM",
+      "NATURAL FLAVOR]",
+      "CASHEW PIECES",
+      "PALM KERNEL OIL [WITH CITRIC ACID FOR FRESHNESS]",
+      "BAKING SODA)",
+      "MILK CHOCOLATE (SUGAR",
+      "COCOA BUTTER",
+      "CHOCOLATE LIQUOR",
+      "WHOLE MILK POWDER",
+      "SOY LECITHIN",
+      "[EMULSIFIER]",
+      "VA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, milk chocolate, peanut butter",
+    "marca": "Raley's",
+    "ean": "0046567031217",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "cocoa butter",
+      "chocolate liquor",
+      "whole milk powder",
+      "soy lecithin [emulsifier]",
+      "vanilla extract)",
+      "peanut butter poppers (sugar",
+      "corn syrup",
+      "peanut butter [contains dry roasted peanuts",
+      "salt",
+      "tocopherol to maintain freshness]",
+      "natural annatto extract",
+      "natural vanilla flavor)",
+      "confectioner's glaze (water",
+      "gum arabic",
+      "sugar",
+      "corn syrup)",
+      "resinous glaze."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chunk Light Tuna In Water",
+    "marca": "Raley's",
+    "ean": "0046567031231",
+    "ingredientes": [
+      "LIGHT TUNA",
+      "WATER",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, cake mix, vanilla",
+    "marca": "Raley's",
+    "ean": "0046567031248",
+    "ingredientes": [
+      "Sugar",
+      "enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "baking powder (monocalcium phosphate",
+      "sodium bicarbonate",
+      "cornstarch)",
+      "natural flavor",
+      "sea salt",
+      "guar gum",
+      "vanilla powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, cookie mix, chocolate chunk",
+    "marca": "Raley's",
+    "ean": "0046567031262",
+    "ingredientes": [
+      "Enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "semisweet chocolate chunks (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "milk fat",
+      "soy lecithin [emulsifier]",
+      "salt",
+      "vanilla)",
+      "brown sugar",
+      "sugar",
+      "natural flavor",
+      "sea salt",
+      "baking soda."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, brownie mix, chocolate",
+    "marca": "Raley's",
+    "ean": "0046567031279",
+    "ingredientes": [
+      "Sugar",
+      "enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "alkalized cocoa powder",
+      "natural flavor",
+      "baking powder (monocalcium phosphate",
+      "sodium bicarbonate",
+      "cornstarch)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Bread Mix Pumpkin Spice",
+    "marca": "Raley's",
+    "ean": "0046567031286",
+    "ingredientes": [
+      "SUGAR",
+      "ENRICHED WHEAT FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "PUMPKIN",
+      "ORGANIC SPICES",
+      "BAKING SODA",
+      "BAKING POWDER (MONOCALCIUM PHOSPHATE",
+      "SODIUM BICARBONATE",
+      "CORNSTARCH)",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Country Style Cornbread Mix",
+    "marca": "Raley's",
+    "ean": "0046567031293",
+    "ingredientes": [
+      "ENRICHED WHEAT FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "ENRICHED DEGERMED YELLOW CORN MEAL (YELLOW DENT CORN",
+      "IRON",
+      "NIACIN",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "SUGAR",
+      "CORN",
+      "BAKING POWDER (MONOCALCIU"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marshmallows",
+    "marca": "Raley's",
+    "ean": "0046567031354",
+    "ingredientes": [
+      "CORN SYRUP",
+      "SUGAR",
+      "MODIFIED FOOD STARCH (CORN)",
+      "GELATIN",
+      "WATER",
+      "DEXTROSE",
+      "NATURAL AND ARTIFICIAL FLAVOR",
+      "TETRASODIUM PYROPHOSPHATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Maple Water",
+    "marca": "Raley's",
+    "ean": "0046567031583",
+    "ingredientes": [
+      "MAPLE SAP",
+      "MAPLE SYRUP",
+      "LEMON JUICE FROM CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hemp Seeds Shelled",
+    "marca": "Raley's",
+    "ean": "0046567031613",
+    "ingredientes": [
+      "SHELLED HEMP SEEDS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wood Fired Crust Pizza",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567031651",
+    "ingredientes": [
+      "DOUGH (SOFT WHEAT FLOUR",
+      "WATER",
+      "SUNFLOWER SEED OIL",
+      "SALT",
+      "YEAST). TOPPING: TOMATO SAUCE (TOMATO PASSATA",
+      "TOMATO PULP",
+      "OLIVE OIL",
+      "SUGAR",
+      "SALT",
+      "OREGANO",
+      "BASIL)",
+      "SEASONED VEGETABLES [GRILLED EGGPLANT",
+      "GRILLED ZUCCHINI",
+      "ONIONS (ONIONS",
+      "SUNFLOWER SEED OIL)",
+      "GR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wood Fired Crust Pizza",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567031668",
+    "ingredientes": [
+      "CRUST: DOUGH (SOFT WHEAT FLOUR",
+      "WATER",
+      "SUNFLOWER SEED OIL",
+      "SALT",
+      "YEAST). TOPPING: TOMATO SAUCE (TOMATO PASSATA",
+      "TOMATO PULP",
+      "OLIVE OIL",
+      "SUGAR",
+      "SALT",
+      "OREGANO",
+      "BASIL)",
+      "BUFFALO MOZZARELLA CHEESE (BUFFALO MILK",
+      "SALT",
+      "MICROBIAL RENNET",
+      "LACTIC FERMENTS)",
+      "MOZZAR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wood Fired Crust Pizza",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567031675",
+    "ingredientes": [
+      "CRUST: DOUGH (SOFT WHEAT FLOUR",
+      "WATER",
+      "SUNFLOWER SEED OIL",
+      "SALT",
+      "YEAST). TOPPING: BASIL SAUCE [WATER",
+      "OLIVE OIL",
+      "BASIL",
+      "SPINACH",
+      "HARD CHEESE (MILK",
+      "SALT",
+      "LACTIC ACID",
+      "MICROBIAL RENNET)",
+      "GARLIC",
+      "CORNSTARCH]",
+      "MOZZARELLA CHEESE (MILK",
+      "STARTER CULTURE",
+      "MICROB"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wood fired crust pizza",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567031682",
+    "ingredientes": [
+      "Crust: dough (soft wheat flour",
+      "water",
+      "sunflower seed oil",
+      "salt",
+      "yeast). topping: white sauce [water",
+      "cream (cream",
+      "modified starch",
+      "mono - and di glycerides of fatty acids",
+      "carboxymethylcellulose",
+      "sodium citrate",
+      "carrageenan)",
+      "stracchino cheese (milk",
+      "salt",
+      "animal rennet",
+      "lactic ferments)",
+      "mascarpone cheese (cream",
+      "citric acid)",
+      "corn starch]",
+      "mozzarella cheese (milk",
+      "salt",
+      "starter culture",
+      "microbial rennet)",
+      "mushrooms",
+      "seasoned mushrooms [mushrooms",
+      "sunflower seed oil",
+      "rice starch",
+      "salt",
+      "garlic",
+      "parsley",
+      "onion",
+      "vegetable aroma",
+      "mushroom aroma]",
+      "fried onion (onion",
+      "sunflower seed oil)",
+      "grana padano dop cheese (milk",
+      "salt",
+      "animal",
+      "rennet",
+      "lisozyme from eggs)",
+      "parsley."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "grana padano dop cheese (milk",
+        "razon": "Contiene grana padano dop cheese (milk, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, dark chocolate bar, morita chili pepper",
+    "marca": "Raley's",
+    "ean": "0046567031699",
+    "ingredientes": [
+      "Dark chocolate (cocoa mass",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "morita chile pepper powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Bar",
+    "marca": "Raley's",
+    "ean": "0046567031705",
+    "ingredientes": [
+      "DARK CHOCOLATE (COCOA MASS",
+      "SUGAR",
+      "COCOA BUTTER",
+      "SOY LECITHIN [EMULSIFIER]",
+      "AND NATURAL VANILLA EXTRACT)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark chocolate",
+    "marca": "Raley's",
+    "ean": "0046567031712",
+    "ingredientes": [
+      "Dark chocolate (cocoa mass",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "himalayan pink sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, dark chocolate bar, espresso bean",
+    "marca": "Raley's",
+    "ean": "0046567031729",
+    "ingredientes": [
+      "Dark chocolate (cocoa mass",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "ground roasted coffee beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Toffee pretzel sea salt",
+    "marca": "Raley's",
+    "ean": "0046567031736",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "cocoa butter",
+      "cocoa mass",
+      "whole milk powder",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "pretzel bits (wheat flour",
+      "malt",
+      "salt",
+      "pure soybean oil",
+      "vegetable fiber",
+      "yeast and soda)",
+      "toffee (granulated sugar",
+      "corn syrup and/or glucose syrup",
+      "unsalted butter [pasteurized cream",
+      "natural flavorings]",
+      "water",
+      "palm oil",
+      "sea salt",
+      "pure vanilla paste [sugar",
+      "madagascar bourbon",
+      "vanilla extract",
+      "vanilla bean specks and gum tragacanth (vegetable based thickener)]",
+      "soy lecithin)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, milk chocolate bar, toasted coconut",
+    "marca": "Raley's",
+    "ean": "0046567031743",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "cocoa butter",
+      "cocoa mass",
+      "whole milk powder",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "toasted coconut (coconut",
+      "sugar",
+      "salt)",
+      "natural coconut cream extract (soy lecithin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, macaroni & cheese, roasted jalapeno",
+    "marca": "Raley's",
+    "ean": "0046567031750",
+    "ingredientes": [
+      "Cooked elbow macaroni (water",
+      "enriched semolina [durum wheat semoline",
+      "niacin",
+      "ferrous sulfate",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid])",
+      "milk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Macaroni & Cheese",
+    "marca": "Raley's",
+    "ean": "0046567031767",
+    "ingredientes": [
+      "COOKED ELBOW MACARONI [WATER",
+      "ENRICHED SEMOLINA (DURUM WHEAT SEMOLINA",
+      "NIACIN",
+      "FERROUS SULFATE",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)]",
+      "MILK",
+      "CHEDDAR CHEESE (PASTEURIZED COW'S MILK",
+      "CHEESE CULTURES",
+      "SALT",
+      "ENZYMES",
+      "ANNATTO [COLOR])",
+      "HAVARTI CHEESE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced Fat Macaroni & Cheese",
+    "marca": "Raley's",
+    "ean": "0046567031774",
+    "ingredientes": [
+      "COOKED ELBOW MACARONI (WATER",
+      "ENRICHED SEMOLINA [DURUM WHEAT SEMOLINA",
+      "NIACIN",
+      "FERROUS SULFATE",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID])",
+      "NON FAT MILK",
+      "CHEDDAR CHEESE (PASTEURIZED COW'S MILK",
+      "CHEESE CULTURES",
+      "SALT",
+      "ENZYMES",
+      "ANNATTO [COLOR])",
+      "ENRICHE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Toasted Oats Cereal",
+    "marca": "Raley's",
+    "ean": "0046567031811",
+    "ingredientes": [
+      "WHOLE GRAIN OAT FLOUR (INCLUDES THE OAT BRAN)",
+      "WHEAT STARCH",
+      "SUGAR",
+      "MODIFIED CORN STARCH",
+      "OAT FIBER",
+      "SALT",
+      "OAT EXTRACT",
+      "DICALCIUM PHOSPHATE",
+      "TRIPOTASSIUM PHOSPHATE",
+      "VITAMIN E (MIXED TOCOPHEROLS) ADDED TO PRESERVE FRESHNESS. VITAMINS AND MINERALS: CALCIUM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Creme Sandwich Cookies",
+    "marca": "Raley's",
+    "ean": "0046567031996",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "CANE SUGAR",
+      "COCOA POWDER",
+      "POWDERED SUGAR",
+      "EXPELLER PRESSED CANOLA OIL",
+      "PALM FRUIT OIL",
+      "NATURAL FLAVOR",
+      "BAKING SODA",
+      "VANILLA EXTRACT",
+      "SALT",
+      "SOY LECI"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Chocolate Chips Cookies",
+    "marca": "Raley's",
+    "ean": "0046567032016",
+    "ingredientes": [
+      "CHOCOLATE CHIPS (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER",
+      "SOY LECITHIN",
+      "VANILLA EXTRACT)",
+      "ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "BUTTER (CREAM [MILK]",
+      "SALT)",
+      "CANE SUGAR",
+      "CANOLA OIL",
+      "WHOLE EGGS",
+      "WHEY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla Animal Cookies",
+    "marca": "Raley's",
+    "ean": "0046567032023",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED WHEAT FLOUR (NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "CANE SUGAR",
+      "EXPELLER PRESSED CANOLA OIL",
+      "NATURAL VANILLA WITH OTHER NATURAL FLAVORS",
+      "SALT",
+      "SOY LECITHIN",
+      "BAKING SODA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oatmeal Cookies",
+    "marca": "Raley's",
+    "ean": "0046567032047",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "CANE SUGAR",
+      "OATS",
+      "PALM OIL",
+      "EXPELLER PRESSED CANOLA OIL",
+      "EGG WHITES",
+      "NATURAL FLAVOR",
+      "BAKING SODA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Ginger Snap",
+    "marca": "Raley's",
+    "ean": "0046567032054",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "BROWN SUGAR",
+      "PALM OIL",
+      "HONEY",
+      "WHOLE EGGS",
+      "PUREED GINGER",
+      "BAKING SODA",
+      "GROUND GINGER",
+      "SALT. TOPPING: CANE SUGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic whole kernel corn",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567032078",
+    "ingredientes": [
+      "Organic corn",
+      "water",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic sweet peas",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567032085",
+    "ingredientes": [
+      "Organic peas",
+      "water",
+      "organic sugar",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic cut green beans",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567032092",
+    "ingredientes": [
+      "Organic green beans",
+      "water",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dark Red Kidney Beans",
+    "marca": "Raley's",
+    "ean": "0046567032108",
+    "ingredientes": [
+      "ORGANIC KIDNEY BEANS",
+      "WATER",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pinto Beans",
+    "marca": "Raley's",
+    "ean": "0046567032115",
+    "ingredientes": [
+      "ORGANIC PINTO BEANS",
+      "WATER",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Garbanzo Beans",
+    "marca": "Raley's",
+    "ean": "0046567032122",
+    "ingredientes": [
+      "ORGANIC GARBANZO BEANS",
+      "WATER",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Black Beans",
+    "marca": "Raley's",
+    "ean": "0046567032139",
+    "ingredientes": [
+      "ORGANIC BLACK BEANS",
+      "WATER",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purified Alkaline Water",
+    "marca": "Raley's",
+    "ean": "0046567032160",
+    "ingredientes": [
+      "REVERSE OSMOSIS PURIFIED WATER WITH TRACES OF CALCIUM",
+      "POTASSIUM",
+      "AND MAGNESIUM."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original mint infused lemonade",
+    "marca": "Raley's",
+    "ean": "0046567032177",
+    "ingredientes": [
+      "Purified water",
+      "organic cane sugar",
+      "organic mint leaves",
+      "lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Tea",
+    "marca": "Raley's",
+    "ean": "0046567032184",
+    "ingredientes": [
+      "PURIFIED WATER",
+      "ORGANIC CANE SUGAR",
+      "ORGANIC MINT LEAVES",
+      "ORGANIC BLACK TEA LEAVES",
+      "LEMON JUICE CONCENTRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mint infused lemonade",
+    "marca": "Raley's",
+    "ean": "0046567032191",
+    "ingredientes": [
+      "Purified water",
+      "organic cane sugar",
+      "organic mint leaves",
+      "organic peach flavor",
+      "peach concentrate",
+      "lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mint infused lemonade",
+    "marca": "Raley's",
+    "ean": "0046567032207",
+    "ingredientes": [
+      "Purified water",
+      "organic cane sugar",
+      "organic mint leaves",
+      "raspberry puree",
+      "lemon juice concentrate",
+      "raspberry flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ultra Thin & Crispy Pizza Crust",
+    "marca": "Raley's",
+    "ean": "0046567032214",
+    "ingredientes": [
+      "ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "ENZYME",
+      "FOLIC ACID)",
+      "WATER",
+      "SOYBEAN OIL",
+      "YEAST",
+      "DOUGH CONDITIONER (OAT FLOUR",
+      "ASCORBIC ACID",
+      "ENZYMES)",
+      "EXTRA VIRGIN OLIVE OIL",
+      "SUGAR",
+      "FUMARIC ACID",
+      "CALCIUM PROPIONATE (PR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fire Roasted Thin Pizza Crust",
+    "marca": "Raley's",
+    "ean": "0046567032221",
+    "ingredientes": [
+      "ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "ENZYME",
+      "FOLIC ACID)",
+      "WATER",
+      "SOYBEAN OIL",
+      "YEAST",
+      "DOUGH CONDITIONER (OAT FLOUR",
+      "ASCORBIC ACID",
+      "ENZYMES)",
+      "EXTRA VIRGIN OLIVE OIL",
+      "SUGAR",
+      "NATURAL SMOKE FLAVOR (SUNFLOWER OIL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/2221/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "California Apricot Peach Preserves",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567032559",
+    "ingredientes": [
+      "FRUIT (APRICOTS",
+      "PEACHES)",
+      "SUGAR",
+      "FRUIT PECTIN",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bitter-Sweet Orange Marmalade",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567032566",
+    "ingredientes": [
+      "Sugar",
+      "orange juice",
+      "orange peel",
+      "grapefruit juice",
+      "lemon juice",
+      "fruit pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "California Jelly",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567032573",
+    "ingredientes": [
+      "SUGAR",
+      "RED BELL PEPPERS",
+      "WHITE VINEGAR",
+      "CITRIC ACID",
+      "FRUIT PECTIN",
+      "ONION POWDER",
+      "CAPSICUM."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Dressing & Quick Marinade",
+    "marca": "Raley's",
+    "ean": "0046567032580",
+    "ingredientes": [
+      "ORGANIC SOYBEAN OIL",
+      "WATER",
+      "ORGANIC CIDER VINEGAR",
+      "ORGANIC MILK SOLIDS",
+      "ORGANIC BUTTERMILK POWDER",
+      "SEA SALT",
+      "ORGANIC DIJON MUSTARD (ORGANIC APPLE CIDER VINEGAR",
+      "WATER",
+      "ORGANIC MUSTARD SEED",
+      "SALT",
+      "ORGANIC SPICES)",
+      "ORGANIC EVAPORATED CANE SUGAR",
+      "ORGANIC BLA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Italian",
+    "marca": "Raley's",
+    "ean": "0046567032610",
+    "ingredientes": [
+      "ORGANIC SOYBEAN OIL",
+      "WATER",
+      "ORGANIC RED WINE VINEGAR",
+      "ORGANIC EXTRACT VIRGIN OLIVE OIL",
+      "SEA SALT",
+      "ORGANIC EVAPORATED CANE SUGAR",
+      "ORGANIC GARLIC",
+      "ORGANIC LEMON JUICE CONCENTRATE",
+      "ORGANIC BASIL",
+      "XANTHAN GUM",
+      "ORGANIC RED BELL PEPPERS",
+      "ORGANIC BLACK PEPPER",
+      "O"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Paste",
+    "marca": "Raley's",
+    "ean": "0046567032634",
+    "ingredientes": [
+      "TOMATO PULP",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Tomato Sauce",
+    "marca": "Raley's",
+    "ean": "0046567032641",
+    "ingredientes": [
+      "TOMATOES",
+      "DEHYDRATED ONIONS",
+      "DEHYDRATED GARLIC",
+      "SPICES",
+      "NATURAL FLAVORINGS AND SWEET BELL PEPPER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Tomato Sauce",
+    "marca": "Raley's",
+    "ean": "0046567032658",
+    "ingredientes": [
+      "TOMATOES",
+      "DEHYDRATES ONIONS",
+      "DEHYDRATED GARLIC",
+      "SPICES",
+      "NATURAL FLAVORINGS AND SWEET BELL PEPPER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced Tomatoes In Tomato Juice",
+    "marca": "Raley's",
+    "ean": "0046567032665",
+    "ingredientes": [
+      "TOMATOES",
+      "TOMATO JUICE",
+      "CALCIUM CHLORIDE AND CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Honey",
+    "marca": "Raley's",
+    "ean": "0046567032887",
+    "ingredientes": [
+      "ORGANIC HONEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey",
+    "marca": "Raley's",
+    "ean": "0046567032894",
+    "ingredientes": [
+      "HONEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey",
+    "marca": "Raley's",
+    "ean": "0046567032900",
+    "ingredientes": [
+      "HONEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seeds & grain sandwich bread",
+    "marca": "Raley's",
+    "ean": "0046567033112",
+    "ingredientes": [
+      "Whole wheat flour",
+      "enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "wheat gluten",
+      "brown sugar",
+      "multigrain mix (yellow corn",
+      "wheat bran",
+      "oats",
+      "calcium sulfate",
+      "oat fiber",
+      "enrichment blend [vitamins b1",
+      "b2",
+      "b3",
+      "b6",
+      "b12",
+      "pantothenic acid",
+      "zinc",
+      "wheat starch]",
+      "ferrous sulfate [wheat starch])",
+      "honey",
+      "brown flaxseeds",
+      "sunflower seeds",
+      "yeast",
+      "black sesame seeds",
+      "brown rice",
+      "white sesame seeds",
+      "cultured wheat flour",
+      "vinegar",
+      "salt",
+      "pumpkin seeds",
+      "buttermilk",
+      "calcium sulfate",
+      "kamut flakes",
+      "sorghum flour",
+      "millet flour",
+      "amaranth flour",
+      "buckwheat flour",
+      "barley flakes",
+      "spelt",
+      "cracked wheat",
+      "wheat germ",
+      "poppy seeds",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium California Fire Roasted Salsa",
+    "marca": "Raley's",
+    "ean": "0046567033167",
+    "ingredientes": [
+      "FIRE ROASTED DICED TOMATOES",
+      "TOMATO PUREE",
+      "DICED JALAPENO PEPPERS",
+      "DICED ANAHEIM PEPPERS",
+      "SALT",
+      "SPICES",
+      "DICED DEHYDRATED ONIONS",
+      "DEHYDRATED GARLIC",
+      "ACETIC ACID",
+      "CITRIC ACID AND CALCIUM CHLORIDE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, mint infused lemonade, strawberry",
+    "marca": "Raley's",
+    "ean": "0046567033259",
+    "ingredientes": [
+      "Purified water",
+      "organic cane sugar",
+      "organic mint leaves",
+      "strawberry puree",
+      "lemon juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Craft soda",
+    "marca": "Raley's",
+    "ean": "0046567033402",
+    "ingredientes": [
+      "Carbonated water",
+      "inverted cane sugar",
+      "natural flavors",
+      "caramel color",
+      "sodium benzoate and potassium sorbate (as preservatives)",
+      "gum arabic",
+      "phosphoric acid",
+      "calcium disodium edta (to protect flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Craft soda",
+    "marca": "Raley's",
+    "ean": "0046567033419",
+    "ingredientes": [
+      "Carbonated water",
+      "inverted cane sugar",
+      "natural flavors",
+      "citric acid",
+      "sodium benzoate and potassium sorbate (as preservatives)",
+      "caramel color",
+      "calcium disodium edta (to protect flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Craft Soda, Root Beer",
+    "marca": "Raley's",
+    "ean": "0046567033433",
+    "ingredientes": [
+      "Carbonated water",
+      "inverted cane sugar",
+      "natural flavors",
+      "citric acid",
+      "sodium benzoate and potassium sorbate (as preservatives)",
+      "caramel color",
+      "calcium disodium edta (to protect flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567033693",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER OR CANOLA OIL)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567033709",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER OR CANOLA OIL)",
+      "CORN SYRUP SOLIDS",
+      "SUGAR",
+      "SALT",
+      "TORULA YEAST",
+      "MOLASSES POWDER",
+      "ONION POWDER",
+      "SPICE AND COLORING (CONTAINS PAPRIKA)",
+      "YEAST EXTRACT",
+      "SPICE",
+      "GARLIC POWDER",
+      "TOMATO"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567033716",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER OR CANOLA OIL)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic tomato ketchup",
+    "marca": "Raley's Organic",
+    "ean": "0046567033938",
+    "ingredientes": [
+      "Organic tomato concentrate",
+      "organic sugar",
+      "organic distilled vinegar",
+      "salt",
+      "less than 2% of: organic onion powder",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kettle Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567033945",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER",
+      "OR CANOLA OIL)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Potato Chips",
+    "marca": "Raley's",
+    "ean": "0046567033952",
+    "ingredientes": [
+      "POTATOES",
+      "VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING: CORN",
+      "SUNFLOWER",
+      "CANOLA OIL)",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark chocolate bar",
+    "marca": "Raley's",
+    "ean": "0046567034027",
+    "ingredientes": [
+      "sugar",
+      "cocoa butter",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "organic extra virgin olive oil",
+      "and himalayan pink sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark chocolate bar",
+    "marca": "Raley's",
+    "ean": "0046567034034",
+    "ingredientes": [
+      "Dark chocolate (cocoa mass",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin [emulsifier]",
+      "and natural vanilla extract)",
+      "roasted almond bits",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Bar",
+    "marca": "Raley's",
+    "ean": "0046567034041",
+    "ingredientes": [
+      "DARK CHOCOLATE (COCOA MASS",
+      "SUGAR",
+      "COCOA BUTTER",
+      "SOY LECITHIN [EMULSIFIER]",
+      "AND NATURAL VANILLA EXTRACT)",
+      "TOFFEE BITS (SUGAR",
+      "BUTTER",
+      "SOY LECITHIN",
+      "AND SALT)",
+      "HONEY POWDER (HONEY",
+      "MALTODEXTRIN)",
+      "CHIPOTLE CHILE PEPPER POWDER (DRIED CHIPOTLE CHILES)",
+      "AND NA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pineapple chunks in pineapple juice",
+    "marca": "Raley's",
+    "ean": "0046567037325",
+    "ingredientes": [
+      "Pineapple",
+      "pineapple juice",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow cling sliced peaches in extra light syrup",
+    "marca": "Raley's",
+    "ean": "0046567037936",
+    "ingredientes": [
+      "Peaches",
+      "water",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/7936/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Apple Cider Vinegar",
+    "marca": "Raley's, Raley's Purely Made",
+    "ean": "0046567037943",
+    "ingredientes": [
+      "Unfiltered organic apple cider vinegar",
+      "diluted with water to 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/7943/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Apple Cider Vinegar",
+    "marca": "Raley's, Raley's Purely Made",
+    "ean": "0046567037950",
+    "ingredientes": [
+      "Unfiltered organic apple cider vinegar",
+      "diluted with water to 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/7950/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tropical Sparkling Water Beverage",
+    "marca": "Raley's",
+    "ean": "0046567038070",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "potassium citrate",
+      "natural flavor",
+      "aspartame",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "malic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/8070/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic granulated sugar",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567038544",
+    "ingredientes": [
+      "Organic sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Powdered Sugar",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567038568",
+    "ingredientes": [
+      "Organic sugar",
+      "organic cornstarch."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Demerara Cane Sugar",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567038575",
+    "ingredientes": [
+      "Organic demerara sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sierra Adventures Trail Mix",
+    "marca": "Raley's",
+    "ean": "0046567038902",
+    "ingredientes": [
+      "Dried cranberries (cranberries",
+      "sugar",
+      "sunflower oil)",
+      "almonds",
+      "cashews",
+      "vegetable oil (contains one or more of the following: canola oil",
+      "peanut oil",
+      "and/or sunflower oil)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/8902/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freeze-Dried Mangos",
+    "marca": "Raley's, Raley's Purely Made",
+    "ean": "0046567038988",
+    "ingredientes": [
+      "Mango."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/8988/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Virgin Coconut Oil",
+    "marca": "Raley's",
+    "ean": "0046567039039",
+    "ingredientes": [
+      "Organic virgin coconut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/9039/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Refined Coconut Oil",
+    "marca": "Raley's",
+    "ean": "0046567039046",
+    "ingredientes": [
+      "Organic coconut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/9046/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almond flour",
+    "marca": "Raley's Purely Made",
+    "ean": "0046567039060",
+    "ingredientes": [
+      "Blanched almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cherry Mixed Fruit In Naturally Flavored Fruit Juices From Concentrates",
+    "marca": "Raley's",
+    "ean": "0046567039145",
+    "ingredientes": [
+      "Diced peaches",
+      "diced pears",
+      "water",
+      "white grape juice concentrate",
+      "cherries artificially colored red with carmine",
+      "lemon juice concentrate",
+      "natural flavor",
+      "ascorbic acid (vitamin c) to protect color",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/9145/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato condensed soup",
+    "marca": "Raley's",
+    "ean": "0046567039367",
+    "ingredientes": [
+      "Tomato puree (water",
+      "tomato paste)",
+      "water",
+      "sugar",
+      "wheat flour",
+      "contains less than 2% of: potassium chloride",
+      "salt",
+      "sea salt",
+      "whey protein concentrate",
+      "natural flavor",
+      "citric acid",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/9367/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream of chicken condensed soup",
+    "marca": "Raley's",
+    "ean": "0046567039374",
+    "ingredientes": [
+      "Chicken broth",
+      "chicken meat (cooked chicken meat",
+      "water",
+      "modified food starch",
+      "salt",
+      "sodium phosphate)",
+      "wheat flour",
+      "modified food starch",
+      "corn starch",
+      "soybean oil",
+      "salt",
+      "contains less than 1% of: cream",
+      "whey protein concentrate",
+      "chicken flavoring (yeast"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/9374/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely made organic oats & honey granola",
+    "marca": "Raley's",
+    "ean": "0046567039718",
+    "ingredientes": [
+      "Organic whole rolled oats",
+      "organic milled cane sugar",
+      "organic crisp brown rice (organic brown rice",
+      "organic brown rice syrup",
+      "salt)",
+      "organic expeller pressed canola oil",
+      "organic whole oat flour",
+      "organic honey",
+      "organic molasses",
+      "organic vanilla extract",
+      "salt",
+      "mixed tocopherols (natural vitamin e to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/703/9718/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramel popcorn",
+    "marca": "Raley's",
+    "ean": "0046567040233",
+    "ingredientes": [
+      "Brown sugar",
+      "popcorn",
+      "vegetable oil (contains one or more of the following: sunflower",
+      "corn or canola oil)",
+      "corn syrup",
+      "soy lecithin",
+      "salt",
+      "baking soda."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/0233/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pancake & waffle syrup, pancake & waffle",
+    "marca": "Raley's",
+    "ean": "0046567040349",
+    "ingredientes": [
+      "High fructose corn syrup",
+      "corn syrup",
+      "water",
+      "less than 2% of: natural flavor",
+      "cellulose gum",
+      "salt",
+      "sorbic acid",
+      "caramel color",
+      "sodium benzoate (a preservative)",
+      "sodium hexametaphosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/0349/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "2% Reduced Fat Milk",
+    "marca": "Raley's",
+    "ean": "0046567040639",
+    "ingredientes": [
+      "Reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/0639/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "1% low fat milk",
+    "marca": "Raley's",
+    "ean": "0046567040646",
+    "ingredientes": [
+      "Low fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/0646/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat free milk",
+    "marca": "Raley's",
+    "ean": "0046567040653",
+    "ingredientes": [
+      "Fat free milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/0653/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% Pure Avocado Oil",
+    "marca": "Raley's",
+    "ean": "0046567041063",
+    "ingredientes": [
+      "Refined avocado oil",
+      "extra virgin avocado oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/1063/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% Pure Grapeseed Oil",
+    "marca": "Raley's",
+    "ean": "0046567041087",
+    "ingredientes": [
+      "Refined grapeseed oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/1087/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Tomato Ketchup 50% Less Sugar & Sodium",
+    "marca": "Raley's",
+    "ean": "0046567041414",
+    "ingredientes": [
+      "organic tomato concentrate",
+      "organic tapioca syrup",
+      "organic white vinegar",
+      "organic sugar",
+      "salt",
+      "organic spices",
+      "organic onion powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/1414/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's Extra Virgin Olive Oil Spray",
+    "marca": "Raley's",
+    "ean": "0046567041810",
+    "ingredientes": [
+      "EXTRA VIRGIN OLIVE OIL",
+      "SOY LECITHIN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/704/1810/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thick Sliced Maple Bacon",
+    "marca": "Raley's",
+    "ean": "0046567500249",
+    "ingredientes": [
+      "Cured with water",
+      "cane and maple sugar",
+      "salt",
+      "sodium phosphate",
+      "natural flavor",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/750/0249/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cooked Shrimp",
+    "marca": "Raley's",
+    "ean": "0046567500553",
+    "ingredientes": [
+      "SHRIMP",
+      "SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cooked Shrimp",
+    "marca": "Raley's",
+    "ean": "0046567500560",
+    "ingredientes": [
+      "SHRIMP",
+      "SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Cooked Shrimp",
+    "marca": "Raley's",
+    "ean": "0046567500577",
+    "ingredientes": [
+      "SHRIMP",
+      "SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, natural raw shrimp, peeled & deveined - tail on",
+    "marca": "Raley's",
+    "ean": "0046567500584",
+    "ingredientes": [
+      "Shrimp",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Raw Shrimp",
+    "marca": "Raley's",
+    "ean": "0046567500607",
+    "ingredientes": [
+      "SHRIMP",
+      "SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Purely Made Chicken Sausage",
+    "marca": "Raley's",
+    "ean": "0046567500720",
+    "ingredientes": [
+      "SKINLESS CHICKEN",
+      "MAPLE SYRUP",
+      "RAW SUGAR",
+      "DRIED APPLES",
+      "VINEGAR",
+      "APPLE JUICE CONCENTRATE",
+      "SEA SALT",
+      "CELERY JUICE POWDER",
+      "CINNAMON",
+      "NUTMEG."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Chicken Meatballs",
+    "marca": "Raley's",
+    "ean": "0046567500737",
+    "ingredientes": [
+      "SKINLESS CHICKEN",
+      "WATER",
+      "ROMANO CHEESE (PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT AND ENZYMES)",
+      "SEA SALT",
+      "FENNEL SEED",
+      "WHITE PEPPER",
+      "ONION POWDER",
+      "PARSLEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Chicken Sausage",
+    "marca": "Raley's",
+    "ean": "0046567500751",
+    "ingredientes": [
+      "ORGANIC SKINLESS CHICKEN",
+      "ORGANIC SPINACH",
+      "WATER",
+      "ORGANIC FETA CHEESE (ORGANIC PASTEURIZED MILK",
+      "ORGANIC NONFAT MILK",
+      "SALT",
+      "CHEESE CULTURE",
+      "ENZYMES",
+      "CALCIUM CHLORIDE)",
+      "ORGANIC GARLIC",
+      "SEA SALT",
+      "ORGANIC BLACK PEPPER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Chicken Sausage",
+    "marca": "Raley's",
+    "ean": "0046567500768",
+    "ingredientes": [
+      "ORGANIC SKINLESS CHICKEN",
+      "WATER",
+      "SEA SALT",
+      "ORGANIC DRIED GREEN PEPPERS",
+      "ORGANIC PAPRIKA",
+      "ORGANIC FENNEL SEED",
+      "ORGANIC BLACK PEPPER",
+      "ORGANIC DRIED ONIONS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uncured Ham Steak",
+    "marca": "Raley's",
+    "ean": "0046567500782",
+    "ingredientes": [
+      "PORK",
+      "WATER",
+      "SALT",
+      "TURBINADO SUGAR",
+      "NATURAL FLAVORINGS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Hot Italian Chicken Sausage",
+    "marca": "Raley's",
+    "ean": "0046567500904",
+    "ingredientes": [
+      "ORGANIC SKINLESS CHICKEN",
+      "SEA SALT",
+      "ORGANIC FENNEL SEED",
+      "ORGANIC CRUSHED RED PEPPER",
+      "WATER",
+      "ORGANIC PAPRIKA",
+      "ORGANIC BLACK PEPPER",
+      "ORGANIC RAW SUGAR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mexicali Bean Dip Tray",
+    "marca": "Raley's",
+    "ean": "0046567501413",
+    "ingredientes": [
+      "REFRIED BEANS (WATER",
+      "BEANS [PINTO BEANS {DRY}",
+      "LARD",
+      "SALT])",
+      "PICO DE GALLO (TOMATOES",
+      "YELLOW ONION",
+      "FRESH CILANTRO",
+      "JALAPENO PEPPERS)",
+      "PEPPER JACK CHEESE (PEPPERJACK CHEESE [PASTEURIZED MILK",
+      "JALAPENO PEPPERS",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES]",
+      "POTATO STARC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nob hill trading co grated parmesan cheese with a bold",
+    "marca": "Nob Hill Trading Co",
+    "ean": "0046567503264",
+    "ingredientes": [
+      "Pasteurized part skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "less than 2% powdered cellulose added to prevent caking."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/750/3264/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

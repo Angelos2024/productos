@@ -1,0 +1,4287 @@
+[
+  {
+    "nombre": "Naturally Hickory Wood Smoked",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158303952",
+    "ingredientes": [
+      "CURED WITH WATER",
+      "SALT",
+      "MAPLE SYRUP",
+      "SUGAR",
+      "SODIUM PHOSPHATE",
+      "SODIUM ERYTHORBATE",
+      "MAPLE FLAVOR",
+      "(NATURAL AND ARTIFICIAL)",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/615/830/3952/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Thick Cut Bacon, Applewood Smoked",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158304782",
+    "ingredientes": [
+      "Cured with water",
+      "brown sugar",
+      "salt",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Thick Cut Bacon",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158304805",
+    "ingredientes": [
+      "Cured with: water",
+      "salt",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced Sodium",
+    "marca": "John F. Martin & Sons",
+    "ean": "0046158313920",
+    "ingredientes": [
+      "CURED WITH WATER",
+      "SALT",
+      "POTASSIUM CHLORIDE",
+      "SODIUM PHOSPHATE",
+      "HONEY",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/615/831/3920/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fully Cooked Boneless Ham Steak",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158512514",
+    "ingredientes": [
+      "CURED WITH: WATER",
+      "SALT",
+      "POTASSIUM CHLORIDE",
+      "SODIUM PHOSPHATE",
+      "SUGAR",
+      "SODIUM BICARBONATE",
+      "AUTOLYZED YEAST EXTRACT",
+      "DEXTROSE",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Boneless Ham Steak",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158512545",
+    "ingredientes": [
+      "CURED WITH: WATER",
+      "HONEY",
+      "SALT",
+      "SUGAR",
+      "POTASSIUM LACTATE",
+      "SODIUM PHOSPHATE",
+      "BROWN SUGAR",
+      "DEXTROSE",
+      "SODIUM DIACETATE",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Boneless Ham Steak",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158512637",
+    "ingredientes": [
+      "CURED WITH: WATER",
+      "SUGAR",
+      "SALT",
+      "POTASSIUM LACTATE",
+      "SODIUM PHOSPHATE",
+      "BROWN SUGAR",
+      "DEXTROSE",
+      "SODIUM DIACETATE",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Ring Bologna With Variety Meats",
+    "marca": "John F. Martin & Sons  Inc.",
+    "ean": "0046158625122",
+    "ingredientes": [
+      "PORK",
+      "BEEF",
+      "PORK HEARTS",
+      "WATER",
+      "SUGAR",
+      "SALT",
+      "POTASSIUM LACTATE",
+      "SPICES AND FLAVORINGS",
+      "SODIUM ACID PYROPHOSPHATE",
+      "PAPRIKA",
+      "AUTOLYZED YEAST EXTRACT",
+      "SODIUM DIACETATE",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turkey Ring Bologna",
+    "marca": "John F. Martin & Sons  Inc.",
+    "ean": "0046158625337",
+    "ingredientes": [
+      "TURKEY",
+      "TURKEY SKIN",
+      "TURKEY HEARTS",
+      "WATER",
+      "SALT",
+      "CORN SYRUP SOLIDS",
+      "BROWN SUGAR",
+      "POTASSIUM LACTATE",
+      "DEXTROSE",
+      "SPICES AND SPICE EXTRACTIVES",
+      "SODIUM PHOSPHATE",
+      "PAPRIKA",
+      "AUTOLYZED YEAST EXTRACT",
+      "SODIUM DIACETATE",
+      "OLEO RESIN OF PAPRIKA",
+      "SODIUM ERYTHORBATE",
+      "ONION POWDER",
+      "SODIUM NITRITE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheddar Cheese",
+    "marca": "John F. Martin & Sons",
+    "ean": "0046158833084",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES",
+      "ANNATTO (COLOR)",
+      "POTATO STARCH",
+      "CORN STARCH AND CALCIUM SULFATE ADDED TO PREVENT CAKING",
+      "NATAMYCIN (A NATURAL MOLD INHIBITOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Colby-Jack Cheese",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158833091",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)",
+      "potato starch",
+      "corn starch and calcium sulfate added to prevent caking",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shredded Sharp Cheddar Cheese",
+    "marca": "John F. Martin & Sons",
+    "ean": "0046158833107",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES",
+      "ANNATTO (COLOR)",
+      "POTATO STARCH",
+      "CORN STARCH AND CALCIUM SULFATE ADDED TO PREVENT CAKING",
+      "NATAMYCIN (A NATURAL MOLD INHIBITOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Natural Shredded Cheese Mexican Blend",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158833138",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto [color])",
+      "monterey jack cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "quesadilla cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "asadero cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes). potato starch",
+      "corn starch and calcium sulfate added to prevent caking. natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mexican blend shredded cheese",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158833190",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto [color])",
+      "monterey jack cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "quesadilla cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "asadero cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes). potato starch",
+      "corn starch and calcium sulfate added to prevent caking natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Nature Monterey Jack Cheese",
+    "marca": "John F Martin & Sons",
+    "ean": "0046158833497",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURES",
+      "SALT AND ENZYMES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yelloe Colby Cheese",
+    "marca": "John F. Martin & Sons",
+    "ean": "0046158833541",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES AND ANNATTO (VEGETABLE COLOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepper Jack Cheese",
+    "marca": "John F. Martin & Sons",
+    "ean": "0046158833671",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "RED AND GREEN JALAPENO PEPPERS",
+      "CHEESE CULTURE",
+      "SALT AND ENZYMES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "New York Sharp Cheddar Cheese",
+    "marca": "John F. Martin & Sons",
+    "ean": "0046158834388",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream Cheese Spread, Garlic & Herb",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158871611",
+    "ingredientes": [
+      "Cream cheese",
+      "pasteurized milk",
+      "cream",
+      "enzymes",
+      "salt",
+      "xanthan gum",
+      "guar gum",
+      "and/or carob bean gum",
+      "sour cream",
+      "roasted garlic",
+      "onion",
+      "sea salt",
+      "malto dextrin",
+      "water",
+      "dextrose",
+      "sugar",
+      "natural butter flavor",
+      "modified food starch",
+      "sweet cream powder",
+      "soybean oil",
+      "black pepper",
+      "lactic acid",
+      "silicone dioxide",
+      "less than 1/10 of 1% sodium benzoate and potassium sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Cream Cheese Spread, Strawberry",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158871628",
+    "ingredientes": [
+      "Cream cheese",
+      "pasteurized milk",
+      "cream",
+      "enzymes",
+      "salt",
+      "xanthan gum",
+      "guar gum",
+      "and/or carob bean gum",
+      "strawberries",
+      "gelatin",
+      "sugar",
+      "sour cream",
+      "water",
+      "citric acid",
+      "less than 1/10 of 1% sodium benzoate and potassium sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Cream Cheese Spread, Cajun Crab",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158871642",
+    "ingredientes": [
+      "Imitation crab/snow blend",
+      "pollock",
+      "fish",
+      "water",
+      "sugar",
+      "tapioca starch",
+      "soybean oils",
+      "sorbitol",
+      "crab flavor",
+      "egg white",
+      "wheat starch",
+      "potato starch",
+      "soy protein",
+      "corn protein",
+      "wheat flour",
+      "wheat gluten",
+      "salt",
+      "mirin wine",
+      "calcium",
+      "carbonate",
+      "cellulose",
+      "carrageenan",
+      "hydrolyzed corn protein",
+      "autolyzed yeast extract",
+      "sodium tripolyphosphate",
+      "tetrasodium pryophosphate",
+      "fd"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Cream Cheese Spread, Raspberry & Walnut",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158871659",
+    "ingredientes": [
+      "Cream cheese",
+      "(pasteurized milk",
+      "cream",
+      "enzymes",
+      "salt",
+      "xanthan gum",
+      "guar gum",
+      "and/or carob bean gum",
+      ") raspberries",
+      "walnuts",
+      "gelatin",
+      "sugar",
+      "sour cream",
+      "natural flavoring",
+      "citric acid",
+      "water",
+      "less than 1/10 of 1% sodium benzoate and potassium sorbate (to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "John F. Martin & Sons, Cream Cheese Spread",
+    "marca": "John F Martin & Sons Inc",
+    "ean": "0046158871697",
+    "ingredientes": [
+      "Cream cheese",
+      "(pasteurized milk",
+      "cream",
+      "enzymes",
+      "salt",
+      "xanthan gum",
+      "guar gum",
+      "and/or carob bean gum) red roasted peppers (peppers",
+      "salt",
+      "citric acid) garlic",
+      "sea salt",
+      "citric acid",
+      "less than 1/10 of 1% sodium benzoate",
+      "potassium sorbate (to maintain freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy chicken leek and smoked bacon pie",
+    "marca": "Gastropub",
+    "ean": "00461603",
+    "ingredientes": [
+      "Pulled Roast Chicken (31%) Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) Smoked Bacon Lardons (10%) (British Pork (86%) Water Curing Salt (Salt Preservative: Sodium Nitrite",
+      "Sodium Nitrate",
+      "Potassium . Nitrate) Sugar Antioxidant: E301",
+      "Ascorbic Acid) Unsalted Butter (Milk) (10%) Double Cream (Milk) Leeks (8%) Onions Chicken Fat Rapeseed Oil Pasteurised Egg. White Wine Vinegar Salt Yeast Extract. Honey Poppy Seeds Cracked Black Pepper Garlic Purée Thyme Parsley. For allergens see ingredients in bold. . ● 500 ge"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1603/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Macaroni Cheese",
+    "marca": "By sainsbury's",
+    "ean": "00461610",
+    "ingredientes": [
+      "Cooked Macaroni Pasta (Water",
+      "Durum Wheat Semolina)",
+      "Water",
+      "Mature Cheddar Cheese (16%) (Cows' Milk)",
+      "Whole Cows' Milk",
+      "Skimmed Cows' Milk",
+      "Single Cream (Cows' Milk)",
+      "Cornflour",
+      "Medium Fat Soft Cheese (Cows' Milk)",
+      "Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Rapeseed Oil",
+      "Salt",
+      "English Mustard (Water",
+      "Mustard Flour",
+      "Salt",
+      "Sugar",
+      "RI adult RI Wheat Flour",
+      "Turmeric)",
+      "White Pepper",
+      "Bay Leaf"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1610/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Grade A Medium Eggs",
+    "marca": "Top Notch",
+    "ean": "0046163000938",
+    "ingredientes": [
+      "MEDIUM EGG"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/616/300/0938/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lasagne",
+    "marca": "Sainsburys",
+    "ean": "00461634",
+    "ingredientes": [
+      "British Beef (28%)",
+      "Cooked Lasagne Pasta (Durum Wheat Semolina",
+      "Water",
+      "Egg)",
+      "Water",
+      "Skimmed Cows' Milk",
+      "Tomato",
+      "Tomato Purée",
+      "Chianti Red Wine (4%)",
+      "Tomato Passata",
+      "Onion",
+      "Mushroom",
+      "Whole Cows' Milk",
+      "Carrot",
+      "Smoked Pancetta Bacon (2%) (Pork Belly",
+      "Salt",
+      "Dextrose",
+      "Black Pepper",
+      "Garlic Extract",
+      "Coriander Extract",
+      "Nutmeg Extract",
+      "Preservatives: Sodium Nitrite",
+      "Potassium Nitrate",
+      "Antioxidant: Sodium Ascorbate)",
+      "Cornflour",
+      "Parmigiano Reggiano D.O.P Cheese (2%) (Unpasteurised Cows' Milk)",
+      "Single Cream (Cows' Milk)",
+      "Garlic Purée",
+      "Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Beef Stock (Water",
+      "Beef Extract",
+      "Salt",
+      "Yeast Extract)",
+      "Butter (Cows' Milk)",
+      "Wheat Flour",
+      "Sugar",
+      "Balsamic Vinegar (Balsamic Vinegar",
+      "Grape Must Concentrate)",
+      "Grana Padano Cheese (Unpasteurised Cows' Milk",
+      "Preservative: Lysozyme (Egg))",
+      "Salt",
+      "Oregano",
+      "Rosemary",
+      "Black Pepper",
+      "Porcini Mushroom Powder",
+      "White Pepper",
+      "Bay Leaf."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Grana Padano Cheese (Unpasteurised Cows' Milk",
+        "razon": "Contiene Grana Padano Cheese (Unpasteurised Cows' Milk, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1634/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Extremely chocolatey soonge roll",
+    "marca": "Marks & Spencer",
+    "ean": "00461689",
+    "ingredientes": [
+      "Chocolat au lait (26 %) (Sucre",
+      "Beurre de cacao",
+      "Masse de cacao",
+      "_Lait_ en poudre écrémé",
+      "Matière grasse laitière (_Lait_)",
+      "Lactose (_Lait_)",
+      "Émulsifiant : Lécithine de _soja_) Sucre Beurre (Lait)",
+      "Farine de blé contient _Gluten_ (avec Farine de blé",
+      "Carbonate de calcium",
+      "Fer",
+      "Niacine",
+      "Thiamine)",
+      "Eau",
+      "Chocolat noir (5%) (Masse de cacao",
+      "Sucre",
+      "Beurre de cacao",
+      "Cacao maigre en poudre",
+      "Émulsifiant : Lécithine de soja)",
+      "_œufs_ pasteurisés",
+      "Cacao maigre en poudre Sirop de glucose déshydraté Dextrose Blanc d'_œufs_ pasteurisés",
+      "_Lait_ en poudre écrémé",
+      "Humectant : Glycérol",
+      "Huile de palme",
+      "Émulsifiant : E471",
+      "E475",
+      "E481",
+      "Lécithine de _soja_",
+      "E476",
+      "Poudre à lever : E450",
+      "Bicarbonate de soude",
+      "Sel",
+      "Huile de colza",
+      "Lactosérum en poudre (_Lait_)",
+      "Arôme."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Émulsifiant : E471",
+        "razon": "Contiene Émulsifiant : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E475",
+        "razon": "Contiene E475, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1689/front_fr.20.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "beer caramelised onion chutney",
+    "marca": "Sainsbury's taste the difference",
+    "ean": "00461757",
+    "ingredientes": [
+      "Red Onion (39%)",
+      "Sugar",
+      "Malt Vinegar (from Barley)",
+      "Brown Ale (Barley) (10%)",
+      "Muscovado Sugar",
+      "Bramley Apple Puree",
+      "Bramley Apple",
+      "Dried Onion",
+      "Treacle",
+      "Salt",
+      "Natural Flavouring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1757/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British Strawberries",
+    "marca": "Sainsburys",
+    "ean": "00461795",
+    "ingredientes": [
+      "strawberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1795/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Muesli tradition raisin noisette amande",
+    "marca": "J.Favrichon",
+    "ean": "00461805",
+    "ingredientes": [
+      "Muesli Tradition raisin noisette amande céréales* complètes Ingrédients 80% (flocons d'avoine*",
+      "flocons de blé*",
+      "flocons dtorge*",
+      "flocons de seigle*)",
+      "fruits* 20% [raisins* 15",
+      "(raisins*",
+      "noisettes* entières 3",
+      "amandes* effilées I *Ingrédients issus de l'agriculture biologique. En gras allergènes. Peut contenir des traces de lait",
+      "graines de sésame",
+      "soja et autres fruits à coques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1805/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "fish and chips",
+    "marca": "M&S",
+    "ean": "00461955",
+    "ingredientes": [
+      "Potatoes (50%)",
+      "Cod (Fish) (28%)",
+      "Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Rapeseed Oil",
+      "Sunflower Oil",
+      "Wheat Starch (contains Gluten)",
+      "Durum Wheat Semolina (contains Gluten)",
+      "Salt",
+      "Oatmeal (contains Gluten)",
+      "Rye Flour (contains Gluten)",
+      "Rice Flour",
+      "Yeast",
+      "Pea Flour",
+      "Malted Barley Flour (contains Gluten)",
+      "Potato Starch",
+      "Maize Starch",
+      "Rice Starch",
+      "Colour: Paprika Extract",
+      "Dextrose",
+      "Modified Maize Starch"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/1955/front_en.24.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Skyr vanille",
+    "marca": "Arla",
+    "ean": "0046204430014",
+    "ingredientes": [
+      "Magere yoghurt",
+      "water",
+      "suiker",
+      "maïszetmeel",
+      "citroensap uit concentraat",
+      "vanille-extract",
+      "gemalen vanillestokjes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/620/443/0014/front_nl.3.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Pea Shoot Stir Fry",
+    "marca": "M&S Food",
+    "ean": "00462112",
+    "ingredientes": [
+      "Beansprouts",
+      "Spring Onions",
+      "Peppers",
+      "Carrots",
+      "Red Onions",
+      "Pea Shoots (9%)",
+      "Spring Greens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Original Alfredo Pasta Sauce",
+    "marca": "Sal & Judy's",
+    "ean": "0046212000056",
+    "ingredientes": [
+      "LIGHT CREAM (CREAM",
+      "MILK",
+      "DISODIUM PHOSPHATE",
+      "SODIUM CITRATE",
+      "CARRAGEENAN)",
+      "WATER",
+      "UNSALTED BUTTER",
+      "PARMESAN CHEESE (PASTEURIZED PART-SKIM MILK",
+      "CHEESE CULTURES",
+      "SALT",
+      "ENZYMES AND POWDERED CELLULOSE (ANTI-CAKING AGENT)",
+      "ROMANO CHEESE (PASTEURIZED COW'S MI"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Seasoning",
+    "marca": "Sal & Judy's",
+    "ean": "0046212000070",
+    "ingredientes": [
+      "DEHYDRATED VEGETABLES (ONION",
+      "BELL PEPPER",
+      "AND GARLIC)",
+      "SALT",
+      "SPICES",
+      "PAPRIKA",
+      "NATURAL COLOR",
+      "AND NATURAL LEMON OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Seasoning",
+    "marca": "Sal & Judy's",
+    "ean": "0046212000087",
+    "ingredientes": [
+      "SPICES",
+      "SALT",
+      "DEHYDRATED GARLIC",
+      "DEHYDRATED BELL PEPPER",
+      "DEHYDRATED ONION",
+      "LEMON PEEL",
+      "AND EXTRA VIRGIN OLIVE OIL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Home Made Medium Salsa",
+    "marca": "Sal & Judy's",
+    "ean": "0046212000094",
+    "ingredientes": [
+      "TOMATOES",
+      "ONIONS",
+      "YELLOW BELL PEPPERS",
+      "RED BELL PEPPERS",
+      "JALAPENO PEPPERS",
+      "FRESH GARLIC",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "TABASCO PEPPER SAUCE (DISTILLED VINEGAR",
+      "AGED RED TABASCO AND HABANERO PEPPERS",
+      "SALT",
+      "XANTHAN GUM)",
+      "EXTRA VIRGIN OLIVE OIL",
+      "CILANTRO",
+      "VINEGAR",
+      "LIM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium Salsa",
+    "marca": "Sal & Judy's",
+    "ean": "0046212000100",
+    "ingredientes": [
+      "TOMATOES",
+      "ONIONS",
+      "YELLOW BELL PEPPERS",
+      "RED BELL PEPPERS",
+      "JALAPENO PEPPER",
+      "FRESH GARLIC",
+      "WATER",
+      "CHIPOTLE IN ADOBO (CHIPOTLE PEPPERS",
+      "WATER",
+      "TOMATO PASTE",
+      "ONION",
+      "SUGAR",
+      "CONTAINS 2% OR LESS: SALT",
+      "VINEGAR",
+      "SUNFLOWER SEED OIL",
+      "PAPRIKA",
+      "GARLIC",
+      "CORN STARCH",
+      "SP"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chiocolate cookies",
+    "marca": "New Yorkers",
+    "ean": "0046214100990",
+    "ingredientes": [
+      "cooks co ai ven",
+      "pasta di cacao",
+      "oli vegetali (palma",
+      "girasole)",
+      "burro di w gluosi latte intere in gobere bure (atte)",
+      "latte sremate in polvere",
+      "wova",
+      "sciroppo oi ghucosio-fruttosia amidon de frumento",
+      "agenti lievitanti: e450 ante lectine di giiasole zuchen caramellato",
+      "cara d'ueva bianca",
+      "aroma natural",
+      "sono possibili tracce di noci",
+      "cookies with 29% dark chocolate nik checolate ingredtients sigar wheat flour cocoa mas vegetable oil (palm snffower)",
+      "cocna butter",
+      "glucose syrup",
+      "whole milk powder",
+      "butter (milk)",
+      "sừ mik 2owts egg guese tucose yrg",
+      "wiheat starch",
+      "taising agents:",
+      "es00",
+      "emulsifier: sunflower lecithins",
+      "caramelized sugar",
+      "egg white powder",
+      "natural y cantain traces af ntslneljes met 29% pure chocolade en 11% melkchocolade",
+      "ingrediènten: suiker",
+      "tarwebloem",
+      "cacaomassa",
+      "plantaardige olien ebibem)",
+      "canbeer glueesestroog",
+      "volle melkpoeder",
+      "boter (melk)",
+      "magere melkpoeder",
+      "kippenei",
+      "glucose fructosestroop",
+      "tarwezetmeel",
+      "rijsmiddel: e450",
+      "mator 2ebibemecthinen gekaamellseerte suiker",
+      "kippener-ewitpoeder",
+      "natuurijk aroma kan sporen bevatten van noten",
+      "mürbegebäck mit unkrer scholoiate und 1% vollmilchschololade",
+      "zutaten: zucker",
+      "weizenmehl kakaomasse",
+      "pflanzliche ole (palm",
+      "sonnenblumen)",
+      "kakaobutter",
+      "esitug",
+      "volimichpubrer rutter (milch)",
+      "magermilchpulver",
+      "hühnervollei glukese-fruktose-sirup",
+      "weirenstärke",
+      "backtriebmittel: e450",
+      "es00",
+      "emulgator: umenecthine laanelisieter zucker",
+      "nühnerei elweipulver",
+      "naturliches aroma kann spuren von schalenfrüchten enthalten",
+      "mitional values",
+      "veecdingswaarden",
+      "nahrwerte"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "burro di w gluosi latte intere in gobere bure (atte)",
+        "razon": "Contiene burro di w gluosi latte intere in gobere bure (atte), impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "emulgator: umenecthine laanelisieter zucker",
+        "razon": "Contiene emulgator: umenecthine laanelisieter zucker, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/410/0990/front_en.16.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Whole Oats Raisin & Cranberry Cookies",
+    "marca": "Banketbakkerij Merba B.V.",
+    "ean": "0046214143010",
+    "ingredientes": [
+      "OATS 21%",
+      "WHEAT FLOUR",
+      "VEGETABLE OIL (PALM",
+      "SUNFLOWER)",
+      "SUGAR",
+      "RAISINS (CONTAINS RAISINS AND SUNFLOWER OIL)",
+      "CRANBERRIES 9% (CONTAINS CRANBERRIES",
+      "SUGAR AND SUNFLOWER OIL)",
+      "GLUCOSE-FRUCTOSE SYRUP",
+      "RAISING AGENTS (DISODIUM DIPHOSPHATES AND SODIUM BI-CARBON"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Chocolate & Cranberry Cookies",
+    "marca": "Merba",
+    "ean": "0046214154023",
+    "ingredientes": [
+      "WHITE CHOCOLATE 20% (SUGAR",
+      "WHOLE MILK POWDER",
+      "COCOA BUTTER",
+      "SKIMMED MILK POWDER",
+      "EMULSIFIER: SOYA LECITHIN",
+      "FLAVOR)",
+      "WHEAT FLOUR",
+      "SUGAR",
+      "VEGETABLE OIL (PALM",
+      "SUNFLOWER)",
+      "RAISINS (CONTAINS RAISINS AND SUNFLOWER OIL)",
+      "CRANBERRIES 8%",
+      "OAT MEAL",
+      "APPLE (CONTA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cookies",
+    "marca": "Merba",
+    "ean": "0046214176124",
+    "ingredientes": [
+      "WHEAT",
+      "FLOUR",
+      "MILK CHOCOLATE 18% (SUGAR",
+      "COCOA BUTTER",
+      "WHOLE MILK POWDER",
+      "CHOCOLATE LIQUOR",
+      "SKIMMED MILK POWDER",
+      "CHOCOLATE LIQUOR",
+      "SKIMMED MILK POWDER",
+      "EMULSIFIER: SOYA LECITHIN)",
+      "DARK CHOCOLATE 18% (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA POWDER",
+      "DEXTROSE",
+      "COCOA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cookies Chocolat Noisettes",
+    "marca": "New Yorkers",
+    "ean": "0046214215007",
+    "ingredientes": [
+      "sucre",
+      "farine de froment",
+      "huiles végétales (huile de palme",
+      "huile de tournesol)",
+      "noisette",
+      "farine davoine",
+      "pâte de cacao",
+      "poudre de cacao",
+      "poudres à lever. E450",
+      "E500",
+      "beurre de cacao",
+      "sirop de glucose-fructose",
+      "sel",
+      "lactose",
+      "émulsifiant soja lécithine",
+      "co",
+      "tojffit caramel",
+      "arôme naturel Peut contenir des traces fruits à coque",
+      "lupin",
+      "lait et oeuf."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/421/5007/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Apple Pie Cookies",
+    "marca": "Merba",
+    "ean": "0046214220209",
+    "ingredientes": [
+      "Sirup",
+      "Hafermehl",
+      "ndF chtigkeit hit n. tot zie a. Kan Spuren enthaltenvon Schalen ichten. E und Milch V W e huile et E45 E500 m di n tirliches A oment erin",
+      "ktriebr te Maisstarke Ve d kungs ittel Pekti: Zmt",
+      "Sal ad halte nittet G Mindestens haltbar b s sehe Oberseite. Hergestellt n den Niederlande.D Biscuits avec 25% co pote de pommes ngrédients fannede gétales palme",
+      "tou s op de g es mmes",
+      "raisins secs",
+      "poudres àlever:E450",
+      "ES00",
+      "amidon de mais modifié",
+      "agent épaississant pectine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/422/0209/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "Morocco"
+  },
+  {
+    "nombre": "Brownie Cookies",
+    "marca": "merba",
+    "ean": "0046214230208",
+    "ingredientes": [
+      "suiker",
+      "_tarwebloem_",
+      "plantaardige oliën (palm",
+      "zonnebloem)",
+      "cacao massa",
+      "cacaoboter",
+      "volle melkpoeder",
+      "glucose-fructose stroop",
+      "magere cacaopoeder",
+      "rijsmiddel: E450",
+      "ES00",
+      "magere melkpoeder",
+      "zout",
+      "emulgator: sojalecithinen",
+      "kipei poeder",
+      "kleurstof: karamel",
+      "natuurlijk aroma."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulgator: sojalecithinen",
+        "razon": "Contiene emulgator: sojalecithinen, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/423/0208/front_nl.20.400.jpg",
+    "tahor": false,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Chocolate Cookies",
+    "marca": "Merbu",
+    "ean": "0046214731552",
+    "ingredientes": [
+      "sugar",
+      "wheat flour (contain gluten)",
+      "vegetable oils (palm",
+      "sunflower)",
+      "cocoa mass",
+      "oat flour (contain gluten)",
+      "cocoa butter",
+      "whole milk powder",
+      "glucose-fructose syrup",
+      "skimmed milk powder",
+      "raising agents (e450",
+      "e500)",
+      "salt",
+      "lactose (milk)",
+      "emulsifier: sunflower lecithins colour: caramel",
+      "natural flavour. allergens: contains gluten (wheat",
+      "oats)",
+      "milk and lactose. may contain traces of nuts and eggs. keep caal and dry best befare: see front of the pack. produced in the netherlands."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/473/1552/front_en.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chocolate Cookies",
+    "marca": "Merba",
+    "ean": "0046214731774",
+    "ingredientes": [
+      "Sugar",
+      "wheat flour (gluten)",
+      "vegetable oils (palm fruit",
+      "sunflower seeds)",
+      "cocoa mass",
+      "oat meal (gluten)",
+      "cocoa butter",
+      "whole milk powder",
+      "glucose-fructose syrup",
+      "skimmed milk powder",
+      "raising agents: E450",
+      "E500",
+      "salt",
+      "lactose (milk)",
+      "emulsifier: lecithins (sunflower)",
+      "colorant: caramel",
+      "flavouring. Allergens: gluten (wheat",
+      "oat)",
+      "cow's milk. May contain traces of nuts and eggs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/473/1774/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rainbow Cookies 2yrs",
+    "marca": "Merba",
+    "ean": "0046214930207",
+    "ingredientes": [
+      "Milk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/621/493/0207/front_fr.21.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mozart-Kugeln",
+    "marca": "Henry Lambertz Inc.",
+    "ean": "0046221273007",
+    "ingredientes": [
+      "Zucker",
+      "Mandeln (37% im Edel-Marzipan",
+      "Kakaomasse",
+      "Kakaobutter",
+      "Haselnüsse (41% im Haselnuss-Nougat)",
+      "Invertzuckersirup",
+      "Magermilchpulver",
+      "Süßmolkenpulver",
+      "Butterreinfett",
+      "Pistazien (6",
+      "Emulgator: Lecithine Feuchthaltemittel: Invertase",
+      "Vanillepulver",
+      "Kann andere Schalenfrüchte",
+      "Erdnüsse",
+      "Ei",
+      "Gluten",
+      "Lupine",
+      "Sesam und Saja enthalten."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulgator: Lecithine Feuchthaltemittel: Invertase",
+        "razon": "Contiene Emulgator: Lecithine Feuchthaltemittel: Invertase, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/622/127/3007/front_de.3.400.jpg",
+    "tahor": false,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Salmon steamed Fillets",
+    "marca": "By sainsbury's",
+    "ean": "00462297",
+    "ingredientes": [
+      "salmon",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/2297/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Rainbow Vegetable Stir Fry",
+    "marca": "M&S Eat Well",
+    "ean": "00462464",
+    "ingredientes": [
+      "Pak Choi (33%)",
+      "Carrots (15%)",
+      "Red Cabbage",
+      "Tenderstem® Broccoli",
+      "Fine Beans",
+      "Baby Corn (9%)",
+      "Salad Onions."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/2464/front_en.35.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mixed Cheese Curds",
+    "marca": "Cheese Pleasers",
+    "ean": "0046247933312",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES",
+      "EXTRACT OF ANNATTO."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Pleasers, White Cheese Curds",
+    "marca": "Charlies Fine Cheese",
+    "ean": "0046247966617",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "extract of annatto."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian prosciutto",
+    "marca": "Citterio, Marks & Spencer",
+    "ean": "00462495",
+    "ingredientes": [
+      "Pork (made with 135g of Raw Pork per 100g of Prosciutto Crudo) Sea Salt. •"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/2495/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Pineapple",
+    "marca": "M&S Eat Well",
+    "ean": "00462716",
+    "ingredientes": [
+      "pineapple"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/2716/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Siracha Sauce",
+    "marca": "Pride O’ That",
+    "ean": "0046274600195",
+    "ingredientes": [
+      "Water",
+      "Jalapeno Peppers",
+      "Sugar",
+      "Garlic Puree",
+      "Modified Starch",
+      "Acetic Acid",
+      "Xanthan Gum",
+      "Potassium Sorbate",
+      "Potassium Benzoate",
+      "Citric Acid",
+      "Hot Pepper Extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/627/460/0195/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "El Ranchero, Tortilla Chips",
+    "marca": "El Ranchero Food Products",
+    "ean": "0046288000035",
+    "ingredientes": [
+      "Corn",
+      "lime",
+      "corn oil and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tostadas",
+    "marca": "El Ranchero",
+    "ean": "0046288000042",
+    "ingredientes": [
+      "CORN",
+      "OIL",
+      "SALT",
+      "LIME AND WATER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tortilla Chips",
+    "marca": "El Romchero",
+    "ean": "0046288000059",
+    "ingredientes": [
+      "CORN",
+      "LINE AND CORN OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lebkuchen Hearts",
+    "marca": "Lambertz",
+    "ean": "0046290308006",
+    "ingredientes": [
+      "Glucose Fructose Syrup",
+      "Wheat Flour",
+      "Sugar",
+      "Apricot Puree",
+      "Cocoa Butter",
+      "Cocoa Mass",
+      "Whole Milk Powder",
+      "Sweet Whey Powder (Milk)",
+      "Caramel Sugar Syrup",
+      "Natural Flavour",
+      "Acid: Citric Acid",
+      "Gelling Agent: Pectins",
+      "Raising Agents: Potassium Carbonates",
+      "Diphosphates",
+      "Sodium Carbonates",
+      "Acidity Regulator: Potassium Citrates",
+      "Skimmed Milk Powder",
+      "Spices (contains cinnamon)",
+      "Pure Butterfat (Milk)",
+      "Emulsifier: Lecithins (contain Soya)",
+      "Salt. May contain nuts",
+      "peanuts",
+      "egg",
+      "lupin and sesame. 40 сос mass balance ba Visit info fairtrad Store in a dry and co Net. wt. 150g Best before: 4 006894 308006 30 1A 04"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/629/030/8006/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Noix de cajou",
+    "marca": "Marks & Spencer",
+    "ean": "00462907",
+    "ingredientes": [
+      "_Noix de cajou_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/2907/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "null",
+    "marca": "Sch",
+    "ean": "0046296226090",
+    "ingredientes": [
+      "RICE FLOUR",
+      "CORN FLOUR",
+      "SUGAR",
+      "SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bonta D Italia, Tagliatelle, Authentic Italian Pasta",
+    "marca": "Schar",
+    "ean": "0046296226373",
+    "ingredientes": [
+      "Corn starch",
+      "corn flour",
+      "rice flour",
+      "mono- and diglycerides."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "soft eating apricot",
+    "marca": "Marks & Spencer",
+    "ean": "00463072",
+    "ingredientes": [
+      "Partially Rehydrated Dried Apricots Antioxidant: E220 (Sulphites). For allergens see ingredients in bold."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Golden Gate Kitchens, Mediterranean Tuna Wrap",
+    "marca": "Ghiringhelli Gourmet Pizza Co.",
+    "ean": "0046319972072",
+    "ingredientes": [
+      "Tuna salad (tuna [tuna",
+      "water",
+      "salt",
+      "may contain sodium pyrophosphate]",
+      "dressing [mayonnaise [expeller pressed canola oil",
+      "pasteurized whole eggs",
+      "filtered water",
+      "honey",
+      "distilled white vinegar",
+      "sea salt",
+      "mustard [distilled vinegar",
+      "water",
+      "mustard seed",
+      "salt]",
+      "lemon juice concentrate)",
+      "water",
+      "sugar",
+      "kalamata olives* [olives",
+      "water",
+      "salt",
+      "olive oil]",
+      "capers* [capers",
+      "water",
+      "vinegar",
+      "salt]",
+      "lemon juice concentrate",
+      "salt",
+      "garlic powder",
+      "onion powder",
+      "emulsifiers [modified starch",
+      "cellulose gel and gum",
+      "xanthan gum]",
+      "cultured dextrose and maltodextrin",
+      "oregano",
+      "pepper",
+      "citric acid]",
+      "eggs",
+      "onions",
+      "bell peppers",
+      "kalamata olives*",
+      "capers*",
+      "parsley)",
+      "wheat tortilla (water",
+      "whole wheat flour",
+      "enriched wheat flour [wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "malted barley flour]",
+      "canola oil",
+      "contains less than 2% of each of the following: sea salt",
+      "wheat gluten",
+      "aluminum free leavening [sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "corn starch",
+      "monocalcium phosphate]",
+      "ascorbic acid)",
+      "romaine lettuce."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Gate Kitchens, Uncured Pepperoni Pizza",
+    "marca": "Ghiringhelli Gourmet Pizza Co.",
+    "ean": "0046319973017",
+    "ingredientes": [
+      "Crust: enriched unbleached wheat flour (wheat flour",
+      "enzyme [added for improved baking]",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "whole grain wheat flour",
+      "durum semolina flour (niacin",
+      "iron",
+      "thiamine mononitrate",
+      "ribofla"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Gate Kitchens, Cheese Pizza",
+    "marca": "Ghiringhelli Gourmet Pizza Co.",
+    "ean": "0046319973024",
+    "ingredientes": [
+      "Crust: enriched unbleached wheat flour (wheat flour",
+      "enzyme [added for improved baking]",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "whole grain wheat flour",
+      "durum semolina flour (niacin",
+      "iron",
+      "thiamine mononitrate riboflav"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pure squeezed spanish clementine juice",
+    "marca": "M&S Eat Well",
+    "ean": "00463348",
+    "ingredientes": [
+      "Jus de clémentine d'Espagne pasteurisé."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/3348/front_en.40.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Romaine Lettuce",
+    "marca": "Dandrea",
+    "ean": "0046340001437",
+    "ingredientes": [
+      "ROMAINE LETTUCE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "FREEFROM Haddock Fishcakes",
+    "marca": "Marks & Spencer",
+    "ean": "00463447",
+    "ingredientes": [
+      "Sugar",
+      "Butter (Milk)",
+      "Wheatflour (contains Gluten) (With Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Rice Flour",
+      "Glucose Syrup",
+      "Sweetened Milk (Whole Milk",
+      "Sugar",
+      "Lactose (Milk))",
+      "Cocoa Butter",
+      "Golden Syrup (invert Sugar Syrup)",
+      "Palm Oil",
+      "Cocoa Mass",
+      "Dried Skimmed Milk",
+      "Milk Fat",
+      "Salt",
+      "Lactose (Milk)",
+      "Emulsifier: Soya Lecithin",
+      "Sunflower Lecithin",
+      "E491",
+      "Dried Whole Milk",
+      "Flavourings. Not suitable for Nut allergy sufferers due to manufacturing methods."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/3447/front_en.41.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cheddar cheese& smoked bacon crispbake",
+    "marca": "Marks&spencer",
+    "ean": "00463508",
+    "ingredientes": [
+      "Pommes de terre (22%) ? Farine de blé contient Gluten (avec F de blé",
+      "Carbonate de calcium",
+      "Fer",
+      "Niacine",
+      "Thiamine) Bacon fumé cuit (1 1 %) (99%) ? Sels de salaison (Sel ? Conservateur : Nitrite de sodium) ? Oignons ? Fron cheddar affiné (Lait) (9%) ? Pommes de terre déshydratées ? Eau ? Huile de colz ? Lait demi-écrémé ? Spécialité fromagère (Lait) ? Fecule de pomme de terre Féa i de maïs ? Crème légère (Lait) Levure Sel ? Oignons de printemps ? Sel de mer ? Beurre (Lait) ? Epices moulues (Poivre noir Paprika Piment de Cayenne ' Poivr&lt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Psyllium whole husk",
+    "marca": "verba prima",
+    "ean": "0046352001050",
+    "ingredientes": [
+      "psyllium seed husks"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/635/200/1050/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sainsbury's British Drury Lane Hame",
+    "marca": "Sainsbury's",
+    "ean": "00463683",
+    "ingredientes": [
+      "pork",
+      "salt",
+      "glucose syrup",
+      "Stabilisers: Triphosphates",
+      "Antioxidant: Sodium Ascorbate",
+      "Preservative: Sodium Nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/3683/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Mini animal bicuits",
+    "marca": "M&S",
+    "ean": "00463713",
+    "ingredientes": [
+      "Farine de blé (contient Gluten) Beurre (Lait) (1 1 %) • Sirop de sucre inverti",
+      "Lactosérum en poudre (Lait) • Poudre à lever : bicarbonate de soude",
+      "E450 • Lait en poudre i entier • Sel • Emulsifiant : Lécithine de soja",
+      "Lécithine de tournesol • Correcteur d'acidité : Acide citrique • Arômes (contient Lait) Jaune d'œufs de poules élevées en plein air en poudre. Pour les allergènes",
+      "voir les ingredients indiqués en gras. Ne convient pas aux personnes allergiques aux fruits à coque et aux arachides en raison des méthodes de fabrication"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/3713/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Wiltshire cured apple wood smoked ham",
+    "marca": "M&S",
+    "ean": "00463775",
+    "ingredientes": [
+      "British Pork",
+      "Curing Salt (Salt",
+      "Preservative (Sodium Nitrite",
+      "Potassium Nitrate))."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/3775/front_en.35.400.jpg",
+    "tahor": true,
+    "pais": "Hong Kong"
+  },
+  {
+    "nombre": "Ready Salted Potato Sticks",
+    "marca": "Sainsbury's",
+    "ean": "00463942",
+    "ingredientes": [
+      "British Potato",
+      "Vegetable Oil (Rapeseed Oil",
+      "Sunflower Oil)",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/3942/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Mineralwasser Medium",
+    "marca": "Rudolf-Quelle",
+    "ean": "00464015",
+    "ingredientes": [
+      "Natrium 2"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4015/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Sushi snack",
+    "marca": "Marks & Spencer",
+    "ean": "00464079",
+    "ingredientes": [
+      "Riz à sushi cuit (Eau • Riz) • Thon : Poisson) (5%) • Concombre (5%) • Poivrons rouges cuits au gril (3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4079/front_en.29.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hot Sauce",
+    "marca": "Sherry Mfg Co Inc",
+    "ean": "0046409009107",
+    "ingredientes": [
+      "AGED RED CAYENNE PEPPERS",
+      "DISTILLED VINEGAR",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Vegetable & Beef Casserole",
+    "marca": "Sainsbury's",
+    "ean": "00464215",
+    "ingredientes": [
+      "Sweet Potato (23%)",
+      "Carrot (19%)",
+      "Water*",
+      "Beef (10%)",
+      "Cooked Polenta (8%) (Water",
+      "Polenta)",
+      "Onion",
+      "Leek",
+      "Parsnip (5%)",
+      "Tomato Purée",
+      "Beetroot (3%)",
+      "Turnip",
+      "Rapeseed Oil",
+      "Parsley",
+      "Black Pepper",
+      "Thyme",
+      "Rosemary. Permitted non organic ingredient. Serve: May be eaten warmed or at room temperature. Stand the pouch in a bowl of hot water",
+      "decant into a bowl and stir before serving. Always check the temperature of the food is not too hot before serving to your baby. Aim for at least 5 different portions of fruit or veg a day. ! Safety: Supervise babies when eating. If pouch looks damaged or inflated",
+      "do not use. Discard any unused heated food and never reheat. Once open consume immediately. Never put the pouch in the microwave. Cap could be a choking hazard for children under 36 months. Please always keep out of reach. Do not allow your baby to suck food directly from the pouch in order to properly develop feeding skills. M0439 Best before: 8113498 0622 0046 4215&quot",
+      "&gt",
+      "Store in a cool",
+      "dry place. Do not freeze Don't Recycle Packed in France for Sainsbury's Supermarkets Ltd",
+      "London",
+      "ECIN ZHT and Sainsbury's Supermarkets per Galwally Bele 6FX Using beel from UK Careline www.sainsburys.co.uk FR 02.514.00 CE 2166 29/11/2024 6-15:39 Bu Agrikulture Tualapack so"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4215/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chicken Dopiaza with Cumin Rice",
+    "marca": "Sainsbury's",
+    "ean": "00464284",
+    "ingredientes": [
+      "Cooked Cumin Rice (Water",
+      "Basmati Rice",
+      "Onion",
+      "Rapeseed Oil",
+      "Cumin Seeds",
+      "Salt",
+      "Cardamom",
+      "Bay Leaf)",
+      "Onion",
+      "Cooked Marinated Chicken (18%) (Chicken Breast",
+      "Rapeseed Oil",
+      "Low Fat Yogurt (Cows' Milk)",
+      "Cornflour",
+      "Paprika",
+      "Ginger Purée",
+      "Garlic Purée",
+      "Green Chilli Purée",
+      "Fenugreek",
+      "Coriander",
+      "Chilli Powder",
+      "Cumin",
+      "Cinnamon",
+      "Ginger Powder",
+      "White Pepper",
+      "Clove",
+      "Nutmeg",
+      "Cardamom",
+      "Bay Leaf)",
+      "Tomato",
+      "Rapeseed Oil",
+      "Tomato Paste",
+      "Yogurt (Cows' Milk)",
+      "Lemon Juice",
+      "Garlic Purée",
+      "Ginger Purée",
+      "Sugar",
+      "Green Chilli Purée",
+      "Coriander Leaf",
+      "Salt",
+      "Cumin",
+      "Cumin Seeds",
+      "Turmeric",
+      "Paprika",
+      "Nigella Seeds",
+      "Coriander",
+      "Chilli Powder",
+      "Fennel",
+      "White Pepper",
+      "Mustard Powder",
+      "Yellow Split Pea Flour",
+      "Fenugreek",
+      "Potato Starch",
+      "Chickpea Flour. !"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4284/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Mango Chutney",
+    "marca": "Sainsbury’s",
+    "ean": "00464321",
+    "ingredientes": [
+      "Sugar",
+      "Mango (46%)",
+      "Salt",
+      "Acidity Regulator: Acetic Acid",
+      "Paprika",
+      "Cayenne Pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4321/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Organic almond milk",
+    "marca": "Sainsbury's SO Organic",
+    "ean": "00464499",
+    "ingredientes": [
+      "Water* Organic Almonds 2% Sea salt* Stabiliser: Gellan Gum*  *Permitted non organic ingredients"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4499/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sainsbury's Orange Squash 4X",
+    "marca": "By sainsbury's",
+    "ean": "00464543",
+    "ingredientes": [
+      "Water",
+      "Orange Comminute From Concentrate (40%)",
+      "Acid: Citric Acid",
+      "Flavourings",
+      "Acidity Regulator: Sodium Citrate",
+      "Sweeteners: Sucralose",
+      "Acesulfame K",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)",
+      "Stabiliser: Carboxymethylcellulose Colour:Beta-carotene."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4543/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Lime squash",
+    "marca": "By sainsbury's",
+    "ean": "00464550",
+    "ingredientes": [
+      "water",
+      "lime juice from concentrate (40%)",
+      "Acid: Citric Acid",
+      "Flavourings",
+      "Acidity regulator: Sodium Citrate",
+      "Sweeteners: Sucrolose",
+      "Acesulfame K",
+      "Preservatives: Potassium sorbate",
+      "Sodium metabisuplate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4550/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Lemon squash",
+    "marca": "By sainsbury's",
+    "ean": "00464567",
+    "ingredientes": [
+      "Water",
+      "Lemon Comminute From Concentrate (40%)",
+      "Acids: Citric Acid",
+      "Malic Acid",
+      "Acidity Regulator: Sodium Citrate",
+      "Flavourings",
+      "Sweeteners: Sucralose",
+      "Acesulfame K",
+      "Stabiliser: Carboxymethylcellulose",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4567/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "White Hulless Microwave Popcorn",
+    "marca": "Amish Country Popcorn Inc.",
+    "ean": "0046457110114",
+    "ingredientes": [
+      "Popcorn",
+      "palm oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/711/0114/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Microwave Popcorn",
+    "marca": "Amish Country Popcorn Inc.",
+    "ean": "0046457110121",
+    "ingredientes": [
+      "POPCORN",
+      "PALM OIL",
+      "SALT",
+      "NATURAL AND ARTIFICIAL BUTTER FLAVOR",
+      "SOY LECITHIN",
+      "AND BETA CAROTENE FOR COLOR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/711/0121/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Microwave Popcorn",
+    "marca": "Amish Country Popcorn Inc.",
+    "ean": "0046457110152",
+    "ingredientes": [
+      "Popcorn",
+      "palm oil",
+      "salt",
+      "natural and artificial butter flavor",
+      "soy lecithin",
+      "sucralose."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Amish Country, Microwave Popcorn, Cheddar Cheese",
+    "marca": "Amish Country Popcorn Inc.",
+    "ean": "0046457110169",
+    "ingredientes": [
+      "Popcorn",
+      "palm oil",
+      "salt",
+      "natural and artificial cheese flavor",
+      "soy lecithin",
+      "fd&c yellow lake#5. fd&c yellow lake#6",
+      "beta carotene for color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White Hulless Microwave Popcorn",
+    "marca": "Amish Country Popcorn Inc.",
+    "ean": "0046457110176",
+    "ingredientes": [
+      "POPCORN",
+      "PALM OIL",
+      "SALT",
+      "NATURAL AND ARTIFICIAL PEPPER FLAVOR",
+      "SOY LECITHIN",
+      "FD&C YELLOW LAKE#5",
+      "FD&C YELLOW LAKE#6",
+      "BETA CAROTENE FOR COLOR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/711/0176/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peanut Oil",
+    "marca": "Amish Country",
+    "ean": "0046457301604",
+    "ingredientes": [
+      "PEANUT OIL WITH NATURAL COLOR ADDED"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Buttery Popcorn Topping",
+    "marca": "Amish Country",
+    "ean": "0046457302601",
+    "ingredientes": [
+      "PARTIALLY HYDROGENATED SOYBEAN OIL WITH ARTIFICIAL BUTTER FLAWOR",
+      "TBHQ AND CITRIC ACID ADDED TO IMPROVE STABILITY",
+      "BETA CAROTENE FOR COLOR",
+      "METHYL-SILICONE ADDED AS AN ANTI-FOAMING AGENT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/730/2601/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Popcorn Glaze Caramel",
+    "marca": "Amish Country",
+    "ean": "0046457303608",
+    "ingredientes": [
+      "SUGAR",
+      "BROWN SUGAR",
+      "MOLASSES",
+      "SOY LECITHIN",
+      "SALT",
+      "ARTIFICIAL FLAVOR",
+      "FD&C YELLOW NO. 5 (E102)",
+      "FD&C RED NO. 40 (E127)",
+      "FD&C BLUE NO. 1 (E133)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ranch Seasoning",
+    "marca": "Amish Country",
+    "ean": "0046457304605",
+    "ingredientes": [
+      "WHEY",
+      "BUTTERMILK POWDER",
+      "SALT",
+      "MONOSODIUM GLUTAMATE",
+      "ONION",
+      "DEXTROSE",
+      "CITRIC ACID",
+      "GARLIC PARSLEY",
+      "ARTIFICIAL FLAVOR",
+      "SODIUM DIACETATE. CONTAINS LESS THAT 2% SILICON DIOXIDE ADDED TO PREVENT CAKING."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/730/4605/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sour Cream & Onion Seasoning",
+    "marca": "Amish Country",
+    "ean": "0046457306609",
+    "ingredientes": [
+      "SALT",
+      "BUTTERMILK POWDER",
+      "SOUR CREAM (NONFAT MILK",
+      "CREAM & CULTURES) DEHYDRATED ONION & GARLIC",
+      "NATURAL FALVORS",
+      "DEXTROSE",
+      "MALTOOEXTRIN",
+      "AUTOLYZED YEAST EXTRACT",
+      "LACTIC ACID",
+      "PARSLEY AND DISODIUM INOSINATE & GUANYLATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tenderpop Canola Oil, Buttery Popcorn Oil",
+    "marca": "Amish Country",
+    "ean": "0046457316004",
+    "ingredientes": [
+      "Made from partially hydrogenated canola oil",
+      "colored with artificially butter flavored beta carotene and with tbhq and citric acid to retard oxidation."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Popcorn Salt",
+    "marca": "Amish Country",
+    "ean": "0046457410061",
+    "ingredientes": [
+      "Salt",
+      "maltodextrin",
+      "natural butter flavor",
+      "annatto and turmeric (for color). \"contains milk\" modified food starch",
+      "fd&c yellow #5",
+      "fd&c yellow #6",
+      "natural & artificial flavor",
+      "tricalcium phosphate added as anticaking agent."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/741/0061/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fine White Popcorn Salt",
+    "marca": "Amish Country",
+    "ean": "0046457420060",
+    "ingredientes": [
+      "SALT",
+      "TRICALCIUM PHOSPHATE ADDED AS ANTICAKING AGENT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Large Caramel Type Popcorn",
+    "marca": "Amish Country Popcorn",
+    "ean": "0046457900326",
+    "ingredientes": [
+      "baby white extra small popcorn kernals"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/645/790/0326/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Jumbo raisins & cashews",
+    "marca": "Sainsbury's, Marks&Spencer",
+    "ean": "00464659",
+    "ingredientes": [
+      "watermelon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4659/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cherries and berries squash",
+    "marca": "By sainsbury's",
+    "ean": "00464697",
+    "ingredientes": [
+      "Water",
+      "apple juice from concentrate",
+      "acids: citric acid",
+      "maltic acid",
+      "cherry juice from concentrate",
+      "strawberry juice from concentrate",
+      "raspberry juice from concentrate",
+      "sodium citrate",
+      "sucralose",
+      "acesulfame k",
+      "anthocyanins",
+      "potassium sorbate",
+      "sodium metabisulphite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4697/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Orange Lemon and Pineapple Squash",
+    "marca": "By sainsbury's",
+    "ean": "00464703",
+    "ingredientes": [
+      "Water",
+      "Orange Comminute From Concentrate (20%)",
+      "Lemon Comminute From Concentrate (12%)",
+      "Pineapple Juice From Concentrate (8%)",
+      "Acid: Citric Acid",
+      "Acidity Regulator: Sodium Citrate",
+      "Flavourings Sweeteners: Acesulfame K",
+      "Sucralose",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)",
+      "Stabiliser: Carboxymethylcellulose",
+      "Colour: Beta-carotene. Allergy advice: For allergens",
+      "see ingredients in bold."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4703/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "4X concentrated summer fruits squash",
+    "marca": "By sainsbury's",
+    "ean": "00464727",
+    "ingredientes": [
+      "Water",
+      "Apple Juice from Concentrate (38%)",
+      "Acids: Citric Acid",
+      "Acidity Regulator: Sodium Citrate",
+      "Strawberry Juice from Concentrate (0.8%)",
+      "Blackcurrant Juice from Concentrate (0.6%)",
+      "Flavourings",
+      "Cherry Juice from Concentrate (0.3%)",
+      "Sweeteners: Sucralose",
+      "Acesulfame K",
+      "Raspberry Juice From Concentrate (0.3%)",
+      "Colour: Anthocyanins",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4727/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Apple and blackcurrant squash",
+    "marca": "By sainsbury's",
+    "ean": "00464741",
+    "ingredientes": [
+      "Water",
+      "Apple Juice from Concentrate (39.5%)",
+      "Acid: Citric Acid",
+      "Acidity Regulator: Sodium Citrate",
+      "Flavourings",
+      "Blackcurrant Juice from Concentrate (0.5%)",
+      "Sweeteners: Acesulfame K",
+      "Sucralose",
+      "Colour: Anthocyanins",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4741/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Orange and mango squash",
+    "marca": "By sainsbury's",
+    "ean": "00464758",
+    "ingredientes": [
+      "Water",
+      "Orange Comminute From Concentrate (36%)",
+      "Mango Puree (4%)",
+      "Acids: Citric Acid",
+      "Malic Acid",
+      "Flavourings",
+      "Acidity Regulator: Sodium Citrate",
+      "Sweeteners: Sucralose",
+      "Acesulfame K",
+      "Stabiliser: Carboxymethylcellulose",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)",
+      "Colour: Beta-carotene."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4758/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Apple and blackcurrant squash",
+    "marca": "Sainsbury's",
+    "ean": "00464789",
+    "ingredientes": [
+      "Water",
+      "Apple Juice from Concentrate (39.5%)",
+      "Acid: Citric Acid",
+      "Acidity Regulator: Sodium Citrate",
+      "Flavourings",
+      "Blackcurrant Juice from Concentrate (0.5%)",
+      "Sweeteners: Acesulfame K",
+      "Sucralose",
+      "Colour: Anthocyanins",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4789/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Orange Squash 4x Concentrated",
+    "marca": "Sainsbury",
+    "ean": "00464796",
+    "ingredientes": [
+      "Energy mono-unsaturates &lt",
+      "polyunsaturates &lt",
+      "Carbohydrate &lt",
+      "starch &lt",
+      "Fihre &lt",
+      "Protein &lt",
+      "Salt &lt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4796/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Summer fruits squash",
+    "marca": "By sainsbury's",
+    "ean": "00464833",
+    "ingredientes": [
+      "Water",
+      "Apple Juice from Concentrate (38%)",
+      "Acids: Citric Acid",
+      "Acidity Regulator: Sodium Citrate",
+      "Strawberry Juice from Concentrate (0.8%)",
+      "Blackcurrant Juice from Concentrate (0.6%)",
+      "Flavourings",
+      "Cherry Juice from Concentrate (0.3%)",
+      "Sweeteners: Sucralose",
+      "Acesulfame K",
+      "Raspberry Juice From Concentrate (0.3%)",
+      "Colour: Anthocyanins",
+      "Preservatives: Potassium Sorbate",
+      "Sodium Metabisulphite (Sulphites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/4833/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Freshly squeezed still limonade",
+    "marca": "Marks & Spencer",
+    "ean": "00464864",
+    "ingredientes": [
+      "water - freshly squeezed lemon juice (12%) sugar lemon extract. suitable for vegetarians"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Glade",
+    "marca": "sc johnson",
+    "ean": "0046500733321",
+    "ingredientes": [
+      "Water",
+      "Isobaric",
+      "Propane",
+      "Disodium phosphate",
+      "sorbitan oleate",
+      "fragances. propylene glycol",
+      "steartrimonium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/650/073/3321/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Glade spray",
+    "marca": "SC Johnson",
+    "ean": "0046500733345",
+    "ingredientes": [
+      "INGREDIENTS: Fragrance",
+      "Solubilizers",
+      "Emulsifier",
+      "Stabilizer Corrosion Inhibitor",
+      "Propellants. SCJ Formula # 35 10543"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/650/073/3345/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Philippines"
+  },
+  {
+    "nombre": "flame grilled Italian artichokes",
+    "marca": "M&S",
+    "ean": "00465021",
+    "ingredientes": [
+      "roasted artichokes (82%) (artichoke hearts salt acid: citric acid) rapeseed oil· lemon juice sugar basil parsley salt paprika flakes",
+      "suitable for vegetarians"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/5021/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Feta and herb parcels",
+    "marca": "M&S",
+    "ean": "00465175",
+    "ingredientes": [
+      "Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) · Water Spinach Feta Cheese (Milk) (10%) - Full Fat Soft Cheese (Milk) · Onions Rapeseed Oil Medium Fat `Hard Cheese (Milk) Spring Onions Cornflour Parsley Poppy Seeds Dill Salt · Concentrated Lemon Juice Ground Black Pepper Ground Nutmeg Dried Mint Dextrose Wheat Starch (contains Gluten). For allergens see ingredients in bold. Suitable for vegetarians Take care",
+      "the filling in this product will be particularly hot after heating. NUTRITION Serves: 4 Typical values per 100g: Energy 1030KJ/"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/5175/front_en.31.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Moroccan style houmous",
+    "marca": "Marks & Spencer",
+    "ean": "00465182",
+    "ingredientes": [
+      "Cooked Chickpeas (38 %) (Water Chickpeas) Red Onions (16%) Rapeseed Oil - Water Tahini (Sesame Seed Paste) (8%) Onions Dried Apricots (4%) - Concentrated Lemon Juice Salt Cinger Purée Ground Spices (Coriander Turmeric Smoked Paprika Cumin Paprika Cinnamon) Carlic Cumin Seeds Rice Flour Onion Seeds Garlic Purée - Red Chilli Purée. For allergens see ingredients in bold Prepared to a Vegan recipe. Not suitable for those with a Milk or Egg allergy because these allergens are present in the environment."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Indian Starter Selection",
+    "marca": "Marks & Spencer",
+    "ean": "00465311",
+    "ingredientes": [
+      "INGREDIENTS 4 Vegetable Samosas Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) Rapeseed Oil Onions Water Cooked Potatoes (9%) Cauliflower (9%) Spinach (6%) Peas (4%) Green Beans (4%) Carrots (3.5%). Coriander Tomato Paste Salt Ground Spices (Roasted Coriander Cayenne Pepper Turmeric Cardamom Bay Leaves). Tomatoes Tomato Juice Poppy Seeds. Sugar - Ground Garam Masala (Roasted Cumin. Cardamom - Roasted Coriander Black Pepper Sweet Cinnamon (Cassia) · Fennel. Cloves - Mace Ginger Nutmeg Bay Leaves. Flavouring) Cumin Seeds Concentrated Lemon Juice Garlic Purée Ginger Purée. Wheat Starch (contains Gluten). 4 Onion Bhajis Onions (78%) Rapeseed Oil. Chickpea Flour Ground Spices (Roasted Cumin Coriander Turmeric) · Coriander. Salt Jalapeño Peppers Chilli Powder. Raising Agent: E450",
+      "Sodium Bicarbonate. Rice Flour Preservative: Acetic Acid. 4 Vegetable Pakoras Onions Chickpea Flour Rapeseed Oil Carrots (10%). Cauliflower (10%) Spinach (7%) Peas (7%): Raisins Coriander Ground Spices (Roasted Cumin Roasted Coriander Turmeric). Green Chilli Purée Salt Chilli Powder. Raising Agent: E450",
+      "Sodium Bicarbonate. Dried Mango Rice Flour Sunflower Oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Vic's, half salt lite white popcorn, half salt",
+    "marca": "Vic's",
+    "ean": "0046555000201",
+    "ingredientes": [
+      "Popcorn",
+      "corn oil",
+      "and/or sunflower oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lite Cheddar Cheese Popcorn",
+    "marca": "Vic's Corn Popper",
+    "ean": "0046555001062",
+    "ingredientes": [
+      "POPCORN",
+      "CORN OIL",
+      "AND/OR SUNFLOWER OIL",
+      "DEHYDRATED CHEDDAR CHEESE (MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES)",
+      "WHEY SOLIDS",
+      "BUTTERMILK SOLIDS",
+      "SALT",
+      "SODIUM PHOSPHATE",
+      "LACTIC ACID",
+      "NATURAL FLAVORS",
+      "EXTRACTS OF ANNATTO",
+      "TURMERIC",
+      "AND PAPRIKA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Natural Lite Caramel Popcorn",
+    "marca": "Vic's Corn Popper",
+    "ean": "0046555001079",
+    "ingredientes": [
+      "SUGAR. BROWN SUGAR",
+      "POPCORN",
+      "CORN SYRUP",
+      "CORN OIL",
+      "AND/OR SUNFLOWER OIL",
+      "BUTTER",
+      "LECITHIN",
+      "BAKING SODA",
+      "SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kln Family Brands, Corn Vic's Popper, Kettle Style Popcorn",
+    "marca": "Barrel O' Fun Snack Foods Co.",
+    "ean": "0046555234187",
+    "ingredientes": [
+      "Popcorn",
+      "sugar",
+      "sunflower and/or corn oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vic's Corn Popper, Kettle Style Popcorn, Cinnamon",
+    "marca": "Barrel O' Fun Snack Foods Co.",
+    "ean": "0046555237492",
+    "ingredientes": [
+      "Popcorn",
+      "sunflower oil and/or corn oil",
+      "sugar",
+      "corn syrup",
+      "seasoning (sugar dextrose",
+      "cinnamon",
+      "salt",
+      "spice extract)",
+      "salt",
+      "soy lecithin",
+      "baking soda."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kln, Vic's Corn Popper, Lite Half Salt White Popcorn",
+    "marca": "Ruth's Enterprises  Ltd",
+    "ean": "0046555281068",
+    "ingredientes": [
+      "Popcorn",
+      "vegetable oil (sunflower",
+      "and/or corn oil",
+      "and/or canola)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Classic fruit salad",
+    "marca": "Marks & Spencer",
+    "ean": "00465557",
+    "ingredientes": [
+      "Orange (24%) · Strawberries (20%) - Apple (19%) · Melon (19%) · Grapes (18%). May contain pips. NUTRITION Typical values/"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/5557/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini cocktail sausages",
+    "marca": "Marks & Spencer",
+    "ean": "00465632",
+    "ingredientes": [
+      "british pork (66%) · water rice flour · rapeseed oil· chickpea flour pea fibre· dextrose · sea salt · salt · cornflour stabiliser: e450 ground black pepper · dried sage ground nutmeg ground mace ground white pepper",
+      "sausages filled into beef collagen casings",
+      "not suitable for wheat allergy sufferers and coeliacs due to manufacturing methods"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/5632/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini Snack Eggs",
+    "marca": "Marks & Spencer",
+    "ean": "00465649",
+    "ingredientes": [
+      "Porc britannique (40%)",
+      "farine de blé contient du _gluten_ (avec farine de blé",
+      "carbonate de calcium",
+      "fer",
+      "niacine",
+      "thiamine)",
+      "eau de cuisson sans cuisson (10%)",
+      "huile de colza",
+      "oignons",
+      "graisse de porc",
+      "fibres de pois",
+      "sel de mer",
+      "fécule de pomme de terre",
+      "Sel",
+      "poivre blanc moulu",
+      "noix de muscade moulue",
+      "poivre noir grossier",
+      "jaune d'_œuf _pasteurisé",
+      "vinaigre",
+      "masse moulue",
+      "coriandre moulue",
+      "sucre",
+      "sauge",
+      "_œuf_ de libre pâturage",
+      "jus de citron concentré",
+      "levure",
+      "extrait de paprika",
+      "graines de _moutarde_ noire ."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/046/5649/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Raley's",
+    "ean": "0046567000060",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "CAFFEINE",
+      "NATURAL FLAVOR",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Raley's",
+    "ean": "0046567000084",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "CAFFEINE",
+      "NATURAL FLAVOR",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Cola",
+    "marca": "Raley's",
+    "ean": "0046567000091",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "POTASSIUM CITRATE",
+      "ASPARTAME",
+      "POTASSIUM BENZOATE (A PRESERVATIVE)",
+      "CAFFEINE",
+      "NATURAL FLAVOR",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Calorie Free Diet Cola",
+    "marca": "Raley's",
+    "ean": "0046567000114",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "POTASSIUM CITRATE",
+      "ASPARTAME",
+      "POTASSIUM BENZOATE (A PRESERVATIVE)",
+      "CAFFEINE",
+      "NATURAL FLAVOR",
+      "CITRIC ACID."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, tahoe twist, lemon lime soda, lemon, lime",
+    "marca": "Raley's",
+    "ean": "0046567000138",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (a preservative)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, dr. tremor soda",
+    "marca": "Raley's",
+    "ean": "0046567000190",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "phosphoric acid",
+      "potassium benzoate (a preservative)",
+      "caffeine",
+      "lactic acid",
+      "monopotassium phosphate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, dr. tremor, soda",
+    "marca": "Raley's",
+    "ean": "0046567000206",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "phosphoric acid",
+      "potassium benzoate (a preservative)",
+      "caffeine",
+      "lactic acid",
+      "monopotassium phosphate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Very Low Sodium Grape Soda",
+    "marca": "Raley's",
+    "ean": "0046567000213",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "ARTIFICIAL FLAVOR",
+      "GRAPE JUICE FROM CONCENTRATE",
+      "POTASSIUM BENZOATE (A PRESERVATIVE)",
+      "MODIFIED FOOD STARCH",
+      "RED 40",
+      "BLUE 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet soda",
+    "marca": "Raley's",
+    "ean": "0046567000251",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, cable car, root beer soda, root beer",
+    "marca": "Raley's",
+    "ean": "0046567000299",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "potassium benzoate (a preservative)",
+      "natural and artificial flavor",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, cable car, root beer",
+    "marca": "Raley's",
+    "ean": "0046567000312",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "potassium benzoate (a preservative)",
+      "natural and artificial flavor",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's, monterey red, black cherry soda, black cherry",
+    "marca": "Raley's",
+    "ean": "0046567000343",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "caramel color",
+      "potassium benzoate (a preservative)",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ginger Ale",
+    "marca": "Raley's",
+    "ean": "0046567000350",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "POTASSIUM BENZOATE (A PRESERVATIVE)",
+      "CARAMEL COLOR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cruzin Cream, Diet Calorie Free Cream Soda",
+    "marca": "Raley's",
+    "ean": "0046567000381",
+    "ingredientes": [
+      "Carbonated water",
+      "natural and artificial flavor",
+      "potassium benzoate (a preservative)",
+      "caramel color",
+      "citric acid",
+      "aspartame",
+      "acesulfame potassium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bran flakes cereal",
+    "marca": "Raley’s",
+    "ean": "0046567001142",
+    "ingredientes": [
+      "Whole grain wheat",
+      "wheat bran",
+      "sugar",
+      "corn syrup",
+      "salt",
+      "malt syrup. vitamins and minerals: sodium ascorbate (vitamin c)",
+      "alpha tocopherol acetate (vitamin e)",
+      "niacinamide",
+      "zinc oxide",
+      "reduced iron",
+      "calcium pantothenate (a b vitamin)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "riboflavin (vitamin b2)",
+      "thiamin mononitrate (vitamin b1)",
+      "vitamin a palmitate",
+      "folic acid",
+      "vitamin b12 and vitamin d."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pear Halves In 100% Real Pear Juice From Concentrate",
+    "marca": "Raley's",
+    "ean": "0046567001449",
+    "ingredientes": [
+      "Pears",
+      "water",
+      "pear juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pear halves in extra light syrup",
+    "marca": "Raley's",
+    "ean": "0046567001456",
+    "ingredientes": [
+      "Pears",
+      "water",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced pears in extra light syrup",
+    "marca": "Raley's",
+    "ean": "0046567001463",
+    "ingredientes": [
+      "Pears",
+      "water",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra cherry mixed fruit in a naturally flavored cherry light syrup, extra cherry",
+    "marca": "Raley’s",
+    "ean": "0046567001616",
+    "ingredientes": [
+      "Fruit (peaches",
+      "pears",
+      "grapes",
+      "cherries artificially colored red with carmine)",
+      "water",
+      "corn syrup",
+      "high fructose corn syrup",
+      "sugar",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark red kidney beans",
+    "marca": "Raley’s",
+    "ean": "0046567001814",
+    "ingredientes": [
+      "Prepared dark red kidney beans",
+      "water",
+      "sugar",
+      "salt",
+      "calcium chloride (firming agent)",
+      "disodium edta (for color retention)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's Pinto beans",
+    "marca": "Raley's",
+    "ean": "0046567001821",
+    "ingredientes": [
+      "Prepared pinto beans",
+      "water",
+      "salt",
+      "calcium chloride (firming agent)",
+      "calcium disodium edta (for color retention)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/1821/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley's Blackeyed peas",
+    "marca": "Raley's",
+    "ean": "0046567001883",
+    "ingredientes": [
+      "Water",
+      "blackeyed peas",
+      "salt",
+      "disodium edta (for color retention)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/1883/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "No salt added cut green beans",
+    "marca": "Raley's",
+    "ean": "0046567002064",
+    "ingredientes": [
+      "Green beans",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/2064/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Singles american pasteurized prepared cheese product",
+    "marca": "Raley's",
+    "ean": "0046567002859",
+    "ingredientes": [
+      "Milk and skim milk",
+      "cream",
+      "water",
+      "milk protein concentrate",
+      "whey",
+      "modified food starch",
+      "sodium citrate",
+      "calcium phosphate",
+      "salt",
+      "whey protein concentrate",
+      "dairy product solids",
+      "cheese culture",
+      "sorbic acid (preservative)",
+      "citric acid",
+      "sodium phosphate",
+      "lac"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/2859/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Parmesan",
+    "marca": "Raley's",
+    "ean": "0046567003207",
+    "ingredientes": [
+      "Parmesan cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "potato starch and powdered cellulose added to prevent caking",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/3207/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sharp Cheddar",
+    "marca": "Raley's",
+    "ean": "0046567003269",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto color)",
+      "potato starch and powdered cellulose added to prevent caking",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/3269/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raley’s Six Cheese Italian Blend",
+    "marca": "Raley's",
+    "ean": "0046567003276",
+    "ingredientes": [
+      "Low-moisture part-skim mozzarella and romano cheese made from cow's milk (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "provolone",
+      "parmesan",
+      "fontina and asiago cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "added smoke flavoring [in provolone cheese])",
+      "potato starch and powdered cellulose added to prevent caking",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/3276/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Cheddar",
+    "marca": "Raley‘s",
+    "ean": "0046567003306",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto color)",
+      "potato starch and powdered cellulose added to prevent caking",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/3306/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Peeled Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567003610",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "sea salt",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Peeled Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567003627",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "sea salt",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mexican Style Stewed Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567003634",
+    "ingredientes": [
+      "Cut tomatoes",
+      "tomato juice",
+      "sugar",
+      "sea salt",
+      "dehydrated onions",
+      "dehydrated green bell pepper",
+      "dehydrated garlic",
+      "dehydrated celery",
+      "spices",
+      "calcium chloride",
+      "citric acid",
+      "natural flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Stewed Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567003641",
+    "ingredientes": [
+      "Cut tomatoes",
+      "tomato juice",
+      "sugar",
+      "sea salt",
+      "dehydrated onions",
+      "dehydrated green bell pepper",
+      "dehydrated garlic",
+      "dehydrated celery",
+      "spices",
+      "calcium chloride",
+      "citric acid",
+      "natural flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stewed tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567003658",
+    "ingredientes": [
+      "Cut tomatoes",
+      "tomato juice",
+      "sugar",
+      "sea salt",
+      "dehydrated onions",
+      "dehydrated celery",
+      "dehydrated peppers",
+      "spices",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato sauce",
+    "marca": "Raley's",
+    "ean": "0046567003665",
+    "ingredientes": [
+      "Tomatoes",
+      "less than 2% of: sea salt",
+      "dehydrated onions",
+      "dehydrated garlic",
+      "spices",
+      "natural flavorings",
+      "sweet bell pepper",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Sauce No Salt Added",
+    "marca": "Raley's",
+    "ean": "0046567003672",
+    "ingredientes": [
+      "Tomatoes",
+      "less than 2% of: dehydrated onions",
+      "dehydrated garlic",
+      "spices",
+      "natural flavorings",
+      "sweet bell pepper",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato paste",
+    "marca": "Raley's",
+    "ean": "0046567003689",
+    "ingredientes": [
+      "Tomato pulp",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato sauce",
+    "marca": "Raley's",
+    "ean": "0046567003696",
+    "ingredientes": [
+      "Tomatoes",
+      "less than 2% of: sea salt",
+      "dehydrated onions",
+      "dehydrated garlic",
+      "spices",
+      "natural flavorings",
+      "sweet bell pepper",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Sauce",
+    "marca": "Raley's",
+    "ean": "0046567003702",
+    "ingredientes": [
+      "Tomatoes",
+      "less than 2% of: sea salt",
+      "dehydrated onions",
+      "dehydrated garlic",
+      "spices",
+      "natural flavorings",
+      "sweet bell pepper",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato paste",
+    "marca": "Raley's",
+    "ean": "0046567003719",
+    "ingredientes": [
+      "Tomato pulp",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced tomatoes in tomato juice",
+    "marca": "Raley's",
+    "ean": "0046567003726",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "sea salt",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Diced Tomatoes With Basil, Garlic & Oregano",
+    "marca": "Raley's",
+    "ean": "0046567003733",
+    "ingredientes": [
+      "Cut tomatoes",
+      "tomato juice",
+      "less than 2% of: sea salt",
+      "garlic powder",
+      "onion powder",
+      "dried oregano",
+      "dried basil",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/3733/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced tomatoes in tomato juice",
+    "marca": "Raley's",
+    "ean": "0046567003740",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "sea salt",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced Tomatoes In Juice No Salt Added",
+    "marca": "Raley's",
+    "ean": "0046567003757",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crushed tomatoes in puree",
+    "marca": "Raley's",
+    "ean": "0046567003771",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato puree",
+      "sea salt",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken noodle condensed soup, chicken noodle",
+    "marca": "Raley's",
+    "ean": "0046567003863",
+    "ingredientes": [
+      "Chicken stock",
+      "enriched egg noodles (wheat flour",
+      "eggs",
+      "egg whites",
+      "niacin",
+      "ferrous sulfate [iron]",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "chicken meat (cooked chicken meat",
+      "water",
+      "modified food starch",
+      "salt sodium phosphate)",
+      "contains less than 2% of: salt",
+      "chicken fat",
+      "modified food starch",
+      "flavoring",
+      "sea salt",
+      "potassium chloride",
+      "dehydrated onions",
+      "yeast extract",
+      "beta carotene (for color)",
+      "cooked mechanically separated chicken meat."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/3863/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Broth",
+    "marca": "Raley's",
+    "ean": "0046567004099",
+    "ingredientes": [
+      "Chicken broth",
+      "contains less than 2% of salt",
+      "sea salt",
+      "sugar",
+      "yeast extract",
+      "natural flavor",
+      "carrot juice concentrate",
+      "onion powder",
+      "chicken fat",
+      "chicken powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4099/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry preserves",
+    "marca": "Raley's",
+    "ean": "0046567004228",
+    "ingredientes": [
+      "Strawberries",
+      "high fructose corn syrup",
+      "corn syrup",
+      "sugar",
+      "fruit pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4228/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grape jelly",
+    "marca": "Raley's",
+    "ean": "0046567004242",
+    "ingredientes": [
+      "Concord grape juice",
+      "corn syrup",
+      "high fructose corn syrup",
+      "fruit pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4242/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackberry preserves",
+    "marca": "Raley's",
+    "ean": "0046567004273",
+    "ingredientes": [
+      "Blackberries",
+      "high fructose corn syrup",
+      "corn syrup",
+      "fruit pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4273/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grape jam",
+    "marca": "Raley's",
+    "ean": "0046567004297",
+    "ingredientes": [
+      "Concord grapes",
+      "corn syrup",
+      "high fructose corn syrup",
+      "fruit pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4297/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey mustard, honey",
+    "marca": "Raley’s",
+    "ean": "0046567004341",
+    "ingredientes": [
+      "Water",
+      "vinegar",
+      "mustard seed",
+      "sugar",
+      "cider vinegar",
+      "honey",
+      "brown sugar",
+      "salt",
+      "spices",
+      "turmeric",
+      "citric acid",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ripe Black Olives, Sliced",
+    "marca": "Raley's",
+    "ean": "0046567004372",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ripe Black Olives, Sliced",
+    "marca": "Raley's",
+    "ean": "0046567004396",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4396/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chopped Black Ripe Olives",
+    "marca": "Raley's",
+    "ean": "0046567004402",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Small pitted black olives",
+    "marca": "Raley's",
+    "ean": "0046567004419",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium pitted black olives",
+    "marca": "Raley's",
+    "ean": "0046567004426",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Large pitted black olives",
+    "marca": "Raley's",
+    "ean": "0046567004433",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra-Large Pitted Black Ripe Olives",
+    "marca": "Raley's",
+    "ean": "0046567004440",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt",
+      "ferrous gluconate (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4440/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Medium pitted green ripe olives",
+    "marca": "Raley's",
+    "ean": "0046567004471",
+    "ingredientes": [
+      "Ripe olives",
+      "water",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4471/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White wine vinegar",
+    "marca": "Raley's",
+    "ean": "0046567004662",
+    "ingredientes": [
+      "White wine vinegar",
+      "potassium metabisulfite (a preservative)",
+      "diluted with water to 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4662/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vegetable Medley",
+    "marca": "Taylor Farms",
+    "ean": "0046567004846",
+    "ingredientes": [
+      "filtered water",
+      "tomato concentrate",
+      "salt",
+      "citric acid",
+      "ascorbic acid (vitamin C)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/4846/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crinkle cut carrots",
+    "marca": "Raley's",
+    "ean": "0046567005140",
+    "ingredientes": [
+      "Carrots."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brussels sprouts",
+    "marca": "Raley's",
+    "ean": "0046567005164",
+    "ingredientes": [
+      "Brussels sprouts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stir-fry vegetables",
+    "marca": "Raley's",
+    "ean": "0046567005188",
+    "ingredientes": [
+      "Sugar snap peas",
+      "broccoli",
+      "green beans",
+      "celery",
+      "carrots",
+      "water chestnuts",
+      "onion",
+      "red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fiesta blend",
+    "marca": "Raley's",
+    "ean": "0046567005201",
+    "ingredientes": [
+      "Broccoli",
+      "carrots",
+      "white beans",
+      "kidney beans",
+      "garbanzo beans",
+      "italian green beans",
+      "red peppers."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian style vegetables",
+    "marca": "Raley's",
+    "ean": "0046567005225",
+    "ingredientes": [
+      "Zucchini",
+      "carrots",
+      "cauliflower",
+      "italian green beans",
+      "baby lima beans",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "California blend",
+    "marca": "Raley's",
+    "ean": "0046567005249",
+    "ingredientes": [
+      "Broccoli",
+      "cauliflower",
+      "carrots."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Broccoli cuts",
+    "marca": "Raley's",
+    "ean": "0046567005263",
+    "ingredientes": [
+      "Broccoli."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Broccoli florets",
+    "marca": "Raley's",
+    "ean": "0046567005270",
+    "ingredientes": [
+      "Broccoli."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cauliflower florets",
+    "marca": "Raley's",
+    "ean": "0046567005287",
+    "ingredientes": [
+      "Cauliflower."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Winter Blend Broccoli And Cauliflower",
+    "marca": "Raley's",
+    "ean": "0046567005294",
+    "ingredientes": [
+      "Broccoli",
+      "cauliflower."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Country vegetables",
+    "marca": "Raley’s",
+    "ean": "0046567005522",
+    "ingredientes": [
+      "Corn",
+      "carrots",
+      "green beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almon Stuffed Olives",
+    "marca": "Nob Hill Trading Co.",
+    "ean": "0046567005805",
+    "ingredientes": [
+      "Olives",
+      "water",
+      "almonds",
+      "chardonnay wine",
+      "fresh lemon",
+      "salt",
+      "herbs",
+      "lactic acid",
+      "sodium bisulfite (to stabilize color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/5805/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Unsweetened applesauce, unsweetened",
+    "marca": "Raley’s",
+    "ean": "0046567006499",
+    "ingredientes": [
+      "Apples",
+      "water",
+      "ascorbic acid (to maintain color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate chip waffles, chocolate chip",
+    "marca": "Raley's",
+    "ean": "0046567007519",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "chocolate chips (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "dextrose",
+      "soy lecithin [emulsifier]",
+      "vanillin [an artificial flavoring])",
+      "nonfat milk",
+      "soybean oil",
+      "whey solids",
+      "whole eggs",
+      "sugar",
+      "leavening (sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "monocalcium phosphate)",
+      "soy lecithin",
+      "salt",
+      "calcium carbonate",
+      "dicalcium phosphate",
+      "reduced iron",
+      "niacin",
+      "vitamin a palmitate",
+      "pyridoxine hydrochloride",
+      "riboflavin",
+      "thiamin mononitrate",
+      "cyanocobalamin",
+      "natural and artificial flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh frozen strawberries, blackberries, blueberries & raspberries berry medley, berry medley",
+    "marca": "Raley’s",
+    "ean": "0046567007557",
+    "ingredientes": [
+      "Strawberries",
+      "blackberries",
+      "blueberries",
+      "raspberries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh frozen dark sweet cherries",
+    "marca": "Raley’s",
+    "ean": "0046567007601",
+    "ingredientes": [
+      "Dark sweet cherries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Unbleached Bread Flour",
+    "marca": "Raley's",
+    "ean": "0046567007731",
+    "ingredientes": [
+      "ENRICHED UNBLEACHED WHEAT FLOUR (NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "MALTED BARLEY FLOUR."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry jam",
+    "marca": "Raley's",
+    "ean": "0046567009308",
+    "ingredientes": [
+      "Seedless strawberry puree",
+      "corn syrup",
+      "high fructose corn syrup",
+      "sugar",
+      "fruit pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/9308/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rainbow Rotini",
+    "marca": "Raley's",
+    "ean": "0046567009490",
+    "ingredientes": [
+      "Semolina (wheat)",
+      "durum flour (wheat)",
+      "dried tomato",
+      "dried spinach",
+      "niacin",
+      "ferrous sulfate (iron)",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/9490/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peanut Oil",
+    "marca": "Raley's",
+    "ean": "0046567009728",
+    "ingredientes": [
+      "Peanut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/700/9728/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567010045",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "sea salt",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567010052",
+    "ingredientes": [
+      "Tomatoes",
+      "tomato juice",
+      "sea salt",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium white chunk chicken breast with rib meat in water",
+    "marca": "Campbell's",
+    "ean": "0046567010311",
+    "ingredientes": [
+      "Chicken breast meat with rib meat",
+      "water",
+      "contains 2% or less of sea salt",
+      "modified food starch",
+      "sodium phosphates",
+      "chicken flavor (salt",
+      "chicken broth",
+      "natural flavors)",
+      "flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fire Roasted Diced Tomatoes",
+    "marca": "Raley's",
+    "ean": "0046567011905",
+    "ingredientes": [
+      "Fire roasted diced tomatoes",
+      "tomato juice",
+      "sea salt",
+      "garlic powder",
+      "natural flavoring",
+      "onion powder",
+      "yeast extract",
+      "calcium chloride",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey Nut Toasted Oats, A Sweetened Toasted Oat",
+    "marca": "Raley's",
+    "ean": "0046567011967",
+    "ingredientes": [
+      "Whole grain oat flour (includes the oat bran)",
+      "sugar",
+      "wheat starch",
+      "honey",
+      "modified cornstarch",
+      "oat fiber",
+      "brown sugar",
+      "salt",
+      "canola oil",
+      "oat extract",
+      "dicalcium phosphate",
+      "tripotassium phosphate",
+      "natural almond flavor",
+      "vitamin e (mixed tocopherols) added to preserve freshness. vitamins and minerals: calcium carbonate",
+      "reduced iron and zinc oxide",
+      "sodium ascorbate (vitamin c)",
+      "niacinamide",
+      "vitamin a palmitate",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "riboflavin (vitamin b2)",
+      "thiamin mononitrate (vitamin b1)",
+      "folic acid",
+      "vitamin d",
+      "vitamin b12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/004/656/701/1967/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gluten Free Pinto Beans",
+    "marca": "Raley's",
+    "ean": "0046567012551",
+    "ingredientes": [
+      "PINTO BEANS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Popcorn",
+    "marca": "Raley's",
+    "ean": "0046567012742",
+    "ingredientes": [
+      "Yellow popcorn"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

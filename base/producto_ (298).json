@@ -1,0 +1,6315 @@
+[
+  {
+    "nombre": "Cherry bakewell",
+    "marca": "By sainsbury's",
+    "ean": "00614917",
+    "ingredientes": [
+      "Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate Iron Niacin",
+      "Thiamin)",
+      "Sugar",
+      "Vegetable Oils (Palm",
+      "Rapeseed",
+      "Palm Kernel Palm Stearin)",
+      "Glucose Syrup",
+      "Plum and Raspberry Jam (9%) (Glucose-Fructose Syrup",
+      "Plum Purée (32%)",
+      "Sugar",
+      "Raspberry Purée (3.0%)",
+      "Gelling Agent. Pectin: Acid: Citric Acid",
+      "Acidity Regulator Sodium Citrate",
+      "Preservative: Potassium Sorbate",
+      "Colour: Anthocyanins",
+      "Flavouring)",
+      "Glacé Cherries (5%) (Cherries",
+      "Glucose-Fructose Syrup",
+      "Sugar Acid",
+      "Citric Acid",
+      "Colour Anthocyanins)",
+      "Skimmed Cows' Milk Powder Whey Powder (Cows Milk)",
+      "Dried Egg White",
+      "Flavouring",
+      "Dextrose",
+      "Emulsifiers. Sorbitan Monostearate",
+      "Polysorbate 60",
+      "Mono - and Diglycerides of Fatty Acids",
+      "Raising Agents: Disodium Diphosphate",
+      "Sodium Bicarbonate: Ground Almond",
+      "Salt",
+      "Humectant: Vegetable Glycerine",
+      "Preservative: Potassium Sorbate."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Plum and Raspberry Jam (9%) (Glucose-Fructose Syrup",
+        "razon": "Contiene Plum and Raspberry Jam (9%) (Glucose-Fructose Syrup, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/4917/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "White Flour Tortillas",
+    "marca": "Tía Rosa",
+    "ean": "0061497231568",
+    "ingredientes": [
+      "Enriched Wheat Flour",
+      "Water",
+      "Modified Palm Oil and Canola Oil Shortening",
+      "Salt",
+      "Baking Powder",
+      "Calcium Propionate",
+      "Potassium Sorbate",
+      "Lactic Acid",
+      "Wheat Fiber",
+      "Yeast",
+      "Calcium Peroxide",
+      "May contain: Sesame Seeds",
+      "Soybean",
+      "Sulphites"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/149/723/1568/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Yellow Corn Tortillas",
+    "marca": "Tia Rosa",
+    "ean": "0061497699610",
+    "ingredientes": [
+      "Water",
+      "Yellow corn masa flour",
+      "Enriched wheat flour",
+      "Vegetable oil",
+      "Wheat gluten",
+      "Salt",
+      "Sugar",
+      "Baking powder",
+      "Hydrogenated vegetable oil",
+      "Potassium sorbate",
+      "Sodium propionate",
+      "Guar gum",
+      "Fumaric acid",
+      "Cellulose gum",
+      "Potassium chloride",
+      "Corn starch"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Gingerbread Cake & Cookie mix",
+    "marca": "Trader Joe's",
+    "ean": "00614979",
+    "ingredientes": [
+      "unbleached enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "sugar",
+      "crystallized ginger (ginger",
+      "sugar)",
+      "molasses powder",
+      "modified cornstarch",
+      "spices (ginger",
+      "cinnamon",
+      "nutmeg)",
+      "dextrose",
+      "salt",
+      "soybean oil",
+      "baking soda",
+      "natural flavors. contains soy",
+      "wheat. may contain milk",
+      "egg",
+      "almond",
+      "pecan",
+      "walnut."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/4979/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Stars & Stripes",
+    "ean": "0061500003410",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stars & stripes, ginger ale soda, ginger ale",
+    "marca": "Stars & Stripes",
+    "ean": "0061500004080",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "citric acid",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "aspartame",
+      "caramel color",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Soda",
+    "marca": "Stars & Stripes",
+    "ean": "0061500005353",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "citric acid",
+      "gum acacia",
+      "potassium benzoate (preservative)",
+      "caffeine",
+      "aspartame",
+      "red 40",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Stars & Stripes",
+    "ean": "0061500005445",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural & artificial flavor",
+      "phosphoric acid",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "aspartame",
+      "caffeine",
+      "acesulfame potassium",
+      "lactic acid",
+      "monopotassium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500008255",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "natural and artificial flavor",
+      "gum acacia",
+      "ester gum",
+      "yellow 5",
+      "brominated vegetable oil",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500008262",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "artificial flavor",
+      "red 40",
+      "yellow 5",
+      "polysorbate 60."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Cott Beverages  Inc",
+    "ean": "0061500008606",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tutifruti, soda, fruit punch",
+    "marca": "Tutifruti",
+    "ean": "0061500008644",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "caramel color",
+      "red 40",
+      "ester gum",
+      "brominated vegetable oil",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mandarina, soda, orange",
+    "marca": "Mandarina",
+    "ean": "0061500008668",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seltzer",
+    "marca": "Vintage",
+    "ean": "0061500009023",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Club Soda",
+    "marca": "Vintage",
+    "ean": "0061500009030",
+    "ingredientes": [
+      "Carbonated water",
+      "potassium bicarbonate",
+      "potassium citrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/000/9030/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raspberry seltzer",
+    "marca": "Vintage",
+    "ean": "0061500010111",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kid connection, grape soda, garpe",
+    "marca": "Kid Connection",
+    "ean": "0061500010142",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup and/or sugar",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium benzoate (a preservative)",
+      "modified food starch",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stars & stripes, purified drinking water",
+    "marca": "Stars & Stripes",
+    "ean": "0061500010524",
+    "ingredientes": [
+      "Purified water",
+      "magnesium sulfate",
+      "potassium bicarbonate",
+      "potassium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Lemon Lime Soda",
+    "marca": "Cott Beverage  Inc.",
+    "ean": "0061500010944",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup citric acid",
+      "natural flavor",
+      "potassium benzoate (a preservative)",
+      "potassium citrate",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Cott Beverages  Inc",
+    "ean": "0061500010968",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "potassium benzoate",
+      "(preservative)",
+      "modified food starch",
+      "aspartame acesulfame potassium",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage, mocktail, non-alcoholic carbonated beverage, lime margarita",
+    "marca": "Vintage",
+    "ean": "0061500011583",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "ester gum",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 5",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500013563",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "natural flavor",
+      "gum acacia",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500013587",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "natural and artificial flavor",
+      "gum acacia",
+      "caramel color",
+      "ester gum",
+      "red 40",
+      "brominated vegetable oil",
+      "yellow 5",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500013594",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium benzoate (a preservative)",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500013617",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "caramel color",
+      "artificial flavor",
+      "red 40",
+      "brominated vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Root Beer Soda, Root Beer",
+    "marca": "Cott",
+    "ean": "0061500013990",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "potassium benzoate (a preservative)",
+      "natural and artificial flavor",
+      "citric acid",
+      "acesulfame potassium",
+      "aspartame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grape Soda",
+    "marca": "Ahold",
+    "ean": "0061500014003",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "modified food starch",
+      "aspartame",
+      "acesulfame potassium",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/4003/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling soda",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500014485",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor",
+      "malic acid",
+      "citric acid",
+      "potassium citrate",
+      "aspartame",
+      "potassium benzoate and sodium benzoate (preservatives)",
+      "caramel color",
+      "gum acacia",
+      "acesulfame potassium",
+      "ester gum",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling soda",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500014492",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "potassium citrate",
+      "malic acid",
+      "natural flavor",
+      "aspartame",
+      "caramel color",
+      "potassium benzoate",
+      "sodium benzoate and potassium sorbate (preservatives)",
+      "gum acacia",
+      "acesulfame potassium",
+      "red 40",
+      "cranberry juice concentrate",
+      "ester gum",
+      "tartaric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Artic Cooler Sparkling Soda, Berry",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500014508",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "potassium citrate",
+      "aspartame",
+      "natural flavor",
+      "gum acacia",
+      "potassium benzoate",
+      "potassium sorbate",
+      "and sodium benzoate (preservatives)",
+      "acesulfame potassium",
+      "ester gum",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Arctic Cooler, Sparkling Diet Citrus Soda, Citrus",
+    "marca": "Cott Beverages  Inc",
+    "ean": "0061500014515",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "aspartame",
+      "gum acacia",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "acesulfame potassium",
+      "ester gum",
+      "yellow 5",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Arctic Cooler, Diet Soda, Vanilla",
+    "marca": "Cott Beverage  Inc.",
+    "ean": "0061500014522",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "aspartame",
+      "gum acacia",
+      "potassium benzoate and sodium benzoate (preservatives)",
+      "acesulfame potassium",
+      "ester gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Circle K",
+    "ean": "0061500014850",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium citrate",
+      "natural and artificial flavor",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "ester gum",
+      "aspartame",
+      "acesulfame potassium",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Favorites, Sparkling Water Beverage, Black Raspberry",
+    "marca": "Circle K",
+    "ean": "0061500014942",
+    "ingredientes": [
+      "Carbonated water",
+      "blackberry juice concentrate",
+      "malic acid",
+      "natural flavor",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "green tea",
+      "red 40",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Orange Mango Sparkling Water",
+    "marca": "Circle K Favorites",
+    "ean": "0061500014959",
+    "ingredientes": [
+      "Carbonated water",
+      "orange juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "gum acacia",
+      "sucralose",
+      "green tea",
+      "ester gum",
+      "calcium disodium edta (to protect flavor)",
+      "magnesium sulfate",
+      "calcium chloride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water",
+    "marca": "K",
+    "ean": "0061500014966",
+    "ingredientes": [
+      "Carbonated water",
+      "kiwi juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "gum acacia",
+      "green tea",
+      "ester gum",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "n"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "K favorites, sparkling water beverage, watermelon",
+    "marca": "Circle K",
+    "ean": "0061500014980",
+    "ingredientes": [
+      "Carbonated water",
+      "apple juice concentrate",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "gum acacia",
+      "green tea",
+      "ester gum",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "magnesium sulfate",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "red 40",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015475",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Cola",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015499",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "phosphoric acid",
+      "aspartame",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/5499/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit punch",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015512",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "natural and artificial flavor",
+      "aspartame",
+      "acesulfame potassium",
+      "ester gum",
+      "red 40",
+      "brominated vegetable oil",
+      "caramel color",
+      "yellow 6"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/5512/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stars & stripes caffeine free soda",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015536",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "citric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "caramel color",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/5536/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda, grape",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015550",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "modified food starch",
+      "aspartame",
+      "acesulfame potassium",
+      "grape juice from concentrate",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemon Lime Flavored Soda",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015574",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/5574/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mountain soda, citrus",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015598",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "orange juice from concentrate",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "caffeine",
+      "aspartame",
+      "acesulfame potassium",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 5",
+      "brominated vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Orange Flavored Soda With Other Natural Flavors",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015611",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "acesulfame potassium",
+      "aspartame",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pineapple soda",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015635",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium citrate",
+      "natural and artificial flavor",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "ester gum",
+      "aspartame",
+      "acesulfame potassium",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Root Beer",
+    "marca": "Cott Beverage Inc.",
+    "ean": "0061500015659",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "potassium benzoate (preservative)",
+      "natural and artificial flavor",
+      "citric acid",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/5659/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dr. Stripes Soda",
+    "marca": "Stars & Stripes",
+    "ean": "0061500015697",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural & artificial flavor",
+      "phosphoric acid",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "aspartame",
+      "caffeine",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Murphy, Classic Soda, Cherry, Limeade",
+    "marca": "Cott Beverages  Inc",
+    "ean": "0061500015796",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "red 40",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Murphy, Classic Soda, Strawberry",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500015802",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Energy drink",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500015819",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "malic acid",
+      "taurine",
+      "d-glucuronolactone",
+      "sodium citrate",
+      "natural flavor",
+      "caffeine",
+      "potassium benzoate (preservative)",
+      "inositol",
+      "niacinamide (niacin)",
+      "d-calcium pantothenate (pantothenic acid)",
+      "red 40",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "blue 1",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Key lime flavored sparkling water beverage, key lime",
+    "marca": "Cott Beverages Inc.",
+    "ean": "0061500016229",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clear choice, sparkling water beverage",
+    "marca": "Clear Choice",
+    "ean": "0061500016236",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "potassium citrate",
+      "natural flavor",
+      "aspartame",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "malic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild cherry flavored sparkling water beverage, wild cherry",
+    "marca": "Cott Beverages Inc.",
+    "ean": "0061500016243",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor",
+      "citric acid",
+      "malic acid",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "potassium citrate",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vess, diet cola",
+    "marca": "Vess",
+    "ean": "0061500016274",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "aspartame",
+      "phosphoric acid",
+      "potassium benzoate (preservative)",
+      "citric acid",
+      "caffeine",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Cola",
+    "marca": "Vess",
+    "ean": "0061500016281",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "aspartame",
+      "phosphoric acid",
+      "potassium benzoate (preservative)",
+      "citric acid",
+      "caffeine",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Citrus flavored soda",
+    "marca": "Mt Vess",
+    "ean": "0061500016298",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "orange juice from concentrate with other natural flavors",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "potassium citrate",
+      "caffeine",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 5",
+      "brominated vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Cola",
+    "marca": "Vess",
+    "ean": "0061500016304",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "aspartame",
+      "phosphoric acid",
+      "potassium benzoate (preservative)",
+      "citric acid",
+      "caffeine",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Cott Beverages  Usa",
+    "ean": "0061500016311",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "orange juice from concentrate with other natural flavors",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "potassium citrate",
+      "caffeine",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 5",
+      "brominated vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stars & stripes, fruit mist, pineapple & coconut",
+    "marca": "Stars & Stripes",
+    "ean": "0061500016366",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Energy Drink",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500016397",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "sodium citrate",
+      "salt",
+      "caffeine",
+      "gum acacia",
+      "potassium benzoate (preservative)",
+      "natural & artificial flavor",
+      "niacinamide (niacin)",
+      "ester gum",
+      "panax ginseng root extract",
+      "d-calcium pantothenate (pantothenic acid)",
+      "red 40",
+      "inositol",
+      "guarana seed extract",
+      "brominated vegetable oil",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "caramel color",
+      "taurine",
+      "yellow 6",
+      "d-glucuronolactone",
+      "l-carnitine",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "guarana seed extract",
+        "razon": "Contiene guarana seed extract, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage, flavored seltzer, blueberry",
+    "marca": "Vintage",
+    "ean": "0061500016595",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage, seltzer, pineapple",
+    "marca": "Vintage",
+    "ean": "0061500016618",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seltzer",
+    "marca": "Vintage",
+    "ean": "0061500016632",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage, sparkling water, original",
+    "marca": "Vintage",
+    "ean": "0061500016755",
+    "ingredientes": [
+      "Carbonated water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Water, Lemon",
+    "marca": "Vintage",
+    "ean": "0061500016762",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Firecracker Fizz Soda, Orange",
+    "marca": "Cott Beverages Inc",
+    "ean": "0061500016786",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "acesulfame potassium",
+      "aspartame",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkler Fizz Soda",
+    "marca": "Cott Beverages Inc",
+    "ean": "0061500016793",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural & artificial flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "modified food starch",
+      "aspartame",
+      "acesulfame potassium",
+      "grape juice concentrate",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ice sparkling water beverage, lemonade",
+    "marca": "Clear Choice Ice",
+    "ean": "0061500016816",
+    "ingredientes": [
+      "Carbonated water",
+      "lemon juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "green tea",
+      "gum acacia",
+      "sucrose acetate isobutyrate",
+      "calcium disodium edta (to protect flavor",
+      "niacinamide (niacin)",
+      "d-calcium pantothenate (pantothenic acid)",
+      "blue 1",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "yellow 5",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clear choice, flavored sparkling water beverage, strawberry lemonade, strawberry lemonade",
+    "marca": "Clear Choice",
+    "ean": "0061500016830",
+    "ingredientes": [
+      "Carbonated water",
+      "lemon juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "green tea",
+      "gum acacia",
+      "sucrose acetate isobutyrate",
+      "calcium chloride",
+      "magnesium sulfate",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (niacin)",
+      "red 40",
+      "d-calcium pantothenate (vitamin b5)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "yellow 5",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stars & stripes, ginger ale, cranberry",
+    "marca": "Stars & Stripes",
+    "ean": "0061500016854",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "caramel color",
+      "sucralose",
+      "malic acid",
+      "cranberry juice concentrate",
+      "red 40",
+      "tartaric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Murphy, Classic Soda, Cream Soda",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500017196",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "potassium benzoate (preservative)",
+      "citric acid",
+      "caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cherry Limeade Energy Drink",
+    "marca": "Joker Mad Energy",
+    "ean": "0061500017820",
+    "ingredientes": [
+      "Carbonated water",
+      "Glucose-fructose",
+      "Taurine",
+      "Citric acid",
+      "D-glucuronolactone",
+      "Sodium citrate",
+      "Natural flavour",
+      "Malic acid",
+      "Caffeine",
+      "Potassium benzoate",
+      "Inositol",
+      "Niacinamide (niacin)",
+      "D-calcium pantothenate (pantothenic acid)",
+      "Pyridoxine hydrochloride (vitamin B6)",
+      "Allura red",
+      "Cyanocobalamin (vitamin B12)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/7820/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ultra Red Energy Drink",
+    "marca": "Joker Mad Energy",
+    "ean": "0061500017837",
+    "ingredientes": [
+      "Carbonated water",
+      "Citric acid",
+      "Taurine",
+      "Erythritol",
+      "Sodium citrate",
+      "Natural flavour",
+      "Panax ginseng extract",
+      "Potassium benzoate and potassium sorbate",
+      "Caffeine",
+      "Sucralose",
+      "Gum acacia",
+      "Ester gum",
+      "Acesulfame potassium",
+      "Niacin (niacinamide)",
+      "Pantothenic acid (calcium D-pantothenate)",
+      "Glucuronolactone",
+      "Inositol",
+      "Guarana extract",
+      "Vitamin B6 (pyridoxine hydrochloride)",
+      "Allura red",
+      "Brilliant blue FCF",
+      "Vitamin B12 (cyanocobalamin)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Guarana extract",
+        "razon": "Contiene Guarana extract, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/001/7837/front_en.9.400.jpg",
+    "tahor": false,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cott, Cola",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500106357",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Calorie Free Diet Cola",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500106388",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "aspartame",
+      "potassium benzoate (a preservative)",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Cola",
+    "marca": "Cott Beverages  Inc",
+    "ean": "0061500106395",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Cola",
+    "marca": "Cott",
+    "ean": "0061500106432",
+    "ingredientes": [
+      "Carbonated water",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "aspartame",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, grapenstein soda, grape",
+    "marca": "Cott",
+    "ean": "0061500111184",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "modified food starch",
+      "aspartame",
+      "acesulfame potassium",
+      "grape juice from concentrate",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Bubbling Cauldron Soda, Orange",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500111191",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "potassium citrate",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "acesulfame potassium",
+      "aspartame",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Murphy Classic Soda, Cosmic Cola",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500116806",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Murphy Classic Soda, Orange",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500116844",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Murphy Classic Soda, Grape",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500116851",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "artificial flavor",
+      "potassium benzoate (a preservative)",
+      "modified food starch",
+      "grape juice from concentrate",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flavored soda",
+    "marca": "Vess",
+    "ean": "0061500117254",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "natural flavor",
+      "gum acacia",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500117261",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium benzoate (a preservative)",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500117278",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "natural and artificial flavor",
+      "gum acacia",
+      "caramel color",
+      "ester gum",
+      "red 40",
+      "brominated vegetable oil",
+      "yellow 5",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Vess",
+    "ean": "0061500117285",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "artificial flavor",
+      "red 40",
+      "yellow 5",
+      "polysorbate 60."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Cott Beverages Inc",
+    "ean": "0061500117292",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "natural and artificial flavor",
+      "gum acacia",
+      "ester gum",
+      "yellow 5",
+      "brominated vegetable oil",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clover valley, dr. topper soda",
+    "marca": "Clover Valley",
+    "ean": "0061500118886",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "phosphoric acid",
+      "potassium benzoate (a preservative)",
+      "caffeine",
+      "lactic acid",
+      "monopotassium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vibe, caffeine free soda, live blue raspberry",
+    "marca": "Vibe",
+    "ean": "0061500119166",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "artificial flavor",
+      "potassium citrate",
+      "aspartame",
+      "acesulfame potassium",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vibe, live cola",
+    "marca": "Vibe",
+    "ean": "0061500119234",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mt. m, citrus soda, citrus",
+    "marca": "Mt. M",
+    "ean": "0061500119531",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "concentrated orange juice and other natural flavors",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "potassium citrate",
+      "caffeine",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 5",
+      "brominated vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "M, cola",
+    "marca": "M",
+    "ean": "0061500119623",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "M, orange soda",
+    "marca": "M",
+    "ean": "0061500119630",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fizz, fruit punch soda",
+    "marca": "Fizz",
+    "ean": "0061500120049",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "natural and artificial flavor",
+      "ester gum",
+      "red 40 brominated vegetable oil",
+      "caramel color",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fizz, bola cola",
+    "marca": "Fizz",
+    "ean": "0061500120056",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "My fizz, orange soda, orange",
+    "marca": "My Fizz",
+    "ean": "0061500120063",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "My fizz, soda, fruit punch",
+    "marca": "My Fizz",
+    "ean": "0061500120070",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "natural and artificial flavor",
+      "ester gum",
+      "red 40",
+      "brominated vegetable oil",
+      "caramel color",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fizz, fuzzy peach soda, peach",
+    "marca": "Fizz",
+    "ean": "0061500120087",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate (a preservative)",
+      "yellow 6",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "My fizz, strawberry soda, strawberry",
+    "marca": "My Fizz",
+    "ean": "0061500120094",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (a preservative)",
+      "artificial flavor",
+      "gum acacia",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fizz, grapelicious soda, grape",
+    "marca": "Fizz",
+    "ean": "0061500120278",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "artificial flavor",
+      "potassium benzoate (a preservative)",
+      "modified food starch",
+      "grape juice from concentrate",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "My fizz, soda, orange, pineapple",
+    "marca": "My Fizz",
+    "ean": "0061500120285",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "My fizz, green watermelon soda, green watermelon",
+    "marca": "My Fizz",
+    "ean": "0061500120292",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "malic acid",
+      "potassium benzoate (a preservative)",
+      "gum acacia",
+      "ester gum",
+      "yellow 5",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Energy Drink",
+    "marca": "Red Rain Energy",
+    "ean": "0061500122531",
+    "ingredientes": [
+      "Carbonated water",
+      "Glucose-fructose",
+      "Malic acid",
+      "Taurine",
+      "D-glucuronolactone",
+      "Sodium citrate",
+      "Natural and artificial flavour",
+      "Caffeine",
+      "Potassium benzoate",
+      "Inositol",
+      "Niacin (niacinamide)",
+      "Caramel colour",
+      "Pantothenic acid (d-calcium pantothenate)",
+      "Vitamin B6 (pyridoxine hydrochloride)",
+      "Tartrazine",
+      "Allura red",
+      "Vitamin B12 (cyanocobalamin)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/012/2531/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Lime flavored seltzer",
+    "marca": "Vintage",
+    "ean": "0061500122739",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage, seltzer, raspberry lime",
+    "marca": "Vintage",
+    "ean": "0061500122777",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ice sparkling water beverage, black raspberry",
+    "marca": "Clear Choice Ice",
+    "ean": "0061500123521",
+    "ingredientes": [
+      "Carbonated water",
+      "blackberry juice concentrate",
+      "malic acid",
+      "natural flavor",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "green tea",
+      "red 40",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (niacin)",
+      "d-calcium pantothenate (pantothenic acid)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flavored sparkling water beverage, orange mango",
+    "marca": "Clear Choice Ice",
+    "ean": "0061500123538",
+    "ingredientes": [
+      "Carbonated water",
+      "orange juice concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "gum acacia",
+      "sucralose",
+      "green tea",
+      "ester gum",
+      "calcium disodium edta (to protect flavor)",
+      "yellow 6",
+      "niacinamide (niacin)",
+      "d-calcium pantothenate (pantothenic acid)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "yellow 5",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zero calories kiwi strawberry flavored sparkling water beverage",
+    "marca": "Clear Choice",
+    "ean": "0061500123545",
+    "ingredientes": [
+      "Carbonated water",
+      "kiwi juice from concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "gum acacia",
+      "green tea",
+      "ester gum",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow 5",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "blue 1",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flavored sparkling water beverage, pink grapefruit",
+    "marca": "Clear Choice",
+    "ean": "0061500123552",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor",
+      "pink grapefruit juice concentrate",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "gum acacia",
+      "sucralose",
+      "green tea",
+      "ester gum",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (niacin)",
+      "d-calcium pantothenate (pantothenic acid)",
+      "red 40",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Left hook, energy drink, citrus",
+    "marca": "Left Hook",
+    "ean": "0061500124504",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "taurine",
+      "sodium citrate",
+      "natural flavor",
+      "panax ginseng root extract",
+      "l-carnitine",
+      "caffeine",
+      "potassium sorbate and potassium benzoate (preservatives)",
+      "maltodextrin",
+      "caramel color",
+      "niacinamide (vitamin b3)",
+      "d-glucuronolactone",
+      "salt",
+      "inositol",
+      "sucralose",
+      "guarana seed extract",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "riboflavin (vitamin b2)",
+      "red 40",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "guarana seed extract",
+        "razon": "Contiene guarana seed extract, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott Beverages, Low Calorie Juice Drink, Berry",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500125792",
+    "ingredientes": [
+      "Water",
+      "high fructose corn syrup",
+      "apple juice concentrate",
+      "citric acid",
+      "natural and artificial flavor",
+      "pectin",
+      "ascorbic acid (vitamin c)",
+      "gumacaca sucralose acesulfame potassium",
+      "ester gum",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage, seltzer, lemon",
+    "marca": "Vintage",
+    "ean": "0061500126423",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flavored sparkling water beverage, golden peach",
+    "marca": "Clear Choice",
+    "ean": "0061500126553",
+    "ingredientes": [
+      "Carbonated water",
+      "citric acid",
+      "natural flavor",
+      "potassium citrate",
+      "aspartame",
+      "potassium benzoate (preservative)",
+      "acesulfame potassium",
+      "malic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "!Ajua!, Caffeine Free Soda, Tutti Fruitti Fruit Punch",
+    "marca": "!Ajua!",
+    "ean": "0061500127154",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "natural and artificial flavor",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "caramel color",
+      "red 40",
+      "ester gum",
+      "brominated vegetable oil",
+      "yellow 6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "!Ajua!, Caffeine Free Soda, Pineapple",
+    "marca": "!Ajua!",
+    "ean": "0061500127161",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "ester gum",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "!Ajua!, Caffeine Free Soda, Mandarin Orange",
+    "marca": "!Ajua!",
+    "ean": "0061500127178",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "ester gum",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Stars & Stripes",
+    "ean": "0061500127338",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Energy Drink",
+    "marca": "Cott Beverages Inc.",
+    "ean": "0061500127390",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "taurine",
+      "sodium citrate",
+      "natural flavor",
+      "caffeine",
+      "potassium sorbate and potassium benzoate (preservatives)",
+      "inositol",
+      "caramel color",
+      "niacinamide (vitamin b3)",
+      "panax ginseng root extract",
+      "salt",
+      "sucralose",
+      "guarana",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "d-calcium pantothenate (vitamin b5)",
+      "red 40",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "guarana",
+        "razon": "Contiene guarana, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seltzer",
+    "marca": "Vintage",
+    "ean": "0061500127536",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127666",
+    "ingredientes": [
+      "Carbonated water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127673",
+    "ingredientes": [
+      "Carbonated water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127697",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127703",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127727",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127734",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127765",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127796",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling water",
+    "marca": "Vintage",
+    "ean": "0061500127826",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cott, Murphy Classic Soda, Mtn Citrus",
+    "marca": "Cott Beverage  Inc.",
+    "ean": "0061500127857",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "orange juice from concentrate",
+      "natural flavor",
+      "gum acacia",
+      "potassium citrate",
+      "potassium benzoate (a preservative)",
+      "citrus pectin",
+      "caffeine",
+      "calcium disodium edta (to protect flavor)",
+      "brominated vegetable oil",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dr. Murphy, Classic Soda",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500127864",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "natural and artificial flavor",
+      "phosphoric acid",
+      "potassium benzoate (a preservative)",
+      "caffeine",
+      "lactic acid",
+      "monopotassium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "K favorites, blue raspberry soda, blue raspberry",
+    "marca": "K Favorites",
+    "ean": "0061500128038",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "artificial flavor",
+      "potassium citrate",
+      "aspartame",
+      "acesulfame potassium",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "K favorites, cola",
+    "marca": "K Favorites",
+    "ean": "0061500128045",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "K favorites, grape soda",
+    "marca": "K Favorites",
+    "ean": "0061500128052",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "modified food starch",
+      "aspartame",
+      "acesulfame potassium",
+      "grape juice concentrate",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "K favorites, soda, orange",
+    "marca": "K Favorites",
+    "ean": "0061500128069",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "acesulfame potassium aspartame",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "K favorites, pineapple soda, pineapple",
+    "marca": "K Favorites",
+    "ean": "0061500128076",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium citrate",
+      "natural and artificial flavor",
+      "potassium benzoate (preservative)",
+      "gum acacia",
+      "aspartame",
+      "acesulfame potassium",
+      "ester gum",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Favorites, soda, strawberry",
+    "marca": "Favorites",
+    "ean": "0061500128083",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "aspartame",
+      "acesulfame potassium",
+      "gum acacia",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Circle K",
+    "ean": "0061500128090",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "natural and artificial flavor",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola",
+    "marca": "Circle K",
+    "ean": "0061500128106",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "phosphoric acid",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "aspartame",
+      "acesulfame potassium",
+      "natural flavor",
+      "caffeine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tropical orange",
+    "marca": "Circle K",
+    "ean": "0061500128113",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "gum acacia",
+      "natural flavor",
+      "ester gum",
+      "acesulfame potassium",
+      "aspartame",
+      "yellow 6",
+      "brominated vegetable oil",
+      "red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Energy Drink",
+    "marca": "Joker Mad Energy",
+    "ean": "0061500128243",
+    "ingredientes": [
+      "Carbonated water",
+      "Glucose-fructose",
+      "Malic acid",
+      "Taurine",
+      "D-glucuronolactone",
+      "Sodium citrate",
+      "Natural and artificial flavour",
+      "Caffeine",
+      "Potassium benzoate",
+      "Inositol",
+      "Niacin (niacinamide)",
+      "Caramel colour",
+      "Pantothenic acid (D-calcium pantothenate)",
+      "Vitamin B6 (pyridoxine hydrochloride)",
+      "Tartrazine",
+      "Allura red",
+      "Vitamin B12 (cyanocobalamin)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/012/8243/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sugar Free Energy Drink",
+    "marca": "Joker Mad Energy",
+    "ean": "0061500128250",
+    "ingredientes": [
+      "Carbonated water",
+      "Malic acid",
+      "Taurine",
+      "D-glucuronolactone",
+      "Sodium citrate",
+      "Natural and artificial flavour",
+      "Caffeine",
+      "Potassium benzoate",
+      "Inositol",
+      "Sucralose",
+      "Acesulfame potassium",
+      "Niacin (niacinamide)",
+      "Caramel colour",
+      "Pantothenic acid (C-calcium pantothenate)",
+      "Vitamin B6 (pyridoxine hydrochloride)",
+      "Tartrazine",
+      "Allura red",
+      "Vitamin B12 (cyanocobalamin)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/012/8250/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Tropical Mango Energy Drink",
+    "marca": "Joker Mad Energy",
+    "ean": "0061500128267",
+    "ingredientes": [
+      "Carbonated water",
+      "Glucose-fructose",
+      "Citric acid",
+      "Taurine",
+      "D-glucuronolactone",
+      "Sodium citrate",
+      "Natural flavour",
+      "Caffeine",
+      "Potassium benzoate",
+      "Inositol",
+      "Niacin (niacinamide)",
+      "Pantothenic acid (D-calcium pantothenate)",
+      "Vitamin B6 (pyridoxine hydrochloride)",
+      "Sunset yellow FCF",
+      "Allura red",
+      "Vitamin B12 (cyanocobalamin)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/150/012/8267/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Joker, mad energy drink, fruit punch",
+    "marca": "Joker",
+    "ean": "0061500128274",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "sodium citrate",
+      "salt",
+      "caffeine",
+      "gum acacia",
+      "potassium benzoate (preservative)",
+      "natural & artificial flavor",
+      "niacinamide (niacin)",
+      "ester gum",
+      "panax ginseng root extract",
+      "d-calcium pantothenate (pantothenic acid)",
+      "red 40",
+      "inositol",
+      "guarana seed extract",
+      "brominated vegetable oil",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "caramel color",
+      "taurine",
+      "yellow 6",
+      "d-glucuronolactone",
+      "l-carnitine",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "guarana seed extract",
+        "razon": "Contiene guarana seed extract, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Joker, mad energy drink, cherry lime",
+    "marca": "Joker",
+    "ean": "0061500128281",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "taurine",
+      "d-glucuronolactone",
+      "sodium citrate",
+      "natural flavor",
+      "caffeine",
+      "potassium benzoate (preservative)",
+      "sucralose",
+      "inositol",
+      "niacinamide (niacin)",
+      "acesulfame potassium",
+      "d-calcium pantothenate (pantothenic acid)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "red 40",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Joker, mad energy drink, tropical mango",
+    "marca": "Joker",
+    "ean": "0061500128298",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "taurine",
+      "d-glucuronolactone",
+      "sodium citrate",
+      "natural flavor",
+      "caffeine",
+      "potassium benzoate (preservative)",
+      "inositol",
+      "niacinamide (niacin)",
+      "d-calcium pantothenate (pantothenic acid)",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "yellow 6",
+      "red 40",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flavored seltzer, lemon",
+    "marca": "Vintage",
+    "ean": "0061500209966",
+    "ingredientes": [
+      "Carbonated water",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ice Sparkling Water Beverage",
+    "marca": "Clear Choice",
+    "ean": "0061500210443",
+    "ingredientes": [
+      "Carbonated water",
+      "kiwi juice from concentrate",
+      "natural flavor",
+      "citric acid",
+      "potassium benzoate and potassium sorbate (preservatives)",
+      "sucralose",
+      "gum acacia",
+      "green tea",
+      "ester gum",
+      "magnesium sulfate",
+      "calcium chloride",
+      "calcium disodium edta (to protect flavor)",
+      "niacinamide (vitamin b3)",
+      "d-calcium pantothenate (vitamin b5)",
+      "yellow 5",
+      "pyridoxine hydrochloride (vitamin b6)",
+      "blue 1",
+      "biotin",
+      "cholecalciferol (vitamin d3)",
+      "cyanocobalamin (vitamin b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Cott Beverage  Inc.",
+    "ean": "0061500210559",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural and artificial flavor",
+      "potassium citrate",
+      "potassium benzoate (preservative)",
+      "modified food starch",
+      "aspartame",
+      "acesulfame potassium",
+      "red 40",
+      "blue 1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soda",
+    "marca": "Cott Beverages  Inc.",
+    "ean": "0061500210566",
+    "ingredientes": [
+      "Carbonated water",
+      "high fructose corn syrup",
+      "citric acid",
+      "natural flavor",
+      "potassium benzoate (preservative)",
+      "potassium citrate",
+      "aspartame",
+      "acesulfame potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Madeira loaf",
+    "marca": "M&S",
+    "ean": "00615150",
+    "ingredientes": [
+      "_Wheatflour_ contains _Gluten_ (with _Wheatflour_",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) · Pasteurised _Egg_ (27%) · Sugar · Butter (_Milk_) (20%) · Humectant: Glycerol · Dried Skimmed _Milk_ · Emulsifier: E471",
+      "E475 · Raising Agent: E450",
+      "Sodium Bicarbonate",
+      "Calcium Phosphate · Salt."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Thiamin) · Pasteurised _Egg_ (27%) · Sugar · Butter (_Milk_) (20%) · Humectant: Glycerol · Dried Skimmed _Milk_ · Emulsifier: E471",
+        "razon": "Contiene Thiamin) · Pasteurised _Egg_ (27%) · Sugar · Butter (_Milk_) (20%) · Humectant: Glycerol · Dried Skimmed _Milk_ · Emulsifier: E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E475 · Raising Agent: E450",
+        "razon": "Contiene E475 · Raising Agent: E450, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/5150/front_en.20.400.jpg",
+    "tahor": false,
+    "pais": "Jersey"
+  },
+  {
+    "nombre": "Apple Berry Carrot Fruit to Go",
+    "marca": "SunRype",
+    "ean": "0061522020440",
+    "ingredientes": [
+      "Apple puree concentrate",
+      "Fruit and vegetable juice concentrates (apple",
+      "pear",
+      "carrot",
+      "lemon",
+      "elderberry",
+      "strawberry",
+      "cherry",
+      "raspberry",
+      "blueberry",
+      "cranberry)",
+      "Citrus pectin",
+      "Natural flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/152/202/0440/front_en.24.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Apple Strawberry Banana Carrot Fruit to Go",
+    "marca": "SunRype",
+    "ean": "0061522023977",
+    "ingredientes": [
+      "Apple puree concentrate",
+      "Fruit and vegetable juice concentrates (apple",
+      "pear",
+      "carrot",
+      "lemon",
+      "banana",
+      "elderberry",
+      "strawberry)",
+      "Citrus pectin",
+      "Natural flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/152/202/3977/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Fruit to Go +Veggie Snack: 5 Apple Berry Carrot 4 Apple Strawberry Banana Carrot",
+    "marca": "SunRype 🇨🇦Lassonde Quebec",
+    "ean": "0061522029887",
+    "ingredientes": [
+      "Apple berry carrot ingredients: Sugars [apple puree concentrate",
+      "fruit and vegetable juice concentrates (apple",
+      "pear",
+      "carrot",
+      "lemon",
+      "elderberry",
+      "cherry",
+      "strawberry",
+      "raspberry",
+      "blueberry",
+      "cranberry)]",
+      "Citrus pectin",
+      "Natural flavour.  Apple Strawberry Banana Carrot Ingredients:  Sugars [apple puree concentrate",
+      "fruit and vegetable juice concentrates (apple",
+      "pear",
+      "carrot",
+      "lemon",
+      "banana",
+      "elderberry",
+      "strawberry)]",
+      "Citrus pectin",
+      "Natural flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/152/202/9887/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Fruit to go",
+    "marca": "Sunrype",
+    "ean": "0061522033815",
+    "ingredientes": [
+      "Apple puree concentrate",
+      "Fruit juice concentrates (apple",
+      "pear",
+      "lemon",
+      "elderberry",
+      "strawberry",
+      "watermelon)",
+      "Citrus pectin",
+      "Natural flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/152/203/3815/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sun Rype Fruit To Go Veggie Bites",
+    "marca": "Sun Rype",
+    "ean": "0061522035161",
+    "ingredientes": [
+      "Sugars (apple puree concentrate",
+      "fruit and vegetable juice concentrates (apple",
+      "pear",
+      "carrot",
+      "elderberry",
+      "lemon",
+      "strawberry",
+      "cherry",
+      "raspberry",
+      "blueberry",
+      "cranberry))",
+      "Vitamin C",
+      "Citrus Pectin",
+      "Natural Flavor",
+      "Apple Fiber",
+      "Sugars (apple puree concentrate",
+      "fruit and vegetable juice concentrates (apple",
+      "pear",
+      "carrot",
+      "pineapple",
+      "mango",
+      "lemon))",
+      "Vitamin C",
+      "Natural Flavor",
+      "Citrus Pectin",
+      "Apple Fiber"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sunrype Fruit To Go Snack - Variety Pack of 72 {imported From Canada}",
+    "marca": "Sunrype",
+    "ean": "0061522900001",
+    "ingredientes": [
+      "CONCENTRÉ DE PURÉE DE POMME",
+      "CONCENTRÉS DE JUS DE POMME ET DE POIRE",
+      "PEUT CONTENIR DU CONCENTRÉ DE JUS DE CAROTTE OU DE CERISE OU DE PASTÈQUE ET/OU DU CONCENTRÉ DE BAIES SAUVAGES (CONCENTRÉS DE JUS DE CERISE",
+      "DE FRAMBOISE",
+      "DE BLEUET",
+      "DE CANNEBERGE ET DE MÛRE DE BOYSEN",
+      "ARÔME NATUREL) ET/OU DU CONCENTRÉ DE JUS DE FRAISE*",
+      "PEUT CONTENIR DE L'ACIDE CITRIQUE*",
+      "PECTINE D'AGRUMES",
+      "CONCENTRÉ DE JUS DE BAIE DE SUREAU",
+      "ARÔME NATUREL",
+      "CONCENTRÉ DE JUS DE CITRON",
+      "*DÉPEND DE LA SAVEUR",
+      "NE CONTIENT PAS D'INGRÉDIENTS À BASE D'ARACHIDES",
+      "DE NOIX OU DE GLUTEN",
+      "VÉGÉTALIEN"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/152/290/0001/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Barre Aux Fraises",
+    "marca": "Sunrype",
+    "ean": "0061522980010",
+    "ingredientes": [
+      "Apple puree concentrate",
+      "Fruit juice concentrates (apple",
+      "pear",
+      "lemon",
+      "elderberry",
+      "strawberry)",
+      "Citrus pectin",
+      "Natural flavour. Ingrédients : Purée de pomme concentrée",
+      "Jus de fruits concentrés (pomme",
+      "poire",
+      "citron",
+      "baies de sureau",
+      "fraise)",
+      "Pectine d'agrumes",
+      "Arôme naturel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cauliflower gnocchi",
+    "marca": "Trader Joe's",
+    "ean": "00615242",
+    "ingredientes": [
+      "CAULIFLOWER",
+      "CASSAVA FLOUR",
+      "POTATO STARCH",
+      "EXTRA VIRGIN OLIVE OIL",
+      "SEA SALT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/5242/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mini Vegetable Samosas",
+    "marca": "Trader Joe's",
+    "ean": "00615341",
+    "ingredientes": [
+      "FILLING (POTATOES",
+      "CARROTS",
+      "PEAS",
+      "LENTILS",
+      "ONION",
+      "EXPELLER PRESSED CANOLA OIL",
+      "CILANTRO",
+      "SALT",
+      "SPICES",
+      "GARLIC",
+      "CITRIC ACID",
+      "TURMERIC (FLAVOR])",
+      "PASTRY (WATER",
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "ASCORBIC ACID",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "AMYLASE",
+      "FOLIC ACIDI",
+      "EXPELLER PRESSED CANOLA OIL",
+      "SALT",
+      "DISTILLED VINEGAR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/5341/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Monday or Ukrainian sausage",
+    "marca": "Stawnichy’s",
+    "ean": "0061559001108",
+    "ingredientes": [
+      "pork",
+      "water",
+      "wheat flour",
+      "salt",
+      "spice",
+      "monosodium glutamate",
+      "sugar",
+      "sodium erythorbate",
+      "sodium nitrita dehydrated onion",
+      "spice extract",
+      "garlic",
+      "smoke. contains: wheat. ingrédients: porc",
+      "eau",
+      "farine de blé",
+      "sel",
+      "epices",
+      "glutamate monosodique",
+      "sucre",
+      "erythorbate de sodium",
+      "nitrite de sodium",
+      "oignon déshydraté",
+      "extrait contient: blé. d'épices",
+      "ail",
+      "fumée ready..it 154"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Jambon blanc",
+    "marca": "M&S",
+    "ean": "00615655",
+    "ingredientes": [
+      "Semoule de ble uur cuite (43%) (Eau ? Semoule de blé dur (contient Gluten)) ? Légumes grillés (37%) (Aubergines ? Courgettes ? Poivrons rouges : Oignons rouges ? Huile de tournesol ? Persil ? : Sel) ? Tomates ? Jus de citron ? Huile de tournesol infusée au basilic ? Sucre ? Sel ? i Persil ? Vinaigre de vin blanc ? Purée dlail ? : Graines de moutarde noire ? Vinaigre ? : Poivre noir moulu. Pour les allergènes",
+      "voir les ingrédients indiqués en gras."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/5655/front_fr.25.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salted Caramel Hot Cocoa",
+    "marca": "Trader Joe's",
+    "ean": "00615723",
+    "ingredientes": [
+      "SUGAR",
+      "ADDED SUGAR",
+      "COCONUT OIL",
+      "CORN SYRUP",
+      "COCOA BUTTER",
+      "SODIUM CASEINATE",
+      "MONO-AND DIGLYCERIDES",
+      "DIPOTASSIUM PHOSPHATE",
+      "NATURAL FLAVOR",
+      "PROPRIETARY FLAVOR WITH AFFIDAVIT",
+      "SILICON DIOXIDE (ANTI-CAKING)",
+      "MALTODEXTRIN",
+      "COCOA PROCESSED WITH ALKALI",
+      "SALT",
+      "GUAR GUM",
+      "ADDED DIETARY FIBER",
+      "GUM ARABIC",
+      "NOT DIETARY FIBER",
+      "COFFEE POWDER",
+      "MODIFIED CORNSTARCH",
+      "CARAMEL",
+      "CITRIC ACID"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/5723/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oat Crunch Biscuits",
+    "marca": "Marks & Spencer",
+    "ean": "00615792",
+    "ingredientes": [
+      "Rolled Oats (_gluten_)",
+      "wholemeal wheat flour (_gluten_)",
+      "sugar",
+      "Palm oil",
+      "butter (_milk_)",
+      "partially inverted sugar syrup",
+      "raising agent (sodium bicarbonate",
+      "E503)",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/5792/front_en.34.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cinnamon Sugar Bread",
+    "marca": "Trader Joe's",
+    "ean": "00616102",
+    "ingredientes": [
+      "UNBLEACHED FLOUR (ENRICHED FLOUR [WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID]",
+      "MALTED BARLEY FLOUR)",
+      "WATER",
+      "SUGAR",
+      "BUTTER (PASTEURIZED CREAM",
+      "NATURAL FLAVOR)",
+      "CANOLA OIL",
+      "MILK SOLIDS (NONFAT DRY MILK",
+      "WHEY SOLIDS",
+      "MILK PROTEINS)",
+      "CONTAINS 2% OR LESS OF SALT",
+      "YEAST",
+      "RYE FLOUR",
+      "MALTED BARLEY FLOUR",
+      "WHEAT FLOUR",
+      "CINNAMON",
+      "ENZYMES",
+      "ASCORBIC ACID (TO PRESERVE). CONTAINS MILK",
+      "WHEAT. MAY CONTAIN TRACES OF EGG",
+      "SOY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/6102/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Chili Powder",
+    "marca": "Marks & Spencer",
+    "ean": "00616195",
+    "ingredientes": [
+      "Ground Cumin",
+      "Dried Garlic",
+      "Salt",
+      "Dried Oregano"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/6195/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Czech Republic"
+  },
+  {
+    "nombre": "Lilas pâte phyllo",
+    "marca": "Alfa",
+    "ean": "0061651510171",
+    "ingredientes": [
+      "WHEAT FLOUR",
+      "WATER",
+      "CORN STARCH",
+      "CANOLA OIL",
+      "SALT",
+      "DEXTROSE",
+      "POTASSIUM SORBATE",
+      "TRICALCIUM PHOSPHATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/151/0171/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Spinach & Cheese Wrapped In Fillo Dough",
+    "marca": "Spanakopita",
+    "ean": "0061651610109",
+    "ingredientes": [
+      "Spinach",
+      "feta cheese (pasteurized cow's milk",
+      "skim milk powder",
+      "cultures",
+      "rennet",
+      "salt and water)",
+      "liquid fresh eggs",
+      "fillo dough (flour",
+      "water",
+      "corn starch",
+      "vegetable oil",
+      "sodium propionate and potassium sorbate)",
+      "vegetable canola oil",
+      "dehydrated onions",
+      "dill",
+      "parsley",
+      "black pepper",
+      "salt",
+      "sodium benzoate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aurora, Thon Pâle Entier, 99g",
+    "marca": "Aurora",
+    "ean": "0061659000414",
+    "ingredientes": [
+      "thon listao",
+      "huile de soya",
+      "eau",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/0414/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Arborio rice",
+    "marca": "Aurora",
+    "ean": "0061659000506",
+    "ingredientes": [
+      "arborio rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Tomates broyees et filtrees",
+    "marca": "Aurora",
+    "ean": "0061659000704",
+    "ingredientes": [
+      "Tomatoes",
+      "Salt",
+      "may contain Citric Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/0704/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bouillon de boeuf",
+    "marca": "Aurora",
+    "ean": "0061659000834",
+    "ingredientes": [
+      "modified monosodium glutamate",
+      "hydrolyzed soy and corn proteins",
+      "powdered beef extract",
+      "dehydrated vegetable onion",
+      "garlic",
+      "celery",
+      "yeast extract",
+      "natural and artificial flavours",
+      "dehydrated herbs safe",
+      "bay leaf",
+      "rosemary spices and rosemary extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bouillon Mix Chicken",
+    "marca": "Aurora",
+    "ean": "0061659000841",
+    "ingredientes": [
+      "salt modified palm oil  monosodium glutamate  sugar  dehydrated chicken meat  hydrolyzed soy  dehydrated vegetables  yeast extract  natural and artificial flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Crushed Tomatoes",
+    "marca": "Aurora",
+    "ean": "0061659001909",
+    "ingredientes": [
+      "utrition Facts aleur nutritive 125 mL) % Daily Value % valeur quotidienne er 1 /2 cup (125 mL) / par 1 /2 tasse ( Amount Teneur Calories Calories 60 FatI Lipides 0.3 9 Saturated / saturés 0g + Trans I trans O 9 9% Cholesterol / Cholestérolo mg odi iumI Sodium 210 mg ssium / Fibre / Fibres 3 9 PrS Sucres 5 g otassium 700 mg rate / Glucides 11 g ugars Protéines 3 g l Vitamine A / Vitamine C am amin CI ICalcium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/1909/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Aurora, Tomates En Dés 398ml",
+    "marca": "Aurora",
+    "ean": "0061659002098",
+    "ingredientes": [
+      "TOMATES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/2098/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mélange à bouillon Légumes",
+    "marca": "Aurora",
+    "ean": "0061659002340",
+    "ingredientes": [
+      "salt",
+      "modified palm oil",
+      "monosodium glutamate",
+      "sugar",
+      "hydrolyzed soy and/or corn proteins",
+      "dehydrated vegetables (carrot",
+      "onion",
+      "garlic",
+      "celery",
+      "bell pepper)",
+      "yeast extract",
+      "dehydrated herbs (parsley",
+      "basil",
+      "bay leaves",
+      "sage)",
+      "turmeric",
+      "spices",
+      "rosemary extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/2340/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Aurora, traditional polenta",
+    "marca": "Aurora",
+    "ean": "0061659002357",
+    "ingredientes": [
+      "Water",
+      "cornmeal",
+      "salt",
+      "tartaric acid",
+      "sorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/2357/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aurora, traditional polenta soup",
+    "marca": "Aurora",
+    "ean": "0061659002739",
+    "ingredientes": [
+      "Water",
+      "cornmeal",
+      "salt",
+      "tartaric acid",
+      "sorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/2739/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sundried tomateos",
+    "marca": "allessia",
+    "ean": "0061659003361",
+    "ingredientes": [
+      "TOMATES SECHÉES AU SOLEIL",
+      "HUILE DE CANOLA",
+      "VINAIGRE",
+      "SEL",
+      "ORIGAN",
+      "CAPRES",
+      "BASILIC",
+      "AIL",
+      "FEUILLE DE LAURIER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/900/3361/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Taralli Baresi",
+    "marca": "Aurora",
+    "ean": "0061659007611",
+    "ingredientes": [
+      "Enriched wheat flour Water • Canola oil. Liquid whole egg. Red chilies Salt Sugars (barley malt syrup) Baking powder. Contains: Wheat • Barley • Eggs. May contain: Peanuts. Tree nuts Milk Soy. Sulphites. Ingrédients: Farine de blé enrichie Eau Huile de canola • Cuf entier liquide Piments ● rouge Sel Sucres (sirop de malt d'orge) Poudre à pâte. Contient: Blé Orge Eufs. Peut contenir : Arachides Soya Sulfites. Noix Lait."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sea Salt, Mediterranean, Coarse (aurora) 1KG",
+    "marca": "Aurora",
+    "ean": "0061659012738",
+    "ingredientes": [
+      "SELS DE MER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/2738/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Petites palourdes",
+    "marca": "allessia",
+    "ean": "0061659013322",
+    "ingredientes": [
+      "PETITES PALOURDES ECALEES",
+      "BOUILLON DE PETITES PALOURDES",
+      "SEL",
+      "ACIDE CITRIQUE. Nutrition Facts Valeur nutritive Per 1/4 cup (56 g) / pour 1/4 tasse (56 g) % Daily Value % valeur quotidienne Amount Teneur Calories /Calories 61 Fat/Lipides 1 g 2 % Saturated/saturés 0 g + Trans/trans 0 g Cholesterol /Cholestérol 0 mg Sodium / Sodium 160 mg Carbohydrate /Glucides 2 g 0 % 7% 1 % 0 % Fibre/ Fibres 0 g Sugars /Sucres 0 g Protein /Protéines 11 g Vitamin A/ Vitamine A 6% 15 % 4% 70% Vitamin C/ Nitamine C Calcium/Calcium ron /Fer"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/3322/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pates aux oeufs",
+    "marca": "Aurora",
+    "ean": "0061659018198",
+    "ingredientes": [
+      "SEMOULE DE BLÉ DUR",
+      "ŒUFS FRAICHES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/8198/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "LE FETTUCCINE Egg pasta",
+    "marca": "Aurora",
+    "ean": "0061659018204",
+    "ingredientes": [
+      "DURUM WHEAT SEMOLINA",
+      "FRESH EGGS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/8204/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Egg pasta Tagliatelle",
+    "marca": "Aurora",
+    "ean": "0061659018211",
+    "ingredientes": [
+      "DURUM WHEAT SEMOLINA",
+      "FRESH EGGS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/8211/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chapelure sans gluten",
+    "marca": "Aurora",
+    "ean": "0061659018471",
+    "ingredientes": [
+      "FARINE DE RIZ BLANC",
+      "EAU",
+      "FECULE POMME DE TERRE",
+      "FARINE DE RIZ BRUN",
+      "SEL",
+      "SUCRE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/8471/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Panko",
+    "marca": "Aurora",
+    "ean": "0061659018969",
+    "ingredientes": [
+      "Enriched wheat flour",
+      "sugars (dextrose",
+      "sugar)",
+      "yeast",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/8969/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bouillon de légumes",
+    "marca": "Aurora",
+    "ean": "0061659019843",
+    "ingredientes": [
+      "EAU",
+      "CONCENTRÉ D'AROMES DE LEGUMES (CONCENTRÉS DE JUS DE LÉGUMES ICAROTTE",
+      "CÉLERI-RAVE",
+      "OIGNON]",
+      "LÉGUMES CUITS [CAROTTE",
+      "OIGNON",
+      "CELERII",
+      "PATE DE TOMATE",
+      "EXTRAIT DE LEVURE",
+      "SEL DE MER",
+      "SUCRE",
+      "MELASSE VERTE",
+      "POUDRE D'OIGNON",
+      "FARINE DE POMME DE TERRE",
+      "AROME",
+      "HUILE DE CANOLA)",
+      "SUCRE DE CANNE",
+      "SEL DE MER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/901/9843/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bouillon de poulet",
+    "marca": "Aurora",
+    "ean": "0061659019850",
+    "ingredientes": [
+      "yeast extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pulpe de tomates biologique",
+    "marca": "allessia",
+    "ean": "0061659021679",
+    "ingredientes": [
+      "Organic tomatoes • Organic tomato juice.",
+      "Tomates biologiques • Jus de tomates biologiques.",
+      "Pomodori biologici • Succo di pomodoro biologico."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/165/902/1679/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "British outdoor bred wafer thin honey roast ham",
+    "marca": "M&S Food",
+    "ean": "00616690",
+    "ingredientes": [
+      "British Pork 91%",
+      "Honey 3%",
+      "Sugar",
+      "Curing Salt (Salt",
+      "Preservative (Sodium Nitrite))",
+      "Stabiliser (E451)",
+      "Antioxidant (E301)",
+      "Caramelised Sugar Syrup."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/6690/front_en.29.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Juice shot",
+    "marca": "Trader joe's",
+    "ean": "00617079",
+    "ingredientes": [
+      "ORGANIC COCONUT WATER",
+      "ORGANIC GINGER JUICE",
+      "ORGANIC LEMON JUICE",
+      "ORGANIC CAYENNE PEPPER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/7079/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yellow Lentil & Brown Rice Spaghetti",
+    "marca": "Trader Joe's",
+    "ean": "00617109",
+    "ingredientes": [
+      "ORGANIC YELLOW LENTIL FLOUR",
+      "ORGANIC BROWN RICE FLOUR",
+      "WATER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/7109/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pacific smoked oysters",
+    "marca": "Raincoast Trading",
+    "ean": "0061712300185",
+    "ingredientes": [
+      "Pacific oysters",
+      "oyster nectar",
+      "sea salt",
+      "golden yellow sugar",
+      "natural hardwood smoke"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Œufs blancs extra gros",
+    "marca": "Nutri",
+    "ean": "0061719011534",
+    "ingredientes": [
+      "CEUFS BLANCS EXTRA GROS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/171/901/1534/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Large Organic Chicken Eggs, Free-Range, brown",
+    "marca": "Nutri",
+    "ean": "0061719011763",
+    "ingredientes": [
+      "Organic Large Chicken Eggs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/171/901/1763/front_en.44.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Medium Organic Chicken Eggs",
+    "marca": "Nutri",
+    "ean": "0061719011893",
+    "ingredientes": [
+      "Organic Medium Chicken Eggs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/171/901/1893/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Large Free-Run Chicken Eggs",
+    "marca": "Fermiers propriétaires, Nutri Free Run Hens",
+    "ean": "0061719011961",
+    "ingredientes": [
+      "Oeufs: Les œufs de poules en liberté sont produits par des poules logées dans une aire ouverte. Elles proﬁtent d'une liberté de mouvement dans un poulailler décloisonné et bien à l'abri desintempéries. Ces œufs sont pondus dans un nid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/171/901/1961/front_en.16.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Quinoa stuffed dolmas",
+    "marca": "Trader Joe's",
+    "ean": "00617536",
+    "ingredientes": [
+      "COOKED QUINOA (WATER",
+      "WHITE QUINOA RED",
+      "QUINOA",
+      "BLACK QUINOA)",
+      "LEMON JUICE (WATER",
+      "LEMON JUICE CONCENTRATE",
+      "CITRIC ACID",
+      "ACIDIFIER)",
+      "VINE LEAVES",
+      "SOYBEAN OIL",
+      "ONIONS",
+      "SPRING ONIONS",
+      "PARSLEY",
+      "RICE STARCH",
+      "SALY",
+      "VEGATABLE BOUILLON (SALT",
+      "YEAST EXTRACT",
+      "SUGAR",
+      "PALM OIL",
+      "CELERY SEED OIL",
+      "ONION POWDER",
+      "GARLIC POWDER",
+      "SPICES) GINGER POWDER",
+      "BLACK PEPPER. CONTAINS SOY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/7536/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Breaded Fish Strips",
+    "marca": "Catch of the Day",
+    "ean": "0061763000300",
+    "ingredientes": [
+      "Minced fish fillets (cod/pollock/haddock/sole/whiting)",
+      "Water",
+      "Toasted wheat crumbs",
+      "Flour (soy",
+      "wheat)",
+      "Soya oil",
+      "Modified corn starch",
+      "Sugars (sugar",
+      "dextrose",
+      "corn maltodextrin)",
+      "Salt",
+      "Baking powder",
+      "Seasonings (hydrolyzed corn protein",
+      "onion",
+      "spices)",
+      "Flavour (butter",
+      "black pepper)",
+      "Titanium dioxide",
+      "Sodium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/300/0300/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Battered Blue Cod - Captain Highliner",
+    "marca": "High Liner",
+    "ean": "0061763002014",
+    "ingredientes": [
+      "Blue cod",
+      "Flour (wheat",
+      "corn)",
+      "Canola oil",
+      "Water",
+      "Modified corn starch",
+      "Corn starch",
+      "Salt",
+      "Seasonings (spices",
+      "yeast extract",
+      "garlic",
+      "onion)",
+      "Sodium aluminum phosphate (leavening acid)",
+      "Soy protein",
+      "Baking soda",
+      "Sugar",
+      "Modified milk ingredients",
+      "Turmeric.   Contains: Blue cod (fish)",
+      "Wheat",
+      "Soy",
+      "Milk.  Ingrédients : Morue bleue",
+      "Farine (blé",
+      "maïs)",
+      "Huile de canola",
+      "Eau",
+      "Amidon de maïs modifié",
+      "Amidon de maïs",
+      "Sel",
+      "Assaisonnements (épices",
+      "extrait de levure",
+      "ail",
+      "oignon)",
+      "Phosphate d'aluminium et de sodium (acide de levage)",
+      "Protéines de soya",
+      "Bicarbonate de soude",
+      "Sucre",
+      "Substances laitières modifiées",
+      "Curcuma. Contient : Morue bleue (poisson)",
+      "Blé",
+      "Soya",
+      "Lait. ucoup"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/300/2014/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sea cuisine, breaded cod tender flaky fillets",
+    "marca": "Sea Cuisine,  High Liner Foods",
+    "ean": "0061763010156",
+    "ingredientes": [
+      "Cod",
+      "water",
+      "vegetable oil (canola",
+      "cottonseed",
+      "and/or soybean)",
+      "enriched bleached wheat flour (flour",
+      "niacin",
+      "ferrous sulfate",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "bleached wheat flour",
+      "enriched wheat flour (flour",
+      "niacin",
+      "ferrous sulfate",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "modified corn starch",
+      "yellow corn flour",
+      "contains 2% or less of: sugar",
+      "salt",
+      "enriched wheat flour (flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "whey",
+      "autolyzed yeast extract",
+      "leavening (sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "monocalcium phosphate",
+      "calcium lactate)",
+      "onion powder",
+      "modified cellulose",
+      "yeast",
+      "dehydrated onion",
+      "palm oil",
+      "soy protein",
+      "caramel color",
+      "natural flavors",
+      "extractives of paprika (color)",
+      "extractives of annatto (color) and extractives of turmeric (color)",
+      "spice extractive",
+      "sodium tripolyphosphate (to retain moisture)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crispy Breaded Fish Sticks",
+    "marca": "Catch of the Day",
+    "ean": "0061763012044",
+    "ingredientes": [
+      "Minced fish fillets (pollock or haddock)",
+      "Toasted wheat crumbs",
+      "Canola oil",
+      "Water",
+      "Modified corn starch",
+      "Flour (corn",
+      "wheat",
+      "soy)",
+      "Corn starch",
+      "Sugars (sugar",
+      "maltodextrin)",
+      "Salt",
+      "Seasonings (spices",
+      "garlic",
+      "onion",
+      "soy sauce powder)",
+      "Baking powder",
+      "Sodium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/301/2044/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Crispy Breaded Fish Sticks",
+    "marca": "High Liner",
+    "ean": "0061763023163",
+    "ingredientes": [
+      "Minced fish fillets (pollock or haddock)",
+      "Toasted wheat crumbs",
+      "Canola oil",
+      "Water",
+      "Modified corn starch",
+      "Flour (corn",
+      "wheat",
+      "soy)",
+      "Corn starch",
+      "Sugars (sugar",
+      "maltodextrin)",
+      "Salt",
+      "Seasonings (spices",
+      "garlic",
+      "onion",
+      "soy sauce powder)",
+      "Baking powder",
+      "Sodium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/302/3163/front_en.35.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Poisson en pâte",
+    "marca": "Highliner",
+    "ean": "0061763041341",
+    "ingredientes": [
+      "Minced fish fillets (pollock or haddock)",
+      "Canola oil",
+      "Water",
+      "Flour (wheat",
+      "corn)",
+      "Toasted wheat crumbs",
+      "Modified corn starch",
+      "Wheat starch",
+      "Modified milk ingredients",
+      "Sugar",
+      "Soy protein",
+      "Baking powder",
+      "Seasonings (spices",
+      "onion",
+      "garlic)",
+      "Salt",
+      "Sodium phosphate (to retain moisture). Contains: Pollock or haddock (fish)",
+      "Wheat",
+      "Milk",
+      "Soy. highliner.com 1-877-991-3474"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/304/1341/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Signature Cuts Haddock Crispy Breaded Fillet",
+    "marca": "High Liner",
+    "ean": "0061763042263",
+    "ingredientes": [
+      "Haddock",
+      "Toasted wheat crumbs",
+      "Water",
+      "Vegetable oil (canola / sunflower)",
+      "Modified corn starch",
+      "Flour (wheat",
+      "corn",
+      "soy)",
+      "Seasonings (onion",
+      "yeast extract",
+      "spices",
+      "garlic",
+      "citric acid)",
+      "Sugars (dextrose",
+      "maltodextrin",
+      "sugar)",
+      "Salt",
+      "Baking powder",
+      "Sodium phosphate",
+      "Natural flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Aiglefin sauvage",
+    "marca": "null",
+    "ean": "0061763068836",
+    "ingredientes": [
+      "Haddock fillets",
+      "Canola oil",
+      "Toasted wheat crumbs",
+      "Flour (rice",
+      "wheat)",
+      "Water",
+      "Modified corn starch",
+      "Seasonings (roasted garlic",
+      "herbs",
+      "yeast",
+      "spices",
+      "citic ocid",
+      "onion)",
+      "Natural lemon flavour",
+      "Salt",
+      "Caramel",
+      "Sugar. Contains: Haddock (fish)",
+      "Wheat. highliner.com 1-877-991-3474 O REGISTERED TRADEMARK OF/ TM TRADEMARK OF HIGH LINER FOODS INC.",
+      "LUNENBURG NS BOJ 200 MADE IN CANADA FROM DOMESTIC AND IMPORTED INGREDIENTS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/306/8836/front_fr.19.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Saumon sauvage du pacifique",
+    "marca": "High Liner",
+    "ean": "0061763069475",
+    "ingredientes": [
+      "Filets de saumon rose",
+      "Eau",
+      "Farine (riz",
+      "blé)",
+      "Chapelure de blé grillée",
+      "Huile de canola",
+      "Amidon de maïs modifié",
+      "Assaisonnements (tomate",
+      "fines herbes",
+      "levure",
+      "acide citrique",
+      "ail)",
+      "Essence naturelle (ail",
+      "citron",
+      "oignon)",
+      "Sel",
+      "Sucre",
+      "Phosphate de sodium (pour retenir l'humidité). Contient : Saumon rose (poisson)",
+      "Blé."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/306/9475/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pacific Pink Salmon Fillets",
+    "marca": "Highliner •Frozen •Wild Caught",
+    "ean": "0061763085468",
+    "ingredientes": [
+      "Pink salmon fillets",
+      "Water",
+      "Sodium phosphate (to retain moisture). _Contains: Pink salmon (fish)._"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/176/308/5468/front_en.53.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chicken sausage breakfast burrito",
+    "marca": "Trader Joe's",
+    "ean": "00617710",
+    "ingredientes": [
+      "FLOUR TORTILLA (UNBLEACHED ENRICHED FLOUR [WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED F IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACIDI",
+      "WATER",
+      "SOYBEAN OIL",
+      "TORTILLA BASE CULTURED WHEAT",
+      "MONO-AND DIGLYCERIDES",
+      "SALT",
+      "SODIUM ACID PYROPHOSPHATE",
+      "SODIUM BICARBONATE",
+      "CITRIC ACID",
+      "YEAST",
+      "GUAR GUM",
+      "ENZYME",
+      "OAT FIBER",
+      "SUGAR",
+      "CELLULOSE GUM",
+      "MALTED BARLEY FLOUR)",
+      "SCRAMBLED EGGS (WHOLE EGGS",
+      "WATER",
+      "MODIFIED TAPIOCA STARCH",
+      "SALT",
+      "CORN OIL",
+      "CITRIC ACID",
+      "GUAR GUM",
+      "XANTHAN GUM",
+      "CELLULOSE GUM)",
+      "CHICKEN SAUSAGE (CHICKEN",
+      "WATER",
+      "SALT",
+      "SUGAR RUBBED SAGE",
+      "GROUND THYME",
+      "BLACK PEPPER)",
+      "WHITE CHEDDAR CHEESE (PASTEURIZED MILK CHEESE CULTURE",
+      "SALT",
+      "ENZYMES",
+      "CELLULOSE POWDER)",
+      "POTATOES",
+      "SEASONED ONIONS (ONIONS",
+      "GUM ARABIC",
+      "NATURAL FLAVORS",
+      "MEDIUM CHAIN TRIGYLCERIDES)",
+      "NATURAL FLAVORS",
+      "BLACK PEPPER. CONTAINS MILK",
+      "EGG",
+      "SOY",
+      "WHEAT",
+      "per serving in D 10% 10%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hot Sauce",
+    "marca": "Tunnel Bar-B-Q",
+    "ean": "0061819100039",
+    "ingredientes": [
+      "Tomatoes",
+      "mustard",
+      "garlic",
+      "salt",
+      "sugar",
+      "vinegar",
+      "blend of special herbs and spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Purpose Seasoning",
+    "marca": "Tunnel Bar-B-Q",
+    "ean": "0061819200456",
+    "ingredientes": [
+      "Salt",
+      "garlic",
+      "onion."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Purpose Seasoning",
+    "marca": "Tunnel Bar-B-Q",
+    "ean": "0061819216549",
+    "ingredientes": [
+      "Salt",
+      "garlic",
+      "onion",
+      "special blend of herbs & spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dry Cured Ham",
+    "marca": "M&S",
+    "ean": "00618236",
+    "ingredientes": [
+      "British Pork (made with 115g of Raw Pork per 100g of Roast Dry Cured Formed Ham)",
+      "Curing Salt (Salt",
+      "Preservative: Sodium Nitrite)",
+      "Sugar",
+      "Demerara Sugar",
+      "Caramelised Sugar",
+      "Syrup",
+      "Antioxidant: E301."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Radishes of many colors",
+    "marca": "Trader Joe's",
+    "ean": "00618441",
+    "ingredientes": [
+      "organic radishes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/8441/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caesar Salad Kit",
+    "marca": "Trader Joe's",
+    "ean": "00618557",
+    "ingredientes": [
+      "water",
+      "caramel flavoured sauce (13%) water glucose-fructose syrup. sugar",
+      "coconut oill caramelised sugar. emulsiffer (mano-and di-glycerides of fatty acids). thickener (carob gum)",
+      "salt",
+      "flavouringl. coconut oill glucose syrup. sugar. lupin protein isolate. maltodextrin",
+      "dextrose",
+      "acidity regulator (calcium carbonate)",
+      "emulsifier (mano-and di-glycerides of fatty acids). stabilisers (carob gum",
+      "guar gum)",
+      "salt",
+      "flavourings vanilla pod powder",
+      "colour (carotenes)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/8557/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cherry Genoa Cake",
+    "marca": "Marks & Spencer",
+    "ean": "00618762",
+    "ingredientes": [
+      "Sultanas",
+      "Wheatflour (contains Gluten) (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Pasteurised Egg",
+      "Glacé Cherries (Cherries",
+      "Glucose-Fructose Syrup",
+      "Sugar",
+      "Acidity Regulator: Citric Acid",
+      "Fruit and Vegetable Extracts (Purple Carrot",
+      "Elderberry))",
+      "Brown Sugar",
+      "Butter (Milk)",
+      "Orange Peel",
+      "Golden Syrup (Invert Sugar Syrup)",
+      "Lemon Peel",
+      "Salt",
+      "Palm Oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/8762/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Singapore"
+  },
+  {
+    "nombre": "Milk Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355017",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk",
+      "cocoa butter",
+      "unsweetened chocolate",
+      "sunflower lecithin",
+      "vanilla)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5017/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Peppermint in Dark Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355055",
+    "ingredientes": [
+      "Dark chocolate (sugar",
+      "unsweetened chocolate [alkali]",
+      "cocoa butter",
+      "sunflower lecithin",
+      "vanilla)",
+      "Peppermint oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5055/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "No Sugar Added Milk Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355086",
+    "ingredientes": [
+      "Milk chocolate (maltitol",
+      "unsweetened chocolate",
+      "cocoa butter",
+      "milk and whey protein isolate",
+      "inulin",
+      "polydextrose",
+      "milk fat [butter]",
+      "soya lecithin",
+      "vanilla",
+      "natural and artificial flavour",
+      "sucralose)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5086/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Almonds & Raisins in Dark Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355178",
+    "ingredientes": [
+      "Dark chocolate (sugar",
+      "unsweetened chocolate [alkali]",
+      "cocoa butter",
+      "sunflower lecithin",
+      "vanilla)",
+      "Raisins (raisins",
+      "sunflower oil)",
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5178/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Icewine Truffle in Dark Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355208",
+    "ingredientes": [
+      "Dark chocolate (sugar",
+      "unsweetened chocolate [alkali]",
+      "cocoa butter",
+      "sunflower lecithin",
+      "vanilla)",
+      "Milk chocolate (sugar",
+      "milk",
+      "cocoa butter",
+      "unsweetened chocolate",
+      "sunflower lecithin",
+      "vanilla)",
+      "Sugars (grape juice concentrate",
+      "invert syrup",
+      "glucose)",
+      "Cream",
+      "Icewine (sulphites)",
+      "Cognac",
+      "Natural flavours",
+      "Citric acid",
+      "Invertase"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5208/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Raspberry Truffle in Dark Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355215",
+    "ingredientes": [
+      "Dark chocolate (sugar",
+      "unsweetened chocolate [alkali]",
+      "cocoa butter",
+      "sunflower lecithin",
+      "vanilla)",
+      "White chocolate (sugar",
+      "cocoa butter",
+      "milk",
+      "sunflower lecithin",
+      "vanilla)",
+      "Sugars (glucose",
+      "invert syrup",
+      "raspberry juice concentrate)",
+      "Cream",
+      "Natural flavours",
+      "Red beet juice",
+      "Citric acid",
+      "Invertase"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5215/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Butter Caramel in Milk Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355239",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk",
+      "cocoa butter",
+      "unsweetened chocolate",
+      "sunflower lecithin",
+      "vanilla)",
+      "Sugars (glucose",
+      "sugar",
+      "invert syrup)",
+      "Evaporated milk",
+      "Butter",
+      "Natural flavours",
+      "Salt",
+      "Saya lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5239/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "White Chocolate",
+    "marca": "Rogers' Chocolates",
+    "ean": "0061880355864",
+    "ingredientes": [
+      "White chocolate (sugar",
+      "cocoa butter",
+      "milk",
+      "sunflower lecithin",
+      "vanilla)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/188/035/5864/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cabbage Medley",
+    "marca": "M&S Food",
+    "ean": "00618878",
+    "ingredientes": [
+      "Cabbage (68%)",
+      "Semi Skimmed Milk",
+      "Single Cream (Milk) (7%)",
+      "Vegetable Stock (Water",
+      "Broccoli",
+      "Leeks",
+      "Onions",
+      "Swede",
+      "Bay Leaves)",
+      "Onions",
+      "Butter (Milk)",
+      "Cornflour",
+      "Salt",
+      "Cracked Black Pepper",
+      "Garlic Purée",
+      "Ground Nutmeg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/8878/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Cocoa Crunch Cereal",
+    "marca": "Trader Joe's",
+    "ean": "00618960",
+    "ingredientes": [
+      "rice flour",
+      "cane sugar",
+      "sorghum flour",
+      "yellow corn flour",
+      "dutch cocoa powder",
+      "chickpea fiber",
+      "psyllium husk powder",
+      "natural flavor",
+      "sea salt",
+      "canola oil",
+      "sunflower lecithin powder",
+      "tricalcium phosphate (anti-caking agent)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Buttermilk Protein Pancake Mix",
+    "marca": "Trader Joe's",
+    "ean": "00618977",
+    "ingredientes": [
+      "WHITE WHOLE WHEAT FLOUR",
+      "WHOLE WHEAT FLOUR",
+      "WHEAT PROTEIN ISOLATE",
+      "WHEY PROTEIN CONCENTRATE",
+      "WHOLE GRAIN OAT FLOUR",
+      "MILK PROTEIN CONCENTRATE",
+      "LEAVENING (CALCIUM PHOSPHATE",
+      "BAKING SODA)",
+      "BUTTERMILK POWDER",
+      "SEA SALT CONTAINS MILK",
+      "WHEAT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/8977/front_en.16.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chews candies",
+    "marca": "Kerr's",
+    "ean": "0061901144040",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "coconut oil",
+      "sorbitol",
+      "citric acid",
+      "cotton stearine",
+      "mono and diglycerides (soy)",
+      "natural and artificial flavors",
+      "color added (blue #1",
+      "red #40",
+      "yellow #5",
+      "yellow #6)",
+      "soy lecithin",
+      "gelatin",
+      "vitamin e (mixed tocopherols) added to retain freshness",
+      "soy (release agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla Overnight Oats",
+    "marca": "Trader Joe's",
+    "ean": "00619028",
+    "ingredientes": [
+      "Almond BEVERAGE (WATER",
+      "ALMOND BUTTER)",
+      "ROLLED OATS",
+      "dates",
+      "vanilla EXTRACT (WATER",
+      "ETHYL ALCOHOL",
+      "VANILLA BEAN EXTRACTIVES)",
+      "SEA Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9028/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mini pitas",
+    "marca": "Aladdin",
+    "ean": "0061912000045",
+    "ingredientes": [
+      "Enriched white flour",
+      "water",
+      "yeast",
+      "sugar",
+      "salt",
+      "calcium propionate",
+      "l-cysteine hydrochloride. (may contain vinegar). Allergy information: Contains: wheat gluten."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/191/200/0045/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Lebanese Style Pita Bread",
+    "marca": "Arz",
+    "ean": "0061912102466",
+    "ingredientes": [
+      "Enriched white flour",
+      "water",
+      "yeast",
+      "cane sugar",
+      "salt",
+      "calcium propionate",
+      "l-cysteine hydrochloride. (May contain vinegar). Allergen: Wheat Gluten."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/191/210/2466/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Lebanese Style Bread",
+    "marca": "Arz",
+    "ean": "0061912102473",
+    "ingredientes": [
+      "Whole Wheat Flour",
+      "Water",
+      "Yeast",
+      "Salt",
+      "Cane Sugar",
+      "Vinegar",
+      "Calcium Propionate",
+      "L-cysteine Hydrochloride. Allergen: Wheat Gluten."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/191/210/2473/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pain pita blé entier",
+    "marca": "Aladin",
+    "ean": "0061912307717",
+    "ingredientes": [
+      "Farine de blé entier",
+      "eau",
+      "levure",
+      "sel",
+      "propionate de calcium",
+      "(peut contenir du vinaigre) Allergènes présents dans le produit: gluten de blé. INGREDIENTS: Whole wheat Hour",
+      "water",
+      "yeast",
+      "salt",
+      "calcium propionate. (may contain vinegar) Allergens present in product: wheat gluten"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/191/230/7717/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Turmeric",
+    "marca": "Marks & Spencer",
+    "ean": "00619172",
+    "ingredientes": [
+      "turmeric"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9172/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ground Ginger",
+    "marca": "M&S Food",
+    "ean": "00619189",
+    "ingredientes": [
+      "ground ginger"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9189/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Crispy onion chips",
+    "marca": "Trader Joe's",
+    "ean": "00619288",
+    "ingredientes": [
+      "onions",
+      "rice bran oil",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9288/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground cinnamon",
+    "marca": "Marks & Spencer",
+    "ean": "00619325",
+    "ingredientes": [
+      "ground cinnamon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9325/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Ready to eat crunchy carrot with houmous",
+    "marca": "Marks & Spencer",
+    "ean": "00619400",
+    "ingredientes": [
+      "Carrots (62%). Reduced Fat Houmous (38%). REDUCED FAT HOUMOUS contains Chickpeas Water Tahini (Sesame Seed Paste) Rapeseed Oil",
+      "Concentrated Lemon Juice",
+      "Extra Virgin Olive Oil",
+      "Salt",
+      "Garlic."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9400/front_en.19.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Unsweetened Almond, Cashew & Macadamia Nut Beverage",
+    "marca": "Trader Joe's",
+    "ean": "00619424",
+    "ingredientes": [
+      "water",
+      "almonds",
+      "cashews",
+      "macadamia nuts",
+      "calcium carbonate",
+      "sea salt",
+      "locust bean gum",
+      "sunflower lecithin",
+      "natural flavor",
+      "gellan gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9424/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vitasoy, soy drink, chocolate",
+    "marca": "Vitasoy,  Vitasoy International Holdings Limited",
+    "ean": "0061954000041",
+    "ingredientes": [
+      "Water",
+      "sugar",
+      "non-genetically engineered soybeans",
+      "modified food starch",
+      "malt (contains gluten from barley)",
+      "cocoa powder (processed with alkali)",
+      "soybean oil",
+      "artificial flavors",
+      "mono and diglycerides",
+      "sodium bicarbonate",
+      "dipotassium phosphate",
+      "salt",
+      "locust bean gum",
+      "sodium citrate",
+      "carrageenan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soy Drink",
+    "marca": "Vitasoy,  Vitasoy International Holdings Ltd.",
+    "ean": "0061954000058",
+    "ingredientes": [
+      "Water",
+      "non-genetically engineered soybeans",
+      "sugar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vitasoy, coconut soy drink",
+    "marca": "Vitasoy,  Vitasoy International Holding Ltd.",
+    "ean": "0061954000096",
+    "ingredientes": [
+      "Water",
+      "non-genetically engineered soybeans",
+      "sugar",
+      "coconut milk",
+      "natural & artificial flavors",
+      "mono and diglycerides",
+      "sodium bicarbonate",
+      "salt",
+      "carrageenan",
+      "sodium alginate",
+      "guar gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Silken Tofu",
+    "marca": "Vitasoy",
+    "ean": "0061954000218",
+    "ingredientes": [
+      "Water",
+      "whole non genetically engineered soybeans",
+      "glucono delta lactone"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soft Tofu",
+    "marca": "Vitasoy",
+    "ean": "0061954000225",
+    "ingredientes": [
+      "Water",
+      "whole non genetically engineered soybeans",
+      "calcium sulfate",
+      "magnesium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Firm Tofu",
+    "marca": "Vitasoy",
+    "ean": "0061954000232",
+    "ingredientes": [
+      "Water",
+      "whole non genetically engineered soybeans",
+      "calcium sulfate",
+      "magnesium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweetened sucre",
+    "marca": "Vitasoy,Vitasoy International Holdings Ltd.",
+    "ean": "0061954000539",
+    "ingredientes": [
+      "Filtered water",
+      "whole soybeans",
+      "sugar",
+      "tricalcium phospate",
+      "salt",
+      "zinc oxide",
+      "riboflavin (vitamin b12)",
+      "vitamin a acetate",
+      "vitamin d2",
+      "vitamin b12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/195/400/0539/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Soy Drink",
+    "marca": "Vitasoy",
+    "ean": "0061954004452",
+    "ingredientes": [
+      "Soymilk (Water",
+      "Non—GeneticaIly Engineered Black _Soybeans_ and _Soybeans_)",
+      "Sugar",
+      "Maltodextrin",
+      "_Soybean_ Oil",
+      "_Soy_ Protein Isolate",
+      "Black _Sesame_ Powder",
+      "Salt",
+      "Dipotassium Phosphate",
+      "Modified _Soy_ Lecithin",
+      "Mono and Diglycerides",
+      "Sodium Alginate",
+      "Guar Gum",
+      "Canageenan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/195/400/4452/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Prize Popcorn",
+    "marca": "Nutty Club",
+    "ean": "0061966000121",
+    "ingredientes": [
+      "Popcorn",
+      "Sugar",
+      "Artificial flavour and colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0121/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Red Sugar Crystal",
+    "marca": "Food Club",
+    "ean": "0061966000329",
+    "ingredientes": [
+      "Sugar",
+      "Colour",
+      "Chalk",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0329/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Green Sugar Crystal",
+    "marca": "Food Club",
+    "ean": "0061966000336",
+    "ingredientes": [
+      "Sugar",
+      "Colour",
+      "Chalk",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0336/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Trimettes",
+    "marca": "Nutty Club",
+    "ean": "0061966000350",
+    "ingredientes": [
+      "Sugar",
+      "Corn starch",
+      "Vegetable oil (Palm kernel",
+      "Palm)",
+      "Dextrin",
+      "Soy lecithin",
+      "Confectioner's glaze",
+      "Cocoa",
+      "Carnauba wax",
+      "Artificial flavors and colors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0350/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Silverettes",
+    "marca": "Food Club",
+    "ean": "0061966000435",
+    "ingredientes": [
+      "Sugar",
+      "Wheat starch",
+      "Gelatin",
+      "Silver",
+      "Colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0435/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Carnivalettes",
+    "marca": "Food Club",
+    "ean": "0061966000442",
+    "ingredientes": [
+      "Sugar",
+      "Wheat Starch",
+      "Gelatin",
+      "Colours"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0442/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Non Pareils",
+    "marca": "Nutty Club",
+    "ean": "0061966000480",
+    "ingredientes": [
+      "Corn starch",
+      "Sugar",
+      "Carnauba wax",
+      "Colours (Tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0480/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Baking Fruitlets",
+    "marca": "Nutty Club",
+    "ean": "0061966000510",
+    "ingredientes": [
+      "Sugar",
+      "Glucose syrup",
+      "Modified corn starch",
+      "Citric acid",
+      "Artificial and natural flavours",
+      "Artificial colours (Tartrazine)",
+      "Mineral oil",
+      "Carnauba wax (glazing agent)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0510/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chocolate Flavoured Sprinkles",
+    "marca": "Nutty Club",
+    "ean": "0061966000534",
+    "ingredientes": [
+      "Sugar",
+      "Hydrogenated palm kernel oil",
+      "Corn starch",
+      "Cocoa powder",
+      "Soy lecithin",
+      "Glucose",
+      "Gum arabic",
+      "Colours (Tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0534/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Candy Coralettes",
+    "marca": "Nutty Club",
+    "ean": "0061966000558",
+    "ingredientes": [
+      "Sugar",
+      "Hydrogenated palm kernel oil",
+      "Glucose",
+      "Corn starch",
+      "Cocoa powder",
+      "Soy lecithin",
+      "Gum arabic",
+      "Colours (Tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0558/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Red Sugar",
+    "marca": "Nutty Club",
+    "ean": "0061966000602",
+    "ingredientes": [
+      "Sugar",
+      "Colour",
+      "Chalk",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0602/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Green Sugar",
+    "marca": "Nutty Club",
+    "ean": "0061966000619",
+    "ingredientes": [
+      "Sugar",
+      "Colour",
+      "Tartrazine",
+      "Chalk",
+      "Carnauba wax"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0619/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Dinosours",
+    "marca": "Nutty Club",
+    "ean": "0061966000930",
+    "ingredientes": [
+      "Glucose syrup",
+      "Sugar",
+      "Modified corn starch",
+      "Modified potato starch",
+      "Malic acid",
+      "Potassium citrate",
+      "Natural and artificial flavour",
+      "Food colour",
+      "Mineral oil and carnauba wax (glazing agents)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0930/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "English Mints",
+    "marca": "Nutty Club",
+    "ean": "0061966000947",
+    "ingredientes": [
+      "Sugar",
+      "Glucose syrup",
+      "Gelatin",
+      "Natural flavour",
+      "Tragacanth gum",
+      "Artificial colours"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0947/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Flirtation Hearts",
+    "marca": "Nutty Club",
+    "ean": "0061966000961",
+    "ingredientes": [
+      "Sugar",
+      "Corn syrup",
+      "DExtrose",
+      "Glycerine",
+      "Gelatin",
+      "Artificial flavours",
+      "Gum tragacanth",
+      "Colours (tartrazine)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0961/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Fruit Drops",
+    "marca": "Nutty Club",
+    "ean": "0061966000985",
+    "ingredientes": [
+      "Sugar",
+      "Corn syrup",
+      "Water",
+      "Citric acid",
+      "Artificial flavours",
+      "Artificial colours"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/0985/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Jelly Beans",
+    "marca": "Nutty Club",
+    "ean": "0061966001050",
+    "ingredientes": [
+      "Sugar",
+      "Glucose syrup",
+      "Modified corn starch",
+      "Glucose-fructose and/or dextrose",
+      "Corn starch",
+      "Carnauba wax",
+      "Mineral oil",
+      "Artificial and natural flavours",
+      "Colours (tartrazine)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1050/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Kandy Korn",
+    "marca": "Nutty Club",
+    "ean": "0061966001074",
+    "ingredientes": [
+      "Sugar",
+      "Corn syrup",
+      "Salt",
+      "Glycerine",
+      "Egg whites",
+      "Confectioner's glaze",
+      "Natural and artificial flavours",
+      "Mineral oil",
+      "Honey",
+      "Carnauba wax",
+      "Coconut oil",
+      "Artificial colours (tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1074/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Scotch Mints",
+    "marca": "Nutty Club",
+    "ean": "0061966001241",
+    "ingredientes": [
+      "Sugar/glucose-fructose",
+      "Corn starch",
+      "Natural flavour",
+      "Citric acid",
+      "Carnauba wax",
+      "Mineral oil",
+      "Soy lecithin",
+      "Sulphites."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1241/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Spearmint Leaves",
+    "marca": "Nutty Club",
+    "ean": "0061966001265",
+    "ingredientes": [
+      "Sugar",
+      "Glucose syrup",
+      "Modified corn starch",
+      "Citric acid",
+      "Natural flavour",
+      "Colours (tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1265/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Wintergreen Lozenges",
+    "marca": "Nutty Club",
+    "ean": "0061966001296",
+    "ingredientes": [
+      "Sugar",
+      "Corn syrup",
+      "Gelatin",
+      "Tragacanth gum",
+      "Artificial flavour",
+      "Artificial colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1296/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Wine Gums",
+    "marca": "Nutty Club",
+    "ean": "0061966001302",
+    "ingredientes": [
+      "Sugar",
+      "Glucose syrup",
+      "Modified starch",
+      "Gelatin",
+      "Lactic acid",
+      "Artificial flavourings and colours (tartrazine)",
+      "Glazing agents",
+      "Vegetable oil",
+      "Beeswax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1302/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Jawbreaker Candy",
+    "marca": "Nutty Club",
+    "ean": "0061966001357",
+    "ingredientes": [
+      "Dextrose",
+      "Glucose (corn syrup)",
+      "Calcium stearate",
+      "Tapioca dextrin",
+      "Titanium dioxide",
+      "Confectioners glaze",
+      "Carnauba wax",
+      "Artificial flavours and colours"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1357/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Assorted Nuts",
+    "marca": "Nutty Club",
+    "ean": "0061966001555",
+    "ingredientes": [
+      "Cashews",
+      "Filberts",
+      "Brazils",
+      "Almonds",
+      "Salt",
+      "Vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1555/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Butterscotch",
+    "marca": "Nutty Club",
+    "ean": "0061966001654",
+    "ingredientes": [
+      "Glucose",
+      "Syrup",
+      "Sugar",
+      "Salt",
+      "Artificial flavour",
+      "Artificial colours."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1654/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Humbugs",
+    "marca": "Nutty Club",
+    "ean": "0061966001661",
+    "ingredientes": [
+      "Sugar",
+      "Glucose",
+      "Natural & artificial flavorss",
+      "Artificial colors (tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1661/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pearled Peanuts",
+    "marca": "Nutty Club",
+    "ean": "0061966001678",
+    "ingredientes": [
+      "Sugar",
+      "Peanuts",
+      "Corn syrup",
+      "Tapioca dextrin",
+      "Natural and artificial flavor",
+      "Artificial colors",
+      "Salt",
+      "Confectioners glaze"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/1678/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Raspberry Drops",
+    "marca": "Nutty Club",
+    "ean": "0061966002767",
+    "ingredientes": [
+      "Sugar",
+      "Glucose",
+      "Citric acid",
+      "Natural and artificial flavours",
+      "Artificial colours (tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/2767/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Spearmint Drops",
+    "marca": "Nutty Club",
+    "ean": "0061966002798",
+    "ingredientes": [
+      "Sugar/glucose-fructose",
+      "Corn starch",
+      "Carnauba wax",
+      "Mineral oil",
+      "Citric acid",
+      "Natural flavour",
+      "Colour (tartrazine)",
+      "Soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/2798/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Strawberry Candy",
+    "marca": "Nutty Club",
+    "ean": "0061966002859",
+    "ingredientes": [
+      "Corn syrup",
+      "Sugar",
+      "Apple pulp. Citric acid",
+      "Artificial flavours and colours"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/2859/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blue Whales",
+    "marca": "Nutty Club",
+    "ean": "0061966003467",
+    "ingredientes": [
+      "Glucose Syrup",
+      "Sugar",
+      "Modified corn starch",
+      "Modified corn starch",
+      "Modified potato starch",
+      "Citric acid",
+      "Natural and artificial flavour",
+      "Food colour",
+      "Mineral oil and Carnauba wax (glazing agents)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/3467/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Joggers Mix",
+    "marca": "Nutty Club",
+    "ean": "0061966003696",
+    "ingredientes": [
+      "Raisins",
+      "Shelled sunflower seeds",
+      "Shelled almonds",
+      "Filberts",
+      "Brazils",
+      "Raw coconut",
+      "Cranberries."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/3696/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pistachios",
+    "marca": "Nutty Club",
+    "ean": "0061966004693",
+    "ingredientes": [
+      "Pistachios",
+      "Sea salt",
+      "Modified food starch",
+      "Colour",
+      "Cellulose gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/4693/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Salted Almonds",
+    "marca": "Nutty Club",
+    "ean": "0061966004716",
+    "ingredientes": [
+      "Almonds",
+      "Salt",
+      "Vegetable oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/4716/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Natural Pistachios",
+    "marca": "Nutty Club",
+    "ean": "0061966004754",
+    "ingredientes": [
+      "Pistachios",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/4754/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blanched Almonds",
+    "marca": "Nutty Club",
+    "ean": "0061966007472",
+    "ingredientes": [
+      "Blanched almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7472/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sliced Shelled Almonds",
+    "marca": "Nutty Club",
+    "ean": "0061966007496",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7496/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ground Almonds",
+    "marca": "Nutty Club",
+    "ean": "0061966007526",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7526/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sliced Filberts",
+    "marca": "Nutty Club",
+    "ean": "0061966007540",
+    "ingredientes": [
+      "Filberts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7540/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Baking Brazils",
+    "marca": "Nutty Club",
+    "ean": "0061966007557",
+    "ingredientes": [
+      "Brazil nuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7557/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sliced Brazils",
+    "marca": "Nutty Club",
+    "ean": "0061966007564",
+    "ingredientes": [
+      "Brazil nuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7564/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Light Amber Walnuts",
+    "marca": "Nutty Club",
+    "ean": "0061966007595",
+    "ingredientes": [
+      "Walnuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7595/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pecans",
+    "marca": "Nutty Club",
+    "ean": "0061966007625",
+    "ingredientes": [
+      "Pecans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7625/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Raw Shelled Sunflower Seeds",
+    "marca": "Nutty Club",
+    "ean": "0061966007656",
+    "ingredientes": [
+      "Shelled sunflower seeds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/7656/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Red Food Color Preparation",
+    "marca": "Food Club",
+    "ean": "0061966008271",
+    "ingredientes": [
+      "Water",
+      "Colour",
+      "Citric acid",
+      "Benzoate of soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/8271/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Green Food Color Preparation",
+    "marca": "Food Club",
+    "ean": "0061966008295",
+    "ingredientes": [
+      "Water",
+      "Colour (Tartrazine)",
+      "Citric acid",
+      "Benzoate of Soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/8295/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Yellow Food Color Preparation",
+    "marca": "Food Club",
+    "ean": "0061966008318",
+    "ingredientes": [
+      "Water",
+      "Colour (Tartrazine)",
+      "Citric acid",
+      "Benzoate of soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/8318/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blue Food Color Preparation",
+    "marca": "Food Club",
+    "ean": "0061966008332",
+    "ingredientes": [
+      "Water",
+      "Colour (tartrazine)",
+      "Citric acid",
+      "Benzoate of soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/8332/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Food Color Preparation Liquid Color",
+    "marca": "Food Club",
+    "ean": "0061966008424",
+    "ingredientes": [
+      "Water",
+      "Colours (Tartrazine)",
+      "Citric acid",
+      "Benzoate of soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/8424/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blueberry Pancake Syrup",
+    "marca": "Nutty Club",
+    "ean": "0061966008554",
+    "ingredientes": [
+      "Water",
+      "Glucose",
+      "Sugar",
+      "Brown sugar",
+      "Artificial flavour",
+      "Colour",
+      "Salt",
+      "Benzoic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/600/8554/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Peanuts",
+    "marca": "Nutty Club",
+    "ean": "0061966015552",
+    "ingredientes": [
+      "Peanuts",
+      "Salt",
+      "Vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/601/5552/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "BBQ Peanuts",
+    "marca": "Nutty Club",
+    "ean": "0061966015569",
+    "ingredientes": [
+      "Peanuts",
+      "Canola oil",
+      "Seasoning (salt",
+      "sugar",
+      "spices [mustard]",
+      "onion powder",
+      "dextrose",
+      "monosodium glutamate",
+      "torula yeast",
+      "lactose [milk]",
+      "garlic powder",
+      "yellow corn flour",
+      "citric acid",
+      "duram wheat flour",
+      "caramel colour [sulphites]",
+      "BHA",
+      "Hydrolyzed torula and brewers yeast protein",
+      "propyl gallate",
+      "flavour",
+      "smoke flavour)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/601/5569/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Shelled Sunflower Seeds",
+    "marca": "Nutty Club",
+    "ean": "0061966015583",
+    "ingredientes": [
+      "Shelled sunflower seeds",
+      "Salt",
+      "Vegetable oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/601/5583/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Shelled BBQ Sunflower Seeds",
+    "marca": "Nutty Club",
+    "ean": "0061966015590",
+    "ingredientes": [
+      "Sunflower seeds",
+      "Canola oil",
+      "Seasoning (salt",
+      "sugar",
+      "spices [mustard]",
+      "onion powder",
+      "dextrose",
+      "monosodium glutamate",
+      "yeast",
+      "lactose (milk)",
+      "garlic powder",
+      "yellow corn flour",
+      "citric acid",
+      "duram wheat flour",
+      "caramel",
+      "BHA",
+      "hydrolyzed plant protein (torula and brewers yeast)",
+      "propyl gallate",
+      "flavour",
+      "smoke flavour",
+      "sulphites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/601/5590/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Honey Roasted Peanuts",
+    "marca": "Nutty Club",
+    "ean": "0061966016047",
+    "ingredientes": [
+      "Peanuts",
+      "Sugar",
+      "Honey",
+      "Salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/601/6047/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Jelly Bunnies",
+    "marca": "Nutty Club",
+    "ean": "0061966020457",
+    "ingredientes": [
+      "Sugar",
+      "Glucose syrup",
+      "Modified corn starch",
+      "Glucose-fructose/dextrose",
+      "Icing sugar",
+      "Carnauba wax",
+      "Mineral oil",
+      "Artificial flavours",
+      "Colours (tartrazine)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/602/0457/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Deluxe Jellies",
+    "marca": "Nutty Club",
+    "ean": "0061966041087",
+    "ingredientes": [
+      "Sugar",
+      "Glucose (corn syrup)",
+      "Modified corn starch",
+      "Citric acid",
+      "Natural and artificial flavours",
+      "Food colours (tartrazine yellow)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/604/1087/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chocolate sponge roll",
+    "marca": "Marks And Spencer",
+    "ean": "00619677",
+    "ingredientes": [
+      "Sugar · Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) · Butter (Milk)· Pasteurised Egg · Fat Reduced Cocoa Powder · Cocoa Mass · Dextrose · Pasteurised Egg White · Milk Chocolate (Sugar · Cocoa Butter · Cocoa Mass · Dried Skimmed Milk · Milk Fat · Lactose (Milk)· Emulsifier: Soya Lecithin) · Dried Skimmed Milk · Humectant: Glycerol · Raising Agent: E450",
+      "Sodium Bicarbonate· Salt · Emulsifier: E471",
+      "E475",
+      "E481 · Rapeseed Oil · Palm Oil · Dried Glucose Syrup. Quitable nut Bufferers For allergens see ingredients in bold. Not suitable for Nut and Peanut allergy sufferers due to manufacturing methods."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Sodium Bicarbonate· Salt · Emulsifier: E471",
+        "razon": "Contiene Sodium Bicarbonate· Salt · Emulsifier: E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E475",
+        "razon": "Contiene E475, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/061/9677/front_en.33.400.jpg",
+    "tahor": false,
+    "pais": "Jersey"
+  },
+  {
+    "nombre": "Figues black mission",
+    "marca": "Catania worldwide",
+    "ean": "0061968109013",
+    "ingredientes": [
+      "BLACK MISSION FIGS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/810/9013/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ataúlfo Mangos",
+    "marca": "Catania",
+    "ean": "0061968115595",
+    "ingredientes": [
+      "Ataúlfo Mangos"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Top Gold Kiwi",
+    "marca": "Catania",
+    "ean": "0061968226963",
+    "ingredientes": [
+      "Gold kiwifruit"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/006/196/822/6963/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  }
+]
