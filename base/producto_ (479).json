@@ -1,0 +1,61 @@
+[
+  {
+    "nombre": "Напиток Nutridrink со вкусом банана",
+    "marca": "Nutridrink",
+    "ean": "0099990002143",
+    "ingredientes": [
+      "Water",
+      "dextrine-maltose",
+      "glucosesiroop",
+      "isomaltulose*",
+      "erwteiwitisolaat 4",
+      "plantaardige oliën (koolzaadolie",
+      "oliezuurzonnebloemolie",
+      "zonnebloemolie)",
+      "soja eiwitisolaat 2",
+      "calciumcitraat",
+      "aroma’s",
+      "emulgator (sojalecithine)",
+      "kaliumcitraat",
+      "kaliumchloride",
+      "magnesiumwaterstoffosfaat",
+      "natriumchloride",
+      "cholinechloride",
+      "kaliumhydroxide",
+      "zuurteregelaar (citroenzuur)",
+      "calciumhydroxide",
+      "kleurstof (E 150 d)",
+      "L-ascorbinezuur",
+      "ijzerlactaat",
+      "zinksulfaat",
+      "DL-α-tocoferylacetaat",
+      "nicotinamide",
+      "calcium-D-panthotenaat",
+      "calciumwaterstoffosfaat",
+      "kopergluconaat",
+      "pyridoxinehydrochloride",
+      "thiaminehydrochloride",
+      "riboflavine",
+      "natriumfluoride",
+      "retinylacetaat",
+      "mangaansulfaat",
+      "pteroylmonoglutaminezuur",
+      "natriumseleniet",
+      "chroomchloride",
+      "D-biotine",
+      "kaliumjodide",
+      "fyllochinon",
+      "cholecalciferol",
+      "cyanocobalamine."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulgator (sojalecithine)",
+        "razon": "Contiene emulgator (sojalecithine), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/999/000/2143/front_nl.8.400.jpg",
+    "tahor": false,
+    "pais": "Russia"
+  }
+]

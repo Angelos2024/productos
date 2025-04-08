@@ -1,0 +1,2866 @@
+[
+  {
+    "nombre": "Kviki gric",
+    "marca": "Kviki,podravka",
+    "ean": "01446630",
+    "ingredientes": [
+      "bno najmanj do/best before kviri prosječne hranjive vrijednosti na 100g proizvoda/ prosečne hranljive vrednosti na 100 g proizvoda/ average"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/144/6630/front_hr.6.400.jpg",
+    "tahor": true,
+    "pais": "Croatia"
+  },
+  {
+    "nombre": "6 Outdoor Bred Pork & Caramelised Onion Sausages",
+    "marca": "Sainsbury’s Taste the Difference",
+    "ean": "01447798",
+    "ingredientes": [
+      "British Pork (78%)",
+      "Caramelised Onion Chutney (13%) (Red Onion",
+      "Muscovado Sugar",
+      "Cider Vinegar",
+      "Sugar",
+      "Spirit Vinegar",
+      "Water",
+      "Com Starch",
+      "Rapeseed Oil",
+      "Salt",
+      "Black Pepper)",
+      "Water",
+      "Rice Flour",
+      "Tapioca Starch",
+      "Gram Flour",
+      "Salt",
+      "Parsley",
+      "Onion Powder",
+      "White Pepper",
+      "Stabiliser: Sodium Triphosphate",
+      "Nutmeg",
+      "Preservative: Sodium Metabisulphite (Sulphites)",
+      "Coriander",
+      "Antioxidant: Ascorbic Acid",
+      "Maize",
+      "Starch",
+      "Dextrose. Sausages filled into alginate casings."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/144/7798/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chocolat noir",
+    "marca": "Alain Chartier - Artisan chocolatier",
+    "ean": "0145000000001",
+    "ingredientes": [
+      "Fèves de cacao de Madagascar**",
+      "beurre de cacao**",
+      "grués de cacao d'origine**",
+      "lécithine de tournesol*",
+      "vanille de Madagascar*",
+      "fleur de sel de la presqu'il de Rhuys * Ingrédient issus de l'agriculture biologique ** Ingrédients issus du commerce équitable SPP"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/014/500/000/0001/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sweet Garden Peas",
+    "marca": "Bird Eye",
+    "ean": "0145000243374",
+    "ingredientes": [
+      "Peas."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deli Style Coleslaw",
+    "marca": "By sainsbury's",
+    "ean": "01450033",
+    "ingredientes": [
+      "Cabbage (47%)",
+      "Mayonnaise (Water",
+      "Rapeseed Oil",
+      "Sugar",
+      "Pasteurised Egg Yolk",
+      "Salt",
+      "Spirit Vinegar",
+      "Stabiliser: Guar Gum",
+      "Citrus Fibre",
+      "Dried Egg White)",
+      "Carrot",
+      "Onion",
+      "Rapeseed Oil",
+      "Stabilisers: Guar Gum",
+      "Xanthan Gum",
+      "Preservative: Potassium Sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/0033/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "rotini marinara",
+    "marca": "birds eye",
+    "ean": "01450101",
+    "ingredientes": [
+      "cooked lentil zucchini rotini pasta (lentil flour",
+      "water",
+      "zucchini)",
+      "water",
+      "tomato paste",
+      "olive oil",
+      "sugar",
+      "salt",
+      "spice",
+      "garlic puree",
+      "corn startch",
+      "cooked mushrooms",
+      "mushrooms extract",
+      "natural flavoring",
+      "canola oil",
+      "potato flour",
+      "sea salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peeled new potatoes",
+    "marca": "Sainsbury's",
+    "ean": "01450477",
+    "ingredientes": [
+      "New Potatoes",
+      "Water",
+      "Firming Agent: Calcium Chloride",
+      "Antioxidant: Ascorbic Acid. ! Safety Do not boil",
+      "fry or microwave. CAN Recycle CLABEL Recycle We're sure love this Try me! product. If you don't simply return for a full refund Or call our careline 0800 636262 ston CH& RUITY UC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/0477/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Rozmarýnová foccacina",
+    "marca": "Base pizza",
+    "ean": "01450696",
+    "ingredientes": [
+      "Jemně mletá mouka z tvrdé PŠENICE voda",
+      "droždí",
+      "sůl",
+      "rozmarýn 0",
+      "konzervant: sorban draselný",
+      "extra panenský olivový olej",
+      "slunečnicový olej."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/0696/front_cs.9.400.jpg",
+    "tahor": true,
+    "pais": "Czech Republic"
+  },
+  {
+    "nombre": "Sušenky krumiri",
+    "marca": "KK & H",
+    "ean": "01450702",
+    "ingredientes": [
+      "Bio MOUKA typ 1",
+      "bio MOUKA Z TVRDÉ PŠENICE",
+      "SÓJOVÉ mléko",
+      "celozrnný třtinový cukr",
+      "organický EVO olej",
+      "bikarbonát",
+      "vanilka",
+      "sůl."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/0702/front_cs.9.400.jpg",
+    "tahor": true,
+    "pais": "Czech Republic"
+  },
+  {
+    "nombre": "Dry roasted peanuts",
+    "marca": "Sainsbury's, By sainsbury's, Sainsburys",
+    "ean": "01451634",
+    "ingredientes": [
+      "_peanuts_",
+      "rice flour",
+      "salt",
+      "yeast extract powder",
+      "gelling agent: acacia gum",
+      "onion powder",
+      "paprika",
+      "smoked salt",
+      "oregano",
+      "dill",
+      "turmeric",
+      "maltodextrin",
+      "garlic powder",
+      "cinnamon",
+      "colour: paprika extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/1634/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Voila Garlic Chicken",
+    "marca": "Birds Eye",
+    "ean": "01451801",
+    "ingredientes": [
+      "acts cainer ps (176g) up cooked ingredi nts: vegetables (broccoli",
+      "carrots",
+      "corpm)",
+      "pasta with garlic sauce (cooked enriched pasta [water",
+      "enriched wheat flour durum wheat semolina",
+      "niacin",
+      "reduced iron thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "soybean ol modified whey",
+      "salt",
+      "garlic seasoning (garlic powder",
+      "sugar spices",
+      "yeast extract",
+      "salt",
+      "whey",
+      "enzyme modified milfit natural flavors (with milk}]",
+      "enriched wheat flour wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin 220 folic acid",
+      "cream flavor [maltodextrin",
+      "lipolyzed cream",
+      "natural garlic oil blend [medium chain triglycerides",
+      "daily value* natural flavors",
+      "soy lecithin])",
+      "cooked white meat chicken 9% (chicken breast meat with rib meat",
+      "water",
+      "isolated soy 5% protein",
+      "seasoning [sugar",
+      "garlic",
+      "romano cheese (part skim cow's milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "dehydrated onion]",
+      "salt",
+      "sodium phosphates",
+      "natural flavor. coated 3% with corn flour",
+      "enriched wheat flour [wheat flour",
+      "nac reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic ac 27% salt",
+      "corn starch",
+      "spices",
+      "paprika",
+      "maltodextrin",
+      "caramel 11% color",
+      "garlic powder",
+      "extractives of paprika). 11% contains: wheat",
+      "milk",
+      "soy. g sugars 0%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/1801/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Parpadelle",
+    "marca": "By Sainsbury's",
+    "ean": "01451955",
+    "ingredientes": [
+      "Durum _Wheat_ Semolina",
+      "Pasteurised Whole _Egg_ (20%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/1955/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "12 free range British eggs",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "01454437",
+    "ingredientes": [
+      "free range eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/4437/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "12 British Free Range Eggs Medium",
+    "marca": "Sainsbury's",
+    "ean": "01454468",
+    "ingredientes": [
+      "Eggs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/4468/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British free range eggs",
+    "marca": "Sainsbury's",
+    "ean": "01454482",
+    "ingredientes": [
+      "Eggs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/4482/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Basics salsa dip",
+    "marca": "Sainsbury's",
+    "ean": "01456042",
+    "ingredientes": [
+      "Tomatoes 44%",
+      "Water",
+      "Tomato Purée 9%",
+      "Mixed Peppers 4.5%",
+      "Onions 4.5%",
+      "Maize Starch",
+      "Spirit Vinegar",
+      "Dried Onion",
+      "Salt",
+      "Sugar",
+      "Jalapeño Chilli Pepper",
+      "Garlic Purée",
+      "Firming Agent (Calcium Chloride)",
+      "Black Pepper",
+      "Coriander Leaf",
+      "Acidity Regulator (Citric Acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/6042/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Meruňkový celozrnný muffin",
+    "marca": "Alrichovo pekařství",
+    "ean": "01456107",
+    "ingredientes": [
+      "_Mouka celozrnná špaldová_",
+      "řepkový olej",
+      "vanilkové aroma",
+      "třtinový cukr",
+      "skořice",
+      "_sójové mléko_",
+      "kypřící prášek",
+      "strouhaný kokos",
+      "_ovesné vločky_",
+      "meruňky"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/6107/front_cs.8.400.jpg",
+    "tahor": true,
+    "pais": "Czech Republic"
+  },
+  {
+    "nombre": "Borůvkový muffin",
+    "marca": "Alrichovo pekařství",
+    "ean": "01456108",
+    "ingredientes": [
+      "_Mouka celozrnná špaldová_",
+      "řepkový olej",
+      "vanilkové aroma",
+      "třtinový cukr",
+      "skořice",
+      "_sójové mléko_",
+      "kypřící prášek",
+      "strouhaný kokos",
+      "_ovesné vločky_",
+      "borůvky"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/6108/front_cs.5.400.jpg",
+    "tahor": true,
+    "pais": "Czech Republic"
+  },
+  {
+    "nombre": "Organic Unsmoked Back Bacon",
+    "marca": "Sainsbury's Organic,Sainsbury's,SO Organic",
+    "ean": "01456424",
+    "ingredientes": [
+      "Organic British Pork",
+      "Sea Salt",
+      "Organic Sugar",
+      "Antioxidant: Ascorbic acid",
+      "Preservatives: Sodium Nitrite",
+      "Potassium Nitrate. Made with 105g pork per 100g of finished product."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/6424/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "FreeFrom Chocolate Chip Cookies",
+    "marca": "Sainsbury's",
+    "ean": "01457384",
+    "ingredientes": [
+      "Margarine (Palm Oil",
+      "Palm Stearin",
+      "Water",
+      "Coconut Oil",
+      "Rapeseed Oil",
+      "Lemon Juice)",
+      "Chocolate Chips 20% (Cocoa Mass",
+      "Sugar",
+      "_Soya_",
+      "Lecithin",
+      "Vanilla Extract)",
+      "Rice Flour",
+      "Potato Starch",
+      "Maize Flour",
+      "Glucose Syrup",
+      "Rice Starch",
+      "Millet",
+      "_Dried Egg_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Duck In Plum Sauce",
+    "marca": "Sainsbury’s",
+    "ean": "01457636",
+    "ingredientes": [
+      "Egg Fried Rice (Water",
+      "Long Grain Rice",
+      "Pasteurised Egg",
+      "Onion",
+      "Peas",
+      "Rapeseed Oil",
+      "Sesame Oil",
+      "Ginger Purée",
+      "Salt",
+      "Fermented Soya Bean",
+      "Wheat)",
+      "Water",
+      "Roasted Marinated Duck Breast (13%) (British Duck Breast",
+      "Rice Wine",
+      "Water",
+      "Cornflour",
+      "Sugar",
+      "Fermented Soya Bean",
+      "Wheat",
+      "Salt",
+      "Star Anise",
+      "Cinnamon",
+      "Fennel",
+      "Black Pepper",
+      "Clove)",
+      "Sugar",
+      "Plum Purée",
+      "Onion",
+      "Red Pepper",
+      "Water Chestnut",
+      "Cornflour",
+      "Concentrated Pineapple Juice",
+      "Spirit Vinegar",
+      "Tomato Paste",
+      "Concentrated Orange Juice",
+      "Garlic Purée",
+      "Rapeseed Oil",
+      "Sesame Oil",
+      "Salt",
+      "Colour: Plain Caramel",
+      "Fermented Soya Bean",
+      "Wheat."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/7636/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "FreeFrom Rich Tea Biscuit",
+    "marca": "sainsbury's",
+    "ean": "01457735",
+    "ingredientes": [
+      "Maize Starch",
+      "Sugar",
+      "_Soya Flour_",
+      "Water",
+      "Palm Oil",
+      "Sugar Syrup",
+      "Salt",
+      "Flavoring",
+      "Raising Agents (Sodium Hydrogen Carbonate)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Greek Style Salad Cheese",
+    "marca": "Sainsburys",
+    "ean": "01458121",
+    "ingredientes": [
+      "Greek style salad cheese (cows' milk)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/145/8121/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Eveil du Budha cacao cru",
+    "marca": "Iswari",
+    "ean": "01458615",
+    "ingredientes": [
+      "Sarasin moulu",
+      "Amandes moulues (15%)",
+      "Lucuma en poudre",
+      "Chia moulue (10% )",
+      "Lin moulu",
+      "Suce de Fleur de Coco",
+      "Cacao en poudre (5% )",
+      "Sarrasin activé",
+      "Pépites de Fèves de Cacao"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Guava & Cheese Pie",
+    "marca": "Mily's Crackers",
+    "ean": "0145897852346",
+    "ingredientes": [
+      "Enriched wheat flour (bleached wheat flour",
+      "malted barley flour",
+      "niacin",
+      "iron",
+      "potassium bromate",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "pure cane sugar",
+      "water",
+      "guava",
+      "cream cheese",
+      "vegetable shortening (partially hydrogenated soybean oil",
+      "partially hydrogenated cottonseed oil)",
+      "confectionery glaze corn syrup",
+      "water",
+      "high fructose corn syrup",
+      "sugar",
+      "contains 2% or less: honey",
+      "pectin",
+      "agar",
+      "citric acid",
+      "artificial flavor",
+      "sodium benzoate (preservative)",
+      "caramel color",
+      "modified food starch",
+      "eggs",
+      "non fat milk",
+      "salt",
+      "artificial color (fd&c red no. 40",
+      "fd&c yellow no. 5",
+      "yellow no. 6",
+      "blue no. 1",
+      "red no. 3",
+      "potassium sorbate",
+      "sodium benzoate",
+      "calcium propionate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tender Green Medley",
+    "marca": "Sainsbury's",
+    "ean": "01460759",
+    "ingredientes": [
+      "Runner Beans",
+      "Tenderstem Broccoli (30%)",
+      "Sugar Snap Peas (19%)",
+      "Peas."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/0759/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "paupiettes de veau au jus de xérès et estragon",
+    "marca": "Le bon bag",
+    "ean": "01461565",
+    "ingredientes": [
+      "Paupiettes de veau Jus xérès et estragon Irgrédients : paupiettes de veau et volaille 68% (origine France) (farce veau/volaille 75% (viande de veau",
+      "gras de veau",
+      "eau",
+      "viande de dinde",
+      "sel",
+      "oignon persil)",
+      "bas carré de veau 25%)",
+      "fond de veau (arômes (gluten]",
+      "sel",
+      "légumes [céleri]",
+      "matières grasses animales",
+      "sirop de glucose",
+      "viande de veau 2.5%",
+      "épices",
+      "dextrose)",
+      "carottes",
+      "tomates concassées",
+      "graisse de canard",
+      "eau",
+      "échalotes",
+      "vinaigre de vin",
+      "vinaigre de xérès 0.8%",
+      "amidon de maïs",
+      "farine de blé",
+      "beurre aillé (beurre",
+      "ail persil",
+      "sel",
+      "échalotes",
+      "poivre)",
+      "vinaigre balsamique",
+      "huile d'olive colorant E150b",
+      "estragon 0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/1565/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Wasa Vollkorn",
+    "marca": "Wasa",
+    "ean": "01461747",
+    "ingredientes": [
+      "Ingrédients: farine complète de _seigle_",
+      "levure",
+      "sel. Les ingrédients en gras peuvent causer des réactions chez les personnes allergiques ou intolérantes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/1747/front_de.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Caramelised Onion Houmous",
+    "marca": "By Sainsbury's",
+    "ean": "01461954",
+    "ingredientes": [
+      "Cooked Chickpeas (52%) (Water",
+      "Chickpeas)",
+      "Onion (22%)",
+      "Rapeseed Oil",
+      "Tahini Sesame Seed Paste (7%)",
+      "Concentrated Lemon Juice",
+      "White Wine Vinegar",
+      "Muscovado Sugar",
+      "Garlic Purée",
+      "Salt",
+      "Preservative: Potassium Sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/1954/front_en.28.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lesley Elizabeth Inc., Mediterranean Herb Oil",
+    "marca": "Lesley Elizabeth Inc.",
+    "ean": "0146258100014",
+    "ingredientes": [
+      "Canola and olive oil",
+      "balsamic vinegar",
+      "salt",
+      "onions",
+      "garlic",
+      "oregano",
+      "rosemary",
+      "red bell peppers",
+      "black pepper",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lesley Elizabeth Inc., Sundried Tomato Oil",
+    "marca": "Lesley Elizabeth Inc.",
+    "ean": "0146258100038",
+    "ingredientes": [
+      "Canola and olive oil",
+      "balsamic vinegar",
+      "sundried tomatoes",
+      "salt",
+      "parsley",
+      "garlic",
+      "onions",
+      "spices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oil",
+    "marca": "Lesley Elizabeth Inc",
+    "ean": "0146258142045",
+    "ingredientes": [
+      "Canola & olive oil",
+      "salt",
+      "onions",
+      "garlic",
+      "oregano rosemary",
+      "red bell peppers",
+      "black pepper",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemony Dill Seasoning",
+    "marca": "Lesley Elizabeth Inc.",
+    "ean": "0146258300032",
+    "ingredientes": [
+      "Garlic",
+      "dillweed",
+      "salt",
+      "lemon juice powder (corn syrup solids",
+      "natural lemon flavor)",
+      "shallots",
+      "onions",
+      "mustard powder",
+      "parsley",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lesley Elizabeth Inc., Pepper & Garlic Seasoned Sea Salt",
+    "marca": "Lesley Elizabeth Inc.",
+    "ean": "0146258351034",
+    "ingredientes": [
+      "Sea salt",
+      "black pepper",
+      "sugar",
+      "garlic",
+      "onion",
+      "fennel seed",
+      "crushed red pepper",
+      "bell pepper",
+      "italian seasoning."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sheetz, Hazelnut Syrup, For Steamerz, Small",
+    "marca": "Sheetz",
+    "ean": "0146346428293",
+    "ingredientes": [
+      "undefined"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Low Fat Natural Yogurt",
+    "marca": "Sainsbury's basic",
+    "ean": "01463491",
+    "ingredientes": [
+      "Low fat natural yogurt (cows' milk) Bifidobacterium",
+      "Lactobacillus acidophilus and Streptococcus thermophilus."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/3491/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Low Fat Hazelnut yogurt",
+    "marca": "Sainsbury's",
+    "ean": "01464092",
+    "ingredientes": [
+      "Yogurt (Cows' Milk)",
+      "Water",
+      "Sugar",
+      "Glucose Syrup",
+      "Hazelnuts (15%)",
+      "Cornflour",
+      "Butter (Cows' Milk)",
+      "Acidity Regulator: Lactic Acid",
+      "Flavourings",
+      "Colour: Plain Caramel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/4092/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Buttersoft",
+    "marca": "By sainsbury's",
+    "ean": "01465204",
+    "ingredientes": [
+      "Butter (Cows' Milk) (60%)",
+      "Rapeseed Oil",
+      "Water",
+      "Salt (1%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/5204/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "blue Stilton Cheese",
+    "marca": "Sainsbury's",
+    "ean": "01465235",
+    "ingredientes": [
+      "Blue Stilton cheese"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/5235/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Low Fat Red Fruits Yogurts",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "01466287",
+    "ingredientes": [
+      "Low fat Yogurt (Cows' _Milk_)",
+      "Sugar",
+      "Strawberry 8%",
+      "Strawberry Purée from concentrate 4%",
+      "Rice Starch",
+      "Stabiliser: Pectin",
+      "Colour: Black Carrot Concentrate",
+      "Flavouring",
+      "concentrate Lemon Juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/6287/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Low Fat Fruit Yogurts",
+    "marca": "Sainsbury's, Picot, Sainsburys",
+    "ean": "01466294",
+    "ingredientes": [
+      "low fat yogurt (cows' milk)",
+      "sugar",
+      "peaches (5%)",
+      "peach puree from concentrate (3%)",
+      "comflour",
+      "gelling agent: pectin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/6294/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "strawberry lowfat yogurt",
+    "marca": "Yami,Auburn Dairy Products",
+    "ean": "0146652944986",
+    "ingredientes": [
+      "Pasteurized grade a lowfat _milk_",
+      "cane sugar",
+      "strawberry puree",
+      "modified corn starch",
+      "natural flavor",
+      "whey protein concentrate",
+      "carrageenan",
+      "lactase",
+      "pectin",
+      "red cabbage extract",
+      "culture",
+      "vitamin A palmate",
+      "vitamin D3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/014/665/294/4986/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wholegrain Blueberry Wheats",
+    "marca": "Sainsbury’s",
+    "ean": "01468168",
+    "ingredientes": [
+      "British Wholegrain Wheat (72%)",
+      "Reconstituted Blueberry Puree (10%)",
+      "Humectant: Glycerol",
+      "Dextrose",
+      "Glucose Syrup",
+      "Sugar",
+      "Thickener: Maltodextrin",
+      "Gelling Agent: Pectin",
+      "Malic Acid",
+      "Flavourings",
+      "Acidity Regulator: Trisodium Citrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/8168/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sainsbury's So Organic Corn Flakes",
+    "marca": "Sainsbury's So Organic",
+    "ean": "01468175",
+    "ingredientes": [
+      "organic lecithins"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/8175/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "french brandy",
+    "marca": "sainsbury's,sainsbury's basics",
+    "ean": "01469646",
+    "ingredientes": [
+      "brandy"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/9646/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "London dry gin",
+    "marca": "sainsbury's,sainsbury's basics",
+    "ean": "01469660",
+    "ingredientes": [
+      "gin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/9660/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "vodka",
+    "marca": "sainsbury's,sainsbury's basics",
+    "ean": "01469707",
+    "ingredientes": [
+      "vodka"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/146/9707/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sweet pops",
+    "marca": "Charms",
+    "ean": "01470626",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "citric acid",
+      "artificial flavors",
+      "artificial colors (including fd&c red 40",
+      "fd&c blue 1",
+      "fd&c blue 1 lake)",
+      "and turmeric coloring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/147/0626/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "sweet and sour pops",
+    "marca": "Charms,  Charms Company",
+    "ean": "01470820",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "citric acid",
+      "artificial flavors",
+      "artificial colors (including fd&c red 40 and fd&c blue 1)",
+      "turmeric coloring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/147/0820/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pan de Molde Blanco",
+    "marca": "Carrefour",
+    "ean": "01472165",
+    "ingredientes": [
+      "Harina de trigo",
+      "agua",
+      "aceite de girasol (3%)",
+      "levadura",
+      "azúcar",
+      "sal",
+      "harina de haba",
+      "emulgentes (Estearoil-2-lactilato sódico y Monoglicéridos y diglicéridos de ácidos grasos)",
+      "gluten de trigo",
+      "conservadores (Propionato cálcico y ácido sórbico)",
+      "estabilizante (Goma guar)",
+      "agente de tratamiento de la harina: ácido ascórbico y aroma. Puede contener trazas de frutos de cáscara",
+      "granos de sésamo",
+      "huevos",
+      "leche",
+      "soja y/o productos derivados."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulgentes (Estearoil-2-lactilato sódico y Monoglicéridos y diglicéridos de ácidos grasos)",
+        "razon": "Contiene emulgentes (Estearoil-2-lactilato sódico y Monoglicéridos y diglicéridos de ácidos grasos), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/147/2165/front_es.4.400.jpg",
+    "tahor": false,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "The Levantine Table 2 Handstretched Flatbreads",
+    "marca": "Waitrose & Partners",
+    "ean": "01473094",
+    "ingredientes": [
+      "Wheat flour (wheat flour",
+      "calcium carbonate",
+      "iron",
+      "niacin",
+      "thiamin)",
+      "water",
+      "rapeseed oil",
+      "yeast",
+      "extra virgin olive oil (2%)",
+      "wheat gluten",
+      "spirit vinegar",
+      "raising agents (disodium diphosphate",
+      "sodium hydrogen carbonate",
+      "calcium phosphates)",
+      "stabiliser (sodium carboxy methyl cellulose)",
+      "preservative (calcium propionate)",
+      "acidity regulator (citric acid)",
+      "salt",
+      "wheat starch",
+      "wheat flour ALLERGY ADVICE: For allergens",
+      "including cereals containing gluten",
+      "see ingredients in bold. May also contain milk NUTRITION TYPICAL VALUES AS SOLD Energy kj Energy kcal Fat"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/147/3094/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "fertilsan M",
+    "marca": "Active Bio Life Science",
+    "ean": "01476816",
+    "ingredientes": [
+      "ו - of Pro Tagesdosis Pro 100 g (3 Kapseln) Durchschnittliche Per 100 g"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Be Good to Yourself Honey & Mustard Dressing",
+    "marca": "Sainsbury's",
+    "ean": "01477610",
+    "ingredientes": [
+      "Water",
+      "Honey (8%)",
+      "White Wine Vinegar Sugar",
+      "Wholegrain Mustard (4.0%) (Water",
+      "Mustard Seed Spirit Vinegar",
+      "Salt)",
+      "Dijon Mustard (3.5%) (Water",
+      "Mustard Seed",
+      "Spirit Vinegar",
+      "Salt)",
+      "Cornflour",
+      "Mustard Seeds",
+      "Salt",
+      "Garlic Purée",
+      "Mustard Powder",
+      "Black Pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/147/7610/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Applesauce - No Sugar Added",
+    "marca": "Mott's",
+    "ean": "01480738",
+    "ingredientes": [
+      "APPLES",
+      "WATER",
+      "ASCORBIC ACID (VITAMIN C)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/0738/front_en.36.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pillsbury Classic Pizza Crust",
+    "marca": "Pillsbury",
+    "ean": "01481931",
+    "ingredientes": [
+      "enriched flour bleached (wheat flour",
+      "niacin",
+      "ferrous sulfate",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "sugar",
+      "dextrose. contains 2% or less of: vital wheat gluten",
+      "leavening (glucono delta-lactone",
+      "baking soda)",
+      "soybean oil",
+      "salt",
+      "potassium chloride",
+      "hydrogenated vegetable oil (soybean",
+      "palm",
+      "and/or cottonseed)",
+      "mono and diglycerides",
+      "natural flavor",
+      "xanthan gum. contains wheat ingredients. %24"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/1931/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cinnamon Applesauce",
+    "marca": "Mott's",
+    "ean": "01482338",
+    "ingredientes": [
+      "Apples",
+      "high fructose corn syrup",
+      "water",
+      "cinnamon",
+      "ascorbic acid (vitamin c)",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/2338/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mighty Soarin' Apple",
+    "marca": "Mott's",
+    "ean": "01482930",
+    "ingredientes": [
+      "WATER",
+      "APPLE JUICE CONCENTRATE",
+      "NATURAL FLAVORS",
+      "ASCORBIC ACID (VITAMIN C)",
+      "STEVIA LEAF EXTRACT",
+      "ALPHA TOCOPHERYL ACETATE (VITAMINE)",
+      "VITAMIN A PALMITATE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/2930/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "m&m brownie",
+    "marca": "Star",
+    "ean": "01483204",
+    "ingredientes": [
+      "sucre",
+      "pâte de cacao",
+      "lait entier en poudre",
+      "sirop de glucose",
+      "lactose",
+      "beurre de cacao",
+      "amidon",
+      "lait concentré sucré",
+      "beurre karité",
+      "humectant (glycérol)",
+      "sel",
+      "émulsifiant (lécithine de soja",
+      "E471)",
+      "stabilisant (gomme arabique)",
+      "dextrine",
+      "colorants",
+      "cacahuetes",
+      "sirop de glucose déshydraté",
+      "agent d'enrobage (cire de carnauba)",
+      "huile de palmiste",
+      "extrait de vanille",
+      "arome"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E471)",
+        "razon": "Contiene E471), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/3204/front_fr.8.400.jpg",
+    "tahor": false,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Mozzarella",
+    "marca": "Sainsbury's, Sainsbury's basic",
+    "ean": "01483246",
+    "ingredientes": [
+      "Mozzarella cheese (cows' _milk_)",
+      "acidity regulator: citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/3246/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boisson-repas Fruits rouges",
+    "marca": "Feed",
+    "ean": "01484911",
+    "ingredientes": [
+      "Eau",
+      "maltodextrine",
+      "isolat de protéine _SOJA_",
+      "huile de tournesol",
+      "huile de colza",
+      "purée de fraise 0.5%",
+      "purée de framboise 0.5%",
+      "amidon",
+      "fibre d'avoine sans gluten",
+      "arôme naturel",
+      "émulsifiant : lécithine",
+      "stabilisants : gomme gellane et gomme de caroube",
+      "sel",
+      "colorant naturel : lycopène",
+      "édulcorant : sucralose",
+      "vitamines et minéraux"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/4911/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Stonebaken ciabatta rolls",
+    "marca": "Sainsbury's, Sainsburys",
+    "ean": "01486384",
+    "ingredientes": [
+      "fortified wheat flour (wheat flour",
+      "calcium carbonate",
+      "iron",
+      "niacin",
+      "thiamin)",
+      "water",
+      "extra virgin olive oil (3%)",
+      "fermented wheat flour",
+      "malted wheat flour",
+      "salt",
+      "yeast."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/6384/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Caesar Salad",
+    "marca": "Sainsburys",
+    "ean": "01486711",
+    "ingredientes": [
+      "Romaine Lettuce",
+      "Caesar Dressing (23%) (Rapeseed Oil",
+      "Water",
+      "Pasteurised Egg Yolk",
+      "Parmigiano Reggiano Cheese* (Unpasteurised Cows' Milk)",
+      "White Wine Vinegar",
+      "Spirit Vinegar",
+      "Salt",
+      "Sugar",
+      "Garlic Purée",
+      "Cornflour",
+      "Worcester Sauce (Malt Vinegar (from Barley)",
+      "Water",
+      "Black Treacle",
+      "Salt",
+      "Onion",
+      "Tamarind Extract",
+      "Garlic Powder",
+      "Lemon Oil",
+      "Clove",
+      "Paprika",
+      "Red Chilli Pepper)",
+      "Concentrated Lemon Juice",
+      "Black Pepper)",
+      "Black Pepper and Sea Salt Croutons (7%) (Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Rapeseed Oil",
+      "Sugar",
+      "Black Pepper",
+      "Yeast",
+      "Sea Salt)",
+      "Parmigiano Reggiano Cheese* (Unpasteurised Cows' Milk) (4%). *Contains Animal Rennet. ! Allergy advice: For allergens",
+      "including cereals containing gluten",
+      "see ingredients in bold. Safety: Contains unpasteurised cows' milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/6711/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "pois chiche sec",
+    "marca": "samia",
+    "ean": "01487893",
+    "ingredientes": [
+      "pois chiche sec"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/7893/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Schwarz Tee",
+    "marca": "FEBIO",
+    "ean": "01488180",
+    "ingredientes": [
+      "Schwarztee*. 米 aus kontrolliert biologischem Anbau"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/8180/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Strawberry applesauce",
+    "marca": "Mott's",
+    "ean": "01488235",
+    "ingredientes": [
+      "apples",
+      "high fructose corn syrup",
+      "water",
+      "strawberry puree",
+      "natural flavors",
+      "ascorbic acid (vitamin c)",
+      "red 40"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/8235/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diced chorizo",
+    "marca": "By Sainsbury's",
+    "ean": "01488401",
+    "ingredientes": [
+      "Pork",
+      "Salt",
+      "Lactose (Cows' Milk)",
+      "Paprika (15%)",
+      "Dextrose",
+      "Sugar",
+      "Milk Proteins (Cows' Milk)",
+      "Garlic",
+      "Paprika Extract",
+      "Acidity Regulator: Sodium Citrate",
+      "Antioxidant: Sodium Erythorbate",
+      "Preservatives: Sodium Nitrite",
+      "Potassium Nitrate: Rosemary Extract",
+      "Black Pepper",
+      "Oregano.  Made using 126g of pork per 100g of finished product. Moisture is lost during the drying process."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/8401/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "mozzarella cheese ball",
+    "marca": "Sainsbury's,sainsbury's basics",
+    "ean": "01489187",
+    "ingredientes": [
+      "mozzarella cheese (cow's _milk_)",
+      "acidity regulator (Citric Acid)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/9187/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Apple & grape snack pack",
+    "marca": "Sainsbury's, On the go",
+    "ean": "01489637",
+    "ingredientes": [
+      "Apple",
+      "grape"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/148/9637/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tomaten Mark 2-fach konzentriert",
+    "marca": "Alnatura",
+    "ean": "01494112",
+    "ingredientes": [
+      "Tomate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/149/4112/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "4 Chewy Granola Slices",
+    "marca": "Sainsbury's",
+    "ean": "01495652",
+    "ingredientes": [
+      "Oats (33%)",
+      "Sugar",
+      "Butteroil (Cows' Milk)",
+      "Sunflower Seeds (5%)",
+      "Cornflour",
+      "Dried Sweetened Cranberries (4%) (Sugar",
+      "Cranberry",
+      "Sunflower Oil)",
+      "Sultana (4%)",
+      "Honey",
+      "Chilean Flame Raisins (3%)",
+      "Pumpkin Seeds (3%)",
+      "Dried Sweetened Sour Cherries (2%) (Cherry",
+      "Sugar",
+      "Sunflower Oil)",
+      "Molasses",
+      "Raising Agents: Disodium Diphosphate Sodium Hydrogen Carbonate",
+      "Salt",
+      "Fortified British Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/149/5652/front_en.36.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Prosecco",
+    "marca": "Sainsbury's",
+    "ean": "01496970",
+    "ingredientes": [
+      "Prosecco"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/149/6970/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "Spicy tomato, lentil and red pepper soup",
+    "marca": "By Sainsbury's",
+    "ean": "01498257",
+    "ingredientes": [
+      "Tomato (38%)",
+      "Water",
+      "Red Split Lentils (10%)",
+      "Onion",
+      "Red Peppe (6%)",
+      "Chipotle Chilli Paste (Sugar",
+      "Red Pepper Juice",
+      "Molasses",
+      "Tomato Puree",
+      "Water",
+      "Salt",
+      "Chipotle Chilli",
+      "Smoked Paprika",
+      "Jalapeño Pepper",
+      "Onion Salt",
+      "White Wine Vinegar",
+      "Garlic Salt)",
+      "Tomato Puree",
+      "Rapeseed Oil",
+      "Cornflour",
+      "Sugar",
+      "Garlic Puree",
+      "Salt",
+      "Parsley"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "8 Falafels",
+    "marca": "Sainsbury's",
+    "ean": "01499186",
+    "ingredientes": [
+      "Cooked Chickpeas 37% (Water",
+      "Chickpeas)",
+      "Onion",
+      "Rapeseed Oil",
+      "Broad Beans 16%",
+      "Breadcrumbs (Fortified British Wheat Flour (_Wheat_ Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Yeast",
+      "Salt)",
+      "Coriander",
+      "Parsley",
+      "Garlic Purée",
+      "Gram Flour",
+      "Salt",
+      "Coriander Powder",
+      "Concentrated Lemon Juice",
+      "Cumin Powder",
+      "Baking Powder (Fortified British Wheat Flour (_Wheat_ Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Thiamin))",
+      "Black Pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/149/9186/front_en.31.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "salt and black pepper combo mix",
+    "marca": "sainsbury's",
+    "ean": "01499896",
+    "ingredientes": [
+      "dried potato",
+      "potato starch",
+      "sunflower oil",
+      "rice flour",
+      "sugar",
+      "modified potato starch",
+      "sea salt",
+      "salt",
+      "maize flour",
+      "black pepper",
+      "onion powder",
+      "yeast extract",
+      "flavourings",
+      "paprika extract",
+      "turmeric extract",
+      "garlic powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/149/9896/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Fanta sabor Guaraná",
+    "marca": "Fanta,Coca-Cola",
+    "ean": "0150003000016",
+    "ingredientes": [
+      "AGUA CARBONATADA",
+      "AZÚCAR",
+      "SABORIZANTES NATURALES",
+      "REGULADOR DE LA ACIDEZ (SIN 330)",
+      "COLORANTE (SIN 150d)",
+      "SUSTANCIAS CONSERVADORAS (SIN 211",
+      "SIN 202)",
+      "EXTRACTO DE GUARANA",
+      "EDULCORANTES (SIN 950 0.007% (ASPARTAME)",
+      "SIN 951 0.006% (ACESULFAME K))."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "EXTRACTO DE GUARANA",
+        "razon": "Contiene EXTRACTO DE GUARANA, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/015/000/300/0016/front_es.3.400.jpg",
+    "tahor": false,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "gerber pasta Primavera",
+    "marca": "Gerber, Nestlé",
+    "ean": "01500202",
+    "ingredientes": [
+      "% dv amount/serving amount/seving % dv nt 1% total carb 26g 27% fiber 3g total sugars 5g incl og added sugars p protein 3g nutrition total fat 0",
+      "tomato paste)",
+      "cooked pasta (water",
+      "(wheat semolina naci 1jar 6% the i 120 0% • calcium 20mg 2% • potassium 390mg 60% thi pre 8% the p e serving food snete thama monontrate",
+      "riboflavin",
+      "folic acid)",
+      "carrots",
+      "water",
+      "broccol",
+      "rice flour",
+      "dred prke mel gerber products co",
+      "fremont",
+      "mi 49413",
+      "usa adra product of mexico m trademarks are owned by société des produits nestlé s",
+      "a",
+      "verey",
+      "suvitzerland or used with permission",
+      "anta"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "gain & grow",
+    "marca": "Gerber",
+    "ean": "01500707",
+    "ingredientes": [
+      "whole grain oat flour and cat flour (contains wheat)",
+      "potassium phosphate",
+      "vitamins and minerals: calcium carlonate. vitamin c (ascorbic acid)",
+      "iron (electrolytic) zinc sulfate",
+      "vitamin e (alpha tocopheryl acetate) niacinamide",
+      "vitamin b2 (riboflavin)",
+      "vitamin b1 (thiamin mononitrate)",
+      "vitamin b6 (pyridoxine hydrochloride)",
+      "folic acid",
+      "vitamin b12. contains: wheat. gerber products company",
+      "fremont",
+      "mi 49413"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deli style coleslaw",
+    "marca": "Sainsburys",
+    "ean": "01503265",
+    "ingredientes": [
+      "cabbage",
+      "mayonnaise (water",
+      "rapeseed oil",
+      "spirit vinegar",
+      "sugar",
+      "pasteurised egg yolk",
+      "salt",
+      "stabiliser: guar gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/3265/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sweet Hawaiian Sandwich Buns",
+    "marca": "Rainbo",
+    "ean": "0150400740198",
+    "ingredientes": [
+      "Enriched wheat flour [flour",
+      "malted barley flour",
+      "reduced iron",
+      "niacin",
+      "thiamin mononitrate (vitamin b1)",
+      "riboflavin (vitamin b2)",
+      "folic acid]",
+      "water",
+      "high fructose corn syrup",
+      "yeast",
+      "salt",
+      "soybean oil",
+      "wheat gluten",
+      "potato flour",
+      "calcium propionate (pres"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Diet Ginger Ale",
+    "marca": "Sainsburys",
+    "ean": "01504095",
+    "ingredientes": [
+      "Carbonated Water",
+      "Flavouring",
+      "Acid: Citric Acid",
+      "Sweeteners: Acesulfame K",
+      "Sucralose",
+      "Preservative: Potassium Sorbate",
+      "Colour: Sulphite Ammonia Caramel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/4095/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Full Fat Soft Cheese",
+    "marca": "Sainsbury's",
+    "ean": "01504972",
+    "ingredientes": [
+      "Full Fat Soft Cheese."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/4972/front_en.23.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sainsbury's so organic unwaxed oranges",
+    "marca": "Sainsbury's,Sainsburys,Sainsbury's SO Organic",
+    "ean": "01506266",
+    "ingredientes": [
+      "Organic unwaxed oranges"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/6266/front_en.29.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Le roulé",
+    "marca": "Sainsbury’s,Sainsburys,By sainsbury's",
+    "ean": "01506334",
+    "ingredientes": [
+      "Full Fat Soft Cheese (Cow's Milk)",
+      "Cornflour",
+      "Garlic",
+      "Parsley",
+      "Preservative: Sorbic Acid",
+      "Aci Regulator: Citric Acid",
+      "Flavouring",
+      "Rosemary Extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/6334/front_en.47.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Lebkuchen stars",
+    "marca": "By sainsbury's",
+    "ean": "01508529",
+    "ingredientes": [
+      "Wheat Flour",
+      "Sugar",
+      "Glucose-Fructose Syrup",
+      "Dark Chocolate (13%) (Cocoa Mass",
+      "Sugar",
+      "Cocoa Butter",
+      "Emulsifier: Sunflower Lecithin))",
+      "Fructose",
+      "Raising Agents: Ammonium Hydrogen Carbonate",
+      "Potassium Carbonate",
+      "Disodium Diphosphates",
+      "Palm Oil",
+      "Acid: Lactic Acid",
+      "Spices (Cinnamon",
+      "Anise",
+      "Mace",
+      "Ginger)",
+      "Flavouring",
+      "Cinnamon",
+      "Hydrolysed Milk Protein (Cows' Milk)",
+      "Caramelised Sugar Syrup. Cocoa Solids"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/8529/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Apple Juice",
+    "marca": "Sainsburys, By sainsbury's",
+    "ean": "01508550",
+    "ingredientes": [
+      "Apple Juice from Concentrate (100%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/8550/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Smooth Orange Juice",
+    "marca": "Sainsbury’s",
+    "ean": "01508567",
+    "ingredientes": [
+      "Orange juice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/150/8567/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Cubetti di Pancetta",
+    "marca": "Sainsbury's, By sainsbury's",
+    "ean": "01510225",
+    "ingredientes": [
+      "Pork Belly",
+      "Salt",
+      "Flavouring",
+      "Preservative (Sodium Nitrite)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0225/front_en.23.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Single Cream",
+    "marca": "By Sainsbury's",
+    "ean": "01510232",
+    "ingredientes": [
+      "Pasteurised British single fresh cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0232/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British Single Fresh Cream",
+    "marca": "Sainsbury's",
+    "ean": "01510256",
+    "ingredientes": [
+      "Pasteurised single cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0256/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British Double Fresh Cream",
+    "marca": "Sainsbury's",
+    "ean": "01510294",
+    "ingredientes": [
+      "cow milk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0294/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British double fresh cream",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "01510317",
+    "ingredientes": [
+      "Pasteurised British double fresh cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0317/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "British extra thick double fresh cream",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "01510355",
+    "ingredientes": [
+      "Pasteurised British extra thick double fresh cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0355/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Soured cream",
+    "marca": "Sainsburys",
+    "ean": "01510393",
+    "ingredientes": [
+      "Pasteurised soured cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0393/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "soured cream",
+    "marca": "Sainsburys",
+    "ean": "01510409",
+    "ingredientes": [
+      "V VEGETARIAN Pasteurised Soured cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0409/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Alnatura · Purée de cacahuète",
+    "marca": "Alnatura",
+    "ean": "0151080400000",
+    "ingredientes": [
+      "CACAHUÈTES* grillées *issues de l'agriculture biologique. Peut contenir des traces de lait",
+      "amande",
+      "noisette",
+      "noix de cajou",
+      "noix de Macadamia",
+      "sésame et lupin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/015/108/040/0000/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Vivaldi white potatoes",
+    "marca": "Sainsbury's",
+    "ean": "01510935",
+    "ingredientes": [
+      "potatoes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/0935/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Taste the Difference Lemonade",
+    "marca": "Sainsbury's, Taste the difference",
+    "ean": "01511123",
+    "ingredientes": [
+      "water",
+      "lemon",
+      "sugar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/1123/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sweet & Juicy Conference Pears",
+    "marca": "Sainsbury's",
+    "ean": "01514308",
+    "ingredientes": [
+      "Pears."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/4308/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "super diet Quatuor",
+    "marca": "super diet",
+    "ean": "01514437",
+    "ingredientes": [
+      "alchimille sauge houblon gatillier"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/151/4437/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "6 Iced Topped Mince Pies",
+    "marca": "By Sainsbury's",
+    "ean": "01514612",
+    "ingredientes": [
+      "mincemeat filling (37%) (sugar",
+      "apple puree (18%) (apple puree",
+      "preservatives: sulphur dioxide",
+      "potassium sorbate",
+      "sodium metabisulphite (sulphites))",
+      "raisins (14%)",
+      "sultanas (14%)",
+      "glucose syrup",
+      "currants (8%)",
+      "humectant: vegetable glycerine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "sablé cannelle",
+    "marca": "Henry's",
+    "ean": "0152161411055",
+    "ingredientes": [
+      "Farine de froment",
+      "Sucre",
+      "Graisse végétale",
+      "Sucre inverti",
+      "Agents levants (Bicarbonate d'ammonium",
+      "Bicarbonate de sodium)",
+      "Sel",
+      "Poudre de Cannelle",
+      "Arômes autorisés. Alerte à l'allergie: Contient du gluten",
+      "lait et ses dérivés et lécithine de soja. Conserver dans un endroit frais et sec. ENG BIS flour",
+      "S agents: Salt",
+      "Ci statem produc place. سكر، تاريخ الإنتاج / نهاية الصلاحية : انظر على الغلاف Date de production / date d'expiration : voir sur l'emballage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/015/216/141/1055/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "Morocco"
+  },
+  {
+    "nombre": "Yellow Mustard",
+    "marca": "Heinz",
+    "ean": "01521803",
+    "ingredientes": [
+      "DISTILLED WHITE VINEGAR",
+      "MUSTARD SEED",
+      "WATER. SALT&quot",
+      "TURMERIC",
+      "NATURAL FLAVOR AND SPICES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/152/1803/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "RX Bar Peanut Butter",
+    "marca": "RXBAR",
+    "ean": "0152227004801",
+    "ingredientes": [
+      "Dates",
+      "Peanuts",
+      "Egg Whites",
+      "Peanut Flour (Peanuts)",
+      "Sea Salt",
+      "Natural Flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/015/222/700/4801/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Cheese puffs",
+    "marca": "By sainsbury's",
+    "ean": "01523126",
+    "ingredientes": [
+      "maize",
+      "sunflower oil",
+      "whey powder (cows' milk)",
+      "cheese powder (cows' milk)",
+      "salt",
+      "palm oil",
+      "colours: paprika extract",
+      "curcumin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/152/3126/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Onion Rings 6 pack",
+    "marca": "By sainsbury's",
+    "ean": "01523140",
+    "ingredientes": [
+      "Maize",
+      "Vegetable Oil (Rapeseed Oil",
+      "Sunflower Oil)",
+      "Dextrose",
+      "Maltodextrin",
+      "Onion Powder",
+      "Sugar",
+      "Salt",
+      "Yeast Extract",
+      "Flavourings",
+      "Garlic Powder",
+      "Acids: Malic Acid",
+      "Citric Acid",
+      "Colour: Paprika Extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/152/3140/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Boursin",
+    "marca": "Boursin",
+    "ean": "01524931",
+    "ingredientes": [
+      "Ingrédients lait et crème pasteurisés (origine : France)",
+      "ferments lactiques",
+      "sel",
+      "échalote 1%",
+      "ciboulette 0",
+      "ciboule",
+      "conservateur: sorbate de potassium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/152/4931/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cherry Tomatoes",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "01526008",
+    "ingredientes": [
+      "Cherry tomatoes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/152/6008/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Skimmed British Milk",
+    "marca": "Sainsbury's",
+    "ean": "01531039",
+    "ingredientes": [
+      "Skimmed British Cows' _Milk_."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/1039/front_en.28.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Semi-skimmed British milk",
+    "marca": "Sainsbury's",
+    "ean": "01531053",
+    "ingredientes": [
+      "Semi skimmed British Cow's _Milk_."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/1053/front_en.40.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Natural Sweet Potato",
+    "marca": "Gerber",
+    "ean": "01531509",
+    "ingredientes": [
+      "SWEET POTATOES",
+      "WATER",
+      "VITAMIN C (ASCORBIC ACID)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/1509/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "grain and grow oatmeal",
+    "marca": "Gerber",
+    "ean": "01531606",
+    "ingredientes": [
+      "green beans",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/1606/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coquillettes mais riz quinoa",
+    "marca": "Valpi Bio, Valpibio, Valpiform",
+    "ean": "01535036",
+    "ingredientes": [
+      "farine de mais blanc* 20%",
+      "farine de mais jaune* 20%",
+      "farine de riz* 20%",
+      "farine de quinoa* 20%",
+      "amidon de riz*.  *Issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/5036/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Soured Cream & Chive Dip",
+    "marca": "Sainsbury's",
+    "ean": "01535525",
+    "ingredientes": [
+      "Soured Cream (55%) (Cows' Milk)",
+      "Mayonnaise (Water",
+      "Rapeseed Oil",
+      "Pasteurised Egg",
+      "Cornflour",
+      "Spirit Vinegar",
+      "Sugar",
+      "Rice Starch",
+      "Salt",
+      "Citrus Fibre",
+      "Dried Egg White",
+      "Potato Fibre)",
+      "Onion",
+      "Rapeseed Oil",
+      "Chives (3%)",
+      "Cornflour",
+      "Salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/5525/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Cayenne pepper",
+    "marca": "by sainsbury's,Sainsbury's",
+    "ean": "01535815",
+    "ingredientes": [
+      "Cayenne pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/5815/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Prune Juice",
+    "marca": "Sainsbury's,by sainsbury's, Aldi",
+    "ean": "01535914",
+    "ingredientes": [
+      "Water extracted prune juice from concentrate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/5914/front_en.27.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Onion & garlic dip",
+    "marca": "By Sainsbury's",
+    "ean": "01536591",
+    "ingredientes": [
+      "Mayonnaise (Water",
+      "Rapeseed Oil",
+      "Pasteurised Egg",
+      "Cornflour",
+      "Spirit Vinegar",
+      "Salt",
+      "Caster Sugar",
+      "Rice Starch",
+      "Citrus Fibre",
+      "Dried Egg White",
+      "Potato Fibre)",
+      "Soured Cream (Cows' Milk) (28%)",
+      "Onion (10%)",
+      "Rapeseed Oil",
+      "Garlic Purée (1%)",
+      "Cornflour",
+      "Chive (0.5%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/6591/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "cheese & chive dip",
+    "marca": "Sainsbury's",
+    "ean": "01536812",
+    "ingredientes": [
+      "Mayonnaise (Water",
+      "Rapeseed Oil",
+      "Pasteurised Egg",
+      "Cornflour",
+      "Spirit Vinegar",
+      "Sugar",
+      "Rice Starch",
+      "Salt",
+      "Citrus Fibre",
+      "Dried Egg White",
+      "Potato Fibre)",
+      "Soured Cream (Cows' Milk) Mature Red Cheddar Cheese (6%) (Cows' Milk) (Colour: Annatto Norbixin)",
+      "Mature Cheddar Cheese (5%) (Cows' Milk)",
+      "Rapeseed Oil",
+      "Onion",
+      "Chives (1%)",
+      "Cornflour",
+      "Concentrated Lemon Juice",
+      "Potato Starch. Allergy advice: For allergens",
+      "see ingredients in bold"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/6812/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Escalope de dinde extra fines",
+    "marca": "Volandrie",
+    "ean": "0153711031495",
+    "ingredientes": [
+      "Dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/015/371/103/1495/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ground coriander",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "01537642",
+    "ingredientes": [
+      "Ground coriander seed"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/7642/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Whole Nutmeg",
+    "marca": "Sainsbury's",
+    "ean": "01537734",
+    "ingredientes": [
+      "Whole Nutmeg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/7734/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sour Cream & Chive Dip",
+    "marca": "Sainsbury's",
+    "ean": "01537925",
+    "ingredientes": [
+      "Soured Cream (55%) (Cows' Milk)",
+      "Mayonnaise (Water",
+      "Rapeseed Oil",
+      "Pasteurised Egg",
+      "Cornflour",
+      "Spirit Vinegar",
+      "Sugar",
+      "Rice Starch",
+      "Salt",
+      "Citrus Fibre",
+      "Dried Egg White",
+      "Potato Fibre)",
+      "Onion",
+      "Rapeseed Oil",
+      "Chives (3%)",
+      "Cornflour",
+      "Salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/7925/front_en.33.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Soup",
+    "marca": "Sainsbury's",
+    "ean": "01538205",
+    "ingredientes": [
+      "Water",
+      "Petits Pois (17%)",
+      "Peas (16%)",
+      "Potatoes (Sulphites) Onion",
+      "Shredded Ham Hock (5%) (Pork",
+      "Salt",
+      "Preservative: Sodium Nitrite) British Butter (Cows' Milk)",
+      "Salt",
+      "Garlic Purée",
+      "Parsley",
+      "Acidity Regulator: Sodium Bicarbonate",
+      "Spearmint",
+      "White Pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/8205/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Moroccan Spiced Chicken & Chickpea Soup",
+    "marca": "Sainsbury's Taste the Difference",
+    "ean": "01538229",
+    "ingredientes": [
+      "Water",
+      "Tomato (22%)",
+      "Onion",
+      "Chickpeas (8%)",
+      "British Chicken (6% (Chicken",
+      "Chicken Stock (Water",
+      "Chicken Bones",
+      "Salt) Salt",
+      "Cornflour)",
+      "Carrot",
+      "Dried Apricot (4%)",
+      "Green Lentils (3%)",
+      "Tomato Purée",
+      "Rapeseed Oil",
+      "Honey",
+      "Coriander Leaf",
+      "Salt",
+      "Galangal",
+      "Ginger",
+      "Black Pepper",
+      "Cardamom",
+      "Turmeric",
+      "Allspice",
+      "Cinnamon",
+      "Cayenne Pepper",
+      "Cassia",
+      "Coriander",
+      "Mace",
+      "Nutmeg",
+      "Cloves."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/8229/front_en.31.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Maiskörner",
+    "marca": "M Classic",
+    "ean": "01539300",
+    "ingredientes": [
+      "Mais"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/9300/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Low Carb Tortillas",
+    "marca": "Mission",
+    "ean": "01539479",
+    "ingredientes": [
+      "Water",
+      "Modified Wheat Starch",
+      "Enriched Bleached Flour (Wheat Flour",
+      "Niacin",
+      "Reduced Iron",
+      "Thiamine Mononitrate",
+      "Riboflavin",
+      "Folic Acid)",
+      "Wheat Gluten",
+      "Vegetable Shortening [Interesterified and Hydrogenated Soybean Oils)",
+      "Wheat Gluten Isolate",
+      "Contains 2% or Less of: Salt",
+      "Baking Soda",
+      "Sodium Acid Pyrophosphate",
+      "Cellulose Gum",
+      "Distilled Monoglycerides",
+      "Natural Flavor",
+      "Sucralose",
+      "Fumaric Acid",
+      "and Calcium Propionate and Sorbic Acid [to Maintain Freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/9479/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rich Taramasalata",
+    "marca": "By Sainsbury's",
+    "ean": "01539615",
+    "ingredientes": [
+      "Water",
+      "Atlantic Cod Roe (Gadus morhua) (Fish) (9%)",
+      "Breadcrumbs (Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Water",
+      "Salt",
+      "Yeast)",
+      "Onion",
+      "Concentrated Lemon Juice (1.5%)",
+      "Salt",
+      "Granulated Sugar",
+      "Beetroot Concentrate",
+      "Acidity Regulator: Citric Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/9615/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Tzatziki",
+    "marca": "By Sainsbury's",
+    "ean": "01539622",
+    "ingredientes": [
+      "Greek Style Yogurt (74%) (Cows' Milk)",
+      "Cucumber (20%)",
+      "Rapeseed Oil",
+      "Cornflour",
+      "Mint",
+      "Garlic Purée",
+      "Salt. Allergy advice: For allergens",
+      "see ingredients in bold."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/153/9622/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pineapple",
+    "marca": "Sainsbury's",
+    "ean": "01541649",
+    "ingredientes": [
+      "Pineapple."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/154/1649/front_en.38.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fizzy Strawberry Straws",
+    "marca": "By sainsbury's, Sainsburys",
+    "ean": "01542288",
+    "ingredientes": [
+      "Sugar",
+      "Glucose-Fructose Syrup",
+      "Wheat Flour",
+      "Dextrin (Wheat)",
+      "Acids: Malic Acid",
+      "Citric Acid",
+      "Dextrose",
+      "Palm Oil",
+      "Flavouring",
+      "Fruit and Vegetable Concentrates (Apple",
+      "Pumpkin",
+      "Radish",
+      "Tomato)",
+      "Concentrated Strawberry Juice",
+      "Concentrated Blackcurrant Juice",
+      "Antioxidants: Tocopherol-Rich Extract",
+      "Ascorbic Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/154/2288/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Strawberry Laces",
+    "marca": "Sainsbury's",
+    "ean": "01542295",
+    "ingredientes": [
+      "Glucose-Fructose Syrup",
+      "_Wheat_ Flour",
+      "Sugar",
+      "Dextrose",
+      "Palm Oil",
+      "Acid (Citric Acid)",
+      "Concentrated Strawberry Juice",
+      "Concentrated Blackcurrant Juice",
+      "Fruit and Vegetable Concentrates (Apple",
+      "Pumpkin",
+      "Radish",
+      "Tomato)",
+      "Glazing Agent (White Beeswax)",
+      "Flavouring",
+      "Antioxidants (Tocopherol-Rich Extract",
+      "Ascorbic Acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/154/2295/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tomato Ketchup",
+    "marca": "Del Monte",
+    "ean": "01544716",
+    "ingredientes": [
+      "Tomato concentrate",
+      "high fructose corn syrup and corn syrup",
+      "distilled vinegar",
+      "salt",
+      "natural flavor",
+      "onion powder",
+      "spice",
+      "garlic powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "sauce barbecue",
+    "marca": "Star",
+    "ean": "0154484003696",
+    "ingredientes": [
+      "Eau",
+      "suicre",
+      "sirop de glucose",
+      "vinaigre de table",
+      "concentre de tomate",
+      "épaississant : amidon modifié",
+      "sel",
+      "moutarde (Eau",
+      "graines de moutarde",
+      "vinaigre de table",
+      "sel",
+      "huile de soja",
+      "stabilisat: E413",
+      "conservateur : E224 et antioxydant : E330)",
+      "colorant: caramer",
+      "arôme de fumée et conservateurs (E202",
+      "E211)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/015/448/400/3696/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Morocco"
+  },
+  {
+    "nombre": "Sainsbury Brunswick ham",
+    "marca": "Sainsbury's",
+    "ean": "01546026",
+    "ingredientes": [
+      "pork",
+      "salt",
+      "antioxidant: sodium erythorbate",
+      "preservative: sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "fat free natural yoghurt",
+    "marca": "By Sainsbury's",
+    "ean": "01547146",
+    "ingredientes": [
+      "Fat Free Natural Yogurt (_Cows' Milk_)",
+      "Live bacteria (Bifidobacterium species",
+      "Lactobacillus bulgaricus",
+      "Streptococcus thermophilus)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/154/7146/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Taste The Difference Multiseed Half Bloomer",
+    "marca": "Sainsbury Taste the Difference",
+    "ean": "01547818",
+    "ingredientes": [
+      "Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Water",
+      "Rye Flour",
+      "Sunflower Seeds (5.0%)",
+      "Millet Seeds (4.5%)",
+      "Brown Linseed (4.5%)",
+      "Pearl Barley (3.5%)",
+      "Yeast",
+      "Invert Sugar Syrup",
+      "Oat Flour (1.5%)",
+      "Malted Wheat Flakes",
+      "Salt",
+      "Pumpkin Seeds (1.0%)",
+      "Rapeseed Oil",
+      "Poppy Seed (0.5%)",
+      "Soya Flour",
+      "Fermented Wheat Flour",
+      "Malted Barley Flour",
+      "Malted Wheat",
+      "Malted Wheat Flour",
+      "Flour Treatment Agent: Ascorbic Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dessert de pommes et poires",
+    "marca": "Andros",
+    "ean": "01548679",
+    "ingredientes": [
+      "Pommes 62%",
+      "poires 27 %",
+      "Sucre",
+      "antioxydant: acide ascorbique. ge KOe ****"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/154/8679/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Greece"
+  },
+  {
+    "nombre": "Unsweetened Soya",
+    "marca": "Sainsbury's",
+    "ean": "01550368",
+    "ingredientes": [
+      "Water",
+      "Hulled _Soya_ Beans (7%)",
+      "Tri-Calcium Phosphate",
+      "Maltodextrin",
+      "Flavouring",
+      "Stabiliser (Gellan Gum)",
+      "Vitamin B12",
+      "Vitamin D2",
+      "Riboflavin (B2)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/155/0368/front_en.40.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sweetened Soya Milk",
+    "marca": "By Sainsbury's",
+    "ean": "01550412",
+    "ingredientes": [
+      "Water",
+      "hulled soya bean (7%)",
+      "apple extract (3%)",
+      "tri-calcium phosphate",
+      "maltodextrin",
+      "sea salt",
+      "stabiliser: gellan gum",
+      "vitamin b12",
+      "vitamin d2",
+      "riboflavin (b2)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/155/0412/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chorizo Gusto del sol",
+    "marca": "Migros",
+    "ean": "01551273",
+    "ingredientes": [
+      "viande de porc (suisse)",
+      "lard (suisse)",
+      "şel nitrité pour saumure (sel de cuisine",
+      "conservateur: nitrite de sodium). mélange d'épices",
+      "piment de cayenne",
+      "glucose",
+      "antioxydant: ascorbate de sodium",
+      "colorant: extrait de paprika",
+      "cultures de fermentation",
+      "enveloppe: boyau de boeuf."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Reduced Sodium Salt",
+    "marca": "By sainsbury's",
+    "ean": "01551365",
+    "ingredientes": [
+      "Potassium Chloride (66%)",
+      "Salt (33%)",
+      "Anti-Caking Agents: Magnesium Carbonate",
+      "Sodium Ferrocyanide",
+      "Potassium Ferrocyanide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/155/1365/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Lowfat Yogurt With Blueberry",
+    "marca": "Kreher's Farm Fresh Eggs  Llc",
+    "ean": "01552157",
+    "ingredientes": [
+      "Lowfat yogurt (cultured pasteurized grade a reduced fat milk",
+      "sugar",
+      "milk protein concentrate",
+      "whey protein concentrate",
+      "corn starch",
+      "kosher gelatin)",
+      "blueberry preparation (blueberries",
+      "sugar",
+      "water",
+      "locust bean gum",
+      "citric acid",
+      "pectin",
+      "guar gum",
+      "concentrated hibiscus and carrot juice (for color)",
+      "natural flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

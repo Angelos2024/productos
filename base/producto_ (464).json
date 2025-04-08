@@ -1,0 +1,6346 @@
+[
+  {
+    "nombre": "Frozen Cauliflower Florets",
+    "marca": "Gordon Choice",
+    "ean": "0093901285607",
+    "ingredientes": [
+      "Cauliflower"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/390/128/5607/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tail-On Tiger Shrimp",
+    "marca": "Gordon Food Service  Inc.",
+    "ean": "0093901561527",
+    "ingredientes": [
+      "Shrimp",
+      "salt",
+      "sodium tripolyphosphate (to retain moisture)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "cheese sticks",
+    "marca": "Gordon Choice",
+    "ean": "0093901670809",
+    "ingredientes": [
+      "low-moisture part skim mozzarella cheese (pasteurized part skim milk",
+      "cheese culture",
+      "salt wyoming",
+      "m09/1019 cultivos de queso",
+      "sal",
+      "enzimas)",
+      "harina de trigo blanqueada",
+      "agua",
+      "aceite vegetal (aceite de soja o cano ingredientes: queso mozzarella de baja humedad parcialmente descremado (leche pasteurizada parciamente a de maiz amarillo. contiene 2 % 0 menos de azul 1",
+      "caseinato de calcio",
+      "dextrosa",
+      "fermentador (profto acio enriquecida blanqueada (harina de trigo",
+      "niacina",
+      "sulfato ferroso",
+      "mononitrato de tiamina",
+      "riboflavina rt.or para su distribuciónkclusna por for distribution excusively by 267080 iron /hierro 1.7mg 10% potassium/potasio 130mg 2 vit. d/vit. d 0.2mcg 0% a una eta diaria. 2"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown Sugar Kettle Beans",
+    "marca": "Hearthstone",
+    "ean": "0093901822475",
+    "ingredientes": [
+      "White beans",
+      "water",
+      "sugar",
+      "brown sugar",
+      "modified food starch",
+      "salt",
+      "bacon (cured with water",
+      "salt",
+      "sugar",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "and sodium nitrate)",
+      "caramel coloring",
+      "liquid smoke",
+      "calcium chloride",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Crackers",
+    "marca": "Marks & Spencer",
+    "ean": "00939065",
+    "ingredientes": [
+      "Potato Starch Gouda Cheese (Milk) (28%) - Maize Flour - Single Cream (Single Cream (Milk) Stabiliser: Carrageenan) Rice Flour Potato Fibre Sugar Cornflour Salt - Emulsifier: E471 Yeast Extract Raising Agent: Sodium Bicarbonate",
+      "E503",
+      "E575 Stabiliser: Xanthan Gum - Ground Paprika."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Potato Starch Gouda Cheese (Milk) (28%) - Maize Flour - Single Cream (Single Cream (Milk) Stabiliser: Carrageenan) Rice Flour Potato Fibre Sugar Cornflour Salt - Emulsifier: E471 Yeast Extract Raising Agent: Sodium Bicarbonate",
+        "razon": "Contiene Potato Starch Gouda Cheese (Milk) (28%) - Maize Flour - Single Cream (Single Cream (Milk) Stabiliser: Carrageenan) Rice Flour Potato Fibre Sugar Cornflour Salt - Emulsifier: E471 Yeast Extract Raising Agent: Sodium Bicarbonate, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9065/front_en.18.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "kosher dill spears",
+    "marca": "Mount Olive",
+    "ean": "00939102",
+    "ingredientes": [
+      "CUCUMBERS",
+      "WATER",
+      "VINEGAR",
+      "SALT",
+      "CALCIUM CHLORIDE 40 servings per container (ARMING AGENT)",
+      "SODIUM BENZOATE gsize 1 oz (28 g/ (PRESERVATIVEL NATURAL FLAVORS",
+      "about 1 spear) POLYSORBATE 80",
+      "AND YELLOW 5. rition Facts per serving ries 0 % Daily Value 0g 60mg bohydrate &lt",
+      "tg 0% 11% 0% GLUTEN FREE REFRIGERATE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9102/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Belgian Triple Chocolate Chunk Cookies",
+    "marca": "Marks & Spencer",
+    "ean": "00939133",
+    "ingredientes": [
+      "Sugar",
+      "Butter (Milk) (15%)",
+      "Rice Flour",
+      "Belgian Dark Chocolate Chunks (14%) (Sugar",
+      "Cocoa Mass",
+      "Cocoa Butter",
+      "Emulsifier: Soya Lecithin",
+      "Vanilla Flavouring)",
+      "Belgian Milk Chocolate Chunks (8%) (Sugar",
+      "Died Whole Milk",
+      "Cocoa Butter",
+      "Cocoa Mass",
+      "Emulsifier: Soya Lecithin",
+      "Vanilla Flavouring)",
+      "Belgian White Chocolate Chunks (7%) (Sugar",
+      "Dried Whole Milk",
+      "Cocoa Butter",
+      "Emulsifier: Soya Lecithin",
+      "Vanilla Flavouring)",
+      "Tapioca Starch",
+      "Corn Starch",
+      "Maize Flour",
+      "Fat Reduced Cocoa Powder",
+      "Golden Syrup",
+      "Raising Agent: Sodium Bicarbonate",
+      "E450",
+      "Salt",
+      "Stabiliser: Xanthan Gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Stem Ginger Snaps",
+    "marca": "M&S",
+    "ean": "00939140",
+    "ingredientes": [
+      "Rice Flour • Butter (Milk) Golden Syrup (Invert Sugar Syrup) • Crystallised Stem Ginger Pieces (16%) (Stem Ginger • Sugar) • Sugar • Buckwheat Flour • Tapioca Starch • Ground Ginger • Raising Agent: Sodium Bicarbonate",
+      "E450 • Stabiliser: Xanthan Gum • Salt • Ground Cloves. For allergens see ingredients in bold. Not suitable for Nut allergy sufferers due to manufacturing methods."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9140/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mulitgrain Slims",
+    "marca": "Trader Joe's",
+    "ean": "00939164",
+    "ingredientes": [
+      "water",
+      "whole wheat flour",
+      "unbleached enriched flour",
+      "wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "brown sugar",
+      "oat fiber",
+      "yeast",
+      "vital wheat gluten",
+      "sugarcane fiber",
+      "cultured wheat flour",
+      "modified wheat starch",
+      "rolled oats",
+      "contains 2% or less of salt",
+      "whole rye",
+      "corn meal",
+      "triticale",
+      "brown rice",
+      "barley",
+      "flax seeds",
+      "millet",
+      "bulgur",
+      "spelt",
+      "amaranth",
+      "buckwheat",
+      "expeller pressed soybean oil",
+      "vegetable mono and diglycerides",
+      "enzymes",
+      "sesame"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9164/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Crackers",
+    "marca": "Trader Giotto's",
+    "ean": "00939218",
+    "ingredientes": [
+      "Unbleached enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "expeller pressed canola oil and extra virgin olive oil",
+      "sea salt and dried rosemary."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Long Lasting Chews",
+    "marca": "Now & Later",
+    "ean": "0093922510719",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "hydrogenated soybean oil",
+      "citric acid",
+      "salt",
+      "soy lecithin",
+      "artificial flavors",
+      "red 40",
+      "blue 1",
+      "blue 2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fully cooked falafel",
+    "marca": "Trader Joe's",
+    "ean": "00939355",
+    "ingredientes": [
+      "garbanzo beans (dry garbanzo beans",
+      "water",
+      "salt)",
+      "onion",
+      "cilantro",
+      "tomato",
+      "parsley",
+      "club soda (carbonated water",
+      "sodium bicarbonate",
+      "sodium citrate",
+      "potassium citrate",
+      "disodium phosphate)",
+      "garlic",
+      "chili peppers (hot peppers",
+      "water",
+      "salt",
+      "citric acid",
+      "acetic acid)",
+      "enriched wheat flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "salt",
+      "curry powder (coriander",
+      "turmeric",
+      "salt",
+      "mustard",
+      "chili pepper)",
+      "coriander",
+      "soybean oil",
+      "contains wheat and soy"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9355/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Castello, Double Creme Blue Rich, Smooth & Creamy Blue Cheese",
+    "marca": "Arla Foods Amba",
+    "ean": "0093936012308",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cream",
+      "salt",
+      "culture",
+      "p. roqueforti",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Double Creme White Cheese",
+    "marca": "Castello",
+    "ean": "0093936012322",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cream",
+      "salt",
+      "culture",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Castello, Double Creme Truffle",
+    "marca": "Arla Foods Amba",
+    "ean": "0093936012346",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cream",
+      "truffle",
+      "salt",
+      "culture",
+      "truffle flavor",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Castello Havarti aged 4",
+    "marca": "Castello",
+    "ean": "0093936013039",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "culture",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/393/601/3039/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Burger Blue Cheese Slices",
+    "marca": "Castello",
+    "ean": "0093936014609",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "lactic acid culture",
+      "microbial rennet",
+      "p. roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sharp & salty burger blue slices, sharp & salty",
+    "marca": "Castello",
+    "ean": "0093936018676",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "lactic acid culture",
+      "microbial rennet",
+      "p. roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream cheese spread",
+    "marca": "Arla",
+    "ean": "0093936035758",
+    "ingredientes": [
+      "Buttermilk*",
+      "cream",
+      "salt",
+      "cheese culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original cream cheese spread",
+    "marca": "Arla",
+    "ean": "0093936035765",
+    "ingredientes": [
+      "Cream",
+      "skim milk",
+      "salt",
+      "cheese culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blueberry cream cheese spread, blueberry",
+    "marca": "Arla",
+    "ean": "0093936035772",
+    "ingredientes": [
+      "Buttermilk",
+      "cream",
+      "sugar",
+      "blueberry",
+      "water",
+      "salt",
+      "cornstarch",
+      "blackcurrant juice concentrate",
+      "natural flavoring",
+      "cheese culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Herbs & spices",
+    "marca": "Arla",
+    "ean": "0093936035789",
+    "ingredientes": [
+      "Cream",
+      "skim milk",
+      "buttermilk",
+      "salt",
+      "granulated onions",
+      "paprika",
+      "citric acid",
+      "dill",
+      "natural garlic flavor",
+      "cheese culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream Cheese Spread",
+    "marca": "Arla Foods Amba",
+    "ean": "0093936035796",
+    "ingredientes": [
+      "Buttermilk",
+      "cream",
+      "salt",
+      "pink peppercorn",
+      "black pepper",
+      "cheese culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Danish Blue Cheese",
+    "marca": "Castello",
+    "ean": "0093936405940",
+    "ingredientes": [
+      "Milk",
+      "salt",
+      "cheese culture",
+      "rennet",
+      "p. roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Danish blue extra creamy cheese, danish blue extra creamy",
+    "marca": "Castello",
+    "ean": "0093936503394",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "cheese culture",
+      "microbial rennet",
+      "p. roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Danish Blue Cheese",
+    "marca": "Castello",
+    "ean": "0093936503400",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "cheese culture",
+      "microbial rennet",
+      "p.roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/393/650/3400/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fromage Camembert Danois 50%",
+    "marca": "Bonny Dane",
+    "ean": "0093936521305",
+    "ingredientes": [
+      "_leche_",
+      "sal",
+      "cultivos lacticos",
+      "cuajo penicilium camemberti"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/393/652/1305/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Havarti creamy cheese",
+    "marca": "Castello",
+    "ean": "0093936680019",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "culture",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/393/668/0019/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Havarti Dill Cheese",
+    "marca": "Castello",
+    "ean": "0093936680026",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "dill",
+      "culture",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/393/668/0026/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Cheese Spread",
+    "marca": "Arla Foods Amba",
+    "ean": "0093936731070",
+    "ingredientes": [
+      "Pasteurized milk",
+      "palm oil",
+      "trisodium phosphate",
+      "salt",
+      "lactic acid culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/393/673/1070/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lurpak, imported slightly salted butter",
+    "marca": "Lurpak",
+    "ean": "0093936851365",
+    "ingredientes": [
+      "Cream",
+      "culture",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lurpak, unsalted imported butter, unsalted",
+    "marca": "Arla Foods Amba",
+    "ean": "0093936854366",
+    "ingredientes": [
+      "Cream",
+      "culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Moutarde and dill sauce",
+    "marca": "Marks And Spencer",
+    "ean": "00939423",
+    "ingredientes": [
+      "Huile de colza • Sucre • Eau • Moutarde de (Eau • Graines de moutarde noire • Vinaigre • Vinaigre de vin blanc • Jaune d'œufs de poules élevées en plein air pasteurisés • Aneth (3%) • Fécule de maïs • Moutarde à l'anglaise (Eau",
+      "Farine de moutarde • Sel • Sucre • Farine de blé (contient Gluten)",
+      "Correcteur d'acidité : Acide citrique • Curcuma moulu)",
+      "Jus de citron concentré",
+      "Sel • Sucre roux • Conservateur : E202. Huile  d'aneth • Colorant : Curcumine • Correcteur d'acidité : Acide citrique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9423/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brussels Sprouts",
+    "marca": "Trader Joe's",
+    "ean": "00939454",
+    "ingredientes": [
+      "Brussels Sprouts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9454/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Natural mountain spring water",
+    "marca": "Trader Joe's",
+    "ean": "00939546",
+    "ingredientes": [
+      "Spring water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9546/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramel & toffee gelato truffle on a stick, sea salt",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959517200",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "sugar",
+      "chocolate coating (sugar",
+      "coconut oil",
+      "cocoa chocolate",
+      "soy lecithin (an emulsifier)",
+      "vanilla",
+      "salt)",
+      "corn syrup",
+      "non fat dry milk",
+      "toffee (sugar",
+      "butter",
+      "pecans",
+      "powdered sugar",
+      "soy lecithin",
+      "baking soda",
+      "milk",
+      "chocolate (sugar",
+      "milk",
+      "cocoa butter",
+      "chocolate",
+      "soy lecithin (an emulsifier)",
+      "vanilla)",
+      "dextrose",
+      "lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "vanilla",
+      "natural flavor",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sea salt gelato truffle on a stick, vanilla & caramel",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959517224",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "almonds",
+      "chocolate coating (sugar",
+      "coconut oil",
+      "cocoa chocolate",
+      "soy lecithin (an emulsifier)",
+      "vanilla",
+      "salt) sugar",
+      "corn syrup",
+      "butter",
+      "non fat dry milk",
+      "dextrose",
+      "lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "vanilla",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gelato truffle on a stick, chocolate & praline pecan",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959517231",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "sugar",
+      "praline pecans (pecans",
+      "sugar",
+      "flour",
+      "salt",
+      "butter",
+      "lecithin",
+      "caramel color) chocolate coating sugar",
+      "coconut oil",
+      "cocoa chocolate",
+      "soy lecithin (an emulsifier)",
+      "vanilla",
+      "salt)",
+      "corn syrup",
+      "non fat dry milk",
+      "dextrose",
+      "lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "vanilla"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gelato Truffle",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959517460",
+    "ingredientes": [
+      "Chocolate gelato (milk",
+      "cream",
+      "sugar",
+      "nonfat dry milk",
+      "cocoa (processed with alkali)",
+      "soy lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "vanilla)",
+      "cappuccino gelato (milk",
+      "cream",
+      "sugar",
+      "nonfat dry milk",
+      "cocoa (processed with alkali)",
+      "coffee",
+      "soy lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "natural flavors)",
+      "chocolate coating (sugar",
+      "coconut oil",
+      "cocoa (natural and processed with alkali)",
+      "bitter chocolate",
+      "soy lecithin (an emulsifier)",
+      "vanilla",
+      "salt)",
+      "almonds",
+      "chocolate fudge (sweetened condensed milk (milk",
+      "sugar)",
+      "semi sweet chocolate (sugar",
+      "bitter chocolate",
+      "cocoa",
+      "soy lecithin",
+      "natural flavors)",
+      "butter (cream",
+      "salt)",
+      "vanilla",
+      "sea salt)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Al gelato chicago, gelato, chocolate chip",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959741032",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "sugar",
+      "cocoa processed with alkali",
+      "nonfat dry milk",
+      "coconut oil",
+      "coffee",
+      "butterfat",
+      "soy lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "natural flavors",
+      "vanilla"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Handmade Gelato",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959742114",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "sugar",
+      "red raspberries",
+      "nonfat dry milk",
+      "coconut oil",
+      "cocoa processed with alkali",
+      "butterfat",
+      "lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "natural flavors",
+      "beet juice for color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gelato",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959745092",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "sugar",
+      "cookie pieces (sugar",
+      "enriched flour (wheat",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "sugar",
+      "vegetable oil (palm oil",
+      "soybean oil)",
+      "cocoa processed with alkali",
+      "cane juice",
+      "vanilla",
+      "corn starch",
+      "sodium bicarbonate",
+      "salt",
+      "soy lecithin and emulsifier",
+      "coconut oil",
+      "cocoa processed with alkali",
+      "cocoa",
+      "soy lecithin",
+      "natural flavors",
+      "milk)",
+      "nonfat dry milk",
+      "soy lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "vanilla"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ice cream, pacific mango",
+    "marca": "Al Gelato Chicago",
+    "ean": "0093959746129",
+    "ingredientes": [
+      "Milk",
+      "cream",
+      "mango",
+      "sugar",
+      "nonfat dry milk",
+      "soy lecithin",
+      "guar gum",
+      "xanthan gum",
+      "carrageenan",
+      "natural flavors",
+      "annatto and turmeric extract [for color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby Swiss Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093965000528",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "calcium chloride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream cheese spread",
+    "marca": "Organic Valley",
+    "ean": "0093966000108",
+    "ingredientes": [
+      "organic pasteurized milk and cream",
+      "organic whey",
+      "cheese culture",
+      "salt",
+      "organic locust bean gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0108/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Neufchatel Cheese Spread",
+    "marca": "Organic Valley",
+    "ean": "0093966000115",
+    "ingredientes": [
+      "Organic pasteurized milk and cream",
+      "organic whey",
+      "cheese culture",
+      "salt",
+      "organic locust bean gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000146",
+    "ingredientes": [
+      "Organic grade a milk",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0146/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic lowfat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000153",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic 2% reduced fat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000160",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic 0% fat free milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000177",
+    "ingredientes": [
+      "Organic grade a fat free milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced Fat Milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000214",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000221",
+    "ingredientes": [
+      "Organic grade a fat free milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pasture-Raised Heavy Whipping Cream",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000283",
+    "ingredientes": [
+      "organic grade a cream (milk)",
+      "gellan gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0283/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced fat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000290",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "gellan gum",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced fat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000306",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "gellan gum",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat milk",
+    "marca": "Organic Valley",
+    "ean": "0093966000320",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Half & half",
+    "marca": "Cooperative Regions Of Organic Producer Pools, Organic Valley",
+    "ean": "0093966000337",
+    "ingredientes": [
+      "Organic grade a milk",
+      "organic cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0337/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Organic valley, heavy whipping cream",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000344",
+    "ingredientes": [
+      "Organic grade a cream (milk)",
+      "gellan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0344/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic lactose free low fat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000351",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "lactase enzyme",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0351/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lactose free milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000368",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "lactase enzyme",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, baby swiss cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966000528",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "European-style cultured butter",
+    "marca": "Organic Valley",
+    "ean": "0093966000566",
+    "ingredientes": [
+      "Pasteurized organic sweet cream (milk)",
+      "european cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic cultured butter unsalted",
+    "marca": "Organic Valley",
+    "ean": "0093966000580",
+    "ingredientes": [
+      "pasteurized organic sweet cream (milk)",
+      "microbial cultures"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, mild cheddar deli slices cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966000818",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0818/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Hong Kong"
+  },
+  {
+    "nombre": "Organic valley, monterey jack cheese",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000825",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cultured Lowfat Buttermilk organic valley quart",
+    "marca": "Organic Valley",
+    "ean": "0093966000856",
+    "ingredientes": [
+      "Organic cultured lowfat milk",
+      "organic nonfat milk",
+      "salt",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0856/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Muenster Cheese Deli Slices",
+    "marca": "Organic Valley",
+    "ean": "0093966000887",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "organic annatto."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0887/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Provolone Cheese Slices",
+    "marca": "Organic Valley",
+    "ean": "0093966000894",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0894/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Lowfat Milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966000900",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic whole milk",
+    "marca": "Organic Valley",
+    "ean": "0093966000917",
+    "ingredientes": [
+      "Organic grade a milk",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/0917/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic prairie, organic ground beef",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001099",
+    "ingredientes": [
+      "Organic ground beef."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Beef Liver",
+    "marca": "Organic Prairie",
+    "ean": "0093966001105",
+    "ingredientes": [
+      "Organic beef liver"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic hardwood smoked uncured bacon",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001167",
+    "ingredientes": [
+      "Organic pork",
+      "water",
+      "sea salt",
+      "organic honey",
+      "celery juice powder",
+      "organic spices",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic brown & serve pork links",
+    "marca": "Organic Prairie",
+    "ean": "0093966001181",
+    "ingredientes": [
+      "Organic pork",
+      "water",
+      "sea salt",
+      "organic turbinado sugar",
+      "organic spices",
+      "organic rosemary extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, pork breakfast sausage",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001198",
+    "ingredientes": [
+      "Organic pork",
+      "water",
+      "sea salt",
+      "organic spices",
+      "organic cane sugar",
+      "organic rosemary extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic pork italian sausage",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001204",
+    "ingredientes": [
+      "Organic pork",
+      "water",
+      "sea salt",
+      "organic fennel",
+      "organic spices",
+      "organic paprika",
+      "organic cane sugar",
+      "organic granulated garlic",
+      "organic rosemary extract",
+      "organic anise",
+      "natural hog casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic pork bratwurst",
+    "marca": "Organic Prairie",
+    "ean": "0093966001228",
+    "ingredientes": [
+      "Organic pork",
+      "water",
+      "sea salt",
+      "organic cane sugar",
+      "organic spices",
+      "organic onion powder",
+      "organic rosemary extract",
+      "natural hog casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Ground Chicken",
+    "marca": "Organic Prairie",
+    "ean": "0093966001327",
+    "ingredientes": [
+      "Organic ground chicken."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/1327/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic italian chicken sausage",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001334",
+    "ingredientes": [
+      "Organic chicken",
+      "water",
+      "sea salt",
+      "organic fennel",
+      "organic spices",
+      "organic cane sugar",
+      "organic granulated garlic",
+      "organic paprika",
+      "organic rosemary extract",
+      "organic anise."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic hardwood smoked uncured ham",
+    "marca": "Organic Prairie",
+    "ean": "0093966001433",
+    "ingredientes": [
+      "Organic ham",
+      "sea salt",
+      "organic honey",
+      "cultured celery powder",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic roast beef",
+    "marca": "Organic Prairie",
+    "ean": "0093966001488",
+    "ingredientes": [
+      "Organic beef",
+      "water",
+      "sea salt",
+      "organic black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Boneless skinless chicken breast",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001563",
+    "ingredientes": [
+      "Chicken breast with rib meat"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic roast turkey breast",
+    "marca": "Organic Prairie",
+    "ean": "0093966001594",
+    "ingredientes": [
+      "Organic turkey breast",
+      "water",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic ground turkey",
+    "marca": "Organic Prairie",
+    "ean": "0093966001600",
+    "ingredientes": [
+      "Organic ground turkey."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Hardwood Smoked Uncured Pork Bacon",
+    "marca": "Organic Prairie",
+    "ean": "0093966001754",
+    "ingredientes": [
+      "Organic pork",
+      "water",
+      "sea salt",
+      "organic honey",
+      "cultured celery powder",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, pork chops",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001921",
+    "ingredientes": [
+      "Organic pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic country-style boneless pork ribs",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966001938",
+    "ingredientes": [
+      "Organic pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, soy, original",
+    "marca": "Organic Valley",
+    "ean": "0093966002003",
+    "ingredientes": [
+      "Filtered water",
+      "organic whole soybeans",
+      "organic fair trade unrefined cane sugar",
+      "calcium carbonate",
+      "salt",
+      "organic fair trade vanilla flavor",
+      "vitamin a palmitate",
+      "gellan gum",
+      "riboflavin (b2)",
+      "vitamin d2",
+      "vitamin b12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic soy",
+    "marca": "Organic Valley",
+    "ean": "0093966002010",
+    "ingredientes": [
+      "Filtered water",
+      "organic whole soybeans",
+      "organic fair trade unrefined cane sugar",
+      "calcium carbonate",
+      "organic fair trade vanilla flavor",
+      "salt",
+      "vitamin a palmitate",
+      "gellan gum",
+      "riboflavin (b2)",
+      "vitamin d2",
+      "vitamin b12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic soy",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002027",
+    "ingredientes": [
+      "Filtered water",
+      "organic fair trade unrefined cane sugar",
+      "organic whole soybeans",
+      "organic fair trade cocoa (dutch process)",
+      "calcium carbonate",
+      "salt",
+      "vitamin a palmitate",
+      "organic fair trade vanilla flavor",
+      "gellan gum",
+      "riboflavin (b2)",
+      "vitamin d2",
+      "vitamin b12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, lowfat cottage cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966002041",
+    "ingredientes": [
+      "Organic cultured pasteurized skim milk",
+      "organic pasteurized cream",
+      "organic nonfat milk",
+      "salt",
+      "citric acid",
+      "organic guar gum",
+      "organic locust bean gum",
+      "acidophilus and bifidus cultures",
+      "vitamin a palmitate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2041/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rich & Creamy Sour Cream",
+    "marca": "Organic Valley",
+    "ean": "0093966002058",
+    "ingredientes": [
+      "Organic cultured pasteurized nonfat milk",
+      "organic pasteurized cream",
+      "acidophilus and bifidus cultures",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2058/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat sour cream",
+    "marca": "Organic Valley",
+    "ean": "0093966002065",
+    "ingredientes": [
+      "Organic cultured pasteurized nonfat milk",
+      "organic pasteurized cream",
+      "organic rice starch",
+      "acidophilus and bifidus cultures",
+      "vitamin a palmitate",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2065/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blue Cheese Crumbles",
+    "marca": "Organic Valley",
+    "ean": "0093966002119",
+    "ingredientes": [
+      "Organic milk",
+      "cheese cultures",
+      "salt",
+      "vegetarian enzyme",
+      "animal enzyme",
+      "penicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta Cheese Crumbles",
+    "marca": "Organic Valley",
+    "ean": "0093966002126",
+    "ingredientes": [
+      "Organic pasteurized milk",
+      "organic nonfat milk",
+      "salt",
+      "organic potato starch",
+      "cheese culture",
+      "vegetarian enzyme calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stringles, Organic String Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966002140",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2140/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic cheddar cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966002157",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, stringles organic colby jack cheese sticks",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002164",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "organic annatto",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Authentic italian flavor ricotta cheese",
+    "marca": "Organic Valley,  Cropp Cooperative",
+    "ean": "0093966002195",
+    "ingredientes": [
+      "Organic whole milk",
+      "organic skim milk",
+      "organic vinegar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic lactose free milk",
+    "marca": "Organic Valley",
+    "ean": "0093966002201",
+    "ingredientes": [
+      "Organic grade a fat free milk",
+      "lactase enzyme",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Valley Lactose Free 2% Reduced Fat Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966002218",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "lactase enzyme",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2218/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Low-Fat Milk",
+    "marca": "Cooperative Regions Of Organic Producer Pools, Organic Valley",
+    "ean": "0093966002225",
+    "ingredientes": [
+      "lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2225/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, chocolate lowfat milk, chocolate",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002232",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "carrageenan",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic soy",
+    "marca": "Organic Valley",
+    "ean": "0093966002263",
+    "ingredientes": [
+      "Filtered water",
+      "organic whole soybeans",
+      "calcium carbonate",
+      "organic fair trade vanilla flavor",
+      "salt",
+      "vitamin a palmitate",
+      "gellan gum",
+      "riboflavin (b2)",
+      "vitamin d2",
+      "vitamin b12."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Finely Shredded Mexican Blend Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966002270",
+    "ingredientes": [
+      "Organic sharp cheddar cheese (organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes)",
+      "organic colby cheese (organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "organic annatto)",
+      "organic monterey jack cheese (organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes)",
+      "cellulose (added to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2270/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Parmesan Cheese Shredded",
+    "marca": "Organic Valley",
+    "ean": "0093966002287",
+    "ingredientes": [
+      "Organic pasteurized cultured part skim cows' milk",
+      "salt",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Heavy Cream",
+    "marca": "CROPP Cooperative",
+    "ean": "0093966002317",
+    "ingredientes": [
+      "Organic grade a cream (milk)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic 1% milkfat lowfat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002324",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat milk",
+    "marca": "Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002331",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "carrageenan",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby Swiss Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966002614",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/2614/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic 1% Lowfat Milk",
+    "marca": "Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002638",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic inulin",
+      "organic strawberry flavour",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic 1% lowfat milk, grade a, vanilla",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002683",
+    "ingredientes": [
+      "Organic grade a low fat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "organic inulin",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Low Fat Milk",
+    "marca": "Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966002690",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "organic inulin",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Half & half",
+    "marca": "Organic Valley",
+    "ean": "0093966003734",
+    "ingredientes": [
+      "Organic grade a milk",
+      "organic cream"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic String Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966003826",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/3826/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheddar cheese",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966003833",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Cheddar Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966003840",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cultured pasture butter",
+    "marca": "Organic Valley",
+    "ean": "0093966003857",
+    "ingredientes": [
+      "Pasteurized organic sweet cream (milk)",
+      "salt",
+      "microbial cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/3857/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Salted Sweet Cream Whipped Butter",
+    "marca": "Organic Valley",
+    "ean": "0093966004038",
+    "ingredientes": [
+      "Organic pasteurized sweet cream",
+      "salt without flowing agents"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vermont Organic Extra Sharp Cheddar Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966004229",
+    "ingredientes": [
+      "Organic pasteurized cultured milk",
+      "salt",
+      "animal rennet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sour Cream",
+    "marca": "Organic Valley",
+    "ean": "0093966004373",
+    "ingredientes": [
+      "Organic cultured pasteurized nonfat milk",
+      "organic pasteurized cream",
+      "acidophilus and bifidus cultures",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/4373/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grated Parmesan Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966004380",
+    "ingredientes": [
+      "Organic pasteurized cultured part skim cows' milk",
+      "cellulose",
+      "salt",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/4380/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966004397",
+    "ingredientes": [
+      "Organic grade a milk",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced fat milk",
+    "marca": "Organic Valley",
+    "ean": "0093966004403",
+    "ingredientes": [
+      "Organic grade a milk",
+      "organic nonfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat milk",
+    "marca": "Organic valley",
+    "ean": "0093966004410",
+    "ingredientes": [
+      "Organic grade a nonfat milk",
+      "organic milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004458",
+    "ingredientes": [
+      "Organic grade a milk",
+      "refined fish oil (sardine",
+      "anchovy)",
+      "fish gelatin (tilapia)",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004465",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "refined fish oil (sardine",
+      "anchovy)",
+      "fish gelatin (tilapia)",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, french vanilla half & half",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004502",
+    "ingredientes": [
+      "Organic grade a milk and cream",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "organic coconut flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hazelnut Half & Half",
+    "marca": "Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004519",
+    "ingredientes": [
+      "Organic grade a milk and cream",
+      "organic fair trade unrefined cane sugar",
+      "organic hazelnut flavor",
+      "organic amaretto flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soy creamer",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004533",
+    "ingredientes": [
+      "Filtered water",
+      "whole organic soybeans",
+      "organic soybean oil (expeller pressed)",
+      "organic fair trade unrefined cane sugar",
+      "organic inulin",
+      "sodium bicarbonate",
+      "organic soy lecithin",
+      "organic fair trade vanilla flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soy creamer",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004540",
+    "ingredientes": [
+      "Filtered water",
+      "whole organic soybeans",
+      "organic fair trade unrefined cane sugar",
+      "organic soybean oil (expeller pressed)",
+      "organic inulin",
+      "organic fair trade vanilla flavor",
+      "sodium bicarbonate",
+      "organic soy lecithin",
+      "organic almond flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, cultured pasture butter",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004557",
+    "ingredientes": [
+      "Pasteurized organic sweet cream (milk)",
+      "salt",
+      "microbial cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic grassmilk",
+    "marca": "Organic Valley",
+    "ean": "0093966004731",
+    "ingredientes": [
+      "Organic non-homogenized grade a milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic 2% reduced fat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966004748",
+    "ingredientes": [
+      "Organic non-homogenized grade a reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic fat free grassmilk",
+    "marca": "Organic Valley",
+    "ean": "0093966004755",
+    "ingredientes": [
+      "Organic non-homogenized grade a nonfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic American Singles Colby-Style Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966004861",
+    "ingredientes": [
+      "Organic pasteurized cultured milk",
+      "salt",
+      "organic annatto",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/4861/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grassmilk Organic Raw Cheddar Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966005011",
+    "ingredientes": [
+      "Organic grass-fed cultured unpasteurized milk",
+      "sea salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5011/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, grass milk, organic raw sharp cheddar cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966005042",
+    "ingredientes": [
+      "Organic grass-fed cultured unpasteurized milk",
+      "sea salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5042/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Valley string cheese",
+    "marca": "stringless",
+    "ean": "0093966005103",
+    "ingredientes": [
+      "Organic Cultured Pasteurized Part Skim Milk",
+      "Salt",
+      "Vegetarian Enzyme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5103/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic salted butter, salted",
+    "marca": "Organic Valley",
+    "ean": "0093966005110",
+    "ingredientes": [
+      "Pasteurized organic sweet cream (milk)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic lactose free half & half",
+    "marca": "Organic Valley",
+    "ean": "0093966005127",
+    "ingredientes": [
+      "Organic grade a milk",
+      "organic cream",
+      "lactase enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5127/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lactose free whole milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005134",
+    "ingredientes": [
+      "Organic grade a milk",
+      "lactase enzyme",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5134/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla bean milk protein shake",
+    "marca": "Organic Valley",
+    "ean": "0093966005295",
+    "ingredientes": [
+      "Organic grade a filtered skim milk",
+      "organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic grade a cream",
+      "organic fair trade vanilla bean flavor",
+      "lactase enzyme",
+      "gellan gum",
+      "organic stevia",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark chocolate milk protein shake",
+    "marca": "Organic Valley",
+    "ean": "0093966005301",
+    "ingredientes": [
+      "Organic filtered grade a skim milk",
+      "organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic grade a cream",
+      "organic fair trade dutch cocoa",
+      "lactase enzyme",
+      "organic dark chocolate flavor",
+      "gellan gum",
+      "organic stevia",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic fuel, high protein milk shake, vanilla",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005318",
+    "ingredientes": [
+      "Organic filtered skim milk",
+      "water",
+      "organic fair trade unrefined cane sugar",
+      "organic cream",
+      "organic fair trade vanilla flavor",
+      "lactase enzyme",
+      "gellan gum",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Soy Creamer",
+    "marca": "Organic Valley",
+    "ean": "0093966005332",
+    "ingredientes": [
+      "Filtered water",
+      "whole organic soybeans",
+      "organic soybean oil (expeller pressed)",
+      "organic fair trade unrefined cane sugar",
+      "organic inulin",
+      "sodium bicarbonate",
+      "organic soy lecithin",
+      "organic fair trade vanilla flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk protein shake",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005370",
+    "ingredientes": [
+      "Organic grade a filtered skim milk",
+      "organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic grade a cream",
+      "organic fair trade vanilla bean flavor",
+      "lactase enzyme",
+      "gellan gum",
+      "organic stevia",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk protein shake",
+    "marca": "Organic Valley",
+    "ean": "0093966005387",
+    "ingredientes": [
+      "Organic filtered grade a skim milk",
+      "organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic grade a cream",
+      "organic fair trade dutch cocoa",
+      "lactase enzyme",
+      "organic dark chocolate flavor",
+      "gellan gum",
+      "organic stevia",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "High protein milk shake, chocolate",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005400",
+    "ingredientes": [
+      "Organic filtered skim milk",
+      "water",
+      "organic fair trade unrefined cane sugar",
+      "organic cream",
+      "organic fair trade dutch cocoa",
+      "organic chocolate extract",
+      "lactase enzyme",
+      "gellan gum",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Good to go, 1% lowfat milk, chocolate",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005417",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "organic fair trade vanilla flavor",
+      "gellan gum",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic good to go, low fat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005424",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sharp Cheddar Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966005431",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "cellulose (added to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5431/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grassmilk whole milk yogurt plain",
+    "marca": "Organic Valley",
+    "ean": "0093966005585",
+    "ingredientes": [
+      "Whole organic cultured pasteurized grade a milk",
+      "organic nonfat milk",
+      "live active cultures (l. acidophilus",
+      "bifidus",
+      "l. casei)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vanilla whole milk yogurt",
+    "marca": "Organic Valley",
+    "ean": "0093966005592",
+    "ingredientes": [
+      "Whole organic cultured pasteurized grade a milk",
+      "organic nonfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "live active cultures (l. acidophilus",
+      "bifidus",
+      "l. casei)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepper jack cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966005622",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "organic jalapeno peppers",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Snack sticks",
+    "marca": "Organic Valley",
+    "ean": "0093966005639",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic whole milk",
+    "marca": "Organic Valley",
+    "ean": "0093966005653",
+    "ingredientes": [
+      "organic grade a milk",
+      "vitamin d3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966005660",
+    "ingredientes": [
+      "organic grade a milk",
+      "vitamin d3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic lowfat milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005677",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat milk",
+    "marca": "Organic Valley",
+    "ean": "0093966005684",
+    "ingredientes": [
+      "Organic grade a milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic 1% lowfat milk, chocolate",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005707",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "gellan gum",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5707/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat milk",
+    "marca": "Organic Valley",
+    "ean": "0093966005714",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade dutch cocoa",
+      "salt",
+      "gellan gum",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, ultra pasteurized grade a half & half cream, hazelnut",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005813",
+    "ingredientes": [
+      "Organic grade a milk and cream",
+      "organic fair trade unrefined cane sugar",
+      "organic hazelnut flavor",
+      "organic amaretto flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic half & half cream",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005820",
+    "ingredientes": [
+      "Organic grade a milk and cream",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "organic coconut flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic whole milk",
+    "marca": "Organic Valley",
+    "ean": "0093966005851",
+    "ingredientes": [
+      "Organic homogenized grade a milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced fat milk",
+    "marca": "Organic Valley",
+    "ean": "0093966005868",
+    "ingredientes": [
+      "Organic homogenized reduced fat grade a milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/5868/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, grassmilk, plain whole milk yogurt",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005936",
+    "ingredientes": [
+      "Whole organic cultured pasteurized grade a milk",
+      "organic nonfat milk",
+      "live active cultures (l.acidophilus",
+      "bifidus",
+      "l.casei)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, grassmilk, whole milk yogurt, vanilla",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005943",
+    "ingredientes": [
+      "Whole organic cultured pasteurized grade a milk",
+      "organic nonfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "live active cultures (l.acidophilus",
+      "bifidus",
+      "l.casei)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, grassmilk whole milk yogurt, wild blueberry",
+    "marca": "Organic Valley",
+    "ean": "0093966005950",
+    "ingredientes": [
+      "Whole organic cultured pasteurized grade a milk",
+      "organic cane sugar",
+      "organic wild blueberries",
+      "organic nonfat milk",
+      "water",
+      "organic natural flavor",
+      "pectin",
+      "citric acid",
+      "live active cultures (l. acidophilus",
+      "bifidus",
+      "l. casei)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, grassmilk, whole milk yogurt, strawberry",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966005967",
+    "ingredientes": [
+      "Whole organic cultured pasteurized grade a milk",
+      "organic strawberry puree (organic strawberries",
+      "water",
+      "organic sugar",
+      "organic strawberry flavor",
+      "pectin",
+      "organic lemon juice concentrate)",
+      "organic nonfat milk",
+      "organic fair trade unrefined cane sugar",
+      "organic fair trade vanilla flavor",
+      "live active cultures (l. acidophilus",
+      "bifidus",
+      "l. casei)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, mild cheddar cheese",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966006018",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, sharp cheddar cheese",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966006025",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grassmilk organic half & half",
+    "marca": "Organic Valley",
+    "ean": "0093966006896",
+    "ingredientes": [
+      "Milk",
+      "Cream."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/6896/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole ultra-filtered organic milk",
+    "marca": "Organic Valley",
+    "ean": "0093966007152",
+    "ingredientes": [
+      "Organic ultra-filtered grade a skim milk",
+      "organic grade a cream",
+      "lactase enzyme",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ultra 2% reduced fat ultra filtered organic milk",
+    "marca": "Organic Valley",
+    "ean": "0093966007176",
+    "ingredientes": [
+      "Organic ultra-filtered grade a skim milk",
+      "organic grade a cream",
+      "lactase enzyme",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/7176/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Whole Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966007428",
+    "ingredientes": [
+      "Organic Grade A Milk",
+      "Vitamin D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/7428/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966007435",
+    "ingredientes": [
+      "Organic Grade A Reduced Fat Milk",
+      "Vitamin A Palmitate",
+      "Vitamin D3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/7435/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "3 Cheese Mexican shredded cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966007565",
+    "ingredientes": [
+      "Organic Cheddar Cheese",
+      "Organic Colby Cheese",
+      "Organic Annatto",
+      "Organic Monterey Jack Cheese",
+      "Cellulose"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/7565/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic 1% Lowfat Chocolate Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966008272",
+    "ingredientes": [
+      "Organic Grade A Lowfat Milk",
+      "Organic Unrefined Cane Sugar",
+      "Organic Cocoa",
+      "Organic Natural Flavor",
+      "Salt",
+      "Gellan Gum",
+      "Vitamin A Palmitate",
+      "Vitamin D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/8272/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "American",
+    "marca": "Organic Valley",
+    "ean": "0093966008449",
+    "ingredientes": [
+      "Organic Cultured Milk",
+      "Water",
+      "Organic Butter (organic pasteurized sweet cream",
+      "salt)",
+      "Sodium Citrate",
+      "Salt",
+      "Organic Annatto (color)",
+      "Vegetarian Enzyme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/8449/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "American Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966008456",
+    "ingredientes": [
+      "Organic Cultured Milk",
+      "Water",
+      "Organic Butter(organic pasteurized sweet cream",
+      "salt) sodium citrate",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/8456/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "French Vanilla Creamer",
+    "marca": "Organic Valley",
+    "ean": "0093966008692",
+    "ingredientes": [
+      "organic grade A milk",
+      "organic grade A cream",
+      "organic unrefined cane sugar",
+      "organic natural flavor",
+      "lactase enzyme",
+      "gellan gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/8692/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grass fed milk",
+    "marca": "Organic Valley",
+    "ean": "0093966009071",
+    "ingredientes": [
+      "organic grade a reduced fat milk",
+      "organic grade a fat free milk",
+      "vitamin a palmitate",
+      "vitamin d3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/9071/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stringles Organic String Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966009545",
+    "ingredientes": [
+      "Organic Cultured Pasteurized Part-Skim Milk",
+      "Salt",
+      "Vegetarian Enzyme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/9545/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Eggnog Reduced Fat",
+    "marca": "Organic Valley",
+    "ean": "0093966009613",
+    "ingredientes": [
+      "Organic Grade A Milk",
+      "Organic Unrefined Cane Sugar",
+      "Organic Cream",
+      "Organic Egg Yolks",
+      "Organic Fat Free Milk",
+      "Organic Natural Flavor",
+      "Organic Nutmeg",
+      "Gellan Gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/9613/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grassmilk Organic Whole Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966009989",
+    "ingredientes": [
+      "Organic Grade A Milk",
+      "Vitamin D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/600/9989/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "DHA Omega-3 2% Reduced Fat Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966010015",
+    "ingredientes": [
+      "Organic Grade A Reduced Fat Milk",
+      "DHA Algal Oil",
+      "Ascorbic Acid",
+      "Mixed Tocopherols",
+      "Vitamin A Palmitate",
+      "Vitamin D3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/601/0015/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Herb Mozzarella",
+    "marca": "Organic Valley",
+    "ean": "0093966010121",
+    "ingredientes": [
+      "Organic Cultured Pasteurized Part-Skim Milk",
+      "Salt",
+      "Organic Italian Seasoning (Organic Basil",
+      "Organic Garlic",
+      "Organic Oregano",
+      "Organic Marjoram",
+      "Organic Sage)",
+      "Cellulose",
+      "Vegetarian Enzyme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spicy Cheddar",
+    "marca": "Organic Valley",
+    "ean": "0093966010138",
+    "ingredientes": [
+      "Organic Cultured Pasteurized Milk",
+      "Salt",
+      "Organic Paprika Powder",
+      "Cellulose (added to prevent caking)",
+      "Organic Habanero Powder",
+      "Vegetarian Enzyme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "French Vanilla Creamer",
+    "marca": "Organic Valley",
+    "ean": "0093966010404",
+    "ingredientes": [
+      "Organic Grade A Milk",
+      "Organic Grade A Cream",
+      "Organic Unrefined Cane Sugar",
+      "Organic Natural Flavor",
+      "Lactase Enzyme",
+      "Gellan Gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/601/0404/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamer - Lactose Free",
+    "marca": "Organic Valley",
+    "ean": "0093966010411",
+    "ingredientes": [
+      "Organic Grade A Milk",
+      "Organic Grade A Cream",
+      "Organic Unrefined Cane Sugar",
+      "Lactase Enzyme",
+      "Gellan Gum",
+      "Organic Natural Flavor. Contains Milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramel Oat Creamer",
+    "marca": "Organic Valley",
+    "ean": "0093966010534",
+    "ingredientes": [
+      "Water",
+      "Organic Oats",
+      "Organic Cane Sugar",
+      "Organic Low Erucic Acid Rapeseed Oil",
+      "Organic Natural Flavor",
+      "Salt",
+      "Sodium Bicarbonate",
+      "Gellan Gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/601/0534/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raw Mild Cheddar Cheese",
+    "marca": "Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966112105",
+    "ingredientes": [
+      "Mild cheddar",
+      "unpasteurized ingredients: organic cultured unpasteurized milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raw Cheddar Cheese, Mild, Rich & Creamy",
+    "marca": "Organic Valley",
+    "ean": "0093966113105",
+    "ingredientes": [
+      "Organic cultured unpasteurized milk",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/611/3105/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raw Sharp Cheddar Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966113204",
+    "ingredientes": [
+      "Organic cultured unpasteurized milk",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raw Jack Style Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966113303",
+    "ingredientes": [
+      "Organic cultured unpasteurized milk",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/611/3303/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cultured butter",
+    "marca": "Organic Valley",
+    "ean": "0093966130003",
+    "ingredientes": [
+      "pasteurized organic sweet cream (milk)",
+      "microbial cultures"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/613/0003/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cream Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966211016",
+    "ingredientes": [
+      "organic pasteurized milk and organic cream",
+      "cheese culture",
+      "salt",
+      "organic locust bean gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/621/1016/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Feta Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213010",
+    "ingredientes": [
+      "Organic pasteurized milk and nonfat milk",
+      "salt",
+      "cheese culture",
+      "vegetarian enzymes",
+      "cac"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/621/3010/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, cheddar cheese, mild",
+    "marca": "Organic Valley",
+    "ean": "0093966213102",
+    "ingredientes": [
+      "Organic pasteurized cultured milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sharp cheddar cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213201",
+    "ingredientes": [
+      "Organic pasteurized cultured milk",
+      "salt",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, monterey jack cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213300",
+    "ingredientes": [
+      "Organic pasteurized cultured milk",
+      "salt",
+      "vegetarian enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Colby Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213409",
+    "ingredientes": [
+      "Organic pasteurized cultured milk",
+      "salt",
+      "organic annatto",
+      "vegetarian enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/621/3409/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, muenster cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213508",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "organic annato."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepper Jack Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213607",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "organic jalapeno peppers",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/621/3607/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, provolone cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966213904",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "vegetarian enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Neufchatel Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966221015",
+    "ingredientes": [
+      "Organic pasteurized milk and organic cream",
+      "cheese culture",
+      "salt",
+      "organic locust bean gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/622/1015/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic mild cheddar cheese",
+    "marca": "Organic Valley,  Organic Valley Family Of Farms",
+    "ean": "0093966243109",
+    "ingredientes": [
+      "Organic pasteurized cultured whole and skim milk",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mozzarella Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966253702",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "vegetarian enzyme",
+      "calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/625/3702/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic smoked turkey breast",
+    "marca": "Organic Prairie",
+    "ean": "0093966302509",
+    "ingredientes": [
+      "Organic turkey breast",
+      "water",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic uncured pepperoni",
+    "marca": "Organic Prairie",
+    "ean": "0093966302929",
+    "ingredientes": [
+      "Organic pork and organic beef",
+      "sea salt",
+      "organic cane sugar",
+      "organic spices",
+      "organic paprika",
+      "celery juice powder",
+      "organic rosemary extract",
+      "organic garlic powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, beef jerky, medium smoky chipotle",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966302936",
+    "ingredientes": [
+      "Organic beef",
+      "sea salt",
+      "organic sucanat",
+      "organic spices",
+      "celery juice powder",
+      "organic cane sugar",
+      "organic garlic powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Hardwood Smoked Uncured Turkey Bacon",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966302950",
+    "ingredientes": [
+      "Organic dark turkey meat",
+      "water",
+      "sea salt",
+      "organic honey",
+      "celery juice powder",
+      "lactic acid starter culture",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic roast chicken breast",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966302967",
+    "ingredientes": [
+      "Organic chicken",
+      "water",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Hardwood Smoked Uncured Turkey Bacon",
+    "marca": "Organic Prairie",
+    "ean": "0093966303018",
+    "ingredientes": [
+      "Organic turkey meat",
+      "water",
+      "sea salt",
+      "organic honey",
+      "cultured celery powder",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, uncured beef summer sausage",
+    "marca": "Organic Prairie",
+    "ean": "0093966303292",
+    "ingredientes": [
+      "Organic beef",
+      "sea salt",
+      "organic dextrose (from tapioca)",
+      "organic spices",
+      "celery powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pork loin roast",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966304794",
+    "ingredientes": [
+      "Organic pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic country-style boneless pork ribs",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966304800",
+    "ingredientes": [
+      "Organic pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Pork Tenderloin",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966304817",
+    "ingredientes": [
+      "Organic pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic center cut boneless pork chops",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966304824",
+    "ingredientes": [
+      "Organic pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Boneless skinless turkey breast",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966305265",
+    "ingredientes": [
+      "Turkey breast"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic uncured beef hot dogs",
+    "marca": "Organic Prairie",
+    "ean": "0093966306651",
+    "ingredientes": [
+      "Organic beef",
+      "water",
+      "sea salt",
+      "organic evaporated cane syrup",
+      "cultured celery powder",
+      "organic spices",
+      "organic onion powder",
+      "organic garlic powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, uncured beef summer sausage",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307146",
+    "ingredientes": [
+      "Organic beef",
+      "sea salt",
+      "organic dextrose (from tapioca)",
+      "organic spices",
+      "cultured celery powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic uncured beef summer sausage, roasted garlic",
+    "marca": "Organic Prairie",
+    "ean": "0093966307153",
+    "ingredientes": [
+      "Organic beef",
+      "sea salt",
+      "organic dextrose (from tapioca)",
+      "organic spices",
+      "organic roasted garlic",
+      "celery powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, organic uncured beef summer sausage, jalapeno",
+    "marca": "Organic Prairie",
+    "ean": "0093966307160",
+    "ingredientes": [
+      "Organic beef",
+      "contains 2% or less sea salt",
+      "organic dextrose (from tapioca)",
+      "organic jalapeno flakes",
+      "organic spices",
+      "celery powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Ground Beef Patties",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307337",
+    "ingredientes": [
+      "Usda certified organic grassfed beef."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, turkey breast",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307382",
+    "ingredientes": [
+      "Organic turkey breast."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic prairie, mighty bar",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307856",
+    "ingredientes": [
+      "Organic grassfed beef",
+      "organic dried cranberries",
+      "organic cane sugar",
+      "organic sunflower seeds",
+      "contains 2% or less: sea salt",
+      "organic molasses",
+      "organic spices",
+      "cultured celery powder",
+      "organic garlic powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grassfed organic beef mighty bar",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307863",
+    "ingredientes": [
+      "Organic grassfed beef",
+      "organic honey",
+      "organic uncured bacon* (organic pork",
+      "water",
+      "sea salt",
+      "organic honey",
+      "cultured celery powder",
+      "organic spices)",
+      "organic dried apples",
+      "sea salt",
+      "organic spices",
+      "cultured celery powder",
+      "organic garlic powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mighty bar",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307894",
+    "ingredientes": [
+      "Organic grassfed beef",
+      "organic honey",
+      "organic dried cranberries (organic cranberries",
+      "organic cane sugar)",
+      "organic sunflower seeds",
+      "sea salt",
+      "organic spices",
+      "cultured celery powder",
+      "organic garlic powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grassfed organic beef",
+    "marca": "Organic Prairie,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966307900",
+    "ingredientes": [
+      "Organic grassfed beef",
+      "organic honey",
+      "organic uncured bacon* (organic pork",
+      "water",
+      "sea salt",
+      "organic honey",
+      "cultured celery powder",
+      "organic spices)",
+      "organic dried apples",
+      "sea salt",
+      "organic spices",
+      "cultured celery powder",
+      "organic garlic powder",
+      "lactic acid starter culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salted butter",
+    "marca": "Organic valley",
+    "ean": "0093966330007",
+    "ingredientes": [
+      "Pasteurized organic sweet cream (milk)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/633/0007/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shredded Cheddar Cheese, Mild",
+    "marca": "Organic Valley",
+    "ean": "0093966412109",
+    "ingredientes": [
+      "Organic cultured pasteurized milk",
+      "salt",
+      "vegetarian enzymes",
+      "cellulose (added to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/641/2109/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shredded Mozzarella Cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966452709",
+    "ingredientes": [
+      "Organic cultured pasteurized part skim milk",
+      "salt",
+      "vegetarian enzymes",
+      "cellulose (added to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/645/2709/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, finely shredded italian blend cheese",
+    "marca": "Organic Valley",
+    "ean": "0093966472080",
+    "ingredientes": [
+      "Organic mozzarella cheese (organic cultured pasteurized part skim milk",
+      "salt",
+      "vegetarian enzymes)",
+      "organic provolone cheese (organic cultured pasteurized part skim milk",
+      "salt",
+      "vegetarian enzymes)",
+      "organic romano cheese (organic cultured pasteurized part skim cow's milk",
+      "salt",
+      "animal enzymes",
+      "vegetarian enzymes)",
+      "organic parmesan cheese (organic cultured pasteurized part skim cow's milk",
+      "salt",
+      "vegetarian enzymes)",
+      "cellulose (added to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Milk",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966510157",
+    "ingredientes": [
+      "Organic grade a milk",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Half & half ultra pasteurized",
+    "marca": "Organic Valley,Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966510522",
+    "ingredientes": [
+      "Organic grade a milk",
+      "organic cream."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/651/0522/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Heavy Whipping Cream",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966510621",
+    "ingredientes": [
+      "Organic grade a cream (milk)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/651/0621/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic low fat milk",
+    "marca": "Organic Valley",
+    "ean": "0093966512250",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966512458",
+    "ingredientes": [
+      "Organic grade a fat free milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Milk Vitamin D",
+    "marca": "Cooperative Regions Of Organic Producer Pools, Organic Valley",
+    "ean": "0093966513004",
+    "ingredientes": [
+      "Organic grade a milk",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/651/3004/front_en.30.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "1% Low Fat Milk",
+    "marca": "Organic Valley",
+    "ean": "0093966514001",
+    "ingredientes": [
+      "Organic grade a lowfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/651/4001/front_en.34.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "2% milk fat reduced fat milk",
+    "marca": "Organic Valley, Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966515008",
+    "ingredientes": [
+      "Organic grade a reduced fat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/651/5008/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk free",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966516005",
+    "ingredientes": [
+      "Organic grade a nonfat milk",
+      "vitamin a palmitate",
+      "vitamin d3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/651/6005/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic non-instant grade a nonfat dry milk",
+    "marca": "Organic Valley",
+    "ean": "0093966614107",
+    "ingredientes": [
+      "Organic skim milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Free-range medium eggs",
+    "marca": "Organic Valley",
+    "ean": "0093966811100",
+    "ingredientes": [
+      "Organic medium brown eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1100/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Liquid egg whites",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966811117",
+    "ingredientes": [
+      "Organic egg whites."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1117/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, organic grade a omega-3 extra-large brown eggs",
+    "marca": "Organic Valley",
+    "ean": "0093966811131",
+    "ingredientes": [
+      "Organic extra-large brown eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Free-Range Large Eggs",
+    "marca": "Organic Valley",
+    "ean": "0093966811209",
+    "ingredientes": [
+      "Eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1209/front_en.23.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic free-range extra-large eggs",
+    "marca": "Organic Valley",
+    "ean": "0093966811506",
+    "ingredientes": [
+      "Organic extra-large brown eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Valley Pasture Raised Eggs",
+    "marca": "Organic Valley",
+    "ean": "0093966811636",
+    "ingredientes": [
+      "Eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1636/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, omega-3 organic large brown eggs",
+    "marca": "Organic Valley",
+    "ean": "0093966811803",
+    "ingredientes": [
+      "Organic large brown eggs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sausage & pepper jack egg bites",
+    "marca": "Organic Valley",
+    "ean": "0093966811940",
+    "ingredientes": [
+      "sausage and pepper jack egg bites"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1940/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta & chives egg bitez",
+    "marca": "Organic Valley",
+    "ean": "0093966811957",
+    "ingredientes": [
+      "feta and chives egg bites"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1957/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Egg Bites uncured ham & swiss",
+    "marca": "Organic Valley",
+    "ean": "0093966811971",
+    "ingredientes": [
+      "uncured ham and swiss egg bites"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/396/681/1971/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic valley, green beans",
+    "marca": "Organic Valley,  Cooperative Regions Of Organic Producer Pools",
+    "ean": "0093966906967",
+    "ingredientes": [
+      "Organic green beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Greenwich Black IPA",
+    "marca": "Marks & Spencer",
+    "ean": "00939676",
+    "ingredientes": [
+      "Water",
+      "Malted _Barley_ (contains _Gluten_)",
+      "Yeast",
+      "Hops"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9676/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Happy trekking",
+    "marca": "Trader Joe's",
+    "ean": "00939706",
+    "ingredientes": [
+      "Roasted Almonds (Almonds",
+      "Canola Oil)",
+      "Semi Sweet Chocolate (Unsweetened Chocolate",
+      "Sugar",
+      "Cocoa Butter",
+      "Soy Lecithin [Emulsifier]",
+      "Vanilla Extract)",
+      "Roasted Salted Cashews (Cashews",
+      "Canola Oil",
+      "Salt)",
+      "Dried Cranberries (Cranberries",
+      "Sugar",
+      "Sunflower Oil)",
+      "Dry Roasted Pistachios",
+      "Dried Tart Cherries (Cherries",
+      "Cane Sugar",
+      "Sunflower Oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9706/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sour cream & chice reduced fat",
+    "marca": "Marks & Spencer",
+    "ean": "00939805",
+    "ingredientes": [
+      "potatoes - vegetable oil (rapeseed oil",
+      "sunflower oil) dried smed milk dried whey (milk) dried orons salt - dried milk maltodextrin dried soured cream (milk) acids (citric acid",
+      "lactic acid). sugar flavourings (contains milk). yeast extract - dried garlic dried parsley. flavour enhancer: e508 dried cream (milk) chive extract. • . for allergens see ingredients in bold. suitable for vegetarians 40ge"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9805/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Social Snackers",
+    "marca": "Trader Joe’s",
+    "ean": "00939812",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "SUNFLOWER OIL",
+      "SUGAR",
+      "INVERT SUGAR",
+      "SALT",
+      "SODIUM BICARBONATE",
+      "AMMONIUM BICARBONATE",
+      "NATURAL FLAVOR (SOY)",
+      "MONOCALCIUM PHOSPHATE",
+      "ENZYMES. CONTAINS WHEAT",
+      "SOY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9812/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Country potatoes with haricots verts and wild mushrooms",
+    "marca": "Trader Joe's",
+    "ean": "00939843",
+    "ingredientes": [
+      "Prefried Potatoes (Potato",
+      "Sunflower Oil and/or Palm Oil",
+      "Dextrose [Corn",
+      "Wheat))",
+      "Button Mushrooms",
+      "Green Beans",
+      "Sauce (Sunflower and / or Canola Oil",
+      "Garlic",
+      "Water",
+      "Salt",
+      "Vegetable Juice Concentrate Blend (Carrot",
+      "Onions",
+      "Leek]",
+      "Dextrose|Corn",
+      "Wheat]",
+      "Dehydrated Parsley",
+      "Onion Juice Concentrate [Onions",
+      "Sunflower Oily",
+      "Black Pepper Extract [Salt",
+      "Black Pepper Oleoresin]",
+      "Caramel Color",
+      "Modified Cornstarch",
+      "Paprika Oleoresin (Color)",
+      "Prefried Onions (Onions",
+      "Sunflower Oil)",
+      "Chanterelle - Mushrooms",
+      "Boletus Badius",
+      "Parsley CONTAINS WHEAT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/093/9843/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trader joe's, low fat vanilla yogurt with almonds, vanilla",
+    "marca": "Trader Joe's",
+    "ean": "00939966",
+    "ingredientes": [
+      "Low fat vanilla yogurt (grade a pasteurized reduced fat milk",
+      "vanilla blend [naturally milled cane sugar",
+      "water",
+      "corn starch",
+      "natural flavor]",
+      "inulin(dietary fiber]",
+      "non fat milk",
+      "kosher gelatin",
+      "live and active cultures[s. thermophilus",
+      "l.bulgaricus",
+      "l. acidophilus",
+      "bifidus and l. casei])",
+      "toasted almonds (dry roasted blanched sliced almonds)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stonebaked pizza double cheese & ham",
+    "marca": "M&S",
+    "ean": "00940030",
+    "ingredientes": [
+      "Farine de _blé_ contient _Gluten_ (avec Farine de _blé_",
+      "Carbonate de calcium",
+      "Fer",
+      "Niacine",
+      "Thiamine)",
+      "Eau",
+      "Fromage mozzarella (_Lait_) (12%)",
+      "Jambon fumé d’ origine britannique (11%) (Viande de porc (95%)",
+      "Sels de salaison (Sel",
+      "Conservateur : Nitrite de sodium)",
+      "Sucre",
+      "Eau",
+      "Stabilisant : E451",
+      "Antioxydant : E301)",
+      "Tomates",
+      "Fromage cheddar (_Lait_) (5%)",
+      "Purée de tomate",
+      "Huile de colza",
+      "Sucre",
+      "Levure",
+      "Sel",
+      "Dextrose",
+      "Huile d’olive vierge extra",
+      "Basilic",
+      "Fécule de mais",
+      "Purée d’ail",
+      "Fécule de pomme de terre",
+      "Huile de tournesol."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon fumé d’ origine britannique (11%) (Viande de porc (95%)",
+        "razon": "Contiene Jambon fumé d’ origine britannique (11%) (Viande de porc (95%), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0030/front_fr.20.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic Fresh Banana - Each",
+    "marca": "N/A",
+    "ean": "00940115",
+    "ingredientes": [
+      "Farine de blé (contient Gluten) (avec Farine de blé",
+      "Carbonate de calcium",
+      "Fer",
+      "Niacine",
+      "Thiamine) · Eau · Huile de palme · Sucre Beurre (Lait) (3%) · Dextrose",
+      "Œufs de poules élevées en plein air pasteurisés · Huile de colza · Émulsifiant : E471",
+      "E472e · Lait en poudre écrémé · Levure",
+      "Poudre à lever : E450",
+      "Bicarbonate de soude · Sel · Agent de traitement de la farine : Acide ascorbique.  Pour les allergènes",
+      "voir les ingrédients indiqués en gras.  Ne convient pas aux personnes allergiques aux arachides et aux fruits à coque en raison des méthodes de fabrication."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Œufs de poules élevées en plein air pasteurisés · Huile de colza · Émulsifiant : E471",
+        "razon": "Contiene Œufs de poules élevées en plein air pasteurisés · Huile de colza · Émulsifiant : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e · Lait en poudre écrémé · Levure",
+        "razon": "Contiene E472e · Lait en poudre écrémé · Levure, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seedless raspberries conserve",
+    "marca": "Trader Joe's,  Eazypower Corporation",
+    "ean": "00940207",
+    "ingredientes": [
+      "Sparkling filtered water",
+      "white grape juice concentrate",
+      "clementine juice concentrate",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0207/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Marmelade Citron & Citron Vert",
+    "marca": "Marks & Spencer",
+    "ean": "00940214",
+    "ingredientes": [
+      "Sucre · Jus de citron à base de concentré · Jus de citron vert à base de concentré · Ecorce de citron vert · Correcteur d'acidité : Acide citrique",
+      "E331 · Ecorce de citron · Gélifiant : Pectine · Huile de citron vert · Huile de citron. Préparé avec 30 grammes de fruits pour 100 grammes. Teneur totale en sucres : 66 grammes pour 100 grammes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0214/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Miel Manuka 15+",
+    "marca": "Trader Joe's",
+    "ean": "00940221",
+    "ingredientes": [
+      "carbonated water",
+      "water",
+      "carbon dioxide"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0221/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Strawberry Jam (reduced sugar)",
+    "marca": "Marks & Spencer",
+    "ean": "00940238",
+    "ingredientes": [
+      "Fraises · Sirop de glucose-fructose · Sucre · Eau · Gélifiant: Pectines · Correcteur d'acidité: Acide citrique",
+      "E331 Conservateur : E202. Préparé avec 45 grammes de fruits pour 100 grammes. Teneur totale en sucre : 44 grammes pour 100 grammes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0238/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sparkling Water Lime",
+    "marca": "Trader Joe's",
+    "ean": "00940313",
+    "ingredientes": [
+      "CARBONATED SPRING WATER (SPRING WATER",
+      "CARBON DIOXIDE)",
+      "NATURAL FLAVORS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0313/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian Style Wrap",
+    "marca": "Trader Joe's",
+    "ean": "00940597",
+    "ingredientes": [
+      "WRAP (WHEAT TORTILLA [WHOLE WHEAT FLOUR",
+      "WATER",
+      "CANOLA OIL BASE (WHEAT FLOUR",
+      "FRUCTOSE",
+      "SALT",
+      "SODIUM BICARBONATE",
+      "CULTURED WHEAT STARCH (TO PRESERVE)",
+      "CITRIC ACID (ACIDULANT)",
+      "MONO-AND DIGLYCERIDES (TO PRESERVE)",
+      "GUAR GUM",
+      "ENZYMES",
+      "UNCURED SMOKED &quot",
+      "HAM",
+      "NO NITRATES OR NITRITES ADDED* [PORK",
+      "WATER",
+      "SALT",
+      "TURBINADO SUGAR",
+      "CULTURED CELERY JUICE POWDER",
+      "CHERRY POWDER]",
+      "GREEN LEAF LETTUCE",
+      "PROVOLONE CHEESE [PASTEURIZED MILK",
+      "CHEESE CULTURES",
+      "SALT",
+      "MICROBIAL ENZYMES]",
+      "GENOA SALAMI [PORK",
+      "BEEF",
+      "SEA SALT",
+      "SUGAR",
+      "NATURAL FLAVORS",
+      "LACTIC ACID STARTER CULTURE]",
+      "SOPRESSATA [PORK",
+      "SEA SALT",
+      "SUGAR",
+      "SPICES",
+      "NATURAL FLAVORING",
+      "GARLIC",
+      "LACTIC ACID STARTER CULTURE]",
+      "RED PEPPER MIX [RED PEPPERS (RED PEPPERS",
+      "WATER",
+      "CITRIC ACID (ACIDIFIER)}",
+      "CRUSHED RED PEPPER",
+      "BREAD CRUMBS (WHEAT FLOUR**",
+      "SUGAR",
+      "SUNFLOWER OIL",
+      "SALT",
+      "YEAST}])",
+      "GREAMY MUSTARD SPREAD (MAYONNAISE [CANOLA OIL",
+      "EGG YOLK",
+      "DISTILLED VINEGAR",
+      "WATER",
+      "SUGAR",
+      "SALT",
+      "SPICES",
+      "LEMON JUICE",
+      "NATURAL FLAVOR]",
+      "DIJON MUSTARD [DISTILLED VINEGAR",
+      "WATER",
+      "MUSTARD SEED",
+      "SALT",
+      "TURMERIC",
+      "CITRIC ACID {ACIDIFIER}",
+      "TARTARIC ACID",
+      "SUGAR",
+      "SPICES",
+      "GRANULATED GARLIC",
+      "GRANULATED ONION]). *EXCEPT FOR THOSE NATURALLY OCCURRING IN SEA SALT AND CULTURED CELERY JUICE POWDER **WHEAT FLOUR MAY CONTAIN SOY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0597/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Cucumber",
+    "marca": "N/A",
+    "ean": "00940627",
+    "ingredientes": [
+      "Cocoa mass",
+      "sugar",
+      "cocoa butter",
+      "natural vanilla flavor",
+      "soy lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0627/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dark Chocolate Peanut Butter Cups",
+    "marca": "Trader Joe's",
+    "ean": "00940641",
+    "ingredientes": [
+      "SEMI SWEET CHOCOLATE (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER)",
+      "CHOCOLATE LIQUOR PROCESSED WITH ALKALI",
+      "MILKFAT",
+      "SOY LECITHIN [EMULSIFIER]",
+      "NATURAL FLAVOR)",
+      "PEANUT BUTTER (PEANUTS)",
+      "SUGAR",
+      "PALM KERNEL OIL",
+      "LACTOSE",
+      "SALT",
+      "PALM OIL",
+      "SOY LECITHIN (EMULSIFIER)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0641/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "sour cream and chive pretzel",
+    "marca": "Marks And Spencer",
+    "ean": "00940856",
+    "ingredientes": [
+      "Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin): Dried-Potatoes · Rapeseed Oil Dextrose Conflour · Salt Sugar Dried Garlic Dried Vinegar Dried Onions · Dried Yeast Extract Dried Crème Fraiche (Milk) · Dried Yogurt (Milk) Dried Tomatoes · Dried Whey (Milk) Flavourings Acid: Citric Acid Dried Soured Cream Milk) · Dried Parsley Colour: Paprika Extract · Chive Extract Acidity Regulator: E524."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0856/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "M&S Lightly Salted Pitta Chips",
+    "marca": "M&S",
+    "ean": "00940863",
+    "ingredientes": [
+      "Wheatflour contains Gluten (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) Rapeseed Oil Dried Yeast Salt • Sugar. For allergens see ingredients in bold. Suitable for vegetarians INFORMATION This product is"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/0863/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Zwieback - Rusk",
+    "marca": "Brandt",
+    "ean": "0094118101124",
+    "ingredientes": [
+      "Wheat flour",
+      "sugar",
+      "palm oil",
+      "yeast",
+      "glucose syrup",
+      "dextrose",
+      "invert sugar syrup",
+      "barley malt extract",
+      "salt",
+      "sweet whey powder (milk)",
+      "soy lecithin (emulsifier)",
+      "sweetened condensed skimmed milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mystery hot sauce",
+    "marca": "Chaka's",
+    "ean": "0094153422048",
+    "ingredientes": [
+      "ingredients water",
+      "jalapeño puree (red jalapeños",
+      "salt",
+      "acetic acid)",
+      "soy sauce (water",
+      "wheat",
+      "soybean and salt) vinegar",
+      "dehydrated red chili",
+      "spice",
+      "dehydrated onion",
+      "xanthan gum",
+      "and dehydrated garlic"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/415/342/2048/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salade Falafel et boulgour de blé",
+    "marca": "Marks & Spencer",
+    "ean": "00941570",
+    "ingredientes": [
+      "Boulgour de blé cuit (26%) (Boulgour de blé (contient Gluten) Eau) · Tomates (12%) · Concombre Pois chiches (9%) · Poivrons rouges Eau Falafel (5%) (Pois chiches Carottes Oignons · Huilé de cólza · Epinards · Flocons de pomme de terre · Pignons de pin · Juš de citron concentré · Coriandre · Persil · Ail déshydraté · Poudre à lever : Bicarbonate de soude Sel · Cumin moulu · Poivre blanc moulu) · Jus de citron · Épinards (4%) · Tahini (Pấte de graines de sésame) · Oignons rouges Fromage feta (Lait) (2%) · Huile de colza · Persil · Zeste de citron · Sucre Jus de citron concentré · Menthe · Sel · Huile d'olive vierge extra · Cumin moulu - Huile de tournesol infusée à la menthe Ail Poivre noir moulu."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/1570/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Whole Marinated Mushrooms",
+    "marca": "Golden Bridge",
+    "ean": "0094167006210",
+    "ingredientes": [
+      "Mushrooms",
+      "vegetable oil (soybean or sunflower oil)",
+      "water",
+      "vinegar",
+      "salt",
+      "spices",
+      "citric acid ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bologna",
+    "marca": "Zeigler",
+    "ean": "00941737",
+    "ingredientes": [
+      "Mechanically separated chicken",
+      "pork",
+      "water",
+      "corn syrup",
+      "salt",
+      "modified food starch",
+      "flavoring",
+      "sodium lactate",
+      "dextrose",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium phosphates",
+      "sodium nitrite",
+      "sugar",
+      "hydrolyzed soy and corn protein",
+      "monosodium glutamate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/1737/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Shaved Parmesan, Romano & Asiago Cheeses",
+    "marca": "Trader Joe's",
+    "ean": "00941754",
+    "ingredientes": [
+      "parmesan cheese",
+      "cultured raw milk",
+      "salt",
+      "enzymes",
+      "romano cheese",
+      "asiago cheese",
+      "cellulose",
+      "natamycin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/1754/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Holiday Pretzel Chocolate",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184011839",
+    "ingredientes": [
+      "Cocoa drizzle pretzels",
+      "confectionery coating [sugar",
+      "partially hydrogenated palm kernel oil",
+      "cocoa",
+      "dry whey (milk)",
+      "nonfat dry milk",
+      "soy lecithin",
+      "artificial flavors]",
+      "pretzels [enriched wheat flour (wheat starch",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "silicon dioxide (anti-caking agent))",
+      "corn syrup",
+      "salt",
+      "sodium bicarbonate",
+      "yeast]",
+      "yogurt coating [sugar",
+      "palm kernel oil",
+      "nonfat milk powder",
+      "sweet whey (milk)",
+      "nonfat yogurt powder (cultured whey",
+      "nonfat milk)",
+      "titanium dioxide (color)",
+      "soy lecithin",
+      "lactic acid",
+      "natural flavors]",
+      "artificial coloring (includes red 40 lake",
+      "blue 2 lake",
+      "yellow 5 lake)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cut Rock Candy",
+    "marca": "Truly Good Foods",
+    "ean": "0094184011907",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "citric acid",
+      "artificial and natural flavors",
+      "titanium dioxide",
+      "color",
+      "yellow 5",
+      "red 40",
+      "blue 1",
+      "red 3",
+      "and yellow 6. soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, holiday sours",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184011914",
+    "ingredientes": [
+      "Sugar",
+      "dextrose",
+      "corn syerup",
+      "modified corn starch",
+      "acoia gum",
+      "malic acid",
+      "citric acid",
+      "maltidextrin artificial and natural flavors",
+      "carnauba wax",
+      "beeswax",
+      "artificial colors including fd#c red #40",
+      "blue 2",
+      "yellow #5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Holiday Sweet Tooth, Sweet & Nuts Blend",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184011921",
+    "ingredientes": [
+      "Chocolate gems",
+      "(slugar",
+      "partially hydrogenated palm kernel oil",
+      "cocoa powder",
+      "whey powder",
+      "nonfat milk powder",
+      "soy lecithin (an emulsifier)",
+      "vanillin (an artificial flavor)",
+      "sugar",
+      "coloring (including yellow 5 lake",
+      "yellow 5",
+      "blue 1 lake",
+      "red 40 lake)",
+      "g"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, reindeer food",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184011938",
+    "ingredientes": [
+      "Peanuts",
+      "sugar",
+      "corn syrup",
+      "cranberries",
+      "raisins (sulfur dioxide)",
+      "salt",
+      "citric acid",
+      "butter",
+      "(pasturized cream",
+      "salt)",
+      "titanium dioxide",
+      "artificial flavors",
+      "peanut oil",
+      "sunflower oil",
+      "pure peppermint oil",
+      "artificial colors (fd&c red #40",
+      "yellow #5",
+      "blue #1",
+      "yellow #6)",
+      "soy lecithin (an emulsifier)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, holiday spice drops",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184011945",
+    "ingredientes": [
+      "Corn syrup",
+      "sugar",
+      "modified food starch (corn)",
+      "cornstarch artificial flavor",
+      "artificial colors (red 40. yellow 5",
+      "blue 1)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Christmas Tree Pretzels",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184011976",
+    "ingredientes": [
+      "Yogurt coating (sugar",
+      "palm kernel oil",
+      "nonfat dry milk",
+      "sweet whey (milk)",
+      "nonfat yogurt powder (cultured whey",
+      "nonfat milk)",
+      "titanium dioxide (color)",
+      "soy lecithin",
+      "lacetic acid",
+      "natural flavoring)",
+      "pretzels (enriched flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "corn syrup",
+      "vital wheat gluten",
+      "salt",
+      "vegetable oil (may contain one or more of the following",
+      "corn",
+      "canola",
+      "cottonseed soybean)",
+      "sodium bicarbonate",
+      "yeast)",
+      "artificial coloring (includes yellow 5 lake",
+      "blue 1 lake",
+      "blue 2 lake",
+      "red 40 lake."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Mini Peanut Brittle",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184011983",
+    "ingredientes": [
+      "Peanuts",
+      "sugar",
+      "corn syrup",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Spanish Peanuts",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184011990",
+    "ingredientes": [
+      "Raw peanuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Caroline",
+    "marca": "Truely Good Foods",
+    "ean": "0094184012119",
+    "ingredientes": [
+      "HONEY ROASTED SESAME STICKS (ENRICHED WHEAT FLOUR (UNBLEACHED WHEAT FLOUR",
+      "MALTED BARLEY FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "SOYBEAN OIL",
+      "SESAME SEEDS",
+      "HONEY COATING (SUCROSE",
+      "WHEAT STARCH",
+      "HONEY)",
+      "BULGUR WHEAT",
+      "TACK BLEND (MALTODEXTRIN",
+      "XANTHAN GUM)",
+      "SALT",
+      "BEET POWDER (COLOR)",
+      "TURMERIC (COLOR))",
+      "HONEY ROASTED ALMONDS (ALMONDS",
+      "SUGAR",
+      "CORN OIL",
+      "SALT",
+      "TAPIOCA DEXTRIN",
+      "HONEY)",
+      "BUTTER TOASTED PEANUTS (ROASTED PEANUTS (PEANUTS",
+      "CORN OIL)",
+      "SUGAR",
+      "SALTED BUTTER (PASTEURIZED CREAM",
+      "SALT)",
+      "SALT)",
+      "HONEY ROASTED PEANUTS (PEANUTS",
+      "PEANUT OIL",
+      "SWEET N NEAT HONEY COATING (SUCROSE",
+      "WHEAT STARCH",
+      "HONEY",
+      "LECITHIN)",
+      "SUGAR",
+      "NON DAIRY DRY LOCK (MALTODEXTRIN",
+      "XANTHAN GUM)",
+      "SALT)",
+      "BANANA CHIPS (BANANA",
+      "RED COCONUT OIL",
+      "SUGAR",
+      "NATURAL FLAVORING). CONTAINS MILK",
+      "PEANUT",
+      "SESAME",
+      "WHEAT AND TREE NUTS (ALMOND). Made in a facility that processes peanuts",
+      "tree nuts",
+      "milk",
+      "wheat",
+      "sesame",
+      "and soy. CONTAINS A BIOENGINEERED FOOD INGREDIENT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/418/401/2119/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tropical, Banana Split Fruit & Nut Mix",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184014144",
+    "ingredientes": [
+      "Peanuts",
+      "pineapple [iced (pineapple",
+      "sugar",
+      "sulfur dioxide)",
+      "chocolate (chocolate liquor",
+      "cocoa butter",
+      "whole milk",
+      "soy lecithin (an emulsifier)",
+      "salt",
+      "vanilla)",
+      "cherry flavored cranberries (cranberries",
+      "citric acid",
+      "natural flavors",
+      "elderberry juice concentrate",
+      "sunflower oil)",
+      "caramel bits (corn syrup",
+      "evaporated nonfat milk",
+      "partially hydrogenated cottonseed oil",
+      "whey (from milk)",
+      "artificial flavor)",
+      "banana chips (bananas",
+      "coconut oil",
+      "natural banana flavor)",
+      "marshmallow bits (dextrose",
+      "modified corn starch",
+      "gelatin",
+      "sodium hexametaphosphate)",
+      "peanut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, pretzels, chocolate",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184015011",
+    "ingredientes": [
+      "Confectionary coating (sugar",
+      "palm kernel and palm oils",
+      "cocoa powder [processed with alkali]",
+      "nonfat dry milk",
+      "dry whey [milk]",
+      "soy lecithin [an emulsifier]",
+      "vanilla)",
+      "pretzels (unbleached enriched wheat flour [flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate-b1",
+      "riboflavin-b2",
+      "folic acid]",
+      "malt",
+      "salt",
+      "soybean oil or canola oil",
+      "yeast)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Key Lime, Key Lime Yogurt - Pretzels",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184015042",
+    "ingredientes": [
+      "Natural flavored key lime",
+      "yogurt coating (sugar",
+      "vegetable oils [palm kernel",
+      "palm]",
+      "whey",
+      "yogurt powder [non fat milk",
+      "lactic acid]",
+      "soy lecithin [an emulsifier]",
+      "salt and vanilla",
+      "natural flavor",
+      "fractionated coconut oil",
+      "natural blue pigment [red cabbage juice]",
+      "natural yellow pigment [turmeric])",
+      "pretzels (unbleached enriched wheat flour [flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate-b1",
+      "riboflavin-b2",
+      "folic acid]",
+      "malt",
+      "salt",
+      "soybean oil or canola and yeast."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Covered Pretzels, Raspberry Yogurt",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184015059",
+    "ingredientes": [
+      "Natural flavored raspberry yogurt coating (sugar",
+      "vegetable oils [palm kernel",
+      "palm]",
+      "whey",
+      "yogurt powder [non fat milk",
+      "lactic acid]",
+      "soy lecithin [an emulsifier]",
+      "salt and vanilla",
+      "natural flavor",
+      "fractionated coconut oil",
+      "natural blue pigment [red cabbage juice]",
+      "natural red pigment [beet root juice]",
+      "natural orange pigment [annatto]",
+      "rice bran [an emulsifier])",
+      "pretzels (unbleached enriched wheat flour [flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate-b1",
+      "riboflavin-b2",
+      "folic acid]",
+      "malt",
+      "salt",
+      "soybean oil or canola oil and yeast)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "natural red pigment [beet root juice]",
+        "razon": "Contiene natural red pigment [beet root juice], impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/418/401/5059/front_en.5.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods",
+    "marca": "Truly Good Foods",
+    "ean": "0094184201520",
+    "ingredientes": [
+      "peanuts",
+      "almonds",
+      "cashews",
+      "peanut oil",
+      "brazil nuts",
+      "blanched hazelnuts",
+      "hazelnuts",
+      "pecans",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/418/420/1520/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tropical, Salted Peanuts",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184204255",
+    "ingredientes": [
+      "Peanuts",
+      "peanut oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tropical, Perfectly Fit, A Raw Nut And Fruit Mix",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184560238",
+    "ingredientes": [
+      "Cranberries(dried cranberries",
+      "sugar",
+      "sunflower oil)",
+      "walnuts",
+      "almonds",
+      "pumpkin seeds",
+      "cashews",
+      "blueberries(dried blueberries",
+      "high fructose syrup",
+      "corn syrup",
+      "glycerol",
+      "safflower oil",
+      "citric acid",
+      "calcium lactate",
+      "potassium sorbate produced from natural ingredients",
+      "natural blueberry flavoring)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bartender's Blend Mix",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184598309",
+    "ingredientes": [
+      "Peanuts peanut oil",
+      "salt",
+      "wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "corn syrup",
+      "partially hydrogenated soybean oil",
+      "yeast",
+      "sodium bicarbonate",
+      "palm oil",
+      "cottonseed oil",
+      "canola oil",
+      "rlye flour",
+      "caramel color garlic",
+      "s"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, California Mix A Classic Nut And Fruit Mix",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184598965",
+    "ingredientes": [
+      "Raisins",
+      "apricots (sulfur dioxide to preserve color)",
+      "date pieces (dextrose)",
+      "coconut (sodium metabisulfite as a preservative)",
+      "almonds pineapple (sugar",
+      "sulfur dioxide to preserve color)",
+      "brazil nuts",
+      "papaya (sugar",
+      "sulfur dioxide to preserve color) fd&c yellow #6",
+      "banana chips (banana",
+      "sugar",
+      "coconut oil",
+      "natural banana",
+      "coconut",
+      "pecans",
+      "pumpkin seeds",
+      "cashews",
+      "filberts",
+      "walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, healthy trail mix",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184598972",
+    "ingredientes": [
+      "Raising",
+      "sunflower seeds",
+      "cashews",
+      "almonds",
+      "pumpkin seeds",
+      "peanut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Mexicali Fire",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184598996",
+    "ingredientes": [
+      "Peanuts",
+      "peanut oil",
+      "salt",
+      "corn masa",
+      "soybean oil",
+      "seasoning [ spices",
+      "corn corn flour",
+      "salt",
+      "onion powder",
+      "potato flour",
+      "tomato powder",
+      "natural flavoring 5(coconut oil fractions) garlic powder",
+      "green bell pepper powder",
+      "extractives of paprika & other spices",
+      "citric acid]",
+      "salt",
+      "unbleached wheat flour(contains malted barley flour as a natural enzyme additive)bulgur wheat",
+      "sesame seeds",
+      "cheese powder [ cheddar cheese (cultured milk",
+      "salt",
+      "enzymes)",
+      "whey protein concentrate lactose",
+      "buttermilk solids",
+      "salt",
+      "annatto extract]",
+      "annatto color",
+      "poppy seed",
+      "beet powder",
+      "turmeric",
+      "almonds",
+      "pumpkin seeds",
+      "peanut oil",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, College Crunch A Classic Favorite",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599009",
+    "ingredientes": [
+      "Redsk in peanuts",
+      "raisins",
+      "sunflower seeds",
+      "cashews",
+      "almonds",
+      "pumpkin seeds",
+      "peanut oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, sweet tooth snack mix",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599023",
+    "ingredientes": [
+      "Cocoa gems (milk chocolate [ sugar",
+      "partially hydrogenated palm kernel oil",
+      "cocoa powder",
+      "whey powder",
+      "soy lecithin",
+      "vanillin",
+      "sugar",
+      "coloring (blue #2 lake",
+      "blue #1 lake",
+      "red #40 lake",
+      "yellow #6 lake",
+      "yellow #6",
+      "yellow #5 lake",
+      "yellow 5",
+      "blue #1)] gum arabic",
+      "confectioner's glaze (carnauba wax",
+      "beeswax",
+      "shellac)",
+      "butter toasted peanuts (sugar",
+      "peanuts",
+      "butter (pasteurized cream",
+      "salt)",
+      "salt) raisins",
+      "honey roasted almonds",
+      "(almonds",
+      "honey nut coating [sucrose",
+      "wheat starch",
+      "honey",
+      "calcium stearate (anti-caking)",
+      "lecithin (processing acid)",
+      "tack blend (maltodextrin",
+      "lactose",
+      "xanthum gum)",
+      "peanut oil]",
+      "cashew splits (cashews",
+      "peanut oil",
+      "salt)",
+      "filberts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almonds Natural And Sliced",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599047",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Almonds Rs",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599061",
+    "ingredientes": [
+      "Almonds",
+      "peanut oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Almonds Raw",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599078",
+    "ingredientes": [
+      "Almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Roasted And Salted Cashews",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599108",
+    "ingredientes": [
+      "Cashews",
+      "peanut oil and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flax Seeds",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599115",
+    "ingredientes": [
+      "Flax seeds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Pecan Halves",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599122",
+    "ingredientes": [
+      "Contains tree nuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, pumpkin seeds",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599153",
+    "ingredientes": [
+      "Pumpkin seeds",
+      "peanut oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Truly Good Foods, Sweet & Crunchy Banana Chips",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599214",
+    "ingredientes": [
+      "Bananas",
+      "sugar",
+      "coconut oil",
+      "natural banana flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dried Cranberries",
+    "marca": "Truly Good Foods",
+    "ean": "0094184599221",
+    "ingredientes": [
+      "Sugar",
+      "cranberries",
+      "sunflower oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crystallized Ginger",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599238",
+    "ingredientes": [
+      "Ginger",
+      "sugar",
+      "pre-served with sulphur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Edamame Beans",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599269",
+    "ingredientes": [
+      "Edamame",
+      "roasted and salted (green beans",
+      "soybean oil",
+      "salt)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, roasted and salted sesame sticks",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599290",
+    "ingredientes": [
+      "Unbleached wheat flour (contains malted barley flour as a natural enzyme additive)",
+      "soybean oil",
+      "sesame seeds",
+      "bulgar wheat",
+      "salt beet powder",
+      "turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tgf, Wasabi Green Peas",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184599306",
+    "ingredientes": [
+      "Green peas",
+      "salt",
+      "palm oil wasabi",
+      "monosodium glutamate",
+      "sugar",
+      "corn starch",
+      "artificial color fd&c yellow #5",
+      "blue #1."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Double Dipped Peanuts",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599313",
+    "ingredientes": [
+      "Sugar",
+      "partially hydrogenated palm kernel and palm oils",
+      "whey (milk)",
+      "cocoa powder (processed with alkali)",
+      "lactose soy lecithin (an emulsifier)",
+      "vanillin (an artificial flavor)",
+      "peanuts",
+      "canola oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yogurt Pretzels",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599368",
+    "ingredientes": [
+      "Yogurt coating - sugar",
+      "partially hydrogenated palm kernel oil",
+      "whey powder (milk)",
+      "white color",
+      "hydrogenated palm oil",
+      "yogurt powder",
+      "salt",
+      "soy lecithin [emulsifier]",
+      "artificial flavor)",
+      "pretzels (wheat flour (niacin",
+      "reduced iron",
+      "thiamine mononitrate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, peanuts, roasted salted",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599535",
+    "ingredientes": [
+      "Peanuts",
+      "peanut oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, snack mix, mango tango",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599719",
+    "ingredientes": [
+      "Mango",
+      "diced (mango",
+      "sugar",
+      "sulfur dioxide)",
+      "coconut toffee peanuts (sugar",
+      "peanuts",
+      "coconut",
+      "salt)",
+      "chili & lime noodles (wheat starch",
+      "sunflower oil",
+      "soybean solids",
+      "flavorings [sugar",
+      "salt",
+      "paprika",
+      "chili",
+      "vegetable powder",
+      "hydrolyzed vegetable protein",
+      "rice flour",
+      "soy sauce powder",
+      "lime juice powder",
+      "natural flavor",
+      "food acid",
+      "yeast extract]",
+      "pumpkin seeds",
+      "cashews",
+      "peanut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, sienna cream crunch",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599726",
+    "ingredientes": [
+      "Raisins",
+      "yogurt raisins (evaporated cane juice",
+      "fractionated palm kernel oil",
+      "yogurt powder",
+      "soy lecithin [an emulsifier]",
+      "lactic acid",
+      "vanilla",
+      "salt)",
+      "almonds",
+      "walnuts",
+      "pecans",
+      "peanuts",
+      "unsweetened chocolate",
+      "confectioner's glaze",
+      "gum arabic. sugar",
+      "cocoa butter",
+      "chocolate liquor",
+      "milk",
+      "milk powder",
+      "nonhydrogenated peanut oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, sweet heat",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599740",
+    "ingredientes": [
+      "Nacho peanuts (peanuts",
+      "peanut oil",
+      "nacho cheese powder (salt",
+      "spice",
+      "romano cheese (milk",
+      "salt",
+      "cheese cultures",
+      "enzymes)",
+      "whey",
+      "disodium phosphate",
+      "lactic acid",
+      "dehydrated cheddar & blue cheese",
+      "cheese whey",
+      "cottage cheese whey",
+      "partially hydrogenated soybean oil",
+      "salt",
+      "sodium citrate",
+      "monosodium glutamate",
+      "natural flavor",
+      "artificial color (fd&c yellow #6)",
+      "tomato powder",
+      "onion powder",
+      "garlic powder",
+      "artificial butter",
+      "citric acid))",
+      "butter toasted peanuts (peanuts",
+      "sugar",
+      "butter (pasteurized cream",
+      "salt)",
+      "pecans",
+      "hot & spicy sesame sticks (unbleached wheat flour (contains malted barley flour as a natural enzyme additive)",
+      "soybean oil",
+      "sesame seeds",
+      "bulgur wheat",
+      "seasoning corn flour",
+      "red pepper",
+      "vinegar",
+      "maltodextrin",
+      "sour cream powder",
+      "cultured buttermilk",
+      "reduced lactose whey",
+      "sodium citrate",
+      "sour cream cultures",
+      "monosodium glutamate",
+      "green bell pepper powder",
+      "jalapeno pepper powder",
+      "beet powder",
+      "turmeric)",
+      "cajun corn sticks (yellow corn masa",
+      "cajun seasoning",
+      "spices",
+      "corn flour",
+      "potato flour",
+      "coconut oil fractions",
+      "extractives of paprika (color))",
+      "honey roasted peanuts (peanuts",
+      "sucrose",
+      "wheat starch",
+      "honey",
+      "calcium stearate (anti-caking agent)",
+      "hydroxylated lecithin(processing aid))",
+      "cajun blackening seasoning",
+      "peanut oil",
+      "fructose",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truly good foods, cajun harvest mix",
+    "marca": "Truly Good Foods,  Tropical Nut & Fruit Co.",
+    "ean": "0094184599757",
+    "ingredientes": [
+      "Blanched peanuts",
+      "almonds",
+      "churrito stick (yellow corn masa",
+      "soybean oil",
+      "hot sauce seasoning (dextrose",
+      "salt",
+      "whey powder",
+      "spice and coloring [contains paprika])",
+      "maltodextrin",
+      "monosodium glutamate",
+      "citric acid",
+      "onion powder",
+      "hydrolyzed corn",
+      "wheat",
+      "and soy protein",
+      "fd&c red #40 lake",
+      "sugar",
+      "garlic powder",
+      "hot sauce (aged cayenne red peppers",
+      "salt",
+      "vinegar",
+      "garlic)",
+      "natural flavoring",
+      "lactic acid",
+      "soybean oil",
+      "spice and herb",
+      "caramel color)",
+      "pumpkin seeds",
+      "peanut oil",
+      "salt",
+      "cajun blackening seasoning (spices",
+      "salt",
+      "and onion powder)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Buffalo nuts",
+    "marca": "Buffalo Nuts",
+    "ean": "0094184599849",
+    "ingredientes": [
+      "Peanuts",
+      "peanut oil",
+      "buffalo nut seasoning (salt",
+      "spices",
+      "sodium diacetate",
+      "citric acid",
+      "sodium diacetate",
+      "citric acid",
+      "extractive of paprika",
+      "modified food starch",
+      "natural & artificial flavor",
+      "and less than 2% calcium silicate to prevent caking)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "My Salad Bar, Truly Good Foods, My Salad Bar",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184800129",
+    "ingredientes": [
+      "Sesame salad bits: unbleached wheat flour (contains malted barley flour as a natural enzyme additive)",
+      "soybean oil",
+      "sesame seeds",
+      "bulgur wheat",
+      "salt",
+      "tumeric (color)",
+      "beet powder (color).",
+      "mini fruit mix: blueberries (dried blueberries",
+      "sugar",
+      "sunflower o"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk Dipping Chocolate",
+    "marca": "Tropical Nut & Fruit Co.",
+    "ean": "0094184800204",
+    "ingredientes": [
+      "Sugar",
+      "partially hydrogenated vegetable oils (palm kernel",
+      "palm oil)",
+      "nonfat dry milk",
+      "whole milk powder",
+      "cocoa powder (processed with alkali)",
+      "emulsifiers (soya lecithin",
+      "glyceryl lacto ester)",
+      "natural and artificial flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dip and devour white chocolate",
+    "marca": "Dip & Devour",
+    "ean": "0094184800228",
+    "ingredientes": [
+      "sugar",
+      "partially hydrogenated palm kernel oil",
+      "reduced mineral whey powder",
+      "whole milk",
+      "nonfat",
+      "dry milk",
+      "soy lecithin (an emulsifier)",
+      "salt",
+      "and vanillin (an artificial flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/418/480/0228/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gingermints",
+    "marca": "Trader Joe's",
+    "ean": "00942249",
+    "ingredientes": [
+      "organic cane sugar",
+      "water",
+      "organic tapioca syrup",
+      "natural flavorings",
+      "organic maple syrup",
+      "organic ground ginger root",
+      "agar",
+      "gum tragacanth. dist.&sold exclusively by: trader joe's",
+      "monrovia",
+      "ca 91016 certified organic by quality assurance international (qai). gluten free product of canada vegan"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2249/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "coffee creamer french vanilla",
+    "marca": "Trader Joe's",
+    "ean": "00942317",
+    "ingredientes": [
+      "water",
+      "cane sugar",
+      "sunflower oil",
+      "contain 2% or less of sodium caseinate (milk)",
+      "dipotassium",
+      "diphosphate",
+      "natural flavor",
+      "sunflower lecithin",
+      "gellan gum",
+      "locust bean gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2317/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cinnamon Coffee Cake",
+    "marca": "Trader Joe's",
+    "ean": "00942355",
+    "ingredientes": [
+      "TRADER JOE'S® Cinnamon Coffee Cabe Nutrition Facts Servings: 8",
+      "Serv size: 2 oz (57g/ 1/8 cake)",
+      "Amount per serving: Calories 240",
+      "Total Fat 12g (15% DV)",
+      "Sat Fat 2g (10% DV)",
+      "Trans Fat 0g",
+      "Cholest 45mg (15% DV)",
+      "Sodium 270mg (12% DV)",
+      "Total Carb 31g (11% DV)",
+      "Fiber &lt",
+      "Total Sugars 19g (Incl 18g Added Sugars",
+      "Protein 2g",
+      "Vit D (2% DV)",
+      "Calcium (2% DV)",
+      "Iron (4% DV)",
+      "Potas (2% DV)  CAKE (COFFEE CAKE BASE [SUGAR",
+      "UNBLEACHED ENRICHED FLOUR [WHEAT FLOUR",
+      "MALTED BARLEY",
+      "NIACIN",
+      "IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID}",
+      "CORNSTARCH",
+      "CANOLA OIL",
+      "VITAL WHEAT GLUTEN",
+      "BAKING POWDER {SODIUM ACID PYROPHOSPHATE",
+      "SODIUM BICARBONATE",
+      "MONOCALCIUM PHOSPHATE}",
+      "WHEY POWDER",
+      "SALT",
+      "NATURAL FLAVORS",
+      "SUNFLOWER LECITHIN",
+      "MICROBIAL ENZYMEI",
+      "EGGS",
+      "CANOLA OIL",
+      "SOUR CREAM [GRADE A CULTURED PASTEURIZED CREAM)",
+      "BUTTERMILK [CULTURED LOWFAT MILK",
+      "SALT)",
+      "NATURAL VANILLA FLAVOR)",
+      "TOPPING (BROWN SUGAR",
+      "UNBLEACHED ENRICHED FLOUR [WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACIDI",
+      "BUTTER [CREAM",
+      "NATURAL FLAVORSI",
+      "CINNAMON) CONTAINS MILK",
+      "EGG",
+      "WHEAT DIST AND SOLD EXCLUSIVELY BY: TRADER JOE'S",
+      "MONROVIA",
+      "CA 91016 SKUH 94235 0094'2355"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2355/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seeded Sourdough",
+    "marca": "Bertinet Bakery",
+    "ean": "0094235980589",
+    "ingredientes": [
+      "Flour (Wheat Flour",
+      "Calcium",
+      "Iron",
+      "Niacin",
+      "Thiamine)",
+      "Water",
+      "Brown Linseeds (7%)",
+      "Millet Seeds (4%)",
+      "Wholemeal Wheat Flour",
+      "Sunflower Seeds (3%)",
+      "Organic Wholemeal Emme Wheat Flour",
+      "Chia Seeds (2%)",
+      "Barley Flour",
+      "Sea Salt",
+      "Spelt Flour (Wheat)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/423/598/0589/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Organic pastilles peppermints",
+    "marca": "Trader Joe's",
+    "ean": "00942423",
+    "ingredientes": [
+      "organic cane sugar",
+      "water",
+      "organic tapioca syrup",
+      "natural flavorings",
+      "organic maple syrup",
+      "organic peppermint leaves",
+      "organic gum arabic",
+      "gum tragacanth"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2423/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pressed British Apple Juice",
+    "marca": "M&S, Marks & Spencer",
+    "ean": "00942638",
+    "ingredientes": [
+      "Jus de pommes",
+      "antioxydant : acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2638/front_fr.21.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fruity Chicken Curry",
+    "marca": "Marks & Spencer",
+    "ean": "00942720",
+    "ingredientes": [
+      "Cooked Long Grain Rice (39%)",
+      "(Water",
+      "Long Grain Rice)",
+      "Chicken Breast (17%)",
+      "Water",
+      "Single Cream (Milk)",
+      "Onions",
+      "Tomato Paste",
+      "Rapeseed Oil",
+      "Sultanas",
+      "Apricot Purée",
+      "Coconut Milk (Coconut Extract",
+      "Water)",
+      "Sugar",
+      "Tapioca Starch",
+      "Low Fat Yogurt (Milk)",
+      "Ground Spices (Coriander",
+      "Turmeric",
+      "Black Pepper",
+      "Roasted Coriander",
+      "Roasted Cumin",
+      "Smoked Paprika",
+      "Cinnamon",
+      "Mace",
+      "Roasted Green Cardamom Seeds",
+      "Chilli Powder",
+      "Ginger Cloves",
+      "Fennel",
+      "Nutmeg",
+      "Bay Leaves)",
+      "Lemon Juice",
+      "Salt",
+      "Cornflour",
+      "Ginger Purée",
+      "Coriander",
+      "Dried Mango",
+      "Garlic Purée."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2720/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lamb With Redcurrant Gravy",
+    "marca": "Marks & Spencer",
+    "ean": "00942805",
+    "ingredientes": [
+      "black tea (water",
+      "black tea concentrate)",
+      "sugar",
+      "phosphoric acid",
+      "natural flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/094/2805/front_en.35.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rich n' juicy bloody caesar mix, rich n' juicy",
+    "marca": "Willowdale Enterprises  Inc.",
+    "ean": "0094282000414",
+    "ingredientes": [
+      "Tomato paste from california red ripe tomatoes",
+      "concentrated liquid from california red ripe tomatoes",
+      "clam juice",
+      "lime juice",
+      "sweet bell peppers",
+      "red peppers",
+      "cayenne peppers",
+      "chile peppers",
+      "celery",
+      "ground black pepper",
+      "vinegar",
+      "salt",
+      "molasses",
+      "cane sugar",
+      "tamarind",
+      "onion",
+      "garlic",
+      "cloves",
+      "parsley",
+      "mustard seed",
+      "horseradish root",
+      "paprika",
+      "bay leaf",
+      "mace",
+      "allspice",
+      "nutmeg",
+      "cardamom",
+      "ginger"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rich n' spicy bloody caesar mix, rich n' spicy",
+    "marca": "Willowdale Enterprises  Inc.",
+    "ean": "0094282000421",
+    "ingredientes": [
+      "Tomato paste from california red ripe",
+      "tomatoes",
+      "concentrated liquid from california red ripe tomatoes",
+      "clam juice",
+      "lime juice",
+      "red peppers",
+      "cayenne peppers",
+      "chili peppers",
+      "sweet bell peppers",
+      "celery",
+      "ground black pepper",
+      "vinegar",
+      "salt",
+      "molasses",
+      "cane sugar",
+      "tamarind",
+      "onion",
+      "garlic",
+      "cloves",
+      "parsley",
+      "mustard seed",
+      "horseradish root",
+      "paprika",
+      "bay leaf",
+      "mace",
+      "allspice",
+      "nutmeg",
+      "cardamom",
+      "ginger."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rich Hickory Bourbon Way More Than Barbecue Sauce, Rich Hickory Bourbon",
+    "marca": "Uncle Dougie'S",
+    "ean": "0094282000445",
+    "ingredientes": [
+      "Water",
+      "Organic Tomato Paste",
+      "Organic Brown Sugar",
+      "Organic Apple Cider Vinegar",
+      "Organic Smoked Paprika (Organic Paprika",
+      "Natural Smoke Flavor)",
+      "Natural Flavor",
+      "Sea Salt",
+      "Organic Garlic",
+      "Organic Onion",
+      "Organic Black Pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Small Batch Barbecue Sauce",
+    "marca": "Willowdale Enterprises  Inc.",
+    "ean": "0094282183025",
+    "ingredientes": [
+      "Tomato paste made from red ripe california tomatoes",
+      "red peppers",
+      "cayenne peppers",
+      "distilled malt vinegar",
+      "chile peppers",
+      "sweet bell peppers",
+      "fresh ground black pepper",
+      "pure honey",
+      "distilled vinegar",
+      "garlic",
+      "onion",
+      "paprika",
+      "parsley",
+      "salt",
+      "filtered water",
+      "brown sugar",
+      "natural maple flavor",
+      "natural hickory flavor",
+      "guar gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/009/428/218/3025/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]
