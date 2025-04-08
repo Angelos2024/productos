@@ -1,0 +1,795 @@
+[
+  {
+    "nombre": "Jambon sec supérieur",
+    "marca": "Calixte",
+    "ean": "0210749022373",
+    "ingredientes": [
+      "Jambon de porc (Origine : France)",
+      "sel."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (Origine : France)",
+        "razon": "Contiene Jambon de porc (Origine : France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/074/902/2373/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rainbow Trout Fillet",
+    "marca": "sea quest",
+    "ean": "0210796607974",
+    "ingredientes": [
+      "fish"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/079/660/7974/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Jambon cuit supérieur cuisine à l'os",
+    "marca": "Aoste",
+    "ean": "0210797018960",
+    "ingredientes": [
+      "Jambon et couenne de porc origine France",
+      "sel",
+      "dextrose",
+      "bouillon (couenne et os de porc",
+      "extraits de légumes",
+      "épices et plantes aromatiques)",
+      "arômes",
+      "conservateurs : érythorbate de sodium et nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon et couenne de porc origine France",
+        "razon": "Contiene Jambon et couenne de porc origine France, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/079/701/8960/front_fr.10.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon Cuit Superieur Aoste Cuisine a l’os",
+    "marca": "Aoste",
+    "ean": "0210797019295",
+    "ingredientes": [
+      "jambon et couenne de porc origine : UE",
+      "sel",
+      "dextrose",
+      "bouillon (couenne et os de porc",
+      "extraits de légumes",
+      "épices et plantes aromatiques)",
+      "arômes",
+      "conservateurs : érythorbate de sodium et nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon et couenne de porc origine : UE",
+        "razon": "Contiene jambon et couenne de porc origine : UE, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/079/701/9295/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pavé de Pontault",
+    "marca": "Leclerc",
+    "ean": "0210801008208",
+    "ingredientes": [
+      "Farine de BLÉ T65 (90.4 %): farine de BLÉ",
+      "GLUTEN de BLÉ",
+      "farine de BLÉ malté",
+      "enzymes : alpha-amylases",
+      "eau (6.4 %)",
+      "sel (2 %)",
+      "Levure (1.2 %)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/080/100/8208/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain complet argru",
+    "marca": "E.Leclerc",
+    "ean": "0210830024866",
+    "ingredientes": [
+      "E de BLE malté",
+      "dextrose",
+      "GLUTEN de BLE",
+      "extrait de malt d'ORGE (malt d'ORGE",
+      "eau)",
+      "LACTOSERUM en poudre",
+      "sel",
+      "farine complète de BLE",
+      "farine de SEIGLE",
+      "farine acidifiant E270",
+      "farine de BLE malté et torréfié",
+      "agent E341)",
+      "eau",
+      "margarine (graisse de palme",
+      "eau",
+      "huile de de traitement de la farine E300",
+      "correcteur d'acidité correcteur d'acidité E330",
+      "arôme)",
+      "farine de BLE (palme",
+      "émulsifiants E322 (tournesol)-E471",
+      "sel",
+      "farine de BLE",
+      "farine de BLE malté)",
+      "levure. Peut contenir des traces: OEUFS",
+      "SESAME",
+      "FRUITS A COQUE"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants E322 (tournesol)-E471",
+        "razon": "Contiene émulsifiants E322 (tournesol)-E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/083/002/4866/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tomme de Savoie",
+    "marca": "Intermarché",
+    "ean": "0210836032735",
+    "ingredientes": [
+      "Lait cru de vache origine France",
+      "ferments lactiques et d'affinage (dont lait) sel",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/083/603/2735/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comté",
+    "marca": "Comté",
+    "ean": "0210841042835",
+    "ingredientes": [
+      "lait cru",
+      "sel",
+      "ferments lactiques",
+      "présure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/104/2835/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Store Packed Family Packed Chicken Legs Cut Up Hatched Raised Harvested USA",
+    "marca": "Key Food",
+    "ean": "0210842304338",
+    "ingredientes": [
+      "None"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/230/4338/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "ABONDANCE AOP AU LAIT CRU",
+    "marca": "Fromagerie CHABERT 74540 GRUFFY",
+    "ean": "0210843026505",
+    "ingredientes": [
+      "lait cru de vache",
+      "sel",
+      "ferments lactiques",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/302/6505/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comte aop",
+    "marca": "Comté",
+    "ean": "0210844026832",
+    "ingredientes": [
+      "_COMTE_ ROP 12 mois d'affinage minimum Fromaga a pate prassea cuite. Ingrediants: tait cru vache",
+      "sel fermants lactiques",
+      "presure. Bffing et conditionna par Centurion 25170"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/402/6832/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comte aop",
+    "marca": "Centurion",
+    "ean": "0210844033069",
+    "ingredientes": [
+      "_Lait_ cru de vache",
+      "sel",
+      "ferments _lactiques_",
+      "présure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/403/3069/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental au lait cru",
+    "marca": "Mulin",
+    "ean": "0210846020999",
+    "ingredientes": [
+      "Lait cru de vache",
+      "sel",
+      "ferments lactiques",
+      "coagulant microbien."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/602/0999/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental lait cru",
+    "marca": "Fromagerie mullin",
+    "ean": "0210846025789",
+    "ingredientes": [
+      "LAIT cru de vache (Origine : France)",
+      "sel",
+      "ferments lactiques",
+      "enzyme coagulante."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/084/602/5789/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "jambon cru Aoste - Dentelles.",
+    "marca": "Aoste SNC",
+    "ean": "0210857029783",
+    "ingredientes": [
+      "jambon de porc",
+      "sel",
+      "presence possible de fruit a coque et de lait"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc",
+        "razon": "Contiene jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/085/702/9783/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mimolette demi vieille",
+    "marca": "Intermarche",
+    "ean": "0210863028671",
+    "ingredientes": [
+      "LAIT pasteurisé de vache (Origine : France)",
+      "sel",
+      "ferments lactiques",
+      "colorant: E160b",
+      "conservateur lysozyme (ŒUF)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/086/302/8671/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mimolette demi vieille",
+    "marca": "Fromapac",
+    "ean": "0210863029067",
+    "ingredientes": [
+      "LAIT pasteurisé de vache (Origine I France)",
+      "sel",
+      "ferments lactiques",
+      "colorant: E160b",
+      "conservateur lysozyme (OEUF)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/086/302/9067/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mimolette extra vieille",
+    "marca": "Intermarché",
+    "ean": "0210864026508",
+    "ingredientes": [
+      "LAIT de vache pasteurisé (Origine : France)",
+      "sel",
+      "ferments lactiques",
+      "colorant E160b : rocou",
+      "conservateur E1105 : lysozyme (contient OEUF)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/086/402/6508/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mimolette extra vieille",
+    "marca": "Fromapac",
+    "ean": "0210864032738",
+    "ingredientes": [
+      "LAIT de vache pasteurisé (Origine France)",
+      "sel",
+      "ferments lactiques",
+      "colorant E160b: rocou",
+      "conservateur E1105: lysozyme (contient OEUF)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/086/403/2738/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mimolette extra-vielle",
+    "marca": "Fromapac",
+    "ean": "0210864033261",
+    "ingredientes": [
+      "LAIT de vache pasteurisé (Origine: France)",
+      "sel",
+      "ferments lactiques",
+      "colorant E160b rocou",
+      "conservateur E1105: lysozyme (contient OEUF)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/086/403/3261/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mimolette extra vieille",
+    "marca": "Mimolette",
+    "ean": "0210864037191",
+    "ingredientes": [
+      "LAIT de vache pasteurisé (Origine : France)",
+      "sel",
+      "ferments lactiques",
+      "colorant E160b: rocou",
+      "conservateur E1105: lysozyme (contient OEUF)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/086/403/7191/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salade de fruits frais",
+    "marca": "Eleclerc",
+    "ean": "0210910027480",
+    "ingredientes": [
+      "ananas",
+      "mangue",
+      "kiwi",
+      "fraise",
+      "raisin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/091/002/7480/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ribs de porc à la mexicaine",
+    "marca": "Jean Rozé",
+    "ean": "0210999059174",
+    "ingredientes": [
+      "Viande de porc avec os [origine France] 87%",
+      "légumes réhydratés 7",
+      "betterave)",
+      "arômes (gluten) et arôme de fumée",
+      "épices mexicaines 0",
+      "poivre",
+      "ail et Cayenne)",
+      "sel",
+      "dextrose de blé",
+      "acidifiant: E326",
+      "eau",
+      "stabilisants: E451-E450",
+      "antioxydants: E301-E300. Pourcentages exprimés sur le poids net total."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/099/905/9174/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ribs de porc",
+    "marca": "Jean Rozé",
+    "ean": "0210999069869",
+    "ingredientes": [
+      "Viande de porc avec os [origine : France] 87%",
+      "légumes réhydratés 7",
+      "betterave) arome (GLUTEN) et arôme de fumée",
+      "épices mexicaines 0",
+      "poivre",
+      "ail et Cayenne)",
+      "sel",
+      "dextrose",
+      "acidifiant E326",
+      "eau",
+      "stabilisants E451 - E450",
+      "antioxydants : E301-E300."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/099/906/9869/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ribs de porc à la mexicaine",
+    "marca": "Jean Rozé",
+    "ean": "0210999081601",
+    "ingredientes": [
+      "Viande de porc avec os [origine France] 87%",
+      "légumes réhydratés 7",
+      "betterave) arôme (GLUTEN) et arôme de fumée",
+      "épices mexicaines 0",
+      "poivre",
+      "ail et Cayenne)",
+      "sel",
+      "dextrose",
+      "acidifiant E326",
+      "eau",
+      "stabilisants. E451 - E450",
+      "antioxydants E301-E300."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/099/908/1601/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aligot de l'Aubrac",
+    "marca": "Jeune Montagne",
+    "ean": "0211000052481",
+    "ingredientes": [
+      "Purée de pornrnes de terre (origine lû rance) 59%",
+      "Tome ée",
+      "non salé)",
+      "crème Cic au lait cru 31 0% (fronvage pâte press ue lactoserurn",
+      "sel. Sans colorant",
+      "ni conservateur."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/100/005/2481/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Petit sale aux lentilles",
+    "marca": "Maxime Gerraud",
+    "ean": "0211000064941",
+    "ingredientes": [
+      "Lentilles vertes cuites 464%",
+      "vianda de porc (origine: IIE)",
+      "carotte",
+      "oignon",
+      "eau",
+      "sel",
+      "épices",
+      "huile de tournesol",
+      "stabilisant: EA50 EA51",
+      "conservateurs",
+      "E250 E32S dextrose",
+      "füüge (SULFITES)",
+      "(SULFITES",
+      "MOUTBRDE)",
+      "caramel",
+      "antioxydant E201",
+      "arômes naturels",
+      "arôme de fumée",
+      "enveloppe: boyau naturel. da parc. Tracet possiblec: oeuf",
+      "tait",
+      "fruits à coques",
+      "gluten",
+      "auste à réchauffer. R concommer rapidement"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/100/006/4941/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Always Tender, Bone-In Pork Center Cut Chops",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0211006614126",
+    "ingredientes": [
+      "Solution ingredients: water",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium dircetate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Noisettes décortiquées bio vrac",
+    "marca": "Leclerc",
+    "ean": "0211009043367",
+    "ingredientes": [
+      "noisettes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chair a saucisse nature",
+    "marca": "Maison Montalet",
+    "ean": "0211013000004",
+    "ingredientes": [
+      "VIANDE DE PORC NE ET ELEVE DANS LE TARN ET L'AVEYRON",
+      "SEL",
+      "POIVRE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/101/300/0004/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisse de viande",
+    "marca": "E Leclerc",
+    "ean": "0211013020477",
+    "ingredientes": [
+      "ui ande de porc",
+      "eau",
+      "gra= de porc",
+      "viande de boeuf",
+      "sel",
+      "oi gnons. epi ces p/ilntrys aromat i ques",
+      "stabi i i sants (dl phosphat triphosphatos dBxtrosg",
+      "exhausteur de gout IJ/1Jtanat1) do sodium). acidifiant (glucono-dolta - lactono). aronos naturels. ant i oxydant (acido Iscnrbiqoo. ascorbatt) de ccnsors.jòtotjr ( ni trito sodiun). colcr&tts ( Arrtlns. rocou) naturel H:euf? trntuolles de lait. blé. Fi {URS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/101/302/0477/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "2 pavés de bœuf attendris",
+    "marca": "Intermarché, Jean Rozé",
+    "ean": "0211026033525",
+    "ingredientes": [
+      "Viande bovine attendrie 89%",
+      "eau",
+      "stabilisants (E339",
+      "E407)",
+      "antioxydants (E331",
+      "E301)",
+      "dextrose de _blé_",
+      "sel",
+      "protéine de pois 0",
+      "arôme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/102/603/3525/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boeuf extra tendre",
+    "marca": "Jean Rozé",
+    "ean": "0211027030110",
+    "ingredientes": [
+      "Ingrédients viande bovine attendrie (origine France) 89% eau",
+      "stabilisants E339-E407",
+      "antioxydants: E331-E301",
+      "dextrose de blé",
+      "sel",
+      "protéine de pois 0",
+      "arôme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/102/703/0110/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bœuf extra tendre",
+    "marca": "Jean Rozé",
+    "ean": "0211027031421",
+    "ingredientes": [
+      "viande bovine attendrie (origine: France) 89%",
+      "eau",
+      "stabilisants E339-E407",
+      "antioxydants: E331-E301",
+      "dextrose de blé",
+      "sel",
+      "protéine de pois 0",
+      "arôme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/102/703/1421/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boeuf steaks attendris",
+    "marca": "Jean Roze",
+    "ean": "0211027034118",
+    "ingredientes": [
+      "lngredlents Viande bovine attendiie Flüljce) 8904",
+      "eau stabilisants E339-E407) antioxydants . E3'314301",
+      "(iextnose ble sel",
+      "protéine de pois 0",
+      "arôme",
+      "•VALEIJRS NUTRITIOI\\IIKIELLES POUR RAI (1 14) kl al) Ivlatlères gtasses 4"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/102/703/4118/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Deli Chicken Roast, Herb & Garlic",
+    "marca": "Walmart",
+    "ean": "0211028810476",
+    "ingredientes": [
+      "Chicken",
+      "Salt",
+      "(sugars)",
+      "Maltodextrin",
+      "Sugar",
+      "Herbs",
+      "Garlic",
+      "Spices",
+      "Onion",
+      "Citric acid",
+      "Lemon juice powder",
+      "Corn syrup solids",
+      "Lemon juice",
+      "Lemon oil",
+      "Natural flavour.  _WE CANNOT GUARANTEE THAT THIS PRODUCT HAS NOT COME INTO CONTACT WITH PEANUTS",
+      "TREE NUTS OROTHER ALLERGENS._"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/102/881/0476/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Paella",
+    "marca": "Leclerc",
+    "ean": "0211033023489",
+    "ingredientes": [
+      "Eau",
+      "riz 13%",
+      "petits pois 5.7%",
+      "CREVETTES 5.5%",
+      "anneaux encornet 4.7% (ENCORNET ILLEX ARGENTUNUS)",
+      "sel",
+      "antioxydants: E338",
+      "correcteurs d'acidité: 450",
+      "acidifiant: E330)",
+      "E501",
+      "stabilisants: E carottes",
+      "moules 4",
+      "oigno jaunes",
+      "poivrons verts",
+      "chorizo 1.9% (viance de porc (origine ue)",
+      "sel",
+      "LACTOSE",
+      "piments fumés arômes de fumée",
+      "dextrose",
+      "saccharose",
+      "épices plantes aromatiques (dont piment de cayenne 0.1 ferments",
+      "boyau naturel de porc",
+      "antioxydants: ascorbate de sodium",
+      "conservateurs E250",
+      "E252",
+      "E202",
+      "agent de traitement : E235)",
+      "huile d'olive huile d'olive vierge extra)",
+      "fumet de poisson ( POISSONS blanc",
+      "sel iodé",
+      "sirop de glucose",
+      "maltodextrine",
+      "fécules",
+      "huile de tournesol",
+      "oignons",
+      "arômes",
+      "extrait de champignon",
+      "extrait de poireau",
+      "extrait de vin blanc",
+      "extrait d'ail",
+      "extrait de thym)",
+      "épices paëlla (épices (piments",
+      "curcuma",
+      "fenugrec",
+      "coriandre",
+      "carvi",
+      "poivre)",
+      "gingembre)",
+      "ail Contient: LAIT",
+      "POISSON",
+      "CRUSTACES",
+      "MOLLUSQUES."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/103/302/3489/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Pusateri's Salmon Combo",
+    "marca": "Pusateri's",
+    "ean": "0211037012991",
+    "ingredientes": [
+      "Nori (Seaweed). Sushi Rice",
+      "Avocado",
+      "Salmon. Sesame Seed CONTAINS: Fish",
+      "Wheat. Soy. Mustard",
+      "Sesame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/103/701/2991/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "déjeunettes viennoises",
+    "marca": "leclerc",
+    "ean": "0211044012793",
+    "ingredientes": [
+      "Pate viennolse (farine de viennois (1farine de BLE",
+      "GLUTEN. poudre au beurre",
+      "sucre",
+      "sal",
+      "poudre d QEUF entler OEUF",
+      "arôme",
+      "agent de traltement de la farine : E300",
+      "colorant : E160)",
+      "eau",
+      "levure (levure de panification (saccharomyces cerevisiae) POI DS NET: 0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/104/401/2793/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Côtelettes d'agneau",
+    "marca": "Jean Rozé",
+    "ean": "0211060052940",
+    "ingredientes": [
+      "Agneau"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/106/005/2940/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Caraway Rye Bread",
+    "marca": "Farm Boy",
+    "ean": "0211073605492",
+    "ingredientes": [
+      "WHEAT FLOUR WATER. WHOLE GRAIN RYE FLOUR. CARAWAY. SEA SALT. YEAST. APPLE CIDER VINEGAR. WHEAT GLUTEN. SOURDOUGH (WHOLE GRAIN RYE FLOUR. EATER",
+      "BACTERIAL CULTURE)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/107/360/5492/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  }
+]

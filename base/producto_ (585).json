@@ -1,0 +1,938 @@
+[
+  {
+    "nombre": "Pavé céréales bio les trois meuniers",
+    "marca": "Leclerc",
+    "ean": "0250820007547",
+    "ingredientes": [
+      "Farine issue de l'agriculture biologique.",
+      "céréales at graines issues de L'agriculture biologique 9",
+      "ramoulage de BLE",
+      "graines: millet",
+      "Lin brun. SESAME complet",
+      "courge sarrasin décortique). eau",
+      "CEVAIN biologique",
+      "sel",
+      "Levure",
+      "LEVAIN de SEIGLE biolagique. Traces éventuelles de fruits à coque."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/082/000/7547/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Torsades Chocolat",
+    "marca": "E.Leclerc",
+    "ean": "0250832016407",
+    "ingredientes": [
+      "E.LeclercL LECLERC 78800 HOUILLES TORSADES CHOCOLAT XG Ingredients Eau",
+      "farine de BLE",
+      "BEURRE 12%",
+      "Jepites de chocolat 10% sUcre",
+      "masse de cacao",
+      "beurre de cacao",
+      "cacao maiere en poudre",
+      "emylsifiant: lecithine de SOJA)",
+      "sucre",
+      "amidon ad ifie",
+      "levure",
+      "LAIT =creme en poudre",
+      "lactoserum en poudre (LAIT)",
+      "selp OEOFS O",
+      "gelifiants: E401-E341-E450",
+      "emulsifiant: E471",
+      "ome naturel",
+      "agent de traitemant de la farine : 300",
+      "colorant: carotenoides d origine naturelle",
+      "enzyme. Presence eventuelle de fruits a coque. 1000"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulsifiant: E471",
+        "razon": "Contiene emulsifiant: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/083/201/6407/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pizza chorizo",
+    "marca": "E.Leclerc",
+    "ean": "0250849055765",
+    "ingredientes": [
+      "Boule a pizza (farine de BLE",
+      "eau",
+      "semoule de BLE dur",
+      "huile végétal colza",
+      "levure",
+      "sel",
+      "gluten de BLE",
+      "agent de traitement de la FARINE 300)",
+      "cossettes moza (MOZZARELLA (FROMAGE de pâte filée)",
+      "EMMENTAL(FROMAGE de pâte pressée cuite)",
+      "LAIT de vache pasteurisé",
+      "sol",
+      "FERMENTS LACTIQUES",
+      "antiagglomérant:amidon de pomme de terre)",
+      "chorizo 14% (viande de porc origine espagne",
+      "sel",
+      "piments",
+      "dextrine",
+      "LACTOSE",
+      "épices",
+      "dextrose",
+      "stabilisant:sels",
+      "métalliques de diphosphates:nitrite de sodium et nitrate de potassium",
+      "colorant:carmins)",
+      "sauce pizza (purée de tomates",
+      "eau",
+      "amidon modifié de mais",
+      "sucre",
+      "sel",
+      "huile de tournesol",
+      "herbes aromatiques",
+      "épices",
+      "antioxydant : E330)",
+      "poivrons laniere (poivrons rouges",
+      "poivrons vert",
+      "poivrons rouge",
+      "poivrons verts)",
+      "olives noires (olives noires dénoyautées",
+      "eau",
+      "sel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/084/905/5765/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jus de Pomme",
+    "marca": "U bio",
+    "ean": "0250870023931",
+    "ingredientes": [
+      "jus de pomme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/087/002/3931/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "jus de  carotte",
+    "marca": "u",
+    "ean": "0250877459078",
+    "ingredientes": [
+      "jus de carotte de nouvelle Aquitaine (France) acidifiant: jus de citron."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/087/745/9078/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain céréale",
+    "marca": "Leclerc",
+    "ean": "0250900008532",
+    "ingredientes": [
+      "E",
+      "Leclerc L) CERERLES PRR Nos BOULRNGERS Farine de BIE (BLUTEN) (farine de BLE",
+      "GLUTEN de blé",
+      "malt de blé",
+      "enz mes . alpha•amylases",
+      "hémi-celtulase et xylanases",
+      "agent de traitement de ta farine : acide ascorbique)",
+      "farine complète (farine de BLE T 150",
+      "GLUTEN de blé",
+      "farine de blé malté (0.3% max)",
+      "enzvnes : alpha-amvtases",
+      "hémicellulases",
+      "et cellulases",
+      "aoent de traitement de La farine : acide ascorbique)",
+      "eau",
+      "milan es 7 céréales de millet décortiqué",
+      "graines de tournesol graines de Lin brun",
+      "graines de Lin Jaune",
+      "graines de sarrasin décortiqué",
+      "flocons d'avoine",
+      "folcons d'or e)",
+      "sel",
+      "levure",
+      ": farine de IIE (ELIITEN)",
+      "émulsifiant : E471",
+      "GLUTE{ de BLE",
+      "levure seche desactivé",
+      "enzymes : glucose oxydase",
+      "hémicellulase",
+      "alpha amylase",
+      "lipases",
+      "xylanase et cellulases",
+      "agent de traitement de la farine : acide ascorbique",
+      "malt de BLE. Produit fabriqué un atelier qui utilise : sésames",
+      "fruits à coque",
+      "sulfites",
+      "gluten",
+      "lait",
+      "Oeufs. ET NOTRE E.LECLERC SBLOUEL."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471",
+        "razon": "Contiene émulsifiant : E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/090/000/8532/front_fr.10.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette rustique fabriquee par nos boulangers",
+    "marca": "E.Leclerc",
+    "ean": "0250961005259",
+    "ingredientes": [
+      "Farine de BLE (farine de BLE",
+      "GLUTEN DE BLE",
+      "farine de BLE malté",
+      "enzymes: alpha-amylases",
+      "hémi-cellulase et xylanases",
+      "agent de traitement de la farine : acide ascorbique)",
+      "eau",
+      "Levain 20%(eau",
+      "produits de mouture de seigle. cultures starter)",
+      "vinaigre",
+      "sel",
+      "amidon de BLE)",
+      "sel",
+      "Levure",
+      "améliorant : farine de BLE (GLUTEN)",
+      "émulsifiant : E471",
+      "GLUTEN de BLE",
+      "Levure seche desactivé",
+      "enzymes : glucose oxydase",
+      "hémicellulase",
+      "alpha amylase",
+      "Ligases",
+      "xylanase et cellulases",
+      "agent de traitement de La farine : acide ascorbique. malt de BLE."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471",
+        "razon": "Contiene émulsifiant : E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/096/100/5259/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain catygrain",
+    "marca": "Leclerc",
+    "ean": "0250977007872",
+    "ingredientes": [
+      "farine de (GLUTEN) (farine de BLE",
+      "GLUTEN de blé",
+      "malt enzymes : alpha-amylases",
+      "hémi-cellulase et xylanases",
+      "agent de de la farine : acide ascorbique)",
+      "farina catygrain (farine de froment 35.5% graines (lin",
+      "tournesol",
+      "SESBMES)",
+      "farine de seigle",
+      "GLUTEN de blé",
+      "dextrose",
+      "orge broyé",
+      "farine d'avoine prégélattniséB",
+      "fibres de BIF extrait de malt d'orge",
+      "émulsifiant (E472e)",
+      "farine de BLE malté",
+      "toastée",
+      "agent de traitement de la farine (E300)",
+      "enz mes)",
+      "eau",
+      "levure",
+      "améliorant farine de BLE (GLUTEN)",
+      "émulsifiant : E471",
+      "GtllTEN de BLE",
+      "levure sache desactivé",
+      "enzymes : glucose oxydase",
+      "hémicellulase",
+      "alpha amylase",
+      "lipas et cellulases",
+      "agent de traitement de la farine : acide ascorbiqu malt de BLE."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant (E472e)",
+        "razon": "Contiene émulsifiant (E472e), impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiant : E471",
+        "razon": "Contiene émulsifiant : E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/097/700/7872/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Paris Brest",
+    "marca": "Leclerc",
+    "ean": "0250986004923",
+    "ingredientes": [
+      "OEUFs",
+      "farine de BEURRE conte Itre (IRII) 21•:",
+      "sucre",
+      "sel",
+      "poudre à lever : E451)",
+      "EEOI crène atissiere (sucre",
+      "attidon nodifll)",
+      "(LNI Ï)",
+      "ntières grasses vPé etales : coco",
+      "noi8 de coco totalenent hydrog énee",
+      "poudre de 1H11 ECREtlE sirop de glucose",
+      ". • sulfate de calcuin",
+      "diphosphate telrasodique",
+      "gélifiant : alginate de sodiun farine de graines de caroube gonne *anthane",
+      "hydrosupropslnethglce llulcse",
+      "enulsifiant : esters lactiques des nono - et diglycerides d'a cides gras",
+      "protéines de LRIT",
+      "sel",
+      "arbne colorant : l'.aroténoidesì r iboflavines)",
+      "BEURRE dau8 raliné RNRNDESAOISETTE (sucret pâte d de NOISETTES COQUE)",
+      "stabilisant srap de sar bitol (E420ii)",
+      "énulsifiant : lécithine de tournesol (17",
+      "arone ca panel DECORS : Nappage eau",
+      "sucre sirop de glucose FNES effiiees (fruits a coque). R conserver entre OOC et AOC."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/098/600/4923/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brioche Pur Beurre",
+    "marca": "Leclerc",
+    "ean": "0251030017715",
+    "ingredientes": [
+      "INEREOIENTS oête à brioche (farine trad francaise far:ne de BLE",
+      "GLUTEN de BLE de BEURRE doux 121% CREME ferments OEUF entier pasteurise ( OEUF)",
+      "LAIT écrerné ( LAIT demi écrémé (Origine FRANCE)) sucre",
+      "Ibis violet (agent de traitement la aide ascorbique",
+      "auxiliaire technologique enzyma huile 1 5% émulsifiant esters diacétyltaflriques de mono et diglyc",
+      "éfldB dl acide Jasfarine de BLE étuvée). levure (agent de texture E4501-E500/i",
+      "amidon)] sel (Sel antiaggloméfant ferronitri(e de sodium (E535)) (20 mg/kg maximum",
+      "dosage exprimé en équivalent K4Fe(CN)6)))",
+      "bombe arajsse (huile de colza. émulsifiant lécithine de SOJA (E322) gaz butane-propane) LOT 0217314165720"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/103/001/7715/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chausson Pommes Morceaux",
+    "marca": "E.Lecler",
+    "ean": "0251069015744",
+    "ingredientes": [
+      "Chausson aux pommes les 3m (pâte 60%. farine de BLE",
+      "BEURRE 21 6% eau sel. dorure (OEUF) garniture 40% purée de pomme concentrée 20%",
+      "morceaux de pomme 12% sirop de giucose-fructose",
+      "sucre Traces de FRUITS A COQUE)",
+      "Produit décongelé",
+      "ne pas recongeler"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/106/901/5744/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pâte de Dattes",
+    "marca": "Rapunzel",
+    "ean": "02510718",
+    "ingredientes": [
+      "Pâte de Dattes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/0718/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chausson beurre aux pommes x4",
+    "marca": "Leclerc",
+    "ean": "0251095019358",
+    "ingredientes": [
+      "Pâte 58",
+      "_beurre_ 19",
+      "eau",
+      "sel)",
+      "garniture 40% (purée de pommes concentrée 20%",
+      "morceaux de pomme 13%",
+      "sirop de glucose-fructose",
+      "sucre)",
+      "dorure 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/109/501/9358/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Usda Choice Boneless Beef Chunk Eye Steak Family Pack",
+    "marca": "Food4less",
+    "ean": "0251096011771",
+    "ingredientes": [
+      "Beef and natural flavorings"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Cookies",
+    "marca": "Denner",
+    "ean": "02511283",
+    "ingredientes": [
+      "Farine de froment",
+      "sucre",
+      "cacao en pâte",
+      "graisse de palme",
+      "sirop de glucose",
+      "œuf complet (d'élevage au sol)",
+      "lait écrémé en poudre",
+      "beurre de cacao",
+      "poudres à lever: diphosphates et carbonates de sodium",
+      "beurre concentré",
+      "sirop de glucose-fructose",
+      "amidon de froment",
+      "émulsifiant: lécithine de tournesol",
+      "sel de cuisine",
+      "sirop de caramel",
+      "lait entier en poudre",
+      "arôme",
+      "blanc d'œuf en poudre (d'élevage au sol). Peut contenir des traces de soja et de fruits à coque (noix)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/1283/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "15 bean soup",
+    "marca": "Hurst's HamBeens,HamBeens,Hurst, Hurst's",
+    "ean": "02511328",
+    "ingredientes": [
+      "Hydrolyzed soy protein",
+      "maltodextrin",
+      "salt",
+      "artificial flavorings (including artificial smoke flavor)",
+      "silicon dioxide (added less than 2% as an anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/1328/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cajun 15 Bean Soup",
+    "marca": "Hurst's HamBeens Brand",
+    "ean": "02511425",
+    "ingredientes": [
+      "Sugar",
+      "spices and spice extractives (including paprika)",
+      "salt",
+      "dextrose",
+      "corn starch",
+      "dehydrated onion",
+      "soybean oil",
+      "lemon juice powder",
+      "dehydrated garlic",
+      "natural and artificial flavoring (including smoke flavor)",
+      "hydrolyzed soy protein",
+      "silicon dioxide (added less than 2% as an anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/1425/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "White Kaiser Rolls 12-Pack",
+    "marca": "Real Canadian Superstore",
+    "ean": "0251143004794",
+    "ingredientes": [
+      "(Enriched wheat flour",
+      "Water",
+      "Yeast",
+      "Sugar",
+      "Soybean and/or canola oil",
+      "Wheat gluten",
+      "Salt",
+      "Soy lecithin",
+      "Cultured wheat starch",
+      "Ground wheat)",
+      "Durum semolina"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/114/300/4794/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Magret de canard",
+    "marca": "Paysans De Gascogne",
+    "ean": "0251159053793",
+    "ingredientes": [
+      "magret de canard origine France",
+      "eau",
+      "conservateur : sel nitrite",
+      "sel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/115/905/3793/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chipolatas aux herbes",
+    "marca": "Charcuterie Carrel",
+    "ean": "0251368026830",
+    "ingredientes": [
+      "poitrine de porc",
+      "épaule de porc",
+      "sel",
+      "sucre",
+      "dextrose",
+      "(_moutarde_) moulue",
+      "E262",
+      "E325",
+      "E301",
+      "E301",
+      "lactose",
+      "protéine de _lait_ de vache",
+      "arômes naturels",
+      "E120",
+      "E100",
+      "saccharose",
+      "E252",
+      "herbe de provence 0",
+      "boyau naturel"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E120",
+        "razon": "Contiene E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/136/802/6830/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Macarons",
+    "marca": "Leclerc",
+    "ean": "0251413022961",
+    "ingredientes": [
+      "Sucre ? Amandes ? Blancs d'œufs ? Crème (lait) Pulpe Brisures de framboise I % ? Beurre (lait) Amidon de moïs ? Chocolat 0",
+      "beurre de cocoo",
+      "émulsifiant : lécithine de soja) ? Chocolat noir 0",
+      "émulsifiant : lécithine de soja) - Chocolat blanc (sucre",
+      "lait (Joudre",
+      "beurre de cocoo",
+      "émulsifiant : lécithine de soja",
+      "arôme naturel de vanille) ? ? Purée d'amande - Blancs dtœufs en poudre - Sirop de glucose-fructose ? (colza) ? Colorants : rouge de betterave",
+      "caramel ordinaire",
+      "complexes Ü chlorophylline",
+      "phosphate5'de riboflavine - Pistaches 0",
+      "I % - Gélifiants : pectines",
+      "Amidon modifié de maïs - Cacao maigre en poudre Acidifiant acide naturel - Sirop de sucre inverti - Stabilisants : gomme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/141/302/2961/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Atlantic Salmon Fillet Farmed",
+    "marca": "Kirkland Signature",
+    "ean": "0251453540418",
+    "ingredientes": [
+      "ATLANTIC SALMON FILLET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/145/354/0418/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Farmed Salmon Raised Without The Use Of Antibiotics",
+    "marca": "Kirkland Signature",
+    "ean": "0251454030758",
+    "ingredientes": [
+      "Salmon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/145/403/0758/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Tilapia Filets",
+    "marca": "Aldi",
+    "ean": "0251516604750",
+    "ingredientes": [
+      "Atlantic salmon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Granola Original",
+    "marca": "Quaker",
+    "ean": "02515687",
+    "ingredientes": [
+      "de glucose",
+      "tournesol",
+      "farine de riz complète (2%)",
+      "farine de blé",
+      "miel",
+      "mélasse",
+      "antioxydants (extrait de tocophérol). Ce produit est fabriqué sur une ligne de production où différentes sortes de noix sont traitées. Riche en fibres",
+      "sans huile de palme",
+      "sans arômes ni colorants artificiels ni conservateurs. Droog bewaren. De zak na elk gebruik goed sluiten. Conserver au sec. Bien refermer le sachet après chaque utilisation. GEMIDDELDE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/5687/front_nl.4.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Beef Cubed Steak",
+    "marca": "Kroger",
+    "ean": "0251577709159",
+    "ingredientes": [
+      "Beef and natural flavorings."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted Garlic Chicken Legs",
+    "marca": "Kirkland Signature",
+    "ean": "0251579213159",
+    "ingredientes": [
+      "CHICKEN LEGS",
+      "OYSTER SAUCE (WATER",
+      "OYSTER EXTRACT. SUGAR. SALT",
+      "HYDROLYZED CORN. SOY AL WHEAT PROTEINS",
+      "MODIFIED CORNSTARCH",
+      "COLOUR",
+      "CITRIC ACID",
+      "SODIUM BENZOATE)",
+      "CANOLA OIL",
+      "ONION. GARLIC",
+      "SPICES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/157/921/3159/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "baguette épeautre",
+    "marca": "carrefour",
+    "ean": "02516172",
+    "ingredientes": [
+      "Farine de blé d'épeautre* 52%",
+      "eau",
+      "levain de bié d'épeautre 8% (grains de blé d'épeautre germés 4%",
+      "levain de blé d'épeautre",
+      "fibres végétales (inuline)",
+      "vinaigre d'alcool",
+      "sel",
+      "grains de blé d'épeautre)",
+      "sel",
+      "levain déshydraté désactivé",
+      "levure",
+      "farine de blé malté",
+      "agent de traitement de la farine: acide ascorbique. *céréale issue de la filière Qualité Carrefour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/6172/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bacon Cheddar Cheese",
+    "marca": "Trader Joe's",
+    "ean": "0251633105994",
+    "ingredientes": [
+      "AGED CHEDDAR CHEESE ILK",
+      "CULTURES",
+      "SALT",
+      "ENZYMES)",
+      "ANNATTO EXTRACT (FOR COLOR) BACON BITS (PORK BELLIES",
+      "WATER",
+      "SODIUM LACTATE SALT",
+      "SUGAR",
+      "SPICE EXTRACTIVES",
+      "CELERY POWDER)",
+      "TRISODIUM CITRATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/163/310/5994/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chipos végétales aux herbes de Provence",
+    "marca": "Les Nouveaux Fermiers",
+    "ean": "02516743",
+    "ingredientes": [
+      "Eau",
+      "huile de tournesol",
+      "protéines de pois",
+      "protéines de fèves",
+      "stabilisant : méthylcellulose",
+      "herbes aromatiques (dont herbes de Provence 0",
+      "épices",
+      "fibres végétales",
+      "extraits d’épices (extraits d’oignons)",
+      "vinaigre",
+      "amidon de pomme de terre",
+      "arômes naturels",
+      "maltodextrine",
+      "colorant : extrait de betterave rouge",
+      "antioxydant : extrait de romarin. Enveloppe végétale : gélifiant : alginate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/6743/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Navettes x30",
+    "marca": "Leclerc",
+    "ean": "0251780037391",
+    "ingredientes": [
+      "Farine de _blé_",
+      "eau",
+      "sucre",
+      "_beurre_",
+      "_œufs_",
+      "_blanc d'œuf_",
+      "huile de colza",
+      "levure",
+      "_gluten de blé_",
+      "sel",
+      "dorure (eau",
+      "protéines végétales",
+      "farine de riz",
+      "sirop de glucose)",
+      "émulsifiant : E471",
+      "colorant : E160a",
+      "antioxydant : E300",
+      "malt de _blé_"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471",
+        "razon": "Contiene émulsifiant : E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/178/003/7391/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "cenkcim",
+    "marca": "cenkci",
+    "ean": "02518756",
+    "ingredientes": [
+      "cornichons",
+      "eau",
+      "sel",
+      "ail",
+      "E260",
+      "E330",
+      "E202"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/251/8756/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hickory Hardwood Smoked Semi-boneless Ham",
+    "marca": "Publix",
+    "ean": "0251913321946",
+    "ingredientes": [
+      "pork",
+      "water",
+      "salt",
+      "sugar",
+      "sodium phosphates",
+      "sodium erythorbate",
+      "sodium nitrite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/191/332/1946/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "magret de canard frais",
+    "marca": "Arnabar",
+    "ean": "0251940062782",
+    "ingredientes": [
+      "Magret de canard"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/194/006/2782/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Duvalín Sabor Avellana - Vainilla",
+    "marca": "Ricolino",
+    "ean": "02520568",
+    "ingredientes": [
+      "Azúcares Añadidos (Azúcar)",
+      "Aceite Vegetal Hidrogenado",
+      "Sustituto de Leche",
+      "(Azúcares Añadidos",
+      "(Sólidos de Jarabe de Maíz)",
+      "Sólidos de la Leche",
+      "Leche",
+      "Maltodextrina",
+      "Grasa Butírica",
+      "Lectina de Soya",
+      "Mono y Diglicéridos",
+      "Saborizante Artificial)",
+      "Cocoa",
+      "Lectina de Soya",
+      "Poliglicerol de Polirricinoleato",
+      "Saborizantes Naturales y Artificiales."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Mono y Diglicéridos",
+        "razon": "Contiene Mono y Diglicéridos, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "Poliglicerol de Polirricinoleato",
+        "razon": "Contiene Poliglicerol de Polirricinoleato, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/252/0568/front_en.10.400.jpg",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duvalin Bi Sabor",
+    "marca": "Minute Maid,Coca-Cola",
+    "ean": "02520609",
+    "ingredientes": [
+      "APPLE JUICE CONTAINS PURE FILTERED WATER",
+      "CONCENTRATED APPLE JUICE",
+      "LESS THAN 0.5% OF: CALCIUM CITRATE (CALCIUM SOURCE)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "POTASSIUM PHOSPHATE. PRODUCED FOR THE COCA-COLA COMPANY ATLANTA",
+      "GA 30313 U.S.A. CONTAINS APPLE JUICE CONCENTRATE FROM THE U.S.A.",
+      "ARGENTINA",
+      "AUSTRIA",
+      "CHILE",
+      "CHINA",
+      "GERMANY AND TURKEY."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/252/0609/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Briochette",
+    "marca": "Leclerc",
+    "ean": "0252064017054",
+    "ingredientes": [
+      "de 17. frais",
+      "eau",
+      "sucre",
+      "levure",
+      "enulsifianls Ed81",
+      "E172e",
+      "GLUTEN de b} e",
+      "sel",
+      "agent de traitenent de la farine:acide ascorbique",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/206/401/7054/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Vitamin C Plus",
+    "marca": "Nutrilite",
+    "ean": "02521714",
+    "ingredientes": [
+      "L-Ascorbinsäure",
+      "Stabilisatoren (mikrokristalline Cellulose",
+      "Hydroxypropylmethylcellulose",
+      "Methylcellulose)",
+      "Acerolaextrakte 15%",
+      "Grapefruitkonzentrat",
+      "Mandarinenkonzentrate",
+      "Trennmittel (Magnesiumsalze der Speisefettsäuren",
+      "Siliciumdioxid)",
+      "Maltodextrin",
+      "Zitruskonzentrat",
+      "Feuchthaltemittel (Glycerin)",
+      "Überzugsmittel (Carnaubawachs)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/252/1714/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Austria"
+  },
+  {
+    "nombre": "gibril muyale",
+    "marca": "gummy bears,",
+    "ean": "0252203002323",
+    "ingredientes": [
+      "huudiehkeiej"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crêpes",
+    "marca": "Leclerc",
+    "ean": "0252303018378",
+    "ingredientes": [
+      "a ( LAIT (LAIT FRANCE))",
+      "de BLE",
+      "GLUTEN BLE",
+      "MALT de BLE",
+      "amylase fong",
+      "que )",
+      "OEUF entier pasteurisé ( OEUF) huile tournesol' sucre",
+      "sel (Sel",
+      "antiagglomérant (ferranitrile de sodiurrl (E535"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/230/301/8378/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

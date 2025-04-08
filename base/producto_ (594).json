@@ -1,0 +1,855 @@
+[
+  {
+    "nombre": "bio mix salade",
+    "marca": "Auchan",
+    "ean": "0260366026575",
+    "ingredientes": [
+      "graines de sésame",
+      "graines de chia",
+      "graines de lin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/036/602/6575/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte aux pommes",
+    "marca": "intermarché",
+    "ean": "0260379036738",
+    "ingredientes": [
+      "pommes 40%",
+      "(pommes antioydant : E300",
+      "acidifiant: E300)",
+      "purée de pomme (25",
+      "(pomme sucre épaississant: E415) farine de blé (gluten de blé",
+      "farine de blé malgré",
+      "entre ( crème l'ait)",
+      "colorant: (carotène)",
+      "sucre",
+      "oeufs",
+      "sel",
+      "Nappage: eaux",
+      "sirop de glucose",
+      "sucre",
+      "gélifiant",
+      ": E440",
+      "acidifiant: E330",
+      "conservateur: E202",
+      "antioxydant: E223 (sulfites)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/037/903/6738/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lamb shoulder chp",
+    "marca": "Marketside",
+    "ean": "0260433807496",
+    "ingredientes": [
+      "Lamb"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/043/380/7496/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "8 cotes premières de porc",
+    "marca": "Cooperl",
+    "ean": "0260478062058",
+    "ingredientes": [
+      "Viande de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/047/806/2058/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Couronne de Pâques Nature",
+    "marca": "Intermarché, Podis",
+    "ean": "0260482025582",
+    "ingredientes": [
+      "Farine de _blé_",
+      "œufs",
+      "sucre",
+      "beurre (dont _lait_) 10%",
+      "crème de _lait_",
+      "gluten de _blé_",
+      "levure",
+      "sel",
+      "fibre de blé",
+      "émulsifiant : E472e",
+      "_lait_ entier en poudre",
+      "agent de traitement de la farine : acide ascorbique",
+      "colorant d'origine naturelle : lutéine."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E472e",
+        "razon": "Contiene émulsifiant : E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/048/202/5582/front_fr.7.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ribs",
+    "marca": "Madrange",
+    "ean": "0260484081807",
+    "ingredientes": [
+      "porc 96%",
+      "sel",
+      "sucre",
+      "huile de colza",
+      "épices",
+      "plantes aromatiques",
+      "arôme de fumée",
+      "vinaigre d'alcool",
+      "arômes naturels."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/048/408/1807/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignet parfum choco noisette",
+    "marca": "Intermarché",
+    "ean": "0260500013126",
+    "ingredientes": [
+      "Au blé Aux oeufs Prais français Beignets Parfum Choco-noisette Sans huile palme de Fabriqué en France N° de lot: voir sur l'emballage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette constance",
+    "marca": "Intermarché",
+    "ean": "0260502005587",
+    "ingredientes": [
+      "Farine de blé 56%",
+      "eau",
+      "levain de seigle",
+      "gluten de blé",
+      "sel",
+      "levure",
+      "farine de blé malté. Certains ingrédients ne sont pas français."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/050/200/5587/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pizza saumon",
+    "marca": "Leclerc",
+    "ean": "0260505045269",
+    "ingredientes": [
+      "Pâte ciabatta 43% (Farine (Farine de BLE",
+      "GLUTEN de BLE",
+      "acide ascorbique)",
+      "Eau",
+      "Huile d'olive extra vierge",
+      "Sel (Sel blanc alimentaire",
+      "non iodé",
+      "non fluoré (marin",
+      "ignigène ou gemme))",
+      "Levure",
+      "(Farine de BLE",
+      "émulsifiants (E471 ( végétal))",
+      "agent de traitement de la farine (E300)))",
+      "Crème 20% (Crème (LAIT)",
+      "ferments LACTIQUES)",
+      "Saumon fumé 18% (Saumon ( POISSON) Atlantique (Salmo salar) (96%)",
+      "sel (3%)",
+      "sucre (1%))",
+      "Mozzarella 18% CLAIT de vache pasteurisé (origine UE)",
+      "sel",
+      "ferments LACTIQUES",
+      "coagulant microbien",
+      "amidon de pomme de terre)",
+      "Câpres (Câpres",
+      "eau",
+      "vinaigre d'alcool",
+      "sel)",
+      "Aneth efffeuillé"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants (E471 ( végétal))",
+        "razon": "Contiene émulsifiants (E471 ( végétal)), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/050/504/5269/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette cereales",
+    "marca": "Constance",
+    "ean": "0260508006236",
+    "ingredientes": [
+      "PAIN AUX CÉRÉALES",
+      "GRAINES ET À LA FARINE DE MAÏS Ingrédients Farine de blé (UE) 51%",
+      "eau graines (UE) 4",
+      "Tillet",
+      "lin brun",
+      "lin jaune",
+      "pavot)",
+      "A",
+      "farine de maïs torréfie au feu de bois (UE) gluten de blé (UE)",
+      "levure",
+      "ermede blé fermenté (UE)",
+      "filre de blé (UE)",
+      "farine de blé malté (UE)",
+      "levure séchée désactivée",
+      "agent de traitement de la farine: 800. Céréales.' 53%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/050/800/6236/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "NETTO",
+    "marca": "Baguette 6 Grains, Netto",
+    "ean": "0260511007817",
+    "ingredientes": [
+      "farine de BLÈ (Aveyron",
+      "France) 64% ? gél:nge de 6 graines (9",
+      "millet' csol",
+      "lin jaune",
+      "SÉSAME ct pavot bleu) de BLÈct de SEIGLE 8% ? scl 1",
+      "agent de traitement de la farine E300 [lest élaboré dans un atelier utilisant ŒUFS",
+      "LAIT et FRUITS à COQUE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/051/100/7817/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ma pause bistrot",
+    "marca": "Daunat",
+    "ean": "0260513019023",
+    "ingredientes": [
+      "SALADE COMPOSÉE DE BOULGOUR CUIT",
+      "DE suDs DE FROMAGE AU LAIT DE DE TOMATE CERISE",
+      "DE CRANBERRIS SUCRES SECHEES ET DE NOIX ACCOMPAGNÉE D'UNE VINAIGRETTE AU VINAIGRE BALSAMIQUE",
+      "D'UN PAIN AUX GRAINES DE SÉSAME ET D'UNE TARTELETTE AU CHOCOLAT NOIR 1 CHEESE",
+      "CRANBERRIES",
+      "WALNUTS",
+      "BULGUR",
+      "VEGETABLE suD",
+      "BALSAMIC BREAD AND CHOCOLATE TART Les équipes Daunat ont préparé pwr vous ce coGGret avec les ingrédients sélectionnés suivants • SALADE COMPOSÉE 276 g : Boulgour (blé) cuit 49% (eau",
+      "boulgour (blé)",
+      "sel)",
+      "Salade 13%",
+      "Fromage au lait de vache pasteurisé fabrique en France 11 % (lait de vache",
+      "sel",
+      "ferments lactiques et fongiques",
+      "coagulant)",
+      "Sauce vinaigrette au vinaigre balsamique 9% uile de colza",
+      "vinaigre balsamique de Modène 2.3% (vinaigre de vin (contient sulfite)",
+      "moût de raisin contient sulfite)",
+      "colorant : caramel au sulfite d'ammonium",
+      "antioxydant : E224 (sulfite)",
+      "huile d'olive vierge extra 2.3%",
+      "eau",
+      "sel",
+      "poivre",
+      "arôme (céleri)]",
+      "Tomate cerise 5.5%",
+      "Cranberries sucrées séchées 3.5% (cranberries",
+      "sucre de canne",
+      "huile de tournesol)",
+      "Noix 3.5%",
+      "Eau",
+      "Huile de colza",
+      "Tomate déshydratée",
+      "Ferments",
+      "Herbes aromatiques. PAIN AUX GRAINES DE SESAME 30 g : Farine de blé",
+      "Eau",
+      "Huile de colza",
+      "Graines de sésame toastées 3%",
+      "Levure",
+      "Sucre",
+      "Sel",
+      "Emulsifiants : E471-E481",
+      "Gluten de blé",
+      "Fibre de blé",
+      "Fibre de plantain",
+      "Agent de traitement de la farine : acide ascorbique. TARTELETTE AU CHOCOLAT NOIR 14 g : Farine de blé",
+      "Chocolat noir 28% (pâte de cacao",
+      "sucre",
+      "beurre de cacao",
+      "émulsifiant : E322 (soja)",
+      "arôme naturel de vanille)",
+      "Sucre de canne",
+      "Beurre concentré",
+      "Oeufs frais",
+      "Matière grasse de coprah",
+      "Huile de colza",
+      "Poudre de lait entier",
+      "Sel",
+      "Poudres à lever : carbonate de sodium-E341. Les pourcentages sont exprimés en fonction du poids de chaque partie du coffret. Informations en gras destinées aux personnes allergiques. Traces éventuelles de moutarde",
+      "œuf",
+      "crustacé",
+      "poisson et fruits à coque."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulsifiants : E471-E481",
+        "razon": "Contiene Emulsifiants : E471-E481, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/051/301/9023/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 beignets a la framboise",
+    "marca": "Intermarché",
+    "ean": "0260514009849",
+    "ingredientes": [
+      "à la FramBoise l'ŒaEDIENTS : Fanne de blé (gluten) - Eau - Œufs - Sucre - Purée de framboise 10",
+      "colza) - Levure - - Glycérine - Sel - Emulsifiants : E471",
+      "E472 - Amidon transformé de maïs - Gélifiant : pectine - Jus concentré rouges - correcteur d'acidité : acide citrique - Conservateur : sorbate de potassium - Colorant : caroténdides - Arômes• contient : gluten",
+      "Œufs. ce produit a pu être en contact avec : arachides",
+      "lait",
+      "fruits à coque",
+      "soja. pleurs"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colza) - Levure - - Glycérine - Sel - Emulsifiants : E471",
+        "razon": "Contiene colza) - Levure - - Glycérine - Sel - Emulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472 - Amidon transformé de maïs - Gélifiant : pectine - Jus concentré rouges - correcteur d'acidité : acide citrique - Conservateur : sorbate de potassium - Colorant : caroténdides - Arômes• contient : gluten",
+        "razon": "Contiene E472 - Amidon transformé de maïs - Gélifiant : pectine - Jus concentré rouges - correcteur d'acidité : acide citrique - Conservateur : sorbate de potassium - Colorant : caroténdides - Arômes• contient : gluten, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/051/400/9849/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini-beignets fourres au pomme",
+    "marca": "Les Delices Des 7 Vallees",
+    "ean": "0260514019022",
+    "ingredientes": [
+      "Matières grasses :"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/051/401/9022/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic Pepper Jack",
+    "marca": "Trader Joe's",
+    "ean": "0260519404236",
+    "ingredientes": [
+      "ORGANIC PASTEURIZED MILK",
+      "CHEESE CULTURES",
+      "ORGANIC BRINED DICED JALAPEÑO PEPPERS (ORGANIC GREEN AND RED JALAPEÑO PEPPERS",
+      "ORGANIC VINEGAR",
+      "SALT)",
+      "SALT",
+      "MICROBIAL ENZYME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/051/940/4236/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Donuts",
+    "marca": "Intermarche",
+    "ean": "0260521016403",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "huile de palme",
+      "margarine(huile et graisse végétale (palme",
+      "colza)",
+      "eau",
+      "jus de citron)",
+      "sucre",
+      "levure",
+      "sel",
+      "émulsifiants (E471-E472e-E481)",
+      "gluten poudre à lever (E450i-E500ii)",
+      "dextrose",
+      "stabilisant (E412)",
+      "lactosérum en poudre",
+      "lactose. Glaçage (8.690) : sucre",
+      "graisses végétales (palmiste",
+      "palme)",
+      "cacao maigre en poudre (13%)",
+      "émulsifiant (E322). Décor (5.200 : sucre",
+      "beurre de cacao",
+      "lait entier en Tr nrnc?- ?"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants (E471-E472e-E481)",
+        "razon": "Contiene émulsifiants (E471-E472e-E481), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/052/101/6403/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini muffin coeur fondant au citron",
+    "marca": "Les delices Des 7 Vallées",
+    "ean": "0260545019022",
+    "ingredientes": [
+      "Fourrage parfum citron 23% (sirop de glucose-fructose",
+      "purée de pomme",
+      "eau",
+      "jus de citron concentré 5%",
+      "correcteurs d'acidité'. E331iii-E333iii",
+      "épaississant: E440",
+      "arôme naturel de citron 1%",
+      "conservateur: E202",
+      "colorant naturel: EIOO)",
+      "sucre",
+      "farine de BLE",
+      "OEUFS",
+      "huile de colza",
+      "citrons semis-confits 13% (cubes d'écorce de citron",
+      "sirop de glucose-fructose",
+      "sucre",
+      "acidifiant: E330",
+      "conservateurs: E202-E220 (SULFITES))",
+      "eau",
+      "amidon modifié",
+      "LAIT en poudre",
+      "émulsifiants: E477-E471-E481",
+      "arôme naturel de citron 0",
+      "poudre à lever: E450i-E500ii",
+      "sel",
+      "GLUTEN DE BLE. arômes",
+      "conservateur: E202. Présence de fruits à coque et de graines de sésame."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants: E477-E471-E481",
+        "razon": "Contiene émulsifiants: E477-E471-E481, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/054/501/9022/front_fr.13.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "yfood Vegan Berry",
+    "marca": "yfood",
+    "ean": "0260556632513",
+    "ingredientes": [
+      "Wasser",
+      "Sojaprotein",
+      "pflanz - liche Öle (Raps",
+      "Sonnenblume)",
+      "lösliche Maisfaser",
+      "Maltodextrin",
+      "glutenfreie Haferfaser",
+      "Tapiokastärke",
+      "Reispulver (Reismehl",
+      "Reisstärke",
+      "Reissirup)",
+      "Him - beerpüree 0",
+      "getrocknete Erdbeeren 0",
+      "Vitamine (A",
+      "C",
+      "K",
+      "B1",
+      "B3",
+      "B5",
+      "B6",
+      "Folsäure",
+      "B12)",
+      "Mineralstoffe (Kalium",
+      "Chlorid",
+      "Calcium",
+      "Magnesium",
+      "Zink",
+      "Mangan",
+      "Selen",
+      "Chrom",
+      "Molybdän",
+      "Jod)",
+      "Emulgator: Lecithine (Soja)",
+      "Maisstärke",
+      "Süßungsmittel: Sucralose",
+      "Stabilisatoren: Johannisbrotkernmehl",
+      "Gellan",
+      "Farbstoff: Lycopin",
+      "natürliche Aromen."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulgator: Lecithine (Soja)",
+        "razon": "Contiene Emulgator: Lecithine (Soja), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/055/663/2513/front_de.10.400.jpg",
+    "tahor": false,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "pain",
+    "marca": "Intermarché",
+    "ean": "0260560005581",
+    "ingredientes": [
+      "farine de froment farine de seigle farine de malt e471 e322 sel eau beurre"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "farine de froment farine de seigle farine de malt e471 e322 sel eau beurre",
+        "razon": "Contiene farine de froment farine de seigle farine de malt e471 e322 sel eau beurre, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/056/000/5581/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Queso Quesadilla Cheese",
+    "marca": "La Chona",
+    "ean": "0260566002744",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "cheese cultures",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Queso Oaxaca, Mexican String Cheese",
+    "marca": "La Chona",
+    "ean": "0260586003493",
+    "ingredientes": [
+      "Pasteurized milk",
+      "skim milk",
+      "salt",
+      "sodium citrate",
+      "salt",
+      "acetic acid",
+      "calcium chloride",
+      "potassium sorbate",
+      "rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain aux noix",
+    "marca": "Intermarché",
+    "ean": "0260598010502",
+    "ingredientes": [
+      "Farine de BLE",
+      "eau",
+      "NOIX 7",
+      "farine de SEIGLE",
+      "sel",
+      "GLUTEN de BLE",
+      "levure",
+      "levain de SEIGLE dévitalisé",
+      "son de BLE",
+      "farine de BLE malté",
+      "levure désactivée",
+      "farine d'ORGE maltée toastée",
+      "gent de traitement de la farine (E300). Peut contenir des traces de : sésame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/059/801/0502/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain boule",
+    "marca": "Intermarché, La Campanière",
+    "ean": "0260607006564",
+    "ingredientes": [
+      "Farine de blé (France)* (48%)",
+      "eau",
+      "farine de seigle (UE)*",
+      "levain* (eau",
+      "farines de blé et de malt de blé",
+      "vinaigre&quot",
+      "sel",
+      "amidon de blé)",
+      "sel",
+      "levure. Issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/060/700/6564/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignets chocolat noisette",
+    "marca": "Intermarché",
+    "ean": "0260608019358",
+    "ingredientes": [
+      "Farine de blé (gluten) - Huiles végétales (colza",
+      "tournesol) - Sucre - œufs - Eau - Cacao maigre en poudre 1",
+      "E472",
+      "lécithine de tournesol - Sel - Gluten de blé - Noisettes 0.5% - Arômes naturels - Colorant : caroténoïdes."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E472",
+        "razon": "Contiene E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/060/801/9358/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette à base de farine Label Rouge",
+    "marca": "Intermarché, La campanière",
+    "ean": "0260615006235",
+    "ingredientes": [
+      "Farine de blé Label Rouge (France) 510",
+      "levain de blé dur (France)",
+      "Levain de blé dur dévitalisé (UE) gluten de blé (UE)",
+      "sel",
+      "levain de froment (blé) dévitalisé (UE)",
+      "levure",
+      "farine de blé malté (France)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/061/500/6235/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain grandes tranches",
+    "marca": "Genius Sans Gluten",
+    "ean": "0260648029522",
+    "ingredientes": [
+      "Eau/amidon de maïs fécule de pomme de terre",
+      "fécule de tapioca",
+      "huile de colza",
+      "mélasse",
+      "Huméctant : glycérine végétate",
+      "enveloppes de psyllium en poudre",
+      "graines de lin dorées gomme de xanthane",
+      "fibre de betterave à sucre",
+      "levure",
+      "blanc dieuf set iodé : sel",
+      "iodate de potassium",
+      "amidonde maïs fermenté",
+      "son de riz."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/064/802/9522/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chicken Breast Tenderloins",
+    "marca": "Kirkwood",
+    "ean": "0260664006187",
+    "ingredientes": [
+      "boneless",
+      "skinless chicken breast tenderloins"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/066/400/6187/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beignet chocolat noisette",
+    "marca": "Sans",
+    "ean": "0260709009845",
+    "ingredientes": [
+      "Farine de blé (gluten) - Huiles végétales (colza",
+      "tournesol) - Sucre - œufs - Eau - Cacao maigre en poudre 1",
+      "E472",
+      "lécithine de tournesol - Sel - Gluten de blé - Noisettes 0",
+      "œufs",
+      "fruits à coque",
+      "lait Ce produit a pu être en contact avec : arachides",
+      "soja."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E472",
+        "razon": "Contiene E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/070/900/9845/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Muesli chocolat amarante",
+    "marca": "simplement Bon et Bio",
+    "ean": "02607345",
+    "ingredientes": [
+      "flocons d'_avoine_ complet 39%",
+      "amarante soufflée 12%",
+      "chocolat au lait 12% ( sucre de canne",
+      "poudre de _lait_ entier",
+      "beurre de cacao",
+      "pâte de cacao)",
+      "sucre de canne",
+      "farine d'avoine complet",
+      "semoule de maïs",
+      "huile de tournesol",
+      "flocon de _blé_ complet 5%",
+      "farine d'_épeautre_ complet",
+      "poudre de cacao maigre",
+      "flocon de noix de coco",
+      "miel",
+      "_noisette_ concassées",
+      "sel de mer"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/260/7345/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chicken Thighs & Drumsticks Picnic Pack",
+    "marca": "Foster Farms",
+    "ean": "0260763208024",
+    "ingredientes": [
+      "Chicken thighs & drumsticks."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain pave du larzac",
+    "marca": "Intermarche",
+    "ean": "0260775014439",
+    "ingredientes": [
+      "do BLÉ (Aveyron",
+      "France) blo&quot",
+      "• cau : 9EiGLEflO/0 • farine 1",
+      "tarinede malt d'ORGk• Icvufevemylsifiant €471 rino de",
+      "BLÉ malté agent de tràiieihent de f.arÌrie 115eSt élaboré danSgti atel utilisané ŒUFS/LÀIT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/077/501/4439/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambonnette forezienne",
+    "marca": "Leclerc",
+    "ean": "0260789013329",
+    "ingredientes": [
+      "viandes de porc (origine UE) couenne de porc",
+      "eau",
+      "assaisonnement (dextrose",
+      "_lait_ écréme en poudre",
+      "lactoprotéine",
+      "_lactose_",
+      "épices",
+      "plantes aromatiques (poivre blanc et ail))",
+      "émulsifiants di et tri phosphates E451",
+      "antioxydants (E301",
+      "E316)",
+      "colorant E120"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colorant E120",
+        "razon": "Contiene colorant E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/078/901/3329/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Kouign des Gras de Douarnenez",
+    "marca": "Intermarché",
+    "ean": "0260810043950",
+    "ingredientes": [
+      "farine de _froment_",
+      "_beurre_",
+      "sucre",
+      "eau",
+      "levure chimique",
+      "raisins",
+      "rhum",
+      "_oeufs_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/081/004/3950/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Petits pains aux céréales",
+    "marca": "Genius",
+    "ean": "0260820019686",
+    "ingredientes": [
+      "amidon de -?etcurnéOVgiaiàëSdeûrikùàinèS de fibièdebettèFaVé Sbucté",
+      "ph?ii2Ègrài ôi#tn",
+      "FàiipéÒeF=Ü"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/082/001/9686/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte au citron meringuée",
+    "marca": "Leclerc",
+    "ean": "0260828036739",
+    "ingredientes": [
+      "Meringues 28% (sucre glace (sucre",
+      "amidon)",
+      "eau",
+      "sirop de glucose (sirop de glucose",
+      "conservateur: E220)",
+      "blanc d'OEUF en poudre",
+      "gélifiant: Gélatine bovine",
+      "conservateur: E202)",
+      "sucre",
+      "farine de blé (GLUTEN)",
+      "jus de citron de Sicile 15%",
+      "OEUFS frais",
+      "beurre (LAIT)",
+      "sucre roux",
+      "poudre à flan (amidon modifiés",
+      "arôme)",
+      "eau",
+      "arôme naturel de citron vert avec autres arômes naturels",
+      "sel",
+      "levure chimique (amidon de blé (GLUTEN)",
+      "poudre à lever: E450i",
+      "E500ii). colorant : E160a."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/082/803/6739/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

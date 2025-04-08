@@ -1,0 +1,963 @@
+[
+  {
+    "nombre": "Des de jambon",
+    "marca": "Marniere Viandes",
+    "ean": "0237401039104",
+    "ingredientes": [
+      "DES DE ln",
+      "édients: Jambon de porc (origine France)",
+      "jus de pomme",
+      "sel nitrité. aromes narels. sel et aceroLa",
+      "fl conserver entre 00 et AOC. Valurs nutritives pour 100g"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "édients: Jambon de porc (origine France)",
+        "razon": "Contiene édients: Jambon de porc (origine France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/740/103/9104/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Orange Brioche Fruit Loaf",
+    "marca": "Morrisons",
+    "ean": "0237421000795",
+    "ingredientes": [
+      "Glazed orange flavour brioche with butter studded with sultanas"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/742/100/0795/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Étoiles pour beurre",
+    "marca": "Leader Price",
+    "ean": "02375250",
+    "ingredientes": [
+      "Farine de blé - œufs - sucre - beurre reconstitué 22% - sorbitol - glycérol - sirop de glucose-fructose - dextrose - sel - arôme (contient alcool) - diphosphates",
+      "carbonates de sodium - acide citrique - amidon de blé. T"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/237/5250/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tesco Fresh Diced Pork Topside 500G",
+    "marca": "Tesco,Tesco Health Living",
+    "ean": "0237545001975",
+    "ingredientes": [
+      "pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/754/500/1975/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chicken Salad Made With Rotisserie Chicken",
+    "marca": "Kirkland",
+    "ean": "0237719215337",
+    "ingredientes": [
+      "rotisserie chicken breast",
+      "water",
+      "salt",
+      "sodium phosphate",
+      "modified potato starch",
+      "modified tapioca starch",
+      "potato dextrin",
+      "carrageenan",
+      "sugar",
+      "dextrose",
+      "spice extractives",
+      "dressing",
+      "celery",
+      "soybean oil",
+      "sour cream",
+      "cream",
+      "nonfat dry milk",
+      "modified corn starch",
+      "sodium tripolyphosphate",
+      "guar gum",
+      "calcium sulfate",
+      "carrageenan",
+      "mono",
+      "diglycerides",
+      "potassium chloride",
+      "locust bean gum",
+      "salt",
+      "potassium sorbate",
+      "onions",
+      "eggs",
+      "contains 2% or less of the following",
+      "water",
+      "egg yolks",
+      "sugar",
+      "salt",
+      "distilled vinegar",
+      "mustard seed",
+      "spices",
+      "lactic acid",
+      "parsley",
+      "modified corn starch",
+      "sodium benzoate",
+      "potassium sorbate",
+      "paprika",
+      "xanthan gum",
+      "lemon juice concentrate",
+      "paprika",
+      "granulated onion",
+      "garlic",
+      "turmeric",
+      "calcium disodium EDTA",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/771/921/5337/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Salad Made With Rotisserie Chicken",
+    "marca": "Kirkland Signature",
+    "ean": "0237719914988",
+    "ingredientes": [
+      "rotisserie chicken breast",
+      "water",
+      "salt",
+      "sodium phosphate",
+      "modified potato starch",
+      "modified tapioca starch",
+      "potato dextrin",
+      "carrageenan",
+      "sugar",
+      "dextrose",
+      "spice extractives",
+      "dressing",
+      "celery",
+      "soybean oil",
+      "sour cream",
+      "cream",
+      "nonfat dry milk",
+      "modified corn starch",
+      "sodium tripolyphosphate",
+      "guar gum",
+      "calcium sulfate",
+      "carrageenan",
+      "mono - and diglycerides",
+      "potassium chloride",
+      "locust bean gum",
+      "potassium sorbate",
+      "spices",
+      "lactic acid",
+      "parsley",
+      "modified corn starch",
+      "sodium benzoate",
+      "potassium sorbate",
+      "xanthan gum",
+      "lemon juice concentrate",
+      "paprika",
+      "granulated onion",
+      "garlic",
+      "turmeric",
+      "calcium disodium EDTA",
+      "natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/771/991/4988/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beef Sirloin",
+    "marca": "Asda",
+    "ean": "0237730007645",
+    "ingredientes": [
+      "Beef Sirloin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/773/000/7645/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Savoury Vegan rolls",
+    "marca": "Morrisons Oven",
+    "ean": "0237884001506",
+    "ingredientes": [
+      "Water",
+      "Fortified wheat flour ( wheat flour",
+      "calcium carbonate",
+      "iron",
+      "niacin",
+      "thiarmin)",
+      "Palm oil",
+      "Soya protein concentrate",
+      "Sunflower oil",
+      "Rapeseed oil",
+      "Modified maize starch",
+      "Salt",
+      "Gelling Agent (Methyl cellulose)",
+      "Onion",
+      "Onion powder",
+      "Mushroom",
+      "Sage",
+      "Emulsifier (Mono - and diglycerides of fatty acids)",
+      "Yeast extract",
+      "Raising Agents (Aminonium carbonates",
+      "Sodium carbonates)",
+      "White pepper",
+      "Nutmeg",
+      "Cayenne pepper",
+      "Mushroom powder",
+      "Sugar",
+      "Cornflour",
+      "Parsley",
+      "Malted barley extract",
+      "Wheat. protein."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/788/400/1506/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Pizza Mexicaine",
+    "marca": "E.Leclerc",
+    "ean": "0238227064943",
+    "ingredientes": [
+      "pâte à pizza (FARINE DE BLE",
+      "gluten de blé",
+      "FARINE DE BLE MALTE",
+      "agent de traitement de la farine",
+      "acide ascorbique",
+      "enzymes",
+      "alpha - amylases",
+      "hémicellulases",
+      "eau",
+      "huile d'olive vierge extra",
+      "levure)",
+      "pizza sauce aromatizzata (tomate",
+      "sel",
+      "basilic",
+      "origan",
+      "oignons)",
+      "mix mozzarella (LAIT pasteurisé",
+      "antiagglomérant",
+      "sel",
+      "fermants lactiques",
+      "coagulant)",
+      "émincés de poulet (haut de cuisse de poulet",
+      "origine France",
+      "sel",
+      "conservateur lactate de potassium",
+      "diacétate de sodium",
+      "arômes naturels dextrose épaississant",
+      "carraghénanes antioxydant ascorbate",
+      "de sodium)",
+      "chorizo doux coupe ( viande de porc",
+      "sel protéines de porc",
+      "sirop de glucose",
+      "dextrine de pomme de ter",
+      "ail déshydraté sucre dextrose",
+      "huile de tournesol raffine stabilisateur",
+      "e450 e452 colorant e160c",
+      "épices",
+      "extrait de betterave extrait d'épices",
+      "antioxydant e301 conservateur e250",
+      "aromes",
+      "gélifiants",
+      "e415 e417",
+      "oignons",
+      "poivron vert",
+      "olives noire (olives noires",
+      "sel",
+      "huile d'olive",
+      "conservateur e202)",
+      "persil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/822/706/4943/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salzkaramell",
+    "marca": "Principessa's at home",
+    "ean": "02382890",
+    "ingredientes": [
+      "Sonnenblumenöl",
+      "Zucker",
+      "Mager - milchpulver",
+      "Karamellzucker (1%)",
+      "Salz",
+      "Aroma",
+      "Kakaobutter (Kakaobutter",
+      "Magermilchpulver",
+      "Stabilisator: E450)",
+      "Emulgator: E471."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulgator: E471.",
+        "razon": "Contiene Emulgator: E471., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/238/2890/front_de.4.400.jpg",
+    "tahor": false,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Mini Muffin Milka",
+    "marca": "Leclerc, Milka",
+    "ean": "0238375019611",
+    "ingredientes": [
+      "Farine de _blé_",
+      "Huile végétale : Colza",
+      "Sucre",
+      "Eau",
+      "Chocolat Milka au lait du pays alpin (12 %) (Sucre",
+      "Beurre de cacao",
+      "Poudre de _lait_ écrémé",
+      "Pâte de cacao",
+      "Poudre de _lactosérum_",
+      "_Beurre_ clarifié",
+      "Pâte de _noisette_",
+      "émulsifiant : lécithine de _soja_ (E322)",
+      "Arôme",
+      "(Cacao: 30% minimum)",
+      "Amidon de _blé_: Poudre à lever: Diphosphates (E450)",
+      "Carbonates de sodium (E500)",
+      "Phosphates de calcium (E341)",
+      "Glucono delta-lactone (E575)",
+      "Amidon modifié (E1442)",
+      "Protéines de _lactosérum_ concentrées",
+      "Farine de riz prégélatinisée",
+      "Poudre de _lactosérum_ Poudre d'_œuf_ entier",
+      "émulsifiant Stéaroy 2-lactylate de sodium (E481)",
+      "Arôme naturel de vanille",
+      "Sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/837/501/9611/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saumon fumé tranché",
+    "marca": "Grizzly",
+    "ean": "0238425908995",
+    "ingredientes": [
+      "Saumon sockeye sauvage",
+      "sel",
+      "épices",
+      "sirop d'érable",
+      "culture bactérienne",
+      "fumée de bois naturelle"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Barbecue Ribs à la Mexicaine",
+    "marca": "Brocéliande",
+    "ean": "0238431033322",
+    "ingredientes": [
+      "Loin ribs de porc 92 %",
+      "huiles végétales (colza et tournesol)",
+      "épices et plantes aromatiques arômes naturels",
+      "arôme de fumée",
+      "sel",
+      "sirop de glucose",
+      "fécule de pomme de terre",
+      "acidifiant : E330."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/843/103/3322/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Barbecue ribs a la mexicaines",
+    "marca": "Broceliande",
+    "ean": "0238431045004",
+    "ingredientes": [
+      "RIBS DE PORC MARINE CUIT SAVEUR MEXICAINE Ingrédienté: Loin rlbs de porc 92%",
+      "huiles végétales (colza et tournesol)",
+      "épices et plantes aromatiques) arômes naturels",
+      "arôme de fumée",
+      "sel",
+      "sirop de glucose",
+      "fécule de pomme de terre",
+      "acidifiant: E330. Traces de MOUTARDE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/843/104/5004/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "NESCAFE ORIGINAL(3 in 1)",
+    "marca": "Nestle",
+    "ean": "0238500039279",
+    "ingredientes": [
+      "Coffee [Glicose syrup",
+      "Fully hydrogenated vegetable oil",
+      "Acidity régulators (E340ii",
+      "E331ii",
+      "E452i)",
+      "Sodium caseinde (Milk protein)",
+      "Ehulsifiers (E471",
+      "E472e)",
+      "Anticaking agent (E1701)",
+      "Sakl",
+      "Sugar",
+      "Instant coffee",
+      "Salt. Allergen: Contains MILK DERIVATIVE."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Ehulsifiers (E471",
+        "razon": "Contiene Ehulsifiers (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e)",
+        "razon": "Contiene E472e), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/850/003/9279/front_en.7.400.jpg",
+    "tahor": false,
+    "pais": "Nigeria"
+  },
+  {
+    "nombre": "Trapper's creek, smoked salmon",
+    "marca": "Trapper's Creek",
+    "ean": "0238595907002",
+    "ingredientes": [
+      "Wild salmon filet",
+      "salt",
+      "brown sugar",
+      "corn syrup solids",
+      "potassium lactate",
+      "sodium phosphate",
+      "natural flavoring",
+      "spices",
+      "garlic powder",
+      "sodium erythorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salmon Fillet Fresh",
+    "marca": "Jewel,Jewel Pier 14",
+    "ean": "0238652306236",
+    "ingredientes": [
+      "Salmon Fillet Fresh"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/865/230/6236/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peperkoek minder suiker",
+    "marca": "Lotus",
+    "ean": "02389363",
+    "ingredientes": [
+      "Farine de seigle 40%",
+      "fibre ade racine de chicorée",
+      "edulcorant (xylitololisant (glycérol)",
+      "épices",
+      "huile de tournesol",
+      "povesaire aro hate acide de sodium",
+      "diphosphate disodique). Peut contenir des traces d fruit à coque et lait."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Supremas, chicken nuggets",
+    "marca": "Supremas",
+    "ean": "0238950005794",
+    "ingredientes": [
+      "White chicken",
+      "water",
+      "chicken skin",
+      "textured soy protein concentrate",
+      "salt",
+      "sodium phosphates. breaded with: enriched bleached wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "dextrose",
+      "salt",
+      "soybean oil",
+      "extractives of paprika and annatto. battered with: water",
+      "enriched wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "yellow corn flour",
+      "salt",
+      "spices",
+      "garlic powder",
+      "natural flavor",
+      "extractives of paprika",
+      "disodium inosinate and disodium guanylate. fried in oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Supremas, breaded chicken patties",
+    "marca": "Supremas",
+    "ean": "0238951005908",
+    "ingredientes": [
+      "White chicken",
+      "water chicken skin",
+      "textured soy protein concentrate",
+      "salt",
+      "sodium phosphates. breaded with: enriched bleached wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "dextrose",
+      "salt",
+      "soybean oil",
+      "extractives of paprika and annatto. battered with: water",
+      "enriched wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thaimine monoitrate",
+      "riboflavin",
+      "folic acid)",
+      "yellow corn flour",
+      "salt",
+      "spices",
+      "garlic powder",
+      "natural flavor",
+      "extractives of paprika",
+      "disodium inosinate and disodium guanylate. fried in oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Breaded Chicken Patties",
+    "marca": "Supremas",
+    "ean": "0238951006325",
+    "ingredientes": [
+      "White chicken",
+      "water",
+      "chicken skin",
+      "textured soy protein concentrate",
+      "salt sodium phosphates. breaded with: enriched bleached wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "dextrose",
+      "salt",
+      "soybean oil",
+      "extractives of paprika and annatto. battered with: water",
+      "enriched wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "yellow corn flour",
+      "salt",
+      "spices",
+      "garlic powder",
+      "natural flavor",
+      "extractives of paprika",
+      "disodium inosinate and disodium guanylate. fried in oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "T&j sausage kitchen, chicken strips",
+    "marca": "T&J Sausage Kitchen",
+    "ean": "0238964005629",
+    "ingredientes": [
+      "White chicken",
+      "water",
+      "chicken skin",
+      "textured soy protein concentrate",
+      "salt",
+      "sodium phosphates. breaded with: enriched bleached wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "dextrose",
+      "salt",
+      "soybean oil",
+      "extractives of paprika and annatto. battered with: water",
+      "enriched wheat flour",
+      "(enriched with niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "yellow corn flour",
+      "salt",
+      "spices",
+      "garlic powder",
+      "natural flavor",
+      "extractives of paprika",
+      "natural flavor",
+      "extractives of paprika",
+      "disodium inosinate and disodium guanylate. fried in oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brie label rouge",
+    "marca": "E. Leclerc",
+    "ean": "0239001023224",
+    "ingredientes": [
+      "LAIT de vache thermisel température inférieure à la pasteurisation (origine France))."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/900/102/3224/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Flan patissier",
+    "marca": "Leclerc",
+    "ean": "0239015015741",
+    "ingredientes": [
+      "flan la part (maxi flan 27 cm LAIT (LACTOSE) écrémé frais",
+      "sucre",
+      "beurre (LACTOSE)",
+      "farine de blé (GLUTEN)",
+      "poudre à flan",
+      "sel",
+      "œufs frais",
+      "eau",
+      "arôme vanille ) (colorants EIG0a E 100))"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/901/501/5741/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Briochettes chocolat",
+    "marca": "Leclerc",
+    "ean": "0239104017052",
+    "ingredientes": [
+      "Ingré(fients: briochette pthocolat (Farine de 91E. ŒUFS. 996",
+      "gyspites chocolat 8% (sucre",
+      "pâte de cacao",
+      "BEURRE de c lécithine de tournesol arôme vanille). eau",
+      "BEURRE. lewre",
+      "an farine de Bif",
+      "de (GLUTEN)",
+      "f antioxydant : 000). sel rhum (géffiant : Ed66). cobr"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/910/401/7052/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Butter chicken",
+    "marca": "Pataks",
+    "ean": "02391656",
+    "ingredientes": [
+      "Eau",
+      "tomates 10%",
+      "crème liquide 10%",
+      "beurre 4%",
+      "huile de colza",
+      "sucre",
+      "amidon de maïs modifié",
+      "purée de tomate concentrée  2",
+      "épices moulues 1",
+      "oignon séché",
+      "purée de gingembre",
+      "purée d'ail",
+      "sel",
+      "acide lactique",
+      "acide citrique",
+      "feuille de fenugrec séchée 0",
+      "extrait de paprika"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/239/1656/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit superieur",
+    "marca": "Morvan",
+    "ean": "0239348024564",
+    "ingredientes": [
+      "JAMBON CUIT SUPERIEUR PORC BOURGUIGNON-2 TRANCHES jambon de porc",
+      "eau",
+      "sel",
+      "dextrose",
+      "I ngréd i ents sirop de glucose",
+      "arômes naturels",
+      "ant ioxydant ascorbate de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "JAMBON CUIT SUPERIEUR PORC BOURGUIGNON-2 TRANCHES jambon de porc",
+        "razon": "Contiene JAMBON CUIT SUPERIEUR PORC BOURGUIGNON-2 TRANCHES jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/934/802/4564/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur au sel de Guérande sans sel nitrité",
+    "marca": "Bi1, Morvan",
+    "ean": "0239350018995",
+    "ingredientes": [
+      "Jambon de porc",
+      "eau",
+      "sel de Guérande 1.35%",
+      "dextrose",
+      "sirop de glucose",
+      "arômes naturels",
+      "antioxydant : ascorbate de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/935/001/8995/front_fr.8.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur sans sel nitrité ajouté",
+    "marca": "MORVAN",
+    "ean": "0239350028802",
+    "ingredientes": [
+      "Jambon de porc 88.9%",
+      "eau",
+      "sel fin",
+      "bouillon",
+      "arômes naturels (contient naturellement des polyphénols)",
+      "antioxydant : acide ascorbique",
+      "dextrose",
+      "plante aromatique. Conservation sans nitrite grâce aux extraits végétaux et antioxydant"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc 88.9%",
+        "razon": "Contiene Jambon de porc 88.9%, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/935/002/8802/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "L'Original Jambon Sans Sel Nitrité",
+    "marca": "Bi1, Morvan",
+    "ean": "0239352028046",
+    "ingredientes": [
+      "Jambon de porc",
+      "eau",
+      "sel de Guérande 1.35 %",
+      "dextrose",
+      "sirop de glucose",
+      "arômes naturels",
+      "antioxydant : ascorbate de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/935/202/8046/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur",
+    "marca": "Morvan",
+    "ean": "0239357024937",
+    "ingredientes": [
+      "Jambon de porc",
+      "eau",
+      "sel nitrité",
+      "dextrose",
+      "arômes naturels",
+      "sel",
+      "anti-oxydant : ascorbate de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/935/702/4937/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur",
+    "marca": "Morvan charcuteries salaisons",
+    "ean": "0239359028803",
+    "ingredientes": [
+      "Jambon de porc 88",
+      "eau",
+      "sel fin",
+      "bouillon",
+      "arômes naturels (contient naturellement des polyphénols)",
+      "antioxydant : acide ascorbique",
+      "dextrose",
+      "plante aromatique. Conservation sans nitrite grâce aux extraits végétaux et antioxydant"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc 88",
+        "razon": "Contiene Jambon de porc 88, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/935/902/8803/front_fr.25.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Papa John's, Chicken, For Original Crust Large",
+    "marca": "Papa John's",
+    "ean": "0239446422069",
+    "ingredientes": [
+      "undefined"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "saucisson sec de l'île de beauté",
+    "marca": "monte Conti",
+    "ean": "0239602030706",
+    "ingredientes": [
+      "EA Ets. FONTANA 20290 BORGO OT 11023218 sauCTssON SEC DE L'ILE DE ngredients Viande de porc.sel.poiure Sucresdextrse.ce erment.conservateur nitrate de potassium.Boyau natura et soumis a dessication.Comservation.+18 C maximum iande de porc origine France aleurs nutritionnelles pour 100g Energie318 Kca Matieres grasses 20"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/960/203/0706/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Irrésistibles Pavés d'Agneau",
+    "marca": "MVS",
+    "ean": "0239667059957",
+    "ingredientes": [
+      "Agneau bio"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/966/705/9957/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ahold, boneless ham",
+    "marca": "Ahold",
+    "ean": "0239707000000",
+    "ingredientes": [
+      "Cured with: water",
+      "salt",
+      "sugar",
+      "sodium phosphates",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ahold, center slice smoked ham",
+    "marca": "Ahold",
+    "ean": "0239715000009",
+    "ingredientes": [
+      "Cured with: water",
+      "salt",
+      "sugar",
+      "contains 2% or less of sodium phosphates",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "sodium lactate",
+      "sodium diacetate",
+      "flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kentuchy bourbon sirloin Steak",
+    "marca": "Hyvee   choice",
+    "ean": "0239756111986",
+    "ingredientes": [
+      "SIRLOIN STRIP STEAK"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/975/611/1986/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Madame Loik",
+    "marca": "Paysan Breton",
+    "ean": "0239770070306",
+    "ingredientes": [
+      "fromage frais",
+      "sel de Guérande 1.1%",
+      "lait"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/023/977/007/0306/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  }
+]

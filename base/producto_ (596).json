@@ -1,0 +1,511 @@
+[
+  {
+    "nombre": "pulco citron",
+    "marca": "pulco",
+    "ean": "02617107",
+    "ingredientes": [
+      "eau",
+      "jus citron concentré et jus reconstitué",
+      "pulpe de citron",
+      "acidifiant."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/261/7107/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sel marin plantes et légumes frais",
+    "marca": "Herbamare",
+    "ean": "02617139",
+    "ingredientes": [
+      "Sel marin",
+      "plantes et légumes frais&quot",
+      "algue marine kelp. dont acides gras Energie Matières grasses pour 100 g 70k)/"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/261/7139/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chaussons aux pommes pur Beurre",
+    "marca": "Les 3 Meuniers",
+    "ean": "0261824019023",
+    "ingredientes": [
+      "BEURRE eau",
+      "sel)",
+      "Dorure: OEUFS",
+      "Garniture 40%",
+      "(purée de pommes concentrée 20%",
+      "morceaux de pommes 12%",
+      "sirop de glucose-fructose",
+      "sucre)",
+      "Peut contenir des trace: de fruits à coque"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/182/401/9023/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "pork loin filet roasted garlic and herb",
+    "marca": "Walmart",
+    "ean": "0261828706554",
+    "ingredientes": [
+      "pork loin filet contains up to 10% added solution of water",
+      "potassium chloride",
+      "vinegar and natural flavor",
+      "rubbed with salt",
+      "sugar",
+      "yeast extract",
+      "maltodextrin",
+      "dehydrated garlic",
+      "spices",
+      "natural flavors",
+      "dehydrated onion dehydrated red bell pepper",
+      "lemon juice solids",
+      "autolyzed yeast",
+      "dextrin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/182/870/6554/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain suisse Leclerc",
+    "marca": "Leclerc",
+    "ean": "0261834025588",
+    "ingredientes": [
+      "IN5REDIENTS : Eau",
+      "farine de BLE",
+      "BEURRE (ocalat 1 (sucre",
+      "nasse de cacao",
+      "beurre de cacao} é'hufséfrti{tëa icithine e SOIR) sucre anidon nodifié OEIIFS levure LRiT en Poudre",
+      "bE BIE sel",
+      "{aclosérun en poudre (1h11)",
+      "gélifiants: E401-E341-E450 : E471 arône naturel agent de traiterjent de la farine: E±OOI colorant: carolénoldes d'origine naturelle",
+      "enzsnea Présence éventuelle de fruits à coque"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "gélifiants: E401-E341-E450 : E471 arône naturel agent de traiterjent de la farine: E±OOI colorant: carolénoldes d'origine naturelle",
+        "razon": "Contiene gélifiants: E401-E341-E450 : E471 arône naturel agent de traiterjent de la farine: E±OOI colorant: carolénoldes d'origine naturelle, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/183/402/5588/front_fr.10.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pâte à tartiner Noisettes Cacao",
+    "marca": "Gerblé",
+    "ean": "0261848012468",
+    "ingredientes": [
+      "Edulcorant : maltitols",
+      "matières grasses végétales (huile de tournesol",
+      "beurre de cacao en proportion variable)",
+      "pâte de NOISETTES 13%",
+      "cacao maigre en poudre",
+      "LAIT écrémé en poudre",
+      "LACTOSERUM en poudre",
+      "fibre de chicorée : inuline",
+      "émulsifiant : lécithines de tournesol",
+      "arôme naturel de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/184/801/2468/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 Gaufres",
+    "marca": "Leclerc, Stéphan Pâtisserie",
+    "ean": "0261866013058",
+    "ingredientes": [
+      "_ŒUFS_",
+      "Farine de _BLÉ_",
+      "eau",
+      "huile de colza",
+      "_LAIT_",
+      "sucre",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/186/601/3058/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gouda au cumin",
+    "marca": "Moulin D'or",
+    "ean": "0261943017450",
+    "ingredientes": [
+      "*GCCDAAUCIIMIN Fromage à pâte pressée non cuite. Inofédients : LAIT pasteurisé de vache sel",
+      "graines de cumin (1%)",
+      "ferrnents ÎÂCITQUFS",
+      "présure colorant : E160b",
+      "conservateur : E251. Croûte non consommable"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/194/301/7450/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gouda",
+    "marca": "Moulin Dor",
+    "ean": "0261943017788",
+    "ingredientes": [
+      "à pâte presséetnon",
+      ": IJtrr pasteurisé de vade",
+      "sËÏ",
+      "x {squilpxpraines de cumin (1%)",
+      "ferments présure",
+      "colorant : E160b",
+      "conservateu€: E451. Croûte non conSommable"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/194/301/7788/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gouda au cumin",
+    "marca": "Moulin d'or",
+    "ean": "0261943018433",
+    "ingredientes": [
+      "LAIT pasteurisé de vache (origine : UE)",
+      "sel",
+      "graines de cumin 1%",
+      "ferments LACTIQUES",
+      "présure",
+      "ce grant : E160a",
+      "conservateur : E251."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/194/301/8433/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gouda au cumin",
+    "marca": "Moulin D’or",
+    "ean": "0261943019744",
+    "ingredientes": [
+      "GOUDA CUMIN fk9&page à pâ.te pressée non cuite. Inorcdients :hIAITpasteurisé de vache",
+      "sel",
+      "ferments *Tin LJJCTJQ.UFS présure",
+      "colorant : E160b",
+      "conservateur : E251. Croûte non consommable"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/194/301/9744/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gouda au cumin",
+    "marca": "Moulin D’or",
+    "ean": "0261943023161",
+    "ingredientes": [
+      "Lait pasteurisé de vache",
+      "sel",
+      "graines de cumin (1%)",
+      "ferments lactiques",
+      "présure",
+      "Colorant : E160b",
+      "conservateur E251."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/194/302/3161/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crepe",
+    "marca": "E.leclerc",
+    "ean": "0261948013051",
+    "ingredientes": [
+      "lait d)",
+      "ENTIER FRSTEÙRIS?",
+      "sucres BEURRE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/194/801/3051/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier label rouge",
+    "marca": "Peyac",
+    "ean": "0262004040141",
+    "ingredientes": [
+      "en plein Curée Qualité"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/200/404/0141/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roasted & Salted Sunflower Seeds, Ranch",
+    "marca": "David",
+    "ean": "0262007723363",
+    "ingredientes": [
+      "Sunflower seeds",
+      "salt",
+      "partially hydrogenated soybean oil",
+      "less than 2% of: buttermilk powder",
+      "corn syrup solids",
+      "whey powder",
+      "onion powder",
+      "tomato powder",
+      "garlic powder",
+      "sugar",
+      "nonfat dry milk",
+      "dextrose",
+      "natural and artificial flavors",
+      "parsley",
+      "yeast ext"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Filets de Poulet",
+    "marca": "Le Gaulois",
+    "ean": "0262046034504",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/204/603/4504/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte pomme normande",
+    "marca": "E.Leclerc",
+    "ean": "0262094038707",
+    "ingredientes": [
+      "Pommes (44%)",
+      "farine de BLE",
+      "sucre",
+      "OEUFS entiers",
+      "BEURRE",
+      "eau",
+      "sel",
+      "fibre de BLE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/209/403/8707/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "Vert Bosquet",
+    "ean": "0262107024406",
+    "ingredientes": [
+      "_lait_",
+      "sel",
+      "ferments _lactiques_",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/210/702/4406/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gruyere",
+    "marca": "F.L.C., Vert Bosquet",
+    "ean": "0262107024734",
+    "ingredientes": [
+      "LAIT de vache (Origine: UE)",
+      "sel",
+      "ferments LACTIQUES",
+      "enzyme coagulante. Ingredinten : koeMELK",
+      "zout",
+      "MELKermenten",
+      "microbieel stremsel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/210/702/4734/front_fr.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Meule vieille réserve affinage 12 mois (34% MG)",
+    "marca": "Centurion, Sans marque",
+    "ean": "0262134013848",
+    "ingredientes": [
+      "_Fromage_ à pâte pressée cuite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/213/401/3848/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Applebee's, Riblets, Refill Order",
+    "marca": "Applebee's",
+    "ean": "0262149885641",
+    "ingredientes": [
+      "undefined"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emmental",
+    "marca": "FLC, Sans marque",
+    "ean": "0262151022830",
+    "ingredientes": [
+      "LAIT pasteurisé",
+      "sel",
+      "ferments LACTIQUES",
+      "enzymes coagulantes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/215/102/2830/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Francais",
+    "marca": "Tous à Table",
+    "ean": "0262200024273",
+    "ingredientes": [
+      "_Lait_ pasteurisé de vache (Origine : France)",
+      "sel",
+      "ferments (dont _lait_)",
+      "enzyme coagulante"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/220/002/4273/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jujubes surs",
+    "marca": "IGA",
+    "ean": "0262220803001",
+    "ingredientes": [
+      "SIROP DE GLUCOSE",
+      "SUCRE",
+      "AMIDON DE MAÏS MODIFIE",
+      "ACIDE MALIQUE",
+      "citrate DE SODIUM",
+      "AROMES ARTIFICIELS ET NATURELS",
+      "HUILE MINERALE",
+      "CIRE CARNAUBA. COLORANT (AVEC TARTRAZINE)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/222/080/3001/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comté AOP",
+    "marca": "Le Fromager",
+    "ean": "0262248020664",
+    "ingredientes": [
+      "LAIT cru de vache (origine France)",
+      "sel",
+      "ferments LACTIQUES.Conditionné par Centurion 25170 NOIRONTE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/224/802/0664/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comte",
+    "marca": "Comte",
+    "ean": "0262248022248",
+    "ingredientes": [
+      "LBIT cru de vache ferments LBCTI?UES.Conditionne par Centurion 25170 NOIRONTE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comté",
+    "marca": "G20",
+    "ean": "0262248028141",
+    "ingredientes": [
+      "Lait",
+      "sel",
+      "ferments",
+      "présure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/224/802/8141/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Blakc Forest Ham",
+    "marca": "Prima Della",
+    "ean": "0262324104257",
+    "ingredientes": [
+      "*Percent Daily Values are based oil a 2",
+      ": SEA SALT",
+      "CANE SUGAR",
+      "DEXTROSE",
+      "VINEGAR",
+      "SODIUM PHOSPHATES",
+      "SALT",
+      "SODIUM ERYTHORBATE",
+      "SODIUM NITRITE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/232/410/4257/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Forest beechwood smoked ham",
+    "marca": "Prima dellla",
+    "ean": "0262324505085",
+    "ingredientes": [
+      "ham",
+      "WATER",
+      "CONTAINS 2% OR LESS OF SUGAR",
+      "DEXTROSE SEA SALT VINEGAR SODIUM PHOSPHATES",
+      "SALT",
+      "SODIUM ERYTHORBATE SODIUM NITRITE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/232/450/5085/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Oven Roasted Turkey Breast",
+    "marca": "Prima Della",
+    "ean": "0262334905318",
+    "ingredientes": [
+      "TURKEY BREAST",
+      "TURKEY BROTH",
+      "HONEY",
+      "SUGAR",
+      "VINEGAR",
+      "SALT",
+      "SODIUM PHOSPHATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/233/490/5318/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

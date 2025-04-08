@@ -1,0 +1,783 @@
+[
+  {
+    "nombre": "Carre de porc cuit",
+    "marca": "Carrefour",
+    "ean": "0255679053134",
+    "ingredientes": [
+      "Carré de côte de porc",
+      "sel",
+      "dextrose",
+      "sucre",
+      "arômes naturels",
+      "antioxydant : érythorbate de sodium",
+      "conservateur : nitrite de sodium",
+      "bouillon (eau",
+      "sel",
+      "dextrose",
+      "arôme naturel)",
+      "gelée (eau",
+      "gélatine (issue de couenne de porc)",
+      "sel",
+      "dextrose",
+      "acidifiant : acide ascorbique",
+      "colorant : caramel ordinaire",
+      "arômes naturels). Porc origine France. Conservation"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/567/905/3134/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Carré de côte de porc cuite",
+    "marca": "Carrefour",
+    "ean": "0255679054445",
+    "ingredientes": [
+      "Carré de côte de porc",
+      "sel",
+      "dextrose",
+      "sucre",
+      "arômes naturels",
+      "antioxydant: érythorbate de sodium",
+      "conservateur: nitrite sodium",
+      "bouillon (eau",
+      "sel",
+      "dextrose",
+      "arôme naturel)",
+      "gelée (eau",
+      "gélatine (issu de couenne de porc)",
+      "sel",
+      "dextrose",
+      "acidifiant: acide ascorbique",
+      "colorant: caramel ordinaire",
+      "arômes naturels)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/567/905/4445/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aloe vera juice drink",
+    "marca": "Viloe",
+    "ean": "0255713008083",
+    "ingredientes": [
+      "Aloe juice",
+      "aloe pulp (>15%)",
+      "sugar",
+      "water",
+      "citric acid",
+      "pomegranate flavor."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate flavor.",
+        "razon": "Contiene pomegranate flavor., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gouda Cheese",
+    "marca": "Vincent",
+    "ean": "0255865508165",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "starter culture",
+      "rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole leg of lamb",
+    "marca": "Sainsbury's",
+    "ean": "0255867019935",
+    "ingredientes": [
+      "Lamb"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/586/701/9935/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Rye Sourdough Crackers",
+    "marca": "M & S Food Collection",
+    "ean": "0255909863342",
+    "ingredientes": [
+      "Wholemeal Rye Flour (contains Gluten). Wholemeal Wheatflour (contains suitable nut Gluten) Wheatflour contains Gluten allergy (with Wheatflour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin) Sourdough Starter (11%) (Rye Flour (contains Gluten) Starter Culture. Yeast) Honey Sunflower Oil Black Treacle. Fermented Rye Flour (contains Gluten). Salt. Deactivated Dried Yeast. not"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/590/986/3342/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pâté de campagne au magret d’oie fumé en tranche",
+    "marca": "Charcuterie Vaux",
+    "ean": "0256007026707",
+    "ingredientes": [
+      "Porc 60% (maigre et gras)",
+      "magret d'oie fumé 20%(viande d'oie. eau",
+      "E316 dextrose)",
+      "foie de volaille",
+      "œufs. pineau. amidon de mais",
+      "sel poivre. sulfites."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/600/702/6707/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chocolate Seasonal Celebration Cake",
+    "marca": "Whole Foods",
+    "ean": "0256036000006",
+    "ingredientes": [
+      "Chocolate Cake (sugar",
+      "enriched unbleachad wheat flour [flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid]",
+      "vegetable shortening [palm oil",
+      "mono and diglycerides",
+      "polysorbate 60]",
+      "eggs",
+      "cocoa alkali processed",
+      "expeller pressed soybean oil",
+      "wheat starch",
+      "water",
+      "skim milk",
+      "invert sugar",
+      "leavening [baking soda",
+      "sodium acid pyrophosphate",
+      "mono calcium phosphate]. mono and diglycerides",
+      "natural flavor",
+      "salt",
+      "carbohydrate gum. guar gum",
+      "xanthan gum",
+      "defatted soy flour",
+      "soy lecithin",
+      "enzyme)",
+      "Vanilla Frosting (powdered sugar [sugar",
+      "cornstarch]",
+      "palm shortening [palm oil]",
+      "butter [sweet cream]",
+      "natural flavor",
+      "sea salt). Chocolate Buttercream (powdered sugar [sugar",
+      "cornstarch]",
+      "palm shortening [palm oil]",
+      "butter [sweet cream]",
+      "cocoa powder",
+      "natural flavor",
+      "sea salt)",
+      "Food Coloring (natural flavor",
+      "vegetable glycerin",
+      "natural plant extractivas",
+      "beat",
+      "annatto",
+      "citric acid",
+      "soy lecithin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/603/600/0006/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Aiguillette de canard avec fleur de sel",
+    "marca": "Le Clos des Saveurs",
+    "ean": "0256036035688",
+    "ingredientes": [
+      "Aiguillette de canard gras 91",
+      "eau",
+      "dextrose",
+      "sirop de glucose",
+      "sel",
+      "sucre",
+      "arômes naturels",
+      "fleur de sel 0",
+      "ferments lactiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/603/603/5688/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillette de canard avec fleur de sel",
+    "marca": "Le Clos des Saveurs",
+    "ean": "0256036041337",
+    "ingredientes": [
+      "Aiguillette de canard gras 91",
+      "eau",
+      "dextrose",
+      "sirop de glucose",
+      "sel",
+      "sucre",
+      "arômes naturels",
+      "fleur de sel 0",
+      "ferments de maturation",
+      "ferments lactiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/603/604/1337/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Graines de chai",
+    "marca": "ELecler",
+    "ean": "0256041045986",
+    "ingredientes": [
+      "Graines de chia"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/604/104/5986/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rembrandt, aged black gouda",
+    "marca": "Rembrandt",
+    "ean": "0256070507561",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "starter culture",
+      "rennet",
+      "annatto. (natural color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Great Northern Bean Soup",
+    "marca": "N.K. Hurst Co.",
+    "ean": "02561226",
+    "ingredientes": [
+      "Great northern beans. ingredients of seasoning packet: salt",
+      "maltodextrin",
+      "hydrolyzed soy protein",
+      "spice and spice extractives",
+      "sugar",
+      "natural and artificial flavoring (including artificial smoke flavor)",
+      "garlic and onion oil",
+      "silicon dioxide (added less than 2% as an anticaking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic & Herb Lentils",
+    "marca": "Hurst's",
+    "ean": "02561624",
+    "ingredientes": [
+      "Lentils. packet ingredients: salt",
+      "dehydrated garlic",
+      "herbs & spices (including spice extractives)",
+      "sugar",
+      "maltodextrin",
+      "caramel color",
+      "soybean oil",
+      "natural and artificial flavorings (including artificial smoke flavor)",
+      "hydrolyzed soy protein",
+      "fd & c yellow #6",
+      "silicon dioxide (added less than 2% as an anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/256/1624/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "ananas tranché",
+    "marca": "auchan",
+    "ean": "0256170019421",
+    "ingredientes": [
+      "ananas frais sans conservateur"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/617/001/9421/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "oignons rouge vrac",
+    "marca": "Carrefour",
+    "ean": "0256190003417",
+    "ingredientes": [
+      "Oignon rouge"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/619/000/3417/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Martinique"
+  },
+  {
+    "nombre": "Pain nordique",
+    "marca": "Leclerc",
+    "ean": "0256192007222",
+    "ingredientes": [
+      "LIN BRUN",
+      "LIN JAUNE et SESRNE d ORGE",
+      "farine de SIEGLE",
+      "farine d ORBE torréfiée et farine de BLE SOIR concassé",
+      "sel",
+      "levain de SEIGLE dévitalisé",
+      "Bgent de traitement de la farine:E300. Enzymes (HSianase et farine de BLE)a"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/619/200/7222/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Croissants",
+    "marca": "Leclerc",
+    "ean": "0256192020924",
+    "ingredientes": [
+      "Farine de BLE",
+      "beurre fin (LAIT) 25%",
+      "eau",
+      "SUCRE",
+      "Levure",
+      "lactose (Lait)",
+      "poudre de LAIT entier",
+      "sel",
+      "oeufs",
+      "gluten de BLE",
+      "émulsifiant (lécithine de colza)",
+      "agents de traitement de la farine (acide ascorbique",
+      "hémicellulases",
+      "alpha-amylases)",
+      "colorant (béta-carotène d'origine naturelle). dorure: oeuf"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/619/202/0924/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bacardi Mixers Strawberry Daiquiri",
+    "marca": "Bacardi",
+    "ean": "02562207",
+    "ingredientes": [
+      "Contains high fructose corn syrup",
+      "water",
+      "strawberries",
+      "sugar",
+      "less than 2% of: lime and lemon pulp",
+      "concentrated lime juice",
+      "natural flavors",
+      "citric acid (provides tartness)",
+      "potassium citrate (regulates tartness)",
+      "red .#40",
+      "green#3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/256/2207/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fromage blanc 0%",
+    "marca": "Dia",
+    "ean": "0256224235309",
+    "ingredientes": [
+      "lait écrémé pasteurisé",
+      "ferments lactiques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/622/423/5309/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bacardi Margarita Mixers",
+    "marca": "Bacardi",
+    "ean": "02562508",
+    "ingredientes": [
+      "Contains water",
+      "high fructose corn syrup",
+      "concentrated lime juice",
+      "lime and lemon pulp",
+      "natural flavors",
+      "sugar",
+      "green #3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/256/2508/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fairlife, Purely Nutritious Milk",
+    "marca": "Fairlife Llc",
+    "ean": "0256312008627",
+    "ingredientes": [
+      "Reduced fat filtered milk (high protein",
+      "high calcium",
+      "reduced sugar)",
+      "lactose enzyme",
+      "vitamin a palmitate",
+      "vitamin d3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Banane dessert locale",
+    "marca": "Carrefour",
+    "ean": "0256551005180",
+    "ingredientes": [
+      "Banane"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/655/100/5180/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Martinique"
+  },
+  {
+    "nombre": "Croissants au beurre AOP",
+    "marca": "Les 3 Meuniers",
+    "ean": "0256650009188",
+    "ingredientes": [
+      "Farine de blé (_gluten_)",
+      "_beurre_ AOP (_lait_) charentes-poitou 29%",
+      "eau",
+      "sucre",
+      "_lait_ entier frais pasteurisé 4%",
+      "levure",
+      "_gluten de blé_",
+      "_oeufs_ frais 2",
+      "sel",
+      "acérola en poudre",
+      "colorant : caroténoïdes",
+      "enzymes",
+      "dorure (_oeufs_ frais 1",
+      "sucre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/665/000/9188/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "A Semi-Soft Washed Rind Cheese",
+    "marca": "Saint Paulin",
+    "ean": "0256657808098",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "starters",
+      "coagulant",
+      "food-grade plasticizer (coloring e160b). rind contains natamycin as a preservative (e235)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Croissant Bio (x2)",
+    "marca": "Leclerc",
+    "ean": "0256673011816",
+    "ingredientes": [
+      "Farine de blé (GLUTEN)",
+      "BEURRE 24% (LAIT)",
+      "eau",
+      "sucre",
+      "levure",
+      "OEUFS entiers",
+      "sel",
+      "GLUTEN DE BLÉ",
+      "agent de traitement de la farine : E300",
+      "enzymes hemicellulase amylases",
+      "dorure (OEUFS entiers",
+      "eau)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/667/301/1816/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pomme de terre vrac",
+    "marca": "Carrefour",
+    "ean": "0256704018043",
+    "ingredientes": [
+      "Pomme de terre"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/670/401/8043/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "Martinique"
+  },
+  {
+    "nombre": "Mousse fraise",
+    "marca": "Leclerc",
+    "ean": "0256749020339",
+    "ingredientes": [
+      "Fraises (18%)-Biscuit daquoise COCO: sucre",
+      "blancs OEUFS",
+      "poudre AMANDES 14%",
+      "NOIX DE COCO 8% (conservateur: anhydride sulfureux (E 220))",
+      "améliorant (eau",
+      "emulsifiants: E422",
+      "vinaigre alcool) Garniture:CREME",
+      "stabilisants: E407. puree fraise (fraise 90%",
+      "sucre 10 %). garnifruit fraise: fraise 60%",
+      "eau",
+      "amidon modifie",
+      "arome",
+      "colorant vegetal rouge (extrait sureau)",
+      "acidifiant: E330-E332",
+      "conservateur: E202",
+      "colorant:E124. nappage fraise: sirop glucose-fructose",
+      "puree fruits",
+      "gelifiants: E440-E401",
+      "acidifiant:E330",
+      "arome fraise",
+      "conservateur:E202",
+      "colorant:E124.puree ananas (ananas90%",
+      "sucre10%).OVANEIGE sucre",
+      "maltodextrine",
+      "blancs OEUFS poudre",
+      "amidon m odifie",
+      "epaississants:E460-E466.glacage miroir:sirop glucose",
+      "stabilisant:E 422",
+      "gelifiant:E 440",
+      "acidifiant:E330.NOIX DE Coco rapee. jelfix:saccharose",
+      "sirop glucose-fructose",
+      "gelifiant:E 440",
+      "correcteur acidite:E 330-E332",
+      "arome.gelatine(origine animale)- Décor: plaquette chocolat (S0JA):chocolat noir",
+      "relief chocolat blanc",
+      "Nappage blond:eau",
+      "sucre",
+      "sirop de glucose",
+      "fructose",
+      "gelifiants (E440-E407)",
+      "acidifiant E330-A conserver entre 0 et +4 C-PRODUIT DECONGELE",
+      "NE PAS RECONGELER"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulsifiants: E422",
+        "razon": "Contiene emulsifiants: E422, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "epaississants:E460-E466.glacage miroir:sirop glucose",
+        "razon": "Contiene epaississants:E460-E466.glacage miroir:sirop glucose, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/674/902/0339/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le Terroir Poulet Fermier",
+    "marca": "Lionor",
+    "ean": "0256801033321",
+    "ingredientes": [
+      "Poulet fermier"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/680/103/3321/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cheese from britain, golden cheshire cheese",
+    "marca": "Cheese From Britain",
+    "ean": "0256809608576",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "dairy cultures",
+      "colour annatto",
+      "vegetable rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Poulet Fumé Cuit",
+    "marca": "Lionor",
+    "ean": "0256828029260",
+    "ingredientes": [
+      "Poulet",
+      "eau",
+      "sel",
+      "correcteurs d'acidité : triphosphate",
+      "diphosphate",
+      "lactate de sodium",
+      "conservateur : nitrite de sodium",
+      "dextrose de _blé_",
+      "arômes",
+      "antioxygène : érythorbate de sodium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/682/802/9260/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le poulet cuit et fumé au bois de hêtre",
+    "marca": "LIONOR",
+    "ean": "0256828039498",
+    "ingredientes": [
+      "Poulet",
+      "Eau",
+      "sel",
+      "dextrose Stabilisants: E450",
+      "E451 Antioxydant: E301",
+      "conservateur : lactate de sodium. arôme de fumée"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/682/803/9498/front_fr.22.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le Poulet cuit et Fumé, Viande",
+    "marca": "Lionor",
+    "ean": "0256828046113",
+    "ingredientes": [
+      "Poulet",
+      "Eau",
+      "sel",
+      "dextrose",
+      "Stabilisants : E450",
+      "E451",
+      "Antioxydant : E301",
+      "Conservateur : Lactate de sodium",
+      "Arôme de fumée"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/682/804/6113/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jarlsberg, lite reduced fat swiss cheese",
+    "marca": "Jarlsberg",
+    "ean": "0256859405187",
+    "ingredientes": [
+      "Pasteurized part skim-milk",
+      "rennet",
+      "salt",
+      "*vitamin a acetate",
+      "culture"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Provolone",
+    "marca": "Rio Briati",
+    "ean": "0256874107035",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "natural smoke flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Free Range Whole Chicken",
+    "marca": "Tesco finest,Tesco",
+    "ean": "0256901005846",
+    "ingredientes": [
+      "Fresh class A free range corn-fed chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/690/100/5846/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Pain au chocolat x8",
+    "marca": "E. Leclerc",
+    "ean": "0257093025919",
+    "ingredientes": [
+      "Pâte 66% (Farine de BLE",
+      "BEURRE 25%",
+      "eau",
+      "sucre",
+      "OEUF",
+      "levure",
+      "GLUTEN de BLE",
+      "sel",
+      "enzymes",
+      "agent de traitement de la farine E390",
+      "farine de BLE malté)",
+      "Chocolat 12%",
+      "sucre",
+      "pâtes de cacao",
+      "beurre de cacao",
+      "émulsifiants: lécithine (SOJA)",
+      "arôme naturel de vanille",
+      "Dorure: OEUF (0.02%) Traces de fruits à coques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/709/302/5919/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chouquette x20",
+    "marca": "Leclerc",
+    "ean": "0257148012796",
+    "ingredientes": [
+      "VALEUR NCYEHHE FOUR 100 Energie IOC4 kJrz"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Palmiers",
+    "marca": "E.Leclerc",
+    "ean": "0257163020998",
+    "ingredientes": [
+      "farine de BLÉ. BEURRE",
+      "eau",
+      "sucre",
+      "sel.)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/716/302/0998/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

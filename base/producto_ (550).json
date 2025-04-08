@@ -1,0 +1,1384 @@
+[
+  {
+    "nombre": "Donuts chocolat",
+    "marca": "E Leclerc",
+    "ean": "0211300020333",
+    "ingredientes": [
+      "LeclercO LÉ 76700 GONFREVILLE L'ORCHER DOTS CHOCOLRT H 4 rédients : LIT CHOCOLATIlUDIFE-TTE",
+      "FL017CIG huile de [-'JEIIITIFZ ITIargarine./ (huile e..t - GLUTEN - e citron)",
+      "SCICÏ'IB levure",
+      "érnulslfiants Ë471 - E47'TiI ZE",
+      "e",
+      "stabilisant 4'12 IL IAI T e..n age (21",
+      "ar-J IL AIT en émulsifiant E3'2i2 arôrne . 11--11'EilSSe.S e",
+      "palÏTle)",
+      "en poudre (CI èrnulsifiant EA22"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/130/002/0333/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sliced Aged Swiss",
+    "marca": "Lucerne",
+    "ean": "0211300455181",
+    "ingredientes": [
+      "Pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ice Cream, Chocolate Moose Tracks",
+    "marca": "Signature Select",
+    "ean": "0211300988355",
+    "ingredientes": [
+      "Skim milk",
+      "cream",
+      "sugar",
+      "moose tracks fudge swirl (powdered sugar (sugar",
+      "cornstarch)",
+      "vegetable oil [peanut and/or cottonseed and/or palm oil]",
+      "cocoa processed with alkali",
+      "whey",
+      "soy lecithin",
+      "salt",
+      "natural flavor)",
+      "chocolaty peanut butter cups (sugar",
+      "p"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cocktail de Fruits Rouges",
+    "marca": "U",
+    "ean": "02113142",
+    "ingredientes": [
+      "Framboises 25 %",
+      "Groseilles 25 %",
+      "Myrtilles 25 %",
+      "Cassis 25 %",
+      "Mûres 25 %"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/3142/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cotes de porc premières",
+    "marca": "Leclerc",
+    "ean": "0211356022503",
+    "ingredientes": [
+      "COTES DE PORC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/135/602/2503/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chicken Thighs Boneless Skinless",
+    "marca": "Aldi",
+    "ean": "0211361606866",
+    "ingredientes": [
+      "BONELESS SKINLESS CHICKEN THIGHS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/136/160/6866/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kretschmar Pre-sliced Oven Roasted Turkey Off The Bone",
+    "marca": "Safeway",
+    "ean": "0211362006306",
+    "ingredientes": [
+      "turkey breast",
+      "water",
+      "salt",
+      "sugar",
+      "seasoning",
+      "yeast extract",
+      "salt",
+      "dextrose",
+      "turkey broth",
+      "maltodextrin",
+      "natural flavor",
+      "sodium phosphate",
+      "browned in vegetable oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/136/200/6306/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coeur de couene jambon cuit supérieur fumé",
+    "marca": "Intermarché",
+    "ean": "0211367019295",
+    "ingredientes": [
+      "Jambon de porc*",
+      "gras et couenne de porc",
+      "sel",
+      "dextrose bouillon (os de porc",
+      "poireau",
+      "carotte",
+      "arômes naturels)l conservateuŒ",
+      "ascort)ate de sodium",
+      "nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc*",
+        "razon": "Contiene Jambon de porc*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/136/701/9295/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur coeur de couenne",
+    "marca": "Le Porc Français",
+    "ean": "0211368028869",
+    "ingredientes": [
+      "Jambon de porc*",
+      "et couenne de (os de naturels) conservateurs:ascorbate de sodium",
+      "nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc*",
+        "razon": "Contiene Jambon de porc*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/136/802/8869/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur",
+    "marca": "Intermarché",
+    "ean": "0211368029194",
+    "ingredientes": [
+      "Jambon de porc",
+      "gras et couenne de porc",
+      "sel",
+      "dextrose",
+      "bouillon (os de porc",
+      "poireau",
+      "carotte",
+      "arômes naturels) conservateurs : ascorbate de sodium",
+      "nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/136/802/9194/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit superieur",
+    "marca": "Intermarché",
+    "ean": "0211368030312",
+    "ingredientes": [
+      "DE COUENNE JAMBON CUIT SUPERIEIJR 6 TRANCHES II\\IGREDIENTS : Jambon de porc'",
+      "aras et couenne de os de porc",
+      "poireau",
+      "carotte",
+      "arômes naturels)ascorbate de sodium",
+      "nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "DE COUENNE JAMBON CUIT SUPERIEIJR 6 TRANCHES II\\IGREDIENTS : Jambon de porc'",
+        "razon": "Contiene DE COUENNE JAMBON CUIT SUPERIEIJR 6 TRANCHES II\\IGREDIENTS : Jambon de porc', impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/136/803/0312/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sutton & Dodge, T- Bone Steak",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0211369707596",
+    "ingredientes": [
+      "Solution ingredients: beef broth",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate",
+      "flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Le grand pain tranche",
+    "marca": "La Grande Epicerie Paris",
+    "ean": "0211377016796",
+    "ingredientes": [
+      "pierre",
+      "eau levain dur (dont",
+      "BLE) farine 9877. (farine de BLE bioiosique",
+      "farine d' EPERLlftE biologique 33')",
+      "farine (farine de BLE tspe 65",
+      "malt de BLE torréfié",
+      "farine de BLE mal té",
+      "agent de traitement de la farine E300)J sel",
+      "levure liquide (levure",
+      "tel",
+      "stabilioani xanlh ne). Valeurs nub-iiionneiies no ennes pour nergie : kJ"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/137/701/6796/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet forestier spaghetti",
+    "marca": "Leclerc",
+    "ean": "0211380030314",
+    "ingredientes": [
+      "Poulet 63% (filet de poulet)",
+      "champignons blancs 12%",
+      "lardons 8.4% (viande de porc (origine france)",
+      "sel",
+      "dextrose",
+      "antioxydant : E301",
+      "conservateurs: E250",
+      "acidifiant: E326)",
+      "jus de veau (fécules",
+      "sel",
+      "sucre",
+      "extrait de levure",
+      "FARINE DE BLE",
+      "arômes",
+      "viande de veau",
+      "maltodextrine",
+      "oignons",
+      "tomates",
+      "huile de tournesol",
+      "extrait de chicorée",
+      "jus de cuisson de viande de boeuf",
+      "ail",
+      "extrait de vin blanc",
+      "antioxydants: extrait de romarin",
+      "colorants : caramel ordinaire",
+      "épaississants: gomme guar)",
+      "crème fraiche (crème de LAIT (origine france)",
+      "gélifiants: carraghénanes",
+      "stabilisants : protéines de LAIT)",
+      "oignons jaunes",
+      "beurre ( BEURRE",
+      "CREME",
+      "(origine france)",
+      "sel)",
+      "ail  Contient: LAIT",
+      "GLUTEN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/138/003/0314/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Poulet forestier spaghetti",
+    "marca": "Leclerc",
+    "ean": "0211380036866",
+    "ingredientes": [
+      "Poulet 63% (filet de poulet)",
+      "hampignons blancs 12%",
+      "lardons 8.4% (viande de ore (origine france)",
+      "sel",
+      "dextrose",
+      "antioxydants E301",
+      "conservateurs: E250",
+      "acidifiant: E326)",
+      "Jus de veau (fécules",
+      "sel",
+      "sucre",
+      "extrait de wure",
+      "FARINE DE BLE",
+      "arômes",
+      "viande de veau",
+      "mltodextrine",
+      "oignons",
+      "tomates",
+      "huile de tournesol",
+      "extrait de chicorée",
+      "jus de cuisson de viande boeuf",
+      "ail",
+      "extrait de vin blanc",
+      "antioxydants: extrait de romarin",
+      "colorants caramel ordinaire",
+      "epaississants: gomme guar)",
+      "crème fraiche (crème de LAIT (origine france)",
+      "gelifiants: carraghénanes",
+      "stabilisants : protéines de LAIT)",
+      "oignons jaunes",
+      "beurre ( BEURRE",
+      "CREME",
+      "(origine france)",
+      "sel)",
+      "ail Contient: LAIT",
+      "GLUTEN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/138/003/6866/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "JAMBON CUIT SUPERIEUR",
+    "marca": "Inter Marche",
+    "ean": "0211405022638",
+    "ingredientes": [
+      "Jambon de porc",
+      "sel",
+      "dextrose",
+      "bouillon (os de porc",
+      "poireau",
+      "carotte",
+      "arômes naturels)",
+      "conservateurs : ascorbate de sodium",
+      "nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/502/2638/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "JAMBON CUIT SUPERIEUR",
+    "marca": "INTE MARCHE",
+    "ean": "0211405023611",
+    "ingredientes": [
+      "SUPERIEUR REDUITE EN SEL x 4 TRANCHES carotte",
+      "aromes naturels)",
+      "conservateurs:ascorbate de sodium Valeurs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/502/3611/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur, teneur reduite en sel",
+    "marca": "Intermarché",
+    "ean": "0211405023680",
+    "ingredientes": [
+      "Jambon de porc",
+      "sel",
+      "dextrose bouillon (os de porc",
+      "poireau",
+      "carotte",
+      "aromes naturels)",
+      "conservateurs :ascorbate de sodium",
+      "nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/502/3680/front_fr.9.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur",
+    "marca": "Intermarché",
+    "ean": "0211405025455",
+    "ingredientes": [
+      "Jambon de porc*",
+      "sel",
+      "dextrose",
+      "bouillon (os de porc",
+      "poireau",
+      "carotte",
+      "aromes naturels) conservateurs",
+      "ascorbate de sodium",
+      "nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc*",
+        "razon": "Contiene Jambon de porc*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/502/5455/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon Cuit",
+    "marca": "Intermarché",
+    "ean": "0211405026636",
+    "ingredientes": [
+      "Jambon de porc (origine: France)",
+      "sel",
+      "arôme naturel",
+      "dextrose",
+      "antioxydant : ascorbate de sodium",
+      "conservateur: nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (origine: France)",
+        "razon": "Contiene Jambon de porc (origine: France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur",
+    "marca": "Intermarché",
+    "ean": "0211405026896",
+    "ingredientes": [
+      "Jambon de porc (origine: France)",
+      "sel",
+      "arome naturel",
+      "dextrose",
+      "antioxydant: ascorbate de sodium conservateurs: nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (origine: France)",
+        "razon": "Contiene Jambon de porc (origine: France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon Cuit Superieur",
+    "marca": "null",
+    "ean": "0211405027947",
+    "ingredientes": [
+      "Jambon de porc (crigine: France)",
+      "sel",
+      "arome naturel",
+      "dextrose. antioxydant : ascorbate de sodium. conservateurs: nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (crigine: France)",
+        "razon": "Contiene Jambon de porc (crigine: France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/502/7947/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rillettes de porc à l’ancienne",
+    "marca": "Le Porc Français",
+    "ean": "0211406013185",
+    "ingredientes": [
+      "Viande de pot' (95%)",
+      "gras de porc*",
+      "sel",
+      "poivre. *Origine : France Traces : oeu",
+      "fsv b!é",
+      "moutarde",
+      "sulfites et fruits à coques. Valeurs nutfitionnelles"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/601/3185/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 saucisses de francfort",
+    "marca": "Notre Savoir Faire Charcutier Intermatché, Notre Savoir faire charcutier",
+    "ean": "0211408009841",
+    "ingredientes": [
+      "muscade",
+      "oardarnorne exhausteur de goût glutamate de sodiurn i ail déshycraté",
+      "conservateurs I acide ascorbique",
+      "ascorbate de sodium nitrite de sodium ' glucano-deita-iactone Arôme et arôme de fumée",
+      "'Origine : France Boyau collagènique ' colla êne",
+      "glycérine",
+      "cellulose",
+      "éventuelles 'iait",
+      "b?é",
+      "oeufs",
+      "moutarde",
+      "sulfites et fruits a toques V",
+      "ieurs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/800/9841/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisses de francfort",
+    "marca": "Le Porc Francais",
+    "ean": "0211408016665",
+    "ingredientes": [
+      "Viande de porc* (73%)",
+      "glace",
+      "ras de porc*",
+      "sel",
+      "dextrose de me'lS",
+      "épices (coriandre",
+      "poivre",
+      "muscade",
+      "cardamome",
+      "exhausteur de goût de sodium ail déshydraté",
+      ": acide ascorbique",
+      "ascorbate de sodium",
+      "nitrite de sodium acidifiant glucano-delta-iactone",
+      "Arôme et arôme de fumée. *Origine : France Boyau coliagènique colla ène",
+      "glycérine",
+      "cellulose",
+      "Traces éventuelles t lait",
+      "oeufst moutarde",
+      "sulfites et fruits à coques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/801/6665/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 saucisses de Francfort",
+    "marca": "intermarché",
+    "ean": "0211408016733",
+    "ingredientes": [
+      "Viande de porc*83.4%",
+      "eau",
+      "gras de porc*",
+      "sel",
+      "arôme et arôme de fumee",
+      "dextrose de mais",
+      "épices",
+      "ail deshydraté",
+      "antioxydants acide ascorbique",
+      "ascorbate de sodium",
+      "acidifiant : glucono delta lactone",
+      "conservateur: nitrite de sodium.*Origine : France. Enveloppe : boyau comestible. Traces éventuelles : lait",
+      "blé",
+      "oeufs",
+      "moutarde",
+      "pistaches et noisettes. Valeurs nutritionnelles moyenne pour 100g: Energie: 1252Kį ("
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/140/801/6733/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Badigeon N° 052 Ail des Ours",
+    "marca": "Moulin de Sévery",
+    "ean": "02114187",
+    "ingredientes": [
+      "Huile de tournesol 60%",
+      "saindoux 40%",
+      "ail des ours",
+      "livèche",
+      "persil",
+      "paprika doux",
+      "poivre",
+      "sel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/4187/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "3 Year Cheddar",
+    "marca": "Cabot",
+    "ean": "0211422113692",
+    "ingredientes": [
+      "Fresh pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/142/211/3692/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "3 Year Cheddar",
+    "marca": "Cabot",
+    "ean": "0211422714028",
+    "ingredientes": [
+      "Fresh pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/142/271/4028/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "3 Year Cheddar",
+    "marca": "Cabot",
+    "ean": "0211422912851",
+    "ingredientes": [
+      "Fresh pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/142/291/2851/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "chicken alfredo",
+    "marca": "Alfredo",
+    "ean": "02114248",
+    "ingredientes": [
+      "cooked penne pasta (water",
+      "semolina pasta isemolina (wheat)",
+      "durum wheat flour",
+      "vitamins/minerals vitamin b3 {niacin)",
+      "iron (ferrous sulfate)",
+      "vitamin b1 thiamine mononitrate)",
+      "vitamin b2 riboflavin)",
+      "folic acid",
+      "õil blend 140g) expeller pressed canola oil extra 240 virgin olive öil])",
+      "alfredo sauce (milk water",
+      "cream cheese (pasteurized milk and cream",
+      "chese culture salt carob bean gum",
+      "guar gum) cream margarine [palm oil",
+      "water",
+      "soybean oil",
+      "salt contains less than 2% of vegetable mono",
+      "diglycerides",
+      "soy lecithin",
+      "sodium 14% benzoate (a preservative)",
+      "citric acid",
+      "y value* natural",
+      "artificial flavor beta 30% carotene (for color)",
+      "vitamin a palmitate added",
+      "wheyj",
+      "parmesan cheese [pasteurized part skim milk",
+      "cheese cultures",
+      "salt enzymes)",
+      "natural flavor",
+      "reduced minerals whey",
+      "vegetable shortening 9% {sunflower oil)",
+      "natural dairy flavor",
+      "maltodextrin",
+      "salt",
+      "sweet whey 7% autolyzed yeast extract garlic powder lactic acid",
+      "spicesi sherry cooking wine dehydratedb garlic salt chicken base [chicken broth salt sugar yeast extract",
+      "chicken fat modified corn starch citric acid",
+      "natural flavori potassium sorbate and sodium benzoate [as preservatives)",
+      "spices) grilled 10% seasoned chicken breast meat with rib meat (chicken breast meat with rib meat 10% water",
+      "less than 2% rice starch",
+      "vinegar salt sugarr)",
+      "parmesan cheese (pasteurizeb part-skim cows milk chee se 4% cultures",
+      "salt enzymes) parsley 0% 6% contains wheat milk sov utrient in a"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jambon d'auvergne",
+    "marca": "intermarché",
+    "ean": "0211466020864",
+    "ingredientes": [
+      "jambon de porc France",
+      "selon",
+      "conservateur nitrate de potassium",
+      "ail en poudre"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc France",
+        "razon": "Contiene jambon de porc France, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/146/602/0864/front_fr.9.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon serrano",
+    "marca": "Intermarché, Sélection Intermarché",
+    "ean": "0211467021389",
+    "ingredientes": [
+      "Jambon de porc (origine : Espagne)",
+      "sel",
+      "dextrose",
+      "conservateurs nitrate de potassium et nitrite de sodium",
+      "antioxydant : ascorbate de sodium. Produit certifié par ICC N exp : JS-066}21"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (origine : Espagne)",
+        "razon": "Contiene Jambon de porc (origine : Espagne), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/146/702/1389/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon Serrano",
+    "marca": "Selection Intermarché",
+    "ean": "0211467023550",
+    "ingredientes": [
+      "Jambon de porc (origine : Espagne)",
+      "sel",
+      "dextrose",
+      "conservateurs : nitrate de potassium et nitrite de sodium",
+      "antioxydant : ascorbate de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (origine : Espagne)",
+        "razon": "Contiene Jambon de porc (origine : Espagne), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/146/702/3550/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sutton & Dodge, Eye Of Round Steak",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0211481607309",
+    "ingredientes": [
+      "Solution ingredients: beef broth",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate",
+      "flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Véritable andouille de guémené",
+    "marca": "Intermarché",
+    "ean": "0211490021974",
+    "ingredientes": [
+      "VERITABLE ANDOUILLE DE E 8 TRANCHES n tite de sodium arômes",
+      "Enveloppe :baudruche de boeuf",
+      "colorant : El 50d",
+      "Traces éventuelles de sulfites"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/149/002/1974/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "véritable andouille de guémène",
+    "marca": "intermarche",
+    "ean": "0211490023428",
+    "ingredientes": [
+      "VERITABLE ANDOUILLE DE GUEME TR FE édients chaudins de porc (origine:UE",
+      "sel",
+      "poivre",
+      "consenvaieu e de sodium ardmes. Enveloppe taudrudhie de boe. ant:E150d. Traces eventuelles de slfres irs nutritionelles moyennes pour 100a eneraie: &quot"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/149/002/3428/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boudin noir aux oignons",
+    "marca": "Intermarché",
+    "ean": "0211494006304",
+    "ingredientes": [
+      "Oignons frais 32%",
+      "sang de porc",
+      "gras de porc",
+      "couennes de porc",
+      "sel",
+      "aromates",
+      "épices",
+      "saccharose",
+      "arômes naturels. Enveloppe : boyau naturel de porc. Traces eventuelles : blé",
+      "moutarde",
+      "sulfites",
+      "fruits à coques et d'oeufs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/149/400/6304/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boudin Noir aux Oignons",
+    "marca": "Intermarché",
+    "ean": "0211494013975",
+    "ingredientes": [
+      "Oignons frais 32%",
+      "sang de porc",
+      "gras de porc",
+      "couennes de porc",
+      "sel",
+      "aromates",
+      "épices",
+      "saccharose",
+      "arômes naturels."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/149/401/3975/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boudin noir aux oignons",
+    "marca": "Intermarché",
+    "ean": "0211494020669",
+    "ingredientes": [
+      "Sang de porc&quot",
+      "oignon (37%)",
+      "gras de porc",
+      "couenne de porc",
+      "pulpe d'oignons déshydratée",
+      "épices et plantes aromatiques",
+      "sel",
+      "arôme naturel",
+      "sucre",
+      "acidifiant : citrates de sodium. Enveloppe : boyau naturel de porc. Traces éventuelles : blé",
+      "moutarde",
+      "lait",
+      "œufs",
+      "pistaches et noisettes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/149/402/0669/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "poitrine 4 tranches",
+    "marca": "Jean Rozé",
+    "ean": "0211499024204",
+    "ingredientes": [
+      "Poitrine de porc 88%",
+      "sel",
+      "dextrose de maïs",
+      "conservateur: nitrite de sodium",
+      "antioxydant: ascorbate de sodium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/149/902/4204/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental au lait cru",
+    "marca": "Pâturages",
+    "ean": "0211502023026",
+    "ingredientes": [
+      "_Lait_ cru",
+      "sel",
+      "ferments lactiques",
+      "coagulant."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/150/202/3026/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jarret fumé",
+    "marca": "Jean Rozé",
+    "ean": "0211516021254",
+    "ingredientes": [
+      "Jarret de porc (origine : France) (87%)",
+      "sel",
+      "dextrose",
+      "conservateur : nitrite de sodium",
+      "antioxydant : ascorbate de sodium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/151/602/1254/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jarret fume",
+    "marca": "Jean Roze",
+    "ean": "0211516030836",
+    "ingredientes": [
+      "JARRET fumé au bois e hêtre&lt",
+      "FUMÉ /HŒRÜ/ENTS : Jarret de porc (Origine : France)",
+      "seL dextrosede maïs",
+      "arôme",
+      "aitioxydant : ascorbate de sodium",
+      "conservateur : nitrite de sodium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "sourdough bloomer",
+    "marca": "Asda Extra Special",
+    "ean": "0211540001758",
+    "ingredientes": [
+      "Fortified Wheat Flour (Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin (B3)",
+      "Thiamin (B1)]",
+      "Water",
+      "Rice Flour",
+      "Salt",
+      "Wholemeal Wheat Flour",
+      "Wheat Meal Flour",
+      "Rapeseed Oil. ASDA EXTRA SPECIAL EST. 2001 r FOR Allergy Advice! For allergens",
+      "including cereals containing gluten",
+      "see ingredients in bold. Due to the way we prepare our In-store products",
+      "they may contain additional allergens Including: peanuts",
+      "nuts",
+      "sesame seeds",
+      "milk",
+      "eggs",
+      "soya",
+      "wheat",
+      "rye",
+      "barley",
+      "oats",
+      "spelt",
+      "kamut",
+      "mustard",
+      "celery and sulphites. QUALITY"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/154/000/1758/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sourdough Loaf",
+    "marca": "ASDA",
+    "ean": "0211540002007",
+    "ingredientes": [
+      "Fortified Wheat Flour [Wheat Flour",
+      "Calcium Carbonate",
+      "Iron",
+      "Niacin (B3)",
+      "Thiamin (B1)]",
+      "Water",
+      "Rice Flour",
+      "Salt",
+      "Wholemeal Wheat Flour",
+      "Wheat Meal Flour",
+      "Rapeseed Oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/154/000/2007/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Cream cheese",
+    "marca": "Philadelphia",
+    "ean": "02115405",
+    "ingredientes": [
+      "Skim milk",
+      "whey protein concentrate",
+      "contains less than 2% of sodium phosphate*",
+      "sugar*",
+      "salt",
+      "color added*",
+      "xanthan gum",
+      "pasteurized milk and cream**",
+      "natural flavor",
+      "potassium sorbate and calcium propionate as preservatives*",
+      "carrageenan",
+      "cheese culture",
+      "carob bean gum",
+      "vitamin a palmitate*"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Street Tacos x 12",
+    "marca": "Costco",
+    "ean": "0211545115016",
+    "ingredientes": [
+      "CHICKEN (CHICKEN. WATER. SALT. MALTODEXTRIN. PAPRIKA. HONEY. CORNSTARCH. SUGAR. PEPPERS. ONION. SPICES. CITRIC ACID. YEAST EXTRACT) TORTILLA (WATER. CORN MASA FLOUR. BLEACHED ENRICHED FLOUR (WHEAT FLOUR. VITAMINS(B3. B1.B2). IRON. FOLIC ACID) WHEAT GLUTEN. SALT. DEXTROSE. LEAVENING (SODIUM ALUMINUM & MONOCALCIUM PHOSPHATES. BAKING SODA. SODIUM ACID PYROPHOSPHATE). OAT FIBER. SSL. SAFFLOWER OIL. MONO & DIGLYCERIDES. FUMARIC ACID. POTASSIUM SORBATE. CALCIUM PROPIONATE",
+      "SODIUM PROPIONATE. SORBIC ACID. CELLULOSE GUM. GUAR GUM. LIME) SALSA (TOMATOES. ONION. PEPPERS (CHILI JALAPENO. BELL). WATER. TOMATO PASTE. CILANTRO. SPICES. ONION. CELERY. GARLIC. CORN GLUTEN. XANTHAN GUM. YEAST EXTRACT. SPICE EXTRACTS. SALT. VINEGAR. CITRIC ACID. ACETIC ACID. LACTIC ACID. CELLULOSE GUM. CALCIUM CHLORIDE). CILANTRO SAUCE (CULTURED PASTEURIZED SKIM MILK CREAM. WATER. CANOLA OIL. VINEGAR. MODIFIED CORN STARCH. SOY PROTEIN. SALT. GELATIN. NONFAT MILK. LEMON & LIME JUICE. ONION. XANTHAN GUM. NATURAL FLAVORS. SPICE LOW-FAT BUTTERMILK. RED WINE VINEGAR. CILANTRO. CHILES. GARLIC. SEA SALT. SALT. PUMPKIN SEEDS. SODIUM BENZOATE. POTASSIUM SORBATE. ENZYMES). CHEESE BLEND (CULTURED PASTEURIZED MILK. SALT. ENZYMES. ART. COLOR. NATAMYCIN). LIMES GREEN & RED CABBAGE. BROCCOLI. CARROTS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/154/511/5016/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Street Tacos",
+    "marca": "Kirkland",
+    "ean": "0211545313825",
+    "ingredientes": [
+      "CHICKEN ICHICKEN. HATER",
+      "SALT",
+      "MAL TODENTRIN. PAPRIKA",
+      "HONEV",
+      "CORNSTARCH",
+      "SUGAR",
+      "PEPPERS",
+      "ONION",
+      "SPICES. CITRIC ACID. YEAST EXTRACTI TORTILLAIHATER",
+      "CORN MASA FLOUR. BLEACHED EMRICHED FLOUREHHEAT FLOUR",
+      "VITAMINS( 83. B1.82)",
+      "IRON. FOLIC ACID) WHEAT GLUTEN",
+      "SALT",
+      "DEXTROSE. LEAVENING(SODIUM ALUMIMUM & MONOCALCIUM PHOSPHATES. BAKING SODA",
+      "SODIUM ACID PYROPHOSPHATE)",
+      "OAT FIBER. SSL. SAFFLOWER OIL",
+      "MONO - & DIGLYCERIDES. FUMARIC ACID. POTASSIUM SORBATE.CALCIUM PROPIONATE",
+      "SODIUM PROPIONATE",
+      "SORBIC ACID",
+      "CELLULOSE GUM. GUAR GUM. LIME]. SALSA (TOMATOES. ONION. PEPPERS CCHILI.JAPAPENO. BELL). HATER",
+      "TOMATO PASTE",
+      "CILANTRO. SPICES",
+      "ONION.CELERY",
+      "GARLIC.CORN GLUTEN",
+      "XANTHAN GUM. YERST EXTRACT",
+      "SPICE EXTRACTS. SALT",
+      "VINEGAR. CI TRIC ACID. ACETIC ACID",
+      "LACTIC ACID. CELLULOSE GUM",
+      "CALCIUM CHLORIDE)",
+      "CILANTRO SAUCE [CULTURED PASTEURIZED SKIM MILK. CREAM",
+      "HATER. CANOLA OIL. VINEGAR. MODIFIED CORN STARCH. SOY PROTEIN. SALT. GELATIN",
+      "NONFAT MILK",
+      "LEMON & LIME JUICE. ONION",
+      "MANTHAN GUM",
+      "NATURAL FLAVORS. SPICE.LOH-FAT BUTTERMILK. RED HINE UINEGAR. CILANTRO. CHILES. GARLIC",
+      "SEA SALT. SALT. PUMPKIN SEEDS. SODIUM BENZOATE",
+      "POTASSIUM SORBATE",
+      "ENZYMES). CHEESE BLEND (CULTURED PASTEURIZED MILK",
+      "SALT. ENZYMES. ART. COLOR. NATAMYCIN)",
+      "LIMES",
+      "GREEN & RED CABBAGE. BROCCOLI. CARROTS CONTAINS: WHEAT",
+      "MILK",
+      "SOV MADE IN A FACILITY THAT PROCESSES HHEAT. SOV. NILK. EGG TREE NUTS. PEANUTS",
+      "FISH",
+      "CRUSTACEAN. SHELLFISH. SESANE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/154/531/3825/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sutton & Dodge, Top Round For London Broil",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0211556507077",
+    "ingredientes": [
+      "Solution ingredients: beef broth",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate",
+      "flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deluxe Mixed Nuts, Lightly Salted",
+    "marca": "Shoprite",
+    "ean": "02115580",
+    "ingredientes": [
+      "Cashews",
+      "almonds",
+      "brazil nuts",
+      "hazelnuts",
+      "pecans",
+      "peanut and/or canola and/or cottonseed oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sutton & Dodge, Cube Steak",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0211577407011",
+    "ingredientes": [
+      "Solution ingredients: beef broth",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate",
+      "flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "veritable jambon persille bourgoge",
+    "marca": "Intermarché",
+    "ean": "0211581018630",
+    "ingredientes": [
+      "jambon de porc (Origine : France)",
+      "épaule d porc (Origine : Fronce)",
+      "couenne de porc (Origine : France)",
+      "gelé et gélatine porcine",
+      "çncigre d'alcool",
+      "persil 3",
+      "sel",
+      "vin blanc",
+      "saccharose",
+      "dex/rose",
+      "crimes naturels",
+      "extrait d'oignons et d'a antiox#anf : oscorbcte de sodium",
+      "conservateur : nitrite de sodiun Décor : gelée (gélatine porcine",
+      "persil 12",
+      "selt dextros épaississants . carraghénanes). Conditionné sous atmosphèl protectrice."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc (Origine : France)",
+        "razon": "Contiene jambon de porc (Origine : France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/158/101/8630/front_fr.13.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Veritable jambon persillé de Bourgogne",
+    "marca": "Intermarché",
+    "ean": "0211581018890",
+    "ingredientes": [
+      "jambon de porc 43/2% (Origine : France)/ épaule de porc (Origine : France)/ couenne de porc (Origine : France)/ gelée et gélatine porcine",
+      "vinaigre d'alcool/ persil 3",
+      "vin blanc",
+      "ail",
+      "saccharose",
+      "dextrose",
+      "arômes naturels",
+      "extrait d'oignons et d'ail",
+      "antioxydant : ascorbate de sodium",
+      "conservateur : nitrite de sodium. gelée (gélatine porcine",
+      "persil 12/5%",
+      "sel/ dextrose",
+      "Décor carraghénanes). Conditionné sous atmosphère épaississants . protectrice."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc 43/2% (Origine : France)/ épaule de porc (Origine : France)/ couenne de porc (Origine : France)/ gelée et gélatine porcine",
+        "razon": "Contiene jambon de porc 43/2% (Origine : France)/ épaule de porc (Origine : France)/ couenne de porc (Origine : France)/ gelée et gélatine porcine, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/158/101/8890/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Véritable Jambon persillé de Bourgogne",
+    "marca": "Intermarché",
+    "ean": "0211581021258",
+    "ingredientes": [
+      "Jambon de porc 43.2% (Origine: France)",
+      "épaule de porc (Origine : France)",
+      "couenne de porc (Origine: France)",
+      "gelée et gélatine porcine",
+      "vinaigre d'alcool",
+      "persil 3.1%",
+      "sel",
+      "vin blanc",
+      "ail",
+      "soccharose",
+      "dextrose",
+      "arômes naturels",
+      "extrait d'oignons et d'ail",
+      "antioxydant : ascorbate de sodium",
+      "conservateur: nitrite de sodium",
+      "Décor gelée (gélatine porcine",
+      "persil 1",
+      "sel",
+      "dextrose",
+      "épaississants : carraghénanes)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc 43.2% (Origine: France)",
+        "razon": "Contiene Jambon de porc 43.2% (Origine: France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/158/102/1258/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poitrine de porc demi-sel tranchée",
+    "marca": "Jean Rozé",
+    "ean": "0211615012597",
+    "ingredientes": [
+      "Poitrine de porc (origine: France) (88%)",
+      "eau",
+      "sel",
+      "dextrose de mais",
+      "conservateur: nitrite de sodium",
+      "antioxydant: ascorbate de sodium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/161/501/2597/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet jaune",
+    "marca": "Volaé",
+    "ean": "0211629017847",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/162/901/7847/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet",
+    "marca": "Volaé",
+    "ean": "0211629023688",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/162/902/3688/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet",
+    "marca": "Volaé",
+    "ean": "0211629025323",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/162/902/5323/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillette de poulet",
+    "marca": "Volaé",
+    "ean": "0211629029710",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/162/902/9710/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jus de pruneaux",
+    "marca": "Vitamont",
+    "ean": "0211631007942",
+    "ingredientes": [
+      "Jus de pruneaux"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/163/100/7942/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet",
+    "marca": "Volaé",
+    "ean": "0211633026897",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/163/302/6897/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet blanc",
+    "marca": "Volaé",
+    "ean": "0211633027030",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/163/302/7030/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet blanc",
+    "marca": "Volaé",
+    "ean": "0211633028211",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/163/302/8211/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillette de poulet",
+    "marca": "Volaé",
+    "ean": "0211633032140",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/163/303/2140/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

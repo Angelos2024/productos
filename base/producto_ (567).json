@@ -1,0 +1,458 @@
+[
+  {
+    "nombre": "Hummus spicy with red pepper",
+    "marca": "chef select",
+    "ean": "0220850004069",
+    "ingredientes": [
+      "DK Hummus med sesamfrø",
+      "pe - berfrugt og chili. Ingredienser: 48% kikærter",
+      "rapsolie",
+      "vand",
+      "sukker",
+      "lagereddike",
+      "sambal oelek (vand",
+      "tredobbelt koncentreret tomat",
+      "salt",
+      "krydderier",
+      "lagereddike",
+      "sukker",
+      "chili)",
+      "salt",
+      "stivelse",
+      "modificeret stivelse",
+      "koncentreret citronjuice",
+      "hvidløg",
+      "krydderier",
+      "persille",
+      "surheds - regulerende middel (natriumacetater)",
+      "fortyk - ningsmiddel (guargummi). Pakket i beskyt - tende atmosfære. Opbevaring: I køleskab ved maks. +5 °C. Bedst før: Se siden. Fremstillet i Tyskland med kikærter og rød peberfrugt fra EU/ikke-EU og sesam fra ikke-EU. Lidl Danmark K/S",
+      "Profilvej 9",
+      "DK-6000 Kolding Netovægt: 200 ge 20810405 Næringsindhold o/100g 1165 kJ/"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/085/000/4069/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Denmark"
+  },
+  {
+    "nombre": "Proteines de soja gros morceaux",
+    "marca": "Markal",
+    "ean": "0220919016736",
+    "ingredientes": [
+      "sglìjaune I oloqlque"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/091/901/6736/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salmon, Wild Alaskan Sockeye",
+    "marca": "Trader Joe's",
+    "ean": "0220948212604",
+    "ingredientes": [
+      "salmon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/094/821/2604/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baguette du château",
+    "marca": "Leclerc Boulangerie",
+    "ean": "0221014005250",
+    "ingredientes": [
+      "pâte à pain tradition (farine tradi saveur type 65 (farine de _BLE_ panifiable français. _GLUTEN_",
+      "farine de _BLE_ malté",
+      "alpha-amylase)",
+      "eau sel (Sel",
+      "antiagglomérant (ferronitrile de sodium (E535))",
+      "levure (Levure de panification 100%])"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/101/400/5250/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fromage fouetté",
+    "marca": "Cora",
+    "ean": "02210292",
+    "ingredientes": [
+      "FROMAGE BLANC FOISONN NATURE",
+      "A TARTINER-INGREDIENTS Fromage (lalt de vache pasteurisé (origine:France)-ferments lac enzyme coagulante]-protéines de lait-sel. Traces éventuel coque 7 OPGEKLOPTE VERSE KAAS NATUUR",
+      "OM TE SMEREN Verse kaas (gepasteuriseerde koemelk (herkomst: Frankrijk)-m stremmend enzym]-melkeiwitten-zout. Kan sporen bevatten va"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/221/0292/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ahold, chicken wings",
+    "marca": "Ahold",
+    "ean": "0221067900007",
+    "ingredientes": [
+      "Chicken wings."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain aux céréales",
+    "marca": "Leclerc",
+    "ean": "0221114010079",
+    "ingredientes": [
+      "pate à pain céréales (farine cereales et graine (Farine de BLE",
+      "céréales et grain s (9",
+      "semoule de BLE dur",
+      "lin brun",
+      "tournesol",
+      "millet",
+      "lin jaune",
+      "flocon d'orge et d'avoine",
+      "sarasin",
+      "issues de BLE",
+      "sel",
+      "lavain de SEIGLE et de BLE dévitalisé et désactivé",
+      "GLUTEN de BLE",
+      "farine de BLE malté torréfié",
+      "agent de traitement de la farine acide ascorbique",
+      "acidifiant acide lactique",
+      "enzymes alpha amylases",
+      "hemicellulases",
+      "xylanases et cellulases. Allergene GLUTEN. Peut contenir des traces de SESAME",
+      "OEUFS",
+      "LAIT ET PRODUITS A BASE DE LAIT",
+      "SOJA): eau",
+      "croustillis (FARINE DE BLE Emulsifiant mono et diglycérides d'acides gras",
+      "Agent de traitement de la farine acide ascorbique",
+      "Auxiliaire technologique Huile de tournesol",
+      "Enzymes : amyloglucosidase",
+      "alpha - amylase",
+      "amylase maltogène",
+      "lipase",
+      "glucose-oxydase",
+      "xylanase.]",
+      "levure (Levure de panification 100%))",
+      "Allergène: gluten",
+      "céréales."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/111/401/0079/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier",
+    "marca": "St Sever",
+    "ean": "0221118043103",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/111/804/3103/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fruit Chews, Minis, Sours",
+    "marca": "Starburst",
+    "ean": "02211202",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "palm oil",
+      "citric acid",
+      "less than 2% of: pectin",
+      "sodium citrate",
+      "apple juice from concentrate",
+      "natural and artificial flavors",
+      "mono - and diglycerides",
+      "confectioner's glaze",
+      "coloring (includes blue 1)",
+      "carnauba wax."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/221/1202/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "doomino",
+    "marca": "Michel, Saint Michel",
+    "ean": "02211282",
+    "ingredientes": [
+      "Nappage au chocolat en poudre (sucre",
+      "chocolat en poudre 5.6% (sucre",
+      "cacao en poudre)",
+      "huile de tournesol",
+      "lait écrémé en poudre",
+      "beurre de cacao",
+      "lactose",
+      "pâte de cacao",
+      "pâte de noisettes",
+      "émulsifiant : lécithines de tournesol",
+      "arôme naturel de vanille)",
+      "huile de colza",
+      "sucre",
+      "farine de blé 15.5%",
+      "eufs de poules élevées en plein air 15%",
+      "stabilisants : glycérol et sorbitols (blé)",
+      "lait écrémé en poudre",
+      "fécule",
+      "poudres à lever: carbonates et citrates de sodium (blé)",
+      "blancs d'eufs en poudre de poules élevées en plein air",
+      "sel",
+      "arôme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/221/1282/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tiger Bloomer",
+    "marca": "Tesco",
+    "ean": "0221133001454",
+    "ingredientes": [
+      "Wheat Flour (Wheat Flour. Calcium Carbonate",
+      "Iron",
+      "Niacin",
+      "Thiamin)",
+      "Water",
+      "Yeast. Rapeseed Oil",
+      "Wheat Fibre",
+      "Salt",
+      "Palm Oil",
+      "Emulsifiers (Mono - and Diglycerides of Fatty Acids",
+      "Mono - and Diacetyl Tartaric Acid Esters of Mono - and Diglycerides of Fatty Acids)",
+      "Flour Treatment Agents (Ascorbic Acid",
+      "L-Cysteine)",
+      "Malted Barley Extract",
+      "Stabiliser (Disodium Diphosphate)",
+      "Preservatives (Acetic Acid",
+      "Calcium Propionate)",
+      "Acidity Regulator (Sodium Hydroxide). 02877330014"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/113/300/1454/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Compote pomme d'Aquitaine Fraise et myrtille",
+    "marca": "Babybio",
+    "ean": "02211804",
+    "ingredientes": [
+      "Pommes 79%",
+      "fraises 19%",
+      "myrtilles"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/221/1804/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Telera Rolls",
+    "marca": "Safeway",
+    "ean": "0221188503699",
+    "ingredientes": [
+      "ENRICHED WHEAT FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "WATER",
+      "YEAST",
+      "AMMONIUM SULFATE",
+      "ASCORIBC ACID (VITAMIN C)",
+      "CALCIUM SULFATE",
+      "DIACETYL TARTARIC ACID ESTERS OF MONO - AND DIGLYCERIDES (DATEM)",
+      "ENRICHED WHEAT FLOUR (BLEACHED WHEAT FLOUR",
+      "NIACIN",
+      "IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID)",
+      "ENZYME",
+      "ENZYMES (WHEAT)",
+      "HYDROLYZED WHEAT GLUTEN",
+      "MONOGLYCERIDES",
+      "SALT",
+      "SOYBEAN OIL",
+      "SUGAR",
+      "WHEAT GLUTEN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/118/850/3699/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green pickled jalapeno peppers",
+    "marca": "Productos Carey",
+    "ean": "0221224010020",
+    "ingredientes": [
+      "Jalapeno peppers",
+      "water",
+      "vinegar",
+      "carrots",
+      "salt",
+      "onion",
+      "high-fructose corn syrup or sugar",
+      "corn oil",
+      "garlic and ancient."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lentilles vertes",
+    "marca": "Casino",
+    "ean": "0221242774287",
+    "ingredientes": [
+      "Lentilles vertes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Original Honey Smoked Salmon",
+    "marca": "Honey Smoked Fish Co.",
+    "ean": "0221390814712",
+    "ingredientes": [
+      "Atlantic Salmon",
+      "Water",
+      "Salt",
+      "Honey",
+      "Herbs",
+      "Spices",
+      "Onion",
+      "Garlic",
+      "Citric Acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/139/081/4712/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Julienne de légumes",
+    "marca": "E.leclerc",
+    "ean": "0221473017320",
+    "ingredientes": [
+      "E.Leclerc@ JULIENNE DE LEGUHES 117kJ/"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/147/301/7320/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lasagnes saumon épinard",
+    "marca": "André",
+    "ean": "0221521043035",
+    "ingredientes": [
+      "Béchamel : Lait",
+      "farine de blé",
+      "matière arasse de palme hydrogénée",
+      "sel",
+      "épices. Pâte : semoule blé dur",
+      "oeufs",
+      "farine de manitoba (blé)",
+      "crème de riz. Epinard (3370). Saumon (18%) : sel",
+      "gélatine alimentaire issue de la peau de porc. Emmental : Lait de vache",
+      "sel",
+      "ferments lactiques",
+      "enzymes coagulantes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/152/104/3035/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet fermier jaune",
+    "marca": "Maisonnave, St Sever",
+    "ean": "0221539032670",
+    "ingredientes": [
+      "Filet de poulet fermier jaune."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/153/903/2670/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "soja citron",
+    "marca": "Lidl, envia",
+    "ean": "02215420",
+    "ingredientes": [
+      "sucre",
+      "eau",
+      "phosphates de trịcalcium",
+      "épaississants : farine de graines caroube",
+      "pectines",
+      "arôme naturel",
+      "ferments lactiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/221/5420/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dutch smoked cheese",
+    "marca": "Trader Joe's",
+    "ean": "0221598105117",
+    "ingredientes": [
+      "CHEESE (PASTEURIZED MILK",
+      "SALT",
+      "CHEESE CULTURE",
+      "MICROBIAL ENZYME)",
+      "WATER",
+      "BUTTER (CREAM)",
+      "WHEY POWDER",
+      "SODIUM PHOSPHATE",
+      "SODIUM POLYPHOSPHATE",
+      "SALT",
+      "NATURAL SMOKE FLAVOR. CONTAINS MILK."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/159/810/5117/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "wrigley’s spearmint gum",
+    "marca": "Spearmint,Wrigley's",
+    "ean": "02217109",
+    "ingredientes": [
+      "SUGAR",
+      "GUM BASE",
+      "DEXTROSE",
+      "CORN SYRUP",
+      "NATURAL AND ARTIFICIAL FLAVOR 2%",
+      "GLYCEROL",
+      "SOY LECITHIN",
+      "ASPARTAME",
+      "ACESULFAME K",
+      "COLORS (YELLOW 5 LAKE",
+      "BLUE 1 LAKE)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/221/7109/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Argentina"
+  }
+]

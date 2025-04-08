@@ -1,0 +1,1089 @@
+[
+  {
+    "nombre": "Cheese Cellar, Sharp Cheddar Cheese",
+    "marca": "Stoneridge",
+    "ean": "0264102903298",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "enzymes",
+      "annatto coloring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Cellar, Baby Swiss Cheese",
+    "marca": "Stoneridge",
+    "ean": "0264113803952",
+    "ingredientes": [
+      "Pasteurized partially skimmed milk",
+      "cheese culture",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, muenster cheese",
+    "marca": "Stoneridge",
+    "ean": "0264115703106",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "culture",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, buffalo wing monterey jack cheese",
+    "marca": "Stoneridge",
+    "ean": "0264125703103",
+    "ingredientes": [
+      "Pstrzd milk",
+      "salt",
+      "culture",
+      "enzymes",
+      "calcium chloride",
+      "buffalo seasoning"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pains burgers géants Jacquet",
+    "marca": "Jacquet",
+    "ean": "02641423",
+    "ingredientes": [
+      "Farine de blé (61%)",
+      "eau",
+      "sucre",
+      "levure",
+      "huile de colza",
+      "graines de sésame (2",
+      "gluten de blé",
+      "arôme (contient alcool)",
+      "sel",
+      "conservateur : propionate de calcium",
+      "farine de fève",
+      "extrait d'acérola. Présence possible de : lait",
+      "oeufs. Une recette sans huile de palme pour des pains hamburgers moelleux."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/264/1423/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, bacon muenster cheese",
+    "marca": "Stoneridge",
+    "ean": "0264160703496",
+    "ingredientes": [
+      "Pasteurized milk",
+      "precooked bacon topping",
+      "(pork bacon cured with water",
+      "salt",
+      "sugar",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite)",
+      "cheese culture"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, dill havarti cheese",
+    "marca": "Stoneridge",
+    "ean": "0264186703494",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "dill",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, muenster cheese with jalapeno peppers",
+    "marca": "Stoneridge",
+    "ean": "0264198703109",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "calcium chloride",
+      "jalapeno peppers."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Cellar, Smoked Brick Cheese",
+    "marca": "Stoneridge",
+    "ean": "0264202304612",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "cheese culture",
+      "enzymes",
+      "smoke flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, havarti cheese",
+    "marca": "Stoneridge",
+    "ean": "0264218703492",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stoneridge, cheese cellar, green olive havarti cheese",
+    "marca": "Stoneridge",
+    "ean": "0264228703499",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "black or green olives",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Cellar, Cheddar Cheese",
+    "marca": "Stoneridge",
+    "ean": "0264230803958",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "enzymes",
+      "annatto coloring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Cellar, Blue Marble Cheese",
+    "marca": "Stoneridge",
+    "ean": "0264260703495",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "enzymes",
+      "salt",
+      "anatto color",
+      "penicillium roqueforti"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Cellar, Wildmer's Brick Cheese",
+    "marca": "Stoneridge",
+    "ean": "0264281304619",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "enzymes",
+      "culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cheese Cellar, Brick Cheese, Widmers Aged",
+    "marca": "Stoneridge",
+    "ean": "0264390505082",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "enzymes",
+      "culture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Taboulé aux 5 légumes",
+    "marca": "Garbit",
+    "ean": "0264455947147",
+    "ingredientes": [
+      "Eau",
+      "oignons 9",
+      "courgettes 9",
+      "carottes 8",
+      "concombres 7",
+      "poivrons rouges 4",
+      "double concentré de tomate 3 %",
+      "huile d'olive vierge extra 1",
+      "feuilles de menthe émincées",
+      "jus de citron concentré",
+      "sel",
+      "persil",
+      "sucre",
+      "arômes naturels",
+      "épice. Total légumes mis en œuvre : 40",
+      "traces de lait et céleri."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/445/594/7147/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "saucisse sèche de foie",
+    "marca": "Milhau",
+    "ean": "0264559023556",
+    "ingredientes": [
+      "Se MM B.P. 42 81230 LACAUNE FR 81.124.012 CE SAUCISSE SECHE DE FOIE Ing:Vlande et fole de porc(30% mlnl)francals",
+      "sel",
+      "LACTOSE",
+      "dextrose",
+      "eplces",
+      "exhausteur de gout: E621",
+      "stabllsant: E450",
+      "conservateur:E252",
+      "aromes",
+      "aromes de fumee",
+      "ferments",
+      "boyau naturel.152g de vlande mls en oeuvre pour 100g de prodult finl. Prodult sujet a dessiccation. Ne convient pas aux femmes encelntes",
+      "aux malades hepatiques et aux Immuno deprimes. A conserver+18°C maxl. Valeurs nutrltlonnelles"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Se MM B.P. 42 81230 LACAUNE FR 81.124.012 CE SAUCISSE SECHE DE FOIE Ing:Vlande et fole de porc(30% mlnl)francals",
+        "razon": "Contiene Se MM B.P. 42 81230 LACAUNE FR 81.124.012 CE SAUCISSE SECHE DE FOIE Ing:Vlande et fole de porc(30% mlnl)francals, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/455/902/3556/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Quart de jambon sec",
+    "marca": "MILHAU",
+    "ean": "0264579057593",
+    "ingredientes": [
+      "Jambon de porc français",
+      "sel",
+      "conservateur : E252."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc français",
+        "razon": "Contiene Jambon de porc français, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/457/905/7593/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Quart de jambon sec",
+    "marca": "Maison Milhau",
+    "ean": "0264579070127",
+    "ingredientes": [
+      "Jambon de porc francals",
+      "sel",
+      "conservateur: E252."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc francals",
+        "razon": "Contiene Jambon de porc francals, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/457/907/0127/front_fr.10.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Quart de jambon sec",
+    "marca": "Maison Milhau",
+    "ean": "0264579071117",
+    "ingredientes": [
+      "Jambon de porc francais",
+      "sel",
+      "dextrose",
+      "conservateur: E252"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc francais",
+        "razon": "Contiene Jambon de porc francais, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/457/907/1117/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Quart de jambon sec",
+    "marca": "Maison Milhau",
+    "ean": "0264579072947",
+    "ingredientes": [
+      "Jambon de porc",
+      "sel",
+      "conservateur: E252"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/457/907/2947/front_fr.10.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Souvlaki pita bread",
+    "marca": "Alexakis",
+    "ean": "0264955119792",
+    "ingredientes": [
+      "Wheat flour (63%)",
+      "water",
+      "fresh yeast",
+      "sugar",
+      "salt",
+      "wheat sourdough (water",
+      "wheat flour",
+      "lactic acid",
+      "acidifier: acetic acid)",
+      "sunflower oil",
+      "preservatives: calcium propionate. The product may contain traces of sesame and soybeans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/495/511/9792/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pain burger x4",
+    "marca": "E.Leclerc",
+    "ean": "0265038014430",
+    "ingredientes": [
+      "farine de BLE T65",
+      "sucre",
+      "poudre de BEURRE (BEURRE pétrin viennois (Farine viennois ( protéines de LAIT",
+      "perméat de LACTOSERUM)",
+      "GLUTEN de BLE",
+      "germe de BLE",
+      "sel fin",
+      "jus concentré d acérola",
+      "enzymes (alpha-amylase",
+      "amylase mattogénique",
+      "protéase",
+      "glucose oxydase",
+      "xylanase)",
+      "épice)",
+      "eau",
+      "levure",
+      "Améliorant viennoiserie ( dextrose",
+      "farine de BLE",
+      "correcteurs d'acidité ( E341",
+      "E170)",
+      "émulsifiant (E472e)",
+      "farine de ELE matté",
+      "huile de colza",
+      "agent de traitement de la farine E300",
+      "enzymes)). graines de SESAME",
+      "OEUF entier liquide"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant (E472e)",
+        "razon": "Contiene émulsifiant (E472e), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/503/801/4430/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignon fume nature",
+    "marca": "Baller",
+    "ean": "0265040084827",
+    "ingredientes": [
+      "FILET MIGNON FUME NATU Ingrécients : Filet mignon de porc",
+      "sel",
+      "stabilisant : E331",
+      "dextrose",
+      "acidifiant : E262",
+      "antioxydant : E301",
+      "épices",
+      "ail",
+      "consérvateur : E250. 110 g de viande de por tilisée pour fabriquer 100 g de produit fini. Fumage au bois de hêtre. Porc origine ŬE. Valeurs énergétiques et"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Trancetto",
+    "marca": "Trancetto",
+    "ean": "02650616",
+    "ingredientes": [
+      "sucre - farine de blé œufs frais huiles de palme et de tournesol en proportion variable - sirop de glucose-fructose - lait écrémé cacao maigre en poudre 3",
+      "lécithine de soja - poudres à lever: carbonates dîammonium",
+      "carbonates de sodium",
+      "diphosphates - sel. Trace d'autres fruits à coque. Les informations en gras sont destinées aux personnes allergiques ou intolerantes. A conserver dans un endroit frais et sec."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/265/0616/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Colby Cheese, Colby",
+    "marca": "Weyauwega Star Dairy",
+    "ean": "0265132605053",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes annatto coloring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dairy, Monterey Jack Cheese",
+    "marca": "Star,  Star Dairy",
+    "ean": "0265135103860",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes (animal)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dairy, Monterey Jack Cheese",
+    "marca": "Star,  Star Dairy",
+    "ean": "0265135203553",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes (animal)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Swiss cheese",
+    "marca": "Star,  Star Dairy",
+    "ean": "0265142105482",
+    "ingredientes": [
+      "Pasteurized part skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Triple Creme - Soft Ripened Cheese",
+    "marca": "Cf & R",
+    "ean": "0265150025505",
+    "ingredientes": [
+      "Pasteurized milk and cream",
+      "salt",
+      "lactic starters",
+      "enzyme",
+      "penicillium candidum and geotrichum (harmless white mold)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dairy, Farmers Cheese",
+    "marca": "Star,  Star Dairy",
+    "ean": "0265169804993",
+    "ingredientes": [
+      "Part-skim pasteurized milk",
+      "cheese cultures",
+      "salt & enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Easter sweet gummysour pop",
+    "marca": "Star Wars",
+    "ean": "02653273",
+    "ingredientes": [
+      "CORN SYRUP",
+      "SUGAR",
+      "WATER",
+      "GELATIN",
+      "SORBITOL PECTIN",
+      "MALIC ACID",
+      "CITRIC ACID SCOIUM CITRATE",
+      "CORNSTARCH",
+      "TITANIUM DIOXIDE (FOR COLOR)",
+      "ARTIFICIAL FLAVORS POTASSIUM SORBATE (PRESERVA - TIVE)",
+      "RED 3",
+      "RED 40",
+      "BLUET",
+      "YELLOW 5",
+      "YELLOW."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/265/3273/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "jogurt nature",
+    "marca": "coop",
+    "ean": "02653280",
+    "ingredientes": [
+      "lait (homogénéisé",
+      "pasteurise [Suisse])",
+      "protéines lactiques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/265/3280/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Dairy, Jalapeno Pepper Monterey Jack Cheese",
+    "marca": "Star,  Star Dairy",
+    "ean": "0265504304775",
+    "ingredientes": [
+      "Monterey jack cheese (culture pasteurized milk",
+      "salt",
+      "enzymes",
+      "calcium chloride) green & red jalapeno peppers",
+      "vinegar",
+      "salt & water. red bell peppers (bell peppers",
+      "water",
+      "citric acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pork Tenderloin Fillet",
+    "marca": "Sainsbury's",
+    "ean": "0265563003725",
+    "ingredientes": [
+      "Pork"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/556/300/3725/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Saucisson sec de l'Ardèche",
+    "marca": "Gueze",
+    "ean": "0265622056617",
+    "ingredientes": [
+      "INGREDIENTS MAIGRE DE PORC",
+      "GRAS DE PORC (DONT VIANDE DE RGID PROTEGEE ARDECHE PRODUIT FINID",
+      "SEL. SUCRES (SIROP DE SLUCOSE (150GR VIANDE POUR 10D DEXTROSE SRCCHAROSE)",
+      "ALC POIVRES",
+      "AIL EN PULPE CRIL ONSE ATER E220",
+      "CONSERVRTEUR E252. FERMENTS DE MATURATION",
+      "BOVRI HTEE PORC CANS COL ORANT SANS DA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/562/205/6617/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisson sec de l'Ardèche Prestige",
+    "marca": "Guèze",
+    "ean": "0265622057867",
+    "ingredientes": [
+      "Maigre de porc",
+      "gras de porc (dont 10% de jambon)",
+      "sel",
+      "sucres (sirop de glucose",
+      "dextrose",
+      "saccharose)",
+      "alcool",
+      "poivres",
+      "ail en pulpe",
+      "conservateur : E252",
+      "ferments de maturation",
+      "boyau naturel de porc"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "gras de porc (dont 10% de jambon)",
+        "razon": "Contiene gras de porc (dont 10% de jambon), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/562/205/7867/front_fr.6.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le cendré ardéchois",
+    "marca": "Gueze",
+    "ean": "0265623046112",
+    "ingredientes": [
+      "MAiGRE DE PORC",
+      "GRAS DE PORC 100GR PRODUIT FINI)",
+      "SEL",
+      "SUCRES (SIROP DE GLUCOSE",
+      "DEXTROSE",
+      "SACCHAROSE)",
+      "POIVRES AIL EN PULPE",
+      "CONSERVATEUR : E252. FERMENTS - BOYAU NATUREL DE PORC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/562/304/6112/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le cendré Ardéchois",
+    "marca": "Guèze",
+    "ean": "0265623050775",
+    "ingredientes": [
+      "Maigre de porc",
+      "gras de porc",
+      "sel",
+      "sucres (sirop de glucose",
+      "dextrose",
+      "saccharose)",
+      "alcool",
+      "poivres",
+      "ail en pulpe",
+      "conservateur E252",
+      "ferments de maturation",
+      "boyau naturel de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/562/305/0775/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le Burzet saucisson sec",
+    "marca": "Guèze",
+    "ean": "0265624085349",
+    "ingredientes": [
+      "PROCUIT suaET . c ü). 26qG. SEL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/562/408/5349/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisson de l’Ardèche",
+    "marca": "Guèze Charcutier",
+    "ean": "0265625053729",
+    "ingredientes": [
+      "VIANDES DE PORC (135 GR POUR 100 GR)",
+      "SEL",
+      "SUCRES (SIROP DE GLUCOSE",
+      "DEXTROSE",
+      "SACCHAROSE)",
+      "ALCOOL",
+      "POIVRES",
+      "AIL EN PULPE",
+      "CONSERVATEUR : E252. FERMENTS DE MATURATION"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/562/505/3729/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 chicken breast fillets",
+    "marca": "Waitrose",
+    "ean": "0265730008980",
+    "ingredientes": [
+      "chicken breast fillets"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/573/000/8980/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Mozzarella Cheese",
+    "marca": "Best But",
+    "ean": "0265805005005",
+    "ingredientes": [
+      "PASTEURIZED PARTLY SKMMED MILK",
+      "MODIFED MILK INGREDIENTS*",
+      "BACTERIAL CULTURE",
+      "SALT",
+      "CALCIUM CHLORIDE",
+      "MICROBIAL ENZYME (*MAY CONTAIN)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/580/500/5005/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Narlon fumé au bois de hêtre",
+    "marca": "Les Salaisons du Terroir",
+    "ean": "0265912015874",
+    "ingredientes": [
+      "Viande de porc",
+      "sel",
+      "dextrose",
+      "arômes naturels",
+      "ascorbate de sodium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/591/201/5874/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Praseks Beef Jerky",
+    "marca": "HEB",
+    "ean": "0265945016824",
+    "ingredientes": [
+      "PRASEKS BEEF JERKY THIN CUT - SS $8.83 Packed on: 12.03.24 Net Weight: 0.260lb Sell by: 02.14.25 $/lb: 33.98 beef",
+      "salt",
+      "brown sugar",
+      "sodium acetate",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "hickory smoke powder (maltodextrin",
+      "natural hickorysmoke powder",
+      "silicon dioxide(anticaking))",
+      "tricalcium phosphate 265945008836 561 HEB San Antonio",
+      "TX. 78204"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Cuisses de canard confites",
+    "marca": "Le Gaulois",
+    "ean": "0265966041652",
+    "ingredientes": [
+      "IJ! GAtJl",
+      "OlS de généreu«s ( nécessaire pour les canards nés",
+      "élevés France",
+      "ont été par r être ensuite pendant pus de 4 dans le rtsFd"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/596/604/1652/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes de cuisses de poulet fermier",
+    "marca": "Les fermiers de Loué",
+    "ean": "0265971023094",
+    "ingredientes": [
+      "POULET FERMIER DE LOUÉ ÉLEVÉ EN LIBERTÉ BIOLOGIQUE ou LABEL ROUGE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/597/102/3094/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalope de Cuisse Moelleuse Poulet Fermier de Loué",
+    "marca": "Loué",
+    "ean": "0265971028211",
+    "ingredientes": [
+      "Escalopes de cuisse poulet fermieer Loué",
+      "origine France"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/597/102/8211/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes de poulet",
+    "marca": "Loué",
+    "ean": "0265971035493",
+    "ingredientes": [
+      "Escalopes de cuisse de poulet fermier origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/597/103/5493/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fud, fresco natural mexican style crumbling cheese",
+    "marca": "Fud",
+    "ean": "0266055602372",
+    "ingredientes": [
+      "Pasteurized milk",
+      "nonfat milk",
+      "palm oil",
+      "salt",
+      "calcium chloride",
+      "enzymes",
+      "potassium sorbate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vine Ripened Tomatoes",
+    "marca": "Morrisons,Morrisons Organic",
+    "ean": "0266084001757",
+    "ingredientes": [
+      "Pitenza tomatoes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/608/400/1757/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Paese lonzo ile de beaute mex",
+    "marca": "Charcuterie de l’île de beauté",
+    "ean": "0266132098982",
+    "ingredientes": [
+      "Carré de porc",
+      "sel",
+      "polvre",
+      "conservateur: nitrite de sodium. Fumage au feu de bois"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/613/209/8982/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sunflower Seeds",
+    "marca": "David",
+    "ean": "02661427",
+    "ingredientes": [
+      "Sunflower seeds",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/266/1427/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "P'tit plaisir au Chocolat Noir",
+    "marca": "La Vie Claire",
+    "ean": "0266191085548",
+    "ingredientes": [
+      "Chocolat noir 48% (Sucre de Canne",
+      "pâte de Cacao",
+      "Beurre de Cacao",
+      "Lait entier en poudre",
+      "arôme naturel de Vanille)",
+      "Farine de Blé 36%",
+      "Sucre de Canne Roux",
+      "Beurre 8.8%",
+      "Lait écrémé en poudre",
+      "poudre à lever (Carbonate de Sodium",
+      "Acide Tartrique",
+      "Sel Marin non raffiné",
+      "arôme naturel)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "crème aux noisettes",
+    "marca": "vg",
+    "ean": "02663319",
+    "ingredientes": [
+      "lait . noisette. sans gluten et sans huile de palme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/266/3319/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet roti",
+    "marca": "Grand Frais",
+    "ean": "0266494033652",
+    "ingredientes": [
+      "Fil POULET HVEC OE BROMES",
+      "EPICES ET PLBNTES BROMBTIIUES 1156 OE FILET OE POULET MIS EN OEUVRE POUR 1005 OE PRODUIT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/649/403/3652/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet cuit fumé",
+    "marca": "Ronsard",
+    "ean": "0266650049855",
+    "ingredientes": [
+      "INGREOIENTS: OE GLUCOSE",
+      ": ET TRIPHOSPHRTES",
+      "EPRISSISSRNT .. BROMES",
+      "CONSERVRTEUR : E250. 1106 POULET MIS EN OEUVRE POUR OE FINI."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/665/004/9855/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic Plain Rotisserie Chicken",
+    "marca": "Whole Foods Market",
+    "ean": "0266662009991",
+    "ingredientes": [
+      "Organic Chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/666/200/9991/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pâté de campagne breton",
+    "marca": "Stéphan",
+    "ean": "0267040114023",
+    "ingredientes": [
+      "gorge de porc",
+      "foie de porc",
+      "gras de porc",
+      "couenne de porc",
+      "oignons frais",
+      "blanc d'oeuf frais",
+      "sel",
+      "fécule de pomme de terre",
+      "poivre",
+      "ail"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/704/011/4023/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ajvar mild",
+    "marca": "K Classic",
+    "ean": "02671352",
+    "ingredientes": [
+      "Rote Paprika (84 %)",
+      "Auberginen (7 %)",
+      "Sonnenblument Speisesalz",
+      "Zucker",
+      "Branntweinessig",
+      "Knoblauch",
+      "Pfefferonen",
+      "schwarzer Pfeffer."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/267/1352/front_de.8.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "mimolette vieille 12 mois",
+    "marca": "la sélection fu fromager",
+    "ean": "0267253024539",
+    "ingredientes": [
+      "lait pasteurisé de vache",
+      "sel",
+      "présure",
+      "ferments lactiques",
+      "colorant",
+      "norbixine roucou",
+      "croûte non consommable",
+      "E160b",
+      "E235. origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "6 cuisses de poulet",
+    "marca": "Kerchant",
+    "ean": "0267350028997",
+    "ingredientes": [
+      "Cuisses de poulet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/735/002/8997/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

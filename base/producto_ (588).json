@@ -1,0 +1,538 @@
+[
+  {
+    "nombre": "Eye Of Round Steak",
+    "marca": "Black Angus",
+    "ean": "0253802607742",
+    "ingredientes": [
+      "beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/380/260/7742/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "bee pollen raw & pure",
+    "marca": "Balkan Bio",
+    "ean": "02539140",
+    "ingredientes": [
+      "polen"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Bulgaria"
+  },
+  {
+    "nombre": "Smoked Pork Neck Bones",
+    "marca": "Kroger",
+    "ean": "0253955004382",
+    "ingredientes": [
+      "Cured with: water",
+      "salt",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole corn-fed freedom food British chicken",
+    "marca": "Sainsbury's,by sainsbury's",
+    "ean": "0254012008107",
+    "ingredientes": [
+      "Whole corn-fed freedom food British chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/401/200/8107/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "corn fed whole chicken",
+    "marca": "By Sainsbury's",
+    "ean": "0254015007473",
+    "ingredientes": [
+      "Fresh class A corn fed whole chicken without giblets"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/401/500/7473/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Batard campagne tranche",
+    "marca": "Carrefour",
+    "ean": "0254084012002",
+    "ingredientes": [
+      "CAMPAGNE TRANCHE Farine de blé-eau-farine de seigle-sel-levain de seigle désactivé-malt d'orge-sucre-levure-gluten de ble-farine de blé malte-agent de traitement de la farine E300-emulsififants E471",
+      "E472",
+      "E491. Traces euentuelles d'œuf",
+      "lait",
+      "soja",
+      "sesame",
+      "mollusque et poissons. Poids net'. 260g. Prix au kg: 7.04"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "CAMPAGNE TRANCHE Farine de blé-eau-farine de seigle-sel-levain de seigle désactivé-malt d'orge-sucre-levure-gluten de ble-farine de blé malte-agent de traitement de la farine E300-emulsififants E471",
+        "razon": "Contiene CAMPAGNE TRANCHE Farine de blé-eau-farine de seigle-sel-levain de seigle désactivé-malt d'orge-sucre-levure-gluten de ble-farine de blé malte-agent de traitement de la farine E300-emulsififants E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472",
+        "razon": "Contiene E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/408/401/2002/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "croissant et pain au chocolat",
+    "marca": "carrefour",
+    "ean": "0254089019617",
+    "ingredientes": [
+      "tournesol",
+      "tournesol totalement hydrogene)",
+      "sucre",
+      "pate de cacao",
+      "levure",
+      "sel",
+      "GLUTEN DE BLE",
+      "emulsifiant (E471",
+      "E472e",
+      "lecithines de SOJA",
+      "beurre de cacao",
+      "enzymes",
+      "agent de traitement de la farine (acide ascorbique). Produit dans una usine qui utilise lait",
+      "oeufs et fruits a coque. farine de BLE",
+      "matieres grasses vegetales 24% (huiles et graisses vegetales (palme",
+      "tournesol",
+      "tournesol hydroganee) eau",
+      "sel",
+      "amulsifiant (E471). antioxydant (E307)",
+      "acidifiant: E330)",
+      "eau",
+      "sucre",
+      "lavure",
+      "GLUTEN de BLE",
+      "sel. farine de BLE malte",
+      "levure desactive",
+      "agent de traitemant de la farine (E300). anzymes (xylanases",
+      "alpha-amylase",
+      "cellulase",
+      "transglutaminase). Peut contenir des traces de fruits a coque",
+      "oeuf-",
+      "lait-.Poids net :0.400kg. Prix au kg : 8"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulsifiant (E471",
+        "razon": "Contiene emulsifiant (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "amulsifiant (E471). antioxydant (E307)",
+        "razon": "Contiene amulsifiant (E471). antioxydant (E307), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/408/901/9617/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "Martinique"
+  },
+  {
+    "nombre": "Moutarde",
+    "marca": "Amora",
+    "ean": "0254111851109",
+    "ingredientes": [
+      "Eau",
+      "graines de MOUTARDE",
+      "vinaigre d'alcool",
+      "huile de tournesol",
+      "sel",
+      "farine de MOUTARDE",
+      "stabilisant: gomme xanthane",
+      "acidifiant: acide citrique",
+      "conservateur: E224 (SULFITES)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/411/185/1109/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hummus",
+    "marca": "Athenos",
+    "ean": "02541232",
+    "ingredientes": [
+      "Chick peas",
+      "water",
+      "tahini (sesame seeds)",
+      "high oleic sunflower oil",
+      "salt",
+      "dried garlic",
+      "citric acid",
+      "contains less than 0.5% of spice",
+      "sorbic acid as a preservative",
+      "guar gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/254/1232/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hummus Spicy Three Pepper",
+    "marca": "Athenos",
+    "ean": "02541339",
+    "ingredientes": [
+      "Water",
+      "red and green bell peppers",
+      "high (sesame seeds)",
+      "jalapeno peppers",
+      "of dried garlic",
+      "citric acid",
+      "spice",
+      "guar gum",
+      "paprika (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/254/1339/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wheat, spelt &rhye bread sliced",
+    "marca": "Morrisons Baked by Us",
+    "ean": "0254148001904",
+    "ingredientes": [
+      "Fortified wheat flour ( wheat flour",
+      "calcium carbonate",
+      "iron",
+      "niacin",
+      "Thiamin)",
+      "Wholewheat flour",
+      "Oat flakes",
+      "Spelt flour (wheat)",
+      "Maize",
+      "Oat bran",
+      "Soya grits",
+      "Linseed",
+      "Yeast",
+      "Malted barley flour",
+      "Rye flour",
+      "Salt",
+      "Wheat gluten",
+      "Bulking Agent (Calcium sulphate)",
+      "Soya flour",
+      "Emulsifier (Mono - and diacetyltartaric acid esters of mono - and diglycerides of fatty acids)",
+      "Dextrose",
+      "Wheat flour",
+      "Palm oil",
+      "Caramelised sugar powder",
+      "Maltodextrin",
+      "Rapeseed oil",
+      "Flour Treatment Agent (Ascorbic acid)",
+      "Water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/414/800/1904/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Hummus Roasted Garlic",
+    "marca": "Athenos",
+    "ean": "02541630",
+    "ingredientes": [
+      "Chick peas",
+      "water",
+      "tahini (sesame seeds)",
+      "high oleic sunflower oil",
+      "dried garlic",
+      "salt",
+      "citric acid",
+      "spices",
+      "sorbic acid",
+      "guar gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/254/1630/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Greek Style Hummus",
+    "marca": "Athenos",
+    "ean": "02542231",
+    "ingredientes": [
+      "Chick peas",
+      "water",
+      "tahini(sesame seeds)",
+      "high oleic sunflower oil",
+      "vinegar",
+      "salt",
+      "contains less than 0.5% of dried",
+      "garlic",
+      "citric acid",
+      "spice",
+      "dried oregand",
+      "sorbic acid as a preservative",
+      "guar gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Athenos Artichoke Garlic Hummus",
+    "marca": "Athenos",
+    "ean": "02542338",
+    "ingredientes": [
+      "Chick peas",
+      "water",
+      "artichokes",
+      "high oleic sunflower oil",
+      "tahini (sesame seeds)",
+      "dried garlic",
+      "salt",
+      "citric acid",
+      "sorbic acid",
+      "dried parsley",
+      "guar gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/254/2338/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Regular FIT 32",
+    "marca": "Royal canin",
+    "ean": "02542874",
+    "ingredientes": [
+      "protéines de volaille déshydratées",
+      "riz",
+      "blé",
+      "maïs",
+      "graisses animales",
+      "protéines de porc déshydratées",
+      "fibres végétales",
+      "farine de blé",
+      "hydrolysat de protéines animales",
+      "gluten de maïs",
+      "levures et composants de levure",
+      "pulpe de betterave",
+      "huile de soja",
+      "huile de poisson",
+      "sels minéraux",
+      "légumes et graines de psyllium",
+      "hydrolysat de levure",
+      "extrait de rose d'Inde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/254/2874/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cheese",
+    "marca": "Parrano",
+    "ean": "0254293208746",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "cheese cultures",
+      "vegetarian rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain aux Céréales",
+    "marca": "Carrefour",
+    "ean": "0254296016997",
+    "ingredientes": [
+      "Farine de BLE T55",
+      "gluten de BLE",
+      "farine de Ble malte. graines de Lin brun et jaune",
+      "SESAME",
+      "tournesol",
+      "graines de millet et pavot bleu. Levain de SEIGLE devitalise deshydrate",
+      "farine d'ORGE maltee toastee",
+      "remoulage de BLE",
+      "agent de traitement de la farine: acide ascorbique",
+      "enzymes: xylanase BLE",
+      "transglutaminase BLE",
+      "amylase BLE",
+      "eau",
+      "cel",
+      "Levure (saccharomyces cerevisiae",
+      "emulsifiant E491)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/429/601/6997/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Martinique"
+  },
+  {
+    "nombre": "Barres céréales chocolat noir et cacahuètes",
+    "marca": "Netto",
+    "ean": "0254300473464",
+    "ingredientes": [
+      "AVOINE",
+      "BLE & RIZ CHOCOLAT NOIR ET CACAHUETES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/430/047/3464/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Wise organic pastures, whole chicken",
+    "marca": "Wise,  Wise Organic Pastures",
+    "ean": "0254345000007",
+    "ingredientes": [
+      "Roasting chicken",
+      "parts of giblets may be missing"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "poulet fermier du Périgord RDF",
+    "marca": "Reflets de France",
+    "ean": "0254381061208",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/438/106/1208/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "l’inestimable huile de noix",
+    "marca": "producteurs & commerçants",
+    "ean": "0254492257217",
+    "ingredientes": [
+      "Huile de Noix"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/449/225/7217/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Les Oorolles",
+    "marca": "Fiorini",
+    "ean": "0254493111891",
+    "ingredientes": [
+      "Semoule de blé dur de qualité supérieure. Traces éventuelles d'œufs",
+      "de soja et de moutarde. INFORMATIONS:"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/449/311/1891/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Haricots rouges",
+    "marca": "AUCHAN",
+    "ean": "0254560020962",
+    "ingredientes": [
+      "Haricots rouges secs trempés",
+      "eau",
+      "sucre",
+      "sel",
+      "affermissant : chlorure de calcium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/456/002/0962/front_fr.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "San Francisco Sourdough Half Loaf",
+    "marca": "Whole Foods Market",
+    "ean": "0254571000000",
+    "ingredientes": [
+      "wheat flour",
+      "malted barley flour",
+      "niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "water",
+      "sour mother",
+      "sourdough starter",
+      "wheat flour",
+      "whole grain malted barley flour",
+      "salt",
+      "whole wheat flour",
+      "wheat bran",
+      "malted barley flour",
+      "dextrose"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/457/100/0000/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground Beef 93% Lean 7% Fat",
+    "marca": "Sam’s Club",
+    "ean": "0254703416945",
+    "ingredientes": [
+      "beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/470/341/6945/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cilantro Lime Seasoned Chicken",
+    "marca": "Aldi",
+    "ean": "0254714005695",
+    "ingredientes": [
+      "SEASONED",
+      "UNCOOKED",
+      "BONELESS",
+      "SKINLESS",
+      "CILANTRO LIME CHICKEN BREASTS",
+      "CONTAINS UP TO 21% SOLUTION OF WATER",
+      "OLIVE OIL",
+      "SUGAR",
+      "CONTAINS 2% OR LESS OF SALT",
+      "LIME FLAVOR (CORN SYRUP",
+      "LIME JUICE WITH LIME OIL)",
+      "CILANTRO",
+      "LEMON FLAVOR (CORN SYRUP",
+      "LEMON JUICE WITH LESS THAN 2% LEMON OIL)",
+      "CARRAGEENAN (CARRAGEENAN",
+      "XANTHAN GUM)",
+      "SPICES",
+      "SODIUM PHOSPHATE",
+      "GRANULATED ONION",
+      "GRANULATED GARLIC",
+      "SODIUM ACETATE",
+      "SODIUM DIACETATE",
+      "PAPRIKA. COATED WITH PAPRIKA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/471/400/5695/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

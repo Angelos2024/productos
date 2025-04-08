@@ -1,0 +1,584 @@
+[
+  {
+    "nombre": "2 filets de poulet blanc",
+    "marca": "Netto",
+    "ean": "0209363013126",
+    "ingredientes": [
+      "Filets de poulet blanc",
+      "classe A."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/936/301/3126/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet P.A.C Blanc",
+    "marca": "Netto",
+    "ean": "0209367028348",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/936/702/8348/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rondele",
+    "marca": "President",
+    "ean": "0209374009880",
+    "ingredientes": [
+      "fromage au lait de vache pasteurisé (origine France)",
+      "protéines de lait",
+      "morceaux de noix de Dordogne (3%)",
+      "sel",
+      "arôme naturel de noix. Présence de fruits à coques. Conditionné sous atmosphère protectrice. À conserver entre +20C et +60C. À consommer de préférence avant la date indiquée sur le côté et sur le pc À consommer dans les 5 jours après ouverture. LF - Bd Arago ZI des Touches 53810 CHANGE - FRANCE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/937/400/9880/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chocos fourrés chocolat",
+    "marca": "BN",
+    "ean": "02093857",
+    "ingredientes": [
+      "Céréales farine de froment (33%)",
+      "céréales complètes (15",
+      "farine complète de seigle",
+      "farine complète d'orge)]- SUcre - matières grasses végétales (palme",
+      "palmiste",
+      "colza) - cacao maigre (4"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/209/3857/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fourme d'Ambert",
+    "marca": "sans marque",
+    "ean": "0209386017255",
+    "ingredientes": [
+      "lait de vache pasteurisé",
+      "sel",
+      "ferments lactiques",
+      "chlorure de calcium",
+      "présure",
+      "pénicillium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/938/601/7255/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet roti",
+    "marca": "Carrefour",
+    "ean": "0209400052156",
+    "ingredientes": [
+      "Sélectionné par nos Charcutiers! POULET ROTISSOIRE CERTIFIE ngrédients: poulet râti issu de poulet certifié. Assaisonnement: sel",
+      "épices (poiure blanc",
+      "piment daux poivre noir",
+      "curcuma",
+      "macis",
+      "muscade",
+      "gingembre",
+      "cardamane",
+      "piment fort) at aromates (origan",
+      "sarriett fanugrac)",
+      "dextrose. PRIX A PAYER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/940/005/2156/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain complet",
+    "marca": "Leclerc",
+    "ean": "0209420009123",
+    "ingredientes": [
+      "Leclerc PRIN COMPLET fabriqué dans nos ateliers Eau du robinet",
+      "Farine tradition Labet rou e",
+      "farine complete (Farina da blé complète",
+      "eau",
+      "Levure",
+      "GLUTEN de blé",
+      "se?",
+      "farine de blé malté",
+      "agent de traitement de La farine : acide ascorbique)",
+      "Levure panification"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/942/000/9123/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fresh St. Market Chicken Breast Kabob",
+    "marca": "Fresh St. Market",
+    "ean": "0209438510987",
+    "ingredientes": [
+      "Chicken breast",
+      "Water",
+      "Seasoning (dehydrated garlic",
+      "lemon juice solids",
+      "salt",
+      "dehydrated onion",
+      "sodium phosphate",
+      "sugar",
+      "spice extract",
+      "spices",
+      "flavour)",
+      "Modified vinegar",
+      "Dehydrated parsley",
+      "Natural flavour",
+      "Citrus extract. May contain: Milk",
+      "Eggs",
+      "Soy",
+      "Mustard",
+      "Sulphites."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/943/851/0987/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Carottes rapées",
+    "marca": "E. Leclerc",
+    "ean": "0209467022895",
+    "ingredientes": [
+      "Carotte (81%)",
+      "vinaigrette (huile de colza",
+      "vinaigre d'alcool coloré 6%",
+      "vinaigre d'alcool",
+      "colorant : E150c)",
+      "moutarde de Dijon (eau",
+      "graines de MOUTARDE",
+      "vinaigre d'alcool",
+      "sel",
+      "vin blanc (SULFITES)",
+      "sucre",
+      "épices",
+      "acidifiant : E330",
+      "conservateur : E224))",
+      "jus de citron (eau",
+      "jus à bas de concentré (citron",
+      "orange)",
+      "Pulpes de citron",
+      "acidifiant : E330",
+      "extrait naturel de citron)",
+      "poivre noir",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/946/702/2895/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "chouquettes",
+    "marca": "Leclerc",
+    "ean": "0209475013786",
+    "ingredientes": [
+      "Oeufs",
+      "Lait et produits laitiers ( y compris le lactose)",
+      "Gluten"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/947/501/3786/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Demi Tradition Graine",
+    "marca": "E-Leclerc",
+    "ean": "0209478003944",
+    "ingredientes": [
+      "Petrin de tradition (farine de blé",
+      "GLUTEN de blé",
+      "farine de BLE malté",
+      "dosage exprimé en maxi",
+      "enzymes alpha amylases",
+      "eau",
+      "sel",
+      "ANTIAGGLOMERANT: équivalent K4Fe",
+      "CN",
+      "levure)",
+      "melange de cereales (graines de millet decortique graines de tournesol decortique",
+      "graines de lin brun",
+      "graine de lin jaune",
+      "graines de sarrasin decortique",
+      "flocons avolne",
+      "flocons d orge",
+      "peut contenir de traces de soja",
+      "sesame)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain de mais",
+    "marca": "Leclerc",
+    "ean": "0209478009717",
+    "ingredientes": [
+      "eau",
+      "FARINE da mais 31% (FARINE at tlocons da mais",
+      "FARINE DE BLÉ",
+      "FEVES DE SOJA» graina de tournesol",
+      "dextrose",
+      "GLUTEN DE BLE",
+      "levain de BLE",
+      "arome",
+      "colorant: E 160R",
+      "EMULSIFIANT: E472E",
+      "antioxydant:aclde ascorbique E300",
+      "enzyma (BLE) amylase",
+      "enzyma (BLE) : xylanasa)",
+      "FARINE tradition (FARINE DE BLE malté",
+      "GLUTEN DE BLE",
+      "anzyma amylacas d'aspergilluc)",
+      "lavure contient : GLUTEN",
+      "SOJA"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "EMULSIFIANT: E472E",
+        "razon": "Contiene EMULSIFIANT: E472E, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "anzyma amylacas d'aspergilluc)",
+        "razon": "Contiene anzyma amylacas d'aspergilluc), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/947/800/9717/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crevettes cuites",
+    "marca": "U",
+    "ean": "0209492032609",
+    "ingredientes": [
+      "PENAEUS SPP SULFITES crevettes",
+      "sel",
+      "sucre",
+      "métabisulfite de sodium E234"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/949/203/2609/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pate à pizza",
+    "marca": "Leclerc",
+    "ean": "0209496006569",
+    "ingredientes": [
+      "Farine",
+      "eau",
+      "levure",
+      "huile d'olive",
+      "sel fin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/949/600/6569/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le petit basque",
+    "marca": "Istara",
+    "ean": "0209500086396",
+    "ingredientes": [
+      "P' TIT BASQUE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/950/008/6396/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental de Savoie",
+    "marca": "Leclerc",
+    "ean": "0209506031093",
+    "ingredientes": [
+      "Lait de vache",
+      "sel",
+      "ferments",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/950/603/1093/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pizza camembert",
+    "marca": "Lazzaro",
+    "ean": "0209507039036",
+    "ingredientes": [
+      "Base tomatée 53%  (Pâte (79%) Farine de BLÉ tendre",
+      "eau",
+      "sauce tomate (21%)",
+      "huile d'olive extra vierge",
+      "farine de BLÉ malté",
+      "sel",
+      "levure",
+      "origan. Garnitures (56%) (Mozzarella (40.5%) : LAIT de vache pasteurisé",
+      "sel",
+      "ferments lactiques",
+      "présure",
+      "acide critique E330",
+      "chlorure de calcium E509",
+      "fécule de pomme de terre. Champignons (21.6%)",
+      "Poulet (18.9%) : aiguillette de poulet (96%)",
+      "dextrose",
+      "sel",
+      "arôme naturel",
+      "stabilisant (E451i). Camembert (18"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/950/703/9036/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "Volaé",
+    "ean": "0209508085933",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/950/808/5933/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "purée pomme pruneaux sans sucre ajouté",
+    "marca": "baccara",
+    "ean": "02095110",
+    "ingredientes": [
+      "purée de pommes 70% purée de pruneaux 30% anti-oxydant : acide ascorbique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/209/5110/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "comté 6-8mois",
+    "marca": "leclerc",
+    "ean": "0209531024534",
+    "ingredientes": [
+      "miaqe f pâte pressée cuite au cru de vache rigxne France) fabriqué par 39800 POLIeuy. A conserver entre O et 40 C ate d'emballage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/102/4534/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Biscuits tablette chocolat noir",
+    "marca": "Sondey",
+    "ean": "0209531673275",
+    "ingredientes": [
+      "Belgique) (sucre de cannel",
+      "pâte de cacao¹2",
+      "beurre de cacao¹2",
+      "lait entier en poudre¹",
+      "arôme naturel de vanille¹)",
+      "sucre de canne roux'",
+      "huile de tournesol'",
+      "lait écrémé en poudre¹",
+      "poudres à lever: carbonates d'ammonium",
+      "carbonates de potassium",
+      "sel",
+      "jus de citron en poudre¹."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/167/3275/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Comté 18 mois AOP Vieu Izenav",
+    "marca": "Leclerc, traditions terroirs",
+    "ean": "0209532050648",
+    "ingredientes": [
+      "Lait cru vache (France)",
+      "sel",
+      "ferments lactiques",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/205/0648/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Galette pomme 4/6 personnes",
+    "marca": "E.Leclerc",
+    "ean": "0209535025919",
+    "ingredientes": [
+      "GBLETTE POMMES (Pommes 42",
+      "acide ascorbique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/502/5919/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon superieur",
+    "marca": "Le Torchonay",
+    "ean": "0209538008599",
+    "ingredientes": [
+      "LE TORCHONAY SUPERIEtJR 2 TRANCHES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/800/8599/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le torchonay",
+    "marca": "Intermarche",
+    "ean": "0209538008667",
+    "ingredientes": [
+      "LE TORCHONnY JAMBON SUPERIEUR CUIT AU TORCHON 2 TRÉINCIIES I%GREDiEtITS Jambon de porc dextrose",
+      "bouillon (os de porcootreau. t*rotte aromes naturels)",
+      "conservateurs ascort)ate de sodium n frite sotjgurn moyennes. pour 100"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "LE TORCHONnY JAMBON SUPERIEUR CUIT AU TORCHON 2 TRÉINCIIES I%GREDiEtITS Jambon de porc dextrose",
+        "razon": "Contiene LE TORCHONnY JAMBON SUPERIEUR CUIT AU TORCHON 2 TRÉINCIIES I%GREDiEtITS Jambon de porc dextrose, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/800/8667/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le torchonay",
+    "marca": "INTERMARCHE",
+    "ean": "0209538010363",
+    "ingredientes": [
+      "Jambon de porc*",
+      "sel",
+      "dextrose",
+      "bouillon (os de porc",
+      "poireau",
+      "carotte",
+      "aromes naturels)",
+      "conservateurs.ascorbaté de sodium nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc*",
+        "razon": "Contiene Jambon de porc*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/801/0363/front_fr.17.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le torchonay",
+    "marca": "Sélection Intermarché",
+    "ean": "0209538011612",
+    "ingredientes": [
+      "Jambon de pote",
+      "sel",
+      "dextrose",
+      "bouillon (os de porc",
+      "poireau",
+      "carotte aromes naturels)",
+      "conservateur.-ascorbate de sodium nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de pote",
+        "razon": "Contiene Jambon de pote, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/801/1612/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coeur de couenne",
+    "marca": "Intermarché",
+    "ean": "0209539009588",
+    "ingredientes": [
+      "COEUR DE COUENNE 2 TRnNCHES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/900/9588/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coeur de couenne 2 tranches",
+    "marca": "Intermarché",
+    "ean": "0209539010959",
+    "ingredientes": [
+      "Jambon de porc?. qras et couenne de (os de porcpoireau",
+      "carottetarômes naturels ) conservateurs:ascorbate de sodium nitrite de sodium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc?. qras et couenne de (os de porcpoireau",
+        "razon": "Contiene Jambon de porc?. qras et couenne de (os de porcpoireau, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/901/0959/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coeur de couenne",
+    "marca": "Le Porc Francais",
+    "ean": "0209539011352",
+    "ingredientes": [
+      "Jambon de porc*",
+      "aras et couenne de os de naturels ) conservateurs.ascobate de sodium) nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc*",
+        "razon": "Contiene Jambon de porc*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/901/1352/front_fr.15.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coeur de couenne",
+    "marca": "Intermarche",
+    "ean": "0209539011413",
+    "ingredientes": [
+      "Jambon de porc*",
+      "aras et couenne de (os de naturels ) conservateurs:ascorbate de sodium",
+      "nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc*",
+        "razon": "Contiene Jambon de porc*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/953/901/1413/front_fr.12.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  }
+]

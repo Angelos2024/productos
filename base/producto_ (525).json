@@ -1,0 +1,793 @@
+[
+  {
+    "nombre": "Aiguillettes de poulet thym citron",
+    "marca": "Casino",
+    "ean": "0204130036216",
+    "ingredientes": [
+      "Aiguillettes de poulet origine FRANCE 33%",
+      "eau",
+      "huiles végétales (tournesol et karité en proportions variables)",
+      "sel",
+      "maltodextrine de blé",
+      "dextrose",
+      "arômes naturels",
+      "citron 0.22% (poudre de jus de citron et zestes de citron)",
+      "plantes aromatiques (dont thym 0",
+      "amidon modifié de manioc",
+      "vinaigre",
+      "épices",
+      "extraits naturels. Trace de BLE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/413/003/6216/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte framboise 6 parts",
+    "marca": "E-leclerc",
+    "ean": "0204136055105",
+    "ingredientes": [
+      "Framboises 40%1 farine de blé (GLUTEN)) sucre",
+      "eau",
+      "OEUFS entiers",
+      "beurre concentré (LAIT)",
+      "huiles et graisses végétales raffinées (palme",
+      "colza)",
+      "sirop de glucose-fructosq gélifiant E440",
+      "sel) correcteurs d'acidité (E330",
+      "E340)",
+      "émulsifiants (E322 (SOJA) E471)j arômes",
+      "Peut contenir : fruits à coques"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants (E322 (SOJA) E471)j arômes",
+        "razon": "Contiene émulsifiants (E322 (SOJA) E471)j arômes, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/413/605/5105/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cote de porc",
+    "marca": "U",
+    "ean": "0204145018894",
+    "ingredientes": [
+      "S7 LEMUD LEI 0+02-18 û/kg*"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pate croute richelieu canard",
+    "marca": "Leclerc",
+    "ean": "0204146023750",
+    "ingredientes": [
+      "Gorge et épaule de porc",
+      "eau",
+      "gelée",
+      "sel",
+      "dextrose",
+      "épaississant e407",
+      "colorant e150a",
+      "acidifiant e330",
+      "médaillon de mousse de foie de volaille ( gras de porc",
+      "foie de volaille 24% lait frais",
+      "couenne de porc",
+      "stabilisant e450 e452 e250 antioxydant e300 colorant e120) œuf entier",
+      "viande de dinde",
+      "alcool",
+      "dextrose",
+      "stabilisant e451",
+      "protéine de soja",
+      "fécule de pomme de terre",
+      "épaississant e412 e415",
+      "arôme lactose épices aromates antioxydants e301 beurre colorant e160a e101 conservateur e282 possibles traces de pistache noisette amande poisson moutarde céleri"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "stabilisant e450 e452 e250 antioxydant e300 colorant e120) œuf entier",
+        "razon": "Contiene stabilisant e450 e452 e250 antioxydant e300 colorant e120) œuf entier, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/414/602/3750/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brownies",
+    "marca": "Leclerc",
+    "ean": "0204148022836",
+    "ingredientes": [
+      ")rownies (1 00% : BEURRE (1 : BEURRE)",
+      "sucre semoule (1 9%)",
+      "farine BLE r65 (16%",
+      "corde d or farine de BLE",
+      "malt de BLE",
+      "amylases et lémicellulases fongiques",
+      "antioxydant : acide ascorbique.)",
+      "OEUF entier )asteurise (15%)",
+      "chocolat labo",
+      "noix de pecan 5%",
+      "palet (15% . Sucre",
+      "pâte le cacao",
+      "beurre de cacao",
+      "émulsifiant",
+      "lécithine de SOJA",
+      "arôme vanille.) chocolat 27% cerneaux NOIX haches (8%)",
+      "drops altea (8% . sucre",
+      "pâte de de cacao",
+      "emulsifiant: lécithine de SOJA",
+      "Arôme vanille. 43% minimum&quot",
+      ")) LOT:2016329060312 LOT DOI 803605494"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/414/802/2836/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "beignets aux pommes x 4 decongeles",
+    "marca": "e leclerc",
+    "ean": "0204154016409",
+    "ingredientes": [
+      "farine de blé",
+      "sucre",
+      "oeufs",
+      "purée de pommes 11%",
+      "eau",
+      "huiles végétales (turnesol",
+      "colza) levure",
+      "jaunes d oeufs",
+      "sel",
+      "gluten de blé",
+      "emulsifiants : E471",
+      "E472",
+      "jus concentrè citron",
+      "jus concentré de pommes 0.3% ( équivalent jus de fruits 2%)",
+      "arôme naturel de pomme",
+      "conservateur : sorbate de potassium"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulsifiants : E471",
+        "razon": "Contiene emulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472",
+        "razon": "Contiene E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brioche de Nanterre",
+    "marca": "Leclerc",
+    "ean": "0204164016338",
+    "ingredientes": [
+      "BRIOCHE NANTERRE Ingrédients EAU: BRIOCHE AKIANE CFari ne de BLE POUDRE AU BEURRE (BEURRE. protéines de LAIT",
+      "pernéat de LACTOSERUM. émulsifiant: E471. sel. sucre. farine de chicorée",
+      "dextrose. fibre de BLE",
+      "farine de nal té. colorant (bêta carotène). arônes. enzymes pha-anylases. hénicel lulases. xyl anases",
+      "cellulases) agent de traitement de la farine (acide ascorbique)l",
+      "DEUFS LIQUIDES (DEUFS ENTIERS): LEUURE BLE al"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pernéat de LACTOSERUM. émulsifiant: E471. sel. sucre. farine de chicorée",
+        "razon": "Contiene pernéat de LACTOSERUM. émulsifiant: E471. sel. sucre. farine de chicorée, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/416/401/6338/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Wild Caught Alaskan Sockeye Salmon",
+    "marca": "Aldi",
+    "ean": "0204166611043",
+    "ingredientes": [
+      "wild sockeye salmon (oncorhynchus nerka)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/416/661/1043/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Languon de porc",
+    "marca": "Boucheries André",
+    "ean": "0204167017127",
+    "ingredientes": [
+      "langue de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/416/701/7127/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Belgioioso, vegetarian parmesan cheese",
+    "marca": "Belgioioso",
+    "ean": "0204169706838",
+    "ingredientes": [
+      "Raw cultured milk",
+      "enzymes",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Belgioioso, vegetarian parmesan cheese",
+    "marca": "Belgioioso",
+    "ean": "0204169908270",
+    "ingredientes": [
+      "Raw cultured milk",
+      "enzymes",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crêpes Nutella X4",
+    "marca": "Intermarché",
+    "ean": "0204171019612",
+    "ingredientes": [
+      "CREPE NUTELLA X4 : Lait entier stérilisé UHT: LAIT.Sucre.Beurre pasteurisé: LAIT.Sel.OEUFS.Farine de blé (Farine de BLE. Gluten de BLE. Farine de BLE malté levure désactivée",
+      "agent de traitement de la farine (E300",
+      "enzyme)).Nutella: Sucre",
+      "huile de palme. NOISETTES 13%. LAIT écrémé en poudre 8.7% cacao maigre 7.4% émulsifiants: lecithines (SOJA) . vanillin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/417/101/9612/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cœur de porc",
+    "marca": "Boucheries André",
+    "ean": "0204177015816",
+    "ingredientes": [
+      "Cœur"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/417/701/5816/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bottereaux",
+    "marca": "Leclerc",
+    "ean": "0204177016073",
+    "ingredientes": [
+      "bottereaux (Farine de BLE",
+      "LAIT demi-écrémé",
+      "sucre",
+      "BEURRE",
+      "OEUFS",
+      "eau",
+      "ri  (gelifiant : E466)",
+      "Levure",
+      "arôme vanille",
+      "sel",
+      "améliorant (GLUTEN de BLE",
+      "BLE",
+      "malt de BLE",
+      "antioxydant : E300)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/417/701/6073/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "JAMBON AC LABEL RGE LEFOUE",
+    "marca": "Le Foué",
+    "ean": "0204193040342",
+    "ingredientes": [
+      "Jambon de porc 83%",
+      "eau",
+      "sel",
+      "sirop de glucose",
+      "stabilisants: E451 450",
+      "conservateur : E250",
+      "antioxydant E313",
+      "dextrose",
+      "arômes. Viande origine France. A CONSERVER ENTRE O ET 4°"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc 83%",
+        "razon": "Contiene Jambon de porc 83%, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/419/304/0342/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brochettes de porc",
+    "marca": "Boucheries André",
+    "ean": "0204202042701",
+    "ingredientes": [
+      "viande de porc 86 %",
+      "poivrons",
+      "barde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/420/204/2701/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roti de veau vénitien",
+    "marca": "Boucheries André",
+    "ean": "0204221123252",
+    "ingredientes": [
+      "viande de veau (58%)",
+      "farce (viande et gras de porc et de veau)",
+      "sel",
+      "échalotes",
+      "vin blanc (_sulfites_)",
+      "épices)",
+      "mozzarella (lait de vache",
+      "présure",
+      "sel",
+      "acide citrique) tomates confites (tomates séchées)huile de tournesol",
+      "vinaigre de vin",
+      "sel",
+      "câpres)",
+      "barde de porc",
+      "jambon cru (_blé_",
+      "_lactose_",
+      "_soja_",
+      "_fruit à coques_",
+      "_céleri_)",
+      "jambon de porc",
+      "sel",
+      "sucre",
+      "nitrite de sodium",
+      "salpêtre",
+      "ascorbate de sodium)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon cru (_blé_",
+        "razon": "Contiene jambon cru (_blé_, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "jambon de porc",
+        "razon": "Contiene jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/422/112/3252/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Kouign Amann",
+    "marca": "Leclerc",
+    "ean": "0204222055767",
+    "ingredientes": [
+      "Farine de BLÉ (GLUTEN)",
+      "sucre",
+      "sel",
+      "beurre (LAIT)",
+      "levure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/422/205/5767/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Heineken 0.0%",
+    "marca": "Heineken",
+    "ean": "02042314",
+    "ingredientes": [
+      "eau",
+      "malt d'orge",
+      "arôme naturel",
+      "extraits de houblon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/204/2314/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Roti de veau farci aux olives",
+    "marca": "Boucheries André",
+    "ean": "0204232077476",
+    "ingredientes": [
+      "viande de veau (73%). Farce: viande et gras de porc et de veau",
+      "olives (8%)",
+      "vin (sulfites). épices sel. rhum",
+      "sucre. dextrose",
+      "substances aromatisantes naturelles.E330",
+      "E316. E120. Crépine de porc"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E316. E120. Crépine de porc",
+        "razon": "Contiene E316. E120. Crépine de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/423/207/7476/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le CHEVROT",
+    "marca": "sevre et belle",
+    "ean": "0204252031687",
+    "ingredientes": [
+      "Fromage au lait cru de chevre ingredients sel ferments lactiques presure 24% MG Issu d animaux nourris sans OGM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/425/203/1687/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poitrine de bœuf",
+    "marca": "Boucheries André",
+    "ean": "0204268035228",
+    "ingredientes": [
+      "poitrine de porc (90%)",
+      "matière grasse végétale totalement hydrogénée (colza)",
+      "huile végétale (colza)",
+      "sel",
+      "épices",
+      "extrait d'épices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/426/803/5228/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Premium Pickles",
+    "marca": "Nalley",
+    "ean": "02042747",
+    "ingredientes": [
+      "Fresh cucumbers",
+      "water",
+      "vinegar",
+      "salt",
+      "fresh garlic",
+      "fresh onions",
+      "dill",
+      "calcium chloride",
+      "natural and artificial flavors",
+      "polysorbate 80",
+      "yellow 5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Viande Bovine pour Fondue",
+    "marca": "Carrefour",
+    "ean": "0204279029988",
+    "ingredientes": [
+      "Viande bovine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/427/902/9988/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "boufor",
+    "marca": "carrefour",
+    "ean": "0204296022634",
+    "ingredientes": [
+      "Fromage à Pate Pressée cuite au LAIT cru de vacha Ingredients LiIT Ferments Lactiques(LAIT) présure .col Appellation d Drigina Pratágée Fromagerie Bade 25300 PontarLiar er usou'au PRI"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/429/602/2634/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "joli pré",
+    "marca": "primland",
+    "ean": "0204300001990",
+    "ingredientes": [
+      "PRIMLAND JOLI PRE ( 2 pieces) Init et creme de vaches pasteurises",
+      "sel",
+      "ferments Emballé le. 2022/01/24 Consommer avant: 2022/02/13 Quantité Prix/UNIT 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/430/000/1990/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Chickpeas in water",
+    "marca": "Freshona",
+    "ean": "0204304300983",
+    "ingredientes": [
+      "Chickpeas",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/430/430/0983/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Family classic pepperoni sticks",
+    "marca": "Hempler's",
+    "ean": "0204330404006",
+    "ingredientes": [
+      "Beef and pork",
+      "water",
+      "dextrose",
+      "salt",
+      "corn syrup solids",
+      "spices (including paprika)",
+      "natural smoke flavor",
+      "garlic powder",
+      "sodium phosphate",
+      "flavor (dextrose",
+      "salt",
+      "yeast extract)",
+      "sodium erythorbate",
+      "extractives of paprika",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "93% Lean Ground Beef 7% Fat",
+    "marca": "Giant",
+    "ean": "0204341708919",
+    "ingredientes": [
+      "Ground Beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/434/170/8919/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sea Salt Crackers",
+    "marca": "Rivercote",
+    "ean": "0204382226540",
+    "ingredientes": [
+      "Fortified Wheat Flour (Wheat Flour",
+      "Niacin",
+      "Iron",
+      "Thiamin",
+      "Riboflavin",
+      "Folic Acid)",
+      "Sunflower Oil",
+      "Palm Oil",
+      "Yeast (contains Wheat and Barley)",
+      "Sugar",
+      "White Rice Flour",
+      "Sugar Cane Syrup",
+      "Flavouring",
+      "Yeast (Yeast",
+      "Emulsifier: Sorbitan Monostearate)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/438/222/6540/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Belgian Choc Chip Waffle",
+    "marca": "Fresh & Easy",
+    "ean": "02044503",
+    "ingredientes": [
+      "UNBLEACHED WHEAT FLOUR",
+      "VEGETABLE FAT NON HYDROGENATED",
+      "WATER",
+      "SUGAR",
+      "CHOCOLATE CHIPS (SUGAR",
+      "CHOCOLATE LIQUOR",
+      "COCOA BUTTER",
+      "DEXTROSE",
+      "SOYA LECITHIN)",
+      "YEAST",
+      "EGGS",
+      "BUTTER",
+      "SOY FLOUR",
+      "SALT",
+      "VANILLA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pizza Reine",
+    "marca": "Leclerc",
+    "ean": "0204508041330",
+    "ingredientes": [
+      "Pate à pizza [Farine de BLE tendre type 00",
+      "eau",
+      "sel ( sel",
+      "antiagglomérant E535)",
+      "huile d'olive",
+      "levure]",
+      "MOZZARELLA [ MOZZARELLA râpée (LAIT de vache pasteurisée",
+      "antiagglomérant: fécule de pomme de terre",
+      "sel",
+      "ferments LACTIQUES",
+      "coagulant)]",
+      "jambon blanc (Viande Origine France) [Jambon de porc",
+      "sel",
+      "bouillon (eau",
+      "sel",
+      "gélatine de porc",
+      "arôme naturel",
+      "conservateur E250)",
+      "arômes naturels",
+      "dextrose",
+      "antioxydant E301",
+      "conservateur E250]",
+      "sauce tomate pizza [Purée de tomates",
+      "sel",
+      "épaississant E1422",
+      "huile de tournesol",
+      "sucre",
+      "plante aromatique (origan)]",
+      "champignons frais",
+      "olives noires [olive",
+      "eau",
+      "sel",
+      "stabilisateur de couleur E579",
+      "acidifiant E270]",
+      "origan. Sauce piquante [huile de colza extrait naturel de piment 0.3%]."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon blanc (Viande Origine France) [Jambon de porc",
+        "razon": "Contiene jambon blanc (Viande Origine France) [Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/450/804/1330/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le Gruyère AOC",
+    "marca": "Emmi",
+    "ean": "0204516911304",
+    "ingredientes": [
+      "Cultured milk",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/451/691/1304/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pavé aux céréales",
+    "marca": "Leclerc",
+    "ean": "0204524005903",
+    "ingredientes": [
+      "farine da BLE",
+      "eau",
+      "céréales: grainas da tournesol",
+      "SESAME",
+      "lin brun",
+      "lin jaune",
+      "millet",
+      "pavot",
+      "levure",
+      "émulsifiant: E471",
+      "agent da traitamant da la farina: acida ascorbique",
+      "sel. 100"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant: E471",
+        "razon": "Contiene émulsifiant: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/452/400/5903/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roti de veau à la provencale",
+    "marca": "Boucheries André",
+    "ean": "0204526074846",
+    "ingredientes": [
+      "viande de veau",
+      "farce",
+      "viande et gras de porc et de veau",
+      "sel",
+      "échalotes",
+      "vin blanc",
+      "sulfites",
+      "épices",
+      "olives vertes et noires",
+      "E330",
+      "poivrons",
+      "basilic",
+      "jambon de porc",
+      "eau",
+      "dextrose",
+      "blé",
+      "sirop de glucose déshydraté",
+      "sel",
+      "exhausteur de goût : E671",
+      "stabilisants : E450",
+      "E451",
+      "E579",
+      "phosphate",
+      "lactose",
+      "antioxydant : E316",
+      "arômes",
+      "conservateur : E250",
+      "crépine"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc",
+        "razon": "Contiene jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/452/607/4846/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roti de veau à l'indienne",
+    "marca": "Boucheries André",
+    "ean": "0204529074980",
+    "ingredientes": [
+      "Poilrine de peau. farce viande et gras de porc",
+      "viande et gras de veau",
+      "vin (sulfites). épices",
+      "sel",
+      "rhum. sucre",
+      "dextrose",
+      "substances aromatisantes naturelles. antioxygène",
+      "E316",
+      "colorant : E120. curry moutarde. cannelle",
+      "trace de _céleri_",
+      "_moutarde_",
+      "_sésame_",
+      "_gluten_",
+      "miel",
+      "raisin sec",
+      "barde"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colorant : E120. curry moutarde. cannelle",
+        "razon": "Contiene colorant : E120. curry moutarde. cannelle, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/452/907/4980/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  }
+]

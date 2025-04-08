@@ -1,0 +1,815 @@
+[
+  {
+    "nombre": "Poulet blanc fermier d'Auvergne",
+    "marca": "Volailles fermières d'Auvergne",
+    "ean": "0220008048419",
+    "ingredientes": [
+      "poulet fermier d'Auvergne"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/000/804/8419/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Starburst FaveReds",
+    "marca": "wrigles",
+    "ean": "02200101",
+    "ingredientes": [
+      "SUGAR",
+      "CORN SYRUP",
+      "HYDROGENATED PALM KERNEL OIL",
+      "LESS THAN 2% OF CITRIC ACID",
+      "TAPIO",
+      "MODIFIED CORN STARCH",
+      "NATURAL AND ARTIFICIAL FLAVORS",
+      "COLORS (RED 40 LAKE",
+      "TITANIUM DIOXIDE",
+      "BU",
+      "RED 40",
+      "BLUE 2 LAKE",
+      "BLUE 1",
+      "YELLOW 5 LAKE",
+      "YELLOW 5",
+      "YELLOW 6)",
+      "SODIUM CITRATE",
+      "CARNAUBA WAX."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/220/0101/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Boudin à l'ancienne aux oignons",
+    "marca": "Saint Alby",
+    "ean": "0220010141467",
+    "ingredientes": [
+      "Sang de porc (Origine : France)",
+      "gras de porc (Origine : France)",
+      "couenne de porc (Origine : France)",
+      "sel",
+      "sucre",
+      "épices",
+      "plantes aromatiques",
+      "boyau naturel de porc. Traces éventuelles de céréales contenant du gluten",
+      "de lait",
+      "d'œufs",
+      "de moutarde",
+      "de fruits à coque et de mollusques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/001/014/1467/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Bulgaria"
+  },
+  {
+    "nombre": "hot cross buns",
+    "marca": "Morrison",
+    "ean": "0220016000850",
+    "ingredientes": [
+      "Fortified wheat flour ( wheat flour",
+      "calcium carbonate",
+      "iron",
+      "niacin",
+      "thiamin)",
+      "Sultana",
+      "Water",
+      "Raisins",
+      "Yeast",
+      "Sugar",
+      "Mixed peel (Orange peel",
+      "Glucose-fructose syrup",
+      "Sucrose",
+      "Lemon peel",
+      "Acidity Regulator (Citric acid)",
+      "Preservative ( Sulphur dioxide))",
+      "Icing sugar",
+      "Rapeseed oil",
+      "Wheat gluten",
+      "Emulsifiers (Mono - and diglycerides of fatty acids",
+      "Mono - and diacetyltartaric acid esters of mono - and diglycerides of fatty acids",
+      "Sodium stearoyl-2-lactylate",
+      "Sorbitan monostearate)",
+      "Salt",
+      "Humectant (Glycerine)",
+      "Dextrin",
+      "Palm oil",
+      "Flavouring",
+      "Acidity Regulators (Lactic acid",
+      "Citric acid)",
+      "clove",
+      "preservative (Potassium sorbate)",
+      "Flour Treatment Agent (Ascorbic acid)",
+      "Stabiliser (Guar gum). ALLERGY ADVICE: For allergens",
+      "Including cereals containing gluten",
+      "see Ingredients in bold. May contain other allergens. Prepared in an open kitchen so we cannot guarantee suitability for people with allergin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/001/600/0850/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Le Gruyere",
+    "marca": "Mifroma",
+    "ean": "0220017009685",
+    "ingredientes": [
+      "Fresh part-skim cow's milk",
+      "cheese culture",
+      "salt and enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peppered smoked mackerel",
+    "marca": "By Sainsbury's",
+    "ean": "0220020004332",
+    "ingredientes": [
+      "Mackerel (96%)",
+      "Salt",
+      "Black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/002/000/4332/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Chocolate Chip Cookies",
+    "marca": "Indian Trail Country Market",
+    "ean": "0220030405259",
+    "ingredientes": [
+      "flour",
+      "chocolate chips",
+      "brown sugar",
+      "shortening",
+      "eggs",
+      "milk",
+      "vanilla",
+      "salt",
+      "baking soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/003/040/5259/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ginger Cookies",
+    "marca": "Indian Trail Country Market",
+    "ean": "0220033405256",
+    "ingredientes": [
+      "flour",
+      "sugar",
+      "butter",
+      "shortening",
+      "molasses",
+      "eggs",
+      "baking soda",
+      "ginger",
+      "cloves",
+      "cinnamon",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/003/340/5256/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Saucisson sec pur porc sans colorant",
+    "marca": "SLV",
+    "ean": "0220037068426",
+    "ingredientes": [
+      "Viande de porc",
+      "Gras Sel (agent antiagglomérant E535) glucose",
+      "saccharose",
+      "dextrose",
+      "an' conservateur : E252",
+      "huile de t. oorc",
+      "poitrine de porc",
+      "ACTOSE)",
+      "Sirop de nts E316-E301 oléique",
+      "auxiliaire SULFITES )",
+      "ferment technologique",
+      "poivre",
+      "poudre d mais) (lactobaciIlus",
+      "staphylococcus xyIcsus sur support dextrose"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/003/706/8426/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "CANTAL ENTRE DEUX AOP GOURMET",
+    "marca": "Monoprix Gourmet",
+    "ean": "02200901",
+    "ingredientes": [
+      "LAIT cru de vache - sel - ferment lactique et d'affinage (dont LAIT) - présure animale"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Swiss Cheese",
+    "marca": "Dci Cheese Co.  Inc.",
+    "ean": "0220098309759",
+    "ingredientes": [
+      "Pasteurized part skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bellvitano Merlot Cheese",
+    "marca": "Sartori Company",
+    "ean": "0220114011055",
+    "ingredientes": [
+      "Bellavitano cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "merlot wine (grapes",
+      "water",
+      "yeast)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted Chicken + Swiss Roller Tray",
+    "marca": "Kirkland",
+    "ean": "0220128313985",
+    "ingredientes": [
+      "roasted chicken",
+      "chicken breast",
+      "water",
+      "cultured sugar",
+      "salt",
+      "modified food starch",
+      "seasoning",
+      "potato dextrin",
+      "sugar",
+      "spice extractives",
+      "sodium phosphate",
+      "dextrose",
+      "carrageenan",
+      "vinegar",
+      "yeast extract",
+      "soybean oil",
+      "cranberry cream cheese",
+      "cream cheese",
+      "pasteurized milk and cream",
+      "cheese culture",
+      "whey",
+      "stabilizers",
+      "guar gum",
+      "locust bean gum",
+      "xanthan gum",
+      "water",
+      "cranberries",
+      "sugar",
+      "modified corn starch",
+      "lahvash",
+      "enriched flour",
+      "wheat flour",
+      "malted barley flour",
+      "niacin",
+      "iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid",
+      "water",
+      "sugar",
+      "canola oil",
+      "yeast",
+      "wheat gluten",
+      "salt",
+      "cultured wheat flour",
+      "organic acids",
+      "acetic",
+      "propionic",
+      "lactic",
+      "vinegar",
+      "calcium carbonate",
+      "enzymes",
+      "fumaric acid",
+      "swiss cheese",
+      "pasteurized part skim milk",
+      "rennet",
+      "salt",
+      "tomato",
+      "green leaf romaine lettuce"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/012/831/3985/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crepes",
+    "marca": "Leclerc",
+    "ean": "0220140019353",
+    "ingredientes": [
+      "Farine de BLE",
+      "OEUFS",
+      "sucre",
+      "beurre",
+      "sel",
+      "LAIT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/014/001/9353/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sartori, parmesan sarvecchio cheese",
+    "marca": "Sartori",
+    "ean": "0220194600002",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seedless Watermelon Chunks Small Bowl",
+    "marca": "Meijer",
+    "ean": "0220199004416",
+    "ingredientes": [
+      "seedless watermelon."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/019/900/4416/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Cocktail in Juice",
+    "marca": "Del Monte",
+    "ean": "02202013",
+    "ingredientes": [
+      "FRUIT IN VARYING PROPORTIONS (PEACHES",
+      "PEARS",
+      "PINEAPPLE",
+      "GRAPES",
+      "CHERRIES WITH COLOUR E127)",
+      "CLARIFIED PINEAPPLE JUICE FROM CONCENTRATE",
+      "ACIDITY REGULATOR: CITRIC ACID"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/220/2013/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "tartelettes fraises",
+    "marca": "E.Leclerc",
+    "ean": "0220235017059",
+    "ingredientes": [
+      "Fraises: Tartelette",
+      "bord droit",
+      "s/d D (Farine de blú (GLUTEN)",
+      "beurre concentrÜ (LAIT) (21%)",
+      "sucre",
+      "OEUFS",
+      "sirop de sucre inverti",
+      "sel): cr me mousseline (Eau",
+      "Dixilia mousseline (Sucre",
+      "Mati re grasse vÚgÚtale hydrogÜnue: Noix de coco",
+      "totalement hydrogünle",
+      "Sirop de glucose",
+      "Amidon modifiú",
+      "POUDRE DE LAIT ECREME",
+      "Emulsifiant Esters lactiques des mono - et diglycúrides d'acides gras (E 472h). PROTEINE DE LAIT",
+      "POUDRE DE LACTOSERUM",
+      "GÜlifiant: Alginate de sodium (E 401)",
+      "Hydroxypropylmúthylcellulose (E 464). Ar me. Colorant: Curcumine (E 100).)): Jelbry spray go t fraise (Eau",
+      "Sirop de aluence fructnee Surre Gillifiant Dectinec (E AA01 Carrachiinanac (F puutritionne"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/023/501/7059/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chicken Breast",
+    "marca": "H-E-B",
+    "ean": "0220238009051",
+    "ingredientes": [
+      "BONELESS SKINLESS CHICKEN BREAST. CHICKEN BREAST TENDERS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/023/800/9051/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chipolatas",
+    "marca": "Leclerc",
+    "ean": "0220241019290",
+    "ingredientes": [
+      "viande et gras de porc",
+      "sel",
+      "LACTOSE",
+      "épices et plantes aromatiques",
+      "E621",
+      "E316",
+      "E300",
+      "E252",
+      "E120",
+      "extrait de paprika",
+      "E160",
+      "arome naturel"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E120",
+        "razon": "Contiene E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/024/101/9290/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini Brownie",
+    "marca": "Sondey",
+    "ean": "0220334594833",
+    "ingredientes": [
+      "Œuf",
+      "huile de colza",
+      "lait en poudre entier",
+      "beurre de cacao pâte de cacao&quot",
+      "lactose",
+      "émulsifiant: lécithines (tournesol)",
+      "arôme naturel de vanille)",
+      "sucre",
+      "farine de blé",
+      "humectant: glycérol",
+      "beurre de cacao)",
+      "cacao maigre en poudre**",
+      "sirop de glucose",
+      "sirop de sucre inverti",
+      "amidon de riz",
+      "poudres à lever diphosphates",
+      "carbonates de sodium",
+      "conservateur: sorbate de potassium",
+      "acidifiant acide citrique",
+      "arôme naturel",
+      "stabilisant: gomme xanthane. issus de poules élevées au sol. Certifié Rainforest Alliance. ra.org. Traces éventuelles de fruits à coque."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/033/459/4833/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Smoked Gammon Joint",
+    "marca": "Tesco",
+    "ean": "0220336003494",
+    "ingredientes": [
+      "Pork (87%)",
+      "Water",
+      "Salt",
+      "Dextrose",
+      "Stabiliser (Sodium Triphosphate)",
+      "Preservative (Sodium Nitrite)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/033/600/3494/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Saucisse boeuf",
+    "marca": "Les Steakeurs",
+    "ean": "0220409026443",
+    "ingredientes": [
+      "VIANDE DE JEUNE BOVIN (95%)",
+      "SEL",
+      "POIVRE",
+      "SUCRE",
+      "CORRECTEUR D'ACIDITE",
+      "ACETATE DE CALCIUM antioxydant ACIDE ASCORBIQUE",
+      "AROMES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/040/902/6443/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Reblochon fermier",
+    "marca": "Chabert",
+    "ean": "0220444062451",
+    "ingredientes": [
+      "E.Leclerc Vitry sur seine Rayon Fromage FERMIER CHABERT Inuredienls.LAIT cru de vache"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini tropeziennes",
+    "marca": "Leclers",
+    "ean": "0220474024276",
+    "ingredientes": [
+      "Préparation mousseline 46",
+      "graisse de  coco (émulsifiant : lécithine de SOJA)",
+      "sucre",
+      "amidon modifie.  LACTOSE et protéines de LAIT",
+      "émulsifiants : E471",
+      "E472a",
+      "épaississant : E401",
+      "colorant : bêta-carotène",
+      "vanilline)",
+      "farine  de BLÉ",
+      "sucre grain (sucre",
+      "graisse de palme)",
+      "nappage (Eau",
+      "sucre",
+      "sirop de glucose de BLÉ",
+      "gélifiant : E440",
+      "acidifiant E330",
+      "conservateur: E202)",
+      "eau",
+      "OEUFS",
+      "sucre",
+      "BEURRE",
+      "huile de  colza",
+      "GLUTEN de BLÉ",
+      "sol",
+      "levure",
+      "émulsifiant: E471",
+      "arômes",
+      "colorants :E160a",
+      "E160b",
+      "antioxydant E300",
+      "malt de BLÉ."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants : E471",
+        "razon": "Contiene émulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472a",
+        "razon": "Contiene E472a, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiant: E471",
+        "razon": "Contiene émulsifiant: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/047/402/4276/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Premium Dutch Cheeese",
+    "marca": "Netherland Farms",
+    "ean": "0220492712100",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "microbial rennet",
+      "cheese cultures",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain complet",
+    "marca": "Leclerc",
+    "ean": "0220515007879",
+    "ingredientes": [
+      "PATE POUR PAIN COMPLET (farine de _BLE_ (farine de _BLE_) eau",
+      "teckni premix complet 25% U3 (Son fin de _BLE_ remoulage de _BLE_",
+      "farine de _BLE_",
+      "_GLUTEN_ vital de BLE",
+      "sel (7.6%)",
+      "levain de _BLE_ dévitalisé",
+      "farine d'_orge_ maltée toastée",
+      "émulsifiant:E472e",
+      "agent de traitement de farine: acide ascorbique",
+      "enzymes: yylanase _BLE_",
+      "amylase _BLE_)",
+      "levure fraiche",
+      "sel (Sel",
+      "antiagglomérant (ferronitrile de sodium (E535))",
+      "perfeckt innatif (Farine de _BLE_",
+      "Emulsifiant: E471",
+      "Agent de traitement de la farine: acide ascorbique",
+      "enzymes: hémicellulase _BLE_",
+      "lipase _BLE_",
+      "glucose-oxydase _BLE_",
+      "amylase _BLE_ )"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant:E472e",
+        "razon": "Contiene émulsifiant:E472e, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "Emulsifiant: E471",
+        "razon": "Contiene Emulsifiant: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/051/500/7879/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Italian Style Cheese",
+    "marca": "Cono Kaasmakers",
+    "ean": "0220518710783",
+    "ingredientes": [
+      "Cultured pasteurized milk",
+      "salt",
+      "enzymes",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain Chocolat Beurre",
+    "marca": "Leclerc",
+    "ean": "0220548008867",
+    "ingredientes": [
+      "Farine de _blé_",
+      "eau",
+      "_beurre_ [20%]",
+      "chocolat (10%) (sucre",
+      "cacao",
+      "beurre de cacao",
+      "E322",
+      "_soja_) [lécithine de _soja_",
+      "sucre",
+      "levure",
+      "_gluten_ de _blé_",
+      "_œufs_",
+      "sel",
+      "E471",
+      "E300",
+      "enzymes."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E471",
+        "razon": "Contiene E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/054/800/8867/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Npr 86% Ground Beef Patty",
+    "marca": "Food Lion",
+    "ean": "0220551210639",
+    "ingredientes": [
+      "beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/055/121/0639/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's Promise Free From 86% Lean Angus Ground Beef Patties",
+    "marca": "Nature's Promise",
+    "ean": "0220551611115",
+    "ingredientes": [
+      "Ground beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/055/161/1115/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hardwood smoked off the bone premium ham with natural juices",
+    "marca": "Hormel",
+    "ean": "0220570000006",
+    "ingredientes": [
+      "Cured with water",
+      "salt",
+      "sugar",
+      "vinegar",
+      "corn syrup",
+      "sodium phosphates",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Triple Creme Brie Soft-Ripened Cheese",
+    "marca": "President",
+    "ean": "0220595008148",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "pasteurized cream",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Saucisse a griller fine pur porc",
+    "marca": "Cabrol",
+    "ean": "0220606055895",
+    "ingredientes": [
+      "SAUCISSE A GRILLER FINE PUR PORC SANS COLORANT INCREDILNTS :MAICRE ET CRAS DE PORC",
+      "SEL SIROP CLUCOSEt VINAIGRE POUDRE AROIŒ",
+      "ANTIOXYDANT ASCOREATE SODIUM",
+      "CONSERVATEUR : SALPETRE Zxace possible oeuf"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/060/605/5895/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pâté de campagne à la salvetoise",
+    "marca": "Cabrol",
+    "ean": "0220626027483",
+    "ingredientes": [
+      "GRAS DE FORC",
+      "FOIE DE PORC 30%",
+      "SEL DE CAMARGUE",
+      "PROTEINE VEGETALE DE POIS",
+      "POIVRE",
+      "CARAMEL ORDINAIRE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/062/602/7483/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pork Sausage - Club Pack",
+    "marca": "Butcher's Choice",
+    "ean": "0220646720456",
+    "ingredientes": [
+      "PORK",
+      "WATER",
+      "TOASTED WHEAT CRUMBS",
+      "SALT",
+      "DEXTROSE",
+      "SPICES",
+      "SODIUM ERYTHORBATE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/022/064/672/0456/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Nature raised farms, thin sliced boneless skinless chicken breasts",
+    "marca": "Nature Raised Farms",
+    "ean": "0220715104811",
+    "ingredientes": [
+      "Chicken breasts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

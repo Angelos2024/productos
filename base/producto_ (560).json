@@ -1,0 +1,2045 @@
+[
+  {
+    "nombre": "Madrigal Cheese",
+    "marca": "President",
+    "ean": "0216300905802",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pecorino Romano",
+    "marca": "Pinna",
+    "ean": "0216316304262",
+    "ingredientes": [
+      "Milk salt rennet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pecorino Romano Cheese",
+    "marca": "Pinna",
+    "ean": "0216316604478",
+    "ingredientes": [
+      "Milk salt rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pecorino romano",
+    "marca": "Genuine Locatelli",
+    "ean": "0216326003964",
+    "ingredientes": [
+      "Pasteurized sheeps milk",
+      "cultures",
+      "rennet",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Leg Quarters",
+    "marca": "Club Size",
+    "ean": "0216365709568",
+    "ingredientes": [
+      "Chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/636/570/9568/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chicken Pot Pie",
+    "marca": "Kirkland Signature,Costco Wholesale Corp,Costco",
+    "ean": "0216382322542",
+    "ingredientes": [
+      "Filling (Water",
+      "Chicken with Natural Juices",
+      "Carrots",
+      "Green Peas",
+      "Onions",
+      "Modified Corn Starch",
+      "Chicken Stock Concentrate (Chicken Broth",
+      "Yeast Extract",
+      "Salt",
+      "Sugar",
+      "Chicken Fat",
+      "Onion Powder",
+      "Natural Flavors",
+      "Xanthan Gum)",
+      "Vegetable Purees (Carrot",
+      "Celery",
+      "Onion",
+      "Canola Oil)",
+      "Nonfat Dry Milk",
+      "Hydrolyzed Soy Protein",
+      "Hydrolyzed Corn Protein",
+      "Salt",
+      "Sugar",
+      "Corn Starch",
+      "Yeast Extract",
+      "Natural Flavors",
+      "Onion Powder",
+      "Rice Flour",
+      "Maltodextrin",
+      "Turmeric (color)",
+      "Soybean Oil",
+      "Wheat Flour",
+      "Celary",
+      "Canola Oil",
+      "Carrot Powder",
+      "Extractives of Carrot",
+      "Xanthan Gum",
+      "Spice Extractives",
+      "Parsley",
+      "Thyme",
+      "Citric Acid",
+      "Nisin (Preservative)",
+      "Black Pepper)",
+      "Crust (Enriched Flour (Wheat Flour",
+      "Vitamins (B3",
+      "B1",
+      "B2)",
+      "Iron",
+      "Folic Acid)",
+      "Vegetable Oil (Canola",
+      "Palm",
+      "Palm Kernel)",
+      "Water",
+      "Sugar",
+      "Dextrose",
+      "Salt",
+      "Citric Acid)",
+      "Rotisserie Chicken (Chicken Breast Meat",
+      "Water",
+      "Seasoning (Salt",
+      "Sodium Phosphate",
+      "Modified Food Starch (Potato",
+      "Tapioca)",
+      "Potato Dextrin",
+      "Carrageenan",
+      "Sugar",
+      "Dextrose",
+      "Spice Extractives))"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Pot Pie With Rotisserie Chicken Breast",
+    "marca": "Kirkland",
+    "ean": "0216382522065",
+    "ingredientes": [
+      "filling water",
+      "chicken with natural juices",
+      "carrots",
+      "green peas",
+      "onions",
+      "modified corn starch",
+      "chicken stock concentrate",
+      "chicken broth",
+      "yeast extract",
+      "salt",
+      "sugar",
+      "chicken fat",
+      "onion powder",
+      "natural flavors",
+      "xanthan gum",
+      "vegetable purees",
+      "carrot",
+      "celery",
+      "onion",
+      "canola oil",
+      "nonfat dry milk",
+      "hydrolyzed soy protein",
+      "hydrolyzed corn protein",
+      "salt",
+      "sugar",
+      "corn starch",
+      "yeast extract",
+      "natural flavors",
+      "onion powder",
+      "rice flour",
+      "maltodextrin",
+      "turmeric",
+      "soybean oil",
+      "wheat flour",
+      "celery",
+      "canola oil",
+      "carrot powder",
+      "extractives of carrot",
+      "xanthan gum",
+      "spice extractives",
+      "parsley",
+      "thyme",
+      "citric acid",
+      "nisin",
+      "black pepper",
+      "crust enriched flour",
+      "wheat flour",
+      "vitamins",
+      "niacin",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "vegetable oil",
+      "canola",
+      "palm",
+      "palm kernel",
+      "water",
+      "sugar",
+      "dextrose",
+      "salt",
+      "citric acid",
+      "rotisserie chicken",
+      "chicken breast meat",
+      "water",
+      "seasoning",
+      "salt",
+      "sodium phosphate",
+      "modified food starch",
+      "potato",
+      "tapioca",
+      "potato dextrin",
+      "carrageenan",
+      "sugar",
+      "dextrose",
+      "spice extractives"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/638/252/2065/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Pot Pie With Rotisserie Chicken Breast",
+    "marca": "Kirkland",
+    "ean": "0216382821519",
+    "ingredientes": [
+      "water",
+      "chicken with natural juices",
+      "carrots",
+      "green peas",
+      "onions",
+      "modified corn starch",
+      "chicken stock concentrate",
+      "chicken broth",
+      "yeast extract",
+      "salt",
+      "sugar",
+      "chicken fat",
+      "onion powder",
+      "natural flavors",
+      "annatto (color)",
+      "vegetable broth (carrot",
+      "onion",
+      "celery)",
+      "hydrolyzed corn protein",
+      "salt",
+      "sugar",
+      "corn starch",
+      "yeast extract",
+      "turmeric (color)",
+      "soybean oil",
+      "wheat flour",
+      "wheat gluten",
+      "canola oil",
+      "corn syrup",
+      "wheat flour",
+      "niacin",
+      "reduced iron",
+      "folic acid",
+      "vegetable oil (canola",
+      "palm",
+      "palm kernel)",
+      "water",
+      "sugar",
+      "dextrose",
+      "salt",
+      "citric acid",
+      "rotisserie chicken",
+      "chicken breast meat",
+      "water",
+      "seasoning (salt",
+      "sodium phosphate",
+      "modified food starch (potato",
+      "tapioca)",
+      "potato dextrin",
+      "carrageenan",
+      "sugar",
+      "dextrose",
+      "spice extractives)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/638/282/1519/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dpi specialty foods, myzithra cheese",
+    "marca": "Dpi Specialty Foods",
+    "ean": "0216385204715",
+    "ingredientes": [
+      "Pasteurized sheep's milk",
+      "whey",
+      "rennet",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mariano's, ricotta salata cheese",
+    "marca": "Marianos",
+    "ean": "0216386703828",
+    "ingredientes": [
+      "Sheep's milk (whey)",
+      "enzymes",
+      "cultures and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "4 Medium White Baps",
+    "marca": "Morrisons Baked by Us, Morrisons",
+    "ean": "0216401000796",
+    "ingredientes": [
+      "Contains or May contain Allergens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/640/100/0796/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Sage Derby Cheese",
+    "marca": "Amber Valley",
+    "ean": "0216406708314",
+    "ingredientes": [
+      "Pasteurized cows milk",
+      "salt",
+      "rennet",
+      "dairy culutres added ingredients: sage",
+      "spinach extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain aux 5 cereales et aux graines",
+    "marca": "La Fournee Campaniere",
+    "ean": "0216409011817",
+    "ingredientes": [
+      "Farines* (47%) (blé (France)* (32",
+      "seigle avoine (UE)*",
+      "orge (UE)*",
+      "épeautre (UE)*)",
+      "eau",
+      "mélange de graines* (11%)** (tournesol*",
+      "lin brun*",
+      "graines de sésame*",
+      "millet*)",
+      "levain* (eau",
+      "farines de blé* et de malt de blé*",
+      "vinaigre*",
+      "sel",
+      "amidon de blé*)",
+      "améliorant* (farine de blé*",
+      "gluten de blé*",
+      "extrait sec d'acérola*)",
+      "sel",
+      "levure. * Issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/640/901/1817/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Wensleydale",
+    "marca": "Amber Valley",
+    "ean": "0216409405463",
+    "ingredientes": [
+      "Cows milk",
+      "enzymes",
+      "cultures salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "English cheddar cheese",
+    "marca": "Mariano's",
+    "ean": "0216410306162",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "dairy cultures rennet",
+      "salt. cows milk",
+      "salt",
+      "enzymes and cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemon zest",
+    "marca": "Clawson",
+    "ean": "0216416012319",
+    "ingredientes": [
+      "White stilton (pasteurized cow's milk",
+      "salt",
+      "vegetarian rennet",
+      "dairy cultures)",
+      "lemon compote (12%) (water",
+      "sugar",
+      "lemon juice concentrate",
+      "rice starch",
+      "flavoring)",
+      "candied lemon peel (9%) (lemon peel",
+      "glucose-fructose syrup",
+      "sugar",
+      "citric acid as an acidity regulator)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Macarons x12 Fruités",
+    "marca": "Leclerc",
+    "ean": "0216417024274",
+    "ingredientes": [
+      "Sucre - AMANDES en poudre 19% - Blancs d'OEUFS 17% - Purée de bananes 2% - Lait de noix de coco 1%-Sirop de glucose - Pommes vertes 1% - Cassis 1% - Brisures de framboises 1 %-Amidons - Purée de mandarines 1%-Blancs d' OEUFS en poudre 1% - Concentré de mandarines 0.9% - Chocolat blanc (sucre",
+      "beurre de cacao",
+      "LAIT en poudre entler",
+      "émulsifiant : lecithines ( SOJA)",
+      "arôme naturel de vanille) - Purée de cassis 0.6% - Purée de pommes 0.6% - LAIT en poudre écrémé. Concentré de jus de betterave BEURRE Huile de colza - Noix de coco râpée 0.2% Jus de citrons 0.2% Gélifiant : pectines Concentré de carottes et d'hibiscus - Concentré de curcuma - Arôme naturel de pomme - Stabilisant : gomme xanthane-Arôme naturel de noix de coco - Extrait de paprika - Protéines de LAIT-Arôme naturel de mandarine - Arôme naturel de banane - Extrait de spiruline - Concentré de citron ..."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/641/702/4274/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Amber Valley Stilton",
+    "marca": "Clawson",
+    "ean": "0216417309036",
+    "ingredientes": [
+      "White solution [  pasteurized cows milk",
+      "salt",
+      "microbial rennet",
+      "dairy cultures]",
+      "dried apricots(26%) [  apricots",
+      "rice flour",
+      "sulfur dioxide as a preservative]"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Double Gloucester Cheese",
+    "marca": "Amber Valley",
+    "ean": "0216419707205",
+    "ingredientes": [
+      "Cow's milk",
+      "enzymes",
+      "cultures",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Leicester",
+    "marca": "Amber Valley",
+    "ean": "0216428106150",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "enzymes",
+      "salt natural cultures",
+      "annatto",
+      "rennet",
+      "dairy cultures."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wine cured goat",
+    "marca": "Villa Vieja",
+    "ean": "0216430507402",
+    "ingredientes": [
+      "animal rennet",
+      "sea salt",
+      "contains milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Framboisier",
+    "marca": "E Leclercq",
+    "ean": "0216436058380",
+    "ingredientes": [
+      "FRRIIBOISIER ST QUENTIN noussel ine (eau sucre an idon nodifie poudre LAIT ecreae nat iere grasse uegetale hydroge sirop glucose deshydrate proteines LhIT sel arônes e450 e339 e2Ë3 elÜ2 tartrazine el 10",
+      "jaurE orange ed72a ester acetiq de n et d a) franboise (franboise brisure franboise) nature 22cn (OEUF entier farine BEE sucre LAIT ecrene en re nat iere grasse I",
+      ".getale LRCTÛSE proteines de LAIT sel glycerol ed75 e471 dip e disndiqtE carbonate actde de SOdiUE) sirop (eau sucre cristal) crene beurre (sirop de glucose sucre poudre de LRIT entier fructose poudre Jaune D'EIF arône ed20 sorbitol e472c esters citriq de et d g aatiere grasse butyrique eau acide enanthigue vani I ine) pai Ilette brun (sur.•re natiere grasse uegetale poudre de cacao degraisse arane 2322 lecithine) napp. fraise (eau de glucose sucre fructose arône fraise el 10 jaune-oranae e122 e33tl acide citrique e44Û pectine edÛ7 carraqhenane) cacao soft (poudre Be cacao degralsse hui le *tale hydrogenee aràne trace LAIT DELF CERERLE lecithine de SOJA) decor chocolat (cacao (Y sucre pâte de cacao beurre de cacao vanille naturelle lezithine (e322)) ENTRE ET ec"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": ".getale LRCTÛSE proteines de LAIT sel glycerol ed75 e471 dip e disndiqtE carbonate actde de SOdiUE) sirop (eau sucre cristal) crene beurre (sirop de glucose sucre poudre de LRIT entier fructose poudre Jaune D'EIF arône ed20 sorbitol e472c esters citriq de et d g aatiere grasse butyrique eau acide enanthigue vani I ine) pai Ilette brun (sur.•re natiere grasse uegetale poudre de cacao degraisse arane 2322 lecithine) napp. fraise (eau de glucose sucre fructose arône fraise el 10 jaune-oranae e122 e33tl acide citrique e44Û pectine edÛ7 carraqhenane) cacao soft (poudre Be cacao degralsse hui le *tale hydrogenee aràne trace LAIT DELF CERERLE lecithine de SOJA) decor chocolat (cacao (Y sucre pâte de cacao beurre de cacao vanille naturelle lezithine (e322)) ENTRE ET ec",
+        "razon": "Contiene .getale LRCTÛSE proteines de LAIT sel glycerol ed75 e471 dip e disndiqtE carbonate actde de SOdiUE) sirop (eau sucre cristal) crene beurre (sirop de glucose sucre poudre de LRIT entier fructose poudre Jaune D'EIF arône ed20 sorbitol e472c esters citriq de et d g aatiere grasse butyrique eau acide enanthigue vani I ine) pai Ilette brun (sur.•re natiere grasse uegetale poudre de cacao degraisse arane 2322 lecithine) napp. fraise (eau de glucose sucre fructose arône fraise el 10 jaune-oranae e122 e33tl acide citrique e44Û pectine edÛ7 carraqhenane) cacao soft (poudre Be cacao degralsse hui le *tale hydrogenee aràne trace LAIT DELF CERERLE lecithine de SOJA) decor chocolat (cacao (Y sucre pâte de cacao beurre de cacao vanille naturelle lezithine (e322)) ENTRE ET ec, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/643/605/8380/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Five Counties Cheese",
+    "marca": "Ilchester",
+    "ean": "0216441004358",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crookie Maison",
+    "marca": "Leclerc",
+    "ean": "0216441013053",
+    "ingredientes": [
+      "CROISSANT/farine de BLE",
+      "eau",
+      "matière grasse composée (hulles et graisses végétales non hydrogénées de palme et de coprah",
+      "eau",
+      "BEURRE concentré",
+      "émulsifiant (E471)",
+      "sel",
+      "correcteur d'acidité (E330)",
+      "colorant ( carotenoides d'origine naturelle)",
+      "arôme naturel ( LAIT))",
+      "sucre",
+      "levure",
+      "GLUTEN de BLE",
+      "OEUFS 1",
+      "sel",
+      "arôme naturel (LAIT)",
+      "agent de traitement de la farine (E300)",
+      "enzyme.COOKIE/ Chocolat au lait belge (30%) (Sucre",
+      "POUDRE DE LAIT ENTIER",
+      "Beurre de cacao",
+      "Pâte de cacao",
+      "Emulsifiant: LECITHINE DE 90JA",
+      "Arôme naturel de vanille)",
+      "FARINE DE BLE",
+      "Sucre",
+      "Graisse de palme",
+      "Eau",
+      "BEURRE",
+      "Hulle de colza",
+      "POUDRE DE LACTOSERUM",
+      "Sirop de sucre inverti",
+      "POUDRE D' OEUF ENTIER",
+      "Humectant: Glycérol",
+      "Poudre à Lever: Carbonates de sodium",
+      "Diphosphates",
+      "Sel",
+      "Mélasse",
+      "Arôme natural.PEPITE DE CHOCOLAT sucre",
+      "pâte de cacao",
+      "beurre de cac ..."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant (E471)",
+        "razon": "Contiene émulsifiant (E471), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/644/101/3053/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ilchester, Sage Derby Cheese",
+    "marca": "Norseland Inc",
+    "ean": "0216442003961",
+    "ingredientes": [
+      "Derby cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "sage",
+      "salt",
+      "potassium sorbate (preservative)",
+      "acetic acid (acidity regulator)",
+      "natural flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "4 Medium Granary Baps",
+    "marca": "Morrisons Baked by Us, Morrisons",
+    "ean": "0216451000791",
+    "ingredientes": [
+      "Contains or May contain Allergens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/645/100/0791/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "6 Large Granary Baps",
+    "marca": "Morrisons Baked by Us,Morrisons",
+    "ean": "0216461001009",
+    "ingredientes": [
+      "Contains or May contain Allergens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/646/100/1009/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Bleu Remberter",
+    "marca": "Boucheries André, Remberter",
+    "ean": "0216467020400",
+    "ingredientes": [
+      "lait de vache pasteurisé",
+      "sel",
+      "ferments lactiques",
+      "enzyme microbienne CaCl2",
+      "ferment penicillium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/646/702/0400/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "6 Wholemeal Rolls",
+    "marca": "Morrisons Baked by Us, Morrisons",
+    "ean": "0216481000792",
+    "ingredientes": [
+      "Contains or May contain Allergens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/648/100/0792/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "6 Large Wholemeals Baps",
+    "marca": "Morrisons Baked by Us, Morrisons",
+    "ean": "0216491001000",
+    "ingredientes": [
+      "Contains or May contain Allergens"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/649/100/1000/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Fromage de tete",
+    "marca": "Leclerc",
+    "ean": "0216572013717",
+    "ingredientes": [
+      "Ingredignts : TBte de porc 24%",
+      "viande da porc",
+      "persil",
+      "piment 0.7% assaisonnement (dont epaississant : E407",
+      "E508",
+      "gpices",
+      "antioudant",
+      "E316",
+      "colorant : E120)",
+      "sel",
+      "conservateur : E250"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colorant : E120)",
+        "razon": "Contiene colorant : E120), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/657/201/3717/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tartelettes pomme",
+    "marca": "E. Leclerc",
+    "ean": "0216641018377",
+    "ingredientes": [
+      "pomme 65%",
+      "sucre",
+      "farine de _BLE_",
+      "_BEURRE_ concentré",
+      "sirop de glucose",
+      "_OEUFS_ frais",
+      "poudre d'_AMANDE_",
+      "amidon transformé de maïs",
+      "amidon de maïs",
+      "sel",
+      "pectines",
+      ".alginate de sodium",
+      "acide citrique",
+      "acide ascorbique"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/664/101/8377/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cottage Doubles, Pineapple",
+    "marca": "Breakstone's",
+    "ean": "02166700",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk",
+      "and cream",
+      "whey",
+      "contains less than 2% of modified food starcuh",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbae to preserve freshness",
+      "xanthan gum guar gum",
+      "natural favor",
+      "vitamin a",
+      "palmitate",
+      "vitamin d3)",
+      "pineapple topping (pineapple",
+      "water",
+      "sugar",
+      "modified food starch",
+      "natural",
+      "flavor",
+      "citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mille feuilles",
+    "marca": "Leclerc",
+    "ean": "0216680025589",
+    "ingredientes": [
+      "farine de blé (GLUTEN)",
+      "sucre",
+      "huiles et graisses végétales (palme",
+      "tournesol",
+      "colza)",
+      "eau",
+      "creme a chaud (9%) (LAIT entier",
+      "sucre",
+      "amidon modifié",
+      "stabilisants: E331",
+      "E407",
+      "E460",
+      "E466?",
+      "arôme de vanille",
+      "sel",
+      "colorant?. E160a)",
+      "CREME LAIT écréme en poudre",
+      "LAIT entier en poudre",
+      "BEURRE concentré",
+      "sirop de glucose",
+      "amidon modifié: pomme de terre?",
+      "graisse végetaie totalement hydtogenee?. palme",
+      "arômes",
+      "amidon: pomme de terre",
+      "riz",
+      "colorant: E101",
+      "E150a",
+      "E160a",
+      "sel",
+      "abricot",
+      "dextrose. emuls'fiant?. E322(SOJA). E414",
+      "EA33. E471",
+      "E472a",
+      "E473",
+      "E475",
+      "composants du LAIT",
+      "LAIT écrémé condensé",
+      "jaunes d'OEUFS",
+      "masse de cacaos acidifiant'. E270",
+      "E330?",
+      "stabilisant: E450",
+      "épaississant: E401",
+      "E412",
+      "gélifiant: E407",
+      "E440",
+      "cacao maigre en poudre",
+      "correcteur d'acidite: E332",
+      "E334. Énergie (Kilojoules) : 1404 kJ/1m g",
+      "Énergie (Kilocalories) ."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "EA33. E471",
+        "razon": "Contiene EA33. E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472a",
+        "razon": "Contiene E472a, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E473",
+        "razon": "Contiene E473, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E475",
+        "razon": "Contiene E475, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/668/002/5589/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cottage Doubles",
+    "marca": "Breakstone's",
+    "ean": "02166807",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk and cream",
+      "whey",
+      "contains less than 2% of modified starch",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbate to preserve freshness",
+      "xanthan gum",
+      "guar gum",
+      "natural flavor",
+      "vitamin a palmitate",
+      "vitamin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cottage Doubles Cheese, Peach",
+    "marca": "Breakstone's",
+    "ean": "02166904",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk",
+      "milk and cream",
+      "whey contains less than 2% of modified food starch",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbate to preserve freshness",
+      "xanthan gum",
+      "guar gum",
+      "natural flavor",
+      "vitamin a palmitate",
+      "vitamin d3)",
+      "peach topping (peaches",
+      "water",
+      "sugar",
+      "modified food starch",
+      "natural flavor",
+      "citric acid)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Breakstone's, cottage cheese & blueberry topping, blueberry",
+    "marca": "Breakstone's",
+    "ean": "02167000",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk",
+      "milk",
+      "and cream",
+      "whey",
+      "contains less than 2% of modified food starch",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbate to preserve freshness",
+      "guar gum",
+      "natural flavor",
+      "vitamin a palmitate",
+      "vitamin d3)",
+      "blueberry topping (blueberries",
+      "high fructose corn syrup",
+      "sugar",
+      "water",
+      "contains less than 2% of modified food starch",
+      "natural flavor",
+      "citric acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cottage Doubles Cheese, Apple Cinnamon",
+    "marca": "Breakstone's",
+    "ean": "02167107",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk and cream",
+      "whey",
+      "contains less than 2% of modified food starch",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbate to preserve freshness",
+      "xanthan gum",
+      "guar gum",
+      "natural flavor",
+      "vitamin a palmitate",
+      "vitamin d3)",
+      "apple topping (water",
+      "apples",
+      "sugar",
+      "modified food starch",
+      "natural flavor",
+      "cinnamon",
+      "malic acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ingwer - Zitrone",
+    "marca": "Lord Nelson",
+    "ean": "02167299",
+    "ingredientes": [
+      "Krautertee mit Ingwer",
+      "aromatlslert mit Zitronen-Geschmack. : 43% Ingwer",
+      "Zitronengras",
+      "Ztronenverbene",
+      "natürliches Aroma",
+      "Zitronenschalen."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/216/7299/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Tarte Tropézienne",
+    "marca": "Leclerc",
+    "ean": "0216736038051",
+    "ingredientes": [
+      "garniture : préparation mousseline (eau",
+      "matièras grasses veaetales(téclthine de transformé de pomme de terre",
+      "lactose de LRIT",
+      "émutsifiant: 33",
+      "arômescolorants: E160a",
+      "Ef60b",
+      "antioxydant: E300",
+      "maLt de BLE",
+      "enzymes CONSERVER ENTRE O ET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/673/603/8051/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tartelette chocolat x2",
+    "marca": "Aux gourmets clichois",
+    "ean": "0216899020337",
+    "ingredientes": [
+      "Farine de BLE BEURRE concentré - Sucre - Chocolat de couverture noir 10% (pâte de cacao",
+      "sucre",
+      "émulsifiant : lecithine de tournesol",
+      "arôme naturel de vanille) - CREME-Eau-LAIT entier-OEUFS frais Sirop de glucose - Hulle de colza - Pâte de cacao 2%-AMANDE en poudre. Amidon de mais - Sel - Beurre de cacao - Poudre de LAIT entier - Gélifiants: pectines",
+      "alginate de sodium - Emulsifiant : lécithine de SOJA - Acidifiant: acide citrique - Stabilisant: carraghénanes - Arôme naturel de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/689/902/0337/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Russia"
+  },
+  {
+    "nombre": "Comté extra - 18 Mois AOP",
+    "marca": "Boucheries André",
+    "ean": "0216903058257",
+    "ingredientes": [
+      "Lait cru",
+      "sel",
+      "présure animale",
+      "ferment lactique",
+      "ferment affinage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/690/305/8257/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Flan Chocolat Cookie",
+    "marca": "Leclerc",
+    "ean": "0216913009188",
+    "ingredientes": [
+      "Eau",
+      "appareil cookie 20",
+      "sucre roux",
+      "beurre (lalt)",
+      "chocolat noir 2",
+      "sucre",
+      "émulsifiant: E322 (soja))",
+      "poudre à lever (farine de blé",
+      "correcteurs d' acidité : E500",
+      "E331)",
+      "sel)",
+      "sucre",
+      "farine de blé",
+      "chocolat noir 5% (pâte de cacao",
+      "sucre",
+      "émulsifiant : E322 (soja))",
+      "lalt entier en poudre",
+      "oeuf entier pasteurisé plein air",
+      "amidon et amidon modifié de mais",
+      "beurre (lait)",
+      "crème (lalt)",
+      "sucre glace (sucre",
+      "amidon)",
+      "cacao en poudre",
+      "stabilisant : É407."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/691/300/9188/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Russia"
+  },
+  {
+    "nombre": "Pain céréales",
+    "marca": "E.Leclerc",
+    "ean": "0216952006230",
+    "ingredientes": [
+      "Farine céréale (FARINE DE BLE",
+      "CEREALES ET GRAINES",
+      "seigle",
+      "SEMOULE DE BLE DUR",
+      "lin brun",
+      "tournesol. llet",
+      "lin jaune",
+      "flocons d'arge et d'avoine",
+      "sarrasin",
+      "issues de ble",
+      "sel",
+      "levain de seigle et de ble dévitalisé et désactivé",
+      "GLUTEN de blé",
+      "FARINE DE BLE MALTE TORREFIE",
+      "agent de traitement de la farine",
+      "acide ascorbique",
+      "acidifiants acide lactique",
+      "alpha-amylases",
+      "hemicellulases",
+      "xylanases",
+      "cellulases)",
+      "eau",
+      "corde d or type 65 (FARINE DE BLE",
+      "GLUTEN de blé",
+      "MALT DE BLE",
+      "enzymes: alpha-amylases: hani-cellulases at hemicellulase",
+      "agent de traitement de la farina acide scorbique)",
+      "levure",
+      "multigraines (flocons d'avoine",
+      "graines de lin brun. Iin jaune",
+      "SESAME DEXORTIQUE",
+      "FLOCONS DE BLE). Croustilis (FARINE DE BLE",
+      "émulsifiant: mono at diglycerides d'acides gras",
+      "agent de traite (...) Contient: GLUTEN. GRAINES DE SESAME"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/695/200/6230/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier de Loué élevé en liberté Blanc",
+    "marca": "Loué",
+    "ean": "0217004056548",
+    "ingredientes": [
+      "Poulet classe A."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "amande",
+    "marca": "meray",
+    "ean": "02170060",
+    "ingredientes": [
+      "TEN MINSTE HOUDBAAR TOT-DA CONSUMARSI PREFERIC SIMP PREFERENTEMENTE ANTES DE-SON TÜKETİM TARA АТЕЛЬНО УПОТРЕБИТЬ до-a-y all 44 es-DATA EXP ASTA ENNEN UDBAAR TOT - ANDELKERNE GEROSTET UND GES MOND KERNELS ROASTED",
+      "AND SA 5 ANDES GRILLEES ET SALEES aten: Mandelkerne",
+      "Salz. Ingredients: ond kernels",
+      "salt. Ingrédients: Amand Peut contir des traces d'arachides",
+      "sésame",
+      "de soja et d'autres noix. rwertangaben/Nutrition Facts/Declaration Nut /pro 100g 2607 kJ/631 kca 55",
+      "Energy",
+      "Energie tt",
+      "Fat",
+      "Matières grasses on geeättinte Fetteuren"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier de Loué",
+    "marca": "Loué",
+    "ean": "0217008053468",
+    "ingredientes": [
+      "Poulet noir origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/700/805/3468/front_fr.21.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet",
+    "marca": "Le Gaulois",
+    "ean": "0217010023428",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/002/3428/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier de Loué jaune",
+    "marca": "Loué",
+    "ean": "0217013040675",
+    "ingredientes": [
+      "Poulet fermier jaune origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/304/0675/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "poulet fermier",
+    "marca": "loué",
+    "ean": "0217013042570",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/304/2570/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "poulet fermier loué",
+    "marca": "label rouge",
+    "ean": "0217013047230",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/304/7230/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier de Loué",
+    "marca": "Les fermiers de Loué",
+    "ean": "0217013048411",
+    "ingredientes": [
+      "DURE D'ELEVAGE JOURS min. Rumologation LA 04/8 BARQUETTE JETER PENSE AU TRI CONSIGNE POUVANT VARIER LOCALEMENT&gt",
+      "wWw.CONS GARANTIE QUALITE SUPERIEURE ETIQUETTE CARTON A RECYCLER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/304/8411/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet",
+    "marca": "Loué",
+    "ean": "0217013058977",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/305/8977/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier",
+    "marca": "Loué",
+    "ean": "0217013080299",
+    "ingredientes": [
+      "du Maine lasse A Origie Sa Lou TERRE D'ACTION RYUS NOUS PLANTONS UN *validez votre ac OFFRE SPÉCIA OP Cod ur Loué.Ir tion L NIVEAU BIEN-ETRE ANIMALA POULET FERMIER DE LOUÉ SUPERIEUR B BIEN C ASSEZ BIEN) A consommer jusqu'au: STANDARD Lot 14/05/22 EMINIMAL 2022068061 PARCOURS Élevé(e) par : M. BOURILLON LOUE e07 658280/837A Hormologation ARBORE www.etiquettebienetreanimal.fr PRIX 12.24€ LA 04/81 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/308/0299/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet Fermier de Loué jaune",
+    "marca": "Loué",
+    "ean": "0217013080886",
+    "ingredientes": [
+      "POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/308/0886/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet Fermier Label Rouge de Loué",
+    "marca": "Loué",
+    "ean": "0217013081678",
+    "ingredientes": [
+      "Poulet fermier 100%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/701/308/1678/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Curvies Paprika",
+    "marca": "Schär",
+    "ean": "02170217",
+    "ingredientes": [
+      "Glutentreies Knabbergebāck mit Paprika Geschmack. Speziell formuliert für Menschen mit Glutenunverträglichkeit. : dehydrierte Kartotfeln 55%",
+      "Sonnenblumenol",
+      "Reismehl",
+      "Glucosesirug Kartotfelstarke",
+      "naturliches Aroma",
+      "Emulgator: Mono-und DIglyceride von Speisefettsāuren",
+      "Rapsöl",
+      "Salz. Kann Spuren von Milch enthalten."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulgator: Mono-und DIglyceride von Speisefettsāuren",
+        "razon": "Contiene Emulgator: Mono-und DIglyceride von Speisefettsāuren, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/217/0217/front_de.3.400.jpg",
+    "tahor": false,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Piemontaise au jambon",
+    "marca": "Boucherie André",
+    "ean": "0217093031426",
+    "ingredientes": [
+      "Pomme de terre (53%)",
+      "sauce (huile de colza",
+      "oeufs",
+      "eau",
+      "graines de moutarde",
+      "vinaigre d'alcool",
+      "sel",
+      "épices",
+      "acidifiant :E330",
+      "conservateurs: E222",
+      "E224 (sulfites))",
+      "jambon de porc cuit (13%) (jambon de porc",
+      "eau",
+      "sel",
+      "dextrose (blé)",
+      "lactose",
+      "maltodextrine",
+      "saccharose",
+      "sirop de glucose deshydraté",
+      "conservateur: E250",
+      "exhausteur de goût: E621",
+      "hydrolysat végétal poudre",
+      "antioxydants: E301",
+      "E316",
+      "stabilisants : E450",
+      "E451",
+      "phosphate",
+      "arômes)",
+      "cornichons (vinaigre",
+      "oignons",
+      "sel",
+      "graines de moutarde",
+      "arômes (sulfites))",
+      "petits pois",
+      "moutarde de Dijon (eau",
+      "graines de moutarde",
+      "vinaigre d'alcool",
+      "sel",
+      "acidifiant :E330",
+      "conservateur: E224 ( sulfites))",
+      "sel",
+      "épices",
+      "affermissant : E509"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc cuit (13%) (jambon de porc",
+        "razon": "Contiene jambon de porc cuit (13%) (jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/709/303/1426/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Taboulé",
+    "marca": "Boucheries André",
+    "ean": "0217097040011",
+    "ingredientes": [
+      "Semoule de blé dur",
+      "poivrons",
+      "eau",
+      "cornichons (cornichons",
+      "eau",
+      "vinaigre d'alcool",
+      "' sel",
+      "oignons",
+      "graines de moutarde",
+      "poivre",
+      "coriandre",
+      "arôme estragon)",
+      "vinaigre ( sulfites)",
+      "huile d'olive",
+      "raisins secs",
+      "jus de citron sulfites)",
+      "sel",
+      "oignons",
+      "moutarde",
+      "échalotes",
+      "persil",
+      "sel",
+      "ail",
+      "épices",
+      "antioxydant acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/709/704/0011/front_fr.22.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Canette fermière de Loué",
+    "marca": "Loué",
+    "ean": "0217107083373",
+    "ingredientes": [
+      "Canette fermière de Loué"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/710/708/3373/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Landana, goat cheese, mild",
+    "marca": "Landana",
+    "ean": "0217111807057",
+    "ingredientes": [
+      "Cultured pasteurized goat's milk",
+      "salt",
+      "vegetarian rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Cheese",
+    "marca": "Parrano",
+    "ean": "0217113307999",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "cheese cultures",
+      "vegetarian rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Originale Cheese",
+    "marca": "Parrano",
+    "ean": "0217113309757",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "cheese cultures",
+      "vegetarian rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "2 Free Range Whole Chicken Breasts Fillets",
+    "marca": "Sainsbury's",
+    "ean": "0217116004543",
+    "ingredientes": [
+      "Fresh class A whole chicken breast fillets skinless and boneless"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/711/600/4543/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Alpenhaus, swiss gruyere cheese",
+    "marca": "Alpenhaus",
+    "ean": "0217117306721",
+    "ingredientes": [
+      "Fresh part-skim cow's milk",
+      "cheese culture",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uniekaas, Smoked Gouda",
+    "marca": "Best Cheese Corp.",
+    "ean": "0217118603362",
+    "ingredientes": [
+      "Gouda cheese (pasteurized milk",
+      "salt",
+      "lactic acid bacteria",
+      "rennet",
+      "calcium chloride",
+      "annatto )",
+      "water",
+      "butter",
+      "sodium phosphate & polyphosphate (emulsifying salts)",
+      "cornstarch",
+      "whey powder. maasdam cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "water",
+      "butter",
+      "casein",
+      "disodium phosphate",
+      "sodium citrate",
+      "sorbic acid (preservative) and natural smoke."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Doulble Gloucester Cheese",
+    "marca": "Markets Of Meijer",
+    "ean": "0217120004126",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vegan Madagascan Vanilla Ice Cream",
+    "marca": "M&S Plant Kitchen",
+    "ean": "0217128127759",
+    "ingredientes": [
+      "Water",
+      "Sugar",
+      "Coconut Oil",
+      "Dextrose",
+      "_Soya Protein_ Isolate",
+      "Chicory Fibre",
+      "Glucose-Fructose Syrup",
+      "Dried Glucose",
+      "Flavourings",
+      "Madagascan Vanilla Extract",
+      "Emulsifier: E471",
+      "Stabiliser: Locust Bean Gum",
+      "Guar Gum",
+      "Salt",
+      "Madagascan Vanilla Pod",
+      "Colour: B E160b(ii)",
+      "Curcumin"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulsifier: E471",
+        "razon": "Contiene Emulsifier: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/712/812/7759/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Cottage Doubles Cheese, Raspberry",
+    "marca": "Breakstone's",
+    "ean": "02171304",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk",
+      "milk and cream",
+      "whey",
+      "contains less than 2% of modified food starch",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbate to preserve freshness",
+      "xanthan gum",
+      "guar gum",
+      "natural flavor",
+      "vitamin a palmitate",
+      "vitamin d3)",
+      "raspberry topping (water",
+      "raspberry puree",
+      "sugar",
+      "modified food starch",
+      "natural flavor",
+      "citric acid",
+      "purple carrot juice and grape juice [color])"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vincent, gouda cheese",
+    "marca": "Vincent",
+    "ean": "0217140007411",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "starter culture",
+      "rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lowfat Cottage Doubles Cheese & Mango Topping, Mango",
+    "marca": "Breakstone's",
+    "ean": "02171401",
+    "ingredientes": [
+      "Lowfat cottage cheese (cultured pasteurized grade a skim milk",
+      "milk and cream",
+      "whey",
+      "contains less than 2% of modified food starch",
+      "salt",
+      "calcium phosphate",
+      "potassium sorbate to preserve freshness",
+      "xanthan gum",
+      "guar gum",
+      "natural flavor",
+      "vitamin a palmitate",
+      "vitamin d3)",
+      "mango topping (water",
+      "mangos",
+      "sugar",
+      "mango puree concentrate",
+      "modified food starch",
+      "natural flavor",
+      "citric acid)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Markets of meijer, white stilton, ilchester white stiltion blueberry cheese",
+    "marca": "Markets Of Meijer",
+    "ean": "0217142711019",
+    "ingredientes": [
+      "White stilton (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "sweetened blueberries",
+      "cane sugar",
+      "sunflower oil)",
+      "fructose",
+      "natural flavoring"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Poulet rôti entier",
+    "marca": "Leader Price",
+    "ean": "0217155036277",
+    "ingredientes": [
+      "Poulet 84",
+      "soja",
+      "gluten",
+      "céleri",
+      "lait",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/715/503/6277/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet rôti entier",
+    "marca": "Leader Price",
+    "ean": "0217155040809",
+    "ingredientes": [
+      "Poulet 84.7%-eau - sel - sucre roux - sirop de glucose - protéines de pois - épaississant : carraghénanes-stabilisants : di et triphosphates. Traces de oeuf",
+      "soja",
+      "gluten",
+      "céleri",
+      "lait",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/715/504/0809/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "El mexicano, queso cotija aged part skim milk cheese",
+    "marca": "El Mexicano",
+    "ean": "0217163605267",
+    "ingredientes": [
+      "Cultured pasteurized grade a milk",
+      "salt and enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "El mexicano, queso cotija cheese",
+    "marca": "El Mexicano",
+    "ean": "0217163806015",
+    "ingredientes": [
+      "Cultured pasteurized grade a milk",
+      "salt and enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "El mexicano, queso casero whole milk fresh cheese",
+    "marca": "El Mexicano,  Marquez Brothers International  Inc.",
+    "ean": "0217164604689",
+    "ingredientes": [
+      "Pasteurized grade a milk",
+      "salt and enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Freshly Baked Raspberry Turnovers",
+    "marca": "Stop & Shop",
+    "ean": "0217210003497",
+    "ingredientes": [
+      "ENRICHED FLOUR (WHEAT FLOUR",
+      "NIACIN REDUCED IRON",
+      "ASCORBIC ACID ADDED AS A DOUGH CONDITIONER",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "ENZYME",
+      "FOLIC ACID)",
+      "WATER",
+      "MARGARINE (MODIFIED PALM AND PALM OIL",
+      "WATER",
+      "CANOLA OIL",
+      "SUGAR",
+      "CANOLA AND OR SOY LECITHIN",
+      "VINEGAR",
+      "NATURAL FLAVOR",
+      "ANNATTO COLOR",
+      "VITAMIN A PALMITATE",
+      "VITAMIN D3)",
+      "SUGAR",
+      "RASPBERRY",
+      "MODIFIED CORN STARCH",
+      "SALT",
+      "CELLULOSE GUM",
+      "SODIUM CITRATE",
+      "FLAVOUR NATURAL",
+      "CITRIC ACID",
+      "ELDERBERRY JUICE CONCENTRATED",
+      "CULTURED DEXTROSE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/000/3497/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Escalope milanaise nature",
+    "marca": "Le Gaulois",
+    "ean": "0217217015554",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mise en œuvre) : Escalope de dinde origine france : 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "acidifiants : acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/701/5554/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises chapelure nature",
+    "marca": "Le Gaulois",
+    "ean": "0217217018630",
+    "ingredientes": [
+      "Escalope de dinde origine France: 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants: acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/701/8630/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes",
+    "marca": "Le Gaulois",
+    "ean": "0217217020206",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mise en œuvre): Escalope de dinde origine France: 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices acidifiants: acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/0206/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les Milanaises (Chapelure Nature)",
+    "marca": "Le Gaulois",
+    "ean": "0217217021654",
+    "ingredientes": [
+      "Escalope de dinde origine France : 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants : acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217021715",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mise en œuvre): Escalope de dinde origine France : 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants : acétate de sodium",
+      "lactate de calcium. Traces possibles de lait."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/1715/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217022569",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mise en œuvre) : Escalope de dinde originefrance : 88%",
+      "khapelUfe de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau-",
+      "sel",
+      "extraits d'épices ac(dlfiants acétate de sodium",
+      "lactate dg çalclum. Conditionné sous atmosphère protectflce",
+      "A savourer cuit à cœur. A conserver entre OCC et +40Q A consomme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/2569/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217022897",
+    "ingredientes": [
+      "Escalope de dinde origine France: 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants: acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/2897/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217023351",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mtse en œuvre) : Escalope de dinde orlglnqfrance : 88%/1hapelui@de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eàU",
+      "sel",
+      "extraits d'épices",
+      "acidifiants s",
+      "acétate de sodium",
+      "lactate de calcium. Conditlonné sous atmosphère pÌoteCtrtces A savourer cuit A conserver entre OOC et +40C."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/3351/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les Milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217023610",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise",
+      "Ingrédients (à la mise en Œuvre) : Escalope de dinde origine:france : 0%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/3610/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises chapelure nature",
+    "marca": "Le Gaulois",
+    "ean": "0217217024013",
+    "ingredientes": [
+      "ts :slcges de dinde marin à la milanaise. lnyédients (à la mise en œuvre) : escalope de dinde origine fiance de blé de acidifiants : acétate de sodium",
+      "lactate de calcium",
+      "Conditi sous atmosphère protectrice e A rapidement òPfès ouverture."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/4013/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes milanaise",
+    "marca": "Le Gaulois",
+    "ean": "0217217024204",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mise en œuvre) : Escalope de dinde origine France : 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extrait d'épices",
+      "acidifiants : acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/4204/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les Milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217025522",
+    "ingredientes": [
+      "Escalopes de dinde origine France : 88%",
+      "chapelure de blé : 8%(farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants : acétate de sodium",
+      "lactate de calcium. Traces possibles de lait et d'œufs. Conditionné sous atmosphère protectrice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/5522/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217025980",
+    "ingredientes": [
+      "Escalope de dinde origine France : 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants : acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/5980/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les Milanaises Chapelure Nature",
+    "marca": "Le Gaulois",
+    "ean": "0217217027557",
+    "ingredientes": [
+      "Escalopes de dinde marinées à ta milanaise. lnyédlents (à la mise en œuvre) : Escalope de dinde origine fiance : 88%",
+      "chapelure dé blé (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits $épices. acidifiants : acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/7557/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les milanaises",
+    "marca": "Le Gaulois",
+    "ean": "0217217027816",
+    "ingredientes": [
+      "Escalopes de dinde marinées à la milanaise. Ingrédients (à la mise en euvre) : Escalope de dinde origine France: 88%",
+      "chapelure de blé : 8% (farine de blé",
+      "levure",
+      "sel)",
+      "eau",
+      "sel",
+      "extraits d'épices",
+      "acidifiants acétate de sodium",
+      "lactate de calcium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/721/702/7816/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

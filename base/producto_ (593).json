@@ -1,0 +1,1359 @@
+[
+  {
+    "nombre": "Pavé",
+    "marca": "Intermarché, La Campanière",
+    "ean": "0260083018372",
+    "ingredientes": [
+      "Farine de BLE",
+      "eau",
+      "levain de BLE",
+      "farine de SEIGLE",
+      "sel",
+      "levure",
+      "GLUTEN de BLE malté."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/301/8372/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain maïs tournesol",
+    "marca": "Intermarché",
+    "ean": "0260084010177",
+    "ingredientes": [
+      "Farine de BLE",
+      "eau",
+      "graines de tournesol",
+      "mais souffle",
+      "Farine de mais",
+      "levure",
+      "sel",
+      "gluten de BLE",
+      "émulsifiant :e472e",
+      "extrait de curcuma Farine BLE malte",
+      "agent de traitement de la Farine : acide ascorbique"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant :e472e",
+        "razon": "Contiene émulsifiant :e472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/401/0177/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette",
+    "marca": "intermarche",
+    "ean": "0260087006566",
+    "ingredientes": [
+      "Farine de blé(FRANCE)Seau",
+      "levaint (eau",
+      "farines de blé et de salt de blét",
+      "vinaigret",
+      "sel. amidon de blésel",
+      "levure",
+      "améliorant (améliorant (gluten de blét",
+      "farine de blét",
+      "extrait sec d acérolatmalt de blet) issus de I agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/700/6566/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette bio",
+    "marca": "Intermarché",
+    "ean": "0260087007228",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "sel",
+      "levure",
+      "levain de seigle désactive",
+      "poudre d'acérola"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/700/7228/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette bio",
+    "marca": "Intermarché, La Campanière",
+    "ean": "0260087007549",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "sel",
+      "levure",
+      "levain de seigle désactivé",
+      "poudre d'acérolo *Issu de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/700/7549/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain complet",
+    "marca": "Intermarché",
+    "ean": "0260087013847",
+    "ingredientes": [
+      "Farine de BLÉ (GLUTEN)",
+      "farine de BLÉ maltée",
+      "levure désactivée",
+      "agent de traitement de la farine : E300",
+      "enzymes",
+      "eau",
+      "farine de blé",
+      "E471",
+      "levure",
+      "levain",
+      "levure",
+      "farine de maïs toasté."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E471",
+        "razon": "Contiene E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/701/3847/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain de campagne bio",
+    "marca": "Intermarché",
+    "ean": "0260088010821",
+    "ingredientes": [
+      "Farine de blé (France)* (49%)",
+      "eau",
+      "farine de seigle* (UE)",
+      "levain* (eau",
+      "farines de blé* et de malt de blé*",
+      "vinaigre*",
+      "sel",
+      "amidon de blé*)",
+      "sel",
+      "levure",
+      "améliorant (gluten de blé*",
+      "farine de blé*",
+      "extrait sec d'acérola*",
+      "malt de blé*).  *Issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/801/0821/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain de campagne bio",
+    "marca": "La Campanière",
+    "ean": "0260088011156",
+    "ingredientes": [
+      "Farine de blé (France)* (49%)",
+      "eau",
+      "farine de seigle (UE)*",
+      "levain* (eau",
+      "farines de blé* et de malt de blé*",
+      "vinaigre*",
+      "sel",
+      "amidon de blé*)",
+      "sel",
+      "levure",
+      "améliorant (gluten de blé",
+      "farine de blé*",
+      "extrait sec d'acérola*",
+      "malt de blé*). Issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/801/1156/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain de campagne",
+    "marca": "La Fournée Campanière",
+    "ean": "0260088012405",
+    "ingredientes": [
+      "Farine de blé (France)* (49%)",
+      "eau",
+      "farine de seigle (UE)*",
+      "levain* (eau",
+      "farines de blé* et de malt de blé*",
+      "vinaigre*",
+      "sel",
+      "amidon de blé*)",
+      "sel levure",
+      "améliorant (gluten de blé farine de blé*",
+      "extrait sec d'acérola*",
+      "malt de blé*). * Issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/008/801/2405/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Smoked Turkey Necks",
+    "marca": "Northgate Market",
+    "ean": "0260092604757",
+    "ingredientes": [
+      "Smoked turkey necks"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pavé multicéréales",
+    "marca": "La Campanière",
+    "ean": "0260094000007",
+    "ingredientes": [
+      "Farine de blé (52",
+      "eau",
+      "graines (6",
+      "lin jaune",
+      "tournesol",
+      "pavot)",
+      "flocons de céréales (1",
+      "avoine",
+      "orge",
+      "seigle)",
+      "farine d'orge malte torréfié",
+      "gluten de blé",
+      "sel",
+      "farine de seigle",
+      "levain de blé dévitalisé",
+      "levure",
+      "farine de blé malté Certains ingrédients ne sont pas français."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/400/0007/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain pavé multicéréales tranche",
+    "marca": "Intermarché",
+    "ean": "0260094011485",
+    "ingredientes": [
+      "Farine de blé (UE) 52.604",
+      "Cau",
+      "graines (UE/non UE) 6",
+      "lin jaune",
+      "tournesol. pavot)",
+      "flocons de céréales (UE) 2406 (blé malté",
+      "avoine",
+      "orge",
+      "seigle)",
+      "sel",
+      "gluten de blé",
+      "farine d'orge malté torréfié",
+      "levain de blé dévitalisé. farine de seigle",
+      "blé malté."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/401/1485/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain pavé multicéréales campanière",
+    "marca": "La Campanière",
+    "ean": "0260094011744",
+    "ingredientes": [
+      "Farine de blé (52",
+      "eau",
+      "graines (6",
+      "lin jaune",
+      "tournesol",
+      "pavot)",
+      "flocons de céréales (1",
+      "avoine",
+      "orge",
+      "seigle)",
+      "farine d'orge malté torréfié",
+      "gluten de blé",
+      "sel",
+      "farine de seigle",
+      "levain de blé dévitalisé",
+      "levure",
+      "farine de blé malté."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/401/1744/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pavé multicereales",
+    "marca": "Intermarché",
+    "ean": "0260094011812",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "graines (lin brun",
+      "lin jaune",
+      "tournesol",
+      "pavot). Flocons de céréales",
+      "sel",
+      "gluten de blé",
+      "farine d’orge malté torréfié",
+      "levain de blé dévitalisée",
+      "farine de seigle",
+      "levure et farine de blé malté"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/401/1812/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pave multicereales campaniere",
+    "marca": "Intermarché",
+    "ean": "0260094012147",
+    "ingredientes": [
+      "&quot",
+      "ULTICERERLES Poids net 400 gr de BLE (51%)",
+      "mu",
+      "graines (6",
+      "lin pavot)",
+      "farine de SEIGIË",
+      "(BLE malté",
+      "AVOINE",
+      "ORGE",
+      "SEIGLE)",
+      "fari1Ed'ORGE malté",
+      "iwain de BLE désilaülis4 fari1E de BLE allergènes : SESAME",
+      "FRUITS a Emballe le"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/401/2147/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pavé Multicéréales",
+    "marca": "Intermarché, La Campanière",
+    "ean": "0260094012468",
+    "ingredientes": [
+      "Fzine de (51*)",
+      "eaJ",
+      "(lin brun",
+      "lin aalte",
+      "jarE",
+      "pa.tat)",
+      "sel",
+      "glutxt fl-E",
+      "ftirE aalte' Iwain de ff-E fziœ aalte de fruits a"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/401/2468/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pavé Multicéréales",
+    "marca": "Intermarché, La Campanière",
+    "ean": "0260094014431",
+    "ingredientes": [
+      "Farine de blé (52",
+      "eau",
+      "graines (6",
+      "lin jane",
+      "tournesol",
+      "pavot)",
+      "flocons de M céréales1",
+      "avoine",
+      "orge",
+      "seigle)",
+      "aine d'orge malté torréfié",
+      "gluten de blé",
+      "sel",
+      "farine de seigle",
+      "levain de blé dévitalisé",
+      "levure",
+      "farine de blé malté. Certains ingrédients ne sont pas français."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/401/4431/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pains aux 2 lins",
+    "marca": "La Campanière",
+    "ean": "0260099009388",
+    "ingredientes": [
+      "Farine de _BLE_ (43%)",
+      "eau",
+      "graines de lin brun (5-6%). graines de lin jaune (4.5%)",
+      "farine de lin extrude (3.5%) (farine de _ BLE_. graines de lin brun)",
+      "son de _BLE_",
+      "sel",
+      "levure",
+      "graines de millet (0",
+      "_gluten de BLE_     ."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/900/9388/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain aux 2 lins",
+    "marca": "La Campanière",
+    "ean": "0260099009845",
+    "ingredientes": [
+      "Farine de blé 43%",
+      "eau",
+      "graines de lin brun 5",
+      "graines de lin jaune 4",
+      "farine de lin extrudé 3",
+      "graines de lin brun 1",
+      "son de blé",
+      "sel",
+      "levure",
+      "graines de millet 0",
+      "gluten de blé."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/900/9845/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain aux 2 lins",
+    "marca": "La Fournée Campanière",
+    "ean": "0260099010506",
+    "ingredientes": [
+      "Farine de BLE (4Y0) eau",
+      "graines de lin brun graines de lin jacine (451 fame de [ln extrude (35%) (farine de BLE",
+      "graines de lin brun) son de BLE",
+      "sel",
+      "levure",
+      "graines de millet (Q6%) diten de BIERiche en omega 30rge",
+      "avoine",
+      "seigle",
+      "sesame",
+      "fruits a coques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/901/0506/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain aux 2 lins",
+    "marca": "Bleu Blanc Coeur",
+    "ean": "0260099011480",
+    "ingredientes": [
+      "Farine de blé CRC (43%)",
+      "eau",
+      "graines de lin brun (5",
+      "graines de lin  jaune (3",
+      "farine de lin extrudé (4%) (farine de blé",
+      "graines de lin brun 1",
+      "son de blé",
+      "sel",
+      "levure",
+      "graines de millet (0",
+      "gluten de blé."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/901/1480/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain aux 2 lins",
+    "marca": "Bleu Blanc Coeur",
+    "ean": "0260099012791",
+    "ingredientes": [
+      "Farine de _blé_ CRC Fine (43 %)",
+      "eau graines de lin brun (5",
+      "graines de lin jaune (3",
+      "farine de lin extrudé (4 %) (farine de _blé_",
+      "graines de lin brun 1",
+      "son de _blé_",
+      "sel",
+      "levure",
+      "graines de millet (0.4 %)",
+      "gluten de _blé_."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/009/901/2791/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chausson à la compote de pommes",
+    "marca": "Netto",
+    "ean": "0260131012796",
+    "ingredientes": [
+      "Pate 68%: Farine de BLE",
+      "beurre  37%",
+      "eau",
+      "sel",
+      "Sucre. 1evure desactivee. Compote de pommes 31% puree de pomme concentree",
+      "sirop de glucose Fructose de ble. Dorure 17:0EUFS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/013/101/2796/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pains au chocolat pur beurre",
+    "marca": "Intermarché",
+    "ean": "0260131022962",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "beurre 19",
+      "chocolat 10% (sucre",
+      "pâte de cacao",
+      "beurre de cacao",
+      "beurre de cacao",
+      "émulsifiant: lécithine de tournesol",
+      "arôme vanille)",
+      "sucre",
+      "levure",
+      "sel",
+      "œufs",
+      "gluten de blé",
+      "émulsifiants: E471-E472",
+      "agent de traitement de la farine : acide ascorbique",
+      "colorant E160",
+      "poudre de crème (Lait)",
+      "levain désactivé d'épeautre",
+      "farine de blé maltais",
+      "malt d'orge doré à l'œuf."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants: E471-E472",
+        "razon": "Contiene émulsifiants: E471-E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/013/102/2962/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "pain au chocolat pur beurre",
+    "marca": "intermarché",
+    "ean": "0260131023617",
+    "ingredientes": [
+      "Farine de BLE eau beurre (LAIT) 19"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/013/102/3617/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Croissant Pur Beurre X5",
+    "marca": "Netto",
+    "ean": "0260138011488",
+    "ingredientes": [
+      "Farine de _blé_",
+      "eau",
+      "_beurre_ 23%",
+      "sucre",
+      "levure",
+      "_gluten_ de blé",
+      "sel",
+      "émulsifiant E471",
+      "antioxygène E300. Doré à l'_œuf_."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant E471",
+        "razon": "Contiene émulsifiant E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/013/801/1488/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 croissants pur beurre",
+    "marca": "sans marque",
+    "ean": "0260140016402",
+    "ingredientes": [
+      "Farine de BLÉ",
+      "beurre (LAIT) AOP Charentes-Poitou 25%",
+      "eau",
+      "sucre",
+      "levure",
+      "gluten de BLÉ",
+      "sel",
+      "OEUFS",
+      "poudre de crème (LAIT)",
+      "levain désactivé d'ÉPEAUTRE",
+      "farine d'ORGE maltée",
+      "Malt d'ORGE",
+      "agent de traitement de la farine : acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/014/001/6402/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Croissants pur beurre",
+    "marca": "Intermarché, La Fournée Campanière",
+    "ean": "0260140016730",
+    "ingredientes": [
+      "Farine de BLE",
+      "beurre (Charente-Poitou) 25%",
+      "eau",
+      "sucre",
+      "levure",
+      "gluten de BLE",
+      "sel",
+      "OEUFS",
+      "poudre de crème",
+      "Levain désactivé d'EPEAUTRE",
+      "farine de BLE malté",
+      "Malt d'ORGE",
+      "émulsifiant : E471",
+      "agent de traitement de la farine : acide ascorbique. Traces éventuelles de fruits à coque",
+      "sésame et autres céréales."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471",
+        "razon": "Contiene émulsifiant : E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/014/001/6730/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "pains au chocolat ordinaires",
+    "marca": "intermarché",
+    "ean": "0260143019684",
+    "ingredientes": [
+      "farine de blé",
+      "eau",
+      "matière grasse végétale 20",
+      "(huiles et graisses végétales : palme colza",
+      "eau",
+      "sel",
+      "émulsifiant E 471",
+      "correcteur d'acidité :  E 330",
+      "colorant E 180a)",
+      "chocolat 9% (sucre",
+      "pâte de cacao",
+      "beurre de cacao",
+      "émulsifiant : lécithine de tournesol",
+      "arôme vanille )",
+      "sucre",
+      "levure",
+      "gluten de blé",
+      "sel",
+      "oeufs",
+      "agent de traitement de la farine E 300",
+      "doré à l'oeuf."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/014/301/9684/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain au Chocolat Pur beurre (x5)",
+    "marca": "Netto",
+    "ean": "0260144011489",
+    "ingredientes": [
+      "Farine de _blé_",
+      "eau",
+      "_beurre_ 20",
+      "chocolat 10 % (sucre",
+      "pâte de cacao",
+      "beurre de cacao",
+      "émulsifiant : E322",
+      "arôme vanille)",
+      "sucre",
+      "levure",
+      "_gluten de blé_",
+      "sel",
+      "émulsifiant : E471",
+      "antioxygène : E300. Doré à l’_œuf_."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471",
+        "razon": "Contiene émulsifiant : E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/014/401/1489/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette de campagne",
+    "marca": "Intermarché",
+    "ean": "0260150006233",
+    "ingredientes": [
+      "Farine de blé",
+      "eau",
+      "levure",
+      "sel",
+      "gluten de blé",
+      "antioxygène : acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/015/000/6233/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Suisse pépites de chocolat x2",
+    "marca": "Intermarché",
+    "ean": "0260163011484",
+    "ingredientes": [
+      "Farine de _blé_",
+      "beurre 11",
+      "pépites de chocolat 11",
+      "pâte de cacao",
+      "beurre de cacao",
+      "émulsifiant : lécithine de tournesol",
+      "arôme vanille)",
+      "crème (sucre",
+      "amidon modifié de pomme de terre",
+      "_lactosérum_",
+      "poudre de _crème_",
+      "poudre de _lait_ écrémé",
+      "protéines de _lait_",
+      "poudre de blanc d'_œuf_",
+      "épaississant : E401",
+      "arômes",
+      "colorant : bêta-carotène)",
+      "eau",
+      "sucre",
+      "levure",
+      "sel",
+      "gluten de _blé_",
+      "poudre de _crème_",
+      "protéines de _blé_ hydrolysées",
+      "agent de traitement de la farine : acide ascorbique",
+      "émulsifiants (E471",
+      "E472)",
+      "colorant : E160a(ii)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants (E471",
+        "razon": "Contiene émulsifiants (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472)",
+        "razon": "Contiene E472), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/016/301/1484/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignet fourré a la framboise",
+    "marca": "Intermarché",
+    "ean": "0260179019351",
+    "ingredientes": [
+      "Farine de blé (gluten) - Eau - œufs - Sucre - Purée de framboise - Huiles végétales (tournesol",
+      "colza) - Levure - Jaunes d'œufs - Glycérine - Sel - Emulsifiants : E471",
+      "E472 - Gluten de blé - Amidon transformé de maïs - Gélifiant : pectines - Jus concentré de fruits rouges - Correcteur d'acidité : acide citrique - Conservateur : sorbate de potassium - Colorant : caroténoïdes - Arômes. Contient : gluten",
+      "œufs. Ce produit a pu être en contact avec : arachides",
+      "lait",
+      "fruits à coque",
+      "soja"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colza) - Levure - Jaunes d'œufs - Glycérine - Sel - Emulsifiants : E471",
+        "razon": "Contiene colza) - Levure - Jaunes d'œufs - Glycérine - Sel - Emulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472 - Gluten de blé - Amidon transformé de maïs - Gélifiant : pectines - Jus concentré de fruits rouges - Correcteur d'acidité : acide citrique - Conservateur : sorbate de potassium - Colorant : caroténoïdes - Arômes. Contient : gluten",
+        "razon": "Contiene E472 - Gluten de blé - Amidon transformé de maïs - Gélifiant : pectines - Jus concentré de fruits rouges - Correcteur d'acidité : acide citrique - Conservateur : sorbate de potassium - Colorant : caroténoïdes - Arômes. Contient : gluten, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/017/901/9351/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini Beignets assortis fourrés aux 3 chocolats",
+    "marca": "Les délices des 7 vallées",
+    "ean": "0260179025581",
+    "ingredientes": [
+      "Farine de BLE. huiles végétales (colza-palme durable (ségrégué RSPO))",
+      "eau. fourrage chocolat aux NOISETTES 8% (sucre. huile de colza. NOISETTES 13%. LAIT écréme en poudre. chocolat 9f (cacao maigre en poudre. pâte de cacao",
+      "sucre)",
+      "émulsifiant: lécithine de SOJA. arôme naturel de vanille)",
+      "fourrage au chocolat blanc 8% (sucre",
+      "huile de tournesol",
+      "LAIT entier en poudre. LACTOSERUM en poudre. LAIT ecreme en poudre",
+      "beurre de cacao. émulsifiant: lécithine de SOJA. arome naturel de vanille)",
+      "fourrage au chocolat 8% (chocolat en poudre 50% (sucre. poudre de cacao). huile de tournesol. cacao maigre en poudre 9.5%. LACTOSERUM en poudre. pâte de cacao. émutsifiant: lécithine de SOJA arome naturel de vanille). OEUFS. sucre. BEURRE",
+      "décor (dextrose",
+      "amidon de BLES graisse de palme). GLUTEN de BLE. levure. sel. émulsifiant: E471. colorant: E160a",
+      "antioxydant: E300. malt de BLE."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "amidon de BLES graisse de palme). GLUTEN de BLE. levure. sel. émulsifiant: E471. colorant: E160a",
+        "razon": "Contiene amidon de BLES graisse de palme). GLUTEN de BLE. levure. sel. émulsifiant: E471. colorant: E160a, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/017/902/5581/front_fr.13.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignets à l’abricot",
+    "marca": "Intermarché",
+    "ean": "0260181026248",
+    "ingredientes": [
+      "Farine de blé (gluten) - Eau - œufs - Sucre - Huiles végétales (tournesol",
+      "colza) - Purée d'abricot 7% - Levure - Jaunes d'œufs - Amidon transformé de maïs - Stabilisant : glycérol - Sel - Gluten de blé - Emulsifiants : E471",
+      "E472 - Correcteurs d'acidité : acide citrique",
+      "citrate trisodique - Colorants : caroténoïdes",
+      "rocou - Conservateur : sorbate de potassium - Arômes. Contient : gluten",
+      "œufs. Ce produit a pu être en contact avec : arachides",
+      "lait",
+      "fruits à coque",
+      "soja."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colza) - Purée d'abricot 7% - Levure - Jaunes d'œufs - Amidon transformé de maïs - Stabilisant : glycérol - Sel - Gluten de blé - Emulsifiants : E471",
+        "razon": "Contiene colza) - Purée d'abricot 7% - Levure - Jaunes d'œufs - Amidon transformé de maïs - Stabilisant : glycérol - Sel - Gluten de blé - Emulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472 - Correcteurs d'acidité : acide citrique",
+        "razon": "Contiene E472 - Correcteurs d'acidité : acide citrique, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/018/102/6248/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignet au chocolat",
+    "marca": "Intermarché",
+    "ean": "0260183013123",
+    "ingredientes": [
+      "Farine de blé (gluten) - Huiles végétales (colza",
+      "tournesol) - Sucre-CEufs-Eau - Cacao maigre en poudre 1",
+      "E472",
+      "lécithine de tourmesol-Sel-Glute de blé - Noisettes 0",
+      "œufs",
+      "fruits à coque",
+      "lait. Ce produit a pu être en contact avec : arachides",
+      "soja."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E472",
+        "razon": "Contiene E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/018/301/3123/front_fr.21.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignets a la pomme du Val de Loire",
+    "marca": "Casino",
+    "ean": "0260191009842",
+    "ingredientes": [
+      "Farine de blé (gluten) - Sucre - Purée 12% - œufs - Eau - Huiles végétales (tournesol",
+      "colza) Purée dBpom concentrée 3% - Levure - Jaunes sel - Gluten de blé - Emulsifiants : E471",
+      "E472 Jus concentv 'l Conservateur : sorbate de potassium : caroténoïdes. Contient : gluten",
+      "œufs. Ce produit a pu être en contact avec : tes",
+      "lait",
+      "fruits à",
+      "oque sojas"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colza) Purée dBpom concentrée 3% - Levure - Jaunes sel - Gluten de blé - Emulsifiants : E471",
+        "razon": "Contiene colza) Purée dBpom concentrée 3% - Levure - Jaunes sel - Gluten de blé - Emulsifiants : E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472 Jus concentv 'l Conservateur : sorbate de potassium : caroténoïdes. Contient : gluten",
+        "razon": "Contiene E472 Jus concentv 'l Conservateur : sorbate de potassium : caroténoïdes. Contient : gluten, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/019/100/9842/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gaufres de Bruxelles",
+    "marca": "Intermarché",
+    "ean": "0260192012797",
+    "ingredientes": [
+      "ŒUFS",
+      "farine de BLÉ",
+      "eau",
+      "huile de colza",
+      "LAIT",
+      "sucre",
+      "sel. Traces éventuelles : soja",
+      "noisette."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/019/201/2797/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 gauffres",
+    "marca": "Intermarché",
+    "ean": "0260192017051",
+    "ingredientes": [
+      "farine de BLÉ",
+      "eau",
+      "àilile de colza",
+      "LAIT",
+      "sucrepsel. s éventuelles : soja",
+      "'sette. lit décongelé",
+      "ne econgeler.",
+      "eil d'utilisatio",
+      ": Réchauffer au four ou au ir selon votre goût : sucre",
+      "chantili",
+      "chocÒlat"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/019/201/7051/front_fr.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gaufres de Bruxelles",
+    "marca": "Intermarché",
+    "ean": "0260192017914",
+    "ingredientes": [
+      "ŒUFS",
+      "farine de BLE",
+      "eau",
+      "huile de colza",
+      "LAIT",
+      "sucre",
+      "sel. Traces éventuelles : soja",
+      "noisette. Produit décongelé",
+      "ne pas recongeler."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/019/201/7914/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Demi-baguette",
+    "marca": "Leclerc",
+    "ean": "0260205008205",
+    "ingredientes": [
+      "farine de BLE T65 eau",
+      "seL",
+      "levure",
+      "E300* amylases. gluten."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/020/500/8205/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Donut",
+    "marca": "Intermarché",
+    "ean": "0260209019023",
+    "ingredientes": [
+      "Farine de BLE",
+      "eau",
+      "huiles et graisses vegetales (palme",
+      "colza",
+      "coco)",
+      "decor 5% (sucre",
+      "beurre de cacao",
+      "LAIT en poudre",
+      "pate de cacao",
+      "arome&gt",
+      "sucre",
+      "levure",
+      "emu1siFiants : E471-E472e-E4B1? gluten de BLE",
+      "cacao degraisse en poudre",
+      "LAIT en poudre",
+      "sel",
+      "poudres levantes dextrose de ble",
+      "stabilisant . gonne guar lactose",
+      "Jus de citron",
+      "arone. Traces eventuelles de noisettes"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emu1siFiants : E471-E472e-E4B1? gluten de BLE",
+        "razon": "Contiene emu1siFiants : E471-E472e-E4B1? gluten de BLE, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/020/901/9023/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Muffins",
+    "marca": "Les Délices des 7 Vallées",
+    "ean": "0260218019359",
+    "ingredientes": [
+      "Farine de BLE",
+      "sucre",
+      "huile de colza",
+      "eau",
+      "OEUFS",
+      "pépites de chocolat 9% (pâte de cacao",
+      "sucre",
+      "émulsifiant: lécithine de SOJA",
+      "beurre de cacao)",
+      "stabilisant: E422",
+      "amidon de BLE",
+      "LACTOSERUM",
+      "poudre à lever: E450i-E500ii",
+      "blanc d'OEUF en poudre",
+      "émulsifiants: E471-E481",
+      "amidon modifié",
+      "sel",
+      "arômes",
+      "stabilisant: E415",
+      "conservateur: E202. Présence éventuelle de fruits à coque et de graines de sésame."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "stabilisant: E422",
+        "razon": "Contiene stabilisant: E422, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiants: E471-E481",
+        "razon": "Contiene émulsifiants: E471-E481, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/021/801/9359/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Turkey and Cheddar sub",
+    "marca": "Marketside",
+    "ean": "0260262306009",
+    "ingredientes": [
+      "ROASTED TURKEY BREAST: TURKEY BREAST",
+      "TURKEY BROTH",
+      "VINEGAR",
+      "SALT",
+      "RICE STARCH",
+      "SODIUM PHOSPHATES",
+      "NATURAL FLAVOR",
+      "CARAMEL COLOR",
+      "WHEAT SUB: ENRICHED FLOUR (ENRICHED FLOUR [WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID]",
+      "MALTED BARLEY FLOUR",
+      "ASCORBIC ACID",
+      "AMYLASE)",
+      "WATER",
+      "GRAIN & SEEDBLEND  WHOLE WHEAT FLOUR",
+      "RYE FLAKES",
+      "CRACKED WHEAT",
+      "BARLEY FLAKES",
+      "SESAME",
+      "WHEAT BRAN",
+      "ROLLED OATS",
+      "MILLET",
+      "FLAXSEED)",
+      "WHOLE WHEAT FLOUR",
+      "BROWN SUGAR",
+      "SUGAR",
+      "VITAL WHEAT GLUTEN",
+      "WHEAT BRAN",
+      "ASCORBIC ACID",
+      "CALCIUM PROPRIONATE",
+      "CARAMEL COLOR",
+      "CALCIUM SULFATE",
+      "WHEAT STARCH",
+      "ENZYME",
+      "HONEY",
+      "SUGAR",
+      "SALT",
+      "SOY OIL",
+      "WHEAT GLUTEN",
+      "YEAST",
+      "MOLASSES",
+      "DEXTROSE",
+      "GUAR GUM",
+      "MONO - AND DIGLYCERIDES",
+      "DEXTRIN",
+      "BLEACHED WHEAT FLOUR.  SLICED CHEDDARCHEESE: CULTURED MILK",
+      "SALT",
+      "ENZYMES",
+      "ANNATTOEXTRACT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/026/230/6009/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Czech Republic"
+  },
+  {
+    "nombre": "Part de flan",
+    "marca": "Leclerc",
+    "ean": "0260270022960",
+    "ingredientes": [
+      "LAIT écrémé",
+      "sucre",
+      "beurre 6%",
+      "ŒUFS frais",
+      "semoule de blé dur",
+      "amidons modifies",
+      "eau",
+      "farine de blé",
+      "amidon",
+      "arôme vanille",
+      "sel",
+      "colorants : E160a",
+      "E100."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "FLAN X 2  DECONGELE",
+    "marca": "Intermarché",
+    "ean": "0260274017054",
+    "ingredientes": [
+      "LAIT écrémé (origine France)",
+      "sucre",
+      "BEURRE",
+      "OEUFS",
+      "amidons modifiés",
+      "semoule de BLE dur",
+      "eau",
+      "farine de BLE",
+      "arôme vanille",
+      "sel",
+      "colorants: E160a",
+      "E100."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/027/401/7054/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Flan patissier pur beurre",
+    "marca": "Intermarché, La Fournée Campanière",
+    "ean": "0260299017718",
+    "ingredientes": [
+      "Lait écrémé 64",
+      "sucre",
+      "beurre (dont lait) 8",
+      "œufs 5%",
+      "semoule de blé dur",
+      "amidons modifiés de maïs",
+      "eau",
+      "farine de blé 2",
+      "sel",
+      "colorant : caroténoïdes mélangés",
+      "arôme naturel vanille. Traces éventuelles de soja",
+      "de fruits à coque et d'orge. INFORMATIONS :"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/029/901/7718/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mini tropezienne",
+    "marca": "Leclerc",
+    "ean": "0260314022963",
+    "ingredientes": [
+      "IAcrÔsERUM et Cithln€: SOJAlù sirop de glucose",
+      "atonie {l Ai tl (f UFI. érvtuF'itianti &quot",
+      "['élffiant: 152% - pattftc)$ nappage (eau",
+      "sirop (te e?uccse de ELE - sucre. eehfiant: E44()",
+      "acidifiant: [330)",
+      "(YUFS",
+      "BEURRE. émurjfiarjt: E471",
+      "colorant: E 1601)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "BEURRE. émurjfiarjt: E471",
+        "razon": "Contiene BEURRE. émurjfiarjt: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/031/402/2963/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte normande aux poires",
+    "marca": "Intermarché",
+    "ean": "0260315038703",
+    "ingredientes": [
+      "Poires au sirop 36",
+      "eau",
+      "sirop de glucose-fructose",
+      "sucre",
+      "acidifiant : E330)",
+      "sucre",
+      "OEUFS frais*",
+      "farine de BLE",
+      "CREME fraiche 11",
+      "BEURRE",
+      "eau",
+      "sirop de glucose",
+      "farine de riz",
+      "sucre glace (sucre",
+      "amidon de pomme de terre)",
+      "gélifiant E440",
+      "sel",
+      "acidifiant : E330",
+      "farine de BLE malté torréfié."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/031/503/8703/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Power gain",
+    "marca": "omnilife",
+    "ean": "02603201",
+    "ingredientes": [
+      "Maltodextrina",
+      "Arginina",
+      "Citrato Dihidrogenado de Colina",
+      "Ácido Málico",
+      "Ácido Ascorbico",
+      "Acetato de Alfa-Tocoferol",
+      "Ácido Citrico",
+      "Taurina",
+      "Sabor Identico al Natural",
+      "Glicina",
+      "Ácido Fumárico",
+      "Fosfato Tricalcico",
+      "Carbonato de Calcio",
+      "Dioxido de Silicio",
+      "Betacaroteno",
+      "Pantotenato de Calcio",
+      "Gluconato de Zinc",
+      "Borato de Sodio",
+      "Polinicotinato de Cromo",
+      "Sucralosa",
+      "Gluconato de Cobre",
+      "Saborizante Natural",
+      "Glicósidos de Esteviol."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/260/3201/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Atlantic Salmon",
+    "marca": "Santa Monica Seafood",
+    "ean": "0260325010553",
+    "ingredientes": [
+      "ATLANTIC SALMON (Salmo salar) (COLOR ADDED THROUGH FEED). CONTAINS: FISH (ATLANTIC SALMON)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/032/501/0553/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Steelhead Trout",
+    "marca": "Responsibly Farm Raised",
+    "ean": "0260327926609",
+    "ingredientes": [
+      "STEELHEAD TROUT (ONCORHYCHUS MYKISS) (COLOR ADDED THROUGH FEED). CONTAINS: STEELHEAD TROUT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/032/792/6609/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flan pâtissier pur beurre",
+    "marca": "Intermarché, La Campanière",
+    "ean": "0260335016392",
+    "ingredientes": [
+      "Lait écrémé",
+      "sucre",
+      "beurre",
+      "poudre à flan (amidon modifié",
+      "amidon",
+      "arome",
+      "colorants : E102",
+      "E124)",
+      "farine de blé",
+      "œufs",
+      "eau",
+      "arome vanille",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/033/501/6392/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Amande grillées crues",
+    "marca": "Auchan",
+    "ean": "0260343012799",
+    "ingredientes": [
+      "AMANDES GRILLÉES CRUES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/034/301/2799/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte citron meringue",
+    "marca": "La Fournée Campanière",
+    "ean": "0260347053798",
+    "ingredientes": [
+      "Sucre",
+      "farine de blé",
+      "beurre 13% crème (dont LAIT)",
+      "ferments lactiques",
+      "colorant: E160a)",
+      "jus de citron reconstitué 13% (à base de jus concentre). ŒUFS entiers",
+      "blanc d'œufs 8%",
+      "amidon modifie de mais armidon de pomme de terre",
+      "épaississant: E415",
+      "acidifiant: Eso. Traces éventuelles de soja et d'amandes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/034/705/3798/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

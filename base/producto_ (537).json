@@ -1,0 +1,638 @@
+[
+  {
+    "nombre": "Pains au chocolat",
+    "marca": "E. Leclerc",
+    "ean": "0207557019688",
+    "ingredientes": [
+      "Farine de _BLE_",
+      "eau",
+      "matière grasse composée (huiles et graisses végétales non hydrogénées de palme et de coprah",
+      "eau",
+      "_BEURRE_ concentré",
+      "émulsifiant (E)",
+      "sel",
+      "correcteur d'acidité (E330)",
+      "colorant 'caroténoïdes d'origine naturelle)",
+      "arôme naturel (_LAIT_)",
+      "chocolat 10% (sucre",
+      "lasse de cacao",
+      "beurre de cacao",
+      "émulsifiant (E322 (_SOJA_))",
+      "sucre",
+      "_GLUTEN_ de _BLE_",
+      "levure",
+      "sel",
+      "_OEUF_ 0.7%",
+      "arôme naturel (_LAIT_)",
+      "agent de traitement de la farine (E300)",
+      "enzyme",
+      "dorure: _OEUF_ Trace de _FRUIT A COQUE_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/755/701/9688/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "chipolatas",
+    "marca": "Carrefour",
+    "ean": "0207580019099",
+    "ingredientes": [
+      "porc boyaux sel sirop de glucose acidifiant e 262 saccharose jus concentré de légumes et de fruits épices anti-oxydant e316 arômes naturels"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/758/001/9099/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sticks fromage",
+    "marca": "Céréal bio",
+    "ean": "0207587029527",
+    "ingredientes": [
+      "Tofu* 67",
+      "_soja_*",
+      "agents de coagulation : sulfate de calcium",
+      "nigari)",
+      "pommes de terre*",
+      "farine de _blé_*",
+      "huile de tournesol oléique*",
+      "_mozzarella_* (sans présure animale) 5",
+      "_emmental_* (sans présure animale) 5",
+      "flocons d'_avoine_ complète*",
+      "gluten de _blé_*",
+      "sel de mer",
+      "fécule de pomme de terre*",
+      "poivre*.  *Ingrédients issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/758/702/9527/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte Pêche Crème Amande",
+    "marca": "Leclerc",
+    "ean": "0207598052415",
+    "ingredientes": [
+      "Tarte pêches crème AMANDE (tarte pêches crème AMANDE",
+      "eau",
+      "sirop de glucose-fructose",
+      "sucre",
+      "arôme",
+      "caroténoïdes",
+      "carraghénanes",
+      "pectines",
+      "acide citrique",
+      "phosphates de potassium",
+      "citrates de calcium)",
+      "nappage abricot (eau",
+      "sirop de glucose-fructose",
+      "sucre",
+      "arôme",
+      "colorant : caroténoïdes",
+      "stabilisant : carraghénanes",
+      "épaississant : pectines",
+      "antioxydant : acide citrique",
+      "correcteur d'acidité : phosphates de potassium",
+      "citrates de calcium)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/759/805/2415/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte pommes/cassis",
+    "marca": "Leclerc",
+    "ean": "0207617047880",
+    "ingredientes": [
+      "TARTE POMMES CASSIS. tarta pomme cassis (pomme FARINE DE BLÉ HALTÉE",
+      "CONCENTRÉ",
+      "OEUFS FRAIS",
+      "eau",
+      "LAIT ENTIER POUDRE RECONSTITUÉ",
+      "amidon de FIBRE BLÉ",
+      "arâmg naturai de vanille",
+      "colo ant . caroténoïdes",
+      ". acide citrique",
+      "sacida agcorbiqua)",
+      "antioxydant nappaga abricot (eau",
+      "sirop dc glucoce-fructoge",
+      ". caroténoïdag",
+      "stabilisant .",
+      "ucre",
+      "arôme",
+      "colorant carraghinanaa",
+      "pactinas",
+      "antioxydant acida citrique",
+      "correcteur d'acidité phosphatas de potacgium",
+      "citratac da calciunj."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/761/704/7880/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "rôti de porc cuit",
+    "marca": "Boucheries André",
+    "ean": "0207646027167",
+    "ingredientes": [
+      "longe de porc",
+      "eau",
+      "sel",
+      "dextrose",
+      "saccharose",
+      "ail",
+      "glutamate monosodique",
+      "arômes naturels",
+      "nitrite de sodium",
+      "disulfite de sodium",
+      "acide citrique",
+      "ascorbate de sodium",
+      "cosse de sorgho",
+      "annato",
+      "cacao"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/764/602/7167/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain aux 6 céréales",
+    "marca": "E.Leclerc",
+    "ean": "0207647008530",
+    "ingredientes": [
+      "Farine de BLE",
+      "graines 10% (tournesol",
+      "lin brun",
+      "lin jaune",
+      "sarrasin",
+      "millet",
+      "brisures de pois toastés",
+      "pavot)",
+      "sel",
+      "germe de de BLE",
+      "levain de BLE déshydraté dévitalisé",
+      "farine d'ORGE malté torréfiée",
+      "gluten de BLE",
+      "farine de BLE malté",
+      "enzyme (alpha-amylase et hémicellulases)",
+      "agent de traitement de la farine: E300"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/764/700/8530/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pizza Norvégienne",
+    "marca": "Leclerc",
+    "ean": "0207647042640",
+    "ingredientes": [
+      "FOND de tomat (farin de BLE tendre typ 0",
+      "puré detomat (28%) eau huile de tournesol",
+      "sel levurenaturel farin de BLE malté sucre origan",
+      "poivre. Fabriq dans une usine qui utilise produitlaitier et derivé",
+      "OEUFS) MOZZARELLA (50%de mozzafrancaise (LAIT de vache pasteurisé",
+      "sel",
+      "ferments LACTIQUES",
+      "Coagult",
+      "correct d acidité",
+      "acidecitriq) 50% de spécialité alimentaire (eau",
+      "huile de palme",
+      "amidon (E1420) protéine de LAIT",
+      "fromage au LAIT de vache pasteurisé",
+      "sels defonte (E331-E339-E452) sel",
+      "regulateur d acidité(E330) conserv (E202) colort (E160a (i)) anti-mottt: amidon de p de terre allergene: LAIT) SAUMON FUMEE (SAUMON atlantiq (97%) sel (3%) ) CREMEfraiche (CREME",
+      "fermts LACTIQUES)olive noire(sel",
+      "huile d olive",
+      "conserv E202",
+      "stabilist E579) ORIGAN (origan deshydraté trace de CELERI et deMOUTARDE) NE PAS RECONGELER"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/764/704/2640/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tortilla Receta Casera con Espinacas",
+    "marca": "Palacios",
+    "ean": "02076524",
+    "ingredientes": [
+      "Patata frita (48%) (patata y aceite de girasol)",
+      "HUEVO campero líquido pasteurizado (29%) (huevo y sal)",
+      "espínaca (12%)",
+      "cebolla frita (8%) (cebolla",
+      "aceite de oliva virgen y sal)",
+      "aceite de oliva virgen extra (2%)",
+      "aceite de oliva",
+      "conservador (diacetato sódico)",
+      "estabilizantes (carragenano",
+      "goma garrofin y goma xantana) y sal"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/207/6524/front_es.4.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Galette poire chocolat",
+    "marca": "Leclerc",
+    "ean": "0207656042648",
+    "ingredientes": [
+      "Galette poire chocolat (Pâte 59%: farine (BLÉ)",
+      "beurre (LAIT) (33%)",
+      "eau",
+      "sel. Garniture 40%: fourrage poire (53",
+      "sucre",
+      "eau",
+      "amidon modifié",
+      "arôme naturel de poire)",
+      "poudre de chocolat (24%) (sucre",
+      "pâte de cacao",
+      "poudre de cacao dégraissée",
+      "arômes)",
+      "sucre",
+      "beurre (LAIT) (4%)",
+      "OEUF",
+      "poudre d'AMANDES blanchies (3%)",
+      "farine (BLÉ)",
+      "amidon modifié",
+      "crème en poudre (LAIT)",
+      "LACTOSE (LAIT)",
+      "lactoprotéines (LAIT)",
+      "lactosérum en poudre (LAIT)",
+      "poudre à lever (E450",
+      "E341",
+      "E500)",
+      "poudre de LAIT écrémé",
+      "amidon (BLÉ)",
+      "colorant (extrait de carotte",
+      "curcumine)",
+      "stabilisant (E450",
+      "E516) épaississant ( E401)",
+      "arômes. Dorure 1%: OEUF.)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/765/604/2648/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit choix",
+    "marca": "André",
+    "ean": "0207661029191",
+    "ingredientes": [
+      "Jambon de porc (origine France)",
+      "eau",
+      "dextrose de blé",
+      "sirop de glucose",
+      "exhausteur de goût : glutamate",
+      "sel",
+      "conservateur : nitrite de sodium",
+      "stabilisant : phosphate de sodium",
+      "phosphate de potassium",
+      "lactose",
+      "antioxydant : érythorbate de sodium",
+      "arôme."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (origine France)",
+        "razon": "Contiene Jambon de porc (origine France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/766/102/9191/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit choix",
+    "marca": "Boucherie André",
+    "ean": "0207661031811",
+    "ingredientes": [
+      "jambon de porc (origine France)",
+      "eau",
+      "dextrose",
+      "sirop de glucose",
+      "sel",
+      "exhausteur de goût : glutamate monosodique",
+      "conservateur . nitrite de sodium",
+      "stabilisant : diphosphate",
+      "triphosphate",
+      "Lactose",
+      "antioxydant : érythorbate de sodium",
+      "arômes."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc (origine France)",
+        "razon": "Contiene jambon de porc (origine France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/766/103/1811/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit choix 10 tranches",
+    "marca": "Boucherie André",
+    "ean": "0207662059890",
+    "ingredientes": [
+      "jambon de porc (origine France)",
+      "eau",
+      "dextrose",
+      "sirop de glucose",
+      "sel",
+      "exhausteur de goût : glutamate monosodique",
+      "conservateur nitrite de sodium",
+      "stabilisant : diphosphate",
+      "triphosphate",
+      "Lactose",
+      "antioxydant : érythorbate de sodium",
+      "arômes."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc (origine France)",
+        "razon": "Contiene jambon de porc (origine France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emmental Français Est-Central Grand Cru",
+    "marca": "Casino",
+    "ean": "0207694014102",
+    "ingredientes": [
+      "Lait cru de vache (origine france) sel - ferments lactiques - présure animale."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/769/401/4102/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crepes",
+    "marca": "E.Leclerc",
+    "ean": "0207701017386",
+    "ingredientes": [
+      "LAIT demi-écremé",
+      "farine de BLE ( farine de BLE",
+      "gluten de BLE farine de BLE malté. agent de traitement de la farine. acide ascorkique. enzynes",
+      "alpha-amyl.ases. hémicellulases). OEUFS ( OEUFS entiers)",
+      "sucre",
+      "BEURRE (BEURRE 82% de mat i ères grasses)",
+      "sel (sel. anti agglomérant E535)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/770/101/7386/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pederson's, uncured smoked boneless ham",
+    "marca": "Pederson's",
+    "ean": "0207711546159",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "vinegar",
+      "brown sugar",
+      "salt",
+      "celery powder",
+      "natural flavorings",
+      "evaporated cane syrup",
+      "sea salt",
+      "sodium carbonate",
+      "lactic acid starter culture (not from milk)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tarte aux fraises",
+    "marca": "Bi1",
+    "ean": "0207727063633",
+    "ingredientes": [
+      "Fraise enrobée 33",
+      "amidon",
+      "fibres végétales)",
+      "LAIT écrémé",
+      "sucre",
+      "farine de BLE",
+      "BEURRE",
+      "OEUF",
+      "eau",
+      "amidon modifié",
+      "farine de riz",
+      "sirop de glucose",
+      "arôme vanille",
+      "arome naturel de fraise",
+      "gélifiant : E440",
+      "sel",
+      "amidon",
+      "farine de BLE malté torréfié",
+      "acidifiant : E330",
+      "colorants : E160b(ii)",
+      "E101a(ii)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/772/706/3633/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Semita de trigo",
+    "marca": "Semita de trigo",
+    "ean": "0207760003498",
+    "ingredientes": [
+      "Ingredients:lheat",
+      "Hater",
+      "Suga Contains: heat : Wheat(Wheat)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/776/000/3498/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bottereaux briochés",
+    "marca": "Boulangerie E. Leclerc",
+    "ean": "0207786018179",
+    "ingredientes": [
+      "B TEREAUX BRIOCHES pgredlents brtoches(Farine de BCE",
+      "de chicorée GLUTEN de BLE",
+      "farine de BLE",
+      "extva tanerctla)",
+      "sel",
+      "colorant El 60a Cuisson à Ilhuile de tournesolòFroduit décongele recongeler. produits laitiers"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/778/601/8179/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "5 Year, Gouda Cheese",
+    "marca": "Vintage,  Vintage 5 Year",
+    "ean": "0207798309241",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "cheese culture",
+      "animal rennet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "5 Year, Gouda",
+    "marca": "Vintage,  Vintage 5 Year",
+    "ean": "0207798408821",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "cheese culture",
+      "animal rennet",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Vintage 5 year, aged 5 years gouda cheese",
+    "marca": "Vintage,  Vintage 5 Year",
+    "ean": "0207798507357",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "cheese culture",
+      "animal rennet",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beecher's handmade cheese, extra aged handmade flagship cheese",
+    "marca": "Beecher's Handmade Cheese",
+    "ean": "0207829609661",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "culture",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Aged Flagship Cheese",
+    "marca": "Beecher's Handmade Cheese",
+    "ean": "0207829909433",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "culture",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "avena",
+    "marca": "Costa, Sabritas",
+    "ean": "02078319",
+    "ingredientes": [
+      "Producto Centroer OATS CO. en Ni S. A. Km. 5 1/2 Santarios: Guate Yor SDR N-11326 Nicaragua: 1/2 Salvedor: N-11320 Re S N-11320. UAKER N-11320",
+      "Casta FRice 2A422-7000",
+      "UDISA",
+      "E Salvador (Km 11.5 Edificio DISNA Comora Puerto La Libertad",
+      "Senta Tecla",
+      "La Libertad",
+      "San Salvador",
+      "E Salvador)",
+      "Tel.: (503) 2287-8222"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/207/8319/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "El Salvador"
+  },
+  {
+    "nombre": "Saucisse seche",
+    "marca": "Andre",
+    "ean": "0207846040089",
+    "ingredientes": [
+      "viande et gras de porc",
+      "sel",
+      "lactose",
+      "dextrose",
+      "épices ( sulfites)",
+      "conservateur : salpêtre",
+      "ferment",
+      "boyau naturel de porc",
+      "flore de couverture lyophilisée de type Penicillium nalgiovensis (support : dextrose de mais)",
+      "silicate de magnésium",
+      "carbonate de calcium",
+      "conservateur E202"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/784/604/0089/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Emincés de Porc aux olives",
+    "marca": "Boucheries André",
+    "ean": "0207859030244",
+    "ingredientes": [
+      "viande de porc (79%)",
+      "olives vertes",
+      "huile de tournesol",
+      "eau",
+      "sel",
+      "échalote",
+      "épices",
+      "acidifiants : E330",
+      "E270. antimoussant : E900"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/785/903/0244/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brie de Meaux 3/4 AOP AFF, courtenay",
+    "marca": "Fromagerie Renard Gillard, Leclerc",
+    "ean": "0207870027032",
+    "ingredientes": [
+      "Lait cru",
+      "sel",
+      "présure",
+      "ferments"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/787/002/7032/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

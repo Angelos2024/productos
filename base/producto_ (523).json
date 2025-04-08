@@ -1,0 +1,915 @@
+[
+  {
+    "nombre": "pain de campagne aux noix",
+    "marca": "colruyt",
+    "ean": "0203496011158",
+    "ingredientes": [
+      "FLORMIX CAMPACNE: FARINE DE BLE",
+      "FARINE DE SEIGLET130",
+      "MATIERE GRASSE VEGETALE CHUILE DE PALME RAFFINEE",
+      "SIROP DE GLUCOSE",
+      "PROTEINES OI LAIT ANTIAGGLOMERANT ESSID",
+      "SEL",
+      "LEVAIN DE SEIGLE DESHYDRATE ET DEVITALISE",
+      "FARINE DE MAIS TORREFIE",
+      "EMULSIFIANT E472E-E170",
+      "E322",
+      "E471",
+      "GLUTEN DE BLE",
+      "FARINE DE BLEMALTE",
+      "AGENT DE TRAITEMENT DE LA FARINE E300. EAW NOIX AMELIORANT : FARINE OE BLE",
+      "GLUTEN DE BLE",
+      "EMULSIFIANT E471",
+      "AGENT DE TRAITTEMENT DE LA FARINE ES00 EPU. LEVURE. TRACES POSSIBLES D'OEUFS",
+      "SOJA",
+      "MOUTARDE",
+      "SESAME",
+      "LUPIN. 27-09-18"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "EMULSIFIANT E472E-E170",
+        "razon": "Contiene EMULSIFIANT E472E-E170, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E471",
+        "razon": "Contiene E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "EMULSIFIANT E471",
+        "razon": "Contiene EMULSIFIANT E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/349/601/1158/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Tomme de chèvre Colibri",
+    "marca": "Carrefour",
+    "ean": "0203502017846",
+    "ingredientes": [
+      "LAIT pasteurisé de chèvre (origine: UE)",
+      "sel",
+      "présure animale",
+      "ferments lactiques",
+      "colorants de croute E 150c",
+      "E160b",
+      "E153 conservateur de croute E235",
+      "croute non comestible"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/350/201/7846/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain au noix",
+    "marca": "leclerc",
+    "ean": "0203503008201",
+    "ingredientes": [
+      "Farine 155 sans fève ( farine de BLE",
+      "GLUTEN DE BLE",
+      "farine de BLE MALTE",
+      "levure désactivé",
+      "antioxygene E300",
+      "enzyna)",
+      "farine de SEIGLE bavarois ( farine de SEIGLE 78",
+      "GLUTEN DE BLE",
+      "farine de BLE",
+      "levain de SEIGLE désactivé MALTEd'orge",
+      "acidifiant E330",
+      "émulsifiant E471",
+      "agent de traitement de la farine E300)",
+      "eau",
+      "noix",
+      "sel",
+      "levure."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant E471",
+        "razon": "Contiene émulsifiant E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/350/300/8201/front_fr.12.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chausson aux pommes",
+    "marca": "Leclerc",
+    "ean": "0203511022961",
+    "ingredientes": [
+      "Pâte 60'Z farine de BCE",
+      "BEURRE 21",
+      "eau",
+      "sel. Dorure (OEUFS)u Garniture 401 purée de pommes concentrée 20'",
+      "Q 1110È ceaux de pommes 112%",
+      "de glucose - Fructosq sucfew Traces de fyui±s coque."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/351/102/2961/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salt Pork Belly",
+    "marca": "Farmland",
+    "ean": "0203518002379",
+    "ingredientes": [
+      "Cured with: water",
+      "salt",
+      "sugar",
+      "sodium phosphates",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Croissants Butter 4pk",
+    "marca": "We love FOOD!",
+    "ean": "0203535705000",
+    "ingredientes": [
+      "gluten",
+      "milk",
+      "soy",
+      "wheat"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/353/570/5000/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Australia"
+  },
+  {
+    "nombre": "Andouillettes campagnardes",
+    "marca": "SAS Consolaro",
+    "ean": "0203542025580",
+    "ingredientes": [
+      "estomacs de porc",
+      "panses de veau",
+      "oignons sel. plasma de porc",
+      "poivre",
+      "acidifiants : E330",
+      "E331 conservateur : E250",
+      "menu de porc."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/354/202/5580/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Suisses au chocolat",
+    "marca": "Leclerc",
+    "ean": "0203544017385",
+    "ingredientes": [
+      "Ernoeiie je Prix au kg 24%7/17 6"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/354/401/7385/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roti cuit Bio LS",
+    "marca": "SAS Consolaro",
+    "ean": "0203553029126",
+    "ingredientes": [
+      "roti de porc*",
+      "sel nitrité",
+      "dextrose*",
+      "sucre* de canne",
+      "conservateur: E301"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/355/302/9126/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Smoked Turkey Wings",
+    "marca": "Roundy's",
+    "ean": "0203566406853",
+    "ingredientes": [
+      "Smoked turkey wings",
+      "water",
+      "salt",
+      "sodium nitrite"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked Turkey Drumsticks",
+    "marca": "Roundy's",
+    "ean": "0203569605987",
+    "ingredientes": [
+      "Smoked turkey drumsticks"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain de seigle",
+    "marca": "Leclerc",
+    "ean": "0203575008864",
+    "ingredientes": [
+      "farine de BLE",
+      "eau",
+      "farine de SEIGLE (10",
+      "levure",
+      "gluten de BLE",
+      "sel",
+      "huile de tournesol",
+      "levain de SEIGLE dévitelisé",
+      "farine d ORGE maltée torréfiée",
+      "émulsifiant : E472e",
+      "agent traitement de la farine : E300",
+      "émulsifiant :E471",
+      "farine de BLE malté."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E472e",
+        "razon": "Contiene émulsifiant : E472e, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiant :E471",
+        "razon": "Contiene émulsifiant :E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/357/500/8864/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Smoked Pork Hocks",
+    "marca": "Roundy's",
+    "ean": "0203577205223",
+    "ingredientes": [
+      "Cured with: water",
+      "salt",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sourdough Rolls",
+    "marca": "The Fresh Market",
+    "ean": "0203585004993",
+    "ingredientes": [
+      "ENRICHED WHEAT FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "ENZYMES",
+      "FOLIC ACID)",
+      "WATER",
+      "WHEAT GLUTEN",
+      "SALT",
+      "YEAST",
+      "FUMARIC ACID",
+      "SUGAR",
+      "MALTED BARLEY FLOUR",
+      "LACTIC ACID",
+      "ASCORBIC ACID",
+      "ENZYMES",
+      "SOYBEAN OIL",
+      "RYE FLOUR. CONTAINS: WHEAT",
+      "SOY. PROCESSED IN A FACILITY THAT USES PEANUTS",
+      "TREE NUTS",
+      "EGG",
+      "MILK",
+      "SOY",
+      "AND WHEAT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/358/500/4993/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain de Noël Pommes Miel Épices",
+    "marca": "Leclerc",
+    "ean": "0203597009849",
+    "ingredientes": [
+      "Préparation pain pomme miel épices (farine de _blé_",
+      "cubes de pommes 10 %",
+      "pommes",
+      "sel",
+      "conservateur : acide citrique",
+      "acide ascorbique",
+      "farine de _seigle_",
+      "cubes de miel 3 %",
+      "concentré de purée de pommes",
+      "sirop de glucose-fructose",
+      "concentré de purée de poires",
+      "sirop de glucose",
+      "miel",
+      "sucre",
+      "stabilisant : glycérol",
+      "fibre de _blé_",
+      "huile végétale de tournesol",
+      "gélifiant : pectine",
+      "correcteur d'acidité : acide lactique",
+      "arôme naturel",
+      "_soja_ concassé torréfié",
+      "graine de quinoa",
+      "sel 1.8%",
+      "épices",
+      "_gluten_ de _blé_",
+      "arôme",
+      "farine de _blé_ malté",
+      "enzymes alpha amylase",
+      "hémicellulases",
+      "agent de traitement de la farine",
+      "acide ascorbique)",
+      "eau",
+      "levure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/359/700/9849/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Donut",
+    "marca": "Auchan",
+    "ean": "0203601016405",
+    "ingredientes": [
+      "Pâte 56%: farine de blé (gluten de blé). eau. huile de tournesol. sucre. levure. préparation pour pâte (émulsifiants: mono et diglycérides d'acides gras",
+      "stéaroyl-2-lactylate de sodium",
+      "protéines de blé (gluten)",
+      "épaississant: gomme de guar",
+      "poudre de lait",
+      "agents de traitement de la farine: acide ascorbique. L-cystéine). sel. sirop de sucre inverti. Fourrage parfum fraise 23%: purée de fraise 35%",
+      "sirop de glucose-fructose. saccharose",
+      "eau",
+      "amidon modifié de mais",
+      "gélifiant: pectine amidée",
+      "correcteur d'acidité: acide citrique. colorant: jus concentré de carotte noire",
+      "conservateur: sorbate de potassium. arômes naturels. Décor 12%: glaçage rose parfum fraise (sucre",
+      "huile et graisse végétale non hydrogénée de palme. palmiste et noix de coco. Émulsifiant: lécithine de soja",
+      "colorant oxyde de fer",
+      "arôme. arôme naturel. colorant carmins ). Huile de friture 9%: huile de palme non hydrogénée.  ALLERGENES : CEREALES(GLUTEN). LAIT. SOJA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/360/101/6405/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mediterranean Herb & Olive Oil Pork Tenderloin",
+    "marca": "Wild Fork",
+    "ean": "0203605001087",
+    "ingredientes": [
+      "Mediterranean Herb & Olive Oil Pork Tenderloin Caramel Color Added. Dry Rubbed with Basil",
+      "Oregano",
+      "Thyme",
+      "Onion & Garlic."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/360/500/1087/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Grande Galette Frangipane",
+    "marca": "Leclerc",
+    "ean": "0203605040673",
+    "ingredientes": [
+      "Pâte (59 %) (farine (BLÉ)",
+      "beurre (LAIT)(33 %)",
+      "eau",
+      "sel)",
+      "Garniture (40 %)(poudre d'AMANDES blanchies (23 %)",
+      "sucre",
+      "beurre (LAIT) (20.5 %)",
+      "LAIT entier",
+      "ŒUF",
+      "amidon",
+      "rhum",
+      "arôme naturel de vanille",
+      "arômes)",
+      "Dorure (1%) (ŒUF )."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/360/504/0673/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain complet tranche",
+    "marca": "Leclerc",
+    "ean": "0203646009189",
+    "ingredientes": [
+      "PAIN COMPLET TRANCHE Ingred lents eau",
+      "far Ine comp lete t 150 (far Ine de BLE ±65",
+      "remou lage de BLE",
+      "GLUTEN",
+      "far Ine de feveg",
+      "alpha amylaseg et hem Icel lulase",
+      "agent de traitement de la far Ine (e30D))",
+      "farine {65 (far Ine de BLE",
+      "GLUTEN de BLE",
+      "far Ine de feve",
+      "far Ine de malt de BLE",
+      "lapes fong Iquesi antloxygene (ac Ide ascorbique))",
+      "sel f ln (gel)",
+      "croustl Ils (far Ine de BLE",
+      "enulslflantg (nono et dlglycerldes d'ac Ide gras)",
+      "agent de tra I tenen± de la far Ine Ide ascorbique)",
+      "hul le vegetale IZ)",
+      "levure de panlflcatlon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/364/600/9189/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hempler's, canadian style bacon",
+    "marca": "Hempler's",
+    "ean": "0203662806229",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "honey",
+      "corn syrup solids",
+      "sodium phosphate",
+      "brown sugar",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Farce à tomate",
+    "marca": "Leclerc",
+    "ean": "0203673022434",
+    "ingredientes": [
+      "Viande de porc 35%",
+      "gras de porc 30%",
+      "eau",
+      "persil",
+      "chapelure",
+      "sucre",
+      "assaisonnement",
+      "sel",
+      "E300",
+      "E262",
+      "E120",
+      "E621",
+      "E325."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E120",
+        "razon": "Contiene E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/367/302/2434/front_fr.6.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bœuf Bourguignon",
+    "marca": "Leclerc",
+    "ean": "0203676046185",
+    "ingredientes": [
+      "Bœuf",
+      "eau",
+      "champignon",
+      "lardon fumé (poitrine de porc",
+      "eau",
+      "sel",
+      "sirop de glucose",
+      "dextrose",
+      "fumage au bols de hêtre",
+      "acidifiants : acétate de sodium",
+      "antioxydants : érythroblaste de sodium",
+      "conservateurs : E250",
+      "nitrite de sodium)",
+      "oignons",
+      "vin rouge (SUL FEITES)",
+      "bouillon de bœuf (sel",
+      "maltodextrine: arome",
+      "dextrose",
+      "épice et aromate",
+      "viande de bœuf",
+      "exhausteur de goût",
+      "huile végétale de tournesol",
+      "colorant (caramel: E150c)",
+      "maïzena",
+      "concentré de tomate (purée de tomate)",
+      "ail.  Contient: SULFITES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/367/604/6185/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "crépinette de porc",
+    "marca": "carrefour",
+    "ean": "0203700020204",
+    "ingredientes": [
+      "viande de porc 90%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/370/002/0204/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain boule",
+    "marca": "Leclerc",
+    "ean": "0203702005841",
+    "ingredientes": [
+      "BOULE 400G pâée à pain (farine T65 (farine de BL T 65",
+      "GLUTEN",
+      "enzymes (cellulase - xylanase-héniceilulase-alpha amylases)",
+      "acide ascorbique. )",
+      "eau",
+      "sel ( ferronitrile de sodium. )",
+      "levure liquide (leuure Chlorure de sodium de panification",
+      "se",
+      "stabilisant (sonne xanthane).)• améliorant de panification pour pain maison (farine de BL",
+      "émulsiëiant (E4?1)",
+      "asent de traitement de la farine (E300)",
+      "auloslucosidase",
+      "alpha amylase",
+      "xslanase",
+      "cellulase. ) )"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/370/200/5841/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Peach Slices",
+    "marca": "S&W Fine Foods  Inc.",
+    "ean": "02037035",
+    "ingredientes": [
+      "Peaches",
+      "peach juice",
+      "corn syrup",
+      "sugar",
+      "water",
+      "ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain chocolat pur beurre",
+    "marca": "E. Leclerc",
+    "ean": "0203705019357",
+    "ingredientes": [
+      "Pâte 88% (farine de _BLE_ (_GLUTEN_)",
+      "_BEURRE_ 25%",
+      "eau",
+      "sucre",
+      "_OEUFS_",
+      "levure _GLUTEN_ de _BLE_",
+      "sel",
+      "enzyme",
+      "agent de traitement de la farine E300",
+      "farine de _BLE_ (_GLUTEN_) malté) Chocolat 12% (sucre",
+      "pâte de cacao",
+      "_BEURRE_ de cacao",
+      "émulsifiant: lécithine (_SOJA_)",
+      "arôme naturel de vanille",
+      "dorure: _OEUF_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/370/501/9357/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hickory Smoked Boneless Ham",
+    "marca": "Farmland",
+    "ean": "0203710308644",
+    "ingredientes": [
+      "Cured with: water",
+      "dextrose",
+      "salt",
+      "contains 2% or less of modified food starch",
+      "potassium lactate",
+      "potassium acetate",
+      "sodium phosphate",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Farmland, half boneless hickory smoked ham",
+    "marca": "Farmland",
+    "ean": "0203710705399",
+    "ingredientes": [
+      "Water",
+      "dextrose",
+      "salt",
+      "contains 2% or less of modified food starch",
+      "potassium lactate",
+      "potassium acetate",
+      "sodium phosphates",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frangipane d22 cm",
+    "marca": "E.leclerc",
+    "ean": "0203711036089",
+    "ingredientes": [
+      "Emballé le 08%1/18 6 51 Aconsornrner usqulau 14%1/18 PRI/ R Conserver entre 00 el +40C"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/371/103/6089/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hormel, cure 81, classic dinner ham",
+    "marca": "Hormel",
+    "ean": "0203722020435",
+    "ingredientes": [
+      "Cured with water",
+      "salt",
+      "potassium lactate",
+      "brown sugar",
+      "modified potato starch",
+      "sugar",
+      "sodium phosphates",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gouda de noel",
+    "marca": "Match",
+    "ean": "0203726033783",
+    "ingredientes": [
+      "sel",
+      "ferments lactiques (LAIT)",
+      "présure",
+      "chlorure de calcium",
+      "nitrate de sodium E251",
+      "colorant: rocou E160b. PATE PRESSEE NON CUITE LAIT ET PROTEINES DU LAIT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/372/603/3783/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisse type Toulouse",
+    "marca": "Casino",
+    "ean": "0203740013587",
+    "ingredientes": [
+      "viande de porc* (90%)",
+      "eau",
+      "acidifiants : E326",
+      "E263",
+      "sel",
+      "dextrose",
+      "épice",
+      "sucre",
+      "antioxydants : E300",
+      "E392",
+      "plante aromatique",
+      "arômes",
+      "Boyau naturel de porc. * Origine France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/374/001/3587/front_fr.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "saucisses aux herbes",
+    "marca": "Ferme L'Espinasse",
+    "ean": "0203741004867",
+    "ingredientes": [
+      "SAUCISSE AUX HERCES ingredients: viande de porc",
+      "vin blanc",
+      "sel",
+      "herbes",
+      "sucre",
+      "poivre"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/374/100/4867/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ranger, The Free Range Chicken, Frying Chicken, Whole",
+    "marca": "Draper Valley Farms",
+    "ean": "0203780710293",
+    "ingredientes": [
+      "The free range chicken."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ranger, Free Range Whole Frying Chicken",
+    "marca": "Draper Valley Farms",
+    "ean": "0203780909598",
+    "ingredientes": [
+      "Chicken."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chouquettes",
+    "marca": "E.Leclerc",
+    "ean": "0203789007226",
+    "ingredientes": [
+      "Eau. OEUFS frais 27%",
+      "sucre 18%. Farine de BLE. BEURRE 8%. sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/378/900/7226/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Telula, fruit vegetable juice beverage",
+    "marca": "Telula",
+    "ean": "0203795800569",
+    "ingredientes": [
+      "Organic carrot juice",
+      "organic orange juice",
+      "organic melon juice",
+      "filtered water",
+      "organic turmeric",
+      "organic lemon juice",
+      "organic apple juice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flan nature",
+    "marca": "E.Leclerc",
+    "ean": "0203814015745",
+    "ingredientes": [
+      "LAIT écrémé frais",
+      "sucre",
+      "BEURRE",
+      "farine de BLE",
+      "poudre à flan (amidons modifiés",
+      "amidon",
+      "arôme)",
+      "OEUFS frais",
+      "eau",
+      "arôme vanille",
+      "sel",
+      "colorants : E160a",
+      "E100.)",
+      "Traces éventuelles de SOJA",
+      "FRUITS A COQUES",
+      "SULFITES",
+      "LUPIN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/381/401/5745/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chantal entre deux AOP patrimoine gourmand",
+    "marca": "match",
+    "ean": "0203848014691",
+    "ingredientes": [
+      "lait cru de vache",
+      "sel",
+      "ferments lactiques",
+      "presure ferments lactiques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/384/801/4691/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Roti Braisé",
+    "marca": "Salaisons de Tahiti",
+    "ean": "0203854021393",
+    "ingredientes": [
+      "Viande de porc",
+      "eau",
+      "lactate",
+      "dextrose",
+      "sel",
+      "nitrites",
+      "sauce soja",
+      "antioxydants (E316)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/385/402/1393/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "French Polynesia"
+  },
+  {
+    "nombre": "Brioches individuelles",
+    "marca": "Leclerc",
+    "ean": "0203871013784",
+    "ingredientes": [
+      "farine t45",
+      "oeuf (OEUF (origine france))",
+      "beurre Foisonné (BEURRE foisonne (crène origine DE).)",
+      "sucre (Sucre",
+      "betterave)",
+      "antiagglomérant (anidon de mais))",
+      "levure (cellule vivante de levure saccharomyces cerevisiae)",
+      "régulateur pour surgélation ( dextrose",
+      "farine de BLE",
+      "correcteur d'acidite",
+      "E341",
+      "E170",
+      "enulsifiant E472E",
+      "faring malté",
+      "BLE",
+      "huile de colza",
+      "agent de traitement de la farine",
+      "E300",
+      "enzynes",
+      "alpha-anylase)",
+      "sel (sel)",
+      "agent de démoulage (huile de colza",
+      "émulsifiant: lécithine de tournesol ou colza)"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "enulsifiant E472E",
+        "razon": "Contiene enulsifiant E472E, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/387/101/3784/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain à l'épeautre",
+    "marca": "BioFournil",
+    "ean": "0203901018505",
+    "ingredientes": [
+      "Farine d'épeautre (42%)",
+      "eau",
+      "levain* à l'ancienne (farine d'épeautre*",
+      "eau",
+      "farine de blé*) sel marin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/390/101/8505/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

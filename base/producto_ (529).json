@@ -1,0 +1,876 @@
+[
+  {
+    "nombre": "Whole Chicken",
+    "marca": "Roundy's",
+    "ean": "0205426707599",
+    "ingredientes": [
+      "Whole chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Amandes decortiquées",
+    "marca": "E.Leclerc",
+    "ean": "0205434037190",
+    "ingredientes": [
+      "Amandes décortiquées bio"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/543/403/7190/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Norwegian Atlantic Salmon",
+    "marca": "ALDI",
+    "ean": "0205437708240",
+    "ingredientes": [
+      "ATLANTIC _SALMON_"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/543/770/8240/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pizza Kebab",
+    "marca": "E.Leclerc",
+    "ean": "0205459043299",
+    "ingredientes": [
+      "Base tomate (FARINE BLE( GLUTEN)",
+      "purée tomate",
+      "eau",
+      "huile tournesol",
+      "sel",
+      "levure",
+      "FARINE BLE MALTE",
+      "sucre",
+      "origan",
+      "LACTIQUE",
+      "conservateur : poiure)",
+      "mozzarella(LAIT",
+      "sel",
+      "FERMENT e260",
+      "coagulant",
+      "amidon modifie)",
+      "lamelle kebab 14%(poulet",
+      "dinde (origine ue)",
+      "LAIT écrémé",
+      "fecule PDT",
+      "sel",
+      "oignon",
+      "epice",
+      "dextrose",
+      "stabilisant:e451",
+      "ail",
+      "maltodextrine",
+      "exhausteur: e621",
+      "amidon modifie",
+      "levure",
+      "arome",
+      "poivre",
+      "persil)",
+      "tomate cerisel tomate deshydratee",
+      "huile tournesol",
+      "origan",
+      "sel",
+      "ail)",
+      "oignon rouge",
+      "sauce blanche(eau",
+      "huile colza",
+      "vinaigre",
+      "amidon modifie",
+      "jaune OEUF",
+      "cornichon(eau",
+      "vinaigre",
+      "sel)",
+      "sel",
+      "sucre",
+      "arome",
+      "arome naturel",
+      "persil)",
+      "olive(eau",
+      "sel",
+      "stabilisant: gluconate ferreux)",
+      "origan. Conserver entre 0 et 4°C.Ne pas congeler UALEURS NUTRITIONNELLES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/545/904/3299/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bretzel *4",
+    "marca": "Leclerc",
+    "ean": "0205501018374",
+    "ingredientes": [
+      "BRETZEL (Farine de BLÉ",
+      "huile et graisses végétales (palme",
+      "colza)",
+      "sucre",
+      "ŒUFS entiers",
+      "eau",
+      "Levure",
+      "poudra de Lactosérum (LAIT)",
+      "émulsifiants : E322-E471",
+      "maltodextrine",
+      "sel. poudre de blanc d'ŒUFS",
+      "GLUTEN de BLE curcuma",
+      "extrait da carotte."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants : E322-E471",
+        "razon": "Contiene émulsifiants : E322-E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/550/101/8374/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Butterball, premium young turkey",
+    "marca": "Butterball",
+    "ean": "0205501522130",
+    "ingredientes": [
+      "Contains up to 8% of solution of water",
+      "salt",
+      "spices",
+      "and natural flavor to enhance tenderness and juiciness."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Young Turkey",
+    "marca": "Butterball",
+    "ean": "0205502939951",
+    "ingredientes": [
+      "Contains up to 8% of a solution of water",
+      "salt",
+      "spices and natural flavor to enhance tenderness and juiciness."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Langue entière Bovine",
+    "marca": "Auchan",
+    "ean": "0205503089082",
+    "ingredientes": [
+      "boeuf"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/550/308/9082/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Kassler cru fumé bio",
+    "marca": "Charcuteries Artisanales, Ferme Durr",
+    "ean": "0205505023480",
+    "ingredientes": [
+      "carré de porc*",
+      "eau",
+      "sel nitrité",
+      "dextrose",
+      "sel",
+      "antioxydant : E301. Fumé au bois de hêtre. *Issu de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/550/502/3480/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Kassler cru fumé bio",
+    "marca": "Ferme Durr",
+    "ean": "0205505025323",
+    "ingredientes": [
+      "carre de porc bio",
+      "eau",
+      "sel nitrité",
+      "dextrose",
+      "sel",
+      "antioxydant (E301)",
+      "Fumé au bois de hêtre"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/550/502/5323/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Penne au poulet rôti à la Napolitaine",
+    "marca": "Monique Ranou",
+    "ean": "0205511014564",
+    "ingredientes": [
+      "Spécialités céréalières cuites 39% (eau",
+      "semoule de blanc de tomates 16% poulet care trate en salaben 11% (6let de poulet 8",
+      "eau",
+      "conservateurs: lactate de potassium",
+      "acétatede potassium",
+      "dextrose",
+      "amidon de pomme de terre",
+      "fibre de blé",
+      "sell olives noires 4% huile de colza",
+      "concentré de tomates",
+      "tomata ketchup toma de facese-fructose",
+      "alcool",
+      "sucre",
+      "amidon modifié de mais sel",
+      "extrait d'épice",
+      "épice)",
+      "vinaigre d'alcool huile d'olive vierge extra",
+      "sel bastic anevateur:serbatedepotsant: gomme de xanthane Traces éventuelles de: crustaces",
+      "poissons",
+      "lait",
+      "sop mollusques celen",
+      "moute &quot",
+      "Les tomates et les olives ne sont pas françaises. **Pourcentage exprimé sur le poids net total Fabriqué par: TLT-2Ade Beaumont61230 CROISELLES Frances"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/551/101/4564/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Wensleydale creamery, real yorkshire wensleydale cheese with apricots",
+    "marca": "Wensleydale Creamery",
+    "ean": "0205525411243",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "dried apricots [apricots",
+      "rice flour",
+      "sulphur dioxide (preservative)]",
+      "fructose",
+      "cheese cultures",
+      "salt",
+      "rennet",
+      "potassium sorbate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ocean spray, yorkshire wensleydale cheese with cranberries",
+    "marca": "Ocean Spray",
+    "ean": "0205526508393",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "sweetened dried cranberries (cranberries",
+      "sugar",
+      "sunflower oil)",
+      "fructose",
+      "cheese cultures",
+      "salt",
+      "rennet",
+      "potassium sorbate (preservatives)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lean Turkey Ham",
+    "marca": "Jennie-O",
+    "ean": "0205531605988",
+    "ingredientes": [
+      "Turkey thigh meat with a portion of ground turkey thigh trim added",
+      "water",
+      "contains 2% or less modified food starch",
+      "potassium lactate",
+      "dextrose",
+      "salt",
+      "carrageenan",
+      "sodium phosphate",
+      "sodium diacetate",
+      "sodium erythorbate",
+      "natural smoke flavoring",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Haché pur bœuf",
+    "marca": "Cora",
+    "ean": "0205538013700",
+    "ingredientes": [
+      "Boeuf",
+      "hachifix color a(dextrose",
+      "antioxydant: E300",
+      "E301",
+      "sel",
+      "acidifiant:",
+      "E330",
+      "arome naturel",
+      "epices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/553/801/3700/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Haché Porc et Boeuf",
+    "marca": "Cora",
+    "ean": "0205543009934",
+    "ingredientes": [
+      "Viande de Boeuf 60%",
+      "porc 38%",
+      "oeufs entiers liquides",
+      "mélange d'épices : sel",
+      "dextrose",
+      "mélange d'épices",
+      "antioxydant : E300",
+      "exhausteur de goût : E621",
+      "stabilisant : E450",
+      "E451",
+      "colorant naturel : E160c"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/554/300/9934/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Pains chocolat beurre (x 8) - Leclerc",
+    "marca": "Leclerc",
+    "ean": "0205545019351",
+    "ingredientes": [
+      "farine de blé",
+      "beurre 24%",
+      "eau",
+      "sucre",
+      "levure",
+      "sel",
+      "gluten de blé",
+      "enzymes",
+      "émulsifiant (E471)",
+      "agent de traitement de la farine (E300)",
+      "chocolat 10% (sucre",
+      "pâte de cacao",
+      "beurre de cacao",
+      "émulsifiant E322 (lécithine de soja)",
+      "extrait de vanille naturelle)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant (E471)",
+        "razon": "Contiene émulsifiant (E471), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/554/501/9351/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hoop Cheddar Cheese",
+    "marca": "Harris Teeter",
+    "ean": "0205547012473",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes and annatto color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Emmental français",
+    "marca": "Casino",
+    "ean": "0205547024605",
+    "ingredientes": [
+      "Lait de vache pasteurisé",
+      "sel",
+      "ferments lactiques",
+      "coagulant"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/554/702/4605/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mild Provolone Cheese",
+    "marca": "Belgioioso",
+    "ean": "0205551806457",
+    "ingredientes": [
+      "Cultured pasteurized milk",
+      "enzymes",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bio Galet",
+    "marca": "Biscovit",
+    "ean": "0205554325856",
+    "ingredientes": [
+      "Weizenmehl*",
+      "Rohrzucker*",
+      "pflanzliche Öle und Fette* (Palm*. Sonnenblumen*]",
+      "Eier*",
+      "Zimt*. natürliches Vanillearoma*",
+      "Meersalz",
+      "Zitronensaft*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/555/432/5856/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "saucisse fraiche",
+    "marca": "Le Porc Français",
+    "ean": "0205582048215",
+    "ingredientes": [
+      "Boyaux de porc",
+      "viande de porc 90/10",
+      "sel",
+      "aromes naturels",
+      "sucre (sirop de glucose",
+      "saccharose)",
+      "épices",
+      "huile de tournesol",
+      "anti - agglomérant: carbonate de magnésium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/558/204/8215/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salade de fruits",
+    "marca": "ELeclerc",
+    "ean": "0205586009458",
+    "ingredientes": [
+      "ananas",
+      "melon",
+      "kiwi",
+      "raisin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/558/600/9458/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignets parfum chocolat noisettes décongelés",
+    "marca": "Gie Bpgr Za Les Basseaux 26800",
+    "ean": "0205590009840",
+    "ingredientes": [
+      "Farine de blé (gluten) - Huiles végétales (colza",
+      "tournesol) - Sucre - œufs - Eau - cacao maigre en poudre 1",
+      "E472",
+      "lécitline de tournesol - sel - Gluten de blé - Noisettes 0",
+      "œufs",
+      "à coque",
+      "lait. Ce prcduapu être en contact avec : arachides",
+      "soja. Valeurs*itionnelles moyennes pour 100 g : Énergie:lE50 kJ -"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E472",
+        "razon": "Contiene E472, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/559/000/9840/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "saucisses aux choux et poireaux",
+    "marca": "Socopa",
+    "ean": "0205591015321",
+    "ingredientes": [
+      "viande de porc (45%) origine France",
+      "choux (38%)",
+      "poireaux (9%)",
+      "gras de porc",
+      "sel",
+      "LACTOSE",
+      "dextrose",
+      "échalotes",
+      "épices",
+      "saccharose",
+      "antioxydants : E300",
+      "E301",
+      "conservateur : E250",
+      "E252",
+      "colorant : E120",
+      "arômes naturels. Boyau naturel de porc"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colorant : E120",
+        "razon": "Contiene colorant : E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/559/101/5321/front_fr.11.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte aux pommes",
+    "marca": "Leclerc",
+    "ean": "0205603040679",
+    "ingredientes": [
+      "POMMES 8 PRRTS Insredients: aux pommes (Pommes Carine forment (GLUTEN) - Silktre - Matière grasse végétale (Olme) - Amidon rood de Se à lever diphosphate disodique",
+      "carbonate de sodium httnrbique - Colorant (E 407)",
+      "Phosphates de potassium ( E 340)",
+      "Citrates de calcitrn (E 233)",
+      "Arôme. Caroténoïdes (E produit"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/560/304/0679/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pomme",
+    "marca": "Pink Lady",
+    "ean": "0205616022303",
+    "ingredientes": [
+      "Pomme"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/561/602/2303/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brie de Meaux AOP LC 21% 3/4 AFF",
+    "marca": "U",
+    "ean": "0205635018899",
+    "ingredientes": [
+      "Lait cru",
+      "ferments lactiques",
+      "sel",
+      "presure",
+      "rocou"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/563/501/8899/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pavé multicéréales",
+    "marca": "La Campanière",
+    "ean": "0205639008278",
+    "ingredientes": [
+      "Farine de blé (52",
+      "eau",
+      "graines (6",
+      "lin jaune",
+      "tournesol",
+      "pavot)",
+      "flocons de céréales (1",
+      "avoine",
+      "orge",
+      "seigle)",
+      "farine d'orge malté torréfié",
+      "gluten de blé",
+      "sel",
+      "farine de seigle",
+      "levain de blé dévitalisé",
+      "levure",
+      "farine de blé malté."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/563/900/8278/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Prsl Hard Salami - Grab N Go",
+    "marca": "Fry's",
+    "ean": "0205648907210",
+    "ingredientes": [
+      "pork",
+      "beef",
+      "salt",
+      "dextrose",
+      "lactic acid starter culture",
+      "spices",
+      "natural flavors",
+      "natural smoke flavoring",
+      "cherry powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/564/890/7210/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blanc de Poulet sans nitrite",
+    "marca": "Monique Ranou",
+    "ean": "0205656009128",
+    "ingredientes": [
+      "Filet de poulet (origine : France)",
+      "arômes naturels",
+      "dextrose",
+      "sel",
+      "conservateur : chlorure de potassium",
+      "antioxydant : acide ascorbique",
+      "colorant : caramel ordinaire."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/565/600/9128/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beaufort",
+    "marca": "U",
+    "ean": "0205661043490",
+    "ingredientes": [
+      "Il y en a pas"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/566/104/3490/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Belton farm, anco, top hat cheddar cheese",
+    "marca": "Belton Farm",
+    "ean": "0205669309802",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "cheese culture",
+      "enzyme",
+      "annatto (color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Saucisses de Toulouse aux lentilles",
+    "marca": "Jean Larnaudie",
+    "ean": "0205671025127",
+    "ingredientes": [
+      "Saucisses de Toulouse 36% (viande de porc*",
+      "sel",
+      "poivre",
+      "boyau naturel de porc)",
+      "lentilles 35%",
+      "bouillon (eau",
+      "os et couenne de porc",
+      "concentré de tomates",
+      "sel)",
+      "eau",
+      "carottes",
+      "oignons",
+      "graisse de canard",
+      "sel",
+      "concentré de tomates",
+      "arômes (dont lait)",
+      "arôme poivre",
+      "ail",
+      "muscade",
+      "girofle",
+      "herbes de Provence",
+      "arômes naturels",
+      "dextrose",
+      "pulpe d'ail (ail",
+      "sel",
+      "acidifiant:E330)",
+      "extrait d'épice. *origine : UE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/567/102/5127/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dejeunettes viennoises pépites x4",
+    "marca": "Leclerc",
+    "ean": "0205708013783",
+    "ingredientes": [
+      "DEJEUNETTES VIENNOISES"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/570/801/3783/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ricotta Salata Cheese",
+    "marca": "Il Villaggio",
+    "ean": "0205712607978",
+    "ingredientes": [
+      "Pasteurized sheep's milk whey",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Manchego Semisoft Cheese",
+    "marca": "Corazon De Ronda",
+    "ean": "0205717710345",
+    "ingredientes": [
+      "Pasteurized sheep's milk",
+      "animal rennet",
+      "lactic ferments",
+      "salt",
+      "egg whites lysozyme (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Manchon de poulet à la mexicaine cuit + Pommes de terre",
+    "marca": "Auchan",
+    "ean": "0205722029982",
+    "ingredientes": [
+      "Ailes de poulet mexicaines (Poulet 97%",
+      "assaisonnement 3% (sel",
+      "épices",
+      "chapelure de _blé_",
+      "maltodextrine de _blé_",
+      "poudre d'oignon",
+      "arômes",
+      "sucre",
+      "poudre d'ail",
+      "poudre de tomate",
+      "légumes déshydratés",
+      "huile de tournesol",
+      "herbes aromatiques). Pommes de terre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/572/202/9982/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rilliettes du mans",
+    "marca": "Monique Ranou",
+    "ean": "0205732007024",
+    "ingredientes": [
+      "de pore 8796",
+      "gras de pore",
+      "sel",
+      "épices conservateur : nitrite de sodium. *Origine : France.Laprésenccdevide au fond du pot est due au Procédé de fabrication."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/573/200/7024/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saumon Keta du Pacifique fumé décongelé",
+    "marca": "Top Budget",
+    "ean": "0205736022450",
+    "ingredientes": [
+      "Saumon Keta du Pacifique (Oncorhynchus keta-poisson) 97%",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/573/602/2450/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Printiligne saveur vanille",
+    "marca": "Pâturages",
+    "ean": "0205737009771",
+    "ingredientes": [
+      "Fromage frais au lait écrémé pasteurisé (origine : France)",
+      "eau",
+      "sucre (8",
+      "amidon transformé",
+      "lactate de calcium",
+      "arômes",
+      "épaississant: farine de graines de caroube",
+      "colorant: bêta-carotène",
+      "correcteur d'acidité: acide citrique",
+      "gousses de vanille épuisés et broyées. Décor: écorce de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/573/700/9771/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bande Feuille Sucree Pomme",
+    "marca": "E. Leclerc",
+    "ean": "0205743039038",
+    "ingredientes": [
+      "Tranches de pommes 43% (pommes 99.9%",
+      "sel",
+      "antioxydant: E300",
+      "acidifiant: E330)",
+      "compote de pommes 19% (purée de pommes 85%. sirop de glucose-fructose)",
+      "farine de blé (GLUTEN)",
+      "beurre (LAIT)",
+      "eau",
+      "sucre 3%. sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/574/303/9038/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dinde à mijoter",
+    "marca": "Maître CoQ",
+    "ean": "0205749037199",
+    "ingredientes": [
+      "Dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/574/903/7199/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Kellogs choco Krispies",
+    "marca": "Kellogg's",
+    "ean": "02057491",
+    "ingredientes": [
+      "&quot",
+      "Energie 6%&quot",
+      "&quot",
+      "Zucker 6%&quot",
+      "&quot",
+      "Salz 4%&quot",
+      "&quot",
+      "gesättigte Fettsäuren 2%&quot",
+      "&quot",
+      "Fett 1%&quot"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/205/7491/front_de.7.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  }
+]

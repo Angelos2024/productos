@@ -1,0 +1,685 @@
+[
+  {
+    "nombre": "Butterscotch Flavored Peanut Butter Stock",
+    "marca": "Dutchman's",
+    "ean": "0254775004576",
+    "ingredientes": [
+      "Peanuts",
+      "Butterscotch Drops (sugar",
+      "hydrogenated palm kernel oil",
+      "coconut oil",
+      "whey",
+      "soy lecithin",
+      "natural and artificial flavor",
+      "artificial color (FD&C yellow 6 lake",
+      "yellow 5 lake",
+      "blue 2 lake)",
+      "salt)",
+      "Sugar",
+      "Natural Butter Flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/477/500/4576/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tommette aux Herbes de Provence",
+    "marca": "Fruitière de Domessin",
+    "ean": "0254806040474",
+    "ingredientes": [
+      "_Lait_ de vache pasteurisé (origine : France)",
+      "herbes de provence",
+      "sel",
+      "ferments _lactiques_",
+      "coagulant microbien."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/480/604/0474/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fromage pour raclette fumé au bois de hêtre",
+    "marca": "Raclette",
+    "ean": "0254808023758",
+    "ingredientes": [
+      "Lait de vache",
+      "sel",
+      "ferments lactiques",
+      "coagulant microbien",
+      "conservateur : natamycine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/480/802/3758/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Raclette label rouge",
+    "marca": "Label Rouge",
+    "ean": "0254809024075",
+    "ingredientes": [
+      "Lait pasteurisé",
+      "sel",
+      "ferments lactiques",
+      "présure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/480/902/4075/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Wit met rijstcrisp",
+    "marca": "1de Beste",
+    "ean": "02549622",
+    "ingredientes": [
+      "Suiker",
+      "cacaoboter",
+      "volle melkpoeder",
+      "suiker",
+      "zout)",
+      "lactose (melk)",
+      "melkvet",
+      "emulgator: sojalecithine",
+      "natuurlijk vanille-aroma. Witte chocolade:"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulgator: sojalecithine",
+        "razon": "Contiene emulgator: sojalecithine, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/254/9622/front_nl.3.400.jpg",
+    "tahor": false,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Pain au chocolat",
+    "marca": "E . leclerc",
+    "ean": "0255002019615",
+    "ingredientes": [
+      "jnçreditnts t farine de BLÉ",
+      "BEURRÉ Chat entes AtlP 20",
+      "eau chocolat 107. (sucem de cacao",
+      "lecithing de SOJA",
+      "buuto de cacao tmulsifiant nttuttl de vanille)",
+      "sucre louurtii poudc• dg lécsibinu Jig tntier",
+      "GLUTEN de BIC",
+      "sel",
+      "itoulsgfiant de traitement dg la [300",
+      "Dorure OEUF"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/500/201/9615/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "chocolatine beurre aop",
+    "marca": "E.Leclerc",
+    "ean": "0255031010829",
+    "ingredientes": [
+      "Farine de BLE",
+      "beurre( LAIT) AOC Charente-Poitou 29%",
+      "eau",
+      "chocolat 10Asu cre",
+      "pate et beurre de cacao",
+      "lécithine de SOJA) sucre",
+      "LAIT frais entier",
+      "OEUFS frais",
+      "levure",
+      "GLUTEN de blé",
+      "sel",
+      "acérala en poudre",
+      "colorant beta-carotene",
+      "enzyne",
+      "dorure (OEUF",
+      "sucre)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/503/101/0829/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Reblochon laitier",
+    "marca": "Le Fromager du Verger",
+    "ean": "0255033027481",
+    "ingredientes": [
+      "LAIT DE VACHE cru ORIGINE FRANCE",
+      "sel",
+      "ferments lactiques",
+      "présure",
+      "colorant de croûte rocou Fromagerie Conus"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/503/302/7481/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sourdough bread - Members Mark",
+    "marca": "Members Mark",
+    "ean": "0255047703982",
+    "ingredientes": [
+      "wheat flour",
+      "water",
+      "sourdough starter",
+      "bacterial cultures",
+      "wheat flour",
+      "water",
+      "vital wheat gluten",
+      "sea salt",
+      "oxidizing agent blend",
+      "organic whole wheat flour",
+      "ascorbic acid",
+      "amylase"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Pave Tradition",
+    "marca": "E.Leclerc",
+    "ean": "0255077010890",
+    "ingredientes": [
+      "Farine de Blé &quot",
+      "LABEL ROUGE&quot",
+      "T65",
+      "malt de BLE",
+      "enzymes:alpha-amylases",
+      "GLUTEN",
+      "eau",
+      "sel",
+      "levure fraîche boulangere."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/507/701/0890/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Noix de coco",
+    "marca": "Boochris Fraicheur",
+    "ean": "0255119021709",
+    "ingredientes": [
+      "Noix de coco"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/511/902/1709/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beef Ribeye Steak",
+    "marca": "Thomas Foods Int'l USA",
+    "ean": "0255145817932",
+    "ingredientes": [
+      "Beef Ribeye Steak"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/514/581/7932/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Double Chocolate Muffin",
+    "marca": "Members Mark",
+    "ean": "0255171307483",
+    "ingredientes": [
+      "enriched wheat flour bleached",
+      "niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "sugar",
+      "water",
+      "eggs",
+      "soybean oil",
+      "blueberries",
+      "bananas",
+      "semisweet chocolate chips",
+      "sugar",
+      "unsweetened chocolate",
+      "dextrose",
+      "cocoa butter",
+      "soy lecithin",
+      "natural and artificial flavor",
+      "milk",
+      "caramel color",
+      "citric acid",
+      "cocoa drops",
+      "sugar",
+      "hydrogenated palm kernel oil",
+      "cocoa",
+      "cocoa processed with alkali",
+      "dextrose",
+      "cocoa powder",
+      "whey",
+      "soy lecithin",
+      "natural and artificial flavor",
+      "egg whites",
+      "emulsifier",
+      "propylene glycol mono - and diesters of fats and fatty acids",
+      "mono - and diglycerides",
+      "soy lecithin",
+      "food starch-modified",
+      "leavening",
+      "baking soda",
+      "monocalcium phosphate",
+      "sodium acid pyrophosphate",
+      "sodium aluminum phosphate",
+      "mono - and diglycerides",
+      "natural and artificial flavor",
+      "pecans",
+      "powdered cellulose",
+      "preservatives",
+      "potassium sorbate",
+      "sodium benzoate",
+      "calcium propionate",
+      "red 40",
+      "salt",
+      "sodium stearoyl lactylate",
+      "soy flour",
+      "soy lecithin",
+      "vegetable oil",
+      "canola oil",
+      "palm oil",
+      "cottonseed oil",
+      "corn syrup solids",
+      "nonfat dry milk",
+      "cinnamon",
+      "ginger",
+      "cloves",
+      "nutmeg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Prosciutto di Parma PDO",
+    "marca": "Deluxe",
+    "ean": "0255188035100",
+    "ingredientes": [
+      "Pork",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/518/803/5100/front_en.25.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Sesame Bagels",
+    "marca": "Unknown",
+    "ean": "0255242603599",
+    "ingredientes": [
+      "Enriched wheat flour",
+      "Water",
+      "Sesame seeds",
+      "Sugar",
+      "Yellow corn maal",
+      "Salt",
+      "Yeast",
+      "Cultured wheat flour",
+      "Gum acacia",
+      "Malted barley flour. May contain: Peanuts",
+      "Tree nuts",
+      "Egg",
+      "Milk",
+      "Say and/or Other allergens."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/524/260/3599/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Riz au lait- Rhum Raisins",
+    "marca": "Nestlé",
+    "ean": "0255354051950",
+    "ingredientes": [
+      "_Lait_ entier 61%",
+      "sucre",
+      "eau",
+      "riz 9%",
+      "raisins macérés 2",
+      "sirop de glucose-fructose",
+      "rhum 0",
+      "sel",
+      "amidon modifié de maïs",
+      "stabilisant (carraghénanes)",
+      "arôme",
+      "colorants (caramel",
+      "rocou)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/535/405/1950/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Terrine de canard",
+    "marca": "Carrefour",
+    "ean": "0255369021719",
+    "ingredientes": [
+      "Gorge de porc",
+      "viande de canard 27%",
+      "foie de canard 10%",
+      "gras de porc",
+      "eau",
+      "OEUF",
+      "échalote",
+      "graisse de canard",
+      "foie de poulet. BEURRE demi-sel",
+      "extrait de Grand Marnier(R) (alcool",
+      "cognac",
+      "extrait  naturel d'orange amére",
+      "colorant : caramel ordinaire)",
+      "LAIT",
+      "sel",
+      "fécule  de pomme de terre",
+      "fond de canard (extrait naturel concentré et graisse  de canard",
+      "eau",
+      "sel",
+      "arômes naturels (GLUTEN)",
+      "extrait de malt (GLUTEN)",
+      "sucre",
+      "extrait de tomate",
+      "vinaigre d'alcool",
+      "vin de madère",
+      "ail",
+      "Laurier.  poivre",
+      "conservateur: acide sorbique)",
+      "porto rouge",
+      "coloration de décor  (OEUF",
+      "caramel ordinaire)",
+      "dextrose",
+      "arôme naturel de poivre et autres  arômes naturels",
+      "poivre",
+      "persil",
+      "gélatine de porc",
+      "protéine de LAIT",
+      "thym",
+      "antioxydants: érythorbate de sodium - acide ascorbique - ascorbate de sodium",
+      "conservateur : nitrite de sodium",
+      "muscade",
+      "curcuma",
+      "colorant : carmins",
+      "Laurier en poudre",
+      "macis. Viande de porc origine France et viande de canard origine Union Européenne.  Peut contenir des traces de céleri",
+      "fruits à coque. Grand Marnier(R) est une marque déposée de la Sté Marnier Lapostolle."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/536/902/1719/front_fr.23.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon à l’ancienne",
+    "marca": "Tallec",
+    "ean": "0255382022830",
+    "ingredientes": [
+      "Jambon frais de porc",
+      "bouillon (eau",
+      "carottes",
+      "poireaux",
+      "plantes aromatiques)",
+      "gélatine de porc",
+      "sel",
+      "dextrose",
+      "conservateurs érythorbate de sodium et nitrite de sodium",
+      "plantes aromatiques",
+      "sucre. Traces de : gluten. Fabriqué à partir de porc Français."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon frais de porc",
+        "razon": "Contiene Jambon frais de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/538/202/2830/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon a l’ancienne",
+    "marca": "Tallec",
+    "ean": "0255382024148",
+    "ingredientes": [
+      "Jambon frais de porc",
+      "boui[Lcn (eau. caroHes",
+      "plantes aromatiques)",
+      "gélatine de porc. set q conservateurs érythorbate de sodium et nitrite de sodium. dextrose",
+      "pt",
+      "antes aromatiques",
+      "sucre. Traces de : Fabriqué à partir de porc Français",
+      "fl consommer dans tes 4811 après ouverture",
+      "Conditionné sous atmosphère erotectrice. R conserver entre OOC et C fl consommer jusqu au : 0701 18 Numéro de 01133406 Valeurs moynnnes pour"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon frais de porc",
+        "razon": "Contiene Jambon frais de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/538/202/4148/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon à l’ancienne",
+    "marca": "TALLEC",
+    "ean": "0255382024476",
+    "ingredientes": [
+      "Jambon frais de pot'(",
+      "bouillon (eau",
+      "carottes",
+      "poireaux plantes aromatiques). gélatine de porc",
+      "sel",
+      ". conservateurs érythorbate de sodium et nitrite de sodium",
+      "dextrose. plantes aromatiques",
+      "sucre. Traces de : gluten. Fabriqué à partir de porc Français",
+      "R consommer rapidement"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon frais de pot'(",
+        "razon": "Contiene Jambon frais de pot'(, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/538/202/4476/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon à l’ancienne",
+    "marca": "Tallec",
+    "ean": "0255382032082",
+    "ingredientes": [
+      "Jambon frais de porc",
+      "bouillon (eau",
+      "carettes",
+      "poireaux plantes aromatiques)",
+      "sel",
+      "dextrose",
+      "gélatine de porc",
+      "conservateurs : erythorbate de sodium et nitrite de sodium",
+      "plantes aromatiques",
+      "sucre."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon frais de porc",
+        "razon": "Contiene Jambon frais de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/538/203/2082/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte fine pomme",
+    "marca": "Carrefour",
+    "ean": "0255417045599",
+    "ingredientes": [
+      "Tranches de pommes 58.4% (pommes",
+      "sel",
+      "antioxydant : E300",
+      "acidifiant E330)",
+      "farine de BLE. BEURRE",
+      "eau",
+      "compote de pomme 5.3% (purée de pommes 4.6% sucre)",
+      "poudre d'AMANDES",
+      "sucre roux",
+      "sel. Peut contenir OEUFS",
+      "FRUITS A COQUES",
+      "SOJA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/541/704/5599/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beef Braising",
+    "marca": "Asda",
+    "ean": "0255470002676",
+    "ingredientes": [
+      "Beef Braising"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/547/000/2676/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "CAFE DOLCA",
+    "marca": "NESCAFE",
+    "ean": "02554754",
+    "ingredientes": [
+      "CAFE SOLUBLE Y CARAMELO (30%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/255/4754/front_es.8.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Boneless, Skinless, Split, & Extra Lean Chicken Breasts",
+    "marca": "Kirkland Signature",
+    "ean": "0255503927365",
+    "ingredientes": [
+      "Chicken breasts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/550/392/7365/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Brioche Pur Beurre",
+    "marca": "Leclerc",
+    "ean": "0255514019226",
+    "ingredientes": [
+      "farina da blé",
+      "oeufc",
+      "gau",
+      "poudro au beurre (baurra",
+      "protéingc da lait",
+      "parméat (Il) lactosérum",
+      "émulsifiant : E471)",
+      "sucre",
+      "lavura",
+      "! lute da blé",
+      "cal",
+      "farina da chicorée",
+      "dextroca",
+      "fibra da blé",
+      "arômes",
+      "farine da blé malté",
+      "colow.jnt bâta-carotòna",
+      "anzymas . alpha-amylases",
+      "hémicallulacac et xylanacac ALLERGENES : glutan",
+      "lait",
+      "oaufc. Produit fabriqué dans un atelier utilisant : soja",
+      "fruits à coque",
+      "moutarde",
+      "grainas da sécama."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471)",
+        "razon": "Contiene émulsifiant : E471), impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "hémicallulacac et xylanacac ALLERGENES : glutan",
+        "razon": "Contiene hémicallulacac et xylanacac ALLERGENES : glutan, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/551/401/9226/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Paupiette de dinde",
+    "marca": "Savic",
+    "ean": "0255516057134",
+    "ingredientes": [
+      "Escalope de dinde",
+      "farce 31%(viande de volaille)",
+      "eau",
+      "chapelure (blé)",
+      "sel",
+      "dextrose",
+      "sucre",
+      "régulateur d'acidité E263",
+      "épices",
+      "antioxidant E300",
+      "extrait d'épice",
+      "lactate de sodium E325",
+      "acetates de sodium E262",
+      "fibre de blé"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/551/605/7134/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de pintade",
+    "marca": "Savic",
+    "ean": "0255525036212",
+    "ingredientes": [
+      "Pintade"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/552/503/6212/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "From raclette fume carre",
+    "marca": "Leclerc",
+    "ean": "0255560036345",
+    "ingredientes": [
+      "LAIT",
+      "sel",
+      "ferments",
+      "enzymes coagulantes",
+      "colorant rocou",
+      "conservateur: E235"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/025/556/003/6345/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

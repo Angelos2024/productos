@@ -1,0 +1,755 @@
+[
+  {
+    "nombre": "Saucisse de Toulouse",
+    "marca": "Jean Rozé",
+    "ean": "0212443026305",
+    "ingredientes": [
+      "viande de porc 93% eau",
+      "sel",
+      "dextrose de maïs",
+      "poivre",
+      "antioxydants : ascorbate de sodium et acide ascorbique",
+      "boyau naturel de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/244/302/6305/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet jaune",
+    "marca": "Volaé",
+    "ean": "0212444437759",
+    "ingredientes": [
+      "POULET JAUNE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/244/443/7759/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet",
+    "marca": "Volae",
+    "ean": "0212446033652",
+    "ingredientes": [
+      "Poulet prêt à cuire né élevé et abattu en France"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/244/603/3652/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet jaune",
+    "marca": "Volaé",
+    "ean": "0212447029456",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/244/702/9456/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet jaune",
+    "marca": "Volaé",
+    "ean": "0212447044749",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/244/704/4749/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Farci poitevin",
+    "marca": "Le Farci Poitevin",
+    "ean": "0212454029715",
+    "ingredientes": [
+      "bette",
+      "OEUFS seille",
+      "poireaux",
+      "oignons s l'ggtlculture française NO do lot:"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/245/402/9715/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "minestrone di verdure e legumi",
+    "marca": "vallericca",
+    "ean": "02124713",
+    "ingredientes": [
+      "carote",
+      "zucchine",
+      "biete da costa",
+      "zucca",
+      "sedano",
+      "cipolle",
+      "cavolo verza)",
+      "acqua",
+      "piselli)",
+      "olio extra vergine di oliva",
+      "sale",
+      "semilavorato di basilico (Basilico Genovese D.O.P.. olio di semi di girasole",
+      "sale Questa confezione contiene 2 porzioni da circa 31 marino)",
+      "semilavorato di prezzemolo (prezzemolo fresco",
+      "olio di girasole",
+      "sale marino). Senza glutine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/212/4713/front_it.3.400.jpg",
+    "tahor": true,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "rôti de porc",
+    "marca": "le farci poitevin",
+    "ean": "0212473027556",
+    "ingredientes": [
+      "IP Le Farci Poi 86160 Sommieres Du Clain - Tel ROTI DE PORC A L'ANCIENN Ingrėdìents : filet de porc Français",
+      "ail frais",
+      "sel",
+      "épices",
+      "arômes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/247/302/7556/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Deux pavés à grillee (bœuf)",
+    "marca": "Intermarché/Jean Rozé",
+    "ean": "0212474042770",
+    "ingredientes": [
+      "Bœuf 100%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/247/404/2770/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "2 steaks à griller",
+    "marca": "Intermarché/Boucherie Jean Rozé",
+    "ean": "0212475033784",
+    "ingredientes": [
+      "Bœuf 100%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/247/503/3784/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Extra Lean Ground Beef",
+    "marca": "Foodland",
+    "ean": "0212477306671",
+    "ingredientes": [
+      "extra lean beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/247/730/6671/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Eucalygum sugar free",
+    "marca": "Eucalygum",
+    "ean": "02124808",
+    "ingredientes": [
+      "Zoetstof: maltitolsiroop geleermiddel arabische gom-kleurstof E150d-kokosolie-glansmiddel carnaubawas menthol (0.29%) natuurlijk aroma's",
+      "anijs",
+      "eucalyptus - aroma vanille-zoetstof steviolglycosiden uit stevia. Kan sporen bevatten van ei",
+      "noten en tarwe."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/212/4808/front_nl.3.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Une entrecôte à griller (bœuf)",
+    "marca": "Intermarché/Boucherie Jean Rozé",
+    "ean": "0212484026968",
+    "ingredientes": [
+      "bœuf 100%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/248/402/6968/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pointrine fumee",
+    "marca": "Jean Roze",
+    "ean": "0212490012733",
+    "ingredientes": [
+      "Poitrine de porc (Origine : France)",
+      "sel",
+      "dextrose de maïs",
+      "arôme",
+      "antioxydant : ascorbate de sodium",
+      "conservateur : nitrite de sodium. Traces éventuelles de lait."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/249/001/2733/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Souris d'Agneau Dorée au Four",
+    "marca": "Intermarché, Jean Rozé",
+    "ean": "0212509040344",
+    "ingredientes": [
+      "Souris d'agneau assaisonnée (Origine : UE) 94 % (gigot ou épaule d'agneau",
+      "eau",
+      "arôme",
+      "ail",
+      "sel",
+      "épaississant: E407a",
+      "thym déshydraté 0",
+      "poivre)",
+      "jus au thym 6 % (eau",
+      "arôme",
+      "ail",
+      "poivre",
+      "feuilles de thym déshydratées 0",
+      "colorant : E150b",
+      "amidon modifié de maïs)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/250/904/0344/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Queso Fresco",
+    "marca": "Cocina Selecta",
+    "ean": "0212522405304",
+    "ingredientes": [
+      "Pasteurized whole milk",
+      "cheese culture",
+      "salt",
+      "enzymes.past cows milk",
+      "salt",
+      "enzymes",
+      "cultures",
+      "rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212548035752",
+    "ingredientes": [
+      "FILETS DE POULET BLANC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/803/5752/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212549021068",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/902/1068/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les filets de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212549029989",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/902/9989/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212549033658",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/903/3658/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les filets Poulet",
+    "marca": "Père Dodu",
+    "ean": "0212549035683",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/903/5683/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212549038776",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/903/8776/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "2 filets de poulet jaune",
+    "marca": "Douce France",
+    "ean": "0212549045330",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/254/904/5330/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "8 aiguillettes de poulet jaune",
+    "marca": "Père Dodu",
+    "ean": "0212551027294",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/255/102/7294/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212551036340",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/255/103/6340/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les cuisse de poulet",
+    "marca": "Père Dodu",
+    "ean": "0212552016860",
+    "ingredientes": [
+      "Cuisse de poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/255/201/6860/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Les hauts de cuisses poulet",
+    "marca": "Père Dodu",
+    "ean": "0212563023352",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/256/302/3352/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sharp cheddar",
+    "marca": "Mariano's",
+    "ean": "0212575905035",
+    "ingredientes": [
+      "Pasteurised milk",
+      "salt",
+      "cheese cultures",
+      "enzymes cows milk",
+      "rennet",
+      "salt",
+      "cultures enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Chili Pork Empanadas",
+    "marca": "Whole Foods Market",
+    "ean": "0212578000003",
+    "ingredientes": [
+      "Cooked Pork Shoulder (pork",
+      "sunflower and/or safflower oil",
+      "salt",
+      "black pepper)",
+      "Hominy (white corn",
+      "water",
+      "salt)",
+      "Tomatillo Sauce (tomatillos",
+      "onions",
+      "garlic",
+      "sunflower and/or safflower oil",
+      "serrano chiles",
+      "cumin)",
+      "Cornstarch",
+      "Dough (enriched wheat flour [niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid",
+      "malted barley flour]",
+      "organic palm fruit shortening",
+      "water",
+      "liquid whole eggs with citric acid",
+      "milk [vitamin d3] and/or whole powdered milk",
+      "deactivated yeast",
+      "aluminum free baking powder [sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "corn starch",
+      "monocalcium phosphate]",
+      "salt)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/257/800/0003/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cake energie",
+    "marca": "Bio C’Bon",
+    "ean": "0212578002397",
+    "ingredientes": [
+      "Fruits secs* 42 % (raisins secs*",
+      "pâte de figue*",
+      "abricots*",
+      "amandes complètes*",
+      "noisettes *l. farines de céréales* T65*",
+      "riz complet*)",
+      "eau",
+      "levain de blé* (farine de blé T65*",
+      "eau)",
+      "jus de raisin concentré*",
+      "miel*",
+      "poudre levante* (fécule de pomme de terre*",
+      "bicarbonate de sodium",
+      "acide tartrique)",
+      "levure*",
+      "sel marin non raffiné."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/257/800/2397/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rôti de filet de dinde",
+    "marca": "père dodu",
+    "ean": "0212586051561",
+    "ingredientes": [
+      "filet de dinde 90%",
+      "barde naturelle de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/258/605/1561/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Etorki",
+    "marca": "Leclercq, Leclercs",
+    "ean": "0212592033582",
+    "ingredientes": [
+      "LAIT de brebis pasteurisé",
+      "sel",
+      "ferments",
+      "Conservateurs E 235 E 1105 ( extrait de blanc d'OEUF ). Croûte non destinée à être consommée . Fabrique dans un atelier utilisant du lait de vache",
+      "chevre et brebis. 50% MG sur extrait sec S 35% MG sur produit fini Fromagerie des chaumes? 964110 Jurancon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/259/203/3582/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Découpes Dinde",
+    "marca": "Père Dodu",
+    "ean": "0212599025917",
+    "ingredientes": [
+      "Dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/259/902/5917/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "3 Month Manchego Pc Cheese",
+    "marca": "Gran Valle",
+    "ean": "0212599107682",
+    "ingredientes": [
+      "Pasteurized sheep milk",
+      "cheese cultures",
+      "enzymes",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Comte French Gruyere Cheese",
+    "marca": "3 Comtois",
+    "ean": "0212629309680",
+    "ingredientes": [
+      "Raw cow's milk",
+      "salt",
+      "animal rennet",
+      "cheese culture"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "2 escalopes extra fines de dinde",
+    "marca": "pere dodu",
+    "ean": "0212693024205",
+    "ingredientes": [
+      "viande de dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/269/302/4205/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalope de dinde",
+    "marca": "Douce France",
+    "ean": "0212700009973",
+    "ingredientes": [
+      "escalope extra fine de dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/270/000/9973/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Veg Crisps",
+    "marca": "Tyrrells",
+    "ean": "0212700014694",
+    "ingredientes": [
+      "mélange de légumes en proportions variables (betterave",
+      "huile de tournesol",
+      ".sel de mer. Produit conditionné sous Fabriqué en Angleterre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/270/001/4694/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Primo taglio, muenster cheese",
+    "marca": "Primo Taglio",
+    "ean": "0212719804323",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "annatto (for color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Face rock creamery, aged cheddar cheese",
+    "marca": "Face Rock Creamery",
+    "ean": "0212799509118",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "culture",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Facerock creamery, vampire slayer premium handmade cheese, garlic cheddar",
+    "marca": "Facerock Creamery",
+    "ean": "0212800108071",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "salt",
+      "garlic seasoning culture",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Colby Jack Natural Cheese",
+    "marca": "Kraft",
+    "ean": "02129107",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto (color)",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/212/9107/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gorgonzola au mascarpone",
+    "marca": "Boucherie André",
+    "ean": "0212912027949",
+    "ingredientes": [
+      "Lait de vache pasteurisé",
+      "présure",
+      "sel",
+      "penicillium. crème !fieclaraiion nutritionnelle pour 100 g : energie 1655kj 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/291/202/7949/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jersey Mike's Subs, Chicken Caesar Wrap On Wheat Wrap",
+    "marca": "Jersey Mike's Subs",
+    "ean": "0212984910109",
+    "ingredientes": [
+      "undefined"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fontina Cheese",
+    "marca": "Trader Joe’s",
+    "ean": "0213006004198",
+    "ingredientes": [
+      "Pasteurized Part Skim Milk",
+      "CheeseCultures",
+      "Salt",
+      "Animal Rennet",
+      "Calcium Chloride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/300/600/4198/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Always Tender, Bone-In Thick Pork Loin Chops",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0213009305353",
+    "ingredientes": [
+      "Solution ingredients: water",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Гель для мытья детской посуды6",
+    "marca": "BIO няня",
+    "ean": "0213025930690",
+    "ingredientes": [
+      "гСПь ДЛЯ МЫТЬЯ MBITBA BiO ДеТской ПОСУДЫ АЛОЭ ВЕРА Гель BIO HЯНЯ сочетает в себе свойства мягких ПАВ и увлажняющих + свойств экстракта алоэ вера. Прекрасно удаляет загрязнения и ухаживает за кожей рук",
+      "с которыми соприкасается зебенок. Экономно Гипоаллергенность средства подтверждена расходуется. лабораторией Hamilton",
+      "Польша (Отчет об исследовании Ne142447/13/GDY/Z1 от 06.11.2013 г.). Способ применения: нанести несколько капель на влажную губку",
+      "&lt",
+      "&lt",
+      "тел. 451-47-40. Импортер и opганизация",
+      "ул. Казинца .1П. 121A",
+      "www.lifeGroup.by КP-нда шағымдарды калылдайтын импортшы: ЖШс «ЛЕК»",
+      "т. 43-60-61 . Претензии в РК принимает: ТOО фирма индекс 10004 г. Караганда",
+      "Г фосфонатів. Дерматологічно тестовано. Cпосiб застосування: нанести декилька крапель на вологу губку",
+      "протерти посуд і ретельно змити пд проточною водою. Додавати засіб за необxідністю. Застережні заходи: збеpiгати в недоступних дпей та тварин місцях. При попаданні в очі ретельно промити водою. Можива Пдвищена індивідуальна чутливість до окремих компонентів. Захищати від ди прямого сонячного проміння. Після використання засобу упаковку утилізувати як побутовІ ВІдходи. 1 30 «Стокист»",
+      "лит. Е. Импортер в РБ: од: 5-15% AHIOННI ПАР",
+      "&lt",
+      "ПАРФМЕГ oзиця",
+      "МЕТИЛХЛОРОЗОТIАЗОЛІНОН",
+      "МЕТ! ЛІЗОТIАЗОЛІНнон. нШI КОМПОНЕНТИ: ЕКСТРАКТ АЛОЕ ВЕРА. 1 Дата виготовлення",
+      "партія N Придатний до (число",
+      "рік) 500 ml (мл) UA.TR.001"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/302/593/0690/front_ru.4.400.jpg",
+    "tahor": true,
+    "pais": "Ukraine"
+  },
+  {
+    "nombre": "Sourdough Bread",
+    "marca": "Sprouts Farmers Market",
+    "ean": "0213030605491",
+    "ingredientes": [
+      "Unbleached Bread Flour",
+      "Sour Culture",
+      "Natural Yeast",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/303/060/5491/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Poulet fermier bio Lyré",
+    "marca": "Lyré",
+    "ean": "0213041102927",
+    "ingredientes": [
+      "POULET JAUNE FERMIER BIOLOGIQUE levé par La Grande Brosse frais classe A. Conditionné sous atmosphère protectrice conserver à 0°C +4°C"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/304/110/2927/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

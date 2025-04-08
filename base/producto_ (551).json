@@ -1,0 +1,838 @@
+[
+  {
+    "nombre": "Piemontaise au jambon superieur",
+    "marca": "Carrefour",
+    "ean": "02116376",
+    "ingredientes": [
+      "Pommes de terre cuites salées 43",
+      "jaune d'œuf",
+      "eau",
+      "vinaigre d'alcoci",
+      "sel",
+      "moutarde de Dijon (eau",
+      "graines de moutarde",
+      "vinaigre d'alcool",
+      "sel)]",
+      "tomates 13",
+      "jambon blanc cuit supérieur 11 (jambon de porc 10",
+      "eau",
+      "sel",
+      "dextrose",
+      "arômes",
+      "antioxydant : éMünorbate de sodium",
+      "conservateur : nifrite de sodium)",
+      "œufs durs 6",
+      "comichons",
+      "poivre blanc",
+      "persil",
+      "Viande de porc origine France."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon blanc cuit supérieur 11 (jambon de porc 10",
+        "razon": "Contiene jambon blanc cuit supérieur 11 (jambon de porc 10, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/6376/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Onion Sub Bun",
+    "marca": "Sprouts",
+    "ean": "0211652105993",
+    "ingredientes": [
+      "Flour (Wheat Flour",
+      "Malted Barley Flour)",
+      "Water",
+      "Semolina Flour",
+      "Canola Oil",
+      "Dehydrated Minced Onion",
+      "Sugar",
+      "Yeast",
+      "Salt",
+      "Vital Wheat Gluten",
+      "Vinegar",
+      "Enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/165/210/5993/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "1 Steak",
+    "marca": "Jean Rozé, Les Mousquetaires, Sélection Intermarché",
+    "ean": "0211660023425",
+    "ingredientes": [
+      "Steak de bœuf."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/166/002/3425/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "tartines crasuantes à la châtaigne",
+    "marca": "la vie claire",
+    "ean": "02116705",
+    "ingredientes": [
+      "farine de riz demi complet",
+      "farine de châtaigne 20%",
+      "sel marin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/6705/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon cuit supérieur coeur de couenne",
+    "marca": "Le porc Français",
+    "ean": "0211694013713",
+    "ingredientes": [
+      "DE COUENNE CUIT TRANCHES + 1 TR NGREOIEIiTS Jambon de pore. nras et de port sel dext mseboutffon (os de porc",
+      "potteauxarottetarômes naturels ) tonsejvateurs ascorbate de sodium",
+      "de sodium",
+      "!eur:",
+      "nutntlonnelles moyennes pour 100g 639 kJ/"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "DE COUENNE CUIT TRANCHES + 1 TR NGREOIEIiTS Jambon de pore. nras et de port sel dext mseboutffon (os de porc",
+        "razon": "Contiene DE COUENNE CUIT TRANCHES + 1 TR NGREOIEIiTS Jambon de pore. nras et de port sel dext mseboutffon (os de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coeur de couenne",
+    "marca": "Intermarché Sélection",
+    "ean": "0211694015946",
+    "ingredientes": [
+      "Jambon de porc",
+      "gras et couenne de porc",
+      "sel",
+      "dextrose",
+      "bouillon (os de naturels",
+      "poireaux",
+      "carotte",
+      "arômes naturels) conservateurs:ascorbate de sodium",
+      "nitrite de sodium."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc",
+        "razon": "Contiene Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/169/401/5946/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Rego rapid recovery",
+    "marca": "Sis",
+    "ean": "02117111",
+    "ingredientes": [
+      "wheat flour",
+      "water",
+      "rye flour",
+      "water) wheat protein",
+      "salt",
+      "stabilizer guar gum",
+      "yeast",
+      "acidity regulator sodium acetate",
+      "rye malt flour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jambon le torchonay",
+    "marca": "intermarché",
+    "ean": "0211719015685",
+    "ingredientes": [
+      "INGREDIENTS. Jambon de porc sel dextrose. bouillon (OS de porc.poireau",
+      "carotte aromes naturels). conservateurs ascorbaté de sodium nitrite de sodiun."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "INGREDIENTS. Jambon de porc sel dextrose. bouillon (OS de porc.poireau",
+        "razon": "Contiene INGREDIENTS. Jambon de porc sel dextrose. bouillon (OS de porc.poireau, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/171/901/5685/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon de Bayonne",
+    "marca": "Intermarche",
+    "ean": "0211721022435",
+    "ingredientes": [
+      "France)",
+      "sel",
+      "conservateur : nitrate de po - tassium. Salé au sel de Salies de Béarn. Séché et af - finé dans le Bassin de l'Adour. Certifié par : CERTISUD - 64000 PAU"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/172/102/2435/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon de Bayonne 12 mois d'affinage minimum",
+    "marca": "Intermarché",
+    "ean": "0211721029397",
+    "ingredientes": [
+      "Jambon de porc (origine France)",
+      "sel."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc (origine France)",
+        "razon": "Contiene Jambon de porc (origine France), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/172/102/9397/front_fr.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "vendome",
+    "marca": "belgique",
+    "ean": "02117315",
+    "ingredientes": [
+      "sucre",
+      "noisettes",
+      "beurre de cacao",
+      "lait entier en poudre",
+      "pâte de cacao",
+      "cacao maigre en poudre",
+      "lait écrémé en poudre",
+      "émulsifiant",
+      "lécithines(tournesol)",
+      "matière grasse de lait anhydre",
+      "arôme nature de vanille",
+      "traces éventuelles d'autres fruits à coque",
+      "de céréales",
+      "contenant du gluten et de soja."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Belgique"
+  },
+  {
+    "nombre": "brochettes de boeuf",
+    "marca": "Jean roze",
+    "ean": "0211769080954",
+    "ingredientes": [
+      "Ingrédients Viands bovine fongine: France] 80%",
+      "poivron."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/176/908/0954/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet rotis",
+    "marca": "Volaé",
+    "ean": "0211791027811",
+    "ingredientes": [
+      "Filets de poulet avec peau",
+      "eau",
+      "huile de tournesol",
+      "sel",
+      "cassonade",
+      "sirop de glucose",
+      "protéines de pois",
+      "fibres de carotte",
+      "gélifiant: carraghénanes. 109 g de filet de poulet sont mis en œuvre pour obtenir 100 g de produit fini."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/102/7811/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Volae",
+    "ean": "0211791029914",
+    "ingredientes": [
+      "Filets de poulet (Origine : France) (90%)",
+      "eau",
+      "conservateurs : lactate de potassium et acétates de sodium",
+      "stabilisants : triphosphates",
+      "arômes",
+      "dextrose",
+      "sel",
+      "épaississant : carraghénanes. I"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/102/9914/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet",
+    "marca": "Volaé",
+    "ean": "0211791030040",
+    "ingredientes": [
+      "depodet cuit&",
+      "th.aité& en 'daman. : Filets de poulet (Origine : France) (90%)",
+      "eau",
+      "conservateurs : lactate de poüssium et acétates de sodium",
+      "stabilisants : triphosphates",
+      "arômes dextrose",
+      "sel",
+      "épaissis%nt:",
+      "À consommerjusqu'au:voirsurl'emballage arraghénanes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/0040/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet rôtis",
+    "marca": "Volaé",
+    "ean": "0211791030118",
+    "ingredientes": [
+      "Filets de poulet avec peau",
+      "huile de tournesol",
+      "sel",
+      "cassonade",
+      "sirop de glucose",
+      "protéines de pois",
+      "fibres de carotte",
+      "gélifiant : carraghénanes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/0118/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Volea",
+    "ean": "0211791030248",
+    "ingredientes": [
+      "a.aŒé& en potasjum et acétates de sodium",
+      "stabilisants : triphosphates",
+      "arômes dextrose",
+      "sel",
+      "épaissisgn arra$énar16 : À consommerjusquiau : voir sur l'emballage. onmeraufroidentre00Cet+40CÀconsommerrapidementaprèsouverture Retirez les filets de la barquette",
+      "placez-les dans un plat adapté. Réchauffez 3 minutes à 700W 000 les filets de la barquette",
+      "placez-les dans uh plat adapté. fffez dans un four préchauffé à 1800C (th 6) 12 minutes",
+      "À consommer chaud ou froid une"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/0248/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet Rôtis",
+    "marca": "Volaé",
+    "ean": "0211791030835",
+    "ingredientes": [
+      "Jn9hédi2Ato : Filets de poulet (Origine : France) (90%)",
+      "eau",
+      "conservateurs : lactate de poussium et acétates de sodium",
+      "stabilisants : triphosphates",
+      "arômes demse",
+      "sel",
+      "épaississant : arraghénanese À conmeraufroidentre00Cet+40CÀconsommerrapidement"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/0835/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de Poulet Rôti",
+    "marca": "Intermarché, Volaé",
+    "ean": "0211791031351",
+    "ingredientes": [
+      "Filets de poulet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/1351/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet rotis",
+    "marca": "Volaé",
+    "ean": "0211791032273",
+    "ingredientes": [
+      "depode± cuito en In4'Vdi2Atb : filets de poulet (Origine : France) eau",
+      "consetvateurs : lactate de et acétates de sodium",
+      "stabilisants : triphosphates arômes",
+      "dextrose",
+      "sel",
+      "épaississant: arra$énara : Àconsommerjusqu'au:voirsurl'emballage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/2273/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet roti",
+    "marca": "Volaé",
+    "ean": "0211791032471",
+    "ingredientes": [
+      "FdetJ depau?et cuitJ",
+      "tiaitéb en Ingiédienb {nasium et acétates de sodium stabilËnts : dextrose 4 épaisÉ: arrad)énan6 À conE1?rau"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/2471/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet rotis",
+    "marca": "Volaé",
+    "ean": "0211791032808",
+    "ingredientes": [
+      "dep$det cam en"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/2808/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fillet de poulet rotis",
+    "marca": "Volaé",
+    "ean": "0211791032938",
+    "ingredientes": [
+      "depuet cuito biaité& en dataiuev. Tngaédient& : Filets de poulet (Origine: France) (90%)",
+      "eau",
+      "conservateurs : lactate de potassium et acétates de sodium",
+      "stabilisants : triphosphates",
+      "arômes dextrose",
+      "sel",
+      "épaississ carraghénanes",
+      ": À consommerjusqu'au : voir sur l'emballage. À conserver au froid entre 0 oc et + 4 OC. À consommer rapidement après ouverture. * micao—anŒ Retirez les filets de la barquette 0 placez-les dans un plat adapté",
+      "P/Lépaiatia.vv Réchauffez 3 minutes à 700W"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/2938/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet rôtis",
+    "marca": "Volaé, Volaé ( intermarché )",
+    "ean": "0211791033782",
+    "ingredientes": [
+      "de padeZ cuitòè en tézliento : filets de poulet (Origne : France) de potassium et acétates de sodiufll : triphosphates dE(troset sel",
+      "épaississants. carraghénanes",
+      "Àccnscmmerjusquhau:voirsufl$embètlage A consençer au froid entre 0 cc et + 4 À coanmmer rapidement"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/3782/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "Volaé",
+    "ean": "0211791034635",
+    "ingredientes": [
+      "Filets de poulet avec peau",
+      "eau",
+      "huile de tournesol",
+      "sel",
+      "cassonade",
+      "sirop de glucose",
+      "protéines de pois",
+      "fibres de carotte",
+      "gélifiant : carraghénanes. 109 g de filet de poulet sont mis en œuvre pour obtenir 100 g de produit fini."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/4635/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet roti",
+    "marca": "Volaé",
+    "ean": "0211791035229",
+    "ingredientes": [
+      "Inghé.dienb frets de poulet issisgnt: carraghénanes À conserver du rroid entre 0 oc et +4 À R irez les filet",
+      "deiabarquette",
+      "dans un chauffez 3 mihutes à 700W Retirez les filets la barquet ve",
+      "placez-les dans un plat adapté. Réchauffez dans un four préchauffé à 180'C (th 6) pendant 12 filinutes À consommer chaud ou froid tiff* 9) 635 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/5229/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet rôtis",
+    "marca": "Volaé",
+    "ean": "0211791035366",
+    "ingredientes": [
+      "Filets de poulet avec peau",
+      "eau",
+      "huile de tournesol",
+      "sel",
+      "cassonade",
+      "sirop de glucose",
+      "protéines de pois",
+      "fibres de carotte",
+      "gélifiant : carraghénanes. 109 g de filet de poulet sont mis en œuvre pour obtenir 100 g de produit fini."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/5366/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet rotis",
+    "marca": "Volaé",
+    "ean": "0211791038909",
+    "ingredientes": [
+      "depouÜet cuito biaité& en - Tngiédient&",
+      "filets de poulet (Origine : France) (90%)",
+      "eau",
+      "conservateurs : lactate de poüssium etacétates desodium",
+      "stabilisants : triphosphates",
+      "arômes",
+      "dextose",
+      "sel",
+      "épaississant : carraghénanes Ji/oimatian& • À consommerjusqu'au À corserverau füdentre 0 OC et +4 OC"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/103/8909/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet",
+    "marca": "Volaé",
+    "ean": "0211792029586",
+    "ingredientes": [
+      "Cuisses de poulet",
+      "eau",
+      "sel",
+      "cassonade",
+      "sirop de glucose",
+      "protéines de pois",
+      "fibres de carotte.  107 g de cuisse de poulet sont mis en œuvre pour obtenir 100 g de produit fini."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/202/9586/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet rôti",
+    "marca": "Volaé",
+    "ean": "0211792030315",
+    "ingredientes": [
+      "depaaŒ adieu cutteu aaitéeb en : Cuisses de poulet (Origine : France) (90%) eau",
+      "conservateurs : . lactate de potassium et acétates de sodium",
+      "stabilisants triphosphates",
+      "arômes",
+      "dextrose",
+      "sel",
+      "épaississant carraghénanes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/203/0315/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses poulet roties",
+    "marca": "Volaé",
+    "ean": "0211792032401",
+    "ingredientes": [
+      "Cuisses de poulet (Origine : France) (9%)",
+      "eau",
+      "conservateurs lactate de potassium et acétates de sodium",
+      "stabilisants : triphosphates",
+      "arômes",
+      "dex!rose",
+      "sel",
+      "épaississant : carraghénanes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/203/2401/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet rôties",
+    "marca": "Volaé",
+    "ean": "0211792035556",
+    "ingredientes": [
+      "Cuisses de poulet (origine France)",
+      "au",
+      "sel",
+      "cassonade",
+      "sirop de glucose",
+      "protéines de pois",
+      "fibre de carotte",
+      "gélifiant : carraghénanes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/179/203/5556/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Alpro  no sugars oat",
+    "marca": "Alpro",
+    "ean": "02118110",
+    "ingredientes": [
+      "Haverbasis (97",
+      "haver [8",
+      "oplosbare maïsvezel",
+      "zonnebloemolie",
+      "calcium [calciumcarbonaat)",
+      "zeezout",
+      "stabilisator (gellangom)",
+      "vitaminen B2",
+      "B12",
+      "D2."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/8110/front_nl.3.400.jpg",
+    "tahor": true,
+    "pais": "Netherlands"
+  },
+  {
+    "nombre": "Emmental français",
+    "marca": "Itinéraires des Saveurs",
+    "ean": "0211831014962",
+    "ingredientes": [
+      "Lait cru de vache (origine France)",
+      "sel",
+      "ferments lactiques (lait)",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/183/101/4962/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Spaghetti and meatballs bowl",
+    "marca": "Marie callender's",
+    "ean": "02118444",
+    "ingredientes": [
+      "Savory Meatballs over Spaghetti in a Slow-Simmered Italian-Style Tomato Sauce"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/8444/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain bûcheron",
+    "marca": "Leclerc",
+    "ean": "0211855009845",
+    "ingredientes": [
+      "eau",
+      "farine bucheron (FARINE DE BLÉ",
+      "FARINE DE SEIGLE",
+      "graines de tournesol",
+      "sel",
+      "ISSUES SOJA",
+      "araines de lin",
+      "SOJA CONCASSE",
+      "epaississant est 2. FARINE bE BLE MALTE",
+      "SESAME",
+      "dextrose",
+      "GLUTEN acidifiant e270",
+      "EXTRAIT DE MALT(MALT DORGEFAC). emulsifiant e472e",
+      "correcteur d'acidite e341",
+      "FARINE E BLE MALTE ET TORREFIE",
+      "LACTOSERUM EN POUDRE",
+      "de traitement de la farine e300",
+      "enzymes(alpha-amyiase) farine t65 (FARINE DE BLE T65",
+      "FARINE DE BLE MALTE",
+      "enzymes(atpha?amylase et hemicellulases)",
+      "agent de traitement de la farine)",
+      "levure (levure de anification de saccharom scerevisiae Valeur s nutt itionnolles tnoyenno« pour 1000"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "EXTRAIT DE MALT(MALT DORGEFAC). emulsifiant e472e",
+        "razon": "Contiene EXTRAIT DE MALT(MALT DORGEFAC). emulsifiant e472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/185/500/9845/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Eko",
+    "marca": "Nestlé",
+    "ean": "02119021",
+    "ingredientes": [
+      "Cebada ecológica (60%)",
+      "centeno ecológico (20%)",
+      "achicoria ecológica (20%). 7."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/9021/front_es.4.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Kraft Medium Cheddar Cheese",
+    "marca": "Kraft",
+    "ean": "02119207",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized nonfat and milkfat",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto [color])",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/9207/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "pistaches décortiquer",
+    "marca": "belbake",
+    "ean": "02119225",
+    "ingredientes": [
+      "pistaches"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/9225/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de  dinde en tournedos",
+    "marca": "Volaé",
+    "ean": "0211933024531",
+    "ingredientes": [
+      "Filet de dinde (origine France) 87% minimum",
+      "barde de porc naturelle 13% maximum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/193/302/4531/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Extra Moelleux Complet Sans sucres ajoutés",
+    "marca": "Harry's",
+    "ean": "0211937001507",
+    "ingredientes": [
+      "Farine complète de blé 45%",
+      "eau",
+      "farine de blé 25%",
+      "huile de colza",
+      "arôme (contient alcool)",
+      "gluten de blé",
+      "sel",
+      "levure",
+      "vinaigre",
+      "extrait d'acérola."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/193/700/1507/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Souris d'agneau dorée au four",
+    "marca": "Jean Rozé",
+    "ean": "0211937038053",
+    "ingredientes": [
+      "Souris d'agneau assaisonnée (Origine : UE) 94% (gigot ou épaule d'agneau",
+      "eau",
+      "arôme",
+      "ail",
+      "sel",
+      "épaississant : E401a",
+      "thym déshydraté 0",
+      "poivre)",
+      "jus au thym 6% (eau",
+      "arôme",
+      "ail",
+      "poivre",
+      "feuilles de thym déshydratées 0",
+      "colorant : E150b",
+      "amidon modifié de maïs)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/193/703/8053/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Souris d’Agneau dorée au four",
+    "marca": "Jean Rozé",
+    "ean": "0211937045136",
+    "ingredientes": [
+      "Souris d’agneau assaisonnée (Origine : UE) 94% (gigot ou épaule d'agneau",
+      "eau",
+      "arôme",
+      "ail",
+      "sel",
+      "épaississant : E407a",
+      "thym déshydraté poivre)",
+      "jus au thym (eau",
+      "arôme",
+      "ail",
+      "poivre",
+      "feuilles de thym déshydratées 0",
+      "colorant : E150b",
+      "amidon modifié de maïs)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/193/704/5136/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Natural cheese mild cheddar",
+    "marca": "Kraft",
+    "ean": "02119401",
+    "ingredientes": [
+      "pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto",
+      "natamycin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/211/9401/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Boneless Skinless Chicken Breast Fillets With Rib Meat",
+    "marca": "Sanderson Farms",
+    "ean": "0211946711015",
+    "ingredientes": [
+      "chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/194/671/1015/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

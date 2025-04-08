@@ -1,0 +1,543 @@
+[
+  {
+    "nombre": "Halloween Sprinkles Zuckerstreusel",
+    "marca": "flying tiger",
+    "ean": "0200030572649",
+    "ingredientes": [
+      "Zucker",
+      "Reismehl",
+      "ganz gehärtetes Rapsöl",
+      "ganz gehärtetes Rapsfett",
+      "fettarmer Kakao",
+      "Kartoffelstärke",
+      "Farbstoffe (E 100",
+      "E120",
+      "E163)",
+      "Süßkartoffelkonzentrat",
+      "Apfelkonzentrat",
+      "Rettich - konzentrat",
+      "Kirschkonzentrat. Trocken bei Raumtemperatur",
+      "vor Sonnenlicht geschützt und vor Fremdgerüchen geschützt lagern."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E120",
+        "razon": "Contiene E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "Slovakia"
+  },
+  {
+    "nombre": "Tarte aux pommes croustade",
+    "marca": "Maison",
+    "ean": "0200032208256",
+    "ingredientes": [
+      "PATE: FARINE",
+      "LAIT. SHORTENING",
+      "POUDRE PA TE ET SEL. POHHES",
+      "GRUAU. CASSONADE",
+      "BEURRE",
+      "SUCRE",
+      "STABILISANT. PEUT CONTENIR : BLE",
+      "GLUTEN",
+      "soya",
+      "LAIT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pâte feuilletée pur beurre extra fin",
+    "marca": "SARL François",
+    "ean": "0200034018891",
+    "ingredientes": [
+      "Farine de gruau",
+      "beurre extra fin A.O.P. Charentes Poitou 33%",
+      "eau",
+      "sel.  Sans adjonction d'aucun produit chimique ni conservateur."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/003/401/8891/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "comte harmonie",
+    "marca": "carrefour",
+    "ean": "0200037024400",
+    "ingredientes": [
+      "COMTE HARMONIE Appellation d'origine protegee.Au LAI cru de vache",
+      "Fromage a pate presse cui'e",
+      "LAIT CRU",
+      "sel",
+      "Ferments lactique presure Origine: Fromageries MARCEL PETITE 09-2018e Doids net"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/003/702/4400/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Beignets Gourmands à l'Abricot de Provence",
+    "marca": "Intermarché",
+    "ean": "0200040019356",
+    "ingredientes": [
+      "BEIGNETS fourrés àl'ABRlCOT de Provence de BL Françai 37%",
+      "ioürrpge de gluçoseœ. fructose",
+      "purée d'à ricotÜ% (Sbricot$de ProVence)",
+      "épaiSSissapts (El 422)",
+      "colorànt naturel (E160c/ conservateur (E211))",
+      "eau",
+      "huiles végétales (tournesol 6%",
+      "colza)",
+      "oÉUF frais sel",
+      "GLUTEN DE d'P91t9dëxt{-inae p/oiéineS d41Tl épaiàsissant• (E412",
+      "E415)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/004/001/9356/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Flocons d'avoine",
+    "marca": "Crownfield",
+    "ean": "0200040302663",
+    "ingredientes": [
+      "Flocons d'avoine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/004/030/2663/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic beef meatballs",
+    "marca": "M&S organic",
+    "ean": "0200044033433",
+    "ingredientes": [
+      "beef (94%)",
+      "potato flour",
+      "water",
+      "sea salt",
+      "ground nutmeg",
+      "black pepper",
+      "antioxidant: ascorbic acid",
+      "rosemary extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/004/403/3433/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Brioche Nanterre",
+    "marca": "Leclerc",
+    "ean": "0200052013052",
+    "ingredientes": [
+      "farine de BLF BEURRE 15",
+      "OEUFS frais",
+      "eau",
+      "sucre",
+      "levure",
+      "emulsifiants: E4?1-E48frE'V2es getifiants: gomme de cellulose - alginate de sodium",
+      "apaississants: farine de graines de cat cuba-gomme guars GLUTEN de BLE sel",
+      "agent de traitement da ta farine: acide ascorbique",
+      "colorant d'origine naturelle: luteine",
+      "enzymes. Presence eventuclte de sesame",
+      "de soja",
+      "de fruits a coque et de sulfites. BEURRE BLE GLUTEN OEUFS 711argènes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/005/201/3052/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tome de l’izoard",
+    "marca": "Fromagerie de la Durance",
+    "ean": "0200052050774",
+    "ingredientes": [
+      "LAIT cru de vache",
+      "sel de Camargue",
+      "ferments Lactiques",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/005/205/0774/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fromage de l'abbaye de Tamié",
+    "marca": "Abbaye de Tamié",
+    "ean": "0200056073403",
+    "ingredientes": [
+      "_Lait_",
+      "sel",
+      "ferments _lactiques_",
+      "présure"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/005/607/3403/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette de tradition française",
+    "marca": "Leclerc",
+    "ean": "0200060004592",
+    "ingredientes": [
+      "Farine de Blé",
+      "GLUTEN de BLÉ",
+      "Eau",
+      "Levure",
+      "Sel",
+      "farine de BLÉ malté."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/006/000/4592/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Paneer",
+    "marca": "Everest",
+    "ean": "0200062001933",
+    "ingredientes": [
+      "Whole Milk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/006/200/1933/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Auchan pate à pain fabriquée maison",
+    "marca": "auchan",
+    "ean": "0200080008204",
+    "ingredientes": [
+      "Farine de BLE. GLUTEN de BLE",
+      "farine de BLE",
+      "malte",
+      "levure désactivée",
+      "agent de traitement de la farine: E300. eau. levure. sel (antiagglomérant E535). améliorant(farine de BLE. émulsifiant E471",
+      "antioxydant E300. enzyme).  A CONSERVER ENTRE 0 ET4 - NE PAS CONSOMMER CRUE"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "agent de traitement de la farine: E300. eau. levure. sel (antiagglomérant E535). améliorant(farine de BLE. émulsifiant E471",
+        "razon": "Contiene agent de traitement de la farine: E300. eau. levure. sel (antiagglomérant E535). améliorant(farine de BLE. émulsifiant E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/008/000/8204/front_fr.6.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain figues",
+    "marca": "Auchan",
+    "ean": "0200090025840",
+    "ingredientes": [
+      "Houlbie pain aux figues(farine de BLE",
+      "figues sechees au soleil 17",
+      "levain de BLE desactive",
+      "GLUTEN de BLE",
+      "antioxydant:E300) eau",
+      "levure",
+      "sel(antiagglomerant:E535)",
+      "ingredient 5"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/002/5840/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Selles- sur-Cher",
+    "marca": "Fromagerie d'Anjouin",
+    "ean": "0200090031162",
+    "ingredientes": [
+      "LAIT cru de chèvre",
+      "Ferments",
+      "sel",
+      "présure",
+      "colorant : charbon végétal."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/003/1162/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fromage de chevre",
+    "marca": "Sainte Maure De Touraine",
+    "ean": "0200092041008",
+    "ingredientes": [
+      "Lait de chèvre",
+      "fetments",
+      "sel",
+      "colorant : charbon vegetal",
+      "présure. 12)t é",
+      "et. ssi 250g A ct%etser a ? 2'C: ? 18*C"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/204/1008/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fromage de chevre au lait cru",
+    "marca": "le Sainte-Maure-de-Touraine",
+    "ean": "0200092045266",
+    "ingredientes": [
+      "LAIT cru de chevre",
+      "Ferments",
+      "sel",
+      "presure",
+      "colorant: charbon vegetal."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/204/5266/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boule de froment",
+    "marca": "E.leclerc",
+    "ean": "0200093005900",
+    "ingredientes": [
+      "ste a pain (farine_mie creme t 65 (farine de blé (  GLUTEN)",
+      "amylases fongiques",
+      "malt",
+      "antioxydant",
+      "acide ascorbique)",
+      "eau",
+      "améliorant $500 sécurité",
+      "R (Farine de blé",
+      "antiagglomérant (carbonate de  calcium (E170)) émulsifiant (mono et diglycérides d'  acides gras (E471))",
+      "antioxydant (acide ascorbique  E300))",
+      "enzymes (blé) (xylanases))",
+      "sel fin (Chlorure  de sodium)",
+      "levure kastalia (Levure",
+      "sel",
+      "stabilisant  gomme xanthane.))"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "antiagglomérant (carbonate de  calcium (E170)) émulsifiant (mono et diglycérides d'  acides gras (E471))",
+        "razon": "Contiene antiagglomérant (carbonate de  calcium (E170)) émulsifiant (mono et diglycérides d'  acides gras (E471)), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/300/5900/front_fr.11.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Valençay",
+    "marca": "Selection  Guillaumin",
+    "ean": "0200093034771",
+    "ingredientes": [
+      "lait de chèvre",
+      "ferments",
+      "sel",
+      "colorant : charbon végétal",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/303/4771/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "บะหมี่หมูหม่าล่า",
+    "marca": "เทอร์เทิล,Turtle",
+    "ean": "02000940",
+    "ingredientes": [
+      "วัตถุเจือปนอาหาร (INS 262(i)",
+      "INS 260",
+      "INS 296",
+      "INS 471",
+      "INS 551)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Thailand"
+  },
+  {
+    "nombre": "Sechon Chèvre",
+    "marca": "Carrefour",
+    "ean": "0200097017053",
+    "ingredientes": [
+      "LAIT thermisé de chevre",
+      "Ferments lactiques",
+      "sel",
+      "présure."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/009/701/7053/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "El mexicano, part skim milk cheese",
+    "marca": "El Mexicano",
+    "ean": "0200098502091",
+    "ingredientes": [
+      "Pasteurized grade a milk",
+      "salt and enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy charlotte baby potato salad",
+    "marca": "Simply Better,Dunnes Stores",
+    "ean": "0200102940000",
+    "ingredientes": [
+      "Baby Charlotte Potatoes (71%)",
+      "Mayonnaise (21%) [Rapeseed Oil",
+      "Water",
+      "Pasteurised Free Range _Egg_ Yolk",
+      "Spirit Vinegar",
+      "Sugar",
+      "Salt",
+      "_Mustard_ Flour",
+      "_Mustard_ Husk",
+      "Sea Salt",
+      "Ground Pimento",
+      "Ground Turmeric)",
+      "Sour Cream (_Milk_) (4.5%)",
+      "Onions",
+      "Spring Onions (1.5%)",
+      "Chives",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/010/294/0000/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Roulade nature",
+    "marca": "Auchan",
+    "ean": "0200103021388",
+    "ingredientes": [
+      "Maigre et gras de porc",
+      "eau",
+      "fécule de pomme de terre",
+      "stabilisant: E450",
+      "épices et plantes aromatiques",
+      "sirop de glucose",
+      "exhausteur de goût: E621",
+      "antioxydant: E316",
+      "arômes",
+      "colorant: E120",
+      "sel",
+      "conservateurs: E120 et E250"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colorant: E120",
+        "razon": "Contiene colorant: E120, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "conservateurs: E120 et E250",
+        "razon": "Contiene conservateurs: E120 et E250, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/010/302/1388/front_fr.8.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Corsica",
+    "marca": "Corsica",
+    "ean": "0200105066653",
+    "ingredientes": [
+      "Fromage de brebis au lait pasteurisé (origine France)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/010/506/6653/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon de pays",
+    "marca": "Ferme Le Villemagnol",
+    "ean": "0200106026113",
+    "ingredientes": [
+      "jambon de porc",
+      "sel",
+      "dextrose",
+      "saccharose"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "jambon de porc",
+        "razon": "Contiene jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/010/602/6113/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Magret de Canard Gras Séché",
+    "marca": "DAVID LEMASSON",
+    "ean": "0200108043958",
+    "ingredientes": [
+      "MAGRET",
+      "SEL",
+      "POIVRE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/010/804/3958/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Epaule de porc cuite",
+    "marca": "Tinel",
+    "ean": "0200111018561",
+    "ingredientes": [
+      "EPAULE DE PORC CUITE SUPERIEURE DECOUENNEE DEGRAISSEE 6 tr de porc origine FRANCE",
+      "eau",
+      "oléorésines et huiles essentielles épices",
+      "huile de cohza",
+      "aromes",
+      "sirop de qlucose de sucre",
+      "antioxydants : E301",
+      "E316",
+      "conservateur: E250"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/011/101/8561/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "jambon cuit superieur",
+    "marca": "tinel",
+    "ean": "0200111023817",
+    "ingredientes": [
+      "Jambon de porc  eau sel oleoresines et huiles essentielles d'épices huiles de colza arôme sirop de glucose antioxidant  E301E316 conservateur E250"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc  eau sel oleoresines et huiles essentielles d'épices huiles de colza arôme sirop de glucose antioxidant  E301E316 conservateur E250",
+        "razon": "Contiene Jambon de porc  eau sel oleoresines et huiles essentielles d'épices huiles de colza arôme sirop de glucose antioxidant  E301E316 conservateur E250, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/011/102/3817/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  }
+]

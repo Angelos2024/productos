@@ -1,0 +1,1219 @@
+[
+  {
+    "nombre": "Premium Extra Virgin Olive Oil",
+    "marca": "Eliki",
+    "ean": "0201203040026",
+    "ingredientes": [
+      "Extra virgin olive oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh Extra Lean Ground Beef",
+    "marca": "Markets Of Meijer",
+    "ean": "0201207706119",
+    "ingredientes": [
+      "Beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain tradition",
+    "marca": "Intermarché",
+    "ean": "0201214011152",
+    "ingredientes": [
+      "Farine de blé Type T65",
+      "Farine pour pain tradition française",
+      "Gluten de blé."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/121/401/1152/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bretzels",
+    "marca": "Leclerc",
+    "ean": "0201216009843",
+    "ingredientes": [
+      "Farine (farine de blé tendre (GLUTEN)",
+      "GLUTEN de blé levure désactivée",
+      "agent de traitement de la farine: E300",
+      "eau",
+      "huile de colza",
+      "levure",
+      "améliorant (sucre farine de blé malté (GLUTEN)",
+      "épaississant E412v émulsifiants E472e",
+      "E417",
+      "correcteur d'acidité E450",
+      "extrait de malt (malt d'orge (GLUTEN)",
+      "eau)",
+      "huile végétale de colza",
+      "antioxydant E300)",
+      "sel fin",
+      "correcteur d'acidité: E524",
+      "LAIT. 1 sachet de gros sel (gros sel",
+      "antiagglomérant E535)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "épaississant E412v émulsifiants E472e",
+        "razon": "Contiene épaississant E412v émulsifiants E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/121/600/9843/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Escalopes de porc",
+    "marca": "Leclerc",
+    "ean": "0201217006490",
+    "ingredientes": [
+      "Porc",
+      "origine France"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/121/700/6490/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Silber",
+    "marca": "Bissinger Auerquelle",
+    "ean": "0201222588028",
+    "ingredientes": [
+      "Natürliches Mineralwasser",
+      "Zucker",
+      "Kohlensäure",
+      "Säuerungsmittel Citronensäure",
+      "natürliches Aroma"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/122/258/8028/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Côtes filet avec os x 1",
+    "marca": "Leclerc",
+    "ean": "0201227006763",
+    "ingredientes": [
+      "Porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/122/700/6763/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Côtes filet avec os x 1",
+    "marca": "Leclerc",
+    "ean": "0201227008798",
+    "ingredientes": [
+      "Porc origine France"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/122/700/8798/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pizza Junior",
+    "marca": "Leclerc",
+    "ean": "0201235035427",
+    "ingredientes": [
+      "Pâte à pizza : (FARINE (Farine de BLÉ type 45.)",
+      "eau",
+      "huile d'olive",
+      "sel (Sel",
+      "antiagglomérant : E536): levure de boulangerie): jambon supérieur (Jambon de porc",
+      "Sel",
+      "bouillon (eau",
+      "sel",
+      "gélatine de porc",
+      "arôme naturel",
+      "conservateur E250",
+      "arômes naturels",
+      "dextrose",
+      "antioxydant E316",
+      "conservateur E250 (viande origine France",
+      "sauce pizza aromatisée (purée de tomates (légumes frais 87 %",
+      "(pulpe de tomates fraîches avec morceaux",
+      "purée de tomates fraîches",
+      "oignons frais)",
+      "eau",
+      "sel",
+      "huile de tournesol",
+      "Sucre",
+      "Fécule de pomme de terre transformée",
+      "plantes aromatiques",
+      "jus de citron concentré",
+      "aromates",
+      "épaississant",
+      "gomme xanthane))",
+      "EMMENTAL RÂPÉ (EMMENTAL râpé français aU LAIT pasteurisé (fromage à pâte pressée cuit 28 %MG dans produit fini))",
+      "MOZZARELLA",
+      "S.P.I.(LAIT pasteurisé",
+      "ferments LACTIQUES",
+      "sel",
+      "antiaqglomérants (E461ii) 38 % MG sur produit fini.)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "antiagglomérant : E536): levure de boulangerie): jambon supérieur (Jambon de porc",
+        "razon": "Contiene antiagglomérant : E536): levure de boulangerie): jambon supérieur (Jambon de porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/123/503/5427/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pavé boisé",
+    "marca": "Leclerc",
+    "ean": "0201242008728",
+    "ingredientes": [
+      "_Pâte froment_ (_farine vrac_ (farine de _blé_ T65",
+      "_gluten_ de _blé_",
+      "malt de _blé_",
+      "enzymes (alpha-amylases-hémicellulases et xylanases)",
+      "agent de traitement (acide ascorbique))",
+      "eau",
+      "_phil germe de froment_ (farine de _blé_",
+      "levain de germe dévitalisé déshydraté (_gluten_)",
+      "enzymes fongiques",
+      "acide ascorbique)",
+      "levure (levure",
+      "sel",
+      "stabilisant (gomme xanthane))",
+      "_améliorant_ farine de _blé_",
+      "émulsifiant (E471)",
+      "_gluten_",
+      "vital de _blé_",
+      "levure désactivée",
+      "germes de _blé_",
+      "agent de traitement de la farine (E300)",
+      "enzymes)",
+      "sel (sel",
+      "E535)))",
+      "_mélange boisé_ (_graines de sésames_ (_sésame...."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant (E471)",
+        "razon": "Contiene émulsifiant (E471), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/124/200/8728/front_fr.6.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Canadian Snow Crab Meat",
+    "marca": "Sea-Trek Gold",
+    "ean": "0201250000752",
+    "ingredientes": [
+      "Crabe sauvage (Chionoecetes Opilio)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/125/000/0752/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "La brandade de morue parmentière",
+    "marca": "Briau",
+    "ean": "0201253037854",
+    "ingredientes": [
+      "Morue 38% (gadus spp)",
+      "pommes de terre 37%",
+      "huile de tournesol ou de colza",
+      "poudre de lait",
+      "oignons",
+      "flocons de pommes de terre",
+      "ail pulpe (ail) sel)",
+      "persil",
+      "sel",
+      "poivre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/125/303/7854/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Markets of meijer, fresh ground beef",
+    "marca": "Markets Of Meijer",
+    "ean": "0201258805298",
+    "ingredientes": [
+      "Beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "schoko-bons",
+    "marca": "kinder",
+    "ean": "02012612",
+    "ingredientes": [
+      "chocolat supérieur au LAIT 50% (sucre",
+      "LAIT en poudre",
+      "beurre de cacao",
+      "påte de cacao",
+      "émulsifiants: lécithines [SOJA]",
+      "arômes)",
+      "sucre",
+      "LAIT écrémé en poudre",
+      "huile de palme. NOISETTES 5",
+      "BEURRE concentré",
+      "chocolat noir (sucre",
+      "pâte de cacao",
+      "beurre de cacao",
+      "émulsifiants: lécithines isOJAl",
+      "arômes)",
+      "agents d'enrobage (gomme arabique. gomme schellac). sirop de glucose. émulsifiants : lécithines [soja",
+      "arômes. Sur le total : produits laitiers 28% (lait écrémé en poudre",
+      "lait en poudre : 24",
+      "beurre concentré 3",
+      "cacao"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/201/2612/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain chocolat (x 5)",
+    "marca": "Carrefour City",
+    "ean": "0201292018371",
+    "ingredientes": [
+      "Farine de blé",
+      "beurre 22%",
+      "lait demi-écrémé pasteurisé",
+      "eau",
+      "chocolat 7.5% (sucre",
+      "pâte de cacao",
+      "beurre de cacao",
+      "émulsifiant",
+      "lécithine de soja",
+      "arôme vanille)",
+      "sucre",
+      "sel",
+      "gluten de blé (dont : oeuf)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/129/201/8371/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Talon de jambon",
+    "marca": "E.Leclerc",
+    "ean": "0201299022630",
+    "ingredientes": [
+      "Ingfedients janibon de de Po arôme naturels.deeurose conservateur. Viande Française Origine France A entie 0 et +40C"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/129/902/2630/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Meijer, boneless spiral sliced ham",
+    "marca": "Meijer",
+    "ean": "0201302618010",
+    "ingredientes": [
+      "Cured with: water",
+      "honey",
+      "salt",
+      "sugar",
+      "sodium phosphate",
+      "sodium erythorbate",
+      "sodium nitrite. glazed with: sugar",
+      "honey",
+      "maltodextrin",
+      "gelatin",
+      "brown sugar",
+      "corn oil",
+      "caramel color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mousse de canard",
+    "marca": "Leclerc",
+    "ean": "0201303014040",
+    "ingredientes": [
+      "Mousse de canard ((76% de canard) graisse de canard",
+      "origine (France) foie maigre de canard",
+      "eau",
+      "oignons",
+      "crème fraiche",
+      "protéine de SOJA",
+      "sel",
+      "arôme naturel",
+      "porto (0.9%). vin rouge",
+      "plantes aromatiques",
+      "crème de cassis",
+      "dextrose",
+      "colorant:E120",
+      "stabilisant: E415",
+      "antioxydant: E301",
+      "conservateur: E250.) Contient : LAIT",
+      "SOJA"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "colorant:E120",
+        "razon": "Contiene colorant:E120, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/130/301/4040/front_en.3.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "St Chevrier Cendré LP19%MG 1KG",
+    "marca": "U",
+    "ean": "0201308013918",
+    "ingredientes": [
+      "_Lait_ de chèvre pasteurisé",
+      "ferments _lactiques_",
+      "présure",
+      "sel",
+      "cendre végétale",
+      "amidon transformé de maïs (_gluten_)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/130/801/3918/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fondant au Chocolat",
+    "marca": "Leclerc",
+    "ean": "0201309025255",
+    "ingredientes": [
+      "ŒUFS",
+      "sucre",
+      "chocolat 19.3% pâte de cacao",
+      "sucre",
+      "ÉMULSIFIANT",
+      "lécithine de SOJA",
+      "arôme vanilline contient fève de cacao et susceptible de contenir des traces ARACHIDE",
+      "BEURRE contient du LACTOSE",
+      "FARINE de BLÉ contient du GLUTEN",
+      "eau",
+      "poudre de cacao 1.93 % en poudre contient de la lécithine de SOJA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/130/902/5255/front_fr.10.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gaufres Natures x4",
+    "marca": "Carrefour",
+    "ean": "0201331019741",
+    "ingredientes": [
+      "oeufs",
+      "farine de blé",
+      "eau",
+      "huile de colza",
+      "lait",
+      "sucre",
+      "sel"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/133/101/9741/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sour cutie worms",
+    "marca": "Eddie World",
+    "ean": "0201337806178",
+    "ingredientes": [
+      "CORN SYRUP",
+      "SUGAR DEXTROSE",
+      "CORN STARCH-MODIFIED",
+      "MALIC ACID",
+      "CITRIC ACID",
+      "SODIUM CITRATE",
+      "NATURAL AND ARTIFICIAL FLAVOR CONFECTIONER'S GLAZE",
+      "CARNAUBA WAX",
+      "BEESWAX",
+      "TITANIUM DIOXIDE",
+      "RED#3 & RED #40"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/133/780/6178/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "2 Pains Chocolat Plaisir du Terroir",
+    "marca": "Leclerc",
+    "ean": "0201338010505",
+    "ingredientes": [
+      "Farine de BLE",
+      "BEURRE Charentes Poitou AOP eau",
+      "chocolat 11% (sucre",
+      "pâte de cacao",
+      "bourre de cacao",
+      "émulsifiant (E322 (lécithine de SOJA))",
+      "arôme naturel de vanille)",
+      "sucre",
+      "levure",
+      "LAIT entier en poudre",
+      "GLUTEN de blé",
+      "sel",
+      "émulsifiant (E322 (Lécithine de colza))",
+      "agent de traitement de la farine (E300)",
+      "enzymes (amylases",
+      "hémicellulases)",
+      "dorure (Œufs)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/133/801/0505/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crepinette orloff",
+    "marca": "Leclerc",
+    "ean": "0201352031623",
+    "ingredientes": [
+      "tChair (Maigre et gras de porc. eau",
+      "assaisonnenent (sel",
+      "dext rose (BLF)",
+      "si ron de glurose. exhausteur de gout E621 glutanate de sodium",
+      "épices et aronates (poivre. muscade)",
+      "NOISETTE en poudre partiel lenent déshui lém antioxydant E300 acide ascorbique' aci di fi ant E330 acide citri que). oignons",
+      "persi l.",
+      "Crepine de porc",
+      "Fromage ( Emmental : I All thermise. 31X MG/Poids total)",
+      "bacon (viande de porc. SI dextrose de BI arone«",
+      "arones de funee",
+      "conservateur r 250. ant i oxydar E 316). tomnte.persil A con?ornner cuit à coeur AI lerqene : Lait. glure n"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/135/203/1623/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "7 days, bagel chips, cinnamon raisin",
+    "marca": "7 Days",
+    "ean": "0201360635745",
+    "ingredientes": [
+      "Wheat flour",
+      "palm oil",
+      "sugar",
+      "raisins 8%",
+      "cinnamon 1%",
+      "oats fiber",
+      "yeast",
+      "salt",
+      "coloring (annatto)",
+      "soy flour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bagel Chips",
+    "marca": "7 Days",
+    "ean": "0201360635752",
+    "ingredientes": [
+      "Wheat flour",
+      "palm oil",
+      "salt",
+      "oats fiber",
+      "sugar",
+      "dehydrated garlic 1%",
+      "yeast",
+      "natural garlic flavoring",
+      "coloring (annatto)",
+      "soy flour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "7 days, bagel chips",
+    "marca": "7 Days",
+    "ean": "0201360635929",
+    "ingredientes": [
+      "Wheat flour",
+      "palm oil",
+      "sesame",
+      "salt",
+      "poppy seed",
+      "sugar",
+      "oats fiber",
+      "caraway seed",
+      "yeast",
+      "onion granules",
+      "garlic granules",
+      "coloring (annatto)",
+      "soy flour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raclette fermière",
+    "marca": "Mère Brazier",
+    "ean": "0201361010473",
+    "ingredientes": [
+      "Raclette Fermière"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/136/101/0473/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Steaks hachés",
+    "marca": "Boucheries André",
+    "ean": "0201361244939",
+    "ingredientes": [
+      "steak haché pur bœuf façon André"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/136/124/4939/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "flan coco",
+    "marca": "Intermarché",
+    "ean": "0201366029524",
+    "ingredientes": [
+      "LAIT ecreme",
+      "sucre",
+      "BEURRE (LAIT)",
+      "poudre a flan (amidons modifies de mais. aôme)",
+      "OEUFS",
+      "semoule de BLE dur (GLUTEN)",
+      "noix de coco 2% (Pourcentade Exprime a la mise en oeuvreleau",
+      "farme de BLE (GLUTEN)",
+      "arôme vanille",
+      "sel",
+      "Colorant: E160a",
+      "E100",
+      "Neuschnee : dextrose",
+      "amidon de FROMENT",
+      "huile de colza-partiellement hydrogenee",
+      "antiagglomerant(s):(E170",
+      "E470b",
+      "matiere grasse de paine-totalement hydrogenee",
+      "arôme."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E470b",
+        "razon": "Contiene E470b, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/136/602/9524/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Muffins Milka",
+    "marca": "Milka",
+    "ean": "0201379022895",
+    "ingredientes": [
+      "FARINE DE BLE",
+      "huile végétale : colza",
+      "eau",
+      "sucre",
+      "Milka chocolat au LAIT du pays alpin (13",
+      "BEURRE de cacao",
+      "POUDRE DE LAIT ECREME",
+      "pâte de cacao",
+      "POUDRE DE LACTOSERUM",
+      "BEURRE clarifié",
+      "PATE DE NOISETTE",
+      "émulsifiant : LECITHINE DE SOJA",
+      "arôme)",
+      "AMIDON DE BLE",
+      "poudre à lever : diphosphates",
+      "carbonates de sodium",
+      "glucono-delta-lactone",
+      "amidon de maïs modifié",
+      "PROTEINE DE LAIT",
+      "farine de riz pré gélatinisée",
+      "POUDRE DE LACTOSERUM",
+      "POUDRE D'ŒUF ENTIER",
+      "correcteur d'acidité : phosphates de calcium",
+      "émulsifiant : stéaroyl-2-lactylate de sodium",
+      "arôme naturel de vanille",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/137/902/2895/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chair à saucisse",
+    "marca": "E. Leclerc",
+    "ean": "0201389039623",
+    "ingredientes": [
+      "maigre et gras de correcteur d'acidite E262",
+      "antioxidant E30naromes",
+      "colrants E 120. bopux naturel. CONSERVER ENTRE OOC ET CONDITIONNE SOUS BTMOSPHERE PROTECTRICE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/138/903/9623/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Carottes râpées",
+    "marca": "Leclerc",
+    "ean": "0201402011353",
+    "ingredientes": [
+      "Tes 93% vinagrete huil de tournesol vinagre d'alcool",
+      "colorant 150 1 xs de otron jeau jus de cron pupeux à base de concentré (40%",
+      "arome naturel de caron acidfant E330)",
+      "sel pore biano moulu"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/140/201/1353/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Breizh burger",
+    "marca": "Leclerc",
+    "ean": "0201404022968",
+    "ingredientes": [
+      "pain burger (farine de _blé_ tendre T65",
+      "_gluten de blé_",
+      "farine de _blé_ malté",
+      "alpha amylases et hémi cellulases",
+      "eau",
+      "_beurre_",
+      "levure fraîche de panification (saccharomyces cerevisiae)",
+      "poudre de _lait_ entier",
+      "lécithine de _soja_",
+      "sucre",
+      "sel",
+      "farine de _blé_",
+      "agent de traitement de la farine",
+      "auxiliaire technologique : huile de tournesol",
+      "enzymes",
+      "_oeufs_)",
+      "haché de bœuf (origine France)",
+      "tomme fermière (_lait_ de vache)",
+      "oignons frais émincés",
+      "mayonnaise maison (huile de colza raffinée",
+      "eau",
+      "graines de _moutarde_",
+      "vinaigre d'alcool",
+      "sel",
+      "E224",
+      "jaune d'_oeuf_ pasteurisé",
+      "poivre)",
+      "andouille de Bretagne (chaudins et panses de porc",
+      "enveloppe : menu de cheval",
+      "_moutarde_ (eau",
+      "graines de _moutarde_",
+      "vinaigre",
+      "sel)",
+      "sel",
+      "arome de fumée",
+      "poivre",
+      "baudruche de bœuf)",
+      "tomates",
+      "tranches de poitrines de porc (poitrine de porc",
+      "eau",
+      "sel",
+      "dextrose)",
+      "cornichons en rondelles (cornichons",
+      "eau",
+      "vinaigre d'alcool et sel",
+      "anti-oxydant : E223)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/140/402/2968/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Donnys assortie",
+    "marca": "Carrefour",
+    "ean": "0201416016405",
+    "ingredientes": [
+      "farine (BLE)",
+      "sucre",
+      "huiles et graisses végétales (palme",
+      "colza",
+      "tournesol",
+      "coprah)? eau",
+      "sirop de glucose",
+      "? dextrose",
+      "levure",
+      "arine de SOJA",
+      "sel",
+      "émulsifiant (E471",
+      "E481",
+      "E472e",
+      "E473)",
+      "stabilisant (sorbitol",
+      "E51 6)",
+      "poudre à lever (E450i",
+      "E500ii)",
+      "poudre de LAIT écrémé",
+      "lactosérum en poudre (LAIT)",
+      "amidon (BLÉ)",
+      "épaississant (E406",
+      "gomme arabique",
+      "' farine de raines de caroube)",
+      "' concentré de ius de gettercve rouge",
+      "colorant (El 71",
+      "curcumine",
+      "El 40)",
+      "arôme naturel",
+      "agent d'enrobage (E904? E901 )",
+      "concentré de betterave. Produit dans une usine qui utiliser: œufs",
+      "fruit à coque."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant (E471",
+        "razon": "Contiene émulsifiant (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E473)",
+        "razon": "Contiene E473), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/141/601/6405/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boule de froment",
+    "marca": "E-LECLERC",
+    "ean": "0201417005903",
+    "ingredientes": [
+      "ELeclerc(L BOULE DE FROMENT Ingrédients pate à pain blanc (FARINE DE BLÉ T65 LUTEN",
+      "enzyms hemicellulase et amylase",
+      "agent traitement de la farine 0300",
+      "eau",
+      "sel",
+      "antiaglomér ant: o535",
+      "FARINE DE BLÉ",
+      "ENZYMES (XYLANANSES)",
+      "acide ascorbique 8300",
+      "mono et diglycérides d'acides gras e471",
+      "leuure de panifica Contient : GLUTEN"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "mono et diglycérides d'acides gras e471",
+        "razon": "Contiene mono et diglycérides d'acides gras e471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/141/700/5903/front_fr.12.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Plateau chipos et merguez",
+    "marca": "Leclerc",
+    "ean": "0201420059764",
+    "ingredientes": [
+      "Viande de porc (origine france)",
+      "viande bovine (origine france)",
+      "viande ovine (origine france)",
+      "épices merguez (épices et aromates",
+      "dont piment",
+      "cumin",
+      "ail",
+      "coriandre",
+      "sel",
+      "sirop de glucose",
+      "dextrose",
+      "anti-oxygènes",
+      "sodium citrate",
+      "sodium ascorbate",
+      "conservateur",
+      "acétate de sodium",
+      "arômes",
+      "colorant",
+      "carmin de cochenille)",
+      "épices aux herbes (sel",
+      "sirop de glucose",
+      "épices",
+      "dont poivre",
+      "persil",
+      "ail",
+      "thym",
+      "sucres",
+      "dextrose",
+      "saccharose",
+      "exhausteur de goût",
+      "glutamate monosodique",
+      "conservateurs",
+      "acétate de sodium",
+      "nitrate de sodium",
+      "antioxydants",
+      "sodium isoascorbate",
+      "sodium ascorbate",
+      "acide lactique",
+      "acide citrique",
+      "colorants",
+      "cochenille",
+      "extrait de paprika",
+      "eau",
+      "boyau ovin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/142/005/9764/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chausson aux pommes",
+    "marca": "Leclerc",
+    "ean": "0201423006567",
+    "ingredientes": [
+      "E.Leclerc MUESL PAI grédients pats viennoise (FARINE DE BLÉ T65. OTEN enzyme hemicellulase et amylase",
+      "agent de aitement de la farine @300",
+      "wau",
+      "CREME",
+      "FERMENTS i RCTIOUES",
+      "sucre",
+      "LACTOSE ET PROTEINES DE LAIT",
+      "matière grasse végétale hydrogénée (coprah)",
+      "aromes RIT)sel",
+      "antiaglomérant: 8535",
+      "FARINE DE BLÉ. FNZYMES (XYLANANSES). acide ascorbique e300",
+      "mona 8 diglycérides d'acides gras e471. polysorbate 80 (s433)",
+      "ENZYMES [BLE] (AMYLASES)",
+      "carotène bêta ( 160a)",
+      "acide ascorbique (e200)",
+      "acide citrique (8330) m no et diglycerides d'acides gras (e471)",
+      "gomme de guar e412)",
+      "muesli 11% (raisin secs (raisin",
+      "agent d'e irobage huile végétale)",
+      "cubes abricot sechés (al ricot",
+      "agent d'enrobage farine de riz",
+      "cranberies dés nydratées (cranbarris",
+      "sucre",
+      "agent d'anrobage huis de tournesol). FLOCONS DE BLE",
+      "Cube d'ananas desnydraté (ananas",
+      "sucre",
+      "acidifiant: @330). FLOCON D'R DINE",
+      "cube de papave déshydratés ( papaye",
+      "sucre ECLATS DE NOISETTE ANTIOXYDANTS E220) Cor.tient LAIT",
+      "GLUTEN FRUIT A COQUE. SULFITES"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "mona 8 diglycérides d'acides gras e471. polysorbate 80 (s433)",
+        "razon": "Contiene mona 8 diglycérides d'acides gras e471. polysorbate 80 (s433), impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "acide citrique (8330) m no et diglycerides d'acides gras (e471)",
+        "razon": "Contiene acide citrique (8330) m no et diglycerides d'acides gras (e471), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/142/300/6567/front_fr.10.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Grosse galette",
+    "marca": "Leclerc",
+    "ean": "0201423036083",
+    "ingredientes": [
+      "BEURRE' sucre semoule' coule d'ÜELlFS ( I OEA entiers)' far ine (far ing de BLE tendre type 65",
+      "gLllTEN de BCE' far ine de BLE malté' enz mes : hémicel lulases et alp a-anylases",
+      "agent de traitement la far ine E300 acide ascorbiqugy - carbonate acide dp levurechimique (di phosphate disodi ue Ed50i far ine de BLEI sel FABRICRTION sodium E500i i"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/142/303/6083/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "chouquettes",
+    "marca": "Carrefour",
+    "ean": "0201424009840",
+    "ingredientes": [
+      "OEUFS",
+      "eau",
+      "sucre",
+      "farine de BLE",
+      "BEURRE",
+      "poudres à lever : diphosphates - carbonates de sodium - phosphates de calcium",
+      "amidon de BLE",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/142/400/9840/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Donut",
+    "marca": "Carrefour",
+    "ean": "0201427006563",
+    "ingredientes": [
+      "Farine de blé",
+      "huile de palme",
+      "eau",
+      "glaçage 11% (sucre",
+      "graisses végétales (palmiste",
+      "coco)",
+      "huile de palme",
+      "émulsifiant (E322)",
+      "colorant (El 71)",
+      "arôme]",
+      "décor 5",
+      "farine de riz",
+      "beurre de cacao",
+      "épaississant (E413)",
+      "colorants (EIOI",
+      "E120",
+      "E163",
+      "E141)",
+      "arôme)",
+      "sucre",
+      "margarine [huile et graissc végétale (palme",
+      "colza)",
+      "eau",
+      "jus de citron]",
+      "levure",
+      "sel",
+      "émulsifiant* (E471",
+      "E472e",
+      "E481)",
+      "gluten",
+      "poudre à lever (E450i-E500ii)",
+      "dextrose",
+      "stabilisant (E412)",
+      "lactosérum en poudre",
+      "lactose. Présence éventuelle de fruits à coque."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E120",
+        "razon": "Contiene E120, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiant* (E471",
+        "razon": "Contiene émulsifiant* (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/142/700/6563/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Donut",
+    "marca": "Carrefour",
+    "ean": "0201427006563",
+    "ingredientes": [
+      "Farine de blé",
+      "huile de palme",
+      "eau",
+      "glaçage 11% (sucre",
+      "graisses végétales (palmiste",
+      "coco)",
+      "huile de palme",
+      "émulsifiant (E322)",
+      "colorant (El 71)",
+      "arôme]",
+      "décor 5",
+      "farine de riz",
+      "beurre de cacao",
+      "épaississant (E413)",
+      "colorants (EIOI",
+      "E120",
+      "E163",
+      "E141)",
+      "arôme)",
+      "sucre",
+      "margarine [huile et graissc végétale (palme",
+      "colza)",
+      "eau",
+      "jus de citron]",
+      "levure",
+      "sel",
+      "émulsifiant* (E471",
+      "E472e",
+      "E481)",
+      "gluten",
+      "poudre à lever (E450i-E500ii)",
+      "dextrose",
+      "stabilisant (E412)",
+      "lactosérum en poudre",
+      "lactose. Présence éventuelle de fruits à coque."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "E120",
+        "razon": "Contiene E120, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "émulsifiant* (E471",
+        "razon": "Contiene émulsifiant* (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/142/700/6563/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "German Farmer Bread",
+    "marca": "sheepshead bay marketplace",
+    "ean": "0201431804995",
+    "ingredientes": [
+      "wheat flour water salt yeast"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "DOTS NOISETTES X4",
+    "marca": "E.Leclerc",
+    "ean": "0201433020997",
+    "ingredientes": [
+      "Farine de BLE",
+      "eau",
+      "graisses végétales (palme. palmiste",
+      "coco",
+      "karité)",
+      "sucre",
+      "huile végétale (tournesol)",
+      "LAIT écrémé en poudre",
+      "sérum de LA en poudre",
+      "morceaux de biscuits (farine de BLE sucre",
+      "graisse végétale (palme)",
+      "amidon de BLE",
+      "émulsifiant (E322))",
+      "dextrose",
+      "beurre de cacao. cacao dégraissé en poudre",
+      "levure",
+      "farine de SOJA",
+      "pâte de cacao",
+      "BEURRE",
+      "sel",
+      "LAIT en poudr émulsifiants (E471",
+      "E481",
+      "E322)",
+      "poudres à lever (E450",
+      "E500)",
+      "arômes naturels et arômes",
+      "huile d beurre",
+      "agent de traitement de la farine (E300)",
+      "colorant (E160a). Peut contenir des traces de: ufs et produits à base d uf/Fruits à coque."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "LAIT en poudr émulsifiants (E471",
+        "razon": "Contiene LAIT en poudr émulsifiants (E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/143/302/0997/front_fr.9.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Ski Queen, Ekte Gjetost Cheese",
+    "marca": "Pcc",
+    "ean": "0201437319790",
+    "ingredientes": [
+      "Whey",
+      "cream",
+      "pasteurized goat's milk."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jambon Vendée fine tranche",
+    "marca": "Leclerc",
+    "ean": "0201439008869",
+    "ingredientes": [
+      "Jambon de porc français",
+      "sel",
+      "eau de vie",
+      "épices et aromates",
+      "dextrose",
+      "saccharose",
+      "arômes naturels",
+      "ferments",
+      "conservateurs : salpêtre."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon de porc français",
+        "razon": "Contiene Jambon de porc français, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/143/900/8869/front_fr.9.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cambozola Soft Ripened Cheese",
+    "marca": "Champignon",
+    "ean": "0201441508005",
+    "ingredientes": [
+      "Pasteurized cow's milk",
+      "cream",
+      "culture",
+      "salt",
+      "enzymes",
+      "penicillium roqueforti",
+      "penicillum camemberti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

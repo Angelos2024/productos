@@ -1,0 +1,857 @@
+[
+  {
+    "nombre": "Saint Agur crème",
+    "marca": "Saint Agur, Savencia",
+    "ean": "0201452012140",
+    "ingredientes": [
+      "Fromage (50%)",
+      "_lait_",
+      "eau",
+      "protéines de lait",
+      "sels émulsifiants (E450",
+      "E452)",
+      "acidifiant (acide lactique)",
+      "sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/145/201/2140/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "5 Croissants + 5 Pains au Chocolat",
+    "marca": "Leclerc",
+    "ean": "0201456028864",
+    "ingredientes": [
+      "Farine (BLÉ",
+      "BLÉ malté)",
+      "beurre 24",
+      "eau",
+      "sucre",
+      "levure",
+      "GLUTEN de BLÉ",
+      "sel",
+      "poudre de LAIT entier",
+      "levain",
+      "d'ÉPEAUTRE complet déshydraté",
+      "extrait de malt d'ORGE",
+      "lactosérum (LAIT)",
+      "agent de traitement de la farine (acide ascorbique)",
+      "enzyme (xylanase) (dont BLÉ). Dorure : ŒUFS frais"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/145/602/8864/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "roti porc orloff",
+    "marca": "Leclerc",
+    "ean": "0201464073931",
+    "ingredientes": [
+      "E.LECLERC O 50600 ST HILAIRE DU HARCOUET ROTI PORC ORLOFF Longe de porc 67%",
+      "Emmental 20%(LAIT pasteurisé",
+      "ferments lactiques",
+      "sel)",
+      "bacon 10% (carré filet de porc",
+      "eau",
+      "sel",
+      "acidifiants: E325",
+      "E331)",
+      "dextrose",
+      "aromes",
+      "aromede fumée",
+      "suere",
+      "antioxydant:E301",
+      "conservateur:E250ltomates 36."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/146/407/3931/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tarte au citron",
+    "marca": "Leclerc",
+    "ean": "0201467017055",
+    "ingredientes": [
+      "sucre",
+      "farine de blé (GLUTEN)",
+      "purée de citron (13",
+      "BEURRE",
+      "eau",
+      "OEUFS",
+      "sirop de sucre inverti",
+      "amandes en poudre(FRUlTS A COQUES)",
+      "LAIT entier",
+      "amidons modifiés: pomme de terre",
+      "maïs",
+      "sirop de glucose",
+      "sirop de glucose-fructose",
+      "LAIT écrémé en poudre",
+      "jaunes d'OEUFS",
+      "émulsifiants: E471",
+      "E322(SOJA)",
+      "poudre de LACTOSERUM doux",
+      "masse de cacao",
+      "épaississants: E406",
+      "E466",
+      "E410",
+      "beurre de cacao",
+      "extrait de curcuma",
+      "arômes colorants: El 60c",
+      "El 71",
+      "El 72",
+      "correcteur d'acidité: E331 iii",
+      "acidifiant: E330",
+      "gélifiant: E440ii. Énergie (Kilojoules) . 1407 100 g",
+      "Énergie (Kilocalories) 1"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants: E471",
+        "razon": "Contiene émulsifiants: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/146/701/7055/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Morue salée séchée",
+    "marca": "Delabli, Sans marque",
+    "ean": "0201467123121",
+    "ingredientes": [
+      "_Morue_",
+      "sel (18% mini)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/146/712/3121/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pork Backribs",
+    "marca": "Sterling Silver",
+    "ean": "0201468014442",
+    "ingredientes": [
+      "Pork backribs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pain complet maison",
+    "marca": "Intermarché",
+    "ean": "0201473008535",
+    "ingredientes": [
+      "Farine de blé T65",
+      "son de blé",
+      "remoulage de blé",
+      "levain de seigle et de bie devitalisés",
+      "farine de seigle t170",
+      "malt d'orge torréfié",
+      "émulsifiant: E472e",
+      "dextrose de blé",
+      "agent de traitement de la farine : E300",
+      "enzymes",
+      "Eau",
+      "Sel",
+      "Levure - Allergènes BLE",
+      "GLUTEN",
+      "SEIGLE"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant: E472e",
+        "razon": "Contiene émulsifiant: E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/147/300/8535/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Organic Free Range Thin Sliced Chicken Breasts",
+    "marca": "Simply Nature",
+    "ean": "0201480507403",
+    "ingredientes": [
+      "Chicken breast",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/148/050/7403/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh Pork Long Feet",
+    "marca": "Shoprite",
+    "ean": "0201500004127",
+    "ingredientes": [
+      "Fresh pork long feet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Amandines aux poires",
+    "marca": "E.leclerc",
+    "ean": "0201506013789",
+    "ingredientes": [
+      "tartelette poire (89% . poire sirop (demi-poires",
+      "eau",
+      "sucre",
+      "correcteur d'acidité  acide citrique (E330) )",
+      "fond tartelette sucre surgelee 8.5 cm (farine de BLE  BEURRE concentré 18% (matière grasse butirique colorant E160a) sucre 18%  eau OEUFS sel)",
+      "creme amande (OEUFS",
+      "amande poudre (24% 100%  amandes(FRUITS A COQUE))",
+      "sucre",
+      "BEURRE (CREME pasteurisée 97%  ferments lactiques 3%)",
+      "farine (farine de BLE",
+      "GLUTEN de BLE enzymes",
+      "acide  ascorbique))",
+      "nappage blond (eau",
+      "sirop de glucose-fructose",
+      "sucre",
+      "gelifiants (  pectine",
+      "carraghénanes)",
+      "correcteur d'acidité (acide citrique",
+      "phosphates de  potassium",
+      "citrate de calcium)",
+      "arôme",
+      "colorants (caroténoides))"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/150/601/3789/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon braisé bio",
+    "marca": "Ferme Durr",
+    "ean": "0201509044612",
+    "ingredientes": [
+      "IN6REDIENTS : Jambon braisé slas*",
+      "Eau",
+      "Sel nitrité",
+      "Dextrose*",
+      "Hntioxvdant: EOI * Issu de L'agriculture biologique Lot33617 1508"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "IN6REDIENTS : Jambon braisé slas*",
+        "razon": "Contiene IN6REDIENTS : Jambon braisé slas*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/150/904/4612/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain burger",
+    "marca": "E.Leclerc",
+    "ean": "0201536010505",
+    "ingredientes": [
+      "Ingrédients pâte à burger (farine de blé t65",
+      "GLUTEN de blé",
+      "farine de blé lait origine: ue)",
+      "sucre",
+      "sel",
+      "antiagglomérant e535)",
+      "mélange graines malté",
+      "enzymes",
+      "alpha-amylase",
+      "eau",
+      "œuf",
+      "levure",
+      "beurre ( jaune",
+      "graines de tournesol décortiqué",
+      "graines de pavot bleu) VALEURS quintessence (graines de lin brun",
+      "graines de millet décortiqué",
+      "graines de lin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/153/601/0505/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisse de porc fumee",
+    "marca": "Charcuterie Artisanale",
+    "ean": "0201543037007",
+    "ingredientes": [
+      "Maigre de porc&quot",
+      "Conservateur Selnitrite",
+      "Sel",
+      "Sucre Epice et Plantes Aromatiques",
+      "Antioxydant: Extrait de Romarin*",
+      "Boyau naturel de porc Issu de l'agriculture biologiqueLot25517 1543"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/154/303/7007/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisse de porc fumee bio",
+    "marca": "Ferme Dur",
+    "ean": "0201543038318",
+    "ingredientes": [
+      "INGREûIENT5 : Maigre de porc*",
+      "Conservateur : SeLnitrité",
+      "Sel",
+      "Sucre t",
+      "Epice* et Plantes Bromatiques*",
+      "Rntiaxydant:Extrait de Romarin*",
+      "Boyau naturel de porc * Issu de L'agriculture biologique 1543"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/154/303/8318/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain au chocolat",
+    "marca": "E. Leclerc",
+    "ean": "0201545010824",
+    "ingredientes": [
+      "INGREOiENTS. Pain Meuniers (Farine de BLES",
+      "BEURRE (22",
+      "chocolat 10% [sucre pate de cacao",
+      "BEURRE de cacao",
+      "émulsifiant . lécithine de SOJA arôme naturel de vanille ]sucre",
+      "levure",
+      "poudre de LAIT entier (1",
+      "GLUTEN DE BLE",
+      "sel",
+      "farine de BLE malté",
+      "enzymes",
+      "agent de traitement de la farine E3C émulsifiant. lécithine de tournesol. Dorure OEUF (0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/154/501/0824/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chirashi saumon avocat",
+    "marca": "Leclerc",
+    "ean": "0201549062645",
+    "ingredientes": [
+      "Elcclcrc@ POKE CHIRRSHI"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/154/906/2645/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignon de porc",
+    "marca": "Picard",
+    "ean": "0201556038770",
+    "ingredientes": [
+      "Porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/155/603/8770/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignon de porc",
+    "marca": "picard",
+    "ean": "0201556043569",
+    "ingredientes": [
+      "Filet mignon de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/155/604/3569/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "PETIT BASQUE 33% BREBIS CHÈVRE",
+    "marca": "Picard",
+    "ean": "0201556053209",
+    "ingredientes": [
+      "Filet mignon de porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/155/605/3209/front_fr.23.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignon de porc surgelé",
+    "marca": "Picard",
+    "ean": "0201556056026",
+    "ingredientes": [
+      "porc"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/155/605/6026/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignon de porc",
+    "marca": "Picard",
+    "ean": "0201556060481",
+    "ingredientes": [
+      "Filet mignon de porc (France*) *Issu d'animaux nés",
+      "élevés",
+      "abattus et transformés en France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/155/606/0481/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sweet Memory Peaches",
+    "marca": "S&W Fine Foods  Inc.",
+    "ean": "02015610",
+    "ingredientes": [
+      "Peaches",
+      "water",
+      "brown sugar",
+      "cinnamon."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Galette Frangipane Indiv.",
+    "marca": "E.Leclerc",
+    "ean": "0201563016402",
+    "ingredientes": [
+      "Pâte 59",
+      "beurre (33%) (LAIT)",
+      "eau",
+      "sel)",
+      "Garniture 39% (poudre d’AMANDES blanchies (FRUITS A COQUE) 23%",
+      "sucre",
+      "BEURRE (LAIT) (20",
+      "Lait entier",
+      "OEUF",
+      "amidon",
+      "rhum",
+      "arôme naturel de vanille",
+      "arôme)",
+      "dorure 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/156/301/6402/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Sweet Italian Sausage",
+    "marca": "Shop Rite",
+    "ean": "0201579810476",
+    "ingredientes": [
+      "Ingredients: pork",
+      "water",
+      "salt",
+      "spices (including fennel and pepper)",
+      "paprika",
+      "spice extractives."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fleischnaka",
+    "marca": "Ferme Durr",
+    "ean": "0201581028678",
+    "ingredientes": [
+      "Farine*",
+      "Maigre de bovin*",
+      "Oeufs*",
+      "Lard fumé*",
+      "Carotte*",
+      "Potimarron*",
+      "Huile de tournesol*",
+      "Poireau*",
+      "PersiL*",
+      "échalote*",
+      "Oignons*",
+      "Ail*",
+      "Sel",
+      "Poivre *"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/158/102/8678/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Donuts sucré",
+    "marca": "E. Leclerc",
+    "ean": "0201586019022",
+    "ingredientes": [
+      "Farine de froment",
+      "huile et graisses végétales hydrogénées",
+      "eau",
+      "dextrose",
+      "levure",
+      "sucre",
+      "farine de soja",
+      "sel",
+      "poudre à lever E450",
+      "E500i",
+      "émulsifiants E471",
+      "E481",
+      "E472e",
+      "lait écrémé en poudre",
+      "poudre de lait"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants E471",
+        "razon": "Contiene émulsifiants E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/158/601/9022/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Boulgour fin & courgette",
+    "marca": "Bio",
+    "ean": "02016095",
+    "ingredientes": [
+      "Boulgour fin cuit* 49",
+      "blé dur précuit*)",
+      "courgettes* 16",
+      "cranberries* 9",
+      "sucre de canne*",
+      "huile de tournesol*)",
+      "huile de tournesol*",
+      "eau",
+      "persil*",
+      "vinaigre d'alcool*",
+      "menthe* 2",
+      "sel",
+      "sucre*",
+      "jus de citron concentré* 0",
+      "moutarde de Dijon* (graines de moutarde*",
+      "vinaigre d'alcool*",
+      "eau",
+      "sel)",
+      "épaississant : gomme xanthane",
+      "poivre blanc*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/201/6095/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Concassé de tomates mi-séchées",
+    "marca": "Boulgour fin et chèvre",
+    "ean": "02016100",
+    "ingredientes": [
+      "Inqredients : Blé dur cuit 43",
+      "purée de tomates 8",
+      "fèves de soja 6%",
+      "tomates cerises semi-réhydratées marinées 5",
+      "huile de tournesol",
+      "sel",
+      "ail",
+      "origan)",
+      "fèves 5",
+      "tomates - mi-séchées 4",
+      "huile de tournesol",
+      "sel)",
+      "fromage de chèvre au lait pasteurisé 4",
+      "huile de colza",
+      "oignons pré-frits (oignons",
+      "huile de tournesol)",
+      "jeunes pousses d'épinards",
+      "pignons de pin grillés",
+      "double concentré de tomates 2",
+      "eau",
+      "tomates mi-séchées marinées aux herbes 1",
+      "huile de tournesol",
+      "sel",
+      "plantes aromatiques)",
+      "plantes aromatiques",
+      "marinade échalotes (eau",
+      "plantes aromatiques",
+      "dextrose",
+      "vinaigre d'alcool blanc",
+      "sel",
+      "maltodextrine",
+      "huile de tournesol",
+      "tomates",
+      "arômes naturels",
+      "extrait de vin blanc)",
+      "sel",
+      "huile de tournesol aromatisée au basilic 0",
+      "basilic)",
+      "huile d'olive vierge extra",
+      "basilic 0",
+      "sucre",
+      "moutarde de Dijon (eau",
+      "graines de moutarde",
+      "vinaigre d'alcool",
+      "sel)",
+      "graines de pavot bleu",
+      "poivre blanc",
+      "colorant : extrait de paprika",
+      "amidon modifié de pomme de terre",
+      "conservateur : sorbate de potassium",
+      "épaississant : gomme xanthane. races éventuelles de graines de sésame."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/201/6100/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Blueberry Muffins (No Sugar Added)",
+    "marca": "Reesor’s",
+    "ean": "0201612610957",
+    "ingredientes": [
+      "Flour",
+      "Blueberries",
+      "Water",
+      "Eggs",
+      "Orange Juice Concentrate",
+      "Canola Oil",
+      "Baking Powder",
+      "Hround Cinnamon",
+      "Ground Nutmeg",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/161/261/0957/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ice tea peche",
+    "marca": "Lipton",
+    "ean": "0201619018046",
+    "ingredientes": [
+      "eau",
+      "sucre",
+      "acidifiant (acide citrique)",
+      "extrait de thé noir (1",
+      "jus de pêche à base de concentré (0",
+      "arômes",
+      "antioxydant (acide ascorbique). Après ouverture",
+      "à consommer dans les 3 jours et à conserver au frais. Les extraits de thé peuvent former un léger dépôt naturel sans incidence sur la qualité du produit. PET SERVIR TRES FRAIS. 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/161/901/8046/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Suisses pepites chocolat",
+    "marca": "Leclerc",
+    "ean": "0201630015093",
+    "ingredientes": [
+      "Suisse pépites choco (Eau farine de BLE",
+      "BEURRE 1206 pépites de choco{at 10% ( sucre",
+      "masse de cacao",
+      "beurre de cacao",
+      "cacao maigre en poudre",
+      "ému!sfant lécithine de SOJA)",
+      "sucre",
+      "amidon modifié",
+      "levure",
+      "lactosérum en poudre (LAT)",
+      "GLUTEN DE OEUFS 0 LAT en sel",
+      "épaississant E415",
+      "arôme naturel",
+      "émulsifant: E471",
+      "agent de traitement de la farne:E300",
+      "colorant bêta-carotène diorigine naturelle",
+      "enzyme) Aconserver à it abri de Ithumidité."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifant: E471",
+        "razon": "Contiene émulsifant: E471, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/163/001/5093/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Assaisonnement ail & poivre",
+    "marca": "Ducros",
+    "ean": "02016368",
+    "ingredientes": [
+      "Ail déshydraté (42%)",
+      "poivre noir (40%)",
+      "poiwon rouge",
+      "oignon déshydraté",
+      "poivron vert",
+      "arôme naturel d'ail. Ingredienten: Gedroogde knoflook (42%)",
+      "zwarte peper 40%)",
+      "rod paprika",
+      "gedroogde ui",
+      "groene paprika",
+      "naturlijknoflokaroma."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/201/6368/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Éclair au Chocolat",
+    "marca": "Leclerc",
+    "ean": "0201642028678",
+    "ingredientes": [
+      "Crème pâtissière [eau",
+      "préparation crème pâtissière (sucre",
+      "amidon modifié",
+      "poudre de LAIT entier",
+      "poudre de LAIT écrémé",
+      "stabilisants:  E516-E450-E339",
+      "émulsifiants:E4 b-E472a",
+      "sirop de glucose",
+      "sel",
+      "arôme",
+      "colorant: E160a)]",
+      "pâte à chou p BEURRE (OEUFS",
+      "farine de BLE",
+      "BEURRE  concentré 21%",
+      "sucre",
+      "sel",
+      "poudre à Lever E450-E500)",
+      "glaçage (sucre",
+      "sirop de glucose",
+      "eau)",
+      "pâte d'aromatisation cacao (cacao maigre en poudre 50%",
+      "huile végétale colza partiellement hydrogénée",
+      "emulsifiant: lécithines SOJA",
+      "arôme)",
+      "arôme café (colorant: E150b",
+      "eau",
+      "préparations aromatisantes",
+      "sirop  de glucose",
+      "antioxydant: E330",
+      "alcool éthylique",
+      "conservateur:E211",
+      "substances  aromatisantes",
+      "substances aromatisantes naturelles",
+      "arôme de fumée.  Contient des SULFITES)",
+      "arôme vanille (eau",
+      "caramel",
+      "propylène glycol",
+      "substances aromatisantes).  Traces éventuelles de FRUITS A COQUES",
+      "SULFITES",
+      "LUPIN."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants:E4 b-E472a",
+        "razon": "Contiene émulsifiants:E4 b-E472a, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/164/202/8678/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Éclair Parfum Chocolat *2",
+    "marca": "Leclerc",
+    "ean": "0201647012795",
+    "ingredientes": [
+      "creme patisstere modif é",
+      "LACTOSE",
+      "matiere grasse végétale coco",
+      "naix de coco totalement hydronéné poudre de LAT écremé",
+      "sirop de de caloiuifl",
+      "diphosphate téttesodique",
+      "gélifiantzlginate de sodium",
+      "farine de graines de caroube",
+      "gornmi? lactiques des mono et diglyoérides iliacides de LATJsel",
+      "ar0rne soft(Cacacj maigre en poudre (5C%) huile végétale partieilement hydrogénée",
+      "colza émulsifiant poudre de caceo maigre",
+      "iécithine S)OjAarôme naturel vanille norrr Produit pas reoonge",
+      "er.Eal.lJOEUFS frais 33%",
+      "farine de végétale dB à lever:diphosphate disodique. et carbonate acide de sodium)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/164/701/2795/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lean ground beef",
+    "marca": "Harris teeter",
+    "ean": "0201656605339",
+    "ingredientes": [
+      "BEEF",
+      "NATURAL FLAVORS HT FRESH GROUND BEEF CHUCK"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/165/660/5339/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Étourdi 33%MG  Brebis",
+    "marca": "Hyper U",
+    "ean": "0201657024146",
+    "ingredientes": [
+      "LAIT de brebis pasteurise (origine France)",
+      "sel",
+      "ferments",
+      "conservateur E235 (dans la croute)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/020/165/702/4146/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "doowap",
+    "marca": "harrys",
+    "ean": "02016730",
+    "ingredientes": [
+      "Farine de blé 46%",
+      "eau",
+      "pépites de chocolat au lait 13",
+      "lait en poudre",
+      "beurre de cacao",
+      "pâte de cacao",
+      "lactose)",
+      "sucre",
+      "eufs frais 7",
+      "lait reconstitué à partir de lait entier en poudre 5",
+      "huile de colza",
+      "gluten de blé",
+      "arômes (contient alcool)",
+      "levure",
+      "sel. Peut contenir des traces de soja",
+      "fruits à coque",
+      "graines de sésame. Les ingrédients en gras peuvent causer des réactions chez les personnes allergiques ou intolérantes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/201/6730/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

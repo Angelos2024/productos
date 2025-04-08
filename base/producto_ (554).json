@@ -1,0 +1,856 @@
+[
+  {
+    "nombre": "Always Tender, Boneless Pork Sirloin Chops",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0213128305401",
+    "ingredientes": [
+      "Solution ingredients: water",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Always Tender, Boneless Pork Sirloin Chops",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0213128604313",
+    "ingredientes": [
+      "Solution ingredients: water",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Always Tender, Bone-In Pork Loin Chops",
+    "marca": "Hormel,  Hormel Foods  Llc.",
+    "ean": "0213139204595",
+    "ingredientes": [
+      "Solution ingredients: water",
+      "potassium lactate",
+      "sodium phosphate",
+      "salt",
+      "sodium diacetate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pilon de poulet",
+    "marca": "Aucune",
+    "ean": "0213147022112",
+    "ingredientes": [
+      "pilon de pc Olet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/314/702/2112/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Lapin de france",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213152041726",
+    "ingredientes": [
+      "Michelle",
+      "élevevsdà ddmille enanjou (49) LA MAROUE DES AGRICULTEURS NOS ENGAGEMENTS POUR L'ÉLEVAGE DE NOS LAPINS Nos lapins sont élevés dans l'une de nos exploitations familliales de l'Ouest de la France",
+      "sans traitement antibiotique à partir du sevrage",
+      "et nourris sans OGM (&lt",
+      "avec une alimentation diversifiée en luzerne et graines de lin. Bien élevés et bien nourris",
+      "pour une viande de qualité."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/315/204/1726/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Découpe de lapin",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213152045724",
+    "ingredientes": [
+      "DEMI LAPIN DÉCOUPE SANS TÊTE SANS FOIE : Ieurs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/315/204/5724/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cream of wheat, instant hot cereal, maple brown sugar",
+    "marca": "Cream Of Wheat",
+    "ean": "0213162061530",
+    "ingredientes": [
+      "Wheat farina",
+      "sugar",
+      "calcium carbonate",
+      "natural flavors",
+      "guar gum",
+      "salt",
+      "defatted wheat germ",
+      "dry molasses",
+      "ferric orthophosphate",
+      "caramel color",
+      "vitamin a palmitate",
+      "niacin",
+      "cholecalciferol",
+      "riboflavin",
+      "pyridoxine hydrochloride",
+      "thiamine mononitrate",
+      "folic acid",
+      "bht (to preserve freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stuffed Bell Peppers",
+    "marca": "Kirkland Signature",
+    "ean": "0213170222435",
+    "ingredientes": [
+      "Bell peppers",
+      "Water",
+      "Tomato Paste",
+      "Rice",
+      "Bell peppers",
+      "Vinegar",
+      "Onion",
+      "Sugar",
+      "Salt",
+      "Canola oil",
+      "Garlic",
+      "Spices",
+      "Citric acid",
+      "Cooked ground beef and/or veal",
+      "Mozzarella and Parmesan cheeses"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/317/022/2435/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Filet de canard piment d'espelette",
+    "marca": "Père Dodu",
+    "ean": "0213184071890",
+    "ingredientes": [
+      "Filet de canard 90%",
+      "conservateurs lactate de potassium et acétates de sodium",
+      "eau",
+      "sel",
+      "amidon modifié de manioc",
+      "poivrons déshydratés tomate déshydratée",
+      "semoule de riz",
+      "dextrose",
+      "plantes aromatiques",
+      "sucre",
+      "arômes naturels",
+      "épices poudre de jus de betterave",
+      "piment d'Espelette 0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/318/407/1890/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Applewood, Smoke Flavored Cheddar Cheese",
+    "marca": "Norseland Inc",
+    "ean": "0213200703330",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "smoke flavor",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Meijer, king's choice, danish blue cheese",
+    "marca": "Meijer",
+    "ean": "0213211105048",
+    "ingredientes": [
+      "Cow's milk",
+      "salt",
+      "starter culture",
+      "pencillium roquefort",
+      "rennet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Poulet  cuit",
+    "marca": "Leclerc",
+    "ean": "0213214032341",
+    "ingredientes": [
+      "Ingrédients Viande de poulet (origine france) Steau. sirop de glucose",
+      "acidifiant:lacte de potassiun. citrates de sodium. acetates de sodium",
+      "acide citrique. sel.chapelure (BLE. ORGE. SEIGLE). arones. (ORGE). épices. tonate déshydratée. plantes aromatiques. antioxiydant : ascorbatede sodiun",
+      "arones de funde. Traces éventuelles de A11 Huile d'olive vierge."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/321/403/2341/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Grana Padano Cheese",
+    "marca": "Il Giardino",
+    "ean": "0213217705440",
+    "ingredientes": [
+      "Part-skim milk",
+      "salt",
+      "enzymes",
+      "egg white lysozyme (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Iberico Cheese",
+    "marca": "El Cortijo",
+    "ean": "0213226107525",
+    "ingredientes": [
+      "Cultured pasteurized cow",
+      "goat",
+      "and sheep milk",
+      "enzymes",
+      "salt",
+      "egg white lysozyme (preservative)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rembrandt Extra Aged Gouda Cheese",
+    "marca": "Markets Of Meijer",
+    "ean": "0213237706762",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "starter culture",
+      "rennet",
+      "annatto. (natural color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Salted Caramel Vitamin & Protein Bar",
+    "marca": "Fulfil",
+    "ean": "02132444",
+    "ingredientes": [
+      "No added milk chocolate with sweetener (25%) (sweetener [maltitol]",
+      "cocoa butter",
+      "whole milk powder",
+      "cocoa mass",
+      "emulsifier [lecithins)",
+      "natural vanilla flavouring)",
+      "milk proteins",
+      "hydrolysed collagen",
+      "humectant (glycerol)",
+      "dietary fibre (polydextrose)",
+      "water",
+      "soya protein crisps (4%) (soya protein",
+      "starch",
+      "barley malt extract [gluten]",
+      "salt)",
+      "palm fat",
+      "no added sugar white chocolate with sweetener (sweetener [maltitol]",
+      "cocoa butter",
+      "whole milk powder",
+      "emulsifier [lecithins)",
+      "natural vanilla flavouring)",
+      "chocolate powder (cocoa powder",
+      "cocoa mass",
+      "sugar)",
+      "natural flavouring",
+      "salt (0.35%)",
+      "vitamins (vitamins C",
+      "E",
+      "B6",
+      "B12",
+      "thiamin",
+      "riboflavin",
+      "niacin",
+      "pantothenic acid",
+      "folic acid)",
+      "sweetener (sucralose)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/213/2444/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Boneless Skinless Chicken Breasts",
+    "marca": "Good & Gather",
+    "ean": "0213249012028",
+    "ingredientes": [
+      "boneless",
+      "skinless chicken breast with rib meat"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/324/901/2028/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salemville, smokehaus blue cheese",
+    "marca": "Salemville",
+    "ean": "0213251604686",
+    "ingredientes": [
+      "Cultured milk",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fino Cheese, Gouda And Parmesan Cheese",
+    "marca": "Prima Donna",
+    "ean": "0213261508165",
+    "ingredientes": [
+      "Cultured pasteurized milk",
+      "salt",
+      "rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Carrabba's Italian Grill, Fettuccine Alfredo, Regional",
+    "marca": "Carrabba's Italian Grill",
+    "ean": "0213284541002",
+    "ingredientes": [
+      "undefined"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sartori, black pepper bella vitano cheese",
+    "marca": "Sartori",
+    "ean": "0213296604801",
+    "ingredientes": [
+      "Bellavitano cheese (pasteurized cow's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "coarse black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Espresso BellaVitano Cheese",
+    "marca": "Sartori",
+    "ean": "0213299204640",
+    "ingredientes": [
+      "Bellavitano cheese (pasteurized cow's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "roasted ground coffee."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213308064814",
+    "ingredientes": [
+      "POULET NOURRI POULET ÉLEVÉ SANS OGM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/330/806/4814/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213308066788",
+    "ingredientes": [
+      "FILETS DE POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/330/806/6788/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "La nouvelle agriculture",
+    "ean": "0213311050576",
+    "ingredientes": [
+      "Nous sommes une nouvelle génération d'agriculteurs décidés à faire évoluer notre métier avec force et enthousiasme. LA NOUVELLE AGRICULTURE@ s'appuie sur des pratiques agricoles plus et plus respectueuses des Hommes",
+      "des animaux et de la terre. Grâce à cette démarche",
+      "nous travaillons chaquejour pour une alimentation saine et fi) à tous",
+      "III ROUVELLE x 'AGRICULTURE - à Smubin dc Boubigne (79) LA MAROUE DES AGRICULTEURS ENGAGEMENTS POUR L'ÉLEVAGE DE NOS POULETS Nos poulets sont élevés dans l'une de nos exploitations familliales de l'Ouest de 10 France",
+      "sans traitement antibiotique",
+      "et nourris sans OGM (&lt",
+      "avec Une alimentation composée principalement de céréales et diversifiée avec de la graine de lin. Bien élevés et bien nourris",
+      "pour Une viande de qualité. BLEU"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/105/0576/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213311052211",
+    "ingredientes": [
+      "Poids Net : onsommer—jus 03%2/2018 Expédié le 24%1/2018"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/105/2211/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "filet de poulet",
+    "marca": "la nouvelle agriculture",
+    "ean": "0213311060414",
+    "ingredientes": [
+      "filet de poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/106/0414/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213311065143",
+    "ingredientes": [
+      "FILETS DE POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/106/5143/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213311068489",
+    "ingredientes": [
+      "FILETS DE POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/106/8489/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213311072028",
+    "ingredientes": [
+      "FILETS DE POULET POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/107/2028/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Applewood smoked ham",
+    "marca": "Hormel",
+    "ean": "0213311105764",
+    "ingredientes": [
+      "Water",
+      "salt",
+      "turbinado sugar",
+      "natural flavor",
+      "lactic acid starter culture (not from milk)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cuisses de Poulet",
+    "marca": "LA NOUVELLE AGRICULTURE",
+    "ean": "0213312022633",
+    "ingredientes": [
+      "nouvelle génération d'agriculteurs décidés faire t&quot",
+      "étiev ovec et enthousiasme. AGRICULTURE@ s'appuie sur une connaissance du outretnent avec des pratiques agricoles plus et respectueuses des Hommes",
+      "des animaux et de la terre. cette déliiorche",
+      "t10US jour pour une ROUVELLE sevrne et accessible LA MARQUE DES AGRICULTEURS à les Vdilées (79) _*L— ù NOS ENGAGEMENTS POUR L'ÉLEVAGE DE NOS POULETS sont élevés dons l'une de nos exploitations familliales de l'Ouest de s:ns traitement antibiotique",
+      "et nourris sans OGM avec une composée principalement de céréales et diversifiée avec de la En. Bien élevés et bien nourris",
+      "pour une viande de qualité."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/202/2633/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213312026174",
+    "ingredientes": [
+      "Cuisse de poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/202/6174/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Striploin Steak - Piedmontese Beef",
+    "marca": "Messinger Meats",
+    "ean": "0213315215988",
+    "ingredientes": [
+      "Beef"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/521/5988/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mini saucisson à cuire supérieur",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213318023559",
+    "ingredientes": [
+      "viande et gras de porc (origine France)",
+      "sel",
+      "eau de vie",
+      "épices",
+      "sucre",
+      "dextrose",
+      "arôme",
+      "conservateur: nitrite de sodium",
+      "antioxygène",
+      "érythorbate de sodium",
+      "colorant: carmin de cochenille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/802/3559/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet",
+    "marca": "la nouvelle agriculture",
+    "ean": "0213319040012",
+    "ingredientes": [
+      "POULET JAUNE PRET R SANS ABAT LNA"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/331/904/0012/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "poulet blanc prêt à cuire sans abat Na",
+    "marca": "la nouvelle agriculture",
+    "ean": "0213320042708",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/004/2708/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet",
+    "marca": "La nouvelle agriculture",
+    "ean": "0213322028403",
+    "ingredientes": [
+      "Nous sormmes une nouveile generation d'aariculteurs.delCuest.de la Franc qui voulons redonnerdu sens à notre alimentation",
+      "en proposant des produits dont nous sommes flers. Nous nous engcOeons cans une ogriculturemoderne qui s'appuie sur de nouvelles pratiques plus naturelles et responsables. dans le respect du bien-être animal et de l'environnement. LANOUVELLE AGRICULTURE",
+      "la marque des agricuiteurs c'est l'assurance pour les consomniateurs de mongersain et de devenir acteur d'un nouveau modèle de production olimentcire plus responsable au bénéfice de tous. LA NOUVELLE VAGRICULTURE Corinne",
+      "éleveuse à Argenton les Vallées (79) LA MARQUE DES AGRICULTEURS Nos poulets sont élevés dans l'une de nos exploitations familiales dans le respect du bien-être animal : sans traitement antibiotique et avec plus d'espace dans le poulailler pour courir et s'ébattre. lls sont nourris sans OGM (&lt",
+      "avec une alimentation COEUR composée principalement de céréales et diversifiée avec de la graine de lin. Bien élevés et bien nourris",
+      "pour une viande tendre de qualité. Par rapport à la moyenne nationale en élevage de poulets classiques (source ITAVI). &quot",
+      "Alimentation 100 % végétaux (dont 65% de céréales)",
+      "minéraux et vitamines. BLEU& BLANC OMEGA 3 NATURELS etrouvez nos engagements sur: ww.lanouvelleagriculture.coop ne question",
+      "une suggestion? 9 69 32 04 88 (appel non surtaxé) stribué par: GALLIANCE VOLAILLE FRAICHE P60123 - 44154 Ancenis oduit frais-Classe A - conserver entre 0 et +4°C. consommer cuit à cceur. consommer rapidement"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/202/8403/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "cuisse de poulet",
+    "marca": "la nouvelle agriculture",
+    "ean": "0213322032998",
+    "ingredientes": [
+      "cuisse de poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/203/2998/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hauts de cuisse de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213323018694",
+    "ingredientes": [
+      "NOS ENGAGEMENTS POUR L'ÉLEVAGE DE NOS POULETS Nos poulets sont élevés dans l'une de nos exploitations familliales de l'Ouest de la France",
+      "sans traitement antibiotique",
+      "et nourris sans OGM (&lt",
+      "avec Une alimentation composée principalement de céréales et diversifiée avec de la graine de lin. Bien élevés et bien nourris",
+      "pour une viande de qualité."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/301/8694/front_fr.19.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hauts de cuisse de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213323022561",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/302/2561/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Haut de cuisse de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213323023421",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/302/3421/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Hauts de cuisse de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213323031037",
+    "ingredientes": [
+      "FâOUVELLE VAGRICULTURE LA MARQUE DES AGRICULTEURS HAUTS DE CUISSE DE POULET POULET ÉLEVÉ NOURRI SANS OGM SANS TRAITEMENT ET BRÉPARÉ ANTIBIOTIQUE EN FRANCE 25 4 HRIJTS DE CUISSE DE POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/303/1037/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328012994",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/2994/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328014301",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/4301/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328015155",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/5155/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328015742",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/5742/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilon de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328016534",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/6534/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328016664",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/6664/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328017197",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/7197/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilon de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328018439",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/801/8439/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328020142",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/802/0142/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328020470",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/802/0470/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328020531",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/802/0531/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328021521",
+    "ingredientes": [
+      "poulets"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/802/1521/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pilons de poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213328023358",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/802/3358/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de Poulet",
+    "marca": "La Nouvelle Agriculture",
+    "ean": "0213329016403",
+    "ingredientes": [
+      "Aiguillettes de poulet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/332/901/6403/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]

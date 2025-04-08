@@ -1,0 +1,560 @@
+[
+  {
+    "nombre": "carottes",
+    "marca": "leclerc",
+    "ean": "0267401009456",
+    "ingredientes": [
+      "carottes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/740/100/9456/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "British red cabbage",
+    "marca": "Asda",
+    "ean": "0267611001257",
+    "ingredientes": [
+      "Red cabbage."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/761/100/1257/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Tomato Ketchup",
+    "marca": "Heinz",
+    "ean": "02677701",
+    "ingredientes": [
+      "TOMATO CONCENTRATE",
+      "DISTILLED WHITE VINEGAR",
+      "SALT",
+      "NATURAL FLAVORING",
+      "STEVIA LEAF EXTRACT",
+      "ONION POWDER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/267/7701/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flaming Bird Whole Split FS Hot",
+    "marca": "HEB",
+    "ean": "0267775706999",
+    "ingredientes": [
+      "flaming bird(split chicken(chicken",
+      "water",
+      "sodium phosphate",
+      "salt)",
+      "adobo rub(salt",
+      "yeast extract",
+      "sugar",
+      "onions",
+      "spices",
+      "garlic",
+      "paprika(color)",
+      "turmeric extractives(color)",
+      "paprika extractives(color) maltadext rin",
+      "natural flavor",
+      "natural smoke flavor",
+      "contains 2% or less of:",
+      "silicon dioxide(anticaking))",
+      "tampico citrus punch(water",
+      "high fructose corn syrup",
+      "citric acid",
+      "corn oil",
+      "modified corn starch",
+      "potassium citrates",
+      "xanthan gum",
+      "ascorbic acid (vitamin C)",
+      "lime juice concentrate",
+      "sodium citrate",
+      "potassium sorbate(preservative).malic acid",
+      "natural & artificial flavors",
+      "orange juice concentrate",
+      "sucralose",
+      "acesulfame potassium",
+      "yellow 5",
+      "ethylenediaminetetraacetic acid (EDTA) (preservative)",
+      "tangerine juice concentrate  e",
+      "yellow 6",
+      "lemon juice concentrate",
+      "neotame (artificial sweetener))",
+      "onions",
+      "jalapeno peppers"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "2 steaks hachés",
+    "marca": "Tendre et plus…",
+    "ean": "0267810151791",
+    "ingredientes": [
+      "Steaks hachés de boeuf."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/781/015/1791/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Бисквити Закуска",
+    "marca": "Победа АД",
+    "ean": "02678126",
+    "ingredientes": [
+      "Лобеда&quot"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/267/8126/front_bg.12.400.jpg",
+    "tahor": true,
+    "pais": "Bulgaria"
+  },
+  {
+    "nombre": "cancoillotte nature",
+    "marca": "La belle étoile",
+    "ean": "0267970000267",
+    "ingredientes": [
+      "lait écrémé caillé",
+      "eau",
+      "beurre 10%",
+      "sel",
+      "citrate de sodium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/797/000/0267/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Baguette Sarrasin",
+    "marca": "E.Leclerc",
+    "ean": "0268033008466",
+    "ingredientes": [
+      "Farine de BLE",
+      "gluten de BLE",
+      "farine de BLE malte",
+      "alpha-amylases fongiques",
+      "eau",
+      "sel",
+      "levure. Sarasin toasté",
+      "farine de sarrasin",
+      "farine de sarrasin fermentée",
+      "GLUTEN de BLE",
+      "farine de sarrasin torréfié",
+      "farine de BLE",
+      "agent de traitement de la farine E30",
+      "Enzymes (xylanase et alpha-amylase) (contient farine de BLE). Topping sarrasin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/803/300/8466/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cannelloni vier Käse",
+    "marca": "Culinea",
+    "ean": "02680510",
+    "ingredientes": [
+      "Wasser",
+      "Hartweizengrieß",
+      "Tomatenpüree",
+      "Vollmilch",
+      "Rapsöl",
+      "Eier*",
+      "Weizenmehl",
+      "Stärke",
+      "Eigelb*",
+      "Kräuter",
+      "Weizenpaniermehl (Weizenmehl",
+      "Hefe",
+      "Speisesalz)",
+      "Zwiebeln",
+      "Knoblauch",
+      "Porree",
+      "Speisesalz",
+      "Champignons",
+      "Zucker",
+      "Gewürze",
+      "Weizenprotein. *von Eiern aus Bodenhaltung. Kann Spuren von Sellerie enthalten."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/268/0510/front_de.3.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Donut chocolat",
+    "marca": "E.Leclerc",
+    "ean": "0268367020011",
+    "ingredientes": [
+      "pâte : Farine _blé_",
+      "huiles et matières grasses végétales",
+      "eau",
+      "dextrose",
+      "levure",
+      "sucre",
+      "farine de _soja_",
+      "sel",
+      "poudres à lever (E450",
+      "E500)",
+      "émulsifiants (E471",
+      "E481",
+      "E472e)",
+      "_lait_",
+      "arôme",
+      "colorant (béta-carotène)",
+      "agent de traitement de la farine (acide ascorbique). nappage : Chocolat au _lait_ (sucre",
+      "cacao en poudre",
+      "beurre de cacao",
+      "poudre de _lait_ écrémé",
+      "matière grasse (anhydre du _lait_",
+      "émulsifiants (lécithine",
+      "E476)",
+      "arôme)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiants (E471",
+        "razon": "Contiene émulsifiants (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e)",
+        "razon": "Contiene E472e), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/836/702/0011/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Alaskan Sockeye Salmon",
+    "marca": "Trader Joe’s",
+    "ean": "0268719013012",
+    "ingredientes": [
+      "wild salmon"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "amande marcona",
+    "marca": "auchan",
+    "ean": "0269020033454",
+    "ingredientes": [
+      "amande"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/902/003/3454/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Fresh Chicken",
+    "marca": "Bird and Barrow",
+    "ean": "0269424009604",
+    "ingredientes": [
+      "fresh Chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/942/400/9604/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "New Zealand"
+  },
+  {
+    "nombre": "Saumon Rose sauvage du Pacifique",
+    "marca": "Babord Tribord",
+    "ean": "0269614030968",
+    "ingredientes": [
+      "_Saumon_."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/961/403/0968/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Langouste entière cuite congelée",
+    "marca": "Babord Tribord",
+    "ean": "0269619125294",
+    "ingredientes": [
+      "Langouste (Panulirus argus) (_crustacés_)",
+      "E452",
+      "E223 (_sulfites_)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/961/912/5294/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brown Butter Chocolate Chunk Mini Cookie",
+    "marca": "Whole Foods Market",
+    "ean": "0269900000002",
+    "ingredientes": [
+      "Semi Sweet Chocolate Chunks (sugar",
+      "unsweetened chocolate",
+      "cocoa butter",
+      "salt)",
+      "Wheat Flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "Butter (3%) (pasteurized cream",
+      "lactic acid",
+      "starter distillate)",
+      "Brown Sugar",
+      "Organic Sugar (evaporated cane)",
+      "Liquid Egg (citric acid added)",
+      "Powdered Milk (2%) (milk protein concentrate",
+      "non-fat dry milk",
+      "lactose)",
+      "Sea Salt",
+      "Baking Soda",
+      "Vanilla Flavor (water",
+      "glycerin",
+      "alcohol",
+      "caramel color",
+      "vanilla extract)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/026/990/000/0002/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Osterkuchen",
+    "marca": "Migros",
+    "ean": "02699916",
+    "ingredientes": [
+      "Mürbteiggebäck mit Mandel-Reisfüllung und Sultaninen : Zucker",
+      "Wasser",
+      "Weizenmehl",
+      "Pflanzenmargarine (Palmöl",
+      "Raps81",
+      "Wasser",
+      "Emulgator: Mono - und Diglyceride von Speisefettsäuren)",
+      "Vollei (aus Bodenhaltung)",
+      "Mandeln gekocht 6%",
+      "Sultaninen 6%",
+      "Reis 4.5%",
+      "Kondensmilch gezuckert",
+      "modifizierte Stärke",
+      "Magermilchpulver",
+      "Hühnereieiweiss - puiver (aus Bodenhaltung)",
+      "Glucose",
+      "Feucht - haltemittel: Glycerin",
+      "Reisstarke",
+      "weizenpro - tein",
+      "Aromen",
+      "Weizenstärke",
+      "Kochsalz",
+      "Bitter - mandeln",
+      "Pflanzenöle und - fette (Palm",
+      "Sonnenblumen",
+      "Baumwollsamen)",
+      "Back triebmittel: Natriumcarbonate und Diphos phate",
+      "Gerstenmalzmehl",
+      "Milchzucker",
+      "Trennmittel: Calciumcarbonat und Natrium - Kalium-und Calciumsalze von Speisefett säuren. Kann enthalten: Soja",
+      "andere Nüsse",
+      "Sesam. Trotz sorgfältiger Verarbeitung kann das Produkt Fruchtsteine/harte Fruchtteile und Schalenteile enthalten."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Emulgator: Mono - und Diglyceride von Speisefettsäuren)",
+        "razon": "Contiene Emulgator: Mono - und Diglyceride von Speisefettsäuren), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/269/9916/front_de.3.400.jpg",
+    "tahor": false,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Original sloppy joe sauce",
+    "marca": "Bell",
+    "ean": "02700144",
+    "ingredientes": [
+      "tomato puree (water",
+      "tomato paste)",
+      "high fructose corn syrup",
+      "distilled vinegar",
+      "corn syrup",
+      "less than 2% of: salt",
+      "sugar",
+      "carrot fiber",
+      "dried green and red bell peppers",
+      "chili pepper",
+      "guar gum",
+      "spices",
+      "xanthan gum",
+      "dried garlic",
+      "natural flavors",
+      "citric acid",
+      "how2recycle",
+      "info"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/270/0144/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Le multicéréales",
+    "marca": "Les Paves Du Fournil",
+    "ean": "0270038013451",
+    "ingredientes": [
+      "i ents : far i ne d12 EILE' eau' graines de ournt2st)l II'GI.IJTF.N de BLE'grajnes de lin run I inu 1 i V&quot",
+      "graillas de ni I let 'llalt BLF. torréf Él'/•ar ine CIB mais levain de SEI GLE I i IIE de BLE na Ite j levure i de i 1:elllEnt de la PEut :ontenir des traces CIE frui ts à SESÊHE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/027/003/801/3451/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon supérieur cuit torchon",
+    "marca": "E.Leclerc",
+    "ean": "0270040022588",
+    "ingredientes": [
+      "Jambon dB porc",
+      "SBI",
+      "bouillon Gau",
+      "sel",
+      "gélatine dB porcs arôme natural",
+      "conseruataur. E250)",
+      "arômes naturels",
+      "dextrose",
+      "conseruatgur",
+      "E250",
+      "antioxydant: E316 Uiandg origine Francs q conserver entre 0 at CC"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon dB porc",
+        "razon": "Contiene Jambon dB porc, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/027/004/002/2588/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "smoothie banane framboise poire",
+    "marca": "maison meneau",
+    "ean": "0270090987264",
+    "ingredientes": [
+      "pur jus de pomme bio",
+      "purée de bananes bio 30%",
+      "pur jus d'orange bio",
+      "jus de fruits à base de jus concentrés (poire bio 16%",
+      "framboise bio 7.3%)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/027/009/098/7264/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tautavel Réserve",
+    "marca": "Gérard Bertrand",
+    "ean": "02701200",
+    "ingredientes": [
+      "Raisins noirs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/270/1200/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "alpro kokosnuss original",
+    "marca": "alpro",
+    "ean": "02701271",
+    "ingredientes": [
+      "water",
+      "coconut milk(5",
+      "rice(3",
+      "tricalciumphosphate",
+      "stabilizers( guar gum",
+      "gellan",
+      "xanthan)",
+      "salt",
+      "vit B12 D2",
+      "aroms"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/270/1271/front_de.6.400.jpg",
+    "tahor": true,
+    "pais": "European Union"
+  },
+  {
+    "nombre": "Home baked",
+    "marca": "North shore farms",
+    "ean": "0270142003997",
+    "ingredientes": [
+      "Home Baxed RYE PULLMAN BREAD ING: Water",
+      "rye flour",
+      "raisıns.caraway seeds",
+      "salt",
+      "sugar",
+      "yeasi",
+      "BBS",
+      "enzymes",
+      "caraway seeds 2 - 70142 t0399 Best By. 03/11/21 Wn wt 1 lb May contain traces of nuls Eat Well th Sinlatm Lave Better. 805 Mamaroneck Ave",
+      "Mamaroneck",
+      "NY 10 www.NorthShoreFarms.com %24"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/027/014/200/3997/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gouda au cumin",
+    "marca": "IGP",
+    "ean": "0270149017713",
+    "ingredientes": [
+      "frotnage a pate préssée non graines de cumin'. pasteurise de vacheselgraines (le cutnin 10} fertnenst lactiquescoagvllant",
+      "colorant e160bt 30%tnatgr dans le produit fini croute non hollande.les frot)iagers de I europe 35221 chateaubourg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/027/014/901/7713/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Split Chicken Breast",
+    "marca": "Northgate Market",
+    "ean": "0270150609730",
+    "ingredientes": [
+      "Split chicken breast with ribs attached"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ite Da Mas!, Chicken Drumsticks",
+    "marca": "Northgate Market",
+    "ean": "0270151107037",
+    "ingredientes": [
+      "Ingredients: frying chicken"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

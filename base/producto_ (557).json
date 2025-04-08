@@ -1,0 +1,1661 @@
+[
+  {
+    "nombre": "Point reyes, original blue, blue cheese",
+    "marca": "Point Reyes",
+    "ean": "0214723900008",
+    "ingredientes": [
+      "Cultured raw cows' milk (milk)",
+      "salt",
+      "enzymes and penicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/472/390/0008/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "velouté fruix",
+    "marca": "danone",
+    "ean": "02147733",
+    "ingredientes": [
+      "yaourt (lait) (84",
+      "sucre (8",
+      "fruits (5%) (abricot",
+      "framboise",
+      "fraise",
+      "pêche)",
+      "épaississant (E1422)",
+      "correcteurs d'acidité (E330",
+      "E331)",
+      "concentrés de carotte et de pomme (dans variétés pêche et abricot)",
+      "concentrés de carotte et de carotte pourpre (dans variété fraise)",
+      "concentré de carotte pourpre (dans variété framboise)",
+      "arômes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/214/7733/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "lait brebis bio",
+    "marca": "TRAIT Bio",
+    "ean": "02147918",
+    "ingredientes": [
+      "Issu de l'agriculture biologique - allergene voir date sur la bouteille"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/214/7918/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Thin Eye Of Round Steak",
+    "marca": "Sutton & Dodge",
+    "ean": "0214821404958",
+    "ingredientes": [
+      "Solution ingredients: beef broth. potassium lactate",
+      "sodium phosphate. salt. sodium di acetate",
+      "flavoring ."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "shredded wheat and bran",
+    "marca": "post",
+    "ean": "02148607",
+    "ingredientes": [
+      "whole grain wheat",
+      "wheat bran",
+      "BHT is added to package material to help maintain product freshness"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Boudin noir aux pommes",
+    "marca": "E. Leclerc",
+    "ean": "0214867014319",
+    "ingredientes": [
+      "sang de porc.oi gnons.gras de porc.puree de pommes (10.7%)[concent re de pomme.morceaux de pomme.sirop glucose-fruct ose.sucre]",
+      "couenne de porc. sel .poudre de sang",
+      "LACTOSE. CREME",
+      "epices antioxydant: E331",
+      "eau de vie.proteine de LAIT.poudre de LAIT ecreme",
+      "dextrose.aromes",
+      "conservateur:E220 (SULFITES) Boyau naturel de porc. A consommer apres cuisson"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/486/701/4319/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Tomme de chevre",
+    "marca": "Boucherie Andre",
+    "ean": "0214907029068",
+    "ingredientes": [
+      "oucheri andré DU PRC TOMME CHEVRE PYRENEE 34% MRT",
+      "GR",
+      "- COUPE Origine: Pyrénées Rttantiques",
+      "Croûte non consommable résure animale. ferments Ingrédients Lait de chèvre pasteurisé",
+      "sel. Lactiques. colorants de croûte . E150c. E160g E 153",
+      "conservateur de croûte : E235"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/490/702/9068/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Bleu des Causses Aigle Noir AOP (30% MG)",
+    "marca": "Société Laitière de Laqueuille",
+    "ean": "0214961013782",
+    "ingredientes": [
+      "_Lait_ thermisé de vache",
+      "sel",
+      "présure animale",
+      "CaCl2 (Chlorure de calcium)",
+      "ferments lactiques",
+      "penicillium roqueforti."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/496/101/3782/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saucisse de toulouse",
+    "marca": "E-leclerc",
+    "ean": "0215001029985",
+    "ingredientes": [
+      "SAUCISSE DE TOULOUSE : épaule de porc origine France 98%",
+      "sel",
+      "poivre.Sucre."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/500/102/9985/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Welsh Hill lamb Barnsley chops",
+    "marca": "taste the difference",
+    "ean": "0215004009380",
+    "ingredientes": [
+      "Lamb"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/500/400/9380/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United Kingdom"
+  },
+  {
+    "nombre": "Poulet cuit fumé",
+    "marca": "Maître CoQ",
+    "ean": "0215015041003",
+    "ingredientes": [
+      "Poulet (Origine France) 90%",
+      "eau",
+      "protéines de soja",
+      "sirop de glucose",
+      "stabilisants : E451",
+      "E452",
+      "gélifiant : arôme naturel de poivre avec autres arômes naturels",
+      "conservateurs : E250",
+      "E316t",
+      "fumée liquide. 90g de poulet mis en oeuvre pour 100g de produit fini. Peut contenir des traces de gluten",
+      "lait",
+      "œuf",
+      "céleri",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/501/504/1003/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fumé",
+    "marca": "Maître CoQ",
+    "ean": "0215015052412",
+    "ingredientes": [
+      "Poulet 94% (origine: France)",
+      "eau",
+      "protéines de soja",
+      "sirop de glucose",
+      "sel",
+      "stabilisants: triphosphates et polyphosphates",
+      "gélifiant: carraghénanes",
+      "arôme naturel de poivre avec autres arômes naturels",
+      "conservateurs : nitrite de sodium-érythorbate de sodium."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/501/505/2412/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "poulet fumé",
+    "marca": "Maître CoQ",
+    "ean": "0215015053464",
+    "ingredientes": [
+      "Poulet 94% (origine: France)",
+      "eau",
+      "protéines de soja",
+      "sirop de glucose",
+      "sel",
+      "stabilisants: triphosphates et polyphosphates",
+      "gélifiant: carraghénanes",
+      "arome naturel de poivre avec autres arômes naturels",
+      "conservateurs: nitrite de sodium - érythorbate de sodium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/501/505/3464/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Extra",
+    "marca": "Kellogg's",
+    "ean": "0215018010174",
+    "ingredientes": [
+      "flocons d'avoine (47%)",
+      "Sucre",
+      "Huile de palme",
+      "Morceau de chocolat(11%)(sucre",
+      "pâte de cacaco",
+      "Beurre de cacao",
+      "Graisse végétales(Palme",
+      "karité sal",
+      "Mangue)en proportions variales",
+      "Matiere grasse du lait",
+      "Emulsifiant {lecithine de soja})",
+      "Farine de blé Noisiette(3%)",
+      "Noix de coco séchée",
+      "Mélasse",
+      "sel",
+      "Extrait de malt d'orge",
+      "canelle"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/501/801/0174/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Araignée de poulet Tomate Origan",
+    "marca": "Maître CoQ",
+    "ean": "0215019018308",
+    "ingredientes": [
+      "Poulet 91% (origine : France)",
+      "eau",
+      "poudre de tomate",
+      "sel",
+      "poudres d'ail et d'oignon",
+      "plantes aromatiques (dont origan)",
+      "épices",
+      "extrait d'épices",
+      "extrait d'origan",
+      "poudre de vinaigre d'alcool tamponné."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/501/901/8308/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Brandade de morue",
+    "marca": "Briau",
+    "ean": "0215020058973",
+    "ingredientes": [
+      "Morue 38%",
+      "pommes de terre 37%",
+      "huile de colza",
+      "eau",
+      "oignons",
+      "flocons de pommes de terre (pommes de terre",
+      "extrait de curcuma)",
+      "lait en poudre",
+      "ail sec",
+      "sel",
+      "persil",
+      "poivre. Traces possibles de mollusques et crustacés."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/502/005/8973/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet nourri aux grains de maïs",
+    "marca": "Maître CoQ",
+    "ean": "0215027019687",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/502/701/9687/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "2 cuisses de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215027022830",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/502/702/2830/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Foies de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215032012079",
+    "ingredientes": [
+      "FOIES d 61&T6 en pl (oies issus de poulet fermier BIO • (levé en plein air Durée d'élevage"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/503/201/2079/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Morceaux choisis de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215035047955",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/503/504/7955/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet nourri au grains de maïs",
+    "marca": "Maître CoQ",
+    "ean": "0215036027420",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/503/602/7420/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215042031688",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/504/203/1688/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215042040734",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/504/204/0734/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "4 hauts de cuisse de poulet blanc",
+    "marca": "Maître CoQ",
+    "ean": "0215044017451",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/504/401/7451/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet nourri aux grains de blé",
+    "marca": "Maître CoQ",
+    "ean": "0215057025450",
+    "ingredientes": [
+      "Cuisse de poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/505/702/5450/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "6 filets de poulet blanc",
+    "marca": "Maître CoQ",
+    "ean": "0215067085734",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/708/5734/front_fr.8.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de Poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215067123320",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/712/3320/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215067129223",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/712/9223/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215068059369",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/805/9369/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets poulet blanc",
+    "marca": "Maître CoQ",
+    "ean": "0215068060617",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/806/0617/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215068067241",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/806/7241/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215068118738",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/506/811/8738/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jambon blanc bio",
+    "marca": "Charcuteries Artisanales",
+    "ean": "0215080035037",
+    "ingredientes": [
+      "Jambon blanc slos*",
+      "Eau",
+      "Sel nitrité",
+      "dextrose",
+      "sel",
+      "antioxydant: E301 - Issu de l'agriculture biologique Lot30117 15080"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Jambon blanc slos*",
+        "razon": "Contiene Jambon blanc slos*, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/003/5037/front_fr.5.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dony’s",
+    "marca": "E Leclerc",
+    "ean": "0215084018371",
+    "ingredientes": [
+      "arine (BLÉ",
+      "SOJA)",
+      "huiles et graisses végétales (palme",
+      "colza)",
+      "eau",
+      "sucre",
+      "pâte de cacao",
+      "dextrose",
+      "' beurre de cacao",
+      "levure",
+      "' poudre de LAIT écrémé",
+      "matière grasse LAITIère anhydre",
+      "poudre de LAIT entier",
+      "sel' émulsifiant (E471",
+      "E481",
+      "E472e",
+      "lécithines de SOJA",
+      "E476)",
+      "poudre à lever (E450i",
+      "E500ii)",
+      "lactosérum en poudre (LAIT)",
+      "arômes. Produitdansune fruits à coque."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "sel' émulsifiant (E471",
+        "razon": "Contiene sel' émulsifiant (E471, impuro según Levítico 11"
+      },
+      {
+        "ingrediente": "E472e",
+        "razon": "Contiene E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/401/8371/front_fr.4.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet jaune",
+    "marca": "Maître CoQ",
+    "ean": "0215087030905",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/703/0905/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de Poulet fermier bio plein air",
+    "marca": "Maître CoQ",
+    "ean": "0215088046707",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/804/6707/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "2 filets de poulet bio",
+    "marca": "Maître CoQ",
+    "ean": "0215088076032",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/807/6032/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de Poulet Fermier bio",
+    "marca": "Maître CoQ",
+    "ean": "0215089028801",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/902/8801/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisses de Poulet fermier",
+    "marca": "Maître CoQ",
+    "ean": "0215089032808",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/903/2808/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "poulet fermier bio",
+    "marca": "Maître CoQ",
+    "ean": "0215089065530",
+    "ingredientes": [
+      "poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/508/906/5530/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain de Campagne Noix Raisin",
+    "marca": "Leclerc",
+    "ean": "0215090010178",
+    "ingredientes": [
+      "Farine de _blé_",
+      "farine de _seigle_",
+      "sel",
+      "_gluten de blé_",
+      "farine de malt torréfié",
+      "acidifiant E270",
+      "enzymes fongiques",
+      "antioxydant E300",
+      "eau",
+      "sel",
+      "levure",
+      "_noix_ 5 %",
+      "raisins secs (5 %)",
+      "farine de _blé_",
+      "émulsifiant : E471 et lécithine",
+      "agents de traitement de la farine : acide ascorbique",
+      "auxiliaires technologiques : alpha amylase et hémicellulases."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "émulsifiant : E471 et lécithine",
+        "razon": "Contiene émulsifiant : E471 et lécithine, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/509/001/0178/front_fr.7.400.jpg",
+    "tahor": false,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet fermier bio",
+    "marca": "Maître CoQ",
+    "ean": "0215094072165",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/509/407/2165/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cafino Cereal",
+    "marca": "Migros, Migros Bio",
+    "ean": "02151069",
+    "ingredientes": [
+      "Zichorien geröstet 42%",
+      "Gerstenmalz geröstet 20%",
+      "Weizen 20%",
+      "Feigen geröstet",
+      "Eicheln geröstet 5%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/215/1069/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Switzerland"
+  },
+  {
+    "nombre": "Hauts de cuisse de poulet paprika",
+    "marca": "Maître CoQ",
+    "ean": "0215111053337",
+    "ingredientes": [
+      "Poulet 93% (origine : France)",
+      "eau",
+      "épices (dont paprika 0",
+      "plantes aromatiques",
+      "semoule de riz",
+      "arômes naturels",
+      "sel",
+      "tomate",
+      "vinaigre d'alcool tamponné."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/511/105/3337/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Morceaux choisis de poulet recette mexicaine",
+    "marca": "Maître CoQ",
+    "ean": "0215113037984",
+    "ingredientes": [
+      "Poulet 93% (origine : France)",
+      "eau",
+      "épices (dont piment)",
+      "plantes naturels",
+      "aromatiques",
+      "arômes sel",
+      "tomate",
+      "poivron",
+      "huile de tournesol",
+      "vinaigre d'alcool tamponné."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/511/303/7984/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pain aux Céréales",
+    "marca": "Leclerc",
+    "ean": "0215120010505",
+    "ingredientes": [
+      "Farine de _froment_",
+      "céréales 8 % (_seigle_",
+      "semoule de _blé_ dur",
+      "_orge_",
+      "_avoine_",
+      "sarrasin)",
+      "graines 6",
+      "millet",
+      "lin)",
+      "_gluten_",
+      "chicorée",
+      "levain",
+      "enzymes fongiques",
+      "acidifiant",
+      "acide lactique",
+      "émulsifiant : lécithine de colza",
+      "enzyme : alpha-amylases",
+      "antioxygène: acide ascorbique",
+      "sel",
+      "levure",
+      "eau."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/512/001/0505/front_fr.9.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "cuisse de poulet rôtie",
+    "marca": "Maître CoQ",
+    "ean": "0215144020931",
+    "ingredientes": [
+      "haut de cuisse et pilon de poulet* 80% (origine France)",
+      "eau",
+      "sirop de glucose*",
+      "amidon de pomme de terre *",
+      "sel de mer de Camargue",
+      "arôme naturel. * produits issus de l'agriculture biologique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/514/402/0931/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet rôtie",
+    "marca": "Maître CoQ",
+    "ean": "0215144024731",
+    "ingredientes": [
+      "UT DE SALAISON",
+      "RÔTIS. dients :Haut de cuisse et pilon de poulet* 80% (origine: Franca)",
+      "eau",
+      "de glucose*",
+      "amidon de pomme de terre*",
+      "sel de mer de Camargue",
+      "arome produits issus de l'agriculture biologique. rique dans un atelier qui utilise gluten",
+      "soja",
+      "Lait",
+      "oeuf",
+      "celeri",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/514/402/4731/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse se poulet bio",
+    "marca": "Maître CoQ",
+    "ean": "0215144026117",
+    "ingredientes": [
+      "OE POULET ROTIES BIO TRRITEES PRR SRLRISON Hauts de plans de poulet bio 80%. eau. sirop do glucose bio",
+      "amidon do pommo terre bio",
+      "cet. arome naturct. Fabrique dans un atelier qui utiliso : glut soja. tait. ocuf",
+      "celeri",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/514/402/6117/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet rotie",
+    "marca": "Maître CoQ",
+    "ean": "0215144027091",
+    "ingredientes": [
+      "Haut de cuisse et pilon de poulet* 80% (origine France)",
+      "eau Sirop de glucose*",
+      "amidon de pomme de terre*",
+      "sel de mer de Camargue",
+      "arôme naturel. produits issus de l'agriculture biologique. Fabriqué dans un atelier qui utilise : gluten",
+      "soja",
+      "Lait",
+      "oeuf",
+      "céleri",
+      "moutarde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/514/402/7091/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de Poulet rôtie BIO",
+    "marca": "Maître CoQ",
+    "ean": "0215144027817",
+    "ingredientes": [
+      "DECOUPES DE POULET ROTIES BIO traitées PAR SALAISON Hauts de cuisse et pilons de poulet bio 80%",
+      "eau. sirop de glucose bio",
+      "amidon de pomme terre bio",
+      "sel",
+      "arome naturel. Fabrique dans un atelier qui utilise : gluten",
+      "soja",
+      "lait",
+      "oeuf",
+      "celeri",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/514/402/7817/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saint-Nectaire fermier",
+    "marca": "sans marque",
+    "ean": "0215157030316",
+    "ingredientes": [
+      "lait de vache cru",
+      "sel",
+      "ferments lactiques et flore de surface",
+      "présure animale",
+      "chlorure de calcium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/515/703/0316/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saint-Nectaire fermier",
+    "marca": "Boucheries André",
+    "ean": "0215157036868",
+    "ingredientes": [
+      "lait de vache cru",
+      "sel",
+      "ferments lactiques et flore de surface",
+      "présure animale",
+      "chlorure de calcium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/515/703/6868/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Saint Nectaire fermier",
+    "marca": "Boucheries André",
+    "ean": "0215157037261",
+    "ingredientes": [
+      "lait de vache cru",
+      "sel",
+      "ferments lactiques et flore de surface",
+      "présure animale",
+      "chlorure de calcium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/515/703/7261/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Salers fermier",
+    "marca": "Boucheries André",
+    "ean": "0215161038377",
+    "ingredientes": [
+      "lait de vache cru",
+      "sel",
+      "présure animale",
+      "ferments lactiques"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/516/103/8377/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Gream bay, muenster cheese",
+    "marca": "Gream Bay",
+    "ean": "0215163003472",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "calcium cholride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Havarti cheese dill",
+    "marca": "Castello",
+    "ean": "0215163205173",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "dill culture",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Muenster cheese",
+    "marca": "Uwajimaya",
+    "ean": "0215163304265",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "calcium cholride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Saputo, Stella, Provolone Cheese With Smoke Flavor",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0215163503743",
+    "ingredientes": [
+      "Provolone cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes",
+      "natural smoke flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Bay, Pepperjack Cheese",
+    "marca": "Uwajimaya",
+    "ean": "0215163504788",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "jalapeno & bell peppers"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy havarti cheese",
+    "marca": "Castello",
+    "ean": "0215163605980",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "culture",
+      "microbial rennet."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coastal, Rugged Mature Cheddar",
+    "marca": "Ford Farm",
+    "ean": "0215163606376",
+    "ingredientes": [
+      "Pasteurized cows milk",
+      "salt",
+      "vegetarian flennet",
+      "dairy cultures"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Low-Moisture Whole Milk Mozzarella Cheese",
+    "marca": "Peterson",
+    "ean": "0215163703266",
+    "ingredientes": [
+      "Low-moisture whole milk mozzarella cheese (pasteurized milk",
+      "salt",
+      "cheese cultures",
+      "enzymes)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brie soft ripened cheese",
+    "marca": "Ile De France",
+    "ean": "0215163709077",
+    "ingredientes": [
+      "Pasteurized milk",
+      "salt",
+      "enzymes",
+      "cheese cultures and penicillium candidum (harmless white mold)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepperjack Cheese, A Lively, Flavorful Ingredient For Cooking",
+    "marca": "Cream Bay",
+    "ean": "0215163904175",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "jalepeno & bell peppers"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hauts de cuisses de poulet assaisonnés thym/citron",
+    "marca": "Maître CoQ",
+    "ean": "0215171026890",
+    "ingredientes": [
+      "Découpes de poulet 92% (origine: France)",
+      "eau",
+      "sel",
+      "plantes aromatiques (dont thym)",
+      "huile essentielle de citron",
+      "poudres d'ail et d'oignon",
+      "épices et extrait d'épice",
+      "amidon de mais",
+      "arômes naturels."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/517/102/6890/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Merite Pain Belge",
+    "marca": "Metro plus",
+    "ean": "0215172304492",
+    "ingredientes": [
+      "ING: FARINE DE BLE ENRICHIE",
+      "EAU",
+      "LEUURE",
+      "SEL",
+      "HUILES DE SOJA ET/OU DE CANOLA",
+      "GLUTEN DE BLE",
+      "ESTERS TARTRIQUES DES MONO - ET DIGLYCERIDES ACETYLES",
+      "SULFATE D'AMMONIUM",
+      "SULFATE DE CALCIUM",
+      "ACIDE ASCORBIQUE",
+      "AMYLASE",
+      "XYLANASE",
+      "IODATE DE POTASSIUM",
+      "L-CYSTEINE. CONTIENT: BLE PEUT CONTENIR: DEUFS",
+      "LAIT",
+      "MOUTARDE",
+      "SESAME ET NOIX.......ING: ENRICHED WHEAT FLOUR",
+      "WATER",
+      "YEAST",
+      "SALT",
+      "SOYBEAN AND/OR CANOLA OILS",
+      "WHEAT GLUTEN",
+      "DIACETYL TAFTARIC ACID ESTERS OF MONO - AND DIGLYCERIDES AMMONIUM SULPHATE",
+      "CALCIUM SULFHATE",
+      "ASCORBIC ACID",
+      "AMYLASE XYLANASE",
+      "POTASSIUM IODATE",
+      "L-CYSTEINE. CONTAINS: WHEAT. MAY CONTAIN: EGGS",
+      "MILK",
+      "MUSTARD",
+      "SESAME AND NUTS."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/517/230/4492/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blanquette de Dinde à mijoter",
+    "marca": "Maître CoQ",
+    "ean": "0215176049726",
+    "ingredientes": [
+      "Dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/517/604/9726/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier de Challans noir",
+    "marca": "Challans",
+    "ean": "0215180060090",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/006/0090/front_fr.5.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Panini blanc",
+    "marca": "METRO",
+    "ean": "0215183804998",
+    "ingredientes": [
+      "FARINE DE BLE ENRICHIE",
+      "EAU",
+      "LEVURE",
+      "SUCRE",
+      "SEL",
+      "HUILES DE SOJA ET/OU DE CANOLA",
+      "GLUTEN DE BLE",
+      "ESTERS TARTRIQUES DES MONO - ET DIGLYCERIDES ACETYLES",
+      "PROPIONATE DE CALCIUM",
+      "SULFATE D'AMMONIUM",
+      "SULFATE DE CALCIUM",
+      "AMYLASE",
+      "ACIDE ASCORBIQUE",
+      "XYLANASE",
+      "IODATE DE POTASSIUM",
+      "L-CYSTEINE",
+      "HUILE DE TOURNESOL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/380/4998/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cuisses de poulet jaune",
+    "marca": "Maître CoQ",
+    "ean": "0215187036609",
+    "ingredientes": [
+      "Cuisses de poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/703/6609/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de Poulet nourri aux graines de lin",
+    "marca": "Maître CoQ",
+    "ean": "0215188035755",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/803/5755/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet nourri aux graines de lin",
+    "marca": "Maître CoQ",
+    "ean": "0215188039951",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/803/9951/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet nourri aux graines de Lin",
+    "marca": "Maître CoQ",
+    "ean": "0215188060818",
+    "ingredientes": [
+      "FILETS DE POULET"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/806/0818/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets de poulet nourri aux graines de lin",
+    "marca": "Maître CoQ",
+    "ean": "0215188072552",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/518/807/2552/front_fr.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Natural White Cheddar Cheese, Jalapeno",
+    "marca": "Cracker Barrel",
+    "ean": "02151902",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "jalapeno peppers (red jalapeno peppers",
+      "green jalapeno peppers",
+      "salt",
+      "acetic acid)",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "pain de campagne 800 gr",
+    "marca": "leclerc",
+    "ean": "0215201014439",
+    "ingredientes": [
+      "E Leclerc L92110 CLICHY PAIN DE CAMPAGNE 800GR inredients: FRINE DE BLE",
+      "FARINE de SEIGLE",
+      "eau",
+      "sel",
+      "levare. SLÜTEN DE BLE",
+      "Levain sec déuitalisé de BLE et de SEIGLE",
+      "FARINE DE BLE naltée",
+      "acidifiant : e270",
+      "enzynes : alpha-anylases",
+      "hénicelluleses et xylariases",
+      "antiorydant : e300. allergene : GLUTEN produit fabriqué dans un atelier utilisant : ŒUFS",
+      "SOJA",
+      "LAIT",
+      "FRUITS A COOUE",
+      "MOUTARDE",
+      "GRAINES DE SESAME."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/520/101/4439/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cracker barrel marbled sharp cheddar cheese",
+    "marca": "Cracker Barrel",
+    "ean": "02152105",
+    "ingredientes": [
+      "Cheddar cheese (pasteurized nonfat milk and milkfat",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto [color])",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/215/2105/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sourdough Bread",
+    "marca": "Nature's Promise",
+    "ean": "0215211203991",
+    "ingredientes": [
+      "wheat flour",
+      "water",
+      "sugar",
+      "yeast",
+      "salt",
+      "soybean oil",
+      "wheat gluten",
+      "soy flour",
+      "calcium propionate",
+      "monocalcium phosphate",
+      "calcium sulfate",
+      "ammonium sulfate",
+      "ascorbic acid",
+      "azodicarbonamide",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/521/120/3991/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Poulet Fermier Jaune Bio",
+    "marca": "Maître CoQ",
+    "ean": "0215212117747",
+    "ingredientes": [
+      "Poulet fermier éviscéré",
+      "sans abats."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/521/211/7747/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Poulet fermier",
+    "marca": "Maître CoQ",
+    "ean": "0215212163072",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/521/216/3072/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Cuisse de poulet à la provençale",
+    "marca": "Maître CoQ",
+    "ean": "0215222037394",
+    "ingredientes": [
+      "Cuisses de poulet magnées à la Provençale Ingrédients Cuisses de poulet bio 93% (origine : France)",
+      "eau",
+      "épices bio et plantes aromatiques bio",
+      "sel de mer",
+      "sucre de canne bio",
+      "poudre de tomate bio",
+      "arôme naturel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/522/203/7394/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Extra sharp white 2% milk",
+    "marca": "Cracker Barrel",
+    "ean": "02152309",
+    "ingredientes": [
+      "Reduced fat cheddar cheese (pasteurized nonfat milk and milkfat",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "vitamin a palmitate)",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/215/2309/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Le Poulet du Rôtisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231048084",
+    "ingredientes": [
+      "Poulet (origine: France)",
+      "protéines de soja",
+      "chapelure de blé",
+      "arômes naturels",
+      "sirop de glucose",
+      "arôme naturel d'a épices",
+      "plantes aromatiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/523/104/8084/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le poulet du rôtisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231049074",
+    "ingredientes": [
+      "Poulet",
+      "sel",
+      "protéines de soja",
+      "arômes naturels",
+      "chapelure de blé",
+      "sucre de canne",
+      "sirop de glucose",
+      "épices (dont coriandre",
+      "sauge",
+      "thym",
+      "origan",
+      "persil)",
+      "huile de tournesol. 103g de poulet mis en oeuvre pour 100g poulet rôti. Peut contenir des traces de lait",
+      "œuf",
+      "céleri",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/523/104/9074/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le poulet du rotisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231058120",
+    "ingredientes": [
+      "Poulet (origine : France)",
+      "sel",
+      "protéines de soja",
+      "arômes naturels",
+      "chapelure de blé",
+      "sucre de canne",
+      "sirop de glucose",
+      "épices (dont coriandre",
+      "sauge",
+      "thym",
+      "origan",
+      "persil)",
+      "huile de tournesol."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/523/105/8120/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le poulet du rôtisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231058182",
+    "ingredientes": [
+      "Poulet",
+      "sel",
+      "protéines de soja",
+      "arômes naturels",
+      "chapelure de blé",
+      "sucre de canne",
+      "sirop de glucose",
+      "épices (dont coriandre",
+      "sauge",
+      "thym",
+      "origan",
+      "persil)",
+      "huile de tournesol. 103g de pouletmis en ?uvre pour 100g poulet rôti. Peut contenir des traces de lait",
+      "oeuf",
+      "Céleri",
+      "moutarde."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/523/105/8182/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le poulet du rôtisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231060024",
+    "ingredientes": [
+      "Poulet (origine : France)",
+      "sel",
+      "protéines de soja",
+      "arômes naturels",
+      "chapelure de blé",
+      "sucre de canne",
+      "sirop de glucose",
+      "épices (dont coriandre",
+      "sauge",
+      "thym",
+      "origan",
+      "persil)",
+      "huile de tournesol."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le Poulet du Rôtisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231060611",
+    "ingredientes": [
+      "Poulet (origine : France)",
+      "sel",
+      "protéines de soja",
+      "chapelure de blé",
+      "arômes naturels",
+      "sirop de glucose",
+      "arôme naturel d'ail",
+      "épices",
+      "plantes aromatiques."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/523/106/0611/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Le poulet du rotisseur",
+    "marca": "Maître CoQ",
+    "ean": "0215231066125",
+    "ingredientes": [
+      "Poulet (origine : France)",
+      "sel",
+      "protéines de soja",
+      "arômes naturels",
+      "chapelure de blé",
+      "sucre de canne",
+      "sirop de glucose",
+      "épices (dont coriandre",
+      "sauge",
+      "thym",
+      "origan",
+      "persil) huile de tournesol. 103g de poulet mis en ?uvre pour 100g poulet rôti. Fabriqué dans un atelier qui utilise : lait",
+      "œuf"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/523/106/6125/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "La Pintade Les Éleveurs de nos Régions",
+    "marca": "Maître CoQ",
+    "ean": "0215242067500",
+    "ingredientes": [
+      "Pintade"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/524/206/7500/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignon de Dinde",
+    "marca": "Maître CoQ",
+    "ean": "0215243026964",
+    "ingredientes": [
+      "Dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/524/302/6964/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filet mignons de dinde",
+    "marca": "Maître CoQ",
+    "ean": "0215243029651",
+    "ingredientes": [
+      "dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/524/302/9651/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Filets mignons de dinde",
+    "marca": "Maître CoQ",
+    "ean": "0215243034709",
+    "ingredientes": [
+      "dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/524/303/4709/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Vermont Sharp White Cheddar Cheese",
+    "marca": "Cracker Barrel",
+    "ean": "02152503",
+    "ingredientes": [
+      "PASTEURIZED MILK",
+      "CHEESE CULTURE",
+      "SALT",
+      "ENZYMES",
+      "NATAMYCIN."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/215/2503/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Escalope de Dinde nourrie aux graines de lin",
+    "marca": "Maître CoQ",
+    "ean": "0215289024016",
+    "ingredientes": [
+      "dinde"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/528/902/4016/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dinde nourrie aux graines de lin",
+    "marca": "Maître CoQ",
+    "ean": "0215289034770",
+    "ingredientes": [
+      "BLEU BLANC COEUR OUI on a tous te droit de bien manger fr www.maitrecoq.fr Maître COQ voUs Le 10 moins et 10 cal oriaue - 2 DINDE FINES CONOITIONNE SOUS POIDS NET: jusatrnu"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/528/903/4770/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Aiguillettes de poulet",
+    "marca": "Maître CoQ",
+    "ean": "0215293043102",
+    "ingredientes": [
+      "Poulet"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/021/529/304/3102/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  }
+]
