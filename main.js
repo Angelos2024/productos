@@ -78,18 +78,31 @@ botonBusqueda.addEventListener('click', async () => {
   const base = await fetch("https://raw.githubusercontent.com/angelos2024/productos/main/base_tahor_tame.json").then(r => r.json());
   const clave = normalizeYsingularizar(marca + " " + nombre);
   const encontrado = base.find(p =>
-    normalizeYsingularizar(p.marca + " " + p.nombre) === clave
+    normalizeYsingularizar(p.marca + " " + p.nombre) === clave || (ean && p.ean === ean)
   );
 
   if (encontrado) {
     const ing = encontrado.ingredientes.map(i =>
       isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
-    resultadoDiv.innerHTML += `
+
+    let html = `
       <p><strong>${encontrado.nombre}</strong> – ${encontrado.marca} (${encontrado.pais})</p>
-      <p>Ingredientes: ${ing}</p>
-      <p style="color:${encontrado.tahor ? 'green' : 'red'};">
-        ${encontrado.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}
-      </p>`;
+      ${encontrado.imagen && encontrado.imagen !== "imagen no disponible" ? 
+        `<img src="${encontrado.imagen}" alt="Imagen del producto" style="max-width:200px; display:block; margin-bottom:10px;">` :
+        `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
+      <p><strong>Ingredientes:</strong> ${ing}</p>
+    `;
+
+    if (encontrado.ingredientes_tame.length > 0) {
+      html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
+      html += `<ul style="color:red;">${encontrado.ingredientes_tame.map(obj =>
+        `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
+    }
+
+    html += `<p style="color:${encontrado.tahor ? 'green' : 'red'};">
+      ${encontrado.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>`;
+
+    resultadoDiv.innerHTML += html;
     return;
   }
 
