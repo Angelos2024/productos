@@ -21,6 +21,7 @@ let marcaGlobal = '';
 let nombreGlobal = '';
 let eanGlobal = '';
 
+// --- Cámara y escaneo
 if (escanearCodigoBtn) {
   const codeReader = new ZXing.BrowserBarcodeReader();
   const selectCamara = document.getElementById('selectCamara');
@@ -59,6 +60,7 @@ if (escanearCodigoBtn) {
   });
 }
 
+// --- Búsqueda principal
 botonBusqueda.addEventListener('click', async () => {
   const marca = document.getElementById('marcaEntrada').value.trim();
   const nombre = document.getElementById('nombreEntrada').value.trim();
@@ -73,76 +75,15 @@ botonBusqueda.addEventListener('click', async () => {
   nombreGlobal = nombre;
   eanGlobal = ean;
 
-  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local...</strong></p>';
+  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
 
-const encontrado = await buscarProductoEnArchivos(nombre, marca, ean);
-if (encontrado) return;
-  
-  const clave = normalizeYsingularizar(marca + " " + nombre);
-  const encontrado = base.find(p =>
-    normalizeYsingularizar(p.marca + " " + p.nombre) === clave || (ean && p.ean === ean)
-  );
-
-  if (encontrado) {
-    const ing = encontrado.ingredientes.map(i =>
-      isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
-
-    let html = `
-      <p><strong>${encontrado.nombre}</strong> – ${encontrado.marca} (${encontrado.pais})</p>
-      ${encontrado.imagen && encontrado.imagen !== "imagen no disponible" ? 
-        `<img src="${encontrado.imagen}" alt="Imagen del producto" style="max-width:200px; display:block; margin-bottom:10px;">` :
-        `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
-      <p><strong>Ingredientes:</strong> ${ing}</p>
-    `;
-
-    if (encontrado.ingredientes_tame.length > 0) {
-      html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-      html += `<ul style="color:red;">${encontrado.ingredientes_tame.map(obj =>
-        `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
-    }
-
-    html += `<p style="color:${encontrado.tahor ? 'green' : 'red'};">
-      ${encontrado.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>`;
-
-    resultadoDiv.innerHTML += html;
-    return;
-  }
+  const encontrado = await buscarProductoEnArchivos(nombre, marca, ean);
+  if (encontrado) return;
 
   resultadoDiv.innerHTML += '<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>';
   const res = await buscarEnOpenFoodFacts(nombre, ean);
   resultadoDiv.innerHTML += res || "<p>❌ No se encontró información del producto.</p>";
 });
-
-async function buscarEnOpenFoodFacts(nombre, ean) {
-  try {
-    let url = "";
-    if (ean && /^[0-9]{8,14}$/.test(ean)) {
-      url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
-    } else {
-      const nombreBusqueda = encodeURIComponent(nombre);
-      url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1`;
-    }
-
-    const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
-    const data = await res.json();
-    const prod = data.product || (data.products && data.products[0]);
-    if (!prod) return null;
-
-    const ingredientes = prod.ingredients_text || "";
-    const lista = ingredientes.toLowerCase().split(/,|\./).map(i => i.trim()).filter(i => i.length > 1);
-    const htmlIng = lista.map(ing => isTame(ing) ? `<span style="color:red">${ing}</span>` : `<span>${ing}</span>`).join(', ');
-    const tame = lista.some(i => isTame(i));
-
-    return `
-      ${prod.image_url ? `<img src="${prod.image_url}" alt="Imagen del producto">` : ''}
-      <p><strong>${prod.product_name || 'Producto'}</strong></p>
-      <p>Ingredientes: ${htmlIng}</p>
-      <p style="color:${tame ? 'red' : 'green'};">
-        ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>`;
-  } catch (e) {
-    return null;
-  }
-}
 
 function abrirTahor() {
   document.getElementById('menuInicial').style.display = 'none';
@@ -152,6 +93,7 @@ function abrirTahor() {
   mensajeUsuario.innerHTML = '';
 }
 
+// Tabs de navegación
 document.getElementById('tabBuscar').addEventListener('click', () => {
   document.getElementById('formBusquedaProducto').style.display = 'block';
   document.getElementById('analisisResultado').style.display = 'block';
@@ -167,11 +109,14 @@ document.getElementById('tabRegistrar').addEventListener('click', () => {
 });
 
 function activarTab(idActiva) {
-  document.getElementById('tabBuscar').classList.remove('tab-activa');
-  document.getElementById('tabRegistrar').classList.remove('tab-activa');
-  document.getElementById(idActiva).classList.add('tab-activa');
+  ['tabBuscar', 'tabRegistrar', 'tabBuzon'].forEach(id => {
+    const tab = document.getElementById(id);
+    if (tab) tab.classList.remove('tab-activa');
+  });
+  document.getElementById(idActiva)?.classList.add('tab-activa');
 }
 
+// Añadir pestaña de revisión solo si no existe
 function mostrarBuzonAdmin() {
   if (!document.getElementById('tabBuzon')) {
     const nuevaTab = document.createElement('button');
@@ -190,6 +135,8 @@ function mostrarBuzonAdmin() {
   }
 }
 
+let productosPendientes = [];
+
 async function cargarPendientes() {
   const contenedor = document.getElementById('listaPendientes');
   contenedor.innerHTML = "<p>Cargando...</p>";
@@ -198,12 +145,12 @@ async function cargarPendientes() {
     const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ accion: "listar" }) // NUEVA ACCIÓN
+      body: JSON.stringify({ accion: "listar" })
     });
 
     if (!res.ok) throw new Error("Error al listar productos");
-    const productos = await res.json();
 
+    const productos = await res.json();
     productosPendientes = productos;
 
     if (!productos.length) {
@@ -231,9 +178,6 @@ async function cargarPendientes() {
   }
 }
 
-
-let productosPendientes = [];
-
 async function aprobarProducto(index) {
   const producto = productosPendientes[index];
   if (!producto) return;
@@ -245,7 +189,7 @@ async function aprobarProducto(index) {
       body: JSON.stringify({ accion: 'aprobar', producto })
     });
 
-    if (!res.ok) throw new Error('Error al aprobar');
+    if (!res.ok) throw new Error('Error al aprobar producto');
     cargarPendientes();
   } catch (err) {
     console.error('❌ Error al aprobar producto:', err);
@@ -263,14 +207,14 @@ async function rechazarProducto(index) {
       body: JSON.stringify({ accion: 'rechazar', producto })
     });
 
-    if (!res.ok) throw new Error('Error al rechazar');
+    if (!res.ok) throw new Error('Error al rechazar producto');
     cargarPendientes();
   } catch (err) {
     console.error('❌ Error al rechazar producto:', err);
   }
 }
 
-// Registro manual de productos
+// --- Envío manual de productos
 document.getElementById("formRegistroManual").addEventListener("submit", async (e) => {
   e.preventDefault();
 
@@ -293,11 +237,10 @@ document.getElementById("formRegistroManual").addEventListener("submit", async (
 
     if (!res.ok) throw new Error("Error al registrar producto");
 
-    document.getElementById("mensajeUsuario").innerHTML = "✅ Producto enviado para revisión.";
+    mensajeUsuario.innerHTML = "✅ Producto enviado para revisión.";
     e.target.reset();
   } catch (err) {
     console.error("❌ Error al registrar producto:", err);
-    document.getElementById("mensajeUsuario").innerHTML = "❌ No se pudo registrar el producto.";
+    mensajeUsuario.innerHTML = "❌ No se pudo registrar el producto.";
   }
 });
-
