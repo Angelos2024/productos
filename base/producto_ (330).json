@@ -1,0 +1,7487 @@
+[
+  {
+    "nombre": "Feta cheese chunk",
+    "marca": "Athenos",
+    "ean": "0070277290107",
+    "ingredientes": [
+      "Pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0107/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta Cheese",
+    "marca": "Athenos",
+    "ean": "0070277290282",
+    "ingredientes": [
+      "cultured pasteurized part-skim milk",
+      "salt",
+      "enzymes",
+      "natamycin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0282/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta Cheese",
+    "marca": "Athenos",
+    "ean": "0070277290404",
+    "ingredientes": [
+      "Feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "cellulose powder to prevent caking",
+      "dried red bell peppers",
+      "spices",
+      "dried garlic",
+      "dried onion",
+      "dried lemon peel",
+      "dried black olives",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0404/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled Feta Cheese, Jalapeno Pepper",
+    "marca": "Athenos",
+    "ean": "0070277290411",
+    "ingredientes": [
+      "Feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "cellulose powder to prevent caking",
+      "dried jalapeno peppers",
+      "dried onions",
+      "dried garlic",
+      "parsley flakes",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta Cheese, Chunk, Tomato & Basil",
+    "marca": "Athenos",
+    "ean": "0070277290794",
+    "ingredientes": [
+      "Pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "dried tomatoes",
+      "dried basil",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled feta cheese",
+    "marca": "Athenos",
+    "ean": "0070277290831",
+    "ingredientes": [
+      "Feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "powdered cellulose to prevent caking",
+      "dried tomatoes",
+      "dried basil",
+      "natamycin (a naturalo mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0831/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled Feta Cheese, Garlic & Herb",
+    "marca": "Athenos",
+    "ean": "0070277290879",
+    "ingredientes": [
+      "Feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "powdered cellulose to prevent caking",
+      "spice",
+      "dried garlic",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0879/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic & Herb Chunk Feta Cheese",
+    "marca": "Athknos",
+    "ean": "0070277290916",
+    "ingredientes": [
+      "Pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "spice",
+      "dried garlic",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Traditional Reduced Fat Feta Cheese Chunk",
+    "marca": "Athenos",
+    "ean": "0070277290947",
+    "ingredientes": [
+      "Pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "vitamin a palmitate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0947/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta cheese",
+    "marca": "Athenos",
+    "ean": "0070277290985",
+    "ingredientes": [
+      "Reduced fat feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "vitamin a palmitate)",
+      "powdered cellulose to prevent caking",
+      "natamycin (a natural mold inhibitor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/0985/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled Reduced Fat Tomato & Basil Feta Cheese",
+    "marca": "Athenos",
+    "ean": "0070277290992",
+    "ingredientes": [
+      "Reduced fat feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "vitamin a palmitate)",
+      "powdered cellulose to prevent caking",
+      "dried tomatoes",
+      "dried basil",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled Fat Free Feta Cheese",
+    "marca": "Athenos",
+    "ean": "0070277291159",
+    "ingredientes": [
+      "Fat free feta cheese (pasteurized skim milk",
+      "salt",
+      "cheese culture",
+      "natural flavor",
+      "enzymes",
+      "artificial color",
+      "vitamin a palmitate)",
+      "powdered cellulose",
+      "natamycin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/1159/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled Feta cheese",
+    "marca": "Athenos",
+    "ean": "0070277291906",
+    "ingredientes": [
+      "Feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "cellulose powder to prevent caking",
+      "dried red bell peppers",
+      "spices",
+      "dried garlic",
+      "dried onion",
+      "dried lemon peel",
+      "dried black olives",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/1906/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crumbled Feta Cheese, Jalapeno Pepper",
+    "marca": "Athenos",
+    "ean": "0070277291913",
+    "ingredientes": [
+      "Feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "cellulose powder to prevent caking",
+      "dried jalapeno peppers",
+      "dried onions",
+      "dried garlic",
+      "parsley flakes",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Crumbled Feta Cheese, Traditional",
+    "marca": "Athenos",
+    "ean": "0070277291982",
+    "ingredientes": [
+      "Fat free feta cheese (pasteurized skim milk",
+      "salt",
+      "cheese culture",
+      "natural flavor",
+      "enzymes",
+      "artificial color",
+      "vitamin a palmitate)",
+      "powdered cellulose",
+      "natamycin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/1982/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Hummus",
+    "marca": "Athenos",
+    "ean": "0070277299247",
+    "ingredientes": [
+      "CHICKPEAS",
+      "WATER",
+      "TAHINI (SESAME)",
+      "SUNFLOWER OIL",
+      "OLIVE OIL",
+      "SEA SALT",
+      "GARLIC",
+      "CITRIC ACID",
+      "CUMIN",
+      "GUAR GUM"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted red pepper hummus",
+    "marca": "Athenos",
+    "ean": "0070277299254",
+    "ingredientes": [
+      "CHICKPEAS",
+      "ROASTED RED BELL PEPPERS",
+      "TAHINI (SESAME)",
+      "SUNFLOWER OIL",
+      "OLIVE OIL",
+      "WATER",
+      "SEA SALT",
+      "CITRIC ACID",
+      "GUAR GUM",
+      "GARLIC",
+      "PAPRIKA",
+      "VINEGAR",
+      "SUGAR",
+      "BASIL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/729/9254/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta cheese",
+    "marca": "Athenos",
+    "ean": "0070277626203",
+    "ingredientes": [
+      "feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "powdered cellulose",
+      "natamycin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/762/6203/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Reduced fat feta cheese",
+    "marca": "Athenos",
+    "ean": "0070277626241",
+    "ingredientes": [
+      "feta cheese (pasteurized part-skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "vitamin a palmitate)",
+      "powdered cellulose",
+      "natamycin)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/027/762/6241/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Feta Cheese",
+    "marca": "Athenos",
+    "ean": "0070277626272",
+    "ingredientes": [
+      "Fat free feta cheese (pasteurized skim milk",
+      "salt",
+      "cheese culture",
+      "natural flavor",
+      "enzymes",
+      "artificial color",
+      "vitamin a palmtate)",
+      "powdered cellulose to prevent caking",
+      "natamycin (a natural mold inhibitor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clover valley, refried beans",
+    "marca": "Clover Valley",
+    "ean": "0070278002006",
+    "ingredientes": [
+      "Water",
+      "prepared pinto beans",
+      "soybean oil",
+      "salt",
+      "onion powder",
+      "chili powder",
+      "garlic powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey dijon mustard",
+    "marca": "Koops'",
+    "ean": "0070281000112",
+    "ingredientes": [
+      "Water",
+      "mustard seed",
+      "honey",
+      "vinegar",
+      "salt",
+      "citric acid",
+      "turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Horseradish mustard",
+    "marca": "Olds Products Co.",
+    "ean": "0070281000211",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "horseradish powder",
+      "red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/0211/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mustard dusseldorf squeeze",
+    "marca": "Koops'",
+    "ean": "0070281000235",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/0235/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mustard deli spicy brown",
+    "marca": "Koops'",
+    "ean": "0070281000266",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/0266/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mustard",
+    "marca": "Olds Products Co.",
+    "ean": "0070281000273",
+    "ingredientes": [
+      "Water",
+      "vinegar",
+      "mustard seed",
+      "salt",
+      "white wine",
+      "fruit pectin",
+      "citric acid",
+      "tartaric acid",
+      "spice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Arizona heat mustard",
+    "marca": "Koops'",
+    "ean": "0070281000280",
+    "ingredientes": [
+      "Water",
+      "sugar",
+      "vinegar",
+      "mustard seed",
+      "salt",
+      "dehydrated vegetables",
+      "natural flavor",
+      "paprika",
+      "turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/0280/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey mustard",
+    "marca": "Koops'",
+    "ean": "0070281000297",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "sugar",
+      "salt",
+      "honey spices",
+      "garlic powder",
+      "carrot extract (color)",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original yellow mustard",
+    "marca": "Olds Products Co.",
+    "ean": "0070281000310",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "turmeric",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mustard, Original Yellow",
+    "marca": "Koop's",
+    "ean": "0070281000341",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "turmeric",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mustard original yellow",
+    "marca": "Olds Products Co.",
+    "ean": "0070281000365",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "turmeric",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/0365/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original Yellow Mustard",
+    "marca": "Koop's",
+    "ean": "0070281000372",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "turmeric",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Yellow Mustard",
+    "marca": "Koops', Koop's",
+    "ean": "0070281001164",
+    "ingredientes": [
+      "Water",
+      "organic vinegar",
+      "organic mustard seed",
+      "salt",
+      "organic turmeric",
+      "organic paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic dijon mustard",
+    "marca": "Olds Products Company Of Illinois, Koop's",
+    "ean": "0070281001171",
+    "ingredientes": [
+      "Water",
+      "organic mustard seeds",
+      "organic vinegar",
+      "salt",
+      "organic turmeric",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Spicy Brown Mustard",
+    "marca": "Koops', Koop's",
+    "ean": "0070281001188",
+    "ingredientes": [
+      "Water",
+      "organic vinegar",
+      "organic mustard seeds",
+      "salt",
+      "organic turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/1188/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Stone Ground Mustard",
+    "marca": "Koops, Koop's",
+    "ean": "0070281001195",
+    "ingredientes": [
+      "Water",
+      "organic vinegar",
+      "organic mustard seeds",
+      "salt",
+      "organic spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mustard",
+    "marca": "Olds Products Co.",
+    "ean": "0070281001232",
+    "ingredientes": [
+      "water",
+      "mustard seed",
+      "vinegar",
+      "salt",
+      "citric acid",
+      "turmeric"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/100/1232/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jalapeno mustard",
+    "marca": "Olds Products Co.",
+    "ean": "0070281001348",
+    "ingredientes": [
+      "Vinegar",
+      "water",
+      "mustard seed",
+      "salt",
+      "dehydrated jalapeno pepper",
+      "turmeric",
+      "paprika",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cranberry Apple Juice",
+    "marca": "Fruit Patch",
+    "ean": "0070283016081",
+    "ingredientes": [
+      "Apple juice",
+      "cranberry juice concentrate",
+      "filtered water (sufficient to reconstitute cranberry concentrate)",
+      "vitamin c (ascorbic acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/301/6081/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Juice",
+    "marca": "Fruit Patch",
+    "ean": "0070283016098",
+    "ingredientes": [
+      "Apple juice",
+      "cherry concentrate",
+      "filtered water (sufficient to reconstitute cherry concentrate)",
+      "vitamin c (ascorbic acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/301/6098/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cherry Pomegranate Juice",
+    "marca": "Cherry Central Cooperative  Inc.",
+    "ean": "0070283017088",
+    "ingredientes": [
+      "Montmorency red tart cherry juice",
+      "montmorency red tart cherry juice concentrate",
+      "pomegranate juice concentrate."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate juice concentrate.",
+        "razon": "Contiene pomegranate juice concentrate., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Dried Tart Montmorency Cherries",
+    "marca": "Traverse Bay Fruit Co.",
+    "ean": "0070283025144",
+    "ingredientes": [
+      "Red tart montmorency cherries",
+      "sugar",
+      "sunflower oil (not a significant source of fat)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grape Juice",
+    "marca": "Fruit Patch",
+    "ean": "0070283094225",
+    "ingredientes": [
+      "grape juice from concentrate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/309/4225/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry Apple Sauce",
+    "marca": "Fruit Patch",
+    "ean": "0070283096557",
+    "ingredientes": [
+      "Apples",
+      "sugar",
+      "water",
+      "strawberry puree",
+      "natural flavor",
+      "ascorbic acid (vitamin c)",
+      "malic acid",
+      "citric acid",
+      "fd&c red #40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Unsweetened Applesauce",
+    "marca": "Royal Select,cherry central,cherry central inc.",
+    "ean": "0070283097011",
+    "ingredientes": [
+      "APPLES",
+      "WATER",
+      "ASCORBIC ACID (TO MAINTAIN COLOR)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/028/309/7011/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Dried Blueberries",
+    "marca": "Ravers Bay Fruit Co.",
+    "ean": "0070283435189",
+    "ingredientes": [
+      "Blueberries",
+      "sugar",
+      "sunflower oil (not a significant source of fat)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Dried Cranberries",
+    "marca": "Cherry Central",
+    "ean": "0070283495190",
+    "ingredientes": [
+      "Cranberries sugar",
+      "sunflower oil (not a significant source of fat)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marble Rye",
+    "marca": "H&S Bakery  Inc.",
+    "ean": "0070287001564",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "white rye flour",
+      "rye flakes",
+      "yeast",
+      "contains 2% or less of the following: salt",
+      "caramel color with sulfites",
+      "soybean oil",
+      "high fructose corn syrup",
+      "wheat gluten",
+      "ground caraway seeds",
+      "wheat flour",
+      "caraway seeds",
+      "calcium propionate (a preservative)",
+      "rye flour",
+      "mono and diglycerides",
+      "onion powder",
+      "calcium sulfate",
+      "corn starch",
+      "lactic acid",
+      "acetic acid",
+      "enzymes",
+      "citric acid",
+      "ascorbic acid (dough conditioner)",
+      "high oleic canola oil",
+      "spices",
+      "polysorbate 60",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Club 6 Rolls",
+    "marca": "H&C Bakery  Inc.",
+    "ean": "0070287002257",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "high fructose corn syrup",
+      "yeast",
+      "contains 2% or less of each of the following: soybean oil",
+      "salt",
+      "wheat flour",
+      "dextrose",
+      "calcium propionate (a preservative)",
+      "mono and diglycerides",
+      "malted barley flour",
+      "calcium sulfate",
+      "datem",
+      "corn starch",
+      "ammonium sulfate",
+      "ascorbic acid (dough conditioner)",
+      "enzymes",
+      "potassium iodate",
+      "azodicarbonamide",
+      "high oleic canola oil",
+      "l-cysteine",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian rolls",
+    "marca": "H&S Bakery  Inc.",
+    "ean": "0070287002264",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "yeast contains 2% or less of each of the following: high fructose corn syrup",
+      "soybean oil",
+      "salt",
+      "wheat flour",
+      "mono and diglycerides",
+      "dextrose",
+      "calcium propionate (a preservative)",
+      "guar gum",
+      "malted barley flour",
+      "calcium sulfate",
+      "datem",
+      "corn starch",
+      "ammonium sulfate",
+      "ascorbic acid (dough conditioner)",
+      "enzymes",
+      "potassium iodate",
+      "azodicarbonamide",
+      "silicon dioxide",
+      "high oleic canola oil",
+      "l-cysteine",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rolls",
+    "marca": "H&C Bakery  Inc.",
+    "ean": "0070287002981",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "high fructose corn syrup",
+      "yeast",
+      "contains 2% or less of each of the following: wheat gluten",
+      "soybean oil",
+      "salt",
+      "extract of malted barley and corn grits",
+      "wheat flour",
+      "mono and diglycerides",
+      "dextrose",
+      "guar gum",
+      "malted barley flour",
+      "calcium propionate (a preservative)",
+      "datem",
+      "calcium sulfate",
+      "corn starch",
+      "ascorbic acid (dough conditioner)",
+      "enzymes",
+      "potassium iodate",
+      "silicon dioxide",
+      "high oleic canola oil",
+      "l - cysteine",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "H&s bakery, harvest pride, texas toast bread",
+    "marca": "H&S Bakery",
+    "ean": "0070287003780",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "high fructose corn syrup",
+      "yeast",
+      "contains 2% or less of each of the following: soybean oil",
+      "salt",
+      "calcium sulfate",
+      "calcium propionate (a preservative)",
+      "degerminated yellow corn flour",
+      "soy protein concentrate",
+      "wheat flour",
+      "sugar",
+      "sodium stearoyl lactylate",
+      "monoglycerides",
+      "turmeric oleoresin color",
+      "paprika oleoresin color",
+      "datem",
+      "wheat gluten",
+      "enzymes",
+      "lactic acid",
+      "high oleic canola oil",
+      "ascorbic acid (dough conditioner)",
+      "ammonium sulfate",
+      "silicon dioxide",
+      "azodicarbonamide",
+      "natural flavors",
+      "wheat starch",
+      "ascorbic acid (a preservative)",
+      "citric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole foods market, potato hot dog",
+    "marca": "Whole Foods Market,  H & S Bakery Inc.",
+    "ean": "0070287010542",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "sugar",
+      "dehydrated potatoes",
+      "yeast",
+      "contains 2% or less of each of the following",
+      "soybean oil",
+      "wheat gluten",
+      "salt",
+      "cultured wheat flour",
+      "guar gum",
+      "wheat flour",
+      "vinegar",
+      "ascorbic acid (dough conditioner)",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole foods market, potato hamburger buns",
+    "marca": "Whole Foods Market,  H & S Bakery Inc.",
+    "ean": "0070287010559",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "sugar",
+      "potato flour",
+      "yeast",
+      "contains 2% or less of the following: soybean oil",
+      "wheat gluten",
+      "salt",
+      "cultured wheat flour",
+      "wheat flour",
+      "calcium sulfate",
+      "enzymes",
+      "vinegar",
+      "ascorbic acid (dough conditioner)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harvest pride, soft wheat bulkie rolls",
+    "marca": "Harvest Pride",
+    "ean": "0070287110792",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "whole wheat flour",
+      "rolled wheat",
+      "sugar",
+      "contains 2% or less of the the following: soybean oil",
+      "wheat gluten",
+      "alt",
+      "yeast",
+      "honey",
+      "wheat flour",
+      "preservatives (calcium propionate",
+      "propionic acid",
+      "phosphoric acid)",
+      "high fructose corn syrup",
+      "mono and diglycerides",
+      "wheat starch",
+      "calcium sulfate",
+      "calcium stearate",
+      "ascorbic acid (dough conditioner)",
+      "distilled monoglycerides",
+      "enzymes",
+      "high oleic canola oil",
+      "azodicarbonamide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bagels",
+    "marca": "H & S Bakery",
+    "ean": "0070287111270",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "high fructose corn syrup",
+      "contains 2% or less of each of the following: degerminated yellow corn meal",
+      "salt",
+      "wheat flour",
+      "yeast",
+      "wheat gluten",
+      "calcium propionate (a preservative)",
+      "monoglycerides",
+      "degerminated yellow corn flour",
+      "ground flax seeds",
+      "ascorbic acid (dough conditioner)",
+      "enzymes",
+      "maltodextrin",
+      "calcium sulfate",
+      "soy flour",
+      "acetic acid",
+      "lactic acid",
+      "silicon dioxide",
+      "canola oil",
+      "l-cysteine",
+      "hydrogenated soybean oil",
+      "calcium peroxide",
+      "ammonium phosphate",
+      "azodicarbonamide",
+      "dicalcium phosphate",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)",
+      "wheat starch."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harvest pride, old world english tea rolls",
+    "marca": "Harvest Pride",
+    "ean": "0070287111652",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "sugar",
+      "sesame seeds",
+      "poppy seeds",
+      "soybean oil",
+      "contains 2% or less of each of the following: yeast",
+      "salt",
+      "cultured wheat flour",
+      "wheat flour",
+      "calcium sulfate",
+      "dextrose",
+      "corn starch",
+      "enzymes",
+      "vinegar",
+      "ascorbic acid (dough conditioner)",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harvest pride, sourdough",
+    "marca": "H&S Bakery  Inc.",
+    "ean": "0070287111669",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "yeast",
+      "degerminated yellow corn meal",
+      "contains 2% or less of each of the following: vinegar",
+      "cultured wheat flour",
+      "wheat gluten",
+      "soybean oil",
+      "salt",
+      "malted barley flour",
+      "wheat flour",
+      "acetic acid",
+      "calcium sulfate",
+      "ascorbic acid (dough conditioner)",
+      "enzymes",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harvest pride, 100% whole wheat rolls",
+    "marca": "H&S Bakery  Inc.",
+    "ean": "0070287111676",
+    "ingredientes": [
+      "Whole wheat flour",
+      "water",
+      "wheat gluten",
+      "contains 2% or less of each of the following: yeast",
+      "sugar",
+      "soybean oil",
+      "salt",
+      "calcium sulfate",
+      "sea salt",
+      "ascorbic acid (dough conditioner)",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown & Serve Rolls",
+    "marca": "Harvest Pride",
+    "ean": "0070287510844",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "high fructose corn syrup",
+      "contains 2% or less of the following: soybean oil",
+      "wheat gluten",
+      "salt",
+      "wheat flour",
+      "yeast",
+      "calcium sulfate",
+      "preservatives (calcium propionate",
+      "alpha-tocopherol",
+      "citric acid)",
+      "distilled vinegar",
+      "yellow corn flour",
+      "monoglycerides",
+      "corn starch",
+      "sodium stearoyl lactylate",
+      "dextrose",
+      "acetic acid",
+      "enzymes",
+      "lactic acid",
+      "canola oil",
+      "natural flavor",
+      "azodicarbonamide",
+      "ascorbic acid (dough conditioner)",
+      "silicon dioxide",
+      "calcium peroxide",
+      "tricalcium phosphate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet, all natural bread",
+    "marca": "Gourmet",
+    "ean": "0070287541176",
+    "ingredientes": [
+      "Coarse whole wheat flour",
+      "water",
+      "sugar",
+      "yeast",
+      "vital wheat gluten",
+      "whole grain wheat flakes",
+      "contains 2% or less of the following: whole grain rye flakes",
+      "wheat germ",
+      "soybean oil",
+      "dry honey (honey",
+      "wheat starch)",
+      "salt",
+      "calcium sulfate",
+      "molasses",
+      "natural mold inhibitor (vinegar",
+      "silica",
+      "acetic acid (produced by fermentation))",
+      "wheat bran",
+      "malted",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid",
+      "defatted flaxseed",
+      "ascorbic acid added as a dough conditioner (vitamin c)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crispy Bagel Co, Gourmet Deli Bagels",
+    "marca": "H & S Bakery Inc.",
+    "ean": "0070287549905",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "sugar",
+      "sunflower kernels",
+      "sesame seeds",
+      "contains 2% or less of each of the following: degerminated yellow corn meal",
+      "dehydrated toasted minced onion",
+      "salt",
+      "yeast",
+      "wheat flour",
+      "wheat gluten",
+      "poppy seeds",
+      "calcium propionate (a preservative)",
+      "dehyrated roasted minced garlic",
+      "monoglycerides",
+      "degerminated yellow corn flour",
+      "guat gum",
+      "ground flax seeds. enzymes",
+      "ascorbic acid (dough conditioner)",
+      "maltodextrin",
+      "acetic acid",
+      "lactic acid",
+      "canola oil",
+      "calcium sulfate",
+      "l-cysteine",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Manischewitz, old tyme, pumpernickel bread",
+    "marca": "Manischewitz",
+    "ean": "0070287631662",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "white rye flour",
+      "rye chops",
+      "caramel color with sulfites",
+      "yeast",
+      "contains 2% or less of each of the following: wheat gluten",
+      "salt",
+      "soybean oil",
+      "high fructose corn syrup",
+      "ground caraway seeds",
+      "wheat flour",
+      "calcium propionate (a preservative)",
+      "rye flour",
+      "onion powder",
+      "monoglycerides",
+      "garlic powder",
+      "calcium sulfate",
+      "corn starch",
+      "lactic acid",
+      "acetic acid",
+      "enzymes",
+      "ascorbic acid (dough conditioner)",
+      "citric acid",
+      "high oleic canola oil",
+      "spices polysorbate 60",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old tyme, manischewitz, seedless rye bread",
+    "marca": "Old Tyme",
+    "ean": "0070287631860",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "water",
+      "white rye flour",
+      "yeast",
+      "contains 2% or less of each of the following: soybean oil",
+      "high fructose corn syrup",
+      "ground caraway seeds",
+      "salt",
+      "wheat flour",
+      "wheat gluten",
+      "calcium propionate (a preservative)",
+      "mono and diglycerides",
+      "onion powder",
+      "garlic powder",
+      "calcium sulfate",
+      "caramel color with sulfites",
+      "lactic acid",
+      "acetic acid",
+      "enzymes",
+      "citric acid",
+      "high oleic canola oil",
+      "polysorbate 60",
+      "propionic acid (a preservative)",
+      "phosphoric acid (a preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peppered gravy mix",
+    "marca": "Southeastern Mills Inc.",
+    "ean": "0070292153210",
+    "ingredientes": [
+      "shortening powder (partially hydrogenated soybean oil",
+      "corn syrup solids",
+      "sodium caseinate",
+      "mono and diglycerides",
+      "sodium citrate",
+      "salt",
+      "dipotassium phosphate",
+      "sodium silicoaluminate",
+      "soy lecithin)",
+      "modified corn starch",
+      "enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "salt",
+      "spices",
+      "caramel color"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brown gravy mix",
+    "marca": "Southeastern Mills  Inc.",
+    "ean": "0070292160287",
+    "ingredientes": [
+      "Modified corn starch",
+      "enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "partially hydrogenated soybean oil",
+      "corn syrup solids",
+      "hydrolyzed soy protein",
+      "salt",
+      "hydrolyzed corn protein",
+      "caramel color",
+      "yeast extract",
+      "onion powder",
+      "sugar",
+      "garlic powder",
+      "maltodextrin",
+      "beef extract",
+      "sodium caseinate",
+      "mono and diglycerides",
+      "natural flavor",
+      "spices",
+      "sodium citrate",
+      "dipotassium phosphate",
+      "flavoring",
+      "soy lecithin",
+      "chicken fat",
+      "beef fat",
+      "extractives of turmeric",
+      "sulfites."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/029/216/0287/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Country gravy mix",
+    "marca": "Southeastern Mills",
+    "ean": "0070292160294",
+    "ingredientes": [
+      "Partially hydrogenated soybean oil",
+      "modified corn starch",
+      "enriched bleached wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "buttermilk",
+      "maltodextrin",
+      "salt",
+      "corn syrup solids",
+      "yeast extract",
+      "sugar",
+      "chicken fat",
+      "spices",
+      "mono and diglycerides",
+      "sodium caseinate",
+      "hydrolyzed corn gluten and soy protein",
+      "sodium citrate",
+      "dipotassium phosphate",
+      "citric acid",
+      "sodium stearoyl lactylate",
+      "soy flour",
+      "natural flavors including smoke",
+      "dried chicken meat",
+      "turmeric",
+      "garlic powder",
+      "carrageenan",
+      "artificial color including fd&c yellow no. 5 and no. 6",
+      "disodium inosinate and guanylate",
+      "artificial flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/029/216/0294/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mix gravy ppprd sausage",
+    "marca": "Southeastern Mills",
+    "ean": "0070292170552",
+    "ingredientes": [
+      "Partially hydrogenated soybean oil",
+      "modified corn starch",
+      "corn syrup solids",
+      "enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "salt",
+      "spices",
+      "sugar",
+      "sodium caseinate",
+      "hydrolyzed corn protein",
+      "mono and diglycerides",
+      "maltodextrin",
+      "monosodium glutamate",
+      "dextrose",
+      "hydrolyzed soy protein",
+      "yeast extract",
+      "hydrolyzed wheat protein",
+      "sodium citrate",
+      "dipotassium phosphate",
+      "disodium inosinate and guanylate",
+      "natural and artificial sausage flavors",
+      "palm oil",
+      "soy lecithin",
+      "butter oil",
+      "flavor",
+      "tbhq."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/029/217/0552/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Biscuit mix",
+    "marca": "Southeastern Mills",
+    "ean": "0070292178404",
+    "ingredientes": [
+      "Bleached enriched wheat flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "partially hydrogenated soybean and palm kernel oil",
+      "leavening (sodium aluminum phosphate",
+      "sodium bicarbonate",
+      "monocalcium phosphate)",
+      "wheat starch",
+      "cheddar cheese (cultured milk",
+      "salt",
+      "enzymes",
+      "calcium chloride",
+      "annatto)",
+      "salt",
+      "dried buttermilk",
+      "whey",
+      "garlic powder",
+      "maltodextrin",
+      "dried egg yolks",
+      "nonfat milk",
+      "oat fiber",
+      "natural flavors",
+      "parmesan cheese (milk",
+      "cultures",
+      "salt",
+      "enzymes)",
+      "oat flour",
+      "calcium propionate (preservative)",
+      "mono and diglycerides",
+      "soy lecithin",
+      "modified corn starch",
+      "disodium phosphate",
+      "fd&c red no. 40 lake",
+      "paprika extract",
+      "lactic acid",
+      "calcium lactate",
+      "autolyzed yeast extract",
+      "hydrolyzed soy",
+      "wheat",
+      "and corn protein",
+      "medium chain triglycerides",
+      "tapioca dextrin",
+      "artificial flavor",
+      "corn dextrin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Calabrian Chili Tomato Dumpling Soup",
+    "marca": "Trader Joe's",
+    "ean": "00702997",
+    "ingredientes": [
+      "Water",
+      "Tomato Paste",
+      "Dumplings",
+      "Cream",
+      "Carrots",
+      "Expeller Pressed Canola Oil",
+      "Distilled Vinegar",
+      "Honey",
+      "Dried Onion",
+      "Sea Salt",
+      "Dried Garlic",
+      "Yeast Extract",
+      "Dried Basil",
+      "Calabrian Chili Pepper",
+      "White Pepper",
+      "Celery Seed",
+      "Black Pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/2997/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Cottage Cheese",
+    "marca": "Morning Glory",
+    "ean": "0070300000260",
+    "ingredientes": [
+      "Cultured nonfat milk",
+      "contains less then 2% of: whey",
+      "salt",
+      "maltodextrin",
+      "artificial color",
+      "guar gum",
+      "citric acid",
+      "carrageenan",
+      "mono and diglycerides*",
+      "polysorbate 80",
+      "locust bean gum",
+      "natural and artificial flavor",
+      "potassium sorbate (to preserve freshness)",
+      "vitamin a palmitate",
+      "enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Morning Glory, Small Curd Cottage Cheese",
+    "marca": "Dean Foods Company",
+    "ean": "0070300000437",
+    "ingredientes": [
+      "Cultured nonfat milk and cream",
+      "less than 2% of: whey",
+      "salt",
+      "maltodextrin",
+      "guar gum",
+      "citric acid",
+      "carrageenan",
+      "mono and diglycerides",
+      "locust bean gum",
+      "polysorbate 80",
+      "potassium sorbate (to preserve freshness)",
+      "natural & artificial flavor",
+      "enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Large Curd Cottage Cheese",
+    "marca": "Morning Glory",
+    "ean": "0070300000512",
+    "ingredientes": [
+      "Cultured nonfat milk",
+      "and cream",
+      "less than 2%: whey",
+      "salt",
+      "maltodextrin",
+      "guar gum",
+      "citric acid",
+      "carrageenan",
+      "mono and diglycerides",
+      "locust bean gum",
+      "polysorbate 80",
+      "potassium sorbate (to preserve freshness)",
+      "natural & artificial flavor",
+      "enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Morning Glory, Large Curd Cottage Cheese",
+    "marca": "Dean Foods Company",
+    "ean": "0070300000611",
+    "ingredientes": [
+      "Cultured nonfat milk",
+      "and cream",
+      "less than 2%: whey",
+      "salt",
+      "maltodextrin",
+      "guar gum",
+      "citric acid",
+      "carrageenan",
+      "mono and diglycerides",
+      "locust bean gum",
+      "polysorbate 80",
+      "potassium sorbate (to preserve freshness)",
+      "natural & artificial flavor",
+      "enzyme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Imported Sardines In Water",
+    "marca": "Season Brand",
+    "ean": "0070303010204",
+    "ingredientes": [
+      "Sardines",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/301/0204/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season, Skinless & Boneless Sardines In Hot Sauce",
+    "marca": "I. Epstein & Sons  Inc.",
+    "ean": "0070303010228",
+    "ingredientes": [
+      "Sardines (fish)",
+      "water",
+      "tomato paste",
+      "olive oil",
+      "salt",
+      "vinegar and hot sauce flavor (cottonseed oil",
+      "oleoresin capsicum)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grilled Mackerel in 100% olive oil",
+    "marca": "Season",
+    "ean": "0070303021071",
+    "ingredientes": [
+      "Light Tune 019 Omega-3 per 3 oz. (Source ods.of.nih.gov NET WT. 4.375 OZ. (124g) in 100% OLIVE OIL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/1071/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Skinless grilled  mackerel in olive oil",
+    "marca": "Season",
+    "ean": "0070303021095",
+    "ingredientes": [
+      "MACKEREL",
+      "OLIVE OIL",
+      "SEA SALT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/1095/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines in olive oil",
+    "marca": "Season",
+    "ean": "0070303021118",
+    "ingredientes": [
+      "Sardines (Fish)",
+      "Organic Extra Virgin Olive Oil",
+      "Sea Salt",
+      "Natural Smoke Flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/1118/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season brisling sardines in pure olive oil",
+    "marca": "Season Brand",
+    "ean": "0070303022009",
+    "ingredientes": [
+      "Lightly smoked brisling sardines in extra virgin olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2009/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines in 100% Olive Oil",
+    "marca": "Season",
+    "ean": "0070303022030",
+    "ingredientes": [
+      "Sardines (fish)",
+      "olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2030/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Skinless & boneless sardines in water",
+    "marca": "Season",
+    "ean": "0070303022054",
+    "ingredientes": [
+      "Sardines (fish)",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season skinless and boneless sardines in water",
+    "marca": "Season",
+    "ean": "0070303022061",
+    "ingredientes": [
+      "Sardines (fish)",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2061/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "Morocco"
+  },
+  {
+    "nombre": "Sardines In Tomato Sauce",
+    "marca": "I. Epstein & Sons  Inc.",
+    "ean": "0070303022078",
+    "ingredientes": [
+      "Sardines",
+      "tomato sauce salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2078/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines in 100% olive oil",
+    "marca": "Season",
+    "ean": "0070303022085",
+    "ingredientes": [
+      "Sardines (fish)",
+      "olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2085/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mackerels In Olive Oil",
+    "marca": "Season",
+    "ean": "0070303022092",
+    "ingredientes": [
+      "Mackerel (fish)",
+      "olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2092/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season, brisling sardines in tomato sauce",
+    "marca": "Season",
+    "ean": "0070303022108",
+    "ingredientes": [
+      "Lightly smoked sardines",
+      "water",
+      "tomato puree",
+      "sugar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2108/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Wild caught sardines",
+    "marca": "Season",
+    "ean": "0070303022115",
+    "ingredientes": [
+      "Lightly smoked brisling sardines",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Skinless & Boneless Sardines In Pure Olive Oil Salt Added",
+    "marca": "Season",
+    "ean": "0070303022160",
+    "ingredientes": [
+      "SARDINES (FISH)",
+      "OLIVE OIL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2160/front_en.52.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Skinless & Boneless Fillets Of Mackerels In Water",
+    "marca": "Season Brand",
+    "ean": "0070303022283",
+    "ingredientes": [
+      "Mackerel",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines",
+    "marca": "Season",
+    "ean": "0070303022290",
+    "ingredientes": [
+      "Sardines (fish)",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flat fillets of anchovies in pure olive oil",
+    "marca": "Season Brand",
+    "ean": "0070303022320",
+    "ingredientes": [
+      "Anchovies (fish)",
+      "olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2320/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Season, rolled fillets of anchovies",
+    "marca": "Season",
+    "ean": "0070303022344",
+    "ingredientes": [
+      "Anchovies",
+      "olive oil",
+      "capers and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Imported Sardines In Tomato Sauce",
+    "marca": "Season Brand",
+    "ean": "0070303022351",
+    "ingredientes": [
+      "Sardines",
+      "tomato paste",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Naturally Smoked Boneless Herring Fillets",
+    "marca": "I. Epstein & Sons  Inc.",
+    "ean": "0070303022382",
+    "ingredientes": [
+      "Lightly smoked herring fillets (fish)",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2382/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sprats olive oil",
+    "marca": "Season Brand",
+    "ean": "0070303022399",
+    "ingredientes": [
+      "Lightly smoked sprats",
+      "extra virgin olive oil",
+      "and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines olive oil",
+    "marca": "I. Epstein & Sons  Inc.",
+    "ean": "0070303022450",
+    "ingredientes": [
+      "Lightly smoked brisling sardines in extra virgin olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Naturally smoked kipper snacks",
+    "marca": "Season",
+    "ean": "0070303022467",
+    "ingredientes": [
+      "Lightly smoked herring fillets",
+      "coarse ground black pepper",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flat Fillets Of Anchovies In Pure Olive Oil",
+    "marca": "Season",
+    "ean": "0070303022603",
+    "ingredientes": [
+      "Anchovy (fish) fillets",
+      "olive oil and sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2603/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines In Olive Oil",
+    "marca": "I. Epstein & Sons  Inc.",
+    "ean": "0070303022948",
+    "ingredientes": [
+      "Sardines",
+      "olive oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2948/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season black capelin caviar",
+    "marca": "The Manischewitz Co.",
+    "ean": "0070303022993",
+    "ingredientes": [
+      "Capelin roe",
+      "salt",
+      "water",
+      "spices",
+      "stabilizer tragachante",
+      "sodium benzoate (0.1%) as preservative",
+      "artificial colors fd&c blue # 1",
+      "red #3",
+      "yellow #6."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/2993/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasons club tomato skinless and boneless sardines sauce",
+    "marca": "Season Brand",
+    "ean": "0070303023167",
+    "ingredientes": [
+      "Sardines",
+      "tomato sauce and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/3167/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemon garlic sauce",
+    "marca": "Season",
+    "ean": "0070303023617",
+    "ingredientes": [
+      "Sardines (fish)",
+      "olive oil",
+      "lemon",
+      "garlic",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardine fillets",
+    "marca": "Season",
+    "ean": "0070303023624",
+    "ingredientes": [
+      "Sardines (fish)",
+      "olive oil",
+      "lemon",
+      "red pepper",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cavi art",
+    "marca": "Season",
+    "ean": "0070303023808",
+    "ingredientes": [
+      "SEAWEED EXTRACT I83%)",
+      "WATER",
+      "SALT",
+      "EXTRACTIVES OF SPICES (CAYENNE PEPPER",
+      "TURMERIC",
+      "LAUREL",
+      "LEEK",
+      "DILL",
+      "TARRAGON)",
+      "CITRIC ACID",
+      "XANTHÂN GUM",
+      "POTASSIUM SORBATE&SODIUM BENZOATE (PRESERVATIVE)",
+      "CARAMEL COLOR (FOOD COLORÌ. 70303 0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/302/3808/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kipper snacks",
+    "marca": "Season",
+    "ean": "0070303024850",
+    "ingredientes": [
+      "Lightly smoked herring fillets."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Albacore Tuna In Olive Oil",
+    "marca": "Season",
+    "ean": "0070303024911",
+    "ingredientes": [
+      "Solid white albacore tuna",
+      "olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All Natural Albacore Tuna In Water",
+    "marca": "Season",
+    "ean": "0070303026007",
+    "ingredientes": [
+      "White tuna",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Hearts Of Palm",
+    "marca": "Season Brand",
+    "ean": "0070303040300",
+    "ingredientes": [
+      "Whole hearts of palm",
+      "water",
+      "salt",
+      "and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season, whole hearts of palm",
+    "marca": "Season",
+    "ean": "0070303040317",
+    "ingredientes": [
+      "Whole hearts of palm",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Season brand, tips & cuts hearts of palm",
+    "marca": "Season Brand",
+    "ean": "0070303040331",
+    "ingredientes": [
+      "Cut hearts of palm",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Alcaparras Whole Capers",
+    "marca": "Season Brand",
+    "ean": "0070303052105",
+    "ingredientes": [
+      "Capers",
+      "water",
+      "salt and vinegar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Artichoke hearts",
+    "marca": "Season",
+    "ean": "0070303055519",
+    "ingredientes": [
+      "Quartered artichoke hearts",
+      "water",
+      "sunflower oil",
+      "vinegar",
+      "salt",
+      "spices",
+      "citric and ascorbic acid to retain color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caviar Red Salmon",
+    "marca": "Season",
+    "ean": "0070303060001",
+    "ingredientes": [
+      "Salmon roe",
+      "salt",
+      "water",
+      "citric acid",
+      "tragachante stabilizer abd sodium benzoate (0"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sardines in extra virgin olive oil",
+    "marca": "Season",
+    "ean": "0070303070000",
+    "ingredientes": [
+      "Sardines (fish)",
+      "organic extra virgin olive oil",
+      "'salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Skinless & boneless sardines in extra virgin olive oil",
+    "marca": "Season",
+    "ean": "0070303070017",
+    "ingredientes": [
+      "Sardines (fish)",
+      "organic extra virgin olive oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Imported Sardines In Water",
+    "marca": "Season Brand",
+    "ean": "0070303088890",
+    "ingredientes": [
+      "Sardines",
+      "water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Howard's, Lemon Juice",
+    "marca": "Howard Foods Inc.",
+    "ean": "0070305004072",
+    "ingredientes": [
+      "Lemon juice concentrate (water",
+      "lemon juice concentrate)",
+      "lemon oil",
+      "sodium benzoate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Howard's, 100% Juice, Lime",
+    "marca": "Howard Foods Inc.",
+    "ean": "0070305004102",
+    "ingredientes": [
+      "Lime juice concentrate (water",
+      "lime juice concentrate)",
+      "lime oil",
+      "sodium benzoate (preservative)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Howard's, green tomato piccalilli",
+    "marca": "Howard's",
+    "ean": "0070305005017",
+    "ingredientes": [
+      "Green tomatoes",
+      "high fructose corn syrup",
+      "vinegar",
+      "red peppers",
+      "brown sugar",
+      "cider vinegar",
+      "salt",
+      "dehydrated onions",
+      "natural flavor",
+      "sodium benzoate added as a preservative",
+      "xanthan gum and guar gum (natural gums)",
+      "caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ham Glaze With Real Pineapple",
+    "marca": "Howard's",
+    "ean": "0070305005123",
+    "ingredientes": [
+      "High fructose corn syrup",
+      "water",
+      "pineapples",
+      "modified food starch",
+      "vinegar",
+      "salt",
+      "ground cloves",
+      "sodium benzoate (preservative)",
+      "red #40 (color)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Howard's, Garlic Juice",
+    "marca": "Howard Foods Inc.",
+    "ean": "0070305005512",
+    "ingredientes": [
+      "Garlic juice",
+      "vinegar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Howard's, Onion Juice",
+    "marca": "Howard Foods Inc.",
+    "ean": "0070305005529",
+    "ingredientes": [
+      "Onion juice",
+      "vinegar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic juice",
+    "marca": "Howard Foods Inc.",
+    "ean": "0070305006519",
+    "ingredientes": [
+      "Garlic juice concentrate",
+      "vinegar",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/500/6519/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Howard's onion juice",
+    "marca": "Howard Foods Inc.",
+    "ean": "0070305006526",
+    "ingredientes": [
+      "Onion juice concentrate",
+      "vinegar",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/030/500/6526/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green tea with pineapple juice",
+    "marca": "Trader Joe's",
+    "ean": "00703086",
+    "ingredientes": [
+      "brewed green tea",
+      "water",
+      "green tea",
+      "pineapple juice",
+      "carbon dioxide",
+      "citric acid",
+      "ascorbic acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/3086/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Braunschweiger liver sausage",
+    "marca": "Usinger's",
+    "ean": "0070309000025",
+    "ingredientes": [
+      "Pork liver",
+      "pork",
+      "salt",
+      "onions",
+      "spices",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Usinger's, beef summer sausage",
+    "marca": "Usinger's",
+    "ean": "0070309000056",
+    "ingredientes": [
+      "Beef",
+      "salt",
+      "dextrose",
+      "spices",
+      "sugar",
+      "lactic acid starter culture",
+      "sodium ascorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Usinger's, Smoked Hickory Sticks Summer Sausage",
+    "marca": "Fred Usinger  Inc.",
+    "ean": "0070309002487",
+    "ingredientes": [
+      "Pork",
+      "beef",
+      "salt",
+      "dextrose",
+      "spices sugar",
+      "caraway seed",
+      "lactic acid starter culture",
+      "garlic",
+      "sodium nitrite. collagen casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Italian sausage",
+    "marca": "Usinger's",
+    "ean": "0070309021747",
+    "ingredientes": [
+      "Pork",
+      "water",
+      "salt",
+      "spices",
+      "corn syrup",
+      "natural flavor",
+      "dextrose",
+      "parsley."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Bratwurst",
+    "marca": "Usinger's",
+    "ean": "0070309023550",
+    "ingredientes": [
+      "Chicken",
+      "water",
+      "onions",
+      "sea salt",
+      "vinegar",
+      "spices",
+      "natural flavors",
+      "dextrose",
+      "corn syrup. filled in a natural pork casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bologna",
+    "marca": "Usinger's",
+    "ean": "0070309031289",
+    "ingredientes": [
+      "Pork",
+      "beef",
+      "water",
+      "sea salt",
+      "turbinado sugar",
+      "natural spices",
+      "celery powder",
+      "cherry powder",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jellied Pot Roast Beef Loaf",
+    "marca": "Fred Usinger  Inc.",
+    "ean": "0070309033726",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "gelatin",
+      "salt",
+      "dextrose",
+      "vinegar",
+      "flavoring",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Smoked Summeroni Beef",
+    "marca": "Usinger's",
+    "ean": "0070309042216",
+    "ingredientes": [
+      "Beef",
+      "salt",
+      "spices",
+      "dextrose",
+      "lactic acid starter culture",
+      "extract of paprika",
+      "garlic powder",
+      "sodium ascorbate",
+      "sodium nitrite",
+      "collagen casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hickory Sticks",
+    "marca": "Usinger's",
+    "ean": "0070309042254",
+    "ingredientes": [
+      "Beef",
+      "salt",
+      "dextrose",
+      "spices",
+      "lactic acid starter culture",
+      "garlic",
+      "sodium ascorbate",
+      "sodium nitrite",
+      "collagen casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hickory Sticks, Summer Sausage",
+    "marca": "Fred Usinger  Inc.",
+    "ean": "0070309042346",
+    "ingredientes": [
+      "Pork",
+      "beef",
+      "salt",
+      "spices",
+      "dextrose",
+      "paprika",
+      "lactic acid starter culture",
+      "sodium ascorbate",
+      "sodium nitrite",
+      "collagen casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Usinger's, Hickory Sticks Summer Sausage, Hot And Spicy",
+    "marca": "Fred Usinger  Inc.",
+    "ean": "0070309042377",
+    "ingredientes": [
+      "Pork",
+      "beef",
+      "salt",
+      "spices",
+      "dextrose",
+      "paprika",
+      "lactic acid starter culture",
+      "sodium ascorbate",
+      "sodium nitrite",
+      "collagen casing."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Uncured Beef Summer Sausage",
+    "marca": "Usinger's",
+    "ean": "0070309046214",
+    "ingredientes": [
+      "Beef",
+      "sea salt",
+      "dextrose",
+      "natural spices",
+      "celery juice powder",
+      "lactic acid starter culture",
+      "garlic."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Usinger's, uncured applewood smoked turkey breast",
+    "marca": "Usinger's",
+    "ean": "0070309071537",
+    "ingredientes": [
+      "Turkey breast",
+      "water",
+      "sea salt",
+      "honey",
+      "carrageenan",
+      "celery powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cough drops",
+    "marca": "Johns Wellness",
+    "ean": "0070312370191",
+    "ingredientes": [
+      "acasia senegal gum",
+      "aqua",
+      "corn syrup",
+      "fd&c blue no.1",
+      "fd&c red no. 40",
+      "glycerine",
+      "peppermint essential oil",
+      "potassium sorbate",
+      "sucrose"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/031/237/0191/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Patterson's, Beef Hot Dog Chili",
+    "marca": "Patterson Packing Company",
+    "ean": "0070313803315",
+    "ingredientes": [
+      "Beef",
+      "water",
+      "tomato paste",
+      "textured vegetable protein (soy flour and caramel color)",
+      "barley flour",
+      "spices",
+      "modified corn starch",
+      "salt",
+      "sugar",
+      "garlic",
+      "onion"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Patterson's, daybreak, homestyle sausage gravy",
+    "marca": "Patterson's",
+    "ean": "0070313805319",
+    "ingredientes": [
+      "Water",
+      "sausage (pork",
+      "salt",
+      "spices",
+      "sugar",
+      "flavoring)",
+      "gravy blend (wheat flour partially hydrogenated soybean oil",
+      "modified food starch",
+      "corn syrup solids",
+      "nonfat milk",
+      "dry whole milk",
+      "butter oil",
+      "sugar",
+      "monosodium glumate",
+      "potassium caseinate",
+      "mono and diglycerides",
+      "spice",
+      "titanium dioxide",
+      "salt",
+      "xanthan gum",
+      "carrageenan",
+      "artificial flavor)",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Patterson, Chipped Beef Gravy",
+    "marca": "Patterson Packing Company",
+    "ean": "0070313815080",
+    "ingredientes": [
+      "Water",
+      "gravy blend (wheat flour",
+      "partially hydrogenated soybean oil",
+      "modified food starch",
+      "corn syrup solids",
+      "nonfat milk",
+      "dry whole milk",
+      "butter oil",
+      "sugar",
+      "monosodium glutamate",
+      "potassium caseinate",
+      "mono and diglycerides",
+      "spice",
+      "titanium dioxide",
+      "salt",
+      "xanthan gum",
+      "carageenan",
+      "artificial flavor)",
+      "chipped dried beef (beef",
+      "salt",
+      "sodium erythorbate",
+      "sodium nitrite",
+      "bht",
+      "tbhq",
+      "citric acid)",
+      "margarine powder (partially hydrogenated soybean oil",
+      "whey",
+      "nonfat dry milk",
+      "mono and diglycerides",
+      "sodium caseinate",
+      "salt",
+      "color",
+      "natural flavor)",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Beans Seasoned With Olive Oil, Onion And Garlic",
+    "marca": "Del Monte Foods Inc.",
+    "ean": "0070320324100",
+    "ingredientes": [
+      "Prepared black beans",
+      "water",
+      "salt",
+      "olive oil",
+      "onion powder",
+      "garlic powder",
+      "spices",
+      "calcium chloride (firming agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black eye peas",
+    "marca": "Trappey's",
+    "ean": "0070320394103",
+    "ingredientes": [
+      "Prepared blackeye peas",
+      "water",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Trappey's, creole okra gumbo",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320601348",
+    "ingredientes": [
+      "Okra",
+      "water",
+      "tomato paste",
+      "salt",
+      "red bell pepper",
+      "onion powder",
+      "garlic powder",
+      "paprika",
+      "corn starch",
+      "parsley",
+      "ascorbic acid",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sugary sam, golden cut sweet potatoes",
+    "marca": "Sugary Sam",
+    "ean": "0070320705237",
+    "ingredientes": [
+      "Sweet potatoes",
+      "water",
+      "corn syrup",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Potatoes, Golden cut yams in syrup",
+    "marca": "Sugary Sam",
+    "ean": "0070320705275",
+    "ingredientes": [
+      "Sweet potatoes",
+      "water",
+      "corn syrup",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Golden cut sweet potatoes yams in syrup",
+    "marca": "Sugary sam",
+    "ean": "0070320705282",
+    "ingredientes": [
+      "Sugary Sam Cut Sweet Potatoes",
+      "Eggs",
+      "Milk",
+      "Brown Sugar",
+      "Vanilla",
+      "Salt",
+      "Cinnamon",
+      "Butter",
+      "All-Purpose Flour",
+      "Chopped Pecans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, new orleans style red kidney beans",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801076",
+    "ingredientes": [
+      "Prepared light red kidney beans",
+      "water",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "salt",
+      "spices",
+      "onion",
+      "vanilla",
+      "tragacanth gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, red kidney beans with chili gravy",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801113",
+    "ingredientes": [
+      "Prepared light red kidney beans",
+      "water",
+      "salt",
+      "food starch-modified",
+      "spice",
+      "garlic powder",
+      "paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, navy beans, slab bacon, slab bacon",
+    "marca": "Trappey's",
+    "ean": "0070320801151",
+    "ingredientes": [
+      "Prepared navy beans",
+      "water",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, field peas with snaps",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801182",
+    "ingredientes": [
+      "Field peas",
+      "water",
+      "green beans",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, jalapeno navy beans, slab bacon, slab bacon",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801199",
+    "ingredientes": [
+      "Prepared navy beans",
+      "water",
+      "jalapeno peppers (packed in water",
+      "salt",
+      "citric acid",
+      "potassium sorbate",
+      "sodium benzoate)",
+      "salt",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, black eye peas, jalapeno",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801274",
+    "ingredientes": [
+      "Prepared blackeye peas",
+      "water",
+      "jalapeno peppers (packed in water",
+      "salt",
+      "citric acid",
+      "potassium sorbate",
+      "sodium benzoate)",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrate)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, pinto beans, slab bacon",
+    "marca": "Trappey's",
+    "ean": "0070320801311",
+    "ingredientes": [
+      "Prepared pinto beans",
+      "water",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, jalapinto, pinto beans, slab bacon, slab bacon",
+    "marca": "Trappey's",
+    "ean": "0070320801359",
+    "ingredientes": [
+      "Prepared pinto beans",
+      "water",
+      "jalapeno peppers (packed in water",
+      "salt",
+      "citric acid",
+      "potassium sorbate",
+      "sodium benzoate)",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrate)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baby green lima bean with bacon",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801397",
+    "ingredientes": [
+      "Prepared lima beans",
+      "water",
+      "bacon (cured with salt",
+      "brown sugar",
+      "black pepper",
+      "sodium nitrite)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/080/1397/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, great northern beans, sausage",
+    "marca": "Trappey's,  Del Monte Foods Inc.",
+    "ean": "0070320801670",
+    "ingredientes": [
+      "Prepared great northern beans",
+      "water",
+      "sausage (pork",
+      "beef",
+      "water",
+      "salt",
+      "dextrose",
+      "spices",
+      "paprika",
+      "flavorings",
+      "sodium nitrate)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, large white butter beans",
+    "marca": "Trappey's",
+    "ean": "0070320801717",
+    "ingredientes": [
+      "Prepared butter beans",
+      "water",
+      "sausage (pork",
+      "beef",
+      "water",
+      "salt",
+      "dextrose",
+      "spices",
+      "paprika",
+      "flavorings sodium nitrite)",
+      "salt",
+      "onion powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Trappey's, kidney beans, jalapeno",
+    "marca": "Trappey's",
+    "ean": "0070320801847",
+    "ingredientes": [
+      "Prepared light red kidney beans",
+      "water",
+      "jalapeno peppers (packed in water",
+      "salt",
+      "citric acid",
+      "potassium sorbate",
+      "sodium benzoate)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Red Kidney Beans",
+    "marca": "Del Monte Foods Inc.",
+    "ean": "0070320814106",
+    "ingredientes": [
+      "Prepared light red kidney beans",
+      "water",
+      "corn syrup",
+      "salt",
+      "calcium chloride added to help maintain firmness",
+      "calcium disodium edta added to help promote color retention."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomatoes amd okra",
+    "marca": "Trappey's",
+    "ean": "0070320854102",
+    "ingredientes": [
+      "Tomatoes",
+      "okra",
+      "water",
+      "sugar",
+      "salt",
+      "onion powder",
+      "garlic powder citric acid",
+      "dehydrated onions",
+      "black pepper",
+      "calcium chloride added to help maintain firmness."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% natural honey crunchy peanut butter spread",
+    "marca": "Old Home",
+    "ean": "0070322005328",
+    "ingredientes": [
+      "Peanuts",
+      "honey",
+      "peanut oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey Creamy Peanut Butter Spread",
+    "marca": "Old Home",
+    "ean": "0070322005335",
+    "ingredientes": [
+      "Peanuts",
+      "honey",
+      "peanut oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/200/5335/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crunchy Peanut Butter",
+    "marca": "Old Home Foods  Inc., Old Home",
+    "ean": "0070322005342",
+    "ingredientes": [
+      "Peanuts",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/200/5342/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Peanut Butter",
+    "marca": "Old Home Foods  Inc., Old Home",
+    "ean": "0070322005359",
+    "ingredientes": [
+      "Peanuts",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/200/5359/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creamy Peanut Butter",
+    "marca": "Old Home",
+    "ean": "0070322005366",
+    "ingredientes": [
+      "Peanuts",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crunchy Peanut Butter",
+    "marca": "Old Home",
+    "ean": "0070322005373",
+    "ingredientes": [
+      "Peanuts",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/200/5373/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Hazelnut Spread",
+    "marca": "Old Home",
+    "ean": "0070322005427",
+    "ingredientes": [
+      "Sugar",
+      "vegetable oil (rapeseed",
+      "palm)",
+      "hazelnuts",
+      "cocoa",
+      "skim milk",
+      "whey",
+      "sunflower lecithin",
+      "vanilla",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nonfat Greek Yogurt",
+    "marca": "Old Home",
+    "ean": "0070322106469",
+    "ingredientes": [
+      "Cultured pasteurized grade a nonfat milk",
+      "sugar",
+      "water",
+      "corn starch",
+      "vanilla extract",
+      "lactic acid",
+      "natural flavor. contains live active cultures"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Greek yogurt",
+    "marca": "Old Home",
+    "ean": "0070322106476",
+    "ingredientes": [
+      "Cultured pasteurized grade a milk",
+      "milk protein concentrate",
+      "whey protein concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rustikales Landbrot",
+    "marca": "Mönsheimer Mühle",
+    "ean": "00703270",
+    "ingredientes": [
+      "_Weizenmehl_ Typ 1050",
+      "_Roggenmehl_ Typ 1150",
+      "Salz",
+      "Sauerteig dunkel (_Roggen_)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/3270/front_de.5.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Macadamia Nut Bars",
+    "marca": "Paradise",
+    "ean": "0070327012017",
+    "ingredientes": [
+      "Pineapple",
+      "corn syrup",
+      "high fructose corn syrup",
+      "water",
+      "citric acid",
+      "artificial flavor",
+      "preserved with: 1/10 of 1% benzoate of soda",
+      "sorbic acid",
+      "sulfur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dream Cake",
+    "marca": "Paradise",
+    "ean": "0070327015438",
+    "ingredientes": [
+      "Orange peel",
+      "corn syrup",
+      "high fructose corn syrup",
+      "citric acid",
+      "preserved with: 1/10 of 1% benzoate of soda",
+      "sorbic acid",
+      "sulfur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cookies",
+    "marca": "Sr",
+    "ean": "0070327119242",
+    "ingredientes": [
+      "Cherries",
+      "corn syrup",
+      "high fructose corn syrup",
+      "water",
+      "citric acid",
+      "natural and artificial flavor",
+      "fd&c red #40. preserved with: 1/10 of 1% potassium sorbate",
+      "benzoate of soda",
+      "sulfur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mccormick rub",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328005032",
+    "ingredientes": [
+      "Spices and herbs (including black pepper and red pepper)",
+      "salt",
+      "brown sugar",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/800/5032/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning 12/6 OZ imp",
+    "marca": "Mccormick & Co.  Inc., Old Bay",
+    "ean": "0070328005230",
+    "ingredientes": [
+      "CELERY SALT (SALT",
+      "CELERY SEED)",
+      "SPICES (RED PEPPER",
+      "BLACK PEPPER)",
+      "PAPRIKA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/800/5230/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Crab cake classic mix original maryland recipe",
+    "marca": "Old Bay,  Mccormick & Co  Inc.",
+    "ean": "0070328010012",
+    "ingredientes": [
+      "Bread crumbs (bleached wheat flour",
+      "dextrose",
+      "salt",
+      "and yeast)",
+      "whole egg solids",
+      "salt",
+      "spices (including red pepper and parsley)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0012/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328010029",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including red pepper and black pepper)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0029/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning Less Sodium",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328010159",
+    "ingredientes": [
+      "Spices and herbs (including red pepper and black pepper)",
+      "salt",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crabs Seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328010241",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including red pepper and black pepper)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hot seasoning for chicken, seafood, salads, meats and more..., hot",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328010371",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including paprika",
+      "black pepper)",
+      "and red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crab Seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328010395",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including red pepper and black pepper)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blackened Old Bay Seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328010401",
+    "ingredientes": [
+      "Spices (including paprika",
+      "celery seed",
+      "red pepper)",
+      "salt",
+      "sugar & caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0401/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic & Herb Old Bay Seasoning imp",
+    "marca": "Old Bay",
+    "ean": "0070328010418",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including paprika",
+      "black pepper)",
+      "and red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0418/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seafood Seasoning Hot",
+    "marca": "Old Bay",
+    "ean": "0070328010425",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including paprika",
+      "black pepper)",
+      "and red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0425/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning Less Sodium",
+    "marca": "Old Bay",
+    "ean": "0070328010470",
+    "ingredientes": [
+      "Spices (including red pepper",
+      "black pepper)",
+      "salt & paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0470/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Hot Sauce",
+    "marca": "old bay",
+    "ean": "0070328010593",
+    "ingredientes": [
+      "hot sauce (aged red cayenne peppers",
+      "distilled vinegar",
+      "water",
+      "salt",
+      "garlic powder)",
+      "distilled vinegar",
+      "spices (including celery seed)",
+      "salt",
+      "paprika & xanthan gum (thickener)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/801/0593/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tuna classic cake mix",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328024026",
+    "ingredientes": [
+      "Bread crumbs (bleached wheat flour",
+      "dextrose",
+      "salt",
+      "and yeast)",
+      "whole egg solids",
+      "spices (including red pepper",
+      "celery",
+      "and mustard)",
+      "onion",
+      "salt",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salmon classic",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328024033",
+    "ingredientes": [
+      "Bread crumbs (bleached wheat flour",
+      "dextrose",
+      "salt",
+      "and yeast)",
+      "whole egg solids",
+      "spices (including red pepper",
+      "basil",
+      "and thyme)",
+      "onion",
+      "salt",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/802/4033/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328030034",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery seed)",
+      "spices (including red pepper and black pepper)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/803/0034/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crab Cake Classic",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328035008",
+    "ingredientes": [
+      "Bread crumbs (bleached wheat flour",
+      "dextrose",
+      "salt",
+      "and yeast)",
+      "whole egg solids",
+      "salt",
+      "spices (including red pepper and parsley)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic & herb seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328160038",
+    "ingredientes": [
+      "Garlic",
+      "salt",
+      "spices and herbs (including celery seed",
+      "red pepper",
+      "and bay leaves)",
+      "paprika",
+      "modified corn starch",
+      "and natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemon & herb with seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328160182",
+    "ingredientes": [
+      "Salt",
+      "spices and herbs (including celery seed",
+      "red pepper",
+      "and bay leaves)",
+      "citric acid",
+      "paprika",
+      "maltodextrin",
+      "modified corn starch",
+      "lemon juice solids",
+      "calcium silicate (added to make free flowiãœâ‡ng)",
+      "and natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasoning for seafood, poultry, salads, and meats",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328358961",
+    "ingredientes": [
+      "Spices and herbs (including red pepper and black pepper)",
+      "salt",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/835/8961/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old bay, crab cake classic mix",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328438632",
+    "ingredientes": [
+      "Bread crumbs (bleached wheat flour",
+      "dextrose",
+      "salt",
+      "and yeast)",
+      "whole egg solids",
+      "salt",
+      "spices (including red pepper and parsley)",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasoning & steaming bag seafood steamers",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328444640",
+    "ingredientes": [
+      "Celery salt (salt",
+      "celery)",
+      "maltodextrin",
+      "spices (including mustard",
+      "red pepper and bay leaves)",
+      "paprika and silicon dioxide (added to make free flowing)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seafood rub",
+    "marca": "Old Bay",
+    "ean": "0070328578659",
+    "ingredientes": [
+      "Spices and herbs (including black pepper and red pepper)",
+      "salt",
+      "brown sugar",
+      "and paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old bay, blackened seasoning",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328659327",
+    "ingredientes": [
+      "Spices (including celery seed and red pepper)",
+      "salt",
+      "paprika",
+      "sugar",
+      "and caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning",
+    "marca": "McCormick, Old Bay",
+    "ean": "0070328820468",
+    "ingredientes": [
+      "CELERY SALT (SALT",
+      "CELERY SEED)",
+      "SPICES (INCLUDING RED PEPPER AND BLACK PEPPER)",
+      "AND PAPRIKA."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/882/0468/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning",
+    "marca": "Old Bay",
+    "ean": "0070328820505",
+    "ingredientes": [
+      "celery salt (salt",
+      "celery seed)",
+      "spices (including red pepper",
+      "black pepper)",
+      "and paprika"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/882/0505/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old Bay Seasoning",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328820536",
+    "ingredientes": [
+      "celery salt (salt",
+      "celery seed)",
+      "spices (including red pepper and black pepper)",
+      "and paprika"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/032/882/0536/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old bay, tartar sauce",
+    "marca": "Old Bay",
+    "ean": "0070328820635",
+    "ingredientes": [
+      "Soybean oil",
+      "water",
+      "distilled vinegar",
+      "sugar",
+      "dill pickles",
+      "onion",
+      "egg yolks",
+      "modified corn starch",
+      "salt",
+      "dextrose",
+      "spice",
+      "xanthan gum (thickener)",
+      "calcium disodium edta (added to protect flavor)",
+      "propylene glycol alginate (thickener)",
+      "citric acid",
+      "natural and artificial flavors",
+      "paprika",
+      "and polysorbate 80 (as an emulsifier)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Old bay, cocktail sauce",
+    "marca": "Old Bay,  Mccormick & Co.  Inc.",
+    "ean": "0070328820642",
+    "ingredientes": [
+      "Tomato paste",
+      "high fructose corn syrup",
+      "vinegar",
+      "water",
+      "lemon juice",
+      "horseradish",
+      "old bay seasoning (celery salt [salt",
+      "celery seed]",
+      "spices [including mustard",
+      "red pepper and black pepper]",
+      "and paprika)",
+      "salt",
+      "soybean oil",
+      "modified corn starch",
+      "onion",
+      "molasses",
+      "natural & artificial flavor",
+      "sodium benzoate (as preservative)",
+      "xanthan gum",
+      "garlic",
+      "and caramel color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Petite sweet corn",
+    "marca": "Birds Eye",
+    "ean": "0070332001037",
+    "ingredientes": [
+      "Corn."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mixed Fruit",
+    "marca": "Birds Eye Foods",
+    "ean": "0070332003604",
+    "ingredientes": [
+      "Strawberries",
+      "peaches",
+      "pineapple."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced peaches",
+    "marca": "Birds Eye",
+    "ean": "0070332003703",
+    "ingredientes": [
+      "Peaches ascorbic acid",
+      "citric acid and malic acid to promote color retention and natural flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pasta De Amendoim Integral Naked Nuts Pote",
+    "marca": "Naked Nuts",
+    "ean": "0070341076132",
+    "ingredientes": [
+      "amendoim torrado"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Brazil"
+  },
+  {
+    "nombre": "Strawberry Shortcake Sandwich Cookie",
+    "marca": "Trader Joe's",
+    "ean": "00703451",
+    "ingredientes": [
+      "UNBLEACHED ENRICHED FLOUR [WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMINE MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACID]",
+      "BUTTER [CREAM",
+      "SALT]",
+      "CANE SUGAR",
+      "STRAWBERRY CRUMBLES [DRIED STRAWBERRIES",
+      "CANE SUGAR]",
+      "NATURAL FLAVORS",
+      "BAKING SODA",
+      "BAKING POWDER [SODIUM ACID PYROPHOSPHATE",
+      "SODIUM BICARBONATE",
+      "CORNSTARCH",
+      "MONOCALCIUM PHOSPHATE]",
+      "POWDERED SUGAR [CANE SUGAR",
+      "CORNSTARCH]",
+      "VEGETABLE JUICE FOR COLOR"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/3451/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramel Bits",
+    "marca": "Kraft",
+    "ean": "0070346000026",
+    "ingredientes": [
+      "sugar",
+      "corn syrup",
+      "liquid sugar",
+      "skim milk",
+      "palm oil",
+      "butter (cream",
+      "salt)",
+      "salt",
+      "mono-and diglycerides",
+      "soy lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/034/600/0026/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramel Squares",
+    "marca": "Kraft",
+    "ean": "0070346000095",
+    "ingredientes": [
+      "corn syrup",
+      "sugar",
+      "skim milk",
+      "palm oil",
+      "whey (from milk)",
+      "salt",
+      "artificial and natural flavor",
+      "soy lecithin. contains: milk",
+      "soy."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/034/600/0095/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole milk ricotta cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348001021",
+    "ingredientes": [
+      "Pasteurized milk",
+      "pasteurized whey",
+      "vinegar",
+      "stabilizer (modified food starch",
+      "guar gum",
+      "carrageenan)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ricotta cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348001069",
+    "ingredientes": [
+      "Pasteurized milk",
+      "pasteurized whey",
+      "vinegar",
+      "stabilizer (modified food starch",
+      "guar gum",
+      "carrageenan)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Low moisture part-skim mozzarella cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348001113",
+    "ingredientes": [
+      "Pasteurized part-skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Low moisture whole milk mozzarella cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348001120",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ricotta cheese part skim",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348006927",
+    "ingredientes": [
+      "Pasteurized milk",
+      "pasteurized whey",
+      "vinegar",
+      "stabilizer (modified food starch",
+      "guar gum",
+      "carrageenan)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Parmesan cheese shredded",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348604055",
+    "ingredientes": [
+      "Parmesan cheese (pasteurized part-skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "powdered cellulose to prevent caking",
+      "natamycin to protect flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "3 cheese italian shredded parmesan, asiago fresh & romano cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348604062",
+    "ingredientes": [
+      "Parmesan cheese (pasteurized part-skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "asiago fresh cheese (pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "romano cheese (pasteurized part-skim cow's milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)",
+      "powdered cellulose to prevent caking",
+      "natamycin (to protect flavor)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh mozzarella cheese, mozzarella",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348604079",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh mozzarella cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348604086",
+    "ingredientes": [
+      "Pasteurized milk",
+      "cheese cultures",
+      "salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dragone, Parmesan Cheese",
+    "marca": "Saputo Cheese Usa Inc.",
+    "ean": "0070348604093",
+    "ingredientes": [
+      "Parmesan cheese",
+      "(pasteurized part-skim milk",
+      "cheese cultures",
+      "salt",
+      "enzymes)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kentucky kernel seasoned flour",
+    "marca": "Hodgson Mill  Inc.",
+    "ean": "0070351180126",
+    "ingredientes": [
+      "enriched and bleached wheat flour (niacin",
+      "iron",
+      "thiamine",
+      "riboflavin",
+      "folic acid)",
+      "salt",
+      "natural spices",
+      "extracts",
+      "and herbs"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/035/118/0126/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flour seasoned gluten free",
+    "marca": "D B Sutherland & Sons",
+    "ean": "0070351182007",
+    "ingredientes": [
+      "Brown rice flour",
+      "salt",
+      "natural spices",
+      "extracts",
+      "and herbs."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/035/118/2007/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Maria, Artichoke Hearts",
+    "marca": "H & J Trading Co",
+    "ean": "0070352000027",
+    "ingredientes": [
+      "Artichoke hearts",
+      "water",
+      "salt",
+      "citric acid added."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinated Artichoke Quarters",
+    "marca": "Maria",
+    "ean": "0070352000096",
+    "ingredientes": [
+      "Artichoke quarters",
+      "water",
+      "sunflower oil",
+      "vinegar",
+      "salt",
+      "spices and citric acid (acidity regulator)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Oven Roasted Tomatoes",
+    "marca": "Maria",
+    "ean": "0070352031113",
+    "ingredientes": [
+      "Oven roasted tomatoes sunflower oil",
+      "garlic",
+      "salt",
+      "oregano."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Cream Style Red Beans",
+    "marca": "Blue Runner",
+    "ean": "0070353201003",
+    "ingredientes": [
+      "Light red kidney beans",
+      "water",
+      "cottonseed oil",
+      "onions",
+      "chili powder",
+      "red pepper",
+      "disodium edta to promote color retention."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Navy Beans",
+    "marca": "Blue Runner",
+    "ean": "0070353203007",
+    "ingredientes": [
+      "White navy beans",
+      "water",
+      "cottonseed oil",
+      "onions",
+      "red pepper",
+      "green onion."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Navy Beans With Creole Mirepoix",
+    "marca": "Blue Runner",
+    "ean": "0070353303011",
+    "ingredientes": [
+      "White navy beans",
+      "water",
+      "onions",
+      "celery",
+      "green bell pepper",
+      "salt",
+      "cottonseed oil",
+      "granulated garlic",
+      "green onion",
+      "red pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Cream Style Black Beans",
+    "marca": "Blue Runner",
+    "ean": "0070353308009",
+    "ingredientes": [
+      "Black beans",
+      "water",
+      "onions",
+      "salt",
+      "cottonseed oil and spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Original creole cream style red beans",
+    "marca": "Blue Runner",
+    "ean": "0070353316202",
+    "ingredientes": [
+      "Light red kidney beans",
+      "water",
+      "onions",
+      "salt",
+      "cottonseed oil",
+      "spices and disodium edta to promote color retention."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Cream Style Red Beans",
+    "marca": "Blue Runner",
+    "ean": "0070353316240",
+    "ingredientes": [
+      "Light red kidney beans",
+      "water",
+      "onions",
+      "salt",
+      "cottonseed oil",
+      "jalapeno peppers",
+      "spices and disodium edta to promote color retention."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Cream Style Navy Beans",
+    "marca": "Blue Runner",
+    "ean": "0070353317506",
+    "ingredientes": [
+      "White navy beans",
+      "water",
+      "onions",
+      "salt",
+      "cottonseed oil",
+      "green onion",
+      "jalapeno peppers and spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Tomato Basil Bisque",
+    "marca": "Blue Runner",
+    "ean": "0070353421005",
+    "ingredientes": [
+      "Chicken stock (water",
+      "chicken meat with natural juices",
+      "salt",
+      "organic cane juice solids",
+      "maltodextrin from corn chicken fat",
+      "yeast extract",
+      "natural flavor",
+      "dried onion",
+      "spice extractives and turmeric)",
+      "tomato puree (tomato concentrate [water and tomato paste]",
+      "citric acid)",
+      "heavy cream",
+      "onions celery",
+      "roux (cotton seed oil",
+      "flour [bleached wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid])",
+      "unsalted butter",
+      "basil",
+      "sugar",
+      "salt",
+      "granulated garlic",
+      "white pepper",
+      "oregano",
+      "thyme",
+      "onion powder",
+      "ground bay leaves."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Creole Gumbo Base",
+    "marca": "blue runner",
+    "ean": "0070353502025",
+    "ingredientes": [
+      "Onions",
+      "roux (flour {bleached wheat flour",
+      "malted barley flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid}",
+      "cottonseed oil)",
+      "celery",
+      "bell pepper",
+      "tomato puree (tomato concentrate {water",
+      "tomato paste}",
+      "citric acid)",
+      "chicken stock (water",
+      "chicken meat with natural juices",
+      "salt",
+      "cane juice solids",
+      "maltodextrin",
+      "chicken fat",
+      "yeast extract",
+      "natural flavor",
+      "onion",
+      "spice extractives",
+      "tumeric)",
+      "beef stock (water",
+      "roast beef with broth",
+      "yeast extract",
+      "salt",
+      "cane juice solids",
+      "maltodextrin",
+      "barley malt extract",
+      "onion",
+      "spice extractives",
+      "potato",
+      "garlic)",
+      "spices",
+      "monosodium glutamate",
+      "salt",
+      "sugar",
+      "garlic",
+      "liquid smoke."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/035/350/2025/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Blue Runner, Premium Select Red Beans",
+    "marca": "Blue Runner Foods Inc.",
+    "ean": "0070353701015",
+    "ingredientes": [
+      "Light red kidney beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red beans",
+    "marca": "Blue Runner Foods Inc.",
+    "ean": "0070353701022",
+    "ingredientes": [
+      "Light red kidney beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Beans",
+    "marca": "Blue Runner Foods Inc.",
+    "ean": "0070353701251",
+    "ingredientes": [
+      "Light red kidney beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Navy Beans",
+    "marca": "Blue Runner Foods Inc.",
+    "ean": "0070353703019",
+    "ingredientes": [
+      "Navy pea beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/035/370/3019/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blue Runner, Premium Select Red Beans",
+    "marca": "Blue Runner Foods Inc.",
+    "ean": "0070353741011",
+    "ingredientes": [
+      "Light red kidney beans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cocktail Beef Franks In Puff Pastry",
+    "marca": "Cohen's",
+    "ean": "0070356260038",
+    "ingredientes": [
+      "Beef franks: beef",
+      "water",
+      "sodium citrate",
+      "citric acid",
+      "sodium diacetate",
+      "salt",
+      "mustard",
+      "paprika",
+      "garlic powder",
+      "sodium erythorbate",
+      "hydrolyzed soy protein",
+      "natural flavorings",
+      "(essential oils)",
+      "sodium nitrite",
+      "puff pastry: enriched flour (bleached wheat flour",
+      "barley malt",
+      "niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "partially hydrogenated soybean and cottonseed oils with tbhq and bht",
+      "water",
+      "salt",
+      "turmeric",
+      "annatto (colors)",
+      "dough conditioners (soy flour",
+      "calcium sulfate",
+      "sorbic acid)",
+      "monocalcium phosphate",
+      "mono-and diglycerides",
+      "artificial flavor",
+      "prepared with: bleached enriched wheat flour (wheat flour",
+      "niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid",
+      "enzymes)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cohen's, 10 Seasoned Beef Kreplach",
+    "marca": "Cohen's Food  Llc",
+    "ean": "0070356260045",
+    "ingredientes": [
+      "Wonton wrapper: bleached wheat flour",
+      "water",
+      "corn starch",
+      "salt",
+      "ascorbic acid",
+      "citric acid as anti-oxidant",
+      "potassium sorbate as preservative",
+      "fd & c yellow #5 & #6. beef filling: beef",
+      "onion",
+      "water",
+      "whole eggs (whole eggs",
+      "citric acid)",
+      "ketchup (tomato concentrate",
+      "high fructose corn syrup",
+      "vinegar",
+      "corn syrup",
+      "salt",
+      "onion powder",
+      "spice",
+      "natural flavors)",
+      "bread crumbs (enriched bleached wheat flour [niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid]",
+      "leavening [sodium bicarbonate",
+      "sodium acid pyrophosphate]",
+      "vegetable oil shortening [soybean]",
+      "sugar",
+      "salt",
+      "vinegar",
+      "yeast",
+      "spice extractive",
+      "dough conditioners [ascorbic acid",
+      "l-cysteine monohydrochloride])",
+      "soy protein isolate",
+      "salt",
+      "black pepper",
+      "garlic powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cohen's, Mini Beef Franks In Puff Pastry",
+    "marca": "Cohen's Food  Llc",
+    "ean": "0070356260410",
+    "ingredientes": [
+      "Cocktail franks: beef",
+      "water",
+      "corn syrup solids",
+      "salt",
+      "paprika",
+      "mustard",
+      "soy protein concentrate",
+      "garlic powder",
+      "hydrolyzed soy protein",
+      "smoke flavor",
+      "spices",
+      "sodium erythorbate",
+      "sodium nitrite. puff pastry dough: unbleached flour (ascorbic acid",
+      "alpha amylase",
+      "thiamine mononitrate",
+      "riboflavin",
+      "niacin",
+      "folic acid",
+      "iron)",
+      "water",
+      "vegetable shortening (modified palm oil",
+      "canola oil",
+      "sugar",
+      "soy lecithin",
+      "monoglycerides",
+      "artificial flavor",
+      "citric acid)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Argentinian Red Shrimp",
+    "marca": "Trader Joe's",
+    "ean": "00703598",
+    "ingredientes": [
+      "shrimp",
+      "ginger",
+      "garlic butter",
+      "unsalted butter",
+      "pasteurized cream",
+      "natural flavor",
+      "ginger",
+      "scallions",
+      "garlic",
+      "honey",
+      "lemon zest",
+      "lemon peel",
+      "cane sugar",
+      "natural flavor",
+      "lemon juice",
+      "lemon juice from concentrate",
+      "lemon oil",
+      "onion powder",
+      "citric acid",
+      "sesame oil",
+      "red chili pepper flakes",
+      "chili flakes",
+      "xanthan gum",
+      "apple cider vinegar powder",
+      "maltodextrin",
+      "apple cider vinegar",
+      "modified cornstarch",
+      "cayenne pepper",
+      "togarashi style seasoning blend",
+      "chili powder",
+      "orange peel",
+      "black sesame seeds",
+      "white sesame seeds",
+      "poppy seeds",
+      "szechuan pepper",
+      "nori seaweed"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/3598/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Take N' Bake Pizza",
+    "marca": "Family Finest",
+    "ean": "0070375001403",
+    "ingredientes": [
+      "Crust enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "enzyme",
+      "folic acid)",
+      "water",
+      "soybean oil",
+      "dough premix (glucono delta lactone",
+      "salt",
+      "sodium bicarbonate",
+      "dough conditioner [wheat flour",
+      "yeast",
+      "wheat gluten",
+      "contains"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Joe Joe’s Sandwich Cookies",
+    "marca": "Trader Joe's",
+    "ean": "00703772",
+    "ingredientes": [
+      "sandwich cookies (unbleached enriched flour [wheat flour",
+      "niačin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid]",
+      "peanut butter [peanuts",
+      "salt)",
+      "powdered sugar [sugar",
+      "cornstarch)",
+      "sugar",
+      "soybean oil",
+      "cocoa powder processed with alkali",
+      "partially defatted peanut flour",
+      "leavening (baking soda",
+      "ammonium bicarbonate]",
+      "invert sugar syrup",
+      "sea salt",
+      "organic soy lecithin (emulsifier)",
+      "organic palm oil",
+      "cocoa extract [water",
+      "organic alcohol",
+      "cocoa)",
+      "natural flavor",
+      "cocoa powder",
+      "coffee powder)",
+      "peanut butter coating (sugar",
+      "palm kernel oil",
+      "partially defatted peanut flour",
+      "nonfat dry milk",
+      "peanut oil",
+      "salt",
+      "soy lecithin (emulsifier])",
+      "drizzle (sugar",
+      "palm kernel oil",
+      "palm oil",
+      "cocoa powder",
+      "cocoa powder processed with alkali",
+      "whey powder (milki soy lecithin (emulsifier]",
+      "natural vanilla flavore contains milk",
+      "soy",
+      "wheat",
+      "peanut. may contain traces of egg",
+      "almond cashew",
+      "coconut",
+      "pecan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/3772/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen yogurt",
+    "marca": "Tcby",
+    "ean": "0070378230101",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b. lactis",
+      "l. acidophilus",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "l. lactis",
+      "l. casei",
+      "l. ramnosus)",
+      "sugar",
+      "corn syrup",
+      "cream",
+      "dark choc flav flake [sugar",
+      "coconut oil",
+      "cocoa powder processed with alkali",
+      "palm kernel oil",
+      "cocoa powder",
+      "soy lecithin",
+      "salt",
+      "vanilla extract]",
+      "cocoa powder cocoa processed with alkali",
+      "propylene glycol monoesters",
+      "mono & diglycerides",
+      "guar gum",
+      "cellulose gum",
+      "carrageenan",
+      "vanilla vanillin extract [water",
+      "ethyl alcohol",
+      "vanilla bean extractives)",
+      "and artificial flavor]."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen yogurt",
+    "marca": "Tcby",
+    "ean": "0070378230118",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b.lactis",
+      "l.acidophilus",
+      "l.bulgaricus",
+      "s.thermophilus",
+      "l.lactis",
+      "l.casei",
+      "l.ramnosus)",
+      "sugar",
+      "corn syrup",
+      "cream",
+      "dark chocolate flavored flakes (sugar",
+      "coconut oil",
+      "cocoa powder processed with alkali",
+      "palm kernel oil",
+      "cocoa powder",
+      "soy lecithin",
+      "salt",
+      "vanilla extract)",
+      "maltodextrin",
+      "natural flavor",
+      "fd&c yellow #5",
+      "fd&c blue #1",
+      "propylene glycol monoesters",
+      "mono & diglycerides",
+      "guar gum",
+      "cellulose gum",
+      "carrageenan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen Yogurt",
+    "marca": "Tcby",
+    "ean": "0070378230125",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b. lactis",
+      "l. acidophilus",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "l. lactis",
+      "l. casei",
+      "l. ramnosus)",
+      "sugar",
+      "corn syrup",
+      "chocolate cookie pieces (wheat flour",
+      "sugar",
+      "brown sugar",
+      "date puree",
+      "cocoa processed with alkali",
+      "w"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen Yogurt",
+    "marca": "Tcby",
+    "ean": "0070378230132",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b. lactis",
+      "l. acidophilus",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "l. lactis",
+      "l. casei",
+      "l. ramnosus)",
+      "sugar",
+      "corn syrup",
+      "chocolate chip cookie dough (wheat flour",
+      "powdered sugar [sugar",
+      "cornstarch]",
+      "margarine [palm oil",
+      "water",
+      "soybean oil",
+      "salt",
+      "vegetable mono and diglycerides",
+      "soy lecithin",
+      "sodium benzoate {preservative}",
+      "citric acid",
+      "natural and artificial flavor",
+      "beta carotene {color}",
+      "vitamin a palmitate",
+      "whey]",
+      "brown sugar",
+      "chocolate chips [sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "soy lecithin",
+      "vanilla extract]",
+      "water",
+      "soybean oil",
+      "fructose",
+      "corn syrup solids",
+      "sodium bicarbonate",
+      "chocolate liquor",
+      "natural flavors",
+      "salt)",
+      "cream",
+      "dark chocolate flavored flakes (sugar",
+      "coconut oil",
+      "cocoa powder processed with alkali",
+      "palm kernel oil",
+      "cocoa powder",
+      "soy lecithin",
+      "salt",
+      "vanilla extract)",
+      "maltodextrin",
+      "vanilla extract (water",
+      "ethyl alcohol",
+      "vanilla bean extractives)",
+      "artificial flavor",
+      "propylene glycol monoesters",
+      "mono & diglycerides",
+      "guar gum",
+      "cellulose gum",
+      "carrageenan."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen yogurt",
+    "marca": "Tcby",
+    "ean": "0070378230149",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b. lactis",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "l. lactis",
+      "l. casei",
+      "l. ramnosus)",
+      "sugar",
+      "moose tracks fudge variegate [powdered sugar",
+      "(sugar",
+      "cornstarch)",
+      "vegetable oil (cottonseed) cocoa (processed with alkali)",
+      "whey",
+      "salt",
+      "soy lecithin and natural flavor]",
+      "corn syrup",
+      "cream",
+      "peanut butter cup [sugar",
+      "peanut butter (peanuts",
+      "salt",
+      "coconut oil",
+      "nonfat milk",
+      "whole milk",
+      "cocoa processed with alkali",
+      "soy lecithin",
+      "natural flavors]",
+      "cocoa powder cocoa processed with alkali",
+      "propylene glycol monoesters",
+      "mono & diglycerides",
+      "guar gum",
+      "cellulose gum",
+      "crrageenan",
+      "vanilla vanillin extract [water",
+      "ethyl alcohol",
+      "vanilla bean extractives)",
+      "and artificial flavor]"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen Yogurt",
+    "marca": "Tcby",
+    "ean": "0070378230156",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b. lactis",
+      "l. acidophilus",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "l. lactis",
+      "l. casei",
+      "l. ramnosus)",
+      "sugar",
+      "corn syrup",
+      "salted caramel flavor (brown sugar",
+      "butter",
+      "cream",
+      "invert sugar",
+      "water",
+      "sweetened condensed whole mi"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Frozen yogurt",
+    "marca": "Mrs. Fields Famous Brands  Llc.",
+    "ean": "0070378230163",
+    "ingredientes": [
+      "Skim milk",
+      "cultured skim milk (skim milk",
+      "b. lactis",
+      "l. acidophilus",
+      "l. bulgaricus",
+      "s. thermophilus",
+      "l. lactis",
+      "l. casei",
+      "l. ramnosus)",
+      "sugar",
+      "corn syrup",
+      "cream",
+      "maltodextrin",
+      "vanilla extract (water",
+      "ethyl alcohol",
+      "vanilla bean extractives)",
+      "artificial flavor",
+      "propylene glycol monoesters",
+      "mono & diglycerides",
+      "guar gum",
+      "cellulose gum",
+      "carrageenan",
+      "ground vanilla beans",
+      "annatto extract color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Busy baker, baked snack crackers, savory chicken",
+    "marca": "Busy Baker",
+    "ean": "0070378640009",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "vegetable oil (contains one or more of the following oils: sunflower",
+      "safflower",
+      "canola",
+      "soybean",
+      "palm",
+      "cottonseed",
+      "coconut)",
+      "sugar",
+      "seasoning (salt",
+      "whey",
+      "torula yeast",
+      "hydrolyzed corn gluten and soy protein",
+      "onion powder",
+      "maltodextrin",
+      "sugar",
+      "natural flavors",
+      "monosodium glutamate",
+      "partially hydrogenated cottonseed and soybean oil",
+      "yeast extract",
+      "garlic powder",
+      "citric acid",
+      "butter powder [butter (cream",
+      "salt)",
+      "nonfat dry milk]",
+      "thiamin hydrochloride (vitamin b1)",
+      "spice",
+      "disodium inosinate and disodium guanylate",
+      "spice extractive)",
+      "salt",
+      "onion powder",
+      "monocalcium phosphate",
+      "baking soda",
+      "sodium metabisulfite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Busy baker, baked squares snack crackers, tangy cheddar",
+    "marca": "Busy Baker",
+    "ean": "0070378640030",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "vegetable oil (contains one or more of the following oils: safflower",
+      "canola",
+      "soybean",
+      "palm",
+      "cottonseed",
+      "coconut",
+      "sunflower)",
+      "aged cheddar cheese (contains milk",
+      "salt",
+      "enzymes",
+      "cheese culture)",
+      "salt",
+      "yeast extract",
+      "yeast",
+      "ammonium bicarbonate",
+      "paprika",
+      "annatto extract (for color)",
+      "citric acid",
+      "spice",
+      "l-cystein."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Busy baker, crispy garden vegetable crackers",
+    "marca": "Busy Baker",
+    "ean": "0070378640054",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "vegetable oil (contains one or more of the following oils: safflower",
+      "sunflower",
+      "canola",
+      "soybean",
+      "palm",
+      "cottonseed",
+      "coconut)",
+      "sugar",
+      "dehydrated vegetables (carrot",
+      "celery",
+      "cabbage",
+      "onion",
+      "red and green bell pepper",
+      "tomato)",
+      "salt",
+      "baking soda",
+      "hydrolyzed soy protein",
+      "monocalcium phosphate",
+      "natural flavor",
+      "distilled vinegar",
+      "spices",
+      "annatto and turmeric (for color)",
+      "monosodium glutamate",
+      "disodium inosinate",
+      "disodium guanylate",
+      "sodium metabisulfite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Busy-baker, hearty baked wheat snack crackers",
+    "marca": "Busy-Baker",
+    "ean": "0070378640108",
+    "ingredientes": [
+      "Enriched flour (wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamin mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "vegetable oil (contains one or more of the following: safflower",
+      "sunflower",
+      "canola",
+      "soybean",
+      "palm",
+      "cottonseed",
+      "coconut)",
+      "wheat germ",
+      "sugar",
+      "salt",
+      "high fructose corn syrup",
+      "extract of malted corn and barley",
+      "molasses",
+      "monocalcium phosphate",
+      "malted barley flour",
+      "baking soda",
+      "turmeric and annatto extracts (for color)",
+      "sodium metabisulfite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Avocado oil spray",
+    "marca": "Trader Joe's",
+    "ean": "00703789",
+    "ingredientes": [
+      "Avocado oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/070/3789/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Au Jus Seasoning Mix",
+    "marca": "Johnny's Fine Foods",
+    "ean": "0070381000685",
+    "ingredientes": [
+      "Hydrolyzed vegetable protein (corn",
+      "soy",
+      "wheat)",
+      "yeast extract",
+      "salt",
+      "rice flour",
+      "monosodium glutemate",
+      "partially hydrogenated vegetable oil (soy & cottonseed)",
+      "caramel color",
+      "whey solids",
+      "non-fat milk solids",
+      "mono & diglycerides."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/100/0685/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crock Pot Beef Seasoning Mix",
+    "marca": "Johnny's Fine Foods",
+    "ean": "0070381000692",
+    "ingredientes": [
+      "Corn starch",
+      "hydrolyzed vegetable protein (corn",
+      "soy",
+      "wheat)",
+      "sugar",
+      "onion*",
+      "salt",
+      "soy sauce powder (soy sauce* [soybeans",
+      "wheat",
+      "salt]",
+      "maltodextrin & salt)",
+      "dextrose",
+      "garlic*",
+      "yeast extract* & soy sauce*(soy",
+      "wheat gluten)",
+      "tomato powder*",
+      "molasses powder (refinery syrup",
+      "molasses)",
+      "spice*",
+      "red bell pepper*",
+      "yeast extract*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sloppy Johnny Seasoning Mix",
+    "marca": "Johnny's Fine Foods",
+    "ean": "0070381000739",
+    "ingredientes": [
+      "Sugar",
+      "onion*",
+      "salt",
+      "paprika*",
+      "red & green bell pepper*",
+      "garlic*",
+      "spices*",
+      "corn starch",
+      "yeast extract & soy sauce* (soy",
+      "wheat gluten)",
+      "dextrose",
+      "tomato powder*",
+      "worcestershire sauce powder* (salt",
+      "worcestershire sauce [vinegar",
+      "sugar",
+      "salt",
+      "vegetable & fruit (onion",
+      "tomato & apple)",
+      "caramel color",
+      "spices",
+      "yeast extract]",
+      "maltodextrin",
+      "spices",
+      "caramel color & garlic)",
+      "vinegar solids (maltodextrin & white distilled vinegar)",
+      "natural flavors",
+      "molasses powder (refinery syrup",
+      "molasses)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Skillet Taco Seasoning Mix",
+    "marca": "Johnny's Fine Foods",
+    "ean": "0070381000746",
+    "ingredientes": [
+      "Spice*",
+      "sugar",
+      "salt",
+      "paprika*",
+      "onion*",
+      "garlic*",
+      "tomato powder*",
+      "red & green bell pepper*",
+      "dextrose corn starch",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fine foods seasoning salt",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100002",
+    "ingredientes": [
+      "Sea salt",
+      "salt",
+      "monosodium glutamate",
+      "paprika",
+      "garlic",
+      "spices."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/110/0002/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Seasoning salt",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100026",
+    "ingredientes": [
+      "Sea salt",
+      "salt",
+      "monosodium glutamate",
+      "paprika",
+      "garlic",
+      "spices"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/110/0026/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasoning salt",
+    "marca": "Johnny's",
+    "ean": "0070381100033",
+    "ingredientes": [
+      "Nutrition Facts Serving Size 1/4 teaspoon (1 g) Servings Per Container 1190 Amount Per Serving Calories 0 % Daily Value Total Fat Og 0% Sodium 320mg Total Carbohydrate 0g Sugars Og Protein 0g 13% 0% 0% Percent Daily Values are based on a 2"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/110/0033/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasoning & Salad Dressing Mix Ranch",
+    "marca": "Johnny's Fine Foods  Nic",
+    "ean": "0070381100040",
+    "ingredientes": [
+      "Maltodextrin",
+      "buttermilk solids",
+      "salt",
+      "garlic",
+      "cultured whey",
+      "lactic acid",
+      "yeast extract",
+      "onion",
+      "natural flavors",
+      "spice",
+      "xanthan gum",
+      "citric acid",
+      "cellulose gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Garlic Spread and seasoning",
+    "marca": "Johnny's",
+    "ean": "0070381100057",
+    "ingredientes": [
+      "ngredients: garlic*",
+      "parmesan cheese (part skim milk",
+      "salt",
+      "cheese culture",
+      "enzymes",
+      "micro crystal - line cellulose used for anti-cak - ing)",
+      "salt",
+      "l-glutamic acid",
+      "spices",
+      "parsley",
+      "silicon dioxide (anticaking agent)",
+      "*dehydráted contains: milk manufactured in a facility that also processes product containing wheat",
+      "eggs",
+      "soy and tree nuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/110/0057/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Johnny's, Salad & Pasta Elegance",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100132",
+    "ingredientes": [
+      "Sea salt",
+      "parmesan cheese (cultured part skim milk",
+      "salt",
+      "enzymes",
+      "micro crystalline cellulose used for anti-caking) sesame seeds",
+      "poppy seeds",
+      "monosodium glutamate",
+      "paprika",
+      "garlic*",
+      "spices*",
+      "onion*",
+      "silicon dioxide (anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Johnny's, Sea Food Seasoning Lemon Dill, Lemon",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100217",
+    "ingredientes": [
+      "Sea slat monosodium glutamate",
+      "ground dill seed",
+      "natural lemon flavor",
+      "garlic*",
+      "lemon*",
+      "spices*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Johnny's, Chicken And Pork Seasoning",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100224",
+    "ingredientes": [
+      "Sea salt",
+      "monosodium glutamate",
+      "paprika",
+      "garlic*",
+      "spices*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Johnny's, Jamaica Me Lemon Pepper Seasoning",
+    "marca": "Johnny's Fine Foods Inc",
+    "ean": "0070381100279",
+    "ingredientes": [
+      "Sea salt",
+      "garlic",
+      "black pepper",
+      "citric acid",
+      "onion",
+      "spices",
+      "lemon oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Johnny's, Skillet Taco, Concentrated Sauce",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100378",
+    "ingredientes": [
+      "Water",
+      "tomato paste",
+      "salt",
+      "paprika",
+      "sugar",
+      "spices",
+      "onion",
+      "garlic",
+      "red & green bell peppers",
+      "chili pepper",
+      "cultured dextrose",
+      "modified corn starch",
+      "citric acid",
+      "xanthan gum",
+      "sodium benzoate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Popcorn Salt",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381100408",
+    "ingredientes": [
+      "Salt",
+      "monosodium glutamate",
+      "artificial flavor (contains fd&c yellow #5 & #6",
+      "fd& c red #40",
+      "fd&c blue #2)",
+      "canola oil",
+      "silicon dioxide (anticaking agent)",
+      "artificial color (contains sugar",
+      "fd&c yellow #5 & #6)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted garlic & herb marinade & wing sauce",
+    "marca": "Johnny's Fine Foods  Inc.",
+    "ean": "0070381100415",
+    "ingredientes": [
+      "Canola oil",
+      "water",
+      "sugar",
+      "vinegar",
+      "worcestershire sauce (distilled white vinegar",
+      "molasses",
+      "water",
+      "sugar",
+      "onions",
+      "anchovies",
+      "salt",
+      "garlic",
+      "cloves",
+      "tamarind extract",
+      "natural flavorings",
+      "chili pepper extract)",
+      "salt",
+      "eggs",
+      "roasted garlic",
+      "lemon juice",
+      "potassium sorbate",
+      "spice",
+      "natural flavors",
+      "sodium benzoate",
+      "xanthan gum",
+      "propylene glycol alginate",
+      "calcium disodium edta."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crock pot sauce beef seasoning mix",
+    "marca": "Johnny's Fine Foods",
+    "ean": "0070381100422",
+    "ingredientes": [
+      "Water",
+      "vinegar",
+      "corn starch",
+      "hydrolyzed vegetable protein (hydrolyzed corn gluten",
+      "soy protein & wheat gluten) with partially hydrogenated soybean & cottonseed oils",
+      "lactic acid",
+      "maltodextrin & cultured dextrose",
+      "sugar",
+      "salt",
+      "onion",
+      "soy sauce powder (soy sauce[soybeans",
+      "wheat",
+      "salt] maltodextrin & salt)",
+      "dextrose",
+      "garlic",
+      "tomato",
+      "molasses powder(refinery syrup & molasses)",
+      "yeast extract & soy sauce (soy",
+      "wheat gluten)",
+      "red bell pepper",
+      "spice",
+      "yeast extract",
+      "xanthan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "French dip au jus concentrated sauce",
+    "marca": "Johnny's Fine Foods Inc.",
+    "ean": "0070381101009",
+    "ingredientes": [
+      "Water",
+      "hydrolyzed vegetable protein (corn",
+      "soy",
+      "wheat)",
+      "red wine vinegar",
+      "tomato paste",
+      "gluconic acid",
+      "worcestershire sauce (distilled white vinegar",
+      "molasses",
+      "water",
+      "sugar",
+      "onions",
+      "anchovies",
+      "salt",
+      "garlic",
+      "cloves",
+      "tamarind extract",
+      "natural flavorings",
+      "chili pepper extract)",
+      "date paste",
+      "natural flavor",
+      "yeast extract",
+      "onion juice",
+      "salt",
+      "guar gum",
+      "sodium benzoate",
+      "garlic juice",
+      "sugar",
+      "corn syrup solids",
+      "spice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/110/1009/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dressing & marinade",
+    "marca": "Johnny's Fine Foods  Inc.",
+    "ean": "0070381101252",
+    "ingredientes": [
+      "Canola oil",
+      "water",
+      "sugar",
+      "vinegar",
+      "eggs",
+      "worcestershire sauce (distilled white vinegar",
+      "molasses",
+      "water",
+      "sugar",
+      "onions",
+      "anchovies",
+      "salt",
+      "garlic cloves",
+      "tamarind extract",
+      "natural cloves",
+      "tamarind extract",
+      "natural flavorings",
+      "chili pepper extract)",
+      "salt",
+      "onion",
+      "garlic",
+      "lemon juice salt",
+      "onion",
+      "garlic",
+      "lemon juice",
+      "potassium sorbate",
+      "spice",
+      "natural flavor",
+      "xanthan gum",
+      "propylene glycol alginate",
+      "sodium benzoate",
+      "calcium disodium edta."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "A classic caesar dressing",
+    "marca": "Johnny's Fine Foods  Inc.",
+    "ean": "0070381101283",
+    "ingredientes": [
+      "Canola oil",
+      "water",
+      "olive oil",
+      "parmesan cheese (part skim milk",
+      "cheese culture",
+      "salt",
+      "enzymes)",
+      "red wine vinegar",
+      "lemon juice",
+      "salt",
+      "natural flavors",
+      "worcestershire sauce",
+      "(distilled white vinegar",
+      "molasses",
+      "water",
+      "sugar",
+      "onions",
+      "anchovies",
+      "salt",
+      "garlic",
+      "cloves",
+      "tamarind extract",
+      "natural flavorings",
+      "chili pepper extract)",
+      "spice",
+      "garlic",
+      "onion",
+      "lactic acid",
+      "propylene glycol alginate",
+      "potassium sorbate",
+      "polysorbate - 60",
+      "sodium alginate",
+      "sodium benzoate",
+      "calcium disodium edta."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salmon finishing sauce",
+    "marca": "Johnny's",
+    "ean": "0070381121274",
+    "ingredientes": [
+      "Canola oil",
+      "water",
+      "sugar",
+      "eggs",
+      "salt",
+      "garlic",
+      "white vinegar",
+      "dill weed",
+      "cultured whey product",
+      "spice",
+      "lactic acid",
+      "onion",
+      "buttermilk",
+      "citric acid",
+      "propylene glycol alginate",
+      "potassium sorbate",
+      "sodium benzoate",
+      "sodium alginate",
+      "xanthan gum",
+      "parsley flakes",
+      "calcium disodium edta",
+      "natural and artificial flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/112/1274/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Potato Cheddar Soup Mix",
+    "marca": "Johnny’s",
+    "ean": "0070381140107",
+    "ingredientes": [
+      "potatoes",
+      "cheddar cheese (pasteurized milk",
+      "bacterial cultures",
+      "salt",
+      "enzymes)",
+      "corn starch",
+      "canola oil",
+      "corn syrup solids",
+      "whey",
+      "maltodextrin",
+      "onions",
+      "salt",
+      "carrots",
+      "disodium phosphate",
+      "celery",
+      "sodium caseinate",
+      "aged cheddar cheese (pasteurized milk",
+      "salt",
+      "annatto extract",
+      "bacterial cultures",
+      "enzymes)",
+      "extracts of turmeric",
+      "disodium inosinate",
+      "disodium guanylate",
+      "annatto extract",
+      "dipotassium phosphate",
+      "buttermilk solids",
+      "silicon dioxide",
+      "mono & diglycerides",
+      "blue cheese (pasteurized milk",
+      "salt",
+      "bacterial cultures",
+      "enzymes)",
+      "spices",
+      "parsley",
+      "lactic acid",
+      "natural flavour",
+      "and extracts of paprika. contains: milk. may contain soy",
+      "egg",
+      "peanuts and tree nuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/114/0107/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Aderezo para ensaladas estilo ranch",
+    "marca": "Johnny’s",
+    "ean": "0070381241705",
+    "ingredientes": [
+      "Aceite Vegetal (aceite de Soya",
+      "aceite de Canola)",
+      "Agua",
+      "Azúcares Añadidos (Azúcar)",
+      "Vinagre Destilado",
+      "Huevos Enteros",
+      "Sal",
+      "Ajo Deshidratado",
+      "Saborizante Natural",
+      "Especias",
+      "Ácido Láctico",
+      "Goma Xantana",
+      "Cebolla Deshidratada",
+      "Ácido Cítrico",
+      "Extracto de Romero (Rosmarinus officinalis)",
+      "Sorbato de Potasio",
+      "Benzoato de Sodio"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/124/1705/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Mexico"
+  },
+  {
+    "nombre": "Original Johnny's Ranch Dressing And Dip Big Bottle Salad Dressing 1.4 Liter Big Value Pack",
+    "marca": "Johnny's",
+    "ean": "0070381481705",
+    "ingredientes": [
+      "? huile de colza",
+      "eau",
+      "sucre",
+      "?UFS entiers",
+      "sel",
+      "ail",
+      "Vinaigre d'alcool",
+      "produits de lactosérum cultivés (LAIT)",
+      "poivre ) noir",
+      "correcteur d'acidité acide lactique",
+      "acide citrique",
+      "oignon déshydraté BABEURRE épaississant : alginate de propylène I glycol",
+      "alginate de sodium",
+      "conservateurs : sorbate de potassium' benzoate de sodium",
+      "stabilisants: go mme xanthane",
+      "EDTA calcio - disodique",
+      "flocons de persil",
+      "arôme naturel de BABEURRE en poudre crème naturelle et arôme artificiel de crème (LAIT) en Poud re net : L Pour 100g Info rmatio ns n utritionnelles mo yen nes 2008 kJ /"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Classic Ranch",
+    "marca": "Johnny’s",
+    "ean": "0070381481729",
+    "ingredientes": [
+      "Huile de colza",
+      "eau",
+      "sucre",
+      "OEUFS entiers",
+      "sel",
+      "ail",
+      "vinaigre d'alcool",
+      "produits de lactosérum cultivés (LAIT)",
+      "poivre noir",
+      "correcteur d'acidité : acide lactique",
+      "acide citrique",
+      "oignon déshydraté",
+      "BABEURRE",
+      "épaississant. alginate de propylène glycol",
+      "alginate de sodium. conservateurs : sorbate de potassium",
+      "benzoate de sodium",
+      "stabilisants: gomme xanthane",
+      "EDTA calcio-disodique",
+      "flocons de persil",
+      "arôme naturel de BABEURRE en poudre",
+      "crème naturelle et arôme artificiel de crème (LAIT) en poudre"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/148/1729/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "French dip au jus powdered bottle",
+    "marca": "johnnys",
+    "ean": "0070381800681",
+    "ingredientes": [
+      "hydrolyzed vegetable protien (corn",
+      "soy",
+      "wheat)",
+      "with safflower oil",
+      "rice flour",
+      "salt",
+      "palm oil",
+      "dextrose",
+      "whey",
+      "carmel color",
+      "maltodextrin",
+      "buttermilk solids",
+      "sugar",
+      "silicon dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/038/180/0681/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Milk",
+    "marca": "Alta Dena",
+    "ean": "0070399100100",
+    "ingredientes": [
+      "MILK",
+      "VITAMIN D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/039/910/0100/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fat Free Skim Milk",
+    "marca": "Alta Dena",
+    "ean": "0070399107505",
+    "ingredientes": [
+      "NONFAT MILK",
+      "VITAMIN A PALMITATE",
+      "VITAMIN D3."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/039/910/7505/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Alta Dena, Small Curd Cottage Cheese",
+    "marca": "Dean Foods Company",
+    "ean": "0070399226657",
+    "ingredientes": [
+      "Cultured nonfat milk",
+      "nonfat milk",
+      "contains less than 2% of: milk",
+      "† salt",
+      "locust bean gum",
+      "carrageenan",
+      "vitamin a palmitate",
+      "enzyme",
+      "carbon dioxide (to preserve freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Alta Dena, Cottage Cheese",
+    "marca": "Dean Foods Company",
+    "ean": "0070399226725",
+    "ingredientes": [
+      "Cultured nonfat milk",
+      "nonfat milk",
+      "contains less than 2% of: milk+",
+      "salt",
+      "locust bean gum",
+      "carageenan",
+      "vitamin a palmitate",
+      "enzyme",
+      "carbon dioxide (to preserve freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Goat Milk Cheese",
+    "marca": "Alta Dena",
+    "ean": "0070399339807",
+    "ingredientes": [
+      "Cultured goat milk",
+      "salt",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Butter",
+    "marca": "Dean Foods Company",
+    "ean": "0070399432102",
+    "ingredientes": [
+      "Pasteurized cream (derived from milk)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Real Gourmet Cream Of Coconut",
+    "marca": "Real",
+    "ean": "0070401000091",
+    "ingredientes": [
+      "coconut",
+      "sugar",
+      "glycerol",
+      "salt",
+      "mono and diglycerides",
+      "xanthan gum",
+      "potassium sorbate",
+      "citric acid",
+      "mixed tocopherols",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/100/0091/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Robust Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404000067",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0067/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Robust",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404000081",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0081/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Robust",
+    "marca": "Pompeian",
+    "ean": "0070404000104",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% Grapeseed Oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404000135",
+    "ingredientes": [
+      "Grapeseed oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0135/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404000159",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0159/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Oil And First Cold Press Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404000227",
+    "ingredientes": [
+      "Canola oil (85%) extra virgin olive oil (15%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0227/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Taste Olive Oil",
+    "marca": "Pompeian,Pompeian  Inc.",
+    "ean": "0070404000241",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Tasting Olive Oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404000258",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0258/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Tasting Olive Oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404000272",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/0272/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Taste Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404000289",
+    "ingredientes": [
+      "Pure olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Oil And Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404000883",
+    "ingredientes": [
+      "Expeller pressed canola oil (85%)",
+      "extra virgin olive oil (15%)",
+      "dha algal oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Wine Vinegar",
+    "marca": "Pompeian",
+    "ean": "0070404001002",
+    "ingredientes": [
+      "Red Wine Vinegar reduced with water to 5% acidity"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1002/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Balsamic vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001033",
+    "ingredientes": [
+      "balsamic vinegar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1033/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted garlic infused red wine vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001101",
+    "ingredientes": [
+      "Red wine vinegar reduced with water to 5% acidity",
+      "natural garlic flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Robust",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001163",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1163/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Taste Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404001170",
+    "ingredientes": [
+      "Pure olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1170/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Tasting Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404001187",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Infused red wine vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001354",
+    "ingredientes": [
+      "Red wine vinegar reduced with water to 5% acidity",
+      "natural flavors from pomegranate",
+      "grape concentrates."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "natural flavors from pomegranate",
+        "razon": "Contiene natural flavors from pomegranate, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Infused balsamic vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001361",
+    "ingredientes": [
+      "Balsamic vinegar",
+      "pomegranate",
+      "grape concentrates."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegranate",
+        "razon": "Contiene pomegranate, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Balsamic Vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001378",
+    "ingredientes": [
+      "White balsamic vinegar contains sulfites. acidity 6%."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium gourmet red wine vinegar, red wine",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001453",
+    "ingredientes": [
+      "Red wine vinegar reduced with water to 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "White wine vinegar, white wine",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001491",
+    "ingredientes": [
+      "White wine vinegar reduced with water to 5% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1491/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Taste Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404001514",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1514/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Imported Classic Mediterranean Olive Oil",
+    "marca": "Pompeian  Inc.",
+    "ean": "0070404001583",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Classic Mediterranean Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404001590",
+    "ingredientes": [
+      "Classic mediterranean olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Honey Infused Balsamic Vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001668",
+    "ingredientes": [
+      "Balsamic vinegar",
+      "honey infusion. contains naturally occurring sulfites. 6% acidity."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Infused balsamic vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001675",
+    "ingredientes": [
+      "Balsamic vinegar and raspberry juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red wine vinegar",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404001682",
+    "ingredientes": [
+      "Red wine vinegar",
+      "natural and artificial flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic, Bonus Size Extra Virgin Olive Oil",
+    "marca": "Pompeian  Inc.",
+    "ean": "0070404001910",
+    "ingredientes": [
+      "Extra virgin olive oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Robust Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404001941",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/1941/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Robust Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404001965",
+    "ingredientes": [
+      "olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marsala cooking wine",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002191",
+    "ingredientes": [
+      "Marsala wine",
+      "salt",
+      "potassium sorbate and sodium metabisulfite added to preserve natural color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Imported white cooking wine",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002207",
+    "ingredientes": [
+      "White wine",
+      "salt",
+      "potassium sorbate and sodium metabisulfite added to preserve natural color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Burgundy cooking wine",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002214",
+    "ingredientes": [
+      "Burgundy wine",
+      "salt",
+      "potassium sorbate and sodium metabisulfite added to preserve natural color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sherry cooking wine",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002221",
+    "ingredientes": [
+      "Sherry wine",
+      "salt",
+      "potassium sorbate and sodium metabisulfite added to preserve natural color."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Safflower Oil",
+    "marca": "Pompeian",
+    "ean": "0070404002306",
+    "ingredientes": [
+      "Expeller pressed non-gmo california high oleic safflower oil (95%)",
+      "first cold pressed extra virgin olive oil (5%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404002351",
+    "ingredientes": [
+      "Canola oil 70% extra virgin olive oil 20%",
+      "and grapeseed oil 10%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Robust",
+    "marca": "Pompeian",
+    "ean": "0070404002405",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2405/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Taste Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404002412",
+    "ingredientes": [
+      "Classic pure olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2412/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Tasting Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404002429",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2429/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Olivextra original canola extra virgin olive oil blend",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002436",
+    "ingredientes": [
+      "Canola oil (85%)",
+      "extra virgin olive oil (15%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2436/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Light Tasting Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404002504",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola oil extra virgin olive oil grapeseed oil",
+    "marca": "Pompeian,Pompeian  Inc.",
+    "ean": "0070404002542",
+    "ingredientes": [
+      "Canola oil 70%",
+      "extra virgin olive oil 20%",
+      "and grapeseed oil 10%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Canola Oil And First Cold Press Extra Virgin Olive Oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002580",
+    "ingredientes": [
+      "Canola oil (85%)",
+      "extra virgin olive oil (15%)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2580/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Picholine extra virgin olive oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002627",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pompeian, extra virgin olive oil, mild bodied",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002634",
+    "ingredientes": [
+      "Extra virgin olive oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Gourmet Selection",
+    "marca": "Pompeian",
+    "ean": "0070404002696",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% grapeseed oil",
+    "marca": "Pompeian",
+    "ean": "0070404002740",
+    "ingredientes": [
+      "Grapeseed oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Smooth",
+    "marca": "Pompeian",
+    "ean": "0070404002788",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2788/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Smooth",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404002801",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2801/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Smooth",
+    "marca": "Pompeian",
+    "ean": "0070404002818",
+    "ingredientes": [
+      "Extra Virgin Olive Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2818/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Smooth",
+    "marca": "Pompeian",
+    "ean": "0070404002825",
+    "ingredientes": [
+      "Total For questions or comments",
+      "call Pompeian",
+      "Inc. 1-800-POMPEIAN (1-800-766-7342)",
+      "Baltimore",
+      "MD 21224"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/2825/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mild Taste Olive Oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404003679",
+    "ingredientes": [
+      "Classic pure olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium mediterranean blend oil",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404003693",
+    "ingredientes": [
+      "Canola oil 70% extra virgin olive oil 20%",
+      "and grapeseed oil 10%"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Gourmet Selection",
+    "marca": "Pompeian",
+    "ean": "0070404003716",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/3716/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Smooth Selection Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404003754",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bel'Olio, Grapseed Infused Canola Oil, A Perfect Blend Of Canola And Grapseed Oil, For Your Cooking Needs",
+    "marca": "Pompeian  Inc.",
+    "ean": "0070404004188",
+    "ingredientes": [
+      "Canola oil",
+      "grapeseed oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Balsamic Vinegar Of Modena",
+    "marca": "Pompeian",
+    "ean": "0070404004218",
+    "ingredientes": [
+      "Organic wine vinegar",
+      "organic concentrated grape must (6% acidity)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Balsamic Vinegar",
+    "marca": "Pompeian",
+    "ean": "0070404004256",
+    "ingredientes": [
+      "Balsamic vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/4256/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Extra Virgin Olive Oil Non-Stick Cooking Spray",
+    "marca": "Pompeian",
+    "ean": "0070404004324",
+    "ingredientes": [
+      "Organic Extra Virgin Olive Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/4324/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Balsamic Vinegar Of Modena",
+    "marca": "Pompeian",
+    "ean": "0070404004348",
+    "ingredientes": [
+      "Organic wine vinegar",
+      "organic concentrated grape must (6% acidity)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/4348/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Red Wine Vinegar",
+    "marca": "Pompeian",
+    "ean": "0070404004355",
+    "ingredientes": [
+      "Organic Red Wine Vinegar with “Mother&quot",
+      "diluted with water to 5% acid strength. ary fiber",
+      "um",
+      "iron",
+      "Please Recycle"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/4355/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Organic Apple Cider Vinegar",
+    "marca": "Pompeian",
+    "ean": "0070404004362",
+    "ingredientes": [
+      "Organic apple cider vinegar with 'mother'",
+      "water (5% acidity)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/4362/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Extra Virgin Olive Oil Non-Stick Cooking Spray",
+    "marca": "Pompeian",
+    "ean": "0070404004386",
+    "ingredientes": [
+      "Organic extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut oil",
+    "marca": "Pompeian Inc",
+    "ean": "0070404004522",
+    "ingredientes": [
+      "Non-gmo expeller-pressed coconut oil and coconut oil mct"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Robust",
+    "marca": "Pompeian",
+    "ean": "0070404004706",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/4706/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spanish Bold Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404005925",
+    "ingredientes": [
+      "extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/5925/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil - Organic",
+    "marca": "Pompeian",
+    "ean": "0070404007653",
+    "ingredientes": [
+      "Organic extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/7653/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gnocchi, Organic",
+    "marca": "Pompeian",
+    "ean": "0070404007721",
+    "ingredientes": [
+      "Rehydrated potatoes&quot",
+      "(water",
+      "dehydrated potato flakes&quot",
+      "wheat flour&quot",
+      "potato starch&quot",
+      "rice flour*",
+      "salt",
+      "lactic acid (acidity regulator)",
+      "turmeric* (color). *Organic ingredients Contains wheat. May contain soy."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/7721/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil Avocado Blend",
+    "marca": "Pompeian",
+    "ean": "0070404008322",
+    "ingredientes": [
+      "Extra Virgin Olive Oil",
+      "Avocado Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/8322/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Three Branches Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404008704",
+    "ingredientes": [
+      "extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/8704/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pompeian olive oil",
+    "marca": "Simply Light Taste Olive Oil",
+    "ean": "0070404008902",
+    "ingredientes": [
+      "refined olive oil",
+      "extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sauté Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404009459",
+    "ingredientes": [
+      "refined olive oil",
+      "extra virgin olive oil 0 2m$1.01 %dv* fiber",
+      "not a significant source of cholesterol",
+      "total sugars",
+      "added sugars",
+      "vitamin d",
+      "calcium",
+      "iron",
+      "and potassium. * % dv=% daily value 70404 00945 17% 9% 0% 0% 9 48oz please recycle"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/9459/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Drizzle Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404009473",
+    "ingredientes": [
+      "extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil",
+    "marca": "Pompeian",
+    "ean": "0070404009497",
+    "ingredientes": [
+      "extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/007/040/400/9497/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Extra Light Tasting Olive Oil, Mild",
+    "marca": "Pompeian,  Pompeian  Inc.",
+    "ean": "0070404068258",
+    "ingredientes": [
+      "Olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Crushed Tomatoes",
+    "marca": "Cecarelli Farms",
+    "ean": "0070407021007",
+    "ingredientes": [
+      "Tomatoes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Tomato Salsa",
+    "marca": "Cecarelli Farms",
+    "ean": "0070407021014",
+    "ingredientes": [
+      "Fresh tomatoes. tomato paste. onions. green peppers. jalepeno peppers. garlic. cilatro. salt. vinegar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mancini, fried peppers",
+    "marca": "Mancini",
+    "ean": "0070410041221",
+    "ingredientes": [
+      "Peppers",
+      "onions",
+      "canola oil",
+      "water",
+      "salt",
+      "citric acid and ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fried Peppers Longhots",
+    "marca": "Mancini",
+    "ean": "0070410044109",
+    "ingredientes": [
+      "Longhot (cayenne) peppers",
+      "canola oil",
+      "water",
+      "salt",
+      "citric acid and ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Roasted Peppers",
+    "marca": "Mancini",
+    "ean": "0070410050056",
+    "ingredientes": [
+      "Red bell peppers",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mancini, roasted peppers",
+    "marca": "Mancini",
+    "ean": "0070410050100",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted peppers",
+    "marca": "Mancini",
+    "ean": "0070410050216",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "salt and citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mancini, roasted red jalapenos, hot",
+    "marca": "Mancini",
+    "ean": "0070410050230",
+    "ingredientes": [
+      "Jalapeno peppers",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Roasted Peppers",
+    "marca": "Mancini",
+    "ean": "0070410050322",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mancini, sweet roasted peppers",
+    "marca": "Mancini",
+    "ean": "0070410050513",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "salt and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mancini, organic roasted peppers",
+    "marca": "Mancini",
+    "ean": "0070410054009",
+    "ingredientes": [
+      "Certified organic peppers",
+      "water",
+      "salt",
+      "and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]
