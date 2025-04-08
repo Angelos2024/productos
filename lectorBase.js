@@ -1,5 +1,5 @@
 // Configuración
-const MAX_ARCHIVOS = 2000;  // Número total de archivos
+const MAX_ARCHIVOS = 15;  // Número total de archivos
 const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/base/';
 const PATRON_ARCHIVO = i => `producto_(${i}).json`;
 
