@@ -75,7 +75,9 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local...</strong></p>';
 
-  const base = await fetch("https://raw.githubusercontent.com/angelos2024/productos/main/base_tahor_tame.json").then(r => r.json());
+const encontrado = await buscarProductoEnArchivos(nombre, marca, ean);
+if (encontrado) return;
+  
   const clave = normalizeYsingularizar(marca + " " + nombre);
   const encontrado = base.find(p =>
     normalizeYsingularizar(p.marca + " " + p.nombre) === clave || (ean && p.ean === ean)
