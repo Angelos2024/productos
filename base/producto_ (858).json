@@ -1,0 +1,2971 @@
+[
+  {
+    "nombre": "Navitas, Tangy | Acai | Nut Bar",
+    "marca": "Navitas  Llc",
+    "ean": "0811961020293",
+    "ingredientes": [
+      "Organic*: roasted cashew*",
+      "almond*",
+      "honey*",
+      "crisp brown rice*",
+      "evaporated cane sugar*",
+      "roasted sunflower seed*",
+      "tapioca syrup*",
+      "dried blueberry* (blueberry*",
+      "apple juice concentrate*",
+      "sunflower oil)",
+      "cacao nib*",
+      "quinoa crisp*",
+      "dried goji berry*",
+      "pomegrana"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "pomegrana",
+        "razon": "Contiene pomegrana, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Superfood+ Hemp Nut Bar, Creamy Peanut",
+    "marca": "Navitas Naturals,  Navitas  Llc",
+    "ean": "0811961020309",
+    "ingredientes": [
+      "Organic*: roasted cashew*",
+      "almond*",
+      "honey*",
+      "evaporated cane sugar*",
+      "crisp brown rice*",
+      "roasted peanut*",
+      "tapioca syrup*",
+      "roasted sunflower seed*",
+      "quinoa crisp*",
+      "almond butter*",
+      "toasted hemp seed*",
+      "sea salt",
+      "non-soy glycerin*",
+      "organic flavor*"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cacao powder",
+    "marca": "Navitas",
+    "ean": "0811961020910",
+    "ingredientes": [
+      "ORGANIC CACAO"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Matcha Powder",
+    "marca": "Navitas Organics",
+    "ean": "0811961020934",
+    "ingredientes": [
+      "cetified organic matcha leaf powder (Camellia sinensis)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/0934/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organics organic cacao + goji + acai antioxidant",
+    "marca": "Navitas",
+    "ean": "0811961021962",
+    "ingredientes": [
+      "Cacao powder*",
+      "goji powder*",
+      "acai powder*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/1962/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "chocolate cacao",
+    "marca": "Navitas",
+    "ean": "0811961021993",
+    "ingredientes": [
+      "DATE PASTE&quot",
+      "DARK CHOCOLATE CHIP (CANE SUGAR",
+      "COCOA LIQUOR",
+      "COCOA BUTTER)",
+      "SORGHUM",
+      "CHIA SEED",
+      "CACAO POWDER",
+      "PUMPKIN SEED",
+      "SUNFLOWER SEED&quot",
+      "ALMOND BUTTER&quot",
+      "LUCUMA POWDER",
+      "NATURAL FLAVOR",
+      "GOJI POWDER",
+      "MACA POWDER",
+      "SEA SALT",
+      "ACEROLA CHERRY POWDER. *ORGANIC INGREDIENT. Fairtrade cocoa: mass balance is used to match Fairtrade sourcing. Visit info.fairtrade.net/sourcing ALLERGEN INFORMATION: Contains tree nuts (almonds). May contain pits or nutshell fragments. Product of USA. STORAGE INFORMATION: Refrigeration not required. Store in a cool",
+      "dark",
+      "dry place."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/1993/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Navitas organics",
+    "marca": "Navitas",
+    "ean": "0811961022082",
+    "ingredientes": [
+      "Coconut oil powder* (mct oil*",
+      "acacia fiber*",
+      "tapioca maltodextrin*",
+      "citric acid)",
+      "coconut palm sugar*",
+      "matcha powder* guar gum*",
+      "natural flavor",
+      "sea salt",
+      "monk fruit extract*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/2082/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beurre de Cacao",
+    "marca": "Navitas",
+    "ean": "0811961022372",
+    "ingredientes": [
+      "BEURRE DE CACAO BIOLOGIQUE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/2372/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Organic Super food and adaptogen  blend",
+    "marca": "Navitas",
+    "ean": "0811961022389",
+    "ingredientes": [
+      "reishi mushroom powder",
+      "maca powder",
+      "ashwagandha powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/2389/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Superfood+ Immunity Blend",
+    "marca": "Navitas",
+    "ean": "0811961022648",
+    "ingredientes": [
+      "organic camu camu powder",
+      "organic acerola cherry powder",
+      "organic orange powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/102/2648/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Cacao Powder",
+    "marca": "Navitas Organics",
+    "ean": "0811961023485",
+    "ingredientes": [
+      "certified organic cacao powder (theobroma cacao)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Riesling Preserves",
+    "marca": "Blz",
+    "ean": "0811962011153",
+    "ingredientes": [
+      "Sugar",
+      "strawberries",
+      "riesling wine (contains sulfites)",
+      "pectin",
+      "citric acid",
+      "polydimethylsiloxane."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Confiture de mangue",
+    "marca": "Aunt Berta’s",
+    "ean": "0811962011351",
+    "ingredientes": [
+      "mangue (62 %)",
+      "sucre",
+      "jus de fruits concentré",
+      "acide citrique (régulateur d'acidité)",
+      "pectine (agent gélifiant)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/196/201/1351/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Milk",
+    "marca": "Bogopa Enterprises  Inc.",
+    "ean": "0811964010437",
+    "ingredientes": [
+      "Milk",
+      "vitamin d3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Brownie With Pecans",
+    "marca": "Crescent City",
+    "ean": "0811976013846",
+    "ingredientes": [
+      "Sugar",
+      "vegetable oil",
+      "eggs",
+      "flour",
+      "cocoa",
+      "baking soda",
+      "salt",
+      "pecans",
+      "vanilla."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nut Crunch",
+    "marca": "Nutoriou",
+    "ean": "0811991022052",
+    "ingredientes": [
+      "Almonds",
+      "dried cranberries (cranberries",
+      "sugar",
+      "sunflower oil)",
+      "sugar",
+      "egg whites",
+      "butter (pasteurized cream",
+      "salt)",
+      "orange oil",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Girl Scout Thin Mints Pretzels",
+    "marca": "Girl scout",
+    "ean": "0811991024223",
+    "ingredientes": [
+      "Dark chocolate (sugar",
+      "chocolate",
+      "cocoa",
+      "butter",
+      "butter",
+      "fat",
+      "soy lecithin vanilla) pretzels (enriched wheat flour [wheat flour niacin reduced iron thiamine mononitrate riboflavin folic acid] corn syrup",
+      "salts",
+      "vegetable oil",
+      "[may contain",
+      "one or more of the following canola corn",
+      "soybean",
+      "sunflower or rice]",
+      "malt syrup",
+      "sodium bicarbonate yeast)",
+      "natural peppermint oil flavor"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/199/102/4223/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bread Cheese",
+    "marca": "Carr Valley Cheee Co.",
+    "ean": "0812019023990",
+    "ingredientes": [
+      "Pasteurized cow milk",
+      "salt",
+      "enzymes",
+      "and calcium chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chilli condiment",
+    "marca": "Simply,  Simply Add Chilli",
+    "ean": "0812030020008",
+    "ingredientes": [
+      "Chilli (66%)",
+      "onion",
+      "sugar",
+      "strawberries garlic",
+      "glacial acetic acid(condensed vinegar)",
+      "lemon juice (concentrate)",
+      "malt vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lochbroom fine foods, simply add chilli chilli condiment",
+    "marca": "Lochbroom Fine Foods",
+    "ean": "0812030020015",
+    "ingredientes": [
+      "Chilli (66%). onion",
+      "sugar",
+      "strawberries garlic glacial acetic acid (condensed vinegar)",
+      "lemon juice (concentrate)",
+      "malt vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Scoonfi Cake Rusks",
+    "marca": "Scoonfi",
+    "ean": "0812042001644",
+    "ingredientes": [
+      "Wheat Flour",
+      "Sugar",
+      "Vegetable Margarine",
+      "Vegetable Shortening",
+      "Pasteurized Eggs",
+      "Fresh Milk",
+      "Raising Agent (Baking Powder)",
+      "Fennel Seeds",
+      "Natural & Artificial Flavoring",
+      "FD & C Yellow #5 & 6 (E102)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/200/1644/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Osmania Biscuit",
+    "marca": "kcb",
+    "ean": "0812042002337",
+    "ingredientes": [
+      "_wheat_ flour",
+      "sugar",
+      "semolina",
+      "vegetable oil (_canola_ oil",
+      "_soybean_ oil)",
+      "vegetable shortenings",
+      "vegetable margarine",
+      "fresh _milk_",
+      "salt",
+      "ammonium carbonate",
+      "baking soda",
+      "(E102) FD&C yellow no 5 and 6",
+      "natural and artificial flavors",
+      "_milk_ powder"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/200/2337/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Morning Blend",
+    "marca": "Naturipe",
+    "ean": "0812049001425",
+    "ingredientes": [
+      "PINEAPPLE",
+      "BANANAS",
+      "MANGOS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/900/1425/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Grapes And Blueberry",
+    "marca": "Naturipe",
+    "ean": "0812049002149",
+    "ingredientes": [
+      "Grapes and blueberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Snacks classic & sharp with grapes & blueberries",
+    "marca": "Naturipe Snacks",
+    "ean": "0812049002613",
+    "ingredientes": [
+      "Grapes",
+      "blueberries sharp cheddar cheese (cultured pasteurized milk",
+      "salt",
+      "enzymes",
+      "color added) almonds peanut oil",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/900/2613/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Selections Fresh Cranberries",
+    "marca": "Naturipe",
+    "ean": "0812049003085",
+    "ingredientes": [
+      "Cranberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Raspberries",
+    "marca": "Naturipe",
+    "ean": "0812049004402",
+    "ingredientes": [
+      "raspberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/900/4402/front_en.22.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Raspberries",
+    "marca": "Naturipe",
+    "ean": "0812049004709",
+    "ingredientes": [
+      "Raspberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/900/4709/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blueberries bleuets",
+    "marca": "Naturipe",
+    "ean": "0812049006604",
+    "ingredientes": [
+      "bleuets"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/900/6604/front_en.39.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Blueberries",
+    "marca": "naturipe",
+    "ean": "0812049009209",
+    "ingredientes": [
+      "Blueberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/204/900/9209/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Graine de quinoa",
+    "marca": "Zinda",
+    "ean": "0812050001834",
+    "ingredientes": [
+      "Graines de quinoa"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/205/000/1834/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Couscous",
+    "marca": "zinda",
+    "ean": "0812050002107",
+    "ingredientes": [
+      "semoule de blé dur"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/205/000/2107/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Casablanca gardens, tabouli mediterranean salad",
+    "marca": "Casablanca Gardens",
+    "ean": "0812050003166",
+    "ingredientes": [
+      "Durum whole wheat semolina",
+      "parsley",
+      "dehydrated vegetables (onion",
+      "garlic)",
+      "lemon powder",
+      "salt",
+      "spearmint",
+      "coriander",
+      "canola oil",
+      "pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "couscous perlé curry et caneberge",
+    "marca": "zinda",
+    "ean": "0812050008642",
+    "ingredientes": [
+      "Farine de blé",
+      "canneberges déshydratées",
+      "sucre",
+      "épices",
+      "saveur naturelle",
+      "zeste d'orange déshydraté",
+      "ciboulette déshydratée",
+      "huile de canola",
+      "fines herbes",
+      "bioxyde de silicium",
+      "huile de tournesol."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/205/000/8642/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Couscous Perlé",
+    "marca": "Zinda",
+    "ean": "0812050018603",
+    "ingredientes": [
+      "Semoule de blé dur"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/205/001/8603/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Blueberries",
+    "marca": "Always Fresh",
+    "ean": "0812092030113",
+    "ingredientes": [
+      "blueberries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/209/203/0113/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Flavor Hot Drink, Peanut Butter",
+    "marca": "Peanut Hottie",
+    "ean": "0812103020003",
+    "ingredientes": [
+      "Sugar",
+      "maltodextrin",
+      "glucose syrup",
+      "mct oil",
+      "natural and artificial peanut flavor",
+      "peanut flour",
+      "caramel colr",
+      "guar gum",
+      "salt",
+      "sodium caseinate",
+      "xanthan",
+      "lecithin",
+      "silicon dioxide",
+      "dipotassium phosphate",
+      "mono & diglycerides."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hot Drink",
+    "marca": "Peanut Hottie",
+    "ean": "0812103020027",
+    "ingredientes": [
+      "Sugar",
+      "maltodextrin",
+      "glucose syrup",
+      "mct oil",
+      "natural and artificial peanut flavor",
+      "peanut flour",
+      "caramel color",
+      "dutch process cocoa",
+      "salt",
+      "guar gum",
+      "sodium caseinate",
+      "xanthan",
+      "lecithin",
+      "silicon dioxide",
+      "dipotassium phosphate",
+      "mono & diglycerides."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Extra Virgin Olive Oil",
+    "marca": "Terra Medi",
+    "ean": "0812110000111",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/211/000/0111/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Terra medi greek organic extra virgin olive oil",
+    "marca": "Terra Medi",
+    "ean": "0812110000142",
+    "ingredientes": [
+      "Extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/211/000/0142/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% extra virgin olive oil",
+    "marca": "terra medi",
+    "ean": "0812110000401",
+    "ingredientes": [
+      "extra virgin olive oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Russia"
+  },
+  {
+    "nombre": "noix du Brésil",
+    "marca": "paranoten",
+    "ean": "08121118",
+    "ingredientes": [
+      "noix du Brésil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/812/1118/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "yaourt fermier brebis aux coulis de fruits",
+    "marca": "ferme claria",
+    "ean": "08121127",
+    "ingredientes": [
+      "Ce yaourt est produit à la Ferme Claria avec le lait non homogénéisé et non standardisé de nos brebis élevées en Béarn au cœur S des Pyrénées. Energie (Kcal) 131 Protides (g/L) 5.1 Lipides (g/L) 6.2"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Children's Immune",
+    "marca": "Standard Process",
+    "ean": "0812122014106",
+    "ingredientes": [
+      "Colostrum (bovine)",
+      "Organic strawberry fruit powder",
+      "Organic elderberry fruit powder",
+      "Organic guar fiber",
+      "Organic beet (root)",
+      "Monk fruit extract",
+      "Organic camu camu (berry)",
+      "Organic manioc (root)",
+      "Zinc amino acid (rice) chelate",
+      "Calcium stearate",
+      "Organic acacia fiber",
+      "Cholecalciferol"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/212/201/4106/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Possible",
+    "marca": "Standard  Process",
+    "ean": "0812122014137",
+    "ingredientes": [
+      "POSSIBLE Protein SBlend (Organic Pea Protein",
+      "Organic Brown Rice Protein",
+      "Organic Oat Flour",
+      "Organic Pumpkin Seed Protein",
+      "Organic Buckwheat Flour)",
+      "Organic Cocoa Powder (Processed Win Akaill",
+      "Organic Cacao Powder Organic Lucuma Powder Organic Mark Fruit Extract",
+      "Organic Chia Seed Powder Organic Vanilla Bean Extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/212/201/4137/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Solid Light Tuna In Oil",
+    "marca": "Peru Food",
+    "ean": "0812125000625",
+    "ingredientes": [
+      "Tuna",
+      "soybean oil and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pineapple Gelatin Powder",
+    "marca": "Peru Food",
+    "ean": "0812125002407",
+    "ingredientes": [
+      "Peru food"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/212/500/2407/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground Black Pepper",
+    "marca": "Sibarila",
+    "ean": "0812125006313",
+    "ingredientes": [
+      "Black pepper."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Dried Yellow Hot Pepper Paste",
+    "marca": "Peru Food Imports Inc.",
+    "ean": "0812125006375",
+    "ingredientes": [
+      "Dried yellow hot pepper",
+      "water",
+      "salt",
+      "citric acid as acidulant",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Basil Paste",
+    "marca": "Peru Food",
+    "ean": "0812125008003",
+    "ingredientes": [
+      "Basil",
+      "water",
+      "salt",
+      "citric acid to acidify",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Mint Hot Sauce",
+    "marca": "Peru Food",
+    "ean": "0812125008683",
+    "ingredientes": [
+      "Yellow hot pepper",
+      "black mint",
+      "garlic",
+      "water",
+      "salt",
+      "vegetable oil",
+      "xantham gum as a thickener",
+      "citric acid as acidulant and potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Rocoto Red Hot Pepper Paste",
+    "marca": "Peru Food",
+    "ean": "0812125008713",
+    "ingredientes": [
+      "Red hot pepper",
+      "water",
+      "salt",
+      "citric acid as acidulant",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/212/500/8713/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Hot Pepper Paste",
+    "marca": "Peru Food",
+    "ean": "0812125008737",
+    "ingredientes": [
+      "Yellow hot pepper",
+      "water",
+      "salt",
+      "citric acid as acidulant",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Salsa Wantan",
+    "marca": "Kikk",
+    "ean": "0812125008751",
+    "ingredientes": [
+      "Water",
+      "sugar",
+      "vinegar",
+      "tomato",
+      "starch",
+      "salt",
+      "pineapple",
+      "paprika",
+      "garlic",
+      "salt",
+      "vegetable",
+      "oil",
+      "ginger",
+      "citric acid (e330)",
+      "carmine (e120)",
+      "xanthan gum (e415)",
+      "sodium benzoate (e211) and potassium sorbate (e202)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "carmine (e120)",
+        "razon": "Contiene carmine (e120), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Herbi, Choco Taza Bar, Cinnamon And Clove",
+    "marca": "Peru Food Imports Inc.",
+    "ean": "0812125008799",
+    "ingredientes": [
+      "Sugar",
+      "vegetable fat",
+      "cocoa powder",
+      "cocoa liquor",
+      "soy lecithin",
+      "ce322",
+      "salt",
+      "cinnamon and clove flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Mint Hot Sauce",
+    "marca": "Peru Food",
+    "ean": "0812125008850",
+    "ingredientes": [
+      "Yellow hot pepper",
+      "water",
+      "oil",
+      "black mint",
+      "spices",
+      "salt",
+      "xantham gum as a thickener",
+      "citric acid as acidulant and potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Hot Pepper Sauce",
+    "marca": "Peru Food",
+    "ean": "0812125008867",
+    "ingredientes": [
+      "Red hot pepper",
+      "water",
+      "oil",
+      "spices",
+      "salt",
+      "xanthan gum as a thickener",
+      "citric acid as acidulant and potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Paste",
+    "marca": "Peru Food",
+    "ean": "0812125009017",
+    "ingredientes": [
+      "Yellow hot pepper",
+      "water",
+      "salt",
+      "citric acid to acidify",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Yellow Hot Pepper Paste",
+    "marca": "Peru Food",
+    "ean": "0812125009215",
+    "ingredientes": [
+      "Yellow hot pepper",
+      "water",
+      "salt",
+      "citric acid to acidity",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Red Hot Pepper Paste",
+    "marca": "Peru Food",
+    "ean": "0812125009222",
+    "ingredientes": [
+      "Red hot pepper",
+      "water",
+      "salt",
+      "citric acid as acidulant",
+      "potassium sorbate as preservative"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peru food, fava beans cut and peeled",
+    "marca": "Peru Food",
+    "ean": "0812125009482",
+    "ingredientes": [
+      "Fava beans cut and peeled."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peru food, linaza flax seed",
+    "marca": "Peru Food",
+    "ean": "0812125009529",
+    "ingredientes": [
+      "Flax seed."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peru food, whole roasted barley",
+    "marca": "Peru Food",
+    "ean": "0812125009543",
+    "ingredientes": [
+      "Whole roasted barley."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mote Corn",
+    "marca": "Peru Food",
+    "ean": "0812125009628",
+    "ingredientes": [
+      "Mote corn."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peru food, peeled wheat",
+    "marca": "Peru Food",
+    "ean": "0812125009697",
+    "ingredientes": [
+      "Peeled wheat."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Turmeric Powder",
+    "marca": "Peru Food",
+    "ean": "0812125009949",
+    "ingredientes": [
+      "Turmeric."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ajo Garlic Paste",
+    "marca": "Peru Food",
+    "ean": "0812125010037",
+    "ingredientes": [
+      "Garlic",
+      "water",
+      "salt",
+      "citric acid as acidulant",
+      "potassium sorbate as preservative"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Alacena, yellow hot pepper sauce",
+    "marca": "Alacena",
+    "ean": "0812125013649",
+    "ingredientes": [
+      "Yellow hot pepper",
+      "water",
+      "onion",
+      "soybean or cotton oil",
+      "salt",
+      "maltodextrin garlic",
+      "fosforic acid",
+      "monosodium glutamate",
+      "lime juice",
+      "potassium sorbate as preservative."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gluten-Free Banana Nut Bread Mix",
+    "marca": "Bready",
+    "ean": "0812129011443",
+    "ingredientes": [
+      "Sugar",
+      "teff flour",
+      "rice flour",
+      "chopped pecans",
+      "cornstarch",
+      "tapioca flour",
+      "dried buttermilk",
+      "baking powder",
+      "xanthan gum",
+      "baking soda"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's Calorie-Free Sweetener",
+    "marca": "Truvia",
+    "ean": "0812130020014",
+    "ingredientes": [
+      "Erythritol",
+      "stevia leaf extract",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweetener From The Stevia Leaf",
+    "marca": "Truvia",
+    "ean": "0812130020076",
+    "ingredientes": [
+      "Erythritol",
+      "stevia leaf extract",
+      "natural flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truvia, brown sugar blend",
+    "marca": "Truvia",
+    "ean": "0812130020113",
+    "ingredientes": [
+      "Erythritol",
+      "sugar",
+      "molasses",
+      "stevia leaf extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nectar Stevia Sweetener Blend With Honey & Sugar",
+    "marca": "Truvia",
+    "ean": "0812130020359",
+    "ingredientes": [
+      "Honey",
+      "Sugar",
+      "Water",
+      "Stevia Leaf Extract",
+      "Citric Acid (Maintains Freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Spain"
+  },
+  {
+    "nombre": "Nectar",
+    "marca": "Truvia",
+    "ean": "0812130020366",
+    "ingredientes": [
+      "Honey",
+      "sugar",
+      "water",
+      "stevia leaf extract",
+      "citric acid (maintains freshness)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pure cane sugar",
+    "marca": "Southern Cane",
+    "ean": "0812130020465",
+    "ingredientes": [
+      "Cane sugar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pure Cane Sugar",
+    "marca": "Southern Cane",
+    "ean": "0812130020502",
+    "ingredientes": [
+      "Cane Sugar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Stevia",
+    "marca": "Truvia",
+    "ean": "0812130020533",
+    "ingredientes": [
+      "erythritol",
+      "stevia leaf extract",
+      "natural flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0533/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stevia Leaf",
+    "marca": "Truvia",
+    "ean": "0812130020540",
+    "ingredientes": [
+      "ERYTHRITOL",
+      "STEVIA LEAF EXTRACT",
+      "NATURAL FLAVORS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0540/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Truvia Calorie-free Sweetener from the Stevia Leaf with Erythritol",
+    "marca": "Truvia",
+    "ean": "0812130020564",
+    "ingredientes": [
+      "erythritol",
+      "stevia leaf extract",
+      "natural flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0564/front_en.16.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Calorie-Free Sweetener Packets",
+    "marca": "Truvia",
+    "ean": "0812130020571",
+    "ingredientes": [
+      "Erythritol",
+      "Stevia Leaf Extract",
+      "Natural Flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Granulated Cane Sugar",
+    "marca": "Cargill",
+    "ean": "0812130020632",
+    "ingredientes": [
+      "Sugar (Sucrose - Cas-00057-50-1)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Cane Sugar Blended With Stevia Sweetener, Cane Sugar Blend",
+    "marca": "Truvia",
+    "ean": "0812130020649",
+    "ingredientes": [
+      "Sugar",
+      "Erythritol",
+      "Stevia Leaf Extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Calorie-Free Sweetener",
+    "marca": "Truvia",
+    "ean": "0812130020656",
+    "ingredientes": [
+      "Erythritol",
+      "Stevia Leaf Extract",
+      "Natural Flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Organic sweetener from stevia leaf - original",
+    "marca": "Truvia",
+    "ean": "0812130020670",
+    "ingredientes": [
+      "ORGANIC VEGETABLE GLYCERIN",
+      "WATER",
+      "ORGANIC STEVIA LEAF EXTRACT",
+      "NATURAL FLAVORS",
+      "ORGANIC LEMON JUICE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0670/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic zero calorie liquid stevia sweetener",
+    "marca": "Truvia",
+    "ean": "0812130020687",
+    "ingredientes": [
+      "sweeten to taste in hot or cold beverages"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0687/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "truvia granulated stevia sugar",
+    "marca": "Truvia",
+    "ean": "0812130020779",
+    "ingredientes": [
+      "Erythritol",
+      "Chicory root fiber",
+      "Stevia leaf extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0779/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sweet complete",
+    "marca": "Truvia",
+    "ean": "0812130020793",
+    "ingredientes": [
+      "erythritol",
+      "chicory root fiber",
+      "stevia leaf extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0793/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Monk Fruit",
+    "marca": "Truvia",
+    "ean": "0812130020984",
+    "ingredientes": [
+      "erythritol",
+      "monk fruit extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0984/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "truvia Granulated",
+    "marca": "Truvia",
+    "ean": "0812130020991",
+    "ingredientes": [
+      "erythritol",
+      "chicory root fiber",
+      "monk fruit extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/0991/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Monk Fruit",
+    "marca": "Truvia",
+    "ean": "0812130021004",
+    "ingredientes": [
+      "Stevla  ERYTHRITOL",
+      "MONK FRUIT EXTRACT Distributed by: Cargill",
+      "Inc Minneapolis",
+      "MN 55440 Truvia® is a registered trademark of The Truvia Company LLC (866) 853-6077 Truviacom Gluten Free © PARVE Stare in a coal",
+      "dry place Suitable for people with diahates For more information abeut Nau GMD and  visit Trasiacam/FAQ Nutr tion Facts 35 servirigs per containe Serving size 2 tsp (Bul Amount per serving Calories % Daily Value 0% 0% 3% Total Fat 0g Sodium 0mg Total Carbohydrate 8g Total Sugars 0g Includes 0g Added Sugars 0% Erythritol 8g Protein 0g Not a signilicant source of saturated tal",
+      "trans fat",
+      "cholesterol",
+      "dietary liber",
+      "vitamin D",
+      "calcium",
+      "iran and potas PLASTIC JAR 00 12130 F"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/1004/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "truvia",
+    "marca": "truvia",
+    "ean": "0812130021066",
+    "ingredientes": [
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/1066/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Puerto Rico"
+  },
+  {
+    "nombre": "Stevia Leaf Brown",
+    "marca": "Truvia",
+    "ean": "0812130021141",
+    "ingredientes": [
+      "erythritol",
+      "corn starch",
+      "natural flavors",
+      "molasses",
+      "stevia leaf extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/002/1141/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cucumber Tonic Water, Cucumber",
+    "marca": "Fever-tree, Refreshingly Light",
+    "ean": "0812136030185",
+    "ingredientes": [
+      "Carbonated Spring Water",
+      "Fructose (Fruit Sugar)",
+      "Citric Acid",
+      "Natural Cucumber Flavoring And Natural Lemon Flavoring With Other Natural Flavorings Including Natural Quinine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Sparkling Pink Grapefruit",
+    "marca": "Fever-tree",
+    "ean": "0812136030420",
+    "ingredientes": [
+      "orvime-ma-ny-a hvt-o 56 sent size: 1 bottle (275ml)",
+      "utrition facts servings: 1",
+      "avarings",
+      "sodium bicarbonate",
+      "ascorbic acid",
+      "fruit and veg calornia amount per serving: (incl",
+      "protein fut sugarl",
+      "pink grapefruit juice",
+      "citric acid",
+      "natural cra ns carbonated spring water",
+      "red grapefroit ulce from concea apefnui sparkling pink grapefruit"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/603/0420/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Elderflower Tonic Water",
+    "marca": "Fever-tree",
+    "ean": "0812136030680",
+    "ingredientes": [
+      "CARBONATED WATER",
+      "FRUCTOSE (FRUIT SUGAR)",
+      "ELDERFLOWER EXTRACT",
+      "CITRIC ACID",
+      "NATURAL FLAVORINGS",
+      "QUININE"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/603/0680/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Elderflower tonic water",
+    "marca": "Fever-tree",
+    "ean": "0812136030697",
+    "ingredientes": [
+      "carbonated water",
+      "fructose",
+      "elderflower extract",
+      "citric acid",
+      "natural flavorings",
+      "quinine"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/603/0697/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Lime & Yuzu",
+    "marca": "Fever - Tree",
+    "ean": "0812136030840",
+    "ingredientes": [
+      "carbonated spring water",
+      "fruit sugars ( apple juice concentrate)",
+      "lime juice",
+      "fructose (fruit sugar)",
+      "yuzu juice",
+      "citric acid",
+      "natural lime flavoring",
+      "sodium bicarbonate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/603/0840/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Pink Grapefruit",
+    "marca": "Fever-tree",
+    "ean": "0812136030925",
+    "ingredientes": [
+      "Eau gazéifiée",
+      "jus de pamplemousse rouge fait de concentré (7%)",
+      "Sucres (fructose)",
+      "Jus de pamplemousse rose",
+      "Acide citrique",
+      "Arôme naturel",
+      "Bicarbonate de sodium",
+      "Acide ascorbique",
+      "Concentré de carotte et cassis (pour la couleur)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sparkling sicilian lemonade",
+    "marca": "Fever-tree",
+    "ean": "0812136031366",
+    "ingredientes": [
+      "Carbonate Spring Water",
+      "Lemon Fruit from Concentrate (6%)",
+      "Fructose (Fruit sugar)",
+      "Citric acid",
+      "Natural Lemon Flavorings with other Natural Flavorings",
+      "Natural Flavorings",
+      "Ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/603/1366/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blood orange ginger beer",
+    "marca": "Fever-tree",
+    "ean": "0812136031809",
+    "ingredientes": [
+      "carbonated water",
+      "fructose",
+      "ginger root",
+      "natural ginger flavoring with other natural flavorings",
+      "tartaric acid",
+      "blood orange flavoring with other natural flavorings",
+      "citric acid",
+      "blood orange juice",
+      "color",
+      "natural flavorings",
+      "natural lime flavoring"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/213/603/1809/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bison Ribeye Steak",
+    "marca": "Frontiere",
+    "ean": "0812154021509",
+    "ingredientes": [
+      "Bison ribeye steak"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bison Tenderloin Steak",
+    "marca": "Frontiere",
+    "ean": "0812154021516",
+    "ingredientes": [
+      "Bison tenderloin steak"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bison Strip Loin Steak",
+    "marca": "Frontiere Natural Meats",
+    "ean": "0812154021530",
+    "ingredientes": [
+      "Bison strip loin steak"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bison",
+    "marca": "Frontiere Natural Meats  Llc.",
+    "ean": "0812154021585",
+    "ingredientes": [
+      "Ground bison"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/215/402/1585/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Black Pepper & Blue Cheese Organic Grass-Fed Beef Burgers",
+    "marca": "Frontiere Natural Meats",
+    "ean": "0812154025606",
+    "ingredientes": [
+      "Organic beef",
+      "organic blue cheese (organic milk",
+      "cheese cultures",
+      "salt",
+      "microbial enzyme",
+      "animal enzyme",
+      "penicullium roqueforti)",
+      "organic seasoning (untreated salt",
+      "organic evaporated cane juice powder",
+      "organic beef flavor [organic beef flavor",
+      "organic gum arabic",
+      "sea salt]",
+      "organic dehydrated vegetables [organic red bell pepper",
+      "organic green bell pepper",
+      "organic onion]",
+      "organic dehydrated tamari soy sauce [organic tamari soy sauce {organic soybeans",
+      "salt}",
+      "organic maltodextrin",
+      "salt]",
+      "organic black pepper",
+      "organic red pepper",
+      "organic corn starch)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jalapeno & Cheddar Cheese Organic Grass-Fed Beef Burgers",
+    "marca": "Frontiere Natural Meats",
+    "ean": "0812154025613",
+    "ingredientes": [
+      "Organic beef",
+      "organic jalapeno pepper",
+      "organic cheddar cheese (organic cultured unpasteurized milk",
+      "salt",
+      "enzymes)",
+      "organic seasoning (untreated salt",
+      "organic evaporated cane juice powder",
+      "organic tomato powder",
+      "organic chili powder",
+      "organic dehydrated onion",
+      "organic black pepper",
+      "organic oregano",
+      "organic cumin",
+      "organic red pepper",
+      "organic nutmeg",
+      "organic corn starch)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ground Elk",
+    "marca": "Frontiere",
+    "ean": "0812154028164",
+    "ingredientes": [
+      "Ground elk"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/215/402/8164/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Conditioner",
+    "marca": "Native",
+    "ean": "0812154033250",
+    "ingredientes": [
+      "WATER",
+      "CETYL ALCOHOL",
+      "BEHENAMIDOPROPYL DIMETHYLAMINE",
+      "STEARYL ALCOHOL",
+      "GLUTAMIC ACID",
+      "CITRIC ACID",
+      "FRAGRANCE",
+      "SODIUM BENZOATE",
+      "CAPRYLYL GLYCOL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/215/403/3250/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ocean & Timber Body Wash",
+    "marca": "Native",
+    "ean": "0812154038187",
+    "ingredientes": [
+      "WATER",
+      "COCAMIDOPROPYL BETAINE",
+      "SODIUM CHLORIDE",
+      "SODIUM COCOYL ISETHIONATE",
+      "SODIUM LAUROYL SARCOSINATE",
+      "FRAGRANCE",
+      "SODIUM SALICYLATE",
+      "SODIUM BENZOATE",
+      "CITRIC ACID"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Coconut Water",
+    "marca": "Coco Libre",
+    "ean": "0812161010695",
+    "ingredientes": [
+      "Fair trade certified organic coconut water from concentrate",
+      "natural flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pudd’n Pouches",
+    "marca": "Nature’ Child",
+    "ean": "0812161010718",
+    "ingredientes": [
+      "Skim Milk",
+      "Sugar",
+      "Food Starch-Modified",
+      "Cocoa With Alkali",
+      "Cereals (Wheat Flour",
+      "Barley Flour",
+      "Malted Wheat Flour)' Sodium Citrate",
+      "Banana",
+      "Honey",
+      "Salt. Contains: Milk",
+      "Wheat",
+      "BarleY MIAMI",
+      "FL 33131",
+      "Product of France."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/216/101/0718/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pudd'N Pouches Vanilla Pudding",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161010732",
+    "ingredientes": [
+      "Milk",
+      "sugar",
+      "nonfat dry milk",
+      "rice flour",
+      "wheat flour",
+      "modified food starch",
+      "natural flavors",
+      "carrageenan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/216/101/0732/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Chocolate pudding",
+    "marca": "Nature's Heart",
+    "ean": "0812161010749",
+    "ingredientes": [
+      "Skim milk",
+      "sugar",
+      "food starch-modified",
+      "cocoa processed with alkali",
+      "cereals (wheat flour",
+      "barley flour",
+      "malted wheat flour)",
+      "sodium citrate",
+      "banana",
+      "honey",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coconut water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161010831",
+    "ingredientes": [
+      "Fair trade certified organic coconut water from concentrate",
+      "organic pineapple juice concentrate",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Pure Organic Coconut Water With Pineapple",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161010848",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "organic pineapple juice concentrate",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Organic Coconut Water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161010855",
+    "ingredientes": [
+      "Fair trade certified organic coconut water from concentrate. organic pineapple juice concentrate",
+      "natural flavours."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pudd'N Pouches, Banana Pudding",
+    "marca": "Nature's Child",
+    "ean": "0812161011180",
+    "ingredientes": [
+      "Milk",
+      "sugar",
+      "banana puree",
+      "modified food starch",
+      "natural flavors",
+      "xanthan gum",
+      "sodium citrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Protein coconut water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011203",
+    "ingredientes": [
+      "Fair trade certified organic coconut water from concentrate",
+      "filtered water",
+      "grass fed milk protein concentrate",
+      "erythritol",
+      "dutched cocoa powder",
+      "acacia gum",
+      "nutrient blend",
+      "vanilla extract",
+      "carrageenan",
+      "stevia leaf extract. nutrient blend: potassium phosphates & sodium phosphates (k",
+      "p)",
+      "sodium ascorbate (na",
+      "c)",
+      "vitamin e acetate (e)",
+      "ferric orthosphosphate (iron)",
+      "zinc sulfate (zinc)",
+      "vitamin a palmitate (a)",
+      "niacinamide (b3)",
+      "copper gluconate",
+      "calcium pantothenate (b5)",
+      "maltodextrin",
+      "chromium citrate",
+      "folic acid (b9)",
+      "cholecalciferol (d)",
+      "biotin (b7)",
+      "pyridoxine hydrochloride (b6)",
+      "thiamine hydrochloride (b1)",
+      "riboflavin (b2)",
+      "potassium iodide",
+      "cyanocobalamin (b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Protein coconut water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011210",
+    "ingredientes": [
+      "Fair trade certified organic coconut water from concentrate",
+      "filtered water",
+      "grass fed milk protein concentrate",
+      "coconut cream",
+      "erythritol",
+      "acacia gum",
+      "nutrient blend",
+      "vanilla extract",
+      "natural flavor",
+      "carrageenan",
+      "stevia leaf extract. nutrient blend: potassium phosphates",
+      "sodium phosphate & potassium citrate (k",
+      "p)",
+      "sodium ascorbate (na",
+      "c)",
+      "vitamin e acetate (e)",
+      "ferric orthosphosphate (iron)",
+      "zinc sulfate (zinc)",
+      "vitamin a palmitate (a)",
+      "niacinamide (b3)",
+      "copper gluconate",
+      "calcium pantothenate (b5)",
+      "maltodextrin",
+      "chromium citrate",
+      "folic acid (b9)",
+      "cholecalciferol (d)",
+      "biotin (b7)",
+      "pyridoxine hydrochloride (b6)",
+      "thiamine hydrochloride (b1)",
+      "riboflavin (b2)",
+      "potassium iodide",
+      "cyanocobalamin (b12)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Protein coconut water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011227",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "coffee (water",
+      "coffee extract)",
+      "filtered water",
+      "grass fed milk protein concentrate",
+      "erythritol",
+      "acacia gum",
+      "nutrient blend",
+      "carob bean gum",
+      "stevia leaf extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Protein Coconut Water, Almond",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011234",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "filtered water",
+      "grass fed milk protein concentrate",
+      "erythritol",
+      "acacia gum",
+      "natural flavor",
+      "nutrient blend",
+      "vanilla extract",
+      "carob bean gum",
+      "stevia leaf extract. nutrient blend: potassium phosphates & sodium phospha"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Organic Coconut Water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011340",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "natural flavour."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Coconut Water",
+    "marca": "Coco Libre",
+    "ean": "0812161011364",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "organic pineapple juice concentrate",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic coconut water from concentrate",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011531",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Coconut Water, Lemon Ginger",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011562",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "carbonated purified water",
+      "organic lemon juice",
+      "organic flavor",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Sparkling Organic Coconut Water From Concentrate, Cucumber, Lemongrass",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011579",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "carbonated purified water",
+      "organic lemon juice",
+      "organic flavors",
+      "natural flavors"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Organic Sparkling Coconut Water From Concentrate",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011586",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "carbonated purified water",
+      "organic lemon juice",
+      "organic flavor",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coco Libre, Organic Coconut Water",
+    "marca": "Maverick Brands  Llc",
+    "ean": "0812161011593",
+    "ingredientes": [
+      "Organic coconut water from concentrate",
+      "carbonated purified water",
+      "organic grapefruit juice",
+      "natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Goji Blueberry Premium Oatmeal",
+    "marca": "Modern Oats",
+    "ean": "0812169002876",
+    "ingredientes": [
+      "Certified gluten-free whole grain rolled oats",
+      "organic cane sugar",
+      "flax seeds",
+      "pumpkin seeds",
+      "almonds",
+      "sunflower seeds",
+      "dried sweetened wild blueberries (blueberries",
+      "sugar) air dried organic goji berries",
+      "sweetened oregon saskatoon berries (saskatoon berries",
+      "sugar)",
+      "coconut",
+      "cinnamon",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple Walnut Premium Oatmeal",
+    "marca": "Modern Oats",
+    "ean": "0812169002883",
+    "ingredientes": [
+      "Certified gluten-free whole grain rolled oats",
+      "organic cane sugar",
+      "walnuts",
+      "flax seed",
+      "pumpkin seeds",
+      "sunflower seeds",
+      "dried apples",
+      "golden raisins",
+      "chia seeds",
+      "cinnamon",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "All natural oatmeal",
+    "marca": "Modern Oats",
+    "ean": "0812169002890",
+    "ingredientes": [
+      "Certified gluten-free whole grain rolled oats",
+      "organic cane sugar",
+      "flax seeds",
+      "pumpkin seeds",
+      "sunflower seeds",
+      "dried sweetened mangos (mangos",
+      "sugar) dried black berries",
+      "dried sweetened cranberries (cranberries",
+      "sugar",
+      "cinnamon",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nuts & Seeds Oatmeal",
+    "marca": "Modern Oats",
+    "ean": "0812169002913",
+    "ingredientes": [
+      "Certified gluten-free whole grain rolled oats",
+      "organic cane sugar",
+      "hazelnuts",
+      "pastachios",
+      "flax seeds",
+      "pumpkin seeds",
+      "sunflower seeds",
+      "almonds",
+      "hemp seeds",
+      "walnuts",
+      "cinnamon",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "5 Berry Premium Oatmeal",
+    "marca": "Modern Oats",
+    "ean": "0812169002944",
+    "ingredientes": [
+      "Certified gluten-free whole grain rolled oats",
+      "organic cane sugar",
+      "almonds",
+      "pecans",
+      "dried wild blueberries (sugar",
+      "natural flavor",
+      "citric acid sunflower oil)",
+      "dried cranberries (sugar",
+      "sunflower oil) dried strawberries",
+      "dried raspberries",
+      "dried marion blackberries",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Water & Orange Juice Blend, Orange",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020006",
+    "ingredientes": [
+      "Coconut water",
+      "orange juice",
+      "less than 1% of: natural flavors",
+      "citric acid( provides tartness)",
+      "vitamin c( ascorbic acid)",
+      "pectin",
+      "fruit juice(for color)",
+      "monk fruit extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, chilled juice blend, pineapple mango",
+    "marca": "Zico",
+    "ean": "0812186020044",
+    "ingredientes": [
+      "Coconut water",
+      "pineapple juice and mango puree",
+      "less than 1% of: natural flavors",
+      "citric acid (provides tartness)",
+      "vitamin c (ascorbic acid)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, premium organic coconut water",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020068",
+    "ingredientes": [
+      "Fair trade organic coconut water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural coconut water",
+    "marca": "Zico",
+    "ean": "0812186020105",
+    "ingredientes": [
+      "Coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/218/602/0105/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, premium coconut water beverage, chocolate",
+    "marca": "Zico",
+    "ean": "0812186020112",
+    "ingredientes": [
+      "Coconut water",
+      "water",
+      "cane sugar",
+      "coconut cream [coconut extract",
+      "water]",
+      "cocoa processed with alkali",
+      "natural flavors",
+      "carrageenan",
+      "gellan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Coconut Water",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020129",
+    "ingredientes": [
+      "Coconut water from concentrate",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, premium coconut water beverage, chocolate",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020136",
+    "ingredientes": [
+      "Coconut water from concentrate",
+      "water",
+      "cane sugar",
+      "coconut cream (coconut extract",
+      "water)",
+      "cocoa processed with alkali",
+      "natural flavor",
+      "carrageenan",
+      "gellan gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, premium coconut water, watermelon raspberry",
+    "marca": "Zico",
+    "ean": "0812186020143",
+    "ingredientes": [
+      "Coconut water from concentrate",
+      "natural flavor",
+      "citric acid",
+      "stevia leaf extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural 100% Organic Coconut Water",
+    "marca": "Zico",
+    "ean": "0812186020167",
+    "ingredientes": [
+      "Fair trade certified organic coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, chilled juice blend, pineapple, mango",
+    "marca": "Zico",
+    "ean": "0812186020181",
+    "ingredientes": [
+      "Coconut water",
+      "pineapple juice and mango puree",
+      "less than 1% of: natural flavors",
+      "citric acid (provides tartness)",
+      "vitamin c (ascorbic acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Water & Pineapple Mango Juice Blend, Pineapple Mango",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020266",
+    "ingredientes": [
+      "Coconut water",
+      "pineapple juice and mango puree",
+      "less than 1% of: natural flavors",
+      "citric acid (provides tartness)",
+      "vitamin c (ascorbic acid)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium coconut water",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020280",
+    "ingredientes": [
+      "Coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, premium coconut water",
+    "marca": "Zico",
+    "ean": "0812186020310",
+    "ingredientes": [
+      "Coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, premium chilled juice blend, coconut water & strawberry banana apple",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020327",
+    "ingredientes": [
+      "Coconut water",
+      "strawberry puree",
+      "banana puree",
+      "apple juice",
+      "less than 1% of: natural flavors",
+      "citric acid [provides tartness]",
+      "vitamin c (ascorbic acid)",
+      "vegetable and fruit juice (for color)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Premium Organic Coconut Water",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020389",
+    "ingredientes": [
+      "Fair trade organic coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Coconut Water",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020396",
+    "ingredientes": [
+      "Coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolate Coconut Water",
+    "marca": "Zico",
+    "ean": "0812186020402",
+    "ingredientes": [
+      "Coconut water",
+      "water",
+      "cane sugar",
+      "coconut cream [coconut extract",
+      "water]",
+      "cocoa processed with alkali",
+      "natural flavors",
+      "carrageenan",
+      "gellan gum"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/218/602/0402/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural coconut water",
+    "marca": "Zico",
+    "ean": "0812186020426",
+    "ingredientes": [
+      "Coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/218/602/0426/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, coconut water, pineapple",
+    "marca": "Zico",
+    "ean": "0812186020440",
+    "ingredientes": [
+      "Coconut water",
+      "less than 1% of: natural flavors",
+      "citric acid (provides tartness)",
+      "stevia leaf extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, coconut water, watermelon raspberry",
+    "marca": "Zico",
+    "ean": "0812186020464",
+    "ingredientes": [
+      "Coconut water",
+      "less than 1% of: natural flavors",
+      "citric acid (provides tartness)",
+      "stevia leaf extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Zico, 100% premium coconut water",
+    "marca": "Zico,  Zico Beverages  Llc",
+    "ean": "0812186020488",
+    "ingredientes": [
+      "Coconut water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Caramel au sel marin",
+    "marca": "Delici",
+    "ean": "0812190020115",
+    "ingredientes": [
+      "INGREDIENïTS :MELANGE D'INOREDIENT LAITIER ET D'HUILES SUCRE (LAIT ECREME",
+      "HUILES (HUILES DE PALME",
+      "PALMISTE ET NOIX DE COCO)",
+      "CREME",
+      "SUCRE",
+      "POLYSORBATE 80",
+      "MONO - ET DIGLYCERIDES",
+      "GOMME GELLANE)",
+      "CARAMEL (GLUCOSE-FRUCTOSE",
+      "LAIT CONDENSE",
+      "BEURRE",
+      "SUCRE",
+      "EAU",
+      "SEL)",
+      "BISCUIT (FARINE DE BLE",
+      "SUCRE",
+      "HUILES) HUILES DE PALME ET CANOLA)",
+      "SIROP DE SUCRE DE BETTERAVE",
+      "DICARBONATE DE SOUDE",
+      "SEL",
+      "CANNELLE)",
+      "CHOCOLAT NOIR (PATE DE CACAO",
+      "SUCRE",
+      "LECITHINE DE SOJA",
+      "AROME NATUREL DE VANILLE)",
+      "EAU",
+      "SUCRE",
+      "FLOCONS DE CHOCOLAT (SUCRE",
+      "PATE DE CACAO",
+      "BEURRE DE CACAO",
+      "POUDRE DE LAIT ENT)ER",
+      "P0UDRE DE CACAO FAIBLE EN GRAS",
+      "POUDRE DE LAIT ECREME",
+      "LACTOSE",
+      "LACTOSÉRUM EN POUDRE",
+      "MATIERE GRASSE DE LAIT ANHYDRE",
+      "LECITHINE DE SOJA",
+      "AROME NATUREL DE VANILLE)",
+      "GELATINE",
+      "SEL DE MER",
+      "AROME NATUREL",
+      "SORBATE DE POTASSIUM."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/219/002/0115/front_fr.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Belgian Chocolate Mousse",
+    "marca": "Delici",
+    "ean": "0812190020283",
+    "ingredientes": [
+      "CREAM MOUSSE (CREAM",
+      "SKIM MILK",
+      "VEGETABLE OILS [PALM AND PALM KERNELL SUGAR",
+      "WATER",
+      "FOOD STARCH",
+      "EMULSIFIER [MONO AND DIGLYCERIDES OF FATTY ACIDS) DARK CHOCOLATE (COCOA MASS",
+      "SUGAR",
+      "LOW FAT COCOA POWDER*",
+      "EMULSIFIER (SUNFLOWER LECITHIN) NATURAL VANILLA FLAVOR)",
+      "WATER",
+      "CHOCOLATE SAUCE (GLUCOSE SYRUP",
+      "PALM OIL",
+      "COCOA MASS",
+      "WATER",
+      "SWEETENED CONDENSED MILK (MILK",
+      "SUGAR SUGAR",
+      "LOW FAT COCOA POWDER",
+      "NATURAL FLAVOR",
+      "SALT",
+      "EMULSIFIER [SUNFLOWER LECITHIN)",
+      "THICKENER [XANTHAN GUMI NATURAL VANILLA FLAVOR)",
+      "WATER",
+      "COOKIE CRUMBLE (WHEAT FLOUR",
+      "SUGAR",
+      "VEGETABLE OILS [PALM AND CANOLA COCOA POWDER",
+      "LEAVENINGS (DIPHOSPHATES",
+      "SODIUM BICARBONATES SEA SALT)",
+      "SUGAR",
+      "CHOCOLATE DECORATION (SUGAR",
+      "COCOA BUTTER",
+      "FULL CREAM MILK POWDER",
+      "COCOA MASS",
+      "NATURAL VANILLA FLAVOR)",
+      "LESS THAN 1% SEA SALT AND ETHYL ALCOHOL CONTAINS: MILK AND WHEAT. PRODUCED IN A FACILITY THAT PRODUCES OTHER PRODUCTS THAT CONTAIN EGGS",
+      "SOY AND TREE NUTS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/219/002/0283/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Teeth Tamer",
+    "marca": "Earthley",
+    "ean": "0812192031652",
+    "ingredientes": [
+      "Catnip*",
+      "whole cloves*",
+      "vegetable glycerin*",
+      "and filtered water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/219/203/1652/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blended Premium Oil",
+    "marca": "marmia",
+    "ean": "0812207021913",
+    "ingredientes": [
+      "Refined Sunflower Oil",
+      "Extra Virgin Olive Oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/220/702/1913/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hickory smoked sausage",
+    "marca": "Slovacek's",
+    "ean": "0812224003503",
+    "ingredientes": [
+      "Pork",
+      "beef",
+      "water",
+      "hot pepper cheese (cultured milk",
+      "water",
+      "skim milk",
+      "whey",
+      "jalapeno peppers",
+      "red bell peppers",
+      "sodium",
+      "phosphate",
+      "salt",
+      "sorbic acid",
+      "natural flavor",
+      "enzymes",
+      "powdered cellulose",
+      "potassium sorbate",
+      "natamycin)",
+      "dextrose",
+      "salt",
+      "spices",
+      "sodium phosphate",
+      "sugar",
+      "paprika",
+      "garlic",
+      "monosodium glutamate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jalapeno Cheese Hickory Smoked Sausage",
+    "marca": "Slovacek's",
+    "ean": "0812224008003",
+    "ingredientes": [
+      "Pork",
+      "beef",
+      "water",
+      "cheese (whole milk",
+      "cheese culture",
+      "salt",
+      "enzymes",
+      "annatto coloring",
+      "salt",
+      "corn syrup solids)",
+      "jalapeno",
+      "salt",
+      "sugar",
+      "spices",
+      "sodium phosphate",
+      "paprika",
+      "red pepper",
+      "garlic",
+      "garlic",
+      "monosodium glutamate",
+      "sodium erythorbate",
+      "sodium nitrite."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Walnuts Carmelized",
+    "marca": "Uncle Giuseppe's",
+    "ean": "0812235023170",
+    "ingredientes": [
+      "WALNUTS",
+      "SUGAR",
+      "SUNFLOWER OIL."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/223/502/3170/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "CRANBERRY almond thin cookies",
+    "marca": "THINaddictives",
+    "ean": "0812240004430",
+    "ingredientes": [
+      "ENRICHED UNBLEACHED WHEAT FLOUR",
+      "LIQUID WHOLE EGG",
+      "SUGAR",
+      "CALIFORNIA ALMONDS",
+      "DRIED CRANBERRIES (CRANBERRIES",
+      "SUGAR",
+      "SUNFLOWER OIL)",
+      "RAISINS",
+      "NATURAL AND ARTIFICIAL FLAVOUR",
+      "CINNAMON",
+      "SALT. CONTAINS WHEAT",
+      "EGGS",
+      "AND ALMONDS. MAY CONTAIN: PISTACHIO",
+      "SOY",
+      "BARLEY",
+      "AND OAT."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/224/000/4430/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cranberry almond thin cookies",
+    "marca": "THINaddictives",
+    "ean": "0812240004782",
+    "ingredientes": [
+      "ENRICHED UNGLEACHED FLOUR (WHEAT FLOUR",
+      "NIACIN",
+      "REDUCED IRON",
+      "THIAMIN MONONITRATE",
+      "RIBOFLAVIN",
+      "FOLIC ACIDI. EGGS",
+      "SUGAR",
+      "ALMONDS",
+      "CRANBERRIES (CRANBERRY",
+      "SUGAR",
+      "SUNFLOWER OIL)",
+      "RAISINS",
+      "(RAISINS",
+      "VEGETABLE OIL) NATURAI",
+      "FLAVOR",
+      "CINNAMON",
+      "SALT. CONTAINS: WHEAT",
+      "EGGS",
+      "ALMONDS. MAY CONTAIN: OTHER TREE NUTS",
+      "SOY AND MILK. THINaddictives Inc. Made in Canada"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/224/000/4782/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Berry Blend Almond thin cookies",
+    "marca": "ThinAddictives",
+    "ean": "0812240004898",
+    "ingredientes": [
+      "Enriched Unbleached Flour (Wheat Flour",
+      "Niacin",
+      "Reduced Iron",
+      "Thiamin Mononitrate",
+      "Riboflavin",
+      "Folic acid)",
+      "Eggs",
+      "Sugar",
+      "Almonds",
+      "Cranberries (Cranberry",
+      "Sugar",
+      "Sunflower Oil)",
+      "Raisins (Raisins",
+      "Cottonseed Oil)",
+      "Sunflower Kernels",
+      "Blueberries (Blueberries",
+      "Sugar",
+      "Sunflower Oil)",
+      "Goldenberries",
+      "Natural Flavor",
+      "Salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/224/000/4898/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Artichoke Paste",
+    "marca": "Melchiorri",
+    "ean": "0812244025059",
+    "ingredientes": [
+      "Artichokes",
+      "sunflower oil",
+      "chilli",
+      "water",
+      "salt",
+      "spices and natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ari",
+    "marca": "Ariana Grande",
+    "ean": "0812256020325",
+    "ingredientes": [
+      "Alcohol Denat",
+      "Fragrance (Parfum)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/081/225/602/0325/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Thorntons, continental, assorted milk, white & dark chocolates",
+    "marca": "Thorntons,  Thorntons Plc",
+    "ean": "0812272020002",
+    "ingredientes": [
+      "Sugar. cocoa liquor",
+      "cocoa butter",
+      "whole milk powder",
+      "palm kernel oil",
+      "hazelnuts",
+      "butter (milk)",
+      "almonds",
+      "nonfat dry milk",
+      "low fat cocoa powder - processed with alkali",
+      "lactose (milk)",
+      "water",
+      "glucose syrup (wheat)",
+      "palm oil",
+      "glucose-fructose syrup (wheat)",
+      "milk fat",
+      "coconut oil (contains soy lecithin)",
+      "sorbitol",
+      "heavy cream (milk)",
+      "soy lecithin",
+      "sweetened condensed milk (pasteurized milk",
+      "sugar)",
+      "red wine",
+      "orange juice",
+      "sour cherry juice",
+      "invert sugar",
+      "natural flavors (milk)",
+      "marc de champagne",
+      "whey powder (milk)",
+      "white wine powder",
+      "lemon juice",
+      "chocolate liqueur concentrate (cocoa",
+      "alcohol",
+      "sugar)",
+      "concentrated orange juice",
+      "neutral flavoured spirit",
+      "irish cream liqueur (water",
+      "heavy whipping cream (milk)",
+      "sugar",
+      "alcohol",
+      "milk protein",
+      "whisky",
+      "natural flavor",
+      "maltodextrin",
+      "artificial color",
+      "sodium citrate)",
+      "salt",
+      "orange peel",
+      "invertase",
+      "lemon pulp",
+      "mono_ and diglycerides",
+      "pectin",
+      "vanilla seeds",
+      "sodium bicarbonate",
+      "artificial colors",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  }
+]

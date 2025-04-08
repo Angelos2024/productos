@@ -1,0 +1,3916 @@
+[
+  {
+    "nombre": "La cascada, classic hummus, mild",
+    "marca": "La Cascada",
+    "ean": "0830831000180",
+    "ingredientes": [
+      "Garbanzo chick peas",
+      "non-gmo rice bran oil",
+      "tahini",
+      "lemon juice",
+      "roasted garlic",
+      "extra virgin olive oil",
+      "sea salt",
+      "cumin seeds",
+      "smoked paprika."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Atlantic salmon burgers",
+    "marca": "Macknight Food Group",
+    "ean": "0830859001787",
+    "ingredientes": [
+      "Atlantic salmon (94%)",
+      "bread crumbs",
+      "salt",
+      "lemon powder",
+      "cumin",
+      "coriander",
+      "onion powder",
+      "garlic powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coastal Harbor, Smoked Atlantic Salmon Pastrami",
+    "marca": "The Santa Barbara Smokehouse  Inc.",
+    "ean": "0830859034280",
+    "ingredientes": [
+      "Atlantic salmon",
+      "salt",
+      "sugar",
+      "oakwood smoke."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "De land, crispy oatmeal cookies",
+    "marca": "De Land",
+    "ean": "0831011100225",
+    "ingredientes": [
+      "Gluten free rolled oats",
+      "all purpose flour (garbanzo bean flour",
+      "potato starch",
+      "tapioca flour",
+      "white sorghum flour",
+      "fava bean flour)",
+      "cane sugar",
+      "filtered water",
+      "organic palm oil",
+      "coconut macaroon",
+      "vanilla extract",
+      "baking powder",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gluten Free Oatmeal Bread",
+    "marca": "Deland Bakery",
+    "ean": "0831011100478",
+    "ingredientes": [
+      "Filtered water",
+      "tapioca starch",
+      "rice flour",
+      "sunflower oil",
+      "oats",
+      "potato starch",
+      "cellulose",
+      "contains 2% or less of each of the following: organic flax seed",
+      "corn flour",
+      "corn starch",
+      "rice starch",
+      "psyllium husk",
+      "xanthan gum",
+      "carboxymethylcellulose",
+      "organic evaporated cane juice",
+      "egg whites",
+      "methylcellulose",
+      "yeast",
+      "sea salt",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Millet Chia Bread",
+    "marca": "Deland Bakery",
+    "ean": "0831011100485",
+    "ingredientes": [
+      "Filtered water",
+      "organic millet",
+      "tapioca starch",
+      "rice flour",
+      "sunflower oil",
+      "potato starch",
+      "cellulose. contains 2% or less of each of the following: chia seed",
+      "organic flax seed",
+      "corn flour",
+      "corn starch",
+      "rice starch",
+      "psyllium husk",
+      "xanthan gum",
+      "organic evaporated cane juice",
+      "egg whites",
+      "methylcellulose",
+      "yeast",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deland bakery, rice bread",
+    "marca": "Deland Bakery",
+    "ean": "0831011100522",
+    "ingredientes": [
+      "Filtered water",
+      "tapioca starch",
+      "rice flour",
+      "sunflower oil",
+      "organic brown rice flour",
+      "potato starch",
+      "cellulose",
+      "contains 2% or less of each of the following: organic flax seed",
+      "corn flour",
+      "corn starch",
+      "rice starch",
+      "psyllium husk",
+      "xanthan gum",
+      "carboxymethylcellulose",
+      "organic evaporated cane juice",
+      "egg whites",
+      "methylcellulose",
+      "yeast",
+      "salt",
+      "enzymes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deland bakery, organic millet flax chips",
+    "marca": "Deland Bakery",
+    "ean": "0831011100911",
+    "ingredientes": [
+      "Organic spelt flour",
+      "filtered water",
+      "organic cut yellow millet",
+      "organic sunflower oil",
+      "organic milled golden flax",
+      "organic brown flax seeds",
+      "sea salt",
+      "organic brown rice flour",
+      "organic unfiltered apple cider vinegar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gluten Free Granola",
+    "marca": "Deland Bakery",
+    "ean": "0831011102021",
+    "ingredientes": [
+      "Gluten free rolled oats",
+      "honey",
+      "organic maple syrup",
+      "cranberry",
+      "sunflower oil",
+      "organic flax seeds",
+      "organic sesame seeds",
+      "organic hulled pumpkin seeds",
+      "organic hulled sunflower seeds",
+      "organic shredded coconut",
+      "vanilla extract",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almond Granola",
+    "marca": "Deland Bakery",
+    "ean": "0831011102069",
+    "ingredientes": [
+      "Gluten free rolled oats",
+      "almonds",
+      "honey",
+      "organic maple syrup",
+      "sunflower oil",
+      "organic flax seeds",
+      "organic sesame seeds",
+      "organic hulled pumpkin seeds",
+      "organic hulled sunflower seeds",
+      "organic shredded coconut",
+      "vanilla extract",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Country Bread",
+    "marca": "Deland Bakery",
+    "ean": "0831011102427",
+    "ingredientes": [
+      "Organic Wheat flour (Organic High Gluten Flour",
+      "Organic White Whole Wheat Flour)",
+      "Filtered Water",
+      "Enzymes",
+      "Organic Palm Oil",
+      "Sea Salt",
+      "Organic Evaporated Cane Juice",
+      "Yeast Contains: Wheat"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/101/110/2427/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Granola",
+    "marca": "Deland Bakery",
+    "ean": "0831011102939",
+    "ingredientes": [
+      "Gluten free rolled oats",
+      "almonds",
+      "honey",
+      "organic maple syrup",
+      "sunflower oil",
+      "organic flax seeds",
+      "organic sesame seeds",
+      "organic hulled pumpkin seeds",
+      "organic hulled sunflower seeds",
+      "organic shredded coconut",
+      "vanilla extract",
+      "sea salt",
+      "dark chocolate coating: evaporated cane juice",
+      "natural chocolate liquor (non-alcoholic)",
+      "non-dairy cocoa butter."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deland, gluten free oatmeal raisin cookies",
+    "marca": "Deland",
+    "ean": "0831011103004",
+    "ingredientes": [
+      "Rice flour",
+      "cane sugar",
+      "tapioca starch",
+      "corn starch",
+      "frozen eggs",
+      "molasses",
+      "organic palm oil",
+      "filtered water",
+      "raisins",
+      "rolled oats",
+      "cinnamon powder",
+      "natural flavor",
+      "baking soda (sodium bicarbonate)",
+      "sunflower oil",
+      "xanthan",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "De land, gluten free chocolate chip cookies",
+    "marca": "De Land",
+    "ean": "0831011103011",
+    "ingredientes": [
+      "Rice flour",
+      "cane sugar",
+      "tapioca starch",
+      "corn starch",
+      "frozen eggs",
+      "molasses",
+      "organic palm oil",
+      "filtered water",
+      "chocolate chips [evaporated cane juice",
+      "natural chocolate liquor (non-alcoholic)",
+      "non dairy cocoa butter]",
+      "cinnamon powder",
+      "and 2% or less of each of the following: sea salt",
+      "natural flavor",
+      "baking soda (sodium bicarbonate)",
+      "sunflower oil",
+      "xanthan gum",
+      "enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sparkling Juice - Kiwi Berry",
+    "marca": "The Switch",
+    "ean": "0831012003631",
+    "ingredientes": [
+      "APPLE JUICE (CARBONATED WATER",
+      "APPLE JUICE CONCENTRATE)",
+      "GRAPE JUICE (CARBONATED WATER",
+      "GRAPE JUICE CONCENTRATE)",
+      "ASCORBIC ACID (VITAMIN C)",
+      "NATURAL FLAVOR",
+      "KIWI JUICE (CARBONATED WATER",
+      "KIWI JUICE CONCENTRATE)",
+      "RASPBERRY JUICE (CARBONATED WATER",
+      "RASPBERRY JUICE CONCENTRATE) STRAWBERRY JUICE (CARBONATED WATER",
+      "STRAWBERRY JUICE CONCENTRATE)",
+      "CITRIC ACID"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/101/200/3631/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pitted Green Olives",
+    "marca": "Mediterranean Bistro",
+    "ean": "0831026000329",
+    "ingredientes": [
+      "Pitted green olives",
+      "water",
+      "salt",
+      "lactic acid",
+      "citric acid",
+      "vinegar",
+      "marjoram."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Stuffed Green Olives",
+    "marca": "Mediterranean Bistro",
+    "ean": "0831026000336",
+    "ingredientes": [
+      "Pitted green olives",
+      "red bell pepper",
+      "water",
+      "salt",
+      "sodium alginate",
+      "guar gum",
+      "lactic acid",
+      "citric acid",
+      "vinegar",
+      "marjoram."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mediterranean bistro whole green olives",
+    "marca": "Mediterranean Bistro",
+    "ean": "0831026000350",
+    "ingredientes": [
+      "Whole green olives",
+      "water",
+      "salt",
+      "lactic acid",
+      "citric acid",
+      "vinegar",
+      "marjoram."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Delice Double Chocolate Swiss Roll",
+    "marca": "Le Gateau",
+    "ean": "0831026000701",
+    "ingredientes": [
+      "Sugar",
+      "wheat flour",
+      "corn syrup",
+      "eggs",
+      "water",
+      "vegetable oil shortening (palm)",
+      "reduced fat cocoa powder",
+      "corn starch",
+      "sorbitol",
+      "dried whey",
+      "leavening (baking soda",
+      "sodium acid pyrophosphate)",
+      "emulsifiers (mono- & diglycerides",
+      "polyglycerol esters of fatty"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Le gateau, delice swiss roll, red velvet",
+    "marca": "Le Gateau",
+    "ean": "0831026000749",
+    "ingredientes": [
+      "Sugar",
+      "wheat flour",
+      "corn syrup",
+      "eggs",
+      "water",
+      "vegetable oil shortening (palm)",
+      "corn starch",
+      "sorbitol",
+      "dried whey",
+      "reduced fat cocoa powder",
+      "leavening (baking soda",
+      "sodium acid pyrophosphate)",
+      "emulsifiers (mono - & diglycerides",
+      "polyglycerol esters of fatty acids)",
+      "dried whole milk",
+      "salt",
+      "flavor",
+      "potassium sorbate (as preservative)",
+      "xanthan gum",
+      "citric acid",
+      "fd&c red no. 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mini Cream Cookies Cream Filled Biscuits, Assorted",
+    "marca": "One World Brands",
+    "ean": "0831026000992",
+    "ingredientes": [
+      "Vanilla biscuit with banana cream filling - ingredients: wheat flour",
+      "cream 21% [sugar",
+      "non-hydrogenated vegetable oil (palm)",
+      "corn starch",
+      "dextrose",
+      "milk solids",
+      "emulsifier (soya lecithin",
+      "e322",
+      "glycerol mono stearate",
+      "e471)",
+      "natural identical banana fla"
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "e471)",
+        "razon": "Contiene e471), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "imagen no disponible",
+    "tahor": false,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole red peppers",
+    "marca": "Lera",
+    "ean": "0831041006207",
+    "ingredientes": [
+      "RED PEPPERS",
+      "WATER",
+      "SALT",
+      "SUGAR",
+      "CITRIC ACID AND CALCIUM CHLORIDE."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/104/100/6207/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Puerto Rico"
+  },
+  {
+    "nombre": "Vinaigrette japonaise originale sésame",
+    "marca": "null",
+    "ean": "0831048000215",
+    "ingredientes": [
+      "CANOLA OIL",
+      "WATER",
+      "RICE VINEGAR",
+      "SOYA SAUCE NATER",
+      "WHEAT",
+      "SOYBEANS",
+      "SALT",
+      "SODIUM BENZOATEL ONI SUGAR",
+      "SESAME OIL",
+      "PASTEURIZED FROZEN EGG YOLK SEA SAL",
+      "GARLIC POWDER",
+      "XANTHAN GUM",
+      "LACTIC ACIO",
+      "POTASSUM SORBATE",
+      "SODIUM BENZOATE",
+      "CALCIUM DISODIUM EDTA. SHAKE WELL REFAIGERATE AFTER OPENING INGREDIENTS HUILE DE CANOLA",
+      "EAU",
+      "VINAIGRE DE RIZ",
+      "SAUCE SOJA (EAU",
+      "BLÉ",
+      "FÉVES DE SOJA",
+      "SEL",
+      "BENZOATE DE SODIUM SODIUM",
+      "EDTA DE CALCIUM DISODIQUE. INGREDIENTS CANADIENSET IMPORTES MONTREAL",
+      "OC H4C 1S7 O2017 WAFILING pue n 0 ge iers"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/104/800/0215/front_fr.19.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Spread",
+    "marca": "Mafu",
+    "ean": "0831048002318",
+    "ingredientes": [
+      "Canola oil",
+      "water",
+      "rice vinegar",
+      "egg yolk",
+      "sugar",
+      "modified corn starch",
+      "sea salt",
+      "spinach powder",
+      "lemon juice concentrate",
+      "horseradish powder",
+      "xanthan gum",
+      "wasabi oil",
+      "natural flavor",
+      "mustard oil",
+      "capsicum (chili) oil",
+      "and lactic acid",
+      "citric acid",
+      "potassium sorbate",
+      "sodium benzoate and calcium disodium edta as preservatives."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Los angeles salad company, french beans",
+    "marca": "Los Angeles Salad Company",
+    "ean": "0831129006136",
+    "ingredientes": [
+      "French beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Los angeles salad company, chinese snow peas",
+    "marca": "Los Angeles Salad Company",
+    "ean": "0831129006228",
+    "ingredientes": [
+      "Chinese snow peas."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% apple cider",
+    "marca": "Country Acres Cider & Produce Inc.",
+    "ean": "0831134000105",
+    "ingredientes": [
+      "Apples",
+      "<.1% potassium sorbate and/or sodium benzoate to maintain freshness."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Apple cider",
+    "marca": "Country Acres Cider & Produce Inc.",
+    "ean": "0831134000594",
+    "ingredientes": [
+      "Apples",
+      "less than .1% of potassium sorbate and or sodium benzoate to maintain freshness*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "100% apple cider",
+    "marca": "Country Acres Cider & Produce Inc.",
+    "ean": "0831134000617",
+    "ingredientes": [
+      "Apples",
+      "less than .1% of potassium sorbate and or sodium benzoate to maintain freshness*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Strawberry Lemonade",
+    "marca": "Country Acres Cider & Produce Inc.",
+    "ean": "0831134002017",
+    "ingredientes": [
+      "Water",
+      "cane sugar",
+      "lemon pulp",
+      "natural flavors",
+      "citric acid",
+      "natural color",
+      "and less than .1% potassium sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemonade",
+    "marca": "Country Acres Cider & Produce Inc.",
+    "ean": "0831134002024",
+    "ingredientes": [
+      "Water",
+      "cane sugar",
+      "lemon juice concentrate",
+      "natural flavors",
+      "sodium citrate",
+      "sodium benzoate and/or potassium sorbate to maintain freshness*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pink Lemonade",
+    "marca": "Country Acres Cider & Produce Inc.",
+    "ean": "0831134002079",
+    "ingredientes": [
+      "Water",
+      "cane sugar",
+      "lemon pulp",
+      "natural flavors",
+      "citric acid",
+      "natural color",
+      "and less than .1% potassium sorbate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Black Forest Chocolate Mousse Cake With Brandied Cherries",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193004021",
+    "ingredientes": [
+      "Sugar",
+      "water",
+      "cherries",
+      "cream",
+      "unbleached wheat cake flour",
+      "dark chocolate (unsweetened cocoa",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin",
+      "vanilla)",
+      "expeller pressed canola oil",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "cocoa powder processed with alkali",
+      "egg white powder",
+      "rum",
+      "baking powder (sodium bicarbonate",
+      "sodium acid pyrophosphate",
+      "potato starch)",
+      "salt",
+      "orange liqueur",
+      "vanilla",
+      "brandy",
+      "gelatin (bovine)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lemon meringue",
+    "marca": "Looka Patisserie",
+    "ean": "0831193004212",
+    "ingredientes": [
+      "Graham cracker (enriched wheat flour [contains niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid]",
+      "graham flour",
+      "sugar",
+      "palm oil",
+      "brown sugar",
+      "honey",
+      "salt",
+      "baking soda",
+      "artificial flavor)",
+      "lemon juice",
+      "sugar",
+      "butter",
+      "egg",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "egg white",
+      "water",
+      "almond",
+      "cornstarch",
+      "egg white powder",
+      "gelatin (bovine)",
+      "modified cornstarch",
+      "xanthan gum",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Ganache Cake, Dark Chocolate",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193004229",
+    "ingredientes": [
+      "Sugar",
+      "cream",
+      "water",
+      "butter",
+      "dark chocolate (unsweetened cocoa",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin",
+      "vanilla)",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "unbleached wheat cake flour",
+      "cocoa powder processed with alkali",
+      "expeller pressed canola oil",
+      "white chocolate (sugar",
+      "cocoa butter",
+      "nonfat dry milk",
+      "soy lecithin",
+      "vanilla)",
+      "egg white powder",
+      "inverted sugar",
+      "white chocolate coating (sugar",
+      "vegetable fat [palm",
+      "palm kernel]",
+      "whole milk powder",
+      "whey powder [milk]",
+      "dry buttermilk",
+      "lactose (milk)",
+      "soy lecithin",
+      "natural vanilla extract)",
+      "rum",
+      "baking powder (sodium bicarbonate",
+      "sodium acid pyrophosphate",
+      "potato starch)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Mousse Cake, Tiramisu, Coffee And Mascarpone",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193004298",
+    "ingredientes": [
+      "Water",
+      "sugar",
+      "cream",
+      "egg white",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "dark chocolate (unsweetened cocoa",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin",
+      "vanilla)",
+      "unbleached wheat flour",
+      "mascarpone",
+      "cream cheese (pasteurized cultured milk and cream",
+      "salt",
+      "xanthan gum)",
+      "expeller canola oil",
+      "butter",
+      "coffee",
+      "brandy",
+      "inverted sugar",
+      "lemon",
+      "cocoa butter",
+      "egg white powder",
+      "gelatin",
+      "rum",
+      "baking powder (sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "cornstarch",
+      "monocalcium phosphate)",
+      "vanilla",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Ganache Cake, Chocolate",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006223",
+    "ingredientes": [
+      "Sugar",
+      "cream (milk)",
+      "water",
+      "butter (cream [milk]",
+      "dark chocolate (unsweetened cocoa",
+      "sugar cocoa butter",
+      "soy lecithin",
+      "vanilla)",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "unbleached wheat cake flour",
+      "cocoa powder processed with alkali",
+      "expeller pressed canola oil",
+      "egg white powder",
+      "inverted sugar",
+      "rum",
+      "baking powder (sodium bicarbonate",
+      "sodium acid pyrophosphate",
+      "potato starch)",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Classic Tiramisu Cake",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006292",
+    "ingredientes": [
+      "Water",
+      "sugar",
+      "cream (milk)",
+      "egg white",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "dark chocolate (unsweetened cocoa",
+      "sugar",
+      "cocoa butter (cream",
+      "[milk])",
+      "soy lecithin",
+      "vanilla)",
+      "unbleached wheat cake flour",
+      "mascarpone (pasteurized milk and cream",
+      "citric acid)",
+      "cream cheese (pasteurized cultured milk and cream",
+      "salt",
+      "xanthan gum)",
+      "expeller pressed canola oil",
+      "butter (cream [milk])",
+      "coffee",
+      "brandy",
+      "inverted sugar",
+      "lemon juice",
+      "cocoa butter",
+      "egg white powder",
+      "gelatin (bovine)",
+      "rum",
+      "baking powder (sodium acid pyrophosphate",
+      "sodium bicarbonate",
+      "cornstarch",
+      "monocalcium phosphate)",
+      "vanilla",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macaron Pistachio",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006315",
+    "ingredientes": [
+      "Sugar",
+      "almond meal",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "egg white",
+      "cream (milk)",
+      "butter (cream [milk])",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "pistachio",
+      "water",
+      "modified starch",
+      "natural color (spirulina",
+      "turmeric)",
+      "expeller pressed canola oil",
+      "egg white powd"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macaron Chocolate Cookie",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006322",
+    "ingredientes": [
+      "Dark chocolate (unsweetened cocoa",
+      "sugar",
+      "cocoa butter",
+      "soy lecithin",
+      "vanilla)",
+      "sugar",
+      "almond meal powdered sugar (sugar cornstarch)",
+      "egg white",
+      "cream (milk)",
+      "butter (cream [milk])",
+      "water",
+      "cocoa powder processed with alkali",
+      "egg white powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macaron Meringue Cookies, Vanilla",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006339",
+    "ingredientes": [
+      "Sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg white",
+      "cream (milk)",
+      "butter (cream [milk])",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "water",
+      "vanilla",
+      "modified starch",
+      "egg white powder",
+      "gelatin (bovine)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macaroons, Chocolate, Vanilla",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006612",
+    "ingredientes": [
+      "Chocolate: dark chocolate (cocoa liquor",
+      "sugar",
+      "soya lecithin",
+      "vanilla)",
+      "sugar",
+      "almond meal",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "egg white",
+      "cream (milk)",
+      "water",
+      "butter (cream [milk])",
+      "cocoa powder processed with alkali",
+      "egg white powder. vanilla: sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg white",
+      "cream (milk)",
+      "butter (cream [milk])",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "water",
+      "vanilla",
+      "modified cornstarch",
+      "gelatin (bovine)",
+      "egg white powder."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macarons, Chocolate, Pistachio",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006629",
+    "ingredientes": [
+      "Chocolate: dark chocolate (cocoa liquor",
+      "sugar",
+      "soya lecithin",
+      "vanilla)",
+      "sugar",
+      "almond meal",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "egg white",
+      "cream (milk)",
+      "water",
+      "butter (cream [milk])",
+      "cocoa powder processed with alkali",
+      "egg white powder. pistachio: sugar",
+      "powdered sugar (sugar cornstarch)",
+      "almond meal",
+      "butter (cream [milk])",
+      "egg white",
+      "cream (milk)",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "water",
+      "pistachio",
+      "modified cornstarch",
+      "spinach",
+      "expeller pressed canola oil",
+      "egg white powder",
+      "gelatin (bovine)",
+      "almond oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macarons, Raspberry, Pistachio",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006636",
+    "ingredientes": [
+      "Raspberry: sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg white",
+      "raspberry",
+      "sugared egg yolk",
+      "sugar)",
+      "butter (cream [milk])",
+      "water",
+      "cream (milk)",
+      "raspberry paste (glucose syrup",
+      "invert sugar syrup",
+      "raspberry pulp",
+      "citric acid",
+      "ethyl alcohol",
+      "concentrated elderberry juice",
+      "modified starch",
+      "sodium citrate",
+      "maltol)",
+      "modified cornstarch",
+      "lemon juice",
+      "raspberry liquor",
+      "gelatin (bovine)",
+      "egg white powder",
+      "carmine. pistachio: sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "butter (cream [milk])",
+      "egg white",
+      "cream (milk)",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "water",
+      "pistachio",
+      "modified cornstarch",
+      "spinach",
+      "expeller pressed canola oil",
+      "egg white powder",
+      "gelatin (bovine)",
+      "almond oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macaroons, Vanilla & Raspberry",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006643",
+    "ingredientes": [
+      "Vanilla: sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg white",
+      "cream (milk)",
+      "butter (cream [milk])",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "water",
+      "vanilla",
+      "modified cornstarch",
+      "gelatin (bovine)",
+      "egg white powder. raspberry: sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg white",
+      "raspberry",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "butter (cream [milk])",
+      "water",
+      "cream (milk)",
+      "raspberry paste (glucose syrup",
+      "invert sugar syrup",
+      "raspberry pulp",
+      "citric acid",
+      "ethyl alcohol",
+      "concentrated elderberry juice",
+      "modified starch",
+      "sodium citrate",
+      "maltol)",
+      "modified cornstarch",
+      "lemon juice",
+      "raspberry liquor",
+      "gelatin (bovine)",
+      "egg white powder",
+      "carmine."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Macaroons, Vanilla, Raspberry, Pistachios",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193006698",
+    "ingredientes": [
+      "Vanilla: sugar",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg while cream milk)",
+      "butter (cream [milk])",
+      "sugared egg yolk (egg yolk sugar)",
+      "water",
+      "vanilla",
+      "modified cornstarch",
+      "rice flour",
+      "gelatin (bovine)",
+      "egg white powder raspberry sugar powdered sugar (sugar",
+      "cornstarch)",
+      "almond meal",
+      "egg white",
+      "raspberry",
+      "sugared egg yolk (egg yolk sugar)",
+      "butter (cream [milk])",
+      "water",
+      "cream milk) raspberry paste (glucose syrup",
+      "invert sugar syrup raspberry pulp. citric acid",
+      "ethyl alcohol concentrated elderberry juice",
+      "modified starch",
+      "sodium citrate",
+      "maltol)",
+      "modified cornstarch",
+      "lemon juice raspberry liquor",
+      "rice flour",
+      "gelatin (bovine) egg white powder",
+      "carmine pistachio sugar",
+      "almond meal",
+      "powdered sugar (sugar",
+      "cornstarch)",
+      "egg white",
+      "cream (milk)",
+      "butter (cream [milk]) sugared egg yolk (egg yolk sugar)",
+      "pistachio water modified starch",
+      "natural color (spirulina turmeric) expeller pressed canola oil egg white powder gelatin (bovine)",
+      "almond oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisserie, Artisan Mouse Cake, Coconut Mango",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193007633",
+    "ingredientes": [
+      "Cream (milk)",
+      "water",
+      "sugar",
+      "mango puree",
+      "unbleached wheat flour",
+      "egg white",
+      "expeller pressed canola oil",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "passionfruit juice",
+      "coconut milk powder (coconut extract",
+      "maltodextrin",
+      "sodium caseinate",
+      "tri-calcium phosphate)",
+      "glaze (sugar",
+      "water",
+      "glucose-fructose syrup",
+      "pectin",
+      "citric acid",
+      "trisodium citrate)",
+      "egg white powder",
+      "coconut",
+      "passionfruit concentrate",
+      "gelatin (bovine)",
+      "rum",
+      "modified starch",
+      "salt",
+      "guar gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Looka Patisseire, Artisian Mousse Cake, Raspberry",
+    "marca": "The French Patisserie  Inc.",
+    "ean": "0831193007640",
+    "ingredientes": [
+      "Cream (milk)",
+      "water",
+      "sugar",
+      "raspberry puree",
+      "white chocolate (sugar",
+      "cocoa butter",
+      "nonfat dry milk",
+      "soy lecithin",
+      "vanilla)",
+      "unbleached wheat flour",
+      "egg white liquid",
+      "expeller pressed canola oil",
+      "sugared egg yolk (egg yolk",
+      "sugar)",
+      "glaze (sugar",
+      "water",
+      "glucose-fructose syrup",
+      "pectin",
+      "citric acid",
+      "trisodium citrate)",
+      "pistachio",
+      "egg white powder",
+      "baking powder (sodium bicarbonate",
+      "sodium acid pyrophosphate",
+      "potato starch)",
+      "modified starch",
+      "hibiscus powder",
+      "salt",
+      "guar gum."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Harpers homemade bread",
+    "marca": "Harper’s Homemade",
+    "ean": "0831201002223",
+    "ingredientes": [
+      "enriched wheat flour water wheat bran sugar salt potato flour wheat fiber yeast soybean oil vinegar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/120/100/2223/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pšenični polbeli kruh",
+    "marca": "spar,despar",
+    "ean": "0831255314167",
+    "ingredientes": [
+      "Pšenična polbela moka",
+      "voda",
+      "kvas",
+      "jedilna sol",
+      "emulgator: E472e",
+      "sredstvo za obdelavo moke: askorbinska kislina. Lahko vsebuje sledove mleka",
+      "jajc",
+      "soje in sezama."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "emulgator: E472e",
+        "razon": "Contiene emulgator: E472e, impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/125/531/4167/front_sl.10.400.jpg",
+    "tahor": false,
+    "pais": "Italy"
+  },
+  {
+    "nombre": "Celery",
+    "marca": "Pascal",
+    "ean": "0831331005255",
+    "ingredientes": [
+      "celery."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/133/100/5255/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Green Beans",
+    "marca": "Covilli",
+    "ean": "0831344000018",
+    "ingredientes": [
+      "Organic green beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ludo, bubblegum cane",
+    "marca": "Ludo",
+    "ean": "0831366005206",
+    "ingredientes": [
+      "Sugar",
+      "chewing gum base",
+      "corn syrup",
+      "corn starch",
+      "glyceryl stearate",
+      "artificial flavor",
+      "soy lecithin",
+      "malic acid",
+      "glycerine",
+      "titanium dioxide",
+      "citric acid",
+      "bht (to maintain freshness)",
+      "and artificial colors including red 40."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Santa Head Shaped Candy, Sour",
+    "marca": "Ludo",
+    "ean": "0831366006203",
+    "ingredientes": [
+      "Dextrose",
+      "sugar",
+      "corn syrup",
+      "maltodextrin",
+      "magnesium stearate",
+      "carnauba wax",
+      "arabic gum",
+      "artificial flavors",
+      "artificial colors (fd&c blue 1",
+      "yellow 5",
+      "titanium dioxide)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bubblegum",
+    "marca": "Bubble Bucket",
+    "ean": "0831366007002",
+    "ingredientes": [
+      "Sugar",
+      "gum base",
+      "corn syrup",
+      "corn starch",
+      "citric acid",
+      "soy lecithin",
+      "glycerin",
+      "malic acid",
+      "dextrose",
+      "artificial strawberry flavor",
+      "and artificial colors (fd&c red 40",
+      "yellow 5 and blue 1)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ludo, giant gummy bunny, gummy candy, strawberry",
+    "marca": "Ludo",
+    "ean": "0831366007057",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "water",
+      "gelatin",
+      "sorbitol",
+      "malic acid",
+      "citric acid",
+      "sodium citrate",
+      "titanium dioxide (for color)",
+      "potassium sorbate (preservative)",
+      "artificial flavors and artificial colors (red 3",
+      "red 40",
+      "blue 1",
+      "yellow 5)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Ludo, marshmallow fuzzy bunny candy",
+    "marca": "Ludo",
+    "ean": "0831366007187",
+    "ingredientes": [
+      "Sugar",
+      "corn syrup",
+      "water",
+      "sorbitol",
+      "gelatin",
+      "corn starch",
+      "malic acid",
+      "pectin",
+      "potassium sorbate",
+      "artificial flavors and artificial colors (fd&c red 3",
+      "red 40",
+      "blue 1",
+      "yellow 5)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Non Alcoholic Cider, Pineapple",
+    "marca": "Resfresco Del Caribe",
+    "ean": "0831384002102",
+    "ingredientes": [
+      "Carbonated water",
+      "sugars",
+      "fermented extract of pineapple juice",
+      "spices and citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/138/400/2102/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chocolat noir pure cacao 72%",
+    "marca": "Theobroma",
+    "ean": "0831436001015",
+    "ingredientes": [
+      "Cocoa mass",
+      "cane sugar",
+      "cocoa butter"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/1015/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "60% Dark Chocolate with Raspberry Chunks",
+    "marca": "Theobroma",
+    "ean": "0831436001046",
+    "ingredientes": [
+      "Cocoa mass",
+      "Cane sugar",
+      "Cocoa butter",
+      "Raspberry"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/1046/front_en.24.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "60% Dark Chocolate with Himalayan Salt",
+    "marca": "Theobroma",
+    "ean": "0831436001107",
+    "ingredientes": [
+      "Cocoa mass",
+      "Cane sugar",
+      "Cocoa butter",
+      "Himalayan salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/1107/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "38% Quinoa Crisp & Salted Caramel Milk Chocolate",
+    "marca": "Theobroma",
+    "ean": "0831436001169",
+    "ingredientes": [
+      "Cane sugar",
+      "Cocoa butter",
+      "Whole milk powder",
+      "Cocoa mass",
+      "Quinoa",
+      "Caramel (cane sugar",
+      "glucose syrup",
+      "cream",
+      "butter",
+      "salt)",
+      "Sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/1169/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "38% Sea Salt Milk Chocolate",
+    "marca": "Theobroma",
+    "ean": "0831436006034",
+    "ingredientes": [
+      "Cane sugar",
+      "Cocoa butter",
+      "Whole milk powder",
+      "Cocoa mass",
+      "Fleur de sel (sea salt)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/6034/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pure Dark 70",
+    "marca": "Theobroma",
+    "ean": "0831436006041",
+    "ingredientes": [
+      "Cocoa mass",
+      "Cane sugar",
+      "Cocoa butter"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/6041/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "60% Dark Chocolate with Cherry Chunks",
+    "marca": "Theobroma",
+    "ean": "0831436006058",
+    "ingredientes": [
+      "Cocoa mass",
+      "Cane sugar",
+      "Cocoa butter",
+      "Cherries"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/6058/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Tablette de chocolat noir 95%",
+    "marca": "Theobroma",
+    "ean": "0831436006096",
+    "ingredientes": [
+      "Cocoa mass",
+      "cocoa butter",
+      "cane sugar"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/143/600/6096/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Hamburger Buns",
+    "marca": "Sumano's Bakery",
+    "ean": "0831490060102",
+    "ingredientes": [
+      "Unbleached wheat flour",
+      "water",
+      "sugar",
+      "vegetable shortening",
+      "yeast",
+      "salt and dough conditioner."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cola Champagne",
+    "marca": "Cuzcatian Partners  Llc",
+    "ean": "0831522000021",
+    "ingredientes": [
+      "Carbonated water",
+      "sugar",
+      "and/or corn sweetener",
+      "artificial flavor and color (includes fd&c yellow #6)",
+      "tartrazine",
+      "citric acid",
+      "preserved with sodium benzoate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/152/200/0021/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "402BGBL Golden Baguette",
+    "marca": "Au Pain Dore",
+    "ean": "0831604001991",
+    "ingredientes": [
+      "Unbleached enriched flour. Water",
+      "Sea salt",
+      "Yeast",
+      "Malted barley flour",
+      "Ascorbic acid. Contains: Wheat",
+      "Barley. May contain: Peanuts",
+      "Tree nuts",
+      "Milk",
+      "Eggs",
+      "Soy",
+      "Sesame",
+      "Mustard",
+      "Sulphites."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "baguettines au pain doré",
+    "marca": "au pain doré",
+    "ean": "0831604010030",
+    "ingredientes": [
+      "farine no blanchie enrechie",
+      "eau",
+      "sel de mer",
+      "levure",
+      "farine de l'orge malté",
+      "acide ascorbique."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cary's, Toffee, Milk Chocolate Coconut",
+    "marca": "Cary's Of Oregon  Llc",
+    "ean": "0831617000172",
+    "ingredientes": [
+      "Pure cane sugar",
+      "butter (sweet cream",
+      "salt)",
+      "milk chocolate (sugar",
+      "milk chocolate liquor",
+      "cocoa butter",
+      "lecithin",
+      "pure vanilla)",
+      "almonds",
+      "coconut flavor (water",
+      "ethyl alcohol",
+      "propylene glycol",
+      "natural flavor)",
+      "toasted coconut (organic coconut",
+      "organic sugar",
+      "sea salt)",
+      "baking soda (sodium bicarbonate)",
+      "salt",
+      "soy lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cary's, Milk Chocolate Almond Toffee",
+    "marca": "Cary's Of Oregon  Llc",
+    "ean": "0831617001049",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk chocolate liquor",
+      "cocoa butter",
+      "lecithin",
+      "pure vanilla)",
+      "pure cane sugar",
+      "butter (sweet cream",
+      "salt)",
+      "almonds",
+      "baking soda (sodium bicarbonate)",
+      "lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cary's, Dark Chocolate Espresso Toffee",
+    "marca": "Cary's Of Oregon  Llc",
+    "ean": "0831617003043",
+    "ingredientes": [
+      "Dark chocolate (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "lecithin",
+      "pure vanilla)",
+      "pure cane sugar",
+      "butter (sweet cream",
+      "salt)",
+      "almonds",
+      "coffee beans",
+      "baking soda (sodium bicarbonate)",
+      "lecithin."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cary's, Toffee Milk Chocolate Chai",
+    "marca": "Cary's Of Oregon  Llc",
+    "ean": "0831617004156",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "milk chocolate liquor",
+      "cocoa butter",
+      "lecithin",
+      "pure vanilla)",
+      "pure cane sugar",
+      "butter (sweet cream",
+      "salt)",
+      "almonds",
+      "baking soda (sodium bicarbonate)",
+      "lecithin",
+      "black tea",
+      "cardamon",
+      "ginger root",
+      "cloves & cinnamon bark."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Cary's, Dark Chocolate Almonds With Hawaiian Salt",
+    "marca": "Cary's Of Oregon  Llc",
+    "ean": "0831617005047",
+    "ingredientes": [
+      "Sugar butter (sweet cream",
+      "salt)",
+      "dark chocolate (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "lecithin",
+      "pure vanilla)",
+      "almonds",
+      "hawaiian salt",
+      "baking soda (sodium bicarbonate)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fancy Mixed Raisins",
+    "marca": "Batth Farms",
+    "ean": "0831652000168",
+    "ingredientes": [
+      "Flame raisins",
+      "thompson raisins",
+      "golden raisins and sulfur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mango drink",
+    "marca": "Pran",
+    "ean": "0831730000905",
+    "ingredientes": [
+      "eau",
+      "sucre",
+      "acide citrique (E-330)",
+      "carboxyméthyl cellylose E-466",
+      "acide sobrique",
+      "conservateur : benzoate de sodium (E-211)",
+      "contient les colorants autorisés  (E-102",
+      "E-110) et la saveur ajouté  (mangue)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/173/000/0905/front_fr.12.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Pran Mango Juice 33.8 Oz",
+    "marca": "Pran",
+    "ean": "0831730001681",
+    "ingredientes": [
+      "Eau",
+      "pulpe de mangue 20 %",
+      "sucre",
+      "stabilisant (gomme xanthane (E-415))",
+      "acide citrique (E-330)",
+      "acide ascorbique (E-300)",
+      "conservateur (benzoate de sodium (E-211)",
+      "méta-bisulfite de sodium (E-223))",
+      "acide sorbique",
+      "bêta-carotène (E-160a)",
+      "arôme artificiel (Mangue)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/173/000/1681/front_fr.33.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Dry Cake",
+    "marca": "Pran",
+    "ean": "0831730007065",
+    "ingredientes": [
+      "Farine de _blé_",
+      "sucre",
+      "huile végétale comestible (huile de palme)",
+      "sel",
+      "levure : bicarbonate de sodium (E500) et bicarbonate d'ammonium (E503)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/173/000/7065/front_fr.23.400.jpg",
+    "tahor": true,
+    "pais": "Bangladesh"
+  },
+  {
+    "nombre": "pran hot tomato sauce",
+    "marca": "Pran",
+    "ean": "0831730009472",
+    "ingredientes": [
+      "tomato paste",
+      "sugar",
+      "citic acid (E-330)",
+      "salt",
+      "red chilli",
+      "water",
+      "onion",
+      "starch powder (E-1401)",
+      "Acetic Acid (E-260)",
+      "xanthan Gun (E-415)",
+      "sodium benzoate (E-211) and permitted food color (E-161g)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/173/000/9472/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Bangladesh"
+  },
+  {
+    "nombre": "Frooto Mango drink",
+    "marca": "Pran",
+    "ean": "0831730009489",
+    "ingredientes": [
+      "Water",
+      "Mango Pulp (20%)",
+      "Sugar",
+      "Acidity Regulator (30)",
+      "Stzbliser (440)",
+      "Artificial Mango Flavour",
+      "Preservatives (202",
+      "Salt",
+      "Antioxidant (300)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/173/000/9489/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Snaktastic",
+    "marca": "Lidl",
+    "ean": "08317773",
+    "ingredientes": [
+      "potatoes",
+      "salt",
+      "dried onion",
+      "lactose (milk)",
+      "dried yeast extract",
+      "ground black pepper",
+      "dried cheese (milk)",
+      "acid: citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Ireland"
+  },
+  {
+    "nombre": "Ditka's, real barbecue sauce",
+    "marca": "Ditka's",
+    "ean": "0831799007013",
+    "ingredientes": [
+      "Tomato puree (water",
+      "tomato paste)",
+      "high fructose corn syrup",
+      "worcestershire sauce (molasses",
+      "corn syrup",
+      "salt",
+      "distilled vinegar",
+      "caramel color",
+      "dehydrated garlic and onion",
+      "sugar",
+      "citric acid",
+      "spices",
+      "red peppers",
+      "natural flavorings",
+      "polysorbate 80)",
+      "brown sugar",
+      "honey",
+      "red wine vinegar",
+      "food starch modified",
+      "molasses",
+      "orange juice concentrate",
+      "spices",
+      "salt",
+      "natural flavorings",
+      "less than 0.1% each of potassium sorbate and sodium benzoate (as preservatives)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "eau minérale",
+    "marca": "Ain saiss",
+    "ean": "0831934060460",
+    "ingredientes": [
+      "تاريخ الإنتاج : P. يستهلك قبل ٤ - أنظر القنينة * يحتفظ به في مكان جاف بعيدا عن الشمس و الروائح. Composition de l'eau en mg/L تركيبة الماء مغل Calcium Magnésium 35",
+      "mam conseillé"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/193/406/0460/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Morocco"
+  },
+  {
+    "nombre": "Liberty City Chili, Liberty City Chili, Mild",
+    "marca": "Steel City Chili  Co.",
+    "ean": "0832001009917",
+    "ingredientes": [
+      "Tomatoes",
+      "onions",
+      "water",
+      "green peppers",
+      "great northern beans",
+      "sugar",
+      "butter (cream from cow's milk",
+      "natural flavorings)",
+      "soybean oil",
+      "salt",
+      "modified food starch",
+      "spices",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Liberty City Chili, Hot Sauce",
+    "marca": "Steel City Chili  Co.",
+    "ean": "0832001009924",
+    "ingredientes": [
+      "Tomatoes",
+      "onions",
+      "water",
+      "green peppers",
+      "hot peppers",
+      "great northern beans",
+      "sugar",
+      "butter (cream from cow's milk",
+      "natural flavorings)",
+      "soybean oil",
+      "salt",
+      "modified food starch",
+      "spices",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "brazil nuts",
+    "marca": "Nature's Eats,Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112000643",
+    "ingredientes": [
+      "Brazil nuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, inc., chocolate pretzels",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112000933",
+    "ingredientes": [
+      "Milk chocolate (sugar",
+      "cocoa butter",
+      "milk",
+      "chocolate",
+      "liquor",
+      "soy lecithin (an emulsifier)",
+      "and artificial flavor (vanillin))",
+      "and pretzels [enriched wheat flour",
+      "salt",
+      "corn syrup",
+      "vegetable oil (may contain one or more of the following: corn",
+      "canola",
+      "cottonseed",
+      "soybean)",
+      "sodium bicarbonate",
+      "yeast]."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, wasabi peas",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112000940",
+    "ingredientes": [
+      "Green peas",
+      "glutinous rice",
+      "sugar",
+      "palm oil",
+      "corn starch",
+      "salt",
+      "wasabi powder (maltodextrin",
+      "mustard",
+      "corn starch)",
+      "fd&c blue #1",
+      "fd&c yellow #5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Unsweetened Coconut Chips",
+    "marca": "Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112000988",
+    "ingredientes": [
+      "Coconut",
+      "sulfur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, blanched slivered almonds",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001138",
+    "ingredientes": [
+      "Almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almonds",
+    "marca": "Nature's Eats,Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001145",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole natural almonds",
+    "marca": "Nature's Eats,Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001152",
+    "ingredientes": [
+      "Almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole almonds",
+    "marca": "Nature's Eats,Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001381",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, sliced almonds",
+    "marca": "Nature's Eats",
+    "ean": "0832112001398",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Blanched almond flour",
+    "marca": "Nature's Eats",
+    "ean": "0832112001459",
+    "ingredientes": [
+      "Blanched almond flour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Almonds",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001572",
+    "ingredientes": [
+      "Organic almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Slivered Almonds",
+    "marca": "Nature's Eats",
+    "ean": "0832112001626",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole Almonds",
+    "marca": "Nature's Eats",
+    "ean": "0832112001633",
+    "ingredientes": [
+      "Almonds"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Slivered Almonds",
+    "marca": "Nature's Eats",
+    "ean": "0832112001657",
+    "ingredientes": [
+      "Almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, almonds snack packs",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001848",
+    "ingredientes": [
+      "Almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Whole blanched almonds",
+    "marca": "Nature's Eats,Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001923",
+    "ingredientes": [
+      "Almonds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, roasted salted almods",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112001961",
+    "ingredientes": [
+      "Almonds",
+      "cottonseed",
+      "peanut",
+      "and/or canola oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, natural cashews",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112002210",
+    "ingredientes": [
+      "Cashews"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, roasted salted cashew pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112002234",
+    "ingredientes": [
+      "Cashews",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Golden Raisins",
+    "marca": "Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112002630",
+    "ingredientes": [
+      "Dried seedless grapes",
+      "sulphur dioxide",
+      "vegetable and/or sunflower oil treated."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, inc., pumpkin seeds, roasted salted",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112002654",
+    "ingredientes": [
+      "Pumpkin seeds",
+      "cottonseed peanut and/or canola oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, dried pitted prunes",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112002661",
+    "ingredientes": [
+      "Pitted prunes and potassium sorbate (preservative)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Natural Pistachios",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112002715",
+    "ingredientes": [
+      "Pistachios"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Roasted Salted In Shell Pistachios",
+    "marca": "Nature's Eats",
+    "ean": "0832112002890",
+    "ingredientes": [
+      "Pistachios",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deluxe Mixed Nuts",
+    "marca": "Nature's Eats",
+    "ean": "0832112003576",
+    "ingredientes": [
+      "Cashews",
+      "almonds",
+      "pecans",
+      "brazil nuts",
+      "filberts",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Texas kickin' wasabi",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003620",
+    "ingredientes": [
+      "Roasted salted almonds (almonds",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "cranberries (cranberries",
+      "sugar",
+      "sunflower oil)",
+      "wasabi green peas (peas",
+      "corn starch",
+      "wasabi flavor",
+      "liquid sugar",
+      "palm oil",
+      "sea salt",
+      "fd&c yellow 5 & blue #1)",
+      "golden raisins (dried seedless grapes",
+      "sulphur dioxide",
+      "vegetable and/or sunflower oil treated)",
+      "roasted salted peanuts (peanuts",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, trail mixes, mustang island, macadamia sunrise",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003637",
+    "ingredientes": [
+      "Pineapple (pineapple",
+      "sugar",
+      "citric acid",
+      "sulfur dioxide (as a preservative in promote color retention))",
+      "cranberries (cranberries",
+      "sugar and sunflower oil)",
+      "roasted salted cashews (cashews",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "se salt)",
+      "almonds roasted salted (almonds",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "macadamia nuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, hill country ramblin trail mixes",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003644",
+    "ingredientes": [
+      "Roasted salted almonds (almonds",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "cranberries (cranberries",
+      "sugar",
+      "sunflower oil)",
+      "chocolate baking chips ((semisweet chocolate (cocoa butter",
+      "dextrose) and soya lecithin) and/or (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "dextrose",
+      "soy lecithin (an emulsifier)",
+      "and vanillin (an artificial flavoring))",
+      "roasted salted cashews (cashews",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "pistachios",
+      "cherry flavored cranberries (cranberries",
+      "sugar",
+      "sunflower oil",
+      "natural cherry flavor)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, big blend berry nutty trail mix, berry blend",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003668",
+    "ingredientes": [
+      "Cranberries (cranberries",
+      "sugar",
+      "sunflower oil)",
+      "almonds",
+      "raisins (dried seedless grapes)",
+      "raspberry flavored cranberries (cranberries",
+      "sugar",
+      "sunflower oil",
+      "natural raspberry flavor)",
+      "blueberries (cultivated blueberries",
+      "sugar",
+      "sunflower oil)",
+      "roasted cashews (cashews",
+      "cottonseed",
+      "peanut and/or canola oil)",
+      "walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, port a, sassy salty trail mix",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003675",
+    "ingredientes": [
+      "Honey roasted peanuts (peanuts",
+      "sugar",
+      "honey",
+      "sunflower oil",
+      "salt",
+      "and gum arabic)",
+      "roasted salted peanuts (peanuts",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "peanut brittle (sugar",
+      "corn syrup",
+      "peanuts",
+      "coconut oil",
+      "butter",
+      "salt",
+      "sodium bicarbonate",
+      "soy lecithin (an emulsifier))",
+      "roasted salted almonds (almonds",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "roasted salted cahsews (cashews",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "honey roasted cashews (sugar",
+      "cashews",
+      "butter",
+      "salt",
+      "honey",
+      "soy lecithin)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, texas raspberry chocolate hurricane trail mixes",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003699",
+    "ingredientes": [
+      "Roasted salted peanuts (peanuts",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "salt)",
+      "roasted salted almonds (almonds",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "salt)",
+      "cranberries",
+      "raspberry flavored (cranberries",
+      "sugar",
+      "sunflower oil",
+      "natural raspberry flavor)",
+      "chocolate baking chips (sugar",
+      "chocolate liquor",
+      "cocoa butter",
+      "dextrose",
+      "soy lecithin (an emulsifier)",
+      "and vanillin (an artificial flavoring))"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, chocolate trail mix",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003811",
+    "ingredientes": [
+      "Roasted salted peanuts (peanuts",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt)",
+      "pokies (milk chocolate (sugar",
+      "cocoa butter",
+      "chocolate liquor",
+      "whole milk powder",
+      "soy lecithin added as an emulsifier and vanilla)",
+      "sugar",
+      "artificial color (fd&c blue #1",
+      "blue # 1 lake",
+      "blue #2 lake",
+      "yellow #5",
+      "yellow #5 lake",
+      "yellow #6",
+      "yellow #6 lake",
+      "red # 40",
+      "red # 40 lake",
+      "sorbitol",
+      "titanium dioxide",
+      "phosphoric acid",
+      "methyl and propyl parabens",
+      "caramel)",
+      "corn syrup",
+      "wax",
+      "dextrin)",
+      "raisins (dried seedless grapes)",
+      "raw sunflower kernels."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, simply go raw nut mix",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112003835",
+    "ingredientes": [
+      "Almonds",
+      "pecans",
+      "pistachio kernels."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pecan Pieces",
+    "marca": "Nature's Eats",
+    "ean": "0832112005259",
+    "ingredientes": [
+      "Pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pecan Cookie Pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112005426",
+    "ingredientes": [
+      "Pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, organic pecans",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112005549",
+    "ingredientes": [
+      "Organic pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, pecan halves",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112005808",
+    "ingredientes": [
+      "Pecans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, pecan pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112005815",
+    "ingredientes": [
+      "Pecans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pecan Cookie Pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112005822",
+    "ingredientes": [
+      "Pecans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, roasted salted pecan halves",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112006317",
+    "ingredientes": [
+      "Pecans",
+      "cottonseed",
+      "peanut and/or canola oil",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, texas grown pecan halves",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112006324",
+    "ingredientes": [
+      "Pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, pecan halves",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112006331",
+    "ingredientes": [
+      "Pecans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, pecan pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112006348",
+    "ingredientes": [
+      "Pecans"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chopped Walnuts",
+    "marca": "Nature's Eats",
+    "ean": "0832112007109",
+    "ingredientes": [
+      "Walnuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, chopped walnuts",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112007123",
+    "ingredientes": [
+      "Walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, organic walnuts",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112007246",
+    "ingredientes": [
+      "Organic walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chopped Walnuts",
+    "marca": "Nature's Eats",
+    "ean": "0832112007284",
+    "ingredientes": [
+      "Walnuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, walnut halves & pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112007703",
+    "ingredientes": [
+      "Walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Walnut nuggets",
+    "marca": "Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112007710",
+    "ingredientes": [
+      "Walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, walnut halves & pieces",
+    "marca": "Nature's Eats,  Texas Star Nut & Food Company  Inc.",
+    "ean": "0832112007864",
+    "ingredientes": [
+      "Walnuts."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Nature's eats, california figs",
+    "marca": "Nature's Eats",
+    "ean": "0832112009417",
+    "ingredientes": [
+      "Sierra",
+      "figs",
+      "potassium sorbate",
+      "sulfur dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Handful Of Nature's Finest Eats",
+    "marca": "Nature's Eats",
+    "ean": "0832113003705",
+    "ingredientes": [
+      "Cranberries (dried cranberries",
+      "sugar",
+      "sunflower oil). almonds",
+      "roasted cashews (cashews",
+      "cottonseed",
+      "peanut and/or canola oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Eggplant Spread",
+    "marca": "Apollo Import Export",
+    "ean": "0832125003723",
+    "ingredientes": [
+      "Eggplant",
+      "red pepper",
+      "onion",
+      "tomato",
+      "puree",
+      "sunflower oil",
+      "salt",
+      "sugar",
+      "dill",
+      "parsley",
+      "carrot."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Eggplant Caviar",
+    "marca": "Proshyan Brandy Factory Llc",
+    "ean": "0832125003730",
+    "ingredientes": [
+      "Eggplant",
+      "red pepper",
+      "onion",
+      "tomato",
+      "puree",
+      "sunflower oil",
+      "salt",
+      "sugar",
+      "dill",
+      "parsley",
+      "carrot."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Baked vegetables",
+    "marca": "Proshyan Brandy Factory Llc",
+    "ean": "0832125003761",
+    "ingredientes": [
+      "Eggplant",
+      "tomato",
+      "pepper",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Imam Bayaldi",
+    "marca": "Proshyan Brandy Factory Llc",
+    "ean": "0832125003778",
+    "ingredientes": [
+      "Eggplant",
+      "pepper",
+      "onion",
+      "tomato puree",
+      "garlic",
+      "sunflower oil",
+      "sugar",
+      "salt",
+      "spice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Russian Style Marinated Cucumber",
+    "marca": "Proshyan Brandy Factory Llc",
+    "ean": "0832125003808",
+    "ingredientes": [
+      "Pickles",
+      "salt",
+      "acetic acid",
+      "garlic",
+      "spice."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Marinated Red Pepper",
+    "marca": "Proshyan Brandy Factory Llc",
+    "ean": "0832125003815",
+    "ingredientes": [
+      "Red pepper",
+      "garlic",
+      "sunflower oil",
+      "spice",
+      "salt",
+      "vinegar",
+      "parsley",
+      "celery."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Kefir Polski",
+    "marca": "Elwest",
+    "ean": "0832139000978",
+    "ingredientes": [
+      "SKIM MILK",
+      "SKIM MILK POWDER",
+      "CREAM",
+      "BACTERIAL CULTURE",
+      "PROBIOICS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/213/900/0978/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Gourmet Dill Pickles",
+    "marca": "Choice",
+    "ean": "0832152002003",
+    "ingredientes": [
+      "Cucumber",
+      "vinegar",
+      "sugar",
+      "salt",
+      "water",
+      "mustard seeds",
+      "onion",
+      "dill."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Gourmet Tortilla Chips, Thick And Hearty Toasted Corn",
+    "marca": "Laurie Buffalo Gourmet",
+    "ean": "0832182004534",
+    "ingredientes": [
+      "Corn",
+      "vegetable oil (contains one or more of the following: canola oil",
+      "corn oil",
+      "cottonseed oil",
+      "safflower oil",
+      "soybean oil",
+      "sunflower oil)",
+      "salt",
+      "trace of lime."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beef Ribeye Steak",
+    "marca": "Stony Fork Farms",
+    "ean": "0832237003543",
+    "ingredientes": [
+      "Water",
+      "potassium lactate",
+      "fructose",
+      "hydrolyzed soy protein",
+      "salt",
+      "sodium phosphates",
+      "flavor. rubbed with: salt",
+      "spices (including black pepper and red pepper)",
+      "garlic",
+      "partially hydrogenated soybean and cottonseed oil",
+      "and natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Middle Earth Organics, Organic Tomato & Basil Sauce",
+    "marca": "Terre Di Sangiorgio Srl",
+    "ean": "0832279002016",
+    "ingredientes": [
+      "Organic tomatoes",
+      "organic extra virgin olive oil",
+      "organic onion",
+      "organic carrot",
+      "organic basil",
+      "organic celery",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Middle Earth Organics, Organic Tomato & Grilled Eggplant Sauce",
+    "marca": "Terre Di Sangiorgio Srl",
+    "ean": "0832279002023",
+    "ingredientes": [
+      "Organic tomatoes",
+      "organic eggplant",
+      "organic extra virgin olive oil",
+      "organic onion",
+      "organic carrot",
+      "organic celery",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Middle Earth Organics, Organic Tomato & Porcini Mushroom Sauce",
+    "marca": "Terre Di Sangiorgio Srl",
+    "ean": "0832279002030",
+    "ingredientes": [
+      "Organic tomatoes",
+      "organic extra virgin olive oil",
+      "organic porcini mushrooms",
+      "organic carrot",
+      "organic celery",
+      "organic onion",
+      "organic parsley",
+      "organic basil",
+      "sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Middle Earth Organics, Organic Tomato Sauce With Olives And Capers",
+    "marca": "Terre Di Sangiorgio Srl",
+    "ean": "0832279002054",
+    "ingredientes": [
+      "Organic tomatoes",
+      "organic black peranzana olives",
+      "organic extract virgin olive oil",
+      "organic capers",
+      "organic garlic",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sweet Potatoes",
+    "marca": "Ham's Yams",
+    "ean": "0832298010009",
+    "ingredientes": [
+      "Sweet potatoes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/229/801/0009/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Golden Round Crackers",
+    "marca": "Whole Foods Market",
+    "ean": "08323411",
+    "ingredientes": [
+      "organic enriched wheat flour (organic wheat flour",
+      "niacin",
+      "reduced iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "organic expeller pressed palm oil",
+      "organic cane sugar",
+      "salt",
+      "leavening (ammonium bicarbonate",
+      "monocalcium phosphate",
+      "sodium bicarbonate)",
+      "organic evaporated cane sugar",
+      "organic malted barley extract",
+      "microbial enzymes."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/832/3411/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Terranova Bakery, Plain Pizza Dough",
+    "marca": "Terranova Bread  Inc.",
+    "ean": "0832443003016",
+    "ingredientes": [
+      "Enriched wheat flour",
+      "(niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "malted barley flour",
+      "water",
+      "extra virgin olive oil",
+      "salt",
+      "brown sugar",
+      "yeast."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Terranova Bakery, Whole Wheat Pizza Dough",
+    "marca": "Terranova Bread  Inc.",
+    "ean": "0832443003023",
+    "ingredientes": [
+      "Whole wheat flour",
+      "water",
+      "extra virgin olive oil",
+      "salt",
+      "brown sugar",
+      "yeast."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Terranova Bakery, Multigrain Pizza Dough",
+    "marca": "Terranova Bread  Inc.",
+    "ean": "0832443003030",
+    "ingredientes": [
+      "Enriched wheat flour",
+      "(niacin",
+      "iron",
+      "thiamine mononitrate",
+      "riboflavin",
+      "folic acid)",
+      "malted barley flour",
+      "whole wheat flour",
+      "water",
+      "extra virgin olive oil",
+      "salt",
+      "brown sugar",
+      "molasses",
+      "sugar",
+      "oats",
+      "sunflower seeds",
+      "millet",
+      "flax seed",
+      "cracked wheat",
+      "yeast (contains 2% or less of: lactic acid",
+      "sea salt",
+      "cultured wheat starch)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duchess, yellow cling peach slices in light syrup",
+    "marca": "Duchess",
+    "ean": "0832460000166",
+    "ingredientes": [
+      "Peaches",
+      "water",
+      "sugar",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duchess, tropical fruits salad in light syrup",
+    "marca": "Duchess",
+    "ean": "0832460000456",
+    "ingredientes": [
+      "Pineapple. red papaya",
+      "yellow papaya",
+      "guava",
+      "water",
+      "sugar",
+      "passion fruit juice and ascorbic acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duchess, mandarin orange segment in light syrup",
+    "marca": "Duchess",
+    "ean": "0832460000548",
+    "ingredientes": [
+      "Mandarin orange segments",
+      "water",
+      "sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duchess Lifht Tuna in Water",
+    "marca": "Duchess",
+    "ean": "0832460000883",
+    "ingredientes": [
+      "light tuna",
+      "water",
+      "soy protein",
+      "soy fiber",
+      "salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/000/0883/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duchess, extra long tender green asparagus spears",
+    "marca": "Duchess",
+    "ean": "0832460001835",
+    "ingredientes": [
+      "Asparagus",
+      "water and salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mackerel",
+    "marca": "Smart & Simple",
+    "ean": "0832460001866",
+    "ingredientes": [
+      "Mackerel",
+      "water",
+      "salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Duchess, pear halves in light syrup",
+    "marca": "Duchess",
+    "ean": "0832460004553",
+    "ingredientes": [
+      "Pear halves",
+      "water",
+      "sugar",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Jasmine Rice",
+    "marca": "Clover Valley",
+    "ean": "0832460011308",
+    "ingredientes": [
+      "jasmine rice",
+      "water",
+      "refined sunflower oil",
+      "sunflower lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Peas",
+    "marca": "Duchess",
+    "ean": "0832460017720",
+    "ingredientes": [
+      "Green Peas",
+      "Water."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/001/7720/front_en.6.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sliced Pears",
+    "marca": "Duchess",
+    "ean": "0832460024575",
+    "ingredientes": [
+      "Sliced Pears",
+      "Water",
+      "Pear Juice Concentrate",
+      "Citric Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/002/4575/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fruit Cocktail In Natural Juice",
+    "marca": "Mercantile&Fancy",
+    "ean": "0832460100422",
+    "ingredientes": [
+      "Diced peaches",
+      "diced pears",
+      "water",
+      "pear juice concentrate",
+      "pineapple segments",
+      "grapes",
+      "halves cherries colored with & c red #3",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Long Grain White Rice",
+    "marca": "Mercantile & Fancy",
+    "ean": "0832460112012",
+    "ingredientes": [
+      "Long Grain White Rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/011/2012/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Green Peas",
+    "marca": "Duchess",
+    "ean": "0832460117277",
+    "ingredientes": [
+      "GREEN PEAS",
+      "WATER."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/011/7277/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Peanut Butter",
+    "marca": "mercantile&fan",
+    "ean": "0832460121625",
+    "ingredientes": [
+      "USA High Oleic Roasted Peanuts",
+      "Sugar",
+      "Soy Lecithin",
+      "Fully Admin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/012/1625/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Applesauce",
+    "marca": "duchess",
+    "ean": "0832460151523",
+    "ingredientes": [
+      "APPLES",
+      "WATER",
+      "VITAMIN C (ASCORBIC ACID)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/015/1523/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Pepperoncini",
+    "marca": "Clover Valley",
+    "ean": "0832460160112",
+    "ingredientes": [
+      "Peppers",
+      "water",
+      "vinegar",
+      "salt",
+      "citric acid",
+      "sodium bisulfite (maintains color)",
+      "fd & c yellow #5."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Mixed Vegetables",
+    "marca": "Duchess; Royal Food Import Corp.",
+    "ean": "0832460241552",
+    "ingredientes": [
+      "Carrots",
+      "Water",
+      "Peas",
+      "Corn",
+      "Citric Acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/024/1552/front_en.11.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Spread Grape",
+    "marca": "Duchess",
+    "ean": "0832460487424",
+    "ingredientes": [
+      "Sugar",
+      "Grape Juice",
+      "Pectin",
+      "Citric Acid",
+      "Malic Acid",
+      "Calcium Chloride",
+      "Artificial Flavor",
+      "Sodium Benzoate",
+      "Caramel Color",
+      "FD",
+      "C Red 40 Color",
+      "FD",
+      "C Blue 1"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/246/048/7424/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Organic Orange & Turmeric Herbal Tea",
+    "marca": "Clipper",
+    "ean": "0832544000129",
+    "ingredientes": [
+      "HONEYBUSH*",
+      "TURMERIC*",
+      "ORANGE PEEL",
+      "LICORICE ROOT*",
+      "WHITE HIBISCUS*",
+      "NATURAL ORANGE FLAVORING WITH OTHER NATURAL FLAVORS",
+      "CHICORY ROOT*. *ORGANICALLY GROWN INGREDIENTS BLENDED AND PACKED IN THE UK BY: KALLO FOODS LTD",
+      "SURREY",
+      "GU17 9AB",
+      "ENGLAND. IMPORTED IN THE USA BY: ECOTONE FOOD INC",
+      "PITTSBURGH",
+      "PA 15241 CERTIFIED ORGANIC BY: SOIL ASSOCIATION CERTIFICATION LTD GB-ORG-05 Certified B Corporation UK/NON-UK AGRICULTURE LBD KLB"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "World"
+  },
+  {
+    "nombre": "Organic White Tea",
+    "marca": "Clipper Teas Ltd",
+    "ean": "0832544000396",
+    "ingredientes": [
+      "Organically grown white tea"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clipper, rise & shine herbal tea, oraganic mate & lemongrass",
+    "marca": "Kallo Foods Ltd.",
+    "ean": "0832544000433",
+    "ingredientes": [
+      "*yerba mate",
+      "*lemongrass",
+      "*lemon verbena",
+      "*licorice root",
+      "*lemon peel",
+      "natural lemon flavoring with other natural flavors."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clipper, Organic Double Mint & Fennel Herbal Tea",
+    "marca": "Kallo Foods Ltd",
+    "ean": "0832544000440",
+    "ingredientes": [
+      "*peppermint",
+      "*fennel seed",
+      "*spearmint",
+      "*ginger root."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Snore & peace herbal tea",
+    "marca": "Kallo Foods Ltd",
+    "ean": "0832544000457",
+    "ingredientes": [
+      "*chamomile",
+      "*lemon balm",
+      "*lemon grass",
+      "*lavender",
+      "*fennel seed",
+      "*rosehip",
+      "*spearmint",
+      "natural lavender flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Clipper, chai herbal tea",
+    "marca": "Kallo Foods Ltd.",
+    "ean": "0832544000464",
+    "ingredientes": [
+      "*cinnamon",
+      "*orange peel",
+      "*fennel seed",
+      "*ginger root",
+      "*licorice root",
+      "*cloves."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Main Squeeze – Organic Lemon & Ginger Herbal Tea",
+    "marca": "Clipper",
+    "ean": "0832544000488",
+    "ingredientes": [
+      "Lemon grass*",
+      "ginger root*",
+      "licorice root*",
+      "lemon peel*",
+      "orange peel*",
+      "natural lemon flavoring with other natural flavors",
+      "natural ginger flavoring"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Snore & Peace – Organic Herbal Tea",
+    "marca": "Clipper",
+    "ean": "0832544000501",
+    "ingredientes": [
+      "Chamomile*",
+      "lemon balm*",
+      "lemon grass*",
+      "lavender*",
+      "fennel seed*",
+      "rosehip*",
+      "spearmint*",
+      "natural lavender flavoring."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Big Ben – English Breakfast Organic Tea",
+    "marca": "Clipper",
+    "ean": "0832544000549",
+    "ingredientes": [
+      "Organically grown black tea"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Juice",
+    "marca": "Fruitical",
+    "ean": "0832635041000",
+    "ingredientes": [
+      "Strawberry"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/263/504/1000/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Pitted Dates",
+    "marca": "Terra Delyssa",
+    "ean": "0832650006008",
+    "ingredientes": [
+      "Organic Pitted Deglet Noor Dates"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/265/000/6008/front_en.29.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Pure Apricot Jam",
+    "marca": "Canada's",
+    "ean": "0832655008519",
+    "ingredientes": [
+      "Apricots",
+      "sugar",
+      "glucose",
+      "pectin",
+      "citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Bière de gingembre",
+    "marca": "Favuzzi",
+    "ean": "0832661000484",
+    "ingredientes": [
+      "Eau",
+      "Sucre",
+      "Dioxyde de carbone",
+      "Extrait de gingembre",
+      "Acidifiant: acide citrique",
+      "Arôme naturel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/266/100/0484/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "sauce tomate pour pizza",
+    "marca": "Favuzzi",
+    "ean": "0832661000613",
+    "ingredientes": [
+      "Pulpe de tomates et Purée de tomates cerises 88% (Italie)",
+      "Huile d'olive extra vierge",
+      "Ail",
+      "Oignon",
+      "Carottes",
+      "Céleri",
+      "Basilic",
+      "Sel de mer",
+      "Origan",
+      "Poivre",
+      "Acidifiant: acide citrique. Peut contenir: Lait",
+      "Pignons. Ingredients: Tomato pulp and Cherry tomato puree 88% (Italy)",
+      "Extra virgin olive oil",
+      "Garlic",
+      "Onion",
+      "Carrots",
+      "Celery",
+      "Basil",
+      "Sea salt",
+      "Oregano",
+      "Pepper",
+      "Acidifier: citric acid. May contain: Milk",
+      "Pine nuts. Meilleur avant-Best before 15-JUN-2027 L 158 5% or less is a little",
+      "est peu"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/266/100/0613/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Creme de noisettes de sicile",
+    "marca": "Favuzzi",
+    "ean": "0832661005236",
+    "ingredientes": [
+      "Noisettes siciliennes 65%",
+      "sucre",
+      "lait en poudre",
+      "huile d'olive extra vierge",
+      "graisse végétale non hydrogénée (huile de tournesol",
+      "beurre de cacao)",
+      "émulsifiant: lécithine de soya",
+      "arômes naturels de vanille."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/266/100/5236/front_en.18.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Crème de chocolat et noisettes",
+    "marca": "Favuzzi",
+    "ean": "0832661005250",
+    "ingredientes": [
+      "Sucre",
+      "poudre de cacao Ing faible en gras 25%choisettes pow siciliennes 15%",
+      "lait en poudre",
+      "graisse mi végétale non hydrogénée (huile de tournesol",
+      "beurre de cacao)",
+      "huile COC d'olive extra vierge",
+      "émulsifiant: emul lécithine de soya",
+      "arômes naturels de vanille. Conserver dans un endroit frais et sec. Peut contenir des traces de noix et de fruits secs. fla DÉCOUVREZ L'HISTOIRE DIS"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/266/100/5250/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Plantain Chips Naturally Sweet",
+    "marca": "Samai",
+    "ean": "0832697000533",
+    "ingredientes": [
+      "Ripe plantains",
+      "non-hydrogenated vegetable oil (palmolein)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/269/700/0533/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Plantain Chips Salt",
+    "marca": "Samai",
+    "ean": "0832697000564",
+    "ingredientes": [
+      "Plantains (F) Chips de banane plantain - Sel marin du Pacifique. Ingrédients: Banane plantain (70%)",
+      "huile végétale non hydrogénée (oléine de palme)*",
+      "sel marin (1%). (1) Snack di platano - Sale marino. Ingredienti: Platano (70%)",
+      "olio vegetale non idrogenato (oleina di palma)*",
+      "sale marino (1%). (H) Főzőbanán chips tengeri sós. Összetevők: Főzőbanán (70%)",
+      "nem hidrogénezett pálmaolaj*",
+      "tengeri só (1%). (D) Kochbananen-chips - Pazifisches meersalz. Zutaten: Kochbananen (70%)",
+      "nicht hydriertes Pflanzenöl (Palmolein)*",
+      "Meersalz (1%). (NL) Chips van bakbananen - Pacific zeezout. Ingrediënten: Bakbananen (70%)",
+      "niet gehydrogeneerde plantaardige olie (palmoleine)*",
+      "zeezout (1%). Keep in a cool dry place /"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/269/700/0564/front_en.43.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Plantain Chips, Jungle Chili",
+    "marca": "Samai",
+    "ean": "0832697000571",
+    "ingredientes": [
+      "Banane plantain (70%)",
+      "huile végétale non hydrogénée (oléine de palme)",
+      "piments en poudre (1%)",
+      "sel marin",
+      "épices naturelles",
+      "acide citrique comme un exhausteur de goût."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/269/700/0571/front_en.41.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Plantain Chips Naturally Sweet",
+    "marca": "Samai",
+    "ean": "0832697000595",
+    "ingredientes": [
+      "Banane Plantain 70%",
+      "Huile Végétale Non Hydrogénée Oléine De Palme."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/083/269/700/0595/front_en.34.400.jpg",
+    "tahor": true,
+    "pais": "Chile"
+  },
+  {
+    "nombre": "Plantain Chips Smoked Sweet Chili",
+    "marca": "Samai",
+    "ean": "0832697000625",
+    "ingredientes": [
+      "Banane plantain",
+      "huile de palme non hydrogénée."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "France"
+  }
+]

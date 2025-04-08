@@ -1,0 +1,2335 @@
+[
+  {
+    "nombre": "Original, Plant-based",
+    "marca": "Panjimi Naan",
+    "ean": "0776343401308",
+    "ingredientes": [
+      "Enriched flour",
+      "Water",
+      "Canola oil",
+      "Sugar",
+      "Oat protein",
+      "Yeast",
+      "Vinegar",
+      "Dry soymilk",
+      "Salt",
+      "Baking powder",
+      "Soy lecithin",
+      "Lactic acid",
+      "Natural flavours.  _CONTAINS: Wheat",
+      "Soy. May contain Mustard._"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/634/340/1308/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Körniger Frischkäse",
+    "marca": "Hofburger",
+    "ean": "07764000",
+    "ingredientes": [
+      "Frischkäse",
+      "Speisesalz"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/776/4000/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Imitation French Vanilla Extract",
+    "marca": "null",
+    "ean": "0776455002134",
+    "ingredientes": [
+      "ENERE 11 W 11"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/500/2134/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Celery Salt",
+    "marca": "Encore Gourmet",
+    "ean": "0776455131025",
+    "ingredientes": [
+      "Salt",
+      "Ground celery seed",
+      "Canola oil",
+      "Silicon dioxide (anti-caking agent)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/1025/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chicken Seasoning",
+    "marca": "Encore Gourmet",
+    "ean": "0776455131032",
+    "ingredientes": [
+      "Salt",
+      "Herbs & spices (paprika",
+      "turmeric)",
+      "Corn starch",
+      "Dehydrated vegetables (onion",
+      "garlic)",
+      "Canola oil",
+      "Monosodium glutamate",
+      "Spice extract",
+      "Silicon dioxide (anti-caking agent)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/1032/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chili Powder",
+    "marca": "Encore Gourmet",
+    "ean": "0776455131056",
+    "ingredientes": [
+      "Spices (chili pepper",
+      "paprika)",
+      "Salt",
+      "Corn starch",
+      "Dehydrated garlic",
+      "Caramel colour",
+      "Silicon dioxide (anti-caking agent)",
+      "Canola oil",
+      "Spice extracts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/1056/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Meat Tenderizer",
+    "marca": "Encore Gourmet",
+    "ean": "0776455131094",
+    "ingredientes": [
+      "Salt",
+      "Monosodium glutamate",
+      "Spices (paprika)",
+      "Corn starch",
+      "Papain",
+      "Dehydrated vegetables (garlic",
+      "onion)",
+      "Silicon dioxide (anti-caking agent)",
+      "Spice extracts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/1094/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Steak Spice",
+    "marca": "Encore Gourmet",
+    "ean": "0776455131117",
+    "ingredientes": [
+      "Sea salt",
+      "Spices (mustard seed)",
+      "Dehydrated vegetables (garlic",
+      "onion)",
+      "Canola oil",
+      "Hydrolysed soy protein",
+      "Monosodium glutamate",
+      "Spice extracts (paprika)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/1117/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Dill Weed",
+    "marca": "Encore Gourmet",
+    "ean": "0776455132015",
+    "ingredientes": [
+      "Dill weed"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/2015/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Italian Seasoning",
+    "marca": "Encore Gourmet",
+    "ean": "0776455132022",
+    "ingredientes": [
+      "Herbs (basil",
+      "oregano",
+      "thyme)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/2022/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Thyme Leaves",
+    "marca": "Encore Gourmet",
+    "ean": "0776455132060",
+    "ingredientes": [
+      "Thyme leaves"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/2060/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ground Nutmeg",
+    "marca": "Encore Gourmet",
+    "ean": "0776455132206",
+    "ingredientes": [
+      "Ground nutmeg"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/2206/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cayenne Pepper",
+    "marca": "Encore Gourmet",
+    "ean": "0776455133029",
+    "ingredientes": [
+      "Cayenne pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/3029/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chopped Onion",
+    "marca": "Encore Gourmet",
+    "ean": "0776455133036",
+    "ingredientes": [
+      "Dehydrated onion"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/3036/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Crushed Red Pepper",
+    "marca": "Encore Gourmet",
+    "ean": "0776455133050",
+    "ingredientes": [
+      "Crushed red pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/3050/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ground Ginger",
+    "marca": "Encore Gourmet",
+    "ean": "0776455133081",
+    "ingredientes": [
+      "Ground ginger"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/3081/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ground Cloves",
+    "marca": "Encore Gourmet",
+    "ean": "0776455133807",
+    "ingredientes": [
+      "Ground cloves"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/3807/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Salt & Vinegar Popcorn Seasoning",
+    "marca": "Encore Gourmet",
+    "ean": "0776455134118",
+    "ingredientes": [
+      "Maltodextrin",
+      "Salt",
+      "Dextrose",
+      "Sodium acetate",
+      "Acetic acid",
+      "Citric acid",
+      "White vinegar powder",
+      "Canola oil",
+      "Silicon dioxide (anticaking agent)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/4118/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chive Rings",
+    "marca": "Encore Gourmet",
+    "ean": "0776455135207",
+    "ingredientes": [
+      "Chive rings"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/513/5207/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Clover valley, sea salt grinder",
+    "marca": "Clover Valley",
+    "ean": "0776455220101",
+    "ingredientes": [
+      "Sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Imitation Bacon Bites",
+    "marca": "Encore",
+    "ean": "0776455301015",
+    "ingredientes": [
+      "soy flour",
+      "partially hydrogenated vegetable oil",
+      "salt natural and artificial flavor",
+      "dextrose",
+      "fd",
+      "c #3"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Encore, chicken seasoning",
+    "marca": "Encore",
+    "ean": "0776455301039",
+    "ingredientes": [
+      "Salt",
+      "wheat semolina",
+      "herbs & spices (paprika",
+      "mustard seed)",
+      "dehydrated vegetables (onion",
+      "garlic)",
+      "canola oil",
+      "monosodium glutamate",
+      "silicon dioxide (anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Encore, premium french fry seasoning",
+    "marca": "Encore",
+    "ean": "0776455301145",
+    "ingredientes": [
+      "Salt",
+      "spices and spice extracts (paprika)",
+      "dehydrated vegetables (garlic onion)",
+      "canola oil",
+      "monosodium glutamate",
+      "silicon dioxide (anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Premium Cajun Seasoning",
+    "marca": "Encore",
+    "ean": "0776455302104",
+    "ingredientes": [
+      "Salt",
+      "herbs and spices (paprika)",
+      "cornmeal",
+      "dehydrated vegetables (garlic",
+      "onion)",
+      "monosodium glutamate",
+      "canola oil",
+      "silicon dioxide (anti-caking agent)",
+      "spice extracts (paprika)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Onion Powder",
+    "marca": "Encore Gourmet",
+    "ean": "0776455320351",
+    "ingredientes": [
+      "Dehydrated onion"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/0351/front_en.16.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bacon Flavoured Bits",
+    "marca": "Encore Gourmet",
+    "ean": "0776455321013",
+    "ingredientes": [
+      "Soy flour",
+      "Soybean oil",
+      "Salt",
+      "Natural flavours",
+      "Sugars (sugar",
+      "dextrose)",
+      "Hydrolyzed soy and corn protein",
+      "Yeast",
+      "Caramel colour",
+      "Iron",
+      "Niacinamide (vitamin B3)",
+      "Sunflower oil",
+      "Zinc oxide",
+      "Erythrosine",
+      "Soy lecithin",
+      "Calcium pantothenate (vitamin B5)",
+      "Thiamine mononitrate (vitamin B1)",
+      "Pyridoxine hydrochloride (vitamin B6)",
+      "Riboflavin (vitamin B2)",
+      "Vitamin B12"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/1013/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Lemon Pepper Seasoning",
+    "marca": "Encore Gourmet",
+    "ean": "0776455321082",
+    "ingredientes": [
+      "Salt",
+      "Citric acid",
+      "Spices (black pepper",
+      "turmeric)",
+      "Sugar",
+      "Corn starch",
+      "Cornmeal",
+      "Dehydrated onion",
+      "Canola oil",
+      "Monosodium glutamate",
+      "Silicon dioxide",
+      "Natural lemon flavour",
+      "Spice extract"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/1082/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Seasoning Salt",
+    "marca": "Encore Gourmet",
+    "ean": "0776455321105",
+    "ingredientes": [
+      "Salt",
+      "Sugar",
+      "Spices",
+      "Dehydrated vegetables (onion",
+      "garlic)",
+      "Canola oil",
+      "Silicone dioxide",
+      "Spice extracts (paprika)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/1105/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Basil Leaves",
+    "marca": "Encore Gourmet",
+    "ean": "0776455322003",
+    "ingredientes": [
+      "Basil leaves"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/2003/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Oregano Leaves",
+    "marca": "Encore Gourmet",
+    "ean": "0776455322034",
+    "ingredientes": [
+      "Oregano leaves"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/2034/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Parsley Flakes",
+    "marca": "Encore Gourmet",
+    "ean": "0776455322041",
+    "ingredientes": [
+      "Parsley flakes"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/2041/front_en.9.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ground Cinnamon",
+    "marca": "Encore Gourmet",
+    "ean": "0776455323048",
+    "ingredientes": [
+      "Ground cinnamon.  May contain: Mustard",
+      "Soy",
+      "Sesame",
+      "Wheat."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/3048/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Garlic Powder",
+    "marca": "Encore Gourmet",
+    "ean": "0776455323079",
+    "ingredientes": [
+      "Dehydrated garlic"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/3079/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Paprika",
+    "marca": "Encore Gourmet",
+    "ean": "0776455323116",
+    "ingredientes": [
+      "Paprika"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/532/3116/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Ground Black Pepper",
+    "marca": "Encore Gourmet",
+    "ean": "0776455450256",
+    "ingredientes": [
+      "Ground black pepper"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/545/0256/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Granulated onion",
+    "marca": "Altius",
+    "ean": "0776455635103",
+    "ingredientes": [
+      "Granulated Onion",
+      "May contain: Sesame",
+      "Soy",
+      "Wheat",
+      "Mustard",
+      "ly Value* tidienne* Ingrédients: Oignon granulé",
+      "Peut contenir: Sésame",
+      "Soya",
+      "Blé",
+      "Moutarde",
+      "QUÉBEC CANADA H9X 3S4 or more 0% www",
+      "altiusspice",
+      "com D BY WEIGHT"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/645/563/5103/front_fr.14.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Greek All Purpose Seasoning",
+    "marca": "Altius",
+    "ean": "0776455940092",
+    "ingredientes": [
+      "Salt",
+      "herbs and spices",
+      "dehydrated vegetables (garlic",
+      "onion)",
+      "corn starch",
+      "sugar",
+      "disodium inosinate",
+      "disodium guanylate",
+      "natural flavor (soybean oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Greek Chicken Seasoning",
+    "marca": "Altius",
+    "ean": "0776455940108",
+    "ingredientes": [
+      "Salt",
+      "spices (mustard seeds",
+      "turmeric)",
+      "dehydrated garlic",
+      "olive oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Greek Steak Seasoning",
+    "marca": "Altius Spice House",
+    "ean": "0776455940115",
+    "ingredientes": [
+      "Dehydrated vegetables (onion",
+      "garlic)",
+      "herbs and spices (mustard seeds)",
+      "sea salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Portuguese Piri-Piri Seasoning",
+    "marca": "Altius",
+    "ean": "0776455940139",
+    "ingredientes": [
+      "Herbs and spices (paprika)",
+      "dehydrated vegetables (onion",
+      "red bell pepper",
+      "garlic)",
+      "sea salt",
+      "sugar",
+      "olive oil",
+      "spice extracts (paprika)",
+      "natural flavor (soybean oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Greek Fish Seasoning",
+    "marca": "Altius Spice House",
+    "ean": "0776455940153",
+    "ingredientes": [
+      "Dehydrated vegetables (garlic",
+      "onion)",
+      "toasted wheat crumbs (wheat flour",
+      "hydrogenated soybean oil",
+      "vinegar",
+      "sodium bicarbonate",
+      "salt",
+      "yeast",
+      "spices)",
+      "salt",
+      "herbs and spices",
+      "sugar",
+      "lemon peel",
+      "citric acid",
+      "natural flavor (soybean oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicago Steak Spice",
+    "marca": "Deli Sizzlers",
+    "ean": "0776455940207",
+    "ingredientes": [
+      "Sea salt",
+      "spices (paprika)",
+      "dehydrated garlic",
+      "olive oil",
+      "spice extracts (paprika)",
+      "natural flavor",
+      "silicon dioxide (anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Deli Sizzlers French Fry Seasoning",
+    "marca": "Altius",
+    "ean": "0776455940238",
+    "ingredientes": [
+      "Dehydrated vegetables (garlic",
+      "onion",
+      "red and green bell peppers)",
+      "salt",
+      "herbs and spices (turmeric",
+      "paprika)",
+      "sugar",
+      "olive oil",
+      "citric acid",
+      "spice extracts (paprika)",
+      "natural flavor",
+      "silicon dioxide (anti-caking agent)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Seasoning",
+    "marca": "Deli Sizzlers",
+    "ean": "0776455940269",
+    "ingredientes": [
+      "Dehydrated vegetables (onion",
+      "garlic",
+      "red bell pepper",
+      "tomato)",
+      "herbs and spices",
+      "salt",
+      "sugar",
+      "citric acid",
+      "olive oil",
+      "natural flavor (soybean oil)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Sesame Oil",
+    "marca": "Minar",
+    "ean": "0776476241208",
+    "ingredientes": [
+      "Sesame oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Oil",
+    "marca": "Desi",
+    "ean": "0776476741005",
+    "ingredientes": [
+      "Coconut oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Coconut Oil",
+    "marca": "Desi",
+    "ean": "0776476741029",
+    "ingredientes": [
+      "Coconut oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Almond Oil",
+    "marca": "Desi",
+    "ean": "0776476749667",
+    "ingredientes": [
+      "Pure sweet almond oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Lottie & beck, instant pudding & pie fiiling, vanilla",
+    "marca": "Lottie & Beck",
+    "ean": "0776653005081",
+    "ingredientes": [
+      "Sugar",
+      "modified corn starch",
+      "disodium phosphate",
+      "salt",
+      "artificial flavor [milk]",
+      "partially hydrogenated and modified soybean oil",
+      "xanthan gum",
+      "mono & diglycerides",
+      "color (yellow # 5 & yellow # 6)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Unsalted Cashews",
+    "marca": "T&T Foods",
+    "ean": "0776703042523",
+    "ingredientes": [
+      "Cashew",
+      "Canola oil"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/304/2523/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Roasted Seaweed Snack",
+    "marca": "T&T",
+    "ean": "0776703089573",
+    "ingredientes": [
+      "Seaweed",
+      "Corn oil",
+      "Sesame oil",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/308/9573/front_en.15.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Coconut Milk",
+    "marca": "T&T",
+    "ean": "0776703120917",
+    "ingredientes": [
+      "Coconut milk",
+      "Water",
+      "Guar gum",
+      "Polysorbate 60",
+      "Modified cellulose",
+      "Sulphites"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Rosted Seaweed Snack",
+    "marca": "Unknown",
+    "ean": "0776703133337",
+    "ingredientes": [
+      "Seaweed",
+      "Corn oil",
+      "Sesame oil",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/313/3337/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Roasted Seaweed Snack",
+    "marca": "T&T",
+    "ean": "0776703136666",
+    "ingredientes": [
+      "Seaweed",
+      "Corn oil",
+      "Sesame oil",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/313/6666/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "tropical cake",
+    "marca": "T&T Bakery",
+    "ean": "0776703220594",
+    "ingredientes": [
+      "TROPICAL CAKE - STRAWBERRY GATEAU TROPICAL FRAISE INGREDIENTS: CAKE MIX [WHEAT FLOUR SUGAR SOY OIL",
+      "WHEAT STARCH",
+      "DEXTROSE SHORTENING (MODIFIED PALM OIL MODIFIED CORN AND TAPIOCA STARCH BAKING POWDER SALT",
+      "PROPYLENE OLYCOL MONO AND DIESTERS OF FATTY ACIDS MONO AND DIGLYCERIDES XANTHAN GUM",
+      "SODIUM STERON2-LACTYLATE",
+      "SODIUM CASEINATE (MILKI ARTIFICIAL FLAVOUR",
+      "SOY LOUR",
+      "DRIED EGG. WHITE SOY LECITHIN",
+      "SODIUM LAURYL SULPHATE AZODICABBONAMIDE",
+      "CORN OIL BETA CAROTENE ALPHA TOCOPHEROL",
+      "BHT",
+      "CITRIC ACID) LIQUID WHOLE EGG",
+      "CANOLA AND/OR SOY OIL",
+      "WATER",
+      "STRAWBERRY FILLING (STRAWBERRIES",
+      "WATER GLUCOSE FRUCTOSE SUGAR BLUCOSE MODIFIED CORN STARCH",
+      "PROPYLENE GLYCOL",
+      "CITRIC ACID SALT POTASSIUM SORBATE",
+      "LOCUST BEAN GUM",
+      "SODIUM CITRATE",
+      "XANTHAN GUM",
+      "SODIUM BENZOATE",
+      "COLOUR",
+      "ARTIFICIAL FLAVOUR)",
+      "SORBIC ACID",
+      "CORN STARCH: INGREDIENTS: MÉLANGE À GÂTEALLIFARINE DE BLE",
+      "SUCRE",
+      "HIIII Dr"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/322/0594/front_xx.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sushi Nori Rstd Seaweed Sheets",
+    "marca": "T&T • Uncle T • Loblaw",
+    "ean": "0776703258405",
+    "ingredientes": [
+      "Roasted Seaweed.  _May contain:  Crustaceans & Molluscs._"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/325/8405/front_en.49.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Buckwheat Soba Noodles",
+    "marca": "T&T • Uncle T Food • Loblaws",
+    "ean": "0776703261788",
+    "ingredientes": [
+      "Farine de blé enrichie",
+      "Farine de sarrasin",
+      "Eau",
+      "Sel."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/326/1788/front_en.42.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Rice Sticks - Medium",
+    "marca": "T&T Foods",
+    "ean": "0776703268992",
+    "ingredientes": [
+      "rice",
+      "water"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/326/8992/front_en.20.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Châtaigne biologique rôties - Écalée",
+    "marca": "T&T",
+    "ean": "0776703271121",
+    "ingredientes": [
+      "Châtaigne biologique (écalée)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/327/1121/front_fr.16.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "saucisses porc et ail style taiwanais",
+    "marca": "uncle T food",
+    "ean": "0776703291808",
+    "ingredientes": [
+      "porc",
+      "Sucre",
+      "Vodka",
+      "Sel",
+      "Amidon de maïs modifié",
+      "Sauce soya (eau",
+      "ble",
+      "fève de soya",
+      "sel) Poudre d'ai",
+      "l Farine de soya",
+      "Mélange d'assaisonnements [sucres (fructose",
+      "sucre",
+      "sirop de glucose déshydraté)",
+      "épice",
+      "isolat de protéine de soya",
+      "sel",
+      "extrait de levure",
+      "protéines de soya et de maïs hydrolysées",
+      "érythorbate de sodium",
+      "levure autolysée",
+      "arôme artificiel] Extrait de levure Phosphate de sodium Épices Glutamate de monosodique Érythorbate de sodium Nitrite de sodium"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/329/1808/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Green Soybeans",
+    "marca": "T&T Foods • Loblaws",
+    "ean": "0776703296902",
+    "ingredientes": [
+      "Green Soy beans."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/329/6902/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Unsalted Walnuts",
+    "marca": "T&T",
+    "ean": "0776703302610",
+    "ingredientes": [
+      "Walnuts"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/330/2610/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Green Tea, Organic",
+    "marca": "T&T Organic • Uncle T Foods • Loblaw’s",
+    "ean": "0776703322335",
+    "ingredientes": [
+      "(Organic) Green Tea."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/332/2335/front_en.68.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Baby Corn in Brine - Cut",
+    "marca": "T&T",
+    "ean": "0776703480387",
+    "ingredientes": [
+      "Baby corn",
+      "Water",
+      "Salt",
+      "Citric acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/670/348/0387/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "douceur de lait",
+    "marca": "paturage",
+    "ean": "07767142",
+    "ingredientes": [
+      "SPECIALITÉ LAITIERE NATURE AU BIFIDUS INGRÉDIENTS:lait écrémé et crème pasteurisés (Origine:France)",
+      "amidon transformé",
+      "lait écrémé en poudre (Origine:France)",
+      "ferments lactiques dont Bifidobacterium lactis* INFORMATIONS:à consommer jusqu'au/Lot n° : voir surle dessus du pack. A conserver entre 0°Cet +6°C."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/776/7142/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Coconut Cream Specialty Bun",
+    "marca": "Golden Happiness",
+    "ean": "0776729911018",
+    "ingredientes": [
+      "Wheat flour",
+      "Water",
+      "Sugars (sugar",
+      "icing sugar)",
+      "Egg",
+      "Canola oil",
+      "Margarine (modified palm and palm kernel oils",
+      "canola oil",
+      "water",
+      "salt",
+      "whey powder",
+      "vegetable monoglycerides",
+      "soybean lecithin",
+      "potassium sorbate",
+      "citric acid",
+      "artificial flavour",
+      "vitamin A palmitate",
+      "beta-carotene",
+      "vitamin D3 )",
+      "Whey powder",
+      "Yeast",
+      "Salt",
+      "Coconut (desiccated coconut",
+      "sodium metabisulfite)",
+      "Dough improver (wheat flour",
+      "amylase",
+      "sunflower oil",
+      "xylanase",
+      "protease)",
+      "Calcium propionate",
+      "Artificial vanilla flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/672/991/1018/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cocktail Specialty Bun",
+    "marca": "Golden Happiness",
+    "ean": "0776729911025",
+    "ingredientes": [
+      "Wheat flour",
+      "Water",
+      "Sugars (sugar",
+      "corn syrup)",
+      "Margarine (modified palm and palm kernel oils",
+      "canola oil",
+      "water",
+      "salt",
+      "whey powder",
+      "vegetable monoglycerides",
+      "soybean lecithin",
+      "potassium sorbate",
+      "citric acid",
+      "artificial flavour",
+      "vitamin A palmitate",
+      "beta-carotene",
+      "vitamin D3)",
+      "Egg",
+      "Coconut (desiccated coconut",
+      "sodium metabisulphite)",
+      "Whey powder",
+      "Canola oil",
+      "Wheat crumbs",
+      "Peanut butter (peanuts",
+      "sugar",
+      "hydrogenated vegetable oil [rapeseed",
+      "cottonseed",
+      "soybean oils]",
+      "salt)",
+      "Yeast",
+      "Custard cream powder (sugar",
+      "modified starch",
+      "whey powder",
+      "fractionated palm oil",
+      "skimmed milk powder",
+      "sodium phosphates",
+      "diphosphates",
+      "calcium sulphate",
+      "lactose",
+      "milk proteins",
+      "lactic acid esters of mono and diglycerides of fatty acids",
+      "acetic acid esters of mono and diglycerides of fatty acids",
+      "glucose syrup",
+      "carrageenan",
+      "flavouring",
+      "carotenes)",
+      "Glaze (water",
+      "vegetable proteins [pea and/or potato and/or fava bean]",
+      "vegetable oil [sunflower and/or canola]",
+      "sugars [dextrose",
+      "corn maltodextrin]",
+      "corn starch)",
+      "Salt",
+      "Dough improver (wheat flour",
+      "amylase",
+      "sunflower oil",
+      "xylanase",
+      "protease",
+      "ascorbic acid",
+      "lipase)",
+      "Calcium propionate",
+      "Artificial vanilla flavour",
+      "Sesame seeds."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/672/991/1025/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Coconut Specialty Bun",
+    "marca": "Golden Happiness",
+    "ean": "0776729911100",
+    "ingredientes": [
+      "Wheat flour",
+      "Water",
+      "Sugar",
+      "Egg",
+      "Coconut (desiccated coconut",
+      "sodium metabisulfite)",
+      "Canola oil",
+      "Margarine (modified palm and palm kernel oils",
+      "canola oil",
+      "water",
+      "salt",
+      "whey powder",
+      "vegetable monoglycerides",
+      "soy lecithin",
+      "potassium sorbate",
+      "citric acid",
+      "artificial flavour",
+      "vitamin A palmitate",
+      "beta-carotene",
+      "vitamin D3)",
+      "Whey powder",
+      "Yeast",
+      "Salt",
+      "Baking powder",
+      "Glaze (water",
+      "vegetable proteins [pea and/or potato and/or fava bean]",
+      "vegetable oil [sunflower and/or canola]",
+      "sugars [dextrose",
+      "corn maltodextrin]",
+      "corn starch)",
+      "Dough improver (wheat flour",
+      "amylase",
+      "sunflower oil",
+      "xylonite",
+      "protease",
+      "ascorbic acid",
+      "lipase)",
+      "Calcium propionate",
+      "Soy lecithin",
+      "Artificial vanilla flavour",
+      "Tartrazine",
+      "Sunset yellow FCF."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/672/991/1100/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Custard Specialty Bun",
+    "marca": "Golden Happiness",
+    "ean": "0776729911131",
+    "ingredientes": [
+      "Wheat flour",
+      "Water",
+      "Sugars (sugar",
+      "corn syrup)",
+      "Egg",
+      "Canola oil",
+      "Margarine (modified palm and palm kernel oils",
+      "canola oil",
+      "water",
+      "salt",
+      "whey powder",
+      "vegetable monoglycerides",
+      "soybean lecithin",
+      "potassium sorbate",
+      "citric acid",
+      "artificial flavour",
+      "vitamin A palmitate",
+      "beta-carotene",
+      "vitamin D3)",
+      "Custard powder (cornstarch",
+      "salt",
+      "colour [tartrazine]",
+      "artificial flavours)",
+      "Whey powder",
+      "Skim milk powder",
+      "Yeast",
+      "Salt",
+      "Corn starch",
+      "Modified corn starch",
+      "Custard cream powder (sugar",
+      "modified starch",
+      "whey powder",
+      "fractionated palm oil",
+      "skimmed milk powder",
+      "sodium phosphates",
+      "diphosphates",
+      "calcium sulphate",
+      "lactose",
+      "milk proteins",
+      "lactic acid esters of mono and diglycerides of fatty acids",
+      "acetic acid esters of mono and diglycerides of fatty acids",
+      "glucose syrup",
+      "carrageenan",
+      "flavouring",
+      "carotenes)",
+      "Glaze (water",
+      "vegetable proteins [pea and/or potato and/or fava bean]",
+      "vegetable oil [sunflower and/or canola]",
+      "sugars [dexrose",
+      "corn maltodextrin]",
+      "corn starch)",
+      "Dough improver (wheat flour",
+      "amylase",
+      "sunflower oil",
+      "xylanase",
+      "protease",
+      "ascorbic acid",
+      "lipase)",
+      "Calcium propionate"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/672/991/1131/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Fresh finds, chicken broth",
+    "marca": "Fresh Finds",
+    "ean": "0776834800009",
+    "ingredientes": [
+      "Chicken broth (water",
+      "chicken flavor concentrate [chicken stock**",
+      "salt",
+      "chicken flavor",
+      "yeast extract",
+      "carrot",
+      "onion powder",
+      "cornstarch",
+      "celery",
+      "onion",
+      "flavor])",
+      "contains less than 1% of: sea salt",
+      "cane sugar."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Fresh finds, chicken broth",
+    "marca": "Fresh Finds",
+    "ean": "0776834810008",
+    "ingredientes": [
+      "Chicken stock (water",
+      "concentrated chicken stock***)",
+      "contains less than 2% of: chicken flavor (chicken broth***",
+      "salt",
+      "yeast extract",
+      "dextrose",
+      "celery juice concentrate",
+      "carrot juice concentrate",
+      "onion juice concentrate)",
+      "salt",
+      "dextrose",
+      "flavor",
+      "lactic acid",
+      "spice extract."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Beef Broth",
+    "marca": "Clover Valley",
+    "ean": "0776834910005",
+    "ingredientes": [
+      "Beef stock (water",
+      "dehydrated beef stock",
+      "beef extract)",
+      "contains less than 1% of: salt",
+      "natural flavor",
+      "dextrose",
+      "yeast extract",
+      "caramel color",
+      "onion juice concentrate."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Reduced sodium chicken broth",
+    "marca": "Clover Valley",
+    "ean": "0776834920004",
+    "ingredientes": [
+      "Chicken broth",
+      "contains less than 2% of salt",
+      "yeast extract",
+      "natural flavor",
+      "carrot juice concentrate",
+      "sugar",
+      "carrots",
+      "onion powder",
+      "corn starch",
+      "celery",
+      "chicken fat*",
+      "rendered chicken fat*."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Chicken Broth",
+    "marca": "Smart & Simple",
+    "ean": "0776834930003",
+    "ingredientes": [
+      "Chicken stock (water",
+      "concentrated chicken stock)",
+      "contains less than 2% of: salt",
+      "yeast extract",
+      "cane sugar",
+      "carrot powder",
+      "natural flavor."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "United States"
+  },
+  {
+    "nombre": "Graines de Courge",
+    "marca": "Simplement Bon et Bio",
+    "ean": "07769227",
+    "ingredientes": [
+      "Graines de Courge"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/776/9227/front_fr.4.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Jalapeño Pepper Chips",
+    "marca": "DeemaH",
+    "ean": "0776992025634",
+    "ingredientes": [
+      "%100 Fresh Natural Potato",
+      "Vegetable Palm Olein Oil",
+      "Jalapeño Natural Identical Flavour",
+      "Natural Color (E160c)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Qatar"
+  },
+  {
+    "nombre": "Date bars",
+    "marca": "Deemah",
+    "ean": "0776992030058",
+    "ingredientes": [
+      "Date Paste",
+      "Wheat Flour",
+      "Sugar",
+      "Vegetable Oil (Palm)",
+      "Fructose Syrup",
+      "Glucose Syrup",
+      "Corn Starch",
+      "Whey Milk Powder",
+      "Edible Bran",
+      "Humectant (Glycerine E422)",
+      "Edible Salt",
+      "Egg Powder",
+      "Emulsifier (Soya Lecithin E322)",
+      "Leavening Agent (Sodium Bicarbonate E500",
+      "Ammonium Bicarbonate E503)",
+      "Cinnamon Powder",
+      "Acidity Regulator (Citric Acid E330)",
+      "Artificial Flavour (Lemon",
+      "Ethyl Vanillin)."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "Humectant (Glycerine E422)",
+        "razon": "Contiene Humectant (Glycerine E422), impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/699/203/0058/front_en.10.400.jpg",
+    "tahor": false,
+    "pais": "Morocco"
+  },
+  {
+    "nombre": "ديمه بسكويت الشاي",
+    "marca": "deemah",
+    "ean": "0776992050193",
+    "ingredientes": [
+      "and Dry Place %%DV' 5% 4% 0% 5% Amount/Serving Total Carb 23g %D Amount/Serving Total Fat 3g Fiber&lt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/699/205/0193/front_ar.5.400.jpg",
+    "tahor": true,
+    "pais": "Saudi Arabia"
+  },
+  {
+    "nombre": "Protein Cookies Birthday Cake",
+    "marca": "Bowmar Nutrition",
+    "ean": "0777000378933",
+    "ingredientes": [
+      "Butter",
+      "Whole Grain Rolled Oats",
+      "Brown Sugar",
+      "Non-fat Dry Milk",
+      "Rice Flour",
+      "Collagen",
+      "Hydrolysate",
+      "Whey Protein Concentrate",
+      "Eggs",
+      "Sprinkles",
+      "Almond Milk",
+      "Vanilla Flavoring",
+      "Potassium Sorbate",
+      "Natural and Artificial Flavoring",
+      "Baking Soda",
+      "Salt."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/700/037/8933/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Milk Chocolate with Hazelnuts",
+    "marca": "Waterbridge",
+    "ean": "0777034000978",
+    "ingredientes": [
+      "Sugar",
+      "Cocoa butter",
+      "Cocoa mass",
+      "Whole milk powder",
+      "Hazelnuts",
+      "Soya lecithin",
+      "Natural vanilla flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/0978/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Belgian Milk Chocolate with Almonds",
+    "marca": "Waterbridge",
+    "ean": "0777034000985",
+    "ingredientes": [
+      "Sugar",
+      "Cocoa butter",
+      "Cocoa mass",
+      "Whole milk powder",
+      "Almonds",
+      "Soya lecithin",
+      "Natural vanilla flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/0985/front_en.26.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Belgian Milk Chocolate",
+    "marca": "Waterbridge",
+    "ean": "0777034001791",
+    "ingredientes": [
+      "Sugar",
+      "Cocoa butter",
+      "Cocoa mass",
+      "Whole milk powder",
+      "Soya lecithin",
+      "Natural vanilla flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/1791/front_en.14.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Dark Chocolate",
+    "marca": "Waterbridge",
+    "ean": "0777034001807",
+    "ingredientes": [
+      "Cocoa mass",
+      "Sugar",
+      "Cocoa butter",
+      "Soya lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/1807/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "70% Cocoa Extra Dark Chocolate",
+    "marca": "Waterbridge",
+    "ean": "0777034001814",
+    "ingredientes": [
+      "Cocoa mass",
+      "Sugar",
+      "Cocoa powder",
+      "Soya lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/1814/front_en.29.400.jpg",
+    "tahor": true,
+    "pais": "Belgium"
+  },
+  {
+    "nombre": "Dark Chocolate with Almonds",
+    "marca": "Waterbridge",
+    "ean": "0777034001821",
+    "ingredientes": [
+      "Cocoa mass",
+      "Sugar",
+      "Almonds",
+      "Cocoa butter",
+      "Soya lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/1821/front_en.24.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Dark Chocolate with Fruit and Nuts",
+    "marca": "Waterbridge",
+    "ean": "0777034006291",
+    "ingredientes": [
+      "Cocoa mass",
+      "Sugar",
+      "Almonds",
+      "Raisins",
+      "Cocoa butter",
+      "Soya lecithin"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/6291/front_en.10.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Belgian Milk Chocolate with Caramel & Sea Salt",
+    "marca": "Waterbridge",
+    "ean": "0777034008394",
+    "ingredientes": [
+      "Sugar",
+      "Cocoa butter",
+      "Cocoa mass",
+      "Whole milk powder",
+      "Caramel bits (sugar",
+      "glucose syrup",
+      "butter oil",
+      "natural flavour",
+      "salt",
+      "soya lecithin)",
+      "Soya lecithin",
+      "Natural vanilla flavour",
+      "Sea salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/8394/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "70% Extra-Dark Chocolate, Belgian",
+    "marca": "Waterbridge",
+    "ean": "0777034008578",
+    "ingredientes": [
+      "Pâte de cacao",
+      "Sucre",
+      "Poudre de cacao",
+      "Lécithine de soja.  _Contient : Soja. Peut Contenir: Lait",
+      "Blé",
+      "Œufs",
+      "Noix._"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/400/8578/front_en.21.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Extra Creamy Milk Chocolate",
+    "marca": "Waterbridge",
+    "ean": "0777034010298",
+    "ingredientes": [
+      "Sugars (sugar",
+      "lactose)",
+      "Cocoa butter",
+      "Milk powder",
+      "Cocoa mass",
+      "Milk fat",
+      "Whey powder",
+      "Soya lecithin",
+      "Natural vanilla flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/401/0298/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chocolat lait Tanzanie",
+    "marca": "Waterbridge",
+    "ean": "0777034013473",
+    "ingredientes": [
+      "Sucre de canne biologique",
+      "Beurre de cacao biologique",
+      "Poudre de lait entier biologique",
+      "Pâte de cacao biologique",
+      "Lécithine de soja biologique",
+      "Arôme naturel de vanille biologique. Peut Contenir : Ble",
+      "OEuf",
+      "Noix."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/401/3473/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Caramel et sel marin chocolat au lait",
+    "marca": "Waterbridge",
+    "ean": "0777034013497",
+    "ingredientes": [
+      "Sucre de canne biologique",
+      "Beurre de cacao biologique",
+      "Poudre de lait entier biologique",
+      "Pâte de cacao biologique",
+      "Morceaux de caramel biologique (sucre biologique",
+      "sirop de glucose biologique)",
+      "Arôme naturel de vanille biologique",
+      "Lécithine de soja biologique",
+      "Arôme naturel",
+      "Sel marin. Peut Contenir : Ble",
+      "OEuf",
+      "Noix."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/401/3497/front_fr.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Belgian White Chocolate",
+    "marca": "Waterbridge",
+    "ean": "0777034023816",
+    "ingredientes": [
+      "Sugars (sugar",
+      "lactose)",
+      "Cocoa butter",
+      "Skim milk powder",
+      "Milk fat",
+      "Whey powder",
+      "Soya lecithin",
+      "Natural vanilla flavour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/402/3816/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Belgian Milk Chocolate with Pretzel Caramel & Sea Salt",
+    "marca": "Waterbridge",
+    "ean": "0777034025353",
+    "ingredientes": [
+      "Sugar",
+      "Cocoa butter",
+      "Cocoa mass",
+      "Whole milk powder",
+      "Caramel bits (sugar",
+      "glucose syrup",
+      "butter",
+      "cream",
+      "water)",
+      "Pretzel bits (wheat flour",
+      "salt",
+      "sunflower oil",
+      "malted wheat flour",
+      "yeast",
+      "sodium hydroxide)",
+      "Soya lecithin",
+      "Natural vanilla flavour",
+      "Salt"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/703/402/5353/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "WHITE SEEDLESS GRAPES",
+    "marca": "COANA",
+    "ean": "07770841",
+    "ingredientes": [
+      "KlasseI | Class 1 | Klass 1 | LK1 | NOIÓTNTA I| I.Jakost | Classe 1 Ursprung Brasilien Origin Brazil Oprindelsesland Brasilien Alkuperämaa Brasilia Προέλευση Βραζλία Země původu Brazilie Land van oorsprong Brazilië Pays d'origine Brésil Füllgewicht Netto vægt Nettopaino Netto hmotnost Net Weight Netto Vikt Καθαρόβάρος Netto gewicht poids net 500g"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/777/0841/front_de.4.400.jpg",
+    "tahor": true,
+    "pais": "Germany"
+  },
+  {
+    "nombre": "Filets d'anchois marinés à l'ail",
+    "marca": "Apéritif",
+    "ean": "0777087400008",
+    "ingredientes": [
+      "Filets d'anchois marinés 60% (_anchois_ (Engraulis encrasicolus)",
+      "vinaigre d'alcool",
+      "sel",
+      "acidifiant : acide citrique)",
+      "huile de tournesol 36%",
+      "sauce ail et persil 4% (ail 2.2%",
+      "huile de tournesol",
+      "persil",
+      "acidifiant : acide citrique)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/708/740/0008/front_fr.7.400.jpg",
+    "tahor": true,
+    "pais": "France"
+  },
+  {
+    "nombre": "Mostaza Original",
+    "marca": "Kris,Venado",
+    "ean": "0777121400829",
+    "ingredientes": [
+      "Agua",
+      "vinagre",
+      "granos de mostaza",
+      "azúcar",
+      "sal",
+      "colorante (E100ii)",
+      "especias",
+      "conservante (E202)"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/712/140/0829/front_es.4.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Atún Desmenuzado en Agua",
+    "marca": "Gustoso",
+    "ean": "0777125814042",
+    "ingredientes": [
+      "Atún",
+      "agua",
+      "sal."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/712/581/4042/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Prosciutto",
+    "marca": "cappola",
+    "ean": "0777139139696",
+    "ingredientes": [
+      "PORC SEL"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/713/913/9696/front_fr.15.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Té Verde",
+    "marca": "Frutté",
+    "ean": "0777187080341",
+    "ingredientes": [
+      "Té verde deshidratado (Camellia sinensis)."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/718/708/0341/front_es.3.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Fricase tipo Paceño",
+    "marca": "Cocinero Pereira D.",
+    "ean": "0777283016119",
+    "ingredientes": [
+      "Maíz pelado",
+      "chuño",
+      "ají amarillo molido",
+      "comino molido",
+      "ajo molido",
+      "cebolla deshidratada",
+      "perejil deshidratado",
+      "extracto de carne de cerdo."
+    ],
+    "ingredientes_tame": [
+      {
+        "ingrediente": "extracto de carne de cerdo.",
+        "razon": "Contiene extracto de carne de cerdo., impuro según Levítico 11"
+      }
+    ],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/728/301/6119/front_es.4.400.jpg",
+    "tahor": false,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Soft Tofu",
+    "marca": "Superior Natural",
+    "ean": "0777433000197",
+    "ingredientes": [
+      "Water",
+      "Soybeans",
+      "Calcium Sulfate",
+      "Magnesium Chloride."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Smooth Medium Firm Tofu",
+    "marca": "Superior Tofu",
+    "ean": "0777433001224",
+    "ingredientes": [
+      "Water",
+      "soybeans",
+      "calcium sulfate",
+      "magnesium chloride"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/743/300/1224/front_en.4.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Firm Tofu",
+    "marca": "Superior Natural",
+    "ean": "0777433023004",
+    "ingredientes": [
+      "Eau",
+      "Soja",
+      "Sulfate de calcium",
+      "Glucono-delta-lactone."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/743/302/3004/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Sunbrown Australian Calrose Brown Rice",
+    "marca": "SunRice",
+    "ean": "0777455306116",
+    "ingredientes": [
+      "Medium grain brown rice"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/745/530/6116/front_en.17.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Chick Peas",
+    "marca": "Scarpone's",
+    "ean": "0777465001025",
+    "ingredientes": [
+      "Chick peas",
+      "Water",
+      "Salt",
+      "Ascorbic acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/746/500/1025/front_en.5.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Bean Medley",
+    "marca": "Scarpone's",
+    "ean": "0777465001094",
+    "ingredientes": [
+      "Romano (Pinto) beans",
+      "White cannellini beans",
+      "Chick peas",
+      "Red kidney beans",
+      "Spring water",
+      "Sea salt",
+      "Ascorbic acid"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/746/500/1094/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Old Fashioned Fire Roasted Sweet Peppers",
+    "marca": "Scarpone's",
+    "ean": "0777465004514",
+    "ingredientes": [
+      "Sweet peppers",
+      "Water",
+      "Salt",
+      "Citric acid."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/746/500/4514/front_en.7.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Purée de Pommes Poires sans sucres ajoutés",
+    "marca": "BIO Village, Marque Repère",
+    "ean": "07774900",
+    "ingredientes": [
+      "Purée de pommes** 59 %",
+      "purée de poires** 39 %",
+      "antioxydant: acide ascorbique **Ingrédients issuS de l'agriculture biologiaue. INFORM Valeurs H"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/000/000/777/4900/front_fr.6.400.jpg",
+    "tahor": true,
+    "pais": "Réunion"
+  },
+  {
+    "nombre": "cupcakes",
+    "marca": "Hostess",
+    "ean": "0777550011502",
+    "ingredientes": [
+      "Sugar/Glucose-Fructose",
+      "Enriched wheat flour",
+      "Vegetable oil",
+      "Liquid whole egg",
+      "Water",
+      "Glycerin",
+      "Modified milk ingredients",
+      "Modified palm and modified kernel oils",
+      "Baking powder",
+      "Corn starch",
+      "Wheat starch",
+      "Propylene glycol",
+      "Salt",
+      "Modified corn starch",
+      "Sorbitan monostearate",
+      "Dextrose",
+      "Soy lecithin",
+      "Mono and diglycerides",
+      "Potassium sorbate",
+      "Sodium bicarbonate",
+      "Polysorbate 60",
+      "Calcium carbonate",
+      "Cellulose gum",
+      "Sorbic acid",
+      "Guar gum",
+      "Xanthan gum",
+      "Calcium sulphate",
+      "Agar",
+      "Sodium bisulphate",
+      "Locust bean gum",
+      "Sodium phosphate",
+      "Soy protein",
+      "Acacia gum",
+      "Natural and artificial flavour",
+      "Colour"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "imagen no disponible",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Twinkies",
+    "marca": "Hostess",
+    "ean": "0777550011649",
+    "ingredientes": [
+      "Sugars (sugar",
+      "glucose)",
+      "Enriched wheat flour",
+      "Vegetable oil",
+      "Liquid whole eggs",
+      "Glycerin",
+      "Water",
+      "Modified milk ingredients",
+      "Baking powder",
+      "Propylene glycol",
+      "Corn starch",
+      "Salt",
+      "Modified corn starch",
+      "Sorbitan monostearate",
+      "Wheat starch",
+      "Mono and diglycerides",
+      "Soy lecithin",
+      "Potassium sorbate",
+      "Polysorbate 60",
+      "Cellulose gum",
+      "Sorbic acid",
+      "Xanthan gum",
+      "Soy protein",
+      "Sodium bisulphate",
+      "Acacia gum",
+      "Guar gum",
+      "Natural and artificial flavour",
+      "Tartrazine",
+      "Allura red."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/755/001/1649/front_en.13.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Twinkies",
+    "marca": "Hostess",
+    "ean": "0777550013599",
+    "ingredientes": [
+      "Sugars (sugar",
+      "glucose)",
+      "Enriched wheat flour",
+      "Vegetable oil",
+      "Liquid whole eggs",
+      "Glycerin",
+      "Water",
+      "Modified palm and palm kernel oils",
+      "Modified milk ingredients",
+      "Baking powder",
+      "Propylene glycol",
+      "Corn starch",
+      "Salt",
+      "Modified corn starch",
+      "Sorbitan monostearate",
+      "Wheat starch",
+      "Mono and diglycerides",
+      "Soy lecithin",
+      "Potassium sorbate",
+      "Polysorbate 60",
+      "Cellulose gum",
+      "Sorbic acid",
+      "Xanthan gum",
+      "Soy protein",
+      "Sodium bisulphate",
+      "Acacia gum",
+      "Guar gum",
+      "Natural and artificial flavour",
+      "Tartrazine",
+      "Allura red."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/755/001/3599/front_en.12.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Cupcakes",
+    "marca": "Hostess",
+    "ean": "0777550013605",
+    "ingredientes": [
+      "Sugars (sugar",
+      "glucose",
+      "dextrose)",
+      "Enriched wheat flour",
+      "Vegetable oil",
+      "Liquid whole eggs",
+      "Water",
+      "Cocoa",
+      "Glycerin",
+      "Modified milk ingredients",
+      "Modified palm and palm kernel oils",
+      "Baking powder",
+      "Corn starch",
+      "Wheat starch",
+      "Propylene glycol",
+      "Salt",
+      "Modified corn starch",
+      "Sorbitan monostearate",
+      "Soy lecithin",
+      "Mono and diglycerides",
+      "Potassium sorbate",
+      "Baking soda",
+      "Polysorbate 60",
+      "Calcium carbonate",
+      "Cellulose gum",
+      "Sorbic acid",
+      "Guar gum",
+      "Calcium sulphate",
+      "Xanthan gum",
+      "Agar",
+      "Sodium bisulphate",
+      "Locust bean gum",
+      "Sodium phosphate",
+      "Soy protein",
+      "Acacia gum",
+      "Natural and artificial flavour",
+      "Titanium dioxide."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/755/001/3605/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Vanilla Cupcakes",
+    "marca": "Hostess",
+    "ean": "0777550349827",
+    "ingredientes": [
+      "Sugars (sugar",
+      "glucose",
+      "dextrose)",
+      "Enriched wheat flour",
+      "Vegetable oil",
+      "Liquid whole eggs",
+      "Modified palm and palm kernel oils",
+      "Glycerin",
+      "Water",
+      "Modified milk ingredients",
+      "Baking powder",
+      "Corn starch",
+      "Propylene glycol",
+      "Salt",
+      "Wheat starch",
+      "Soy lecithin",
+      "Modified corn starch",
+      "Sorbitan monostearate",
+      "Mono and diglycerides",
+      "Cellulose gum",
+      "Potassium sorbate",
+      "Polysorbate 60",
+      "Guar gum",
+      "Calcium carbonate",
+      "Sorbic acid",
+      "Calcium sulphate",
+      "Xanthan gum",
+      "Sodium bisulphate",
+      "Agar",
+      "Sodium hexametaphosphate",
+      "Locust bean gum",
+      "Soy protein",
+      "Acacia gum",
+      "Natural and artificial flavour",
+      "Titanium dioxide",
+      "Tartrazine",
+      "Allura red."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/755/034/9827/front_en.8.400.jpg",
+    "tahor": true,
+    "pais": "Canada"
+  },
+  {
+    "nombre": "Mini Donuts Powdered",
+    "marca": "Hostess",
+    "ean": "0777550824379",
+    "ingredientes": [
+      "Sugars",
+      "Enriched wheat flour",
+      "Palm oil shortening",
+      "Water",
+      "Vegetable oil",
+      "Soy flour",
+      "Corn starch",
+      "Glycerin",
+      "Modified milk ingredients",
+      "Dried egg yolks",
+      "Baking powder",
+      "Salt",
+      "Potassium sorbate",
+      "Tapioca starch",
+      "Wheat germ",
+      "Sodium propionate",
+      "Wheat starch",
+      "Locust bean gum",
+      "Mono - and di-glycerides",
+      "Sorbic acid",
+      "Xanthan gum",
+      "Cellulose gum",
+      "Guar gum",
+      "Polyglycerol esters of fatty acids",
+      "Polysorbate 60",
+      "Calcium propionate",
+      "Soy lecithin",
+      "Nutmeg oil",
+      "Palm oil",
+      "Natural and artificial flavor",
+      "Titanium dioxide",
+      "Carotene"
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/755/082/4379/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "Bolivia"
+  },
+  {
+    "nombre": "Mini donuts",
+    "marca": "Hostess",
+    "ean": "0777550824393",
+    "ingredientes": [
+      "Enriched wheat flour",
+      "Palm oil shortening",
+      "Water",
+      "Sugars (sugar",
+      "dextrose",
+      "glucose solids)",
+      "Vegetable oil",
+      "Soy flour",
+      "Glycerin",
+      "Modified milk ingredients",
+      "Dried egg yolks",
+      "Baking powder",
+      "Salt",
+      "Potassium sorbate",
+      "Tapioca starch",
+      "Wheat germ",
+      "Sodium propionate",
+      "Wheat starch",
+      "Locust bean gum",
+      "Mono - and di-glycerides",
+      "Sorbic acid",
+      "Xanthan gum",
+      "Cellulose gum",
+      "Guar gum",
+      "Polyglycerol esters of fatty acids",
+      "Polysorbate 60",
+      "Carotene",
+      "Soy lecithin",
+      "Nutmeg oil."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/755/082/4393/front_en.3.400.jpg",
+    "tahor": true,
+    "pais": "desconocido"
+  },
+  {
+    "nombre": "Bolitas de quinoa con agave y cacao",
+    "marca": "Ecocesta",
+    "ean": "0777578125021",
+    "ingredientes": [
+      "Quinoa extrusionada* 70%",
+      "sirope de agave* 23%",
+      "cacao* 7%",
+      "lecitina de soja y aceite de girasol*. (*)= De cultivo ecológico. Puede contener trazas de gluten",
+      "sésamo y frutos secos."
+    ],
+    "ingredientes_tame": [],
+    "imagen": "https://images.openfoodfacts.org/images/products/077/757/812/5021/front_es.5.400.jpg",
+    "tahor": true,
+    "pais": "Spain"
+  }
+]
