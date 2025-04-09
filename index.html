@@ -71,8 +71,10 @@
     <label><input type="radio" name="estadoTahor" value="false"> ❌ Tame (No Apto)</label>
   </div>
 
-  <label for="imagenManual">📷 Subir imagen (opcional):</label>
-  <input type="url" id="imagenManual" placeholder="URL de la imagen del producto">
+
+ <label for="imagenManual">📷 Subir imagen (opcional):</label>
+<input type="file" id="imagenManual" accept="image/*" capture="environment">
+
 
   <button type="submit">Enviar a Revisión</button>
 </form>
