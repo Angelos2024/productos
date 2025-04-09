@@ -36,7 +36,7 @@
 </section>
 
     <!-- FORMULARIO DE BÚSQUEDA -->
-  <section id="formBusquedaProducto" style="display:none;">
+<section id="formBusquedaProducto" style="display:block;">
       <h2>Buscar Producto</h2>
       <div class="grupo-formulario">
         <input type="text" id="marcaEntrada" placeholder="Marca *">
@@ -160,6 +160,11 @@
     }
   });
 
+document.addEventListener("DOMContentLoaded", () => {
+  activarTab('tabBuscar');
+  document.getElementById('formBusquedaProducto').style.display = 'block';
+  document.getElementById('analisisResultado').style.display = 'block';
+});
 
 
 </script>
