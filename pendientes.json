@@ -55,21 +55,5 @@
       "njn"
     ],
     "tahor": false
-  },
-  {
-    "marca": "Coca cola",
-    "nombre": "Coca cola",
-    "pais": "Mexico",
-    "ingredientes": [
-      "AGUA CARBONATADA",
-      "AZÚCARES AÑADIDOS (AZÚCAR Y JARABE DE ALTA FRUCTOSA)",
-      "COLOR CARAMELO CLASE IV",
-      "ACIDO FOSFÓRICO",
-      "SABORIZANTES",
-      "SUCRALOSA (4.4 mg / 100 g) Y CAFEINA",
-      "Color caramelo IV (E150d)​",
-      "ácido fosfórico (E338)."
-    ],
-    "tahor": false
   }
 ]
