@@ -66,10 +66,17 @@
   <textarea id="ingredientesManual" placeholder="Ingredientes separados por coma" required></textarea>
 
   <label><strong>¿Es Tahor o Tame?</strong></label>
-  <div class="grupo-formulario">
-    <label><input type="radio" name="estadoTahor" value="true" required> ✅ Tahor (Apto)</label>
-    <label><input type="radio" name="estadoTahor" value="false"> ❌ Tame (No Apto)</label>
-  </div>
+<div class="selector-tahor">
+  <label id="labelTahor" for="tahor">
+    <input type="radio" name="estadoTahor" id="tahor" value="true" required>
+    ✅ Apto (Tahor)
+  </label>
+  <label id="labelTame" for="tame">
+    <input type="radio" name="estadoTahor" id="tame" value="false" required>
+    ❌ No Apto (Tame)
+  </label>
+</div>
+
 
 
  <label for="imagenManual">📷 Subir imagen (opcional):</label>
