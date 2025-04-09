@@ -1,16 +1,5 @@
 [
   {
-    "marca": "Coca cola",
-    "nombre": "Coca cola",
-    "pais": "Mexico",
-    "ingredientes": [
-      "logos",
-      "1",
-      ""
-    ],
-    "tahor": false
-  },
-  {
     "marca": "cocis",
     "nombre": "ciie",
     "pais": "mj",
