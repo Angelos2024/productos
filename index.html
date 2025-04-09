@@ -58,13 +58,26 @@
     <!-- REGISTRO MANUAL -->
     <section id="registroManual" style="display:none">
       <h2>Registrar Producto Manualmente</h2>
-      <form id="formRegistroManual">
-        <input type="text" id="marcaManual" placeholder="Marca del producto" required>
-        <input type="text" id="nombreManual" placeholder="Nombre del producto" required>
-        <input type="text" id="paisManual" placeholder="País o región" required>
-        <textarea id="ingredientesManual" placeholder="Ingredientes separados por coma" required></textarea>
-        <button type="submit">Enviar a Revisión</button>
-      </form>
+   <form id="formRegistroManual">
+  <input type="text" id="marcaManual" placeholder="Marca del producto" required>
+  <input type="text" id="nombreManual" placeholder="Nombre del producto" required>
+  <input type="text" id="eanManual" placeholder="Código de barras (opcional)">
+  <input type="text" id="paisManual" placeholder="País o región" required>
+  <textarea id="ingredientesManual" placeholder="Ingredientes separados por coma" required></textarea>
+
+  <label><strong>¿Es Tahor o Tame?</strong></label>
+  <div class="grupo-formulario">
+    <label><input type="radio" name="estadoTahor" value="true" required> ✅ Tahor (Apto)</label>
+    <label><input type="radio" name="estadoTahor" value="false"> ❌ Tame (No Apto)</label>
+  </div>
+
+  <label for="imagenManual">📷 Subir imagen (opcional):</label>
+  <input type="url" id="imagenManual" placeholder="URL de la imagen del producto">
+
+  <button type="submit">Enviar a Revisión</button>
+</form>
+
+
       <p id="mensajeUsuario"></p>
     </section>
 
