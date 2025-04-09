@@ -92,18 +92,18 @@ if (html) {
 function abrirTahor() {
   document.getElementById('menuInicial').style.display = 'none';
   document.getElementById('bloqueTahor').style.display = 'block';
-  document.getElementById('registroManual').style.display = 'block';
+
+  // Mostrar solo la pestaña de búsqueda al iniciar
+  document.getElementById('formBusquedaProducto').style.display = 'block';
+  document.getElementById('analisisResultado').style.display = 'block';
+  document.getElementById('registroManual').style.display = 'none';
+  document.getElementById('buzonRevisiones').style.display = 'none';
+  activarTab('tabBuscar');
+
   resultadoDiv.innerHTML = '';
   mensajeUsuario.innerHTML = '';
 }
 
-// Tabs de navegación
-document.getElementById('tabBuscar').addEventListener('click', () => {
-  document.getElementById('formBusquedaProducto').style.display = 'block';
-  document.getElementById('analisisResultado').style.display = 'block';
-  document.getElementById('registroManual').style.display = 'none';
-  activarTab('tabBuscar');
-});
 
 document.getElementById('tabRegistrar').addEventListener('click', () => {
   document.getElementById('formBusquedaProducto').style.display = 'none';
