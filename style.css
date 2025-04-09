@@ -134,24 +134,27 @@ img {
 }
 
 #tabs button {
-  background-color: #000;
+  background-color: #d6eaf8; /* azul claro para inactivas */
+  color: #2c3e50;
   border: none;
   padding: 0.6rem 1rem;
   border-radius: 8px 8px 0 0;
   cursor: pointer;
   margin-right: 0.3rem;
   font-weight: bold;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 #tabs button:hover {
-  background-color: #ddd;
+  background-color: #85c1e9; /* un azul un poco más marcado al pasar mouse */
+  color: #1b2631;
 }
 
 #tabs .tab-activa {
-  background-color: #3498db;
+  background-color: #3498db; /* azul activo más fuerte */
   color: #fff;
 }
+
 
 .tarjeta-pendiente {
   background-color: #fff;
