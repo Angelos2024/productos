@@ -244,3 +244,34 @@ document.getElementById("formRegistroManual").addEventListener("submit", async (
     mensajeUsuario.innerHTML = "❌ No se pudo registrar el producto.";
   }
 });
+async function buscarEnOpenFoodFacts(nombre, ean) {
+  try {
+    let url = "";
+    if (ean && /^[0-9]{8,14}$/.test(ean)) {
+      url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+    } else {
+      const nombreBusqueda = encodeURIComponent(nombre);
+      url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1`;
+    }
+
+    const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+    const data = await res.json();
+    const prod = data.product || (data.products && data.products[0]);
+    if (!prod) return null;
+
+    const ingredientes = prod.ingredients_text || "";
+    const lista = ingredientes.toLowerCase().split(/,|\./).map(i => i.trim()).filter(i => i.length > 1);
+    const htmlIng = lista.map(ing => isTame(ing) ? `<span style="color:red">${ing}</span>` : `<span>${ing}</span>`).join(', ');
+    const tame = lista.some(i => isTame(i));
+
+    return `
+      ${prod.image_url ? `<img src="${prod.image_url}" alt="Imagen del producto">` : ''}
+      <p><strong>${prod.product_name || 'Producto'}</strong></p>
+      <p>Ingredientes: ${htmlIng}</p>
+      <p style="color:${tame ? 'red' : 'green'};">
+        ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>`;
+  } catch (e) {
+    console.error("❌ Error al consultar OpenFoodFacts:", e);
+    return null;
+  }
+}
