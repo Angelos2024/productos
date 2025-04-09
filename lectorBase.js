@@ -1,9 +1,10 @@
 // Configuración
-const MAX_ARCHIVOS = 1;  // Número total de archivos
+const MAX_ARCHIVOS = 15;  // Puedes ajustar según tu cantidad real
 const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/base/';
+const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
 const PATRON_ARCHIVO = i => `producto${i}.json`;
 
-// Normalización como en main.js
+// Normalización
 function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
@@ -17,7 +18,7 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
-// Agrega animación de carga
+// Animación de carga
 function mostrarCarga() {
   const div = document.getElementById('analisisResultado');
   div.innerHTML = `
@@ -28,21 +29,23 @@ function mostrarCarga() {
   `;
 }
 
-// Elimina la animación
 function quitarCarga() {
   const div = document.getElementById('analisisResultado');
   const anim = div.querySelector('.cargando');
   if (anim) anim.remove();
 }
 
-// Busca archivo por archivo
+// Función de búsqueda
 async function buscarProductoEnArchivos(nombre, marca, ean) {
   mostrarCarga();
   const clave = normalizeYsingularizar(marca + " " + nombre);
 
-  for (let i = 1; i <= MAX_ARCHIVOS; i++) {
-    const url = `${RUTA_BASE}${PATRON_ARCHIVO(i)}`;
+  const urls = [
+    `${RUTA_BASE}${ARCHIVO_BASE_PRINCIPAL}`,
+    ...Array.from({ length: MAX_ARCHIVOS }, (_, i) => `${RUTA_BASE}${PATRON_ARCHIVO(i + 1)}`)
+  ];
 
+  for (const url of urls) {
     try {
       const res = await fetch(url);
       if (!res.ok) continue;
@@ -80,7 +83,7 @@ async function buscarProductoEnArchivos(nombre, marca, ean) {
         }
       }
     } catch (err) {
-      // Si falla un archivo, simplemente pasa al siguiente
+      console.warn("❌ Error cargando:", url, err);
       continue;
     }
   }
