@@ -208,3 +208,33 @@ img {
   transform: scale(1.2);
   margin-right: 0.5rem;
 }
+.selector-tahor {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #fdfdfd;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.selector-tahor label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.selector-tahor input[type="radio"] {
+  margin-right: 0.6rem;
+  transform: scale(1.2);
+  accent-color: #3498db;
+}
+
+.selector-tahor label[for="tahor"] {
+  color: green;
+  font-weight: bold;
+}
+
+.selector-tahor label[for="tame"] {
+  color: red;
+  font-weight: bold;
+}
