@@ -1,8 +1,8 @@
-function mostrarMensajeTemporal(mensaje, segundos = 30) {
+function mostrarMensajeTemporalYEnviar(producto, segundos = 30) {
   const contenedor = document.getElementById("mensajeUsuario");
   contenedor.innerHTML = `
     <div>
-      ⏳ ${mensaje}<br>
+      ⏳ 📡 Enviando producto al servidor...<br>
       Espera <strong id="tiempoRestante">${segundos}</strong> segundos mientras se actualiza la base de datos...
       <div id="barraProgreso"><div id="barraProgresoInterna"></div></div>
     </div>
@@ -21,11 +21,30 @@ function mostrarMensajeTemporal(mensaje, segundos = 30) {
 
     if (tiempoRestante <= 0) {
       clearInterval(intervalo);
-      contenedor.innerHTML = "✅ Producto enviado para revisión. Puedes continuar.";
-      localStorage.removeItem("envioEnCurso");
-      localStorage.removeItem("envioTiempo");
+      enviarProductoAGitHub(producto);
     }
   }, 1000);
+}
+
+function enviarProductoAGitHub(producto) {
+  fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ accion: "registrar", producto })
+  })
+  .then(res => {
+    if (!res.ok) throw new Error("Error al registrar producto");
+    document.getElementById("mensajeUsuario").innerHTML = "✅ Producto enviado para revisión. Puedes continuar.";
+    localStorage.removeItem("envioEnCurso");
+    localStorage.removeItem("envioTiempo");
+    document.getElementById("formRegistroManual").reset();
+  })
+  .catch(err => {
+    console.error("❌ Error al registrar producto:", err);
+    document.getElementById("mensajeUsuario").innerHTML = "❌ No se pudo registrar el producto.";
+    localStorage.removeItem("envioEnCurso");
+    localStorage.removeItem("envioTiempo");
+  });
 }
 
 function verificarConflictoEnvio() {
@@ -49,17 +68,27 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!form) return;
 
   form.addEventListener("submit", (e) => {
-    if (verificarConflictoEnvio()) {
-      e.preventDefault();
-      return;
-    }
+    e.preventDefault();
 
-    // Marca el envío como en curso
+    if (verificarConflictoEnvio()) return;
+
+    // Extrae el producto del formulario
+    const producto = {
+      marca: document.getElementById("marcaManual").value.trim(),
+      nombre: document.getElementById("nombreManual").value.trim(),
+      pais: document.getElementById("paisManual").value.trim(),
+      ingredientes: document.getElementById("ingredientesManual").value
+        .split(",")
+        .map(i => i.trim()),
+      tahor: false
+    };
+
+    // Marca el envío como en curso por 30 segundos
     const tiempoFuturo = Date.now() + 30000;
     localStorage.setItem("envioEnCurso", "true");
     localStorage.setItem("envioTiempo", tiempoFuturo);
 
-    // Mostrar mensaje con progreso
-    mostrarMensajeTemporal("📡 Enviando producto al servidor...", 30);
+    // Muestra la espera y luego hace el envío real
+    mostrarMensajeTemporalYEnviar(producto, 30);
   });
 });
