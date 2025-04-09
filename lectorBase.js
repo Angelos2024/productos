@@ -74,18 +74,16 @@ async function buscarProductoEnArchivos(nombre, marca, ean) {
             `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
         }
 
-        html += `<p style="color:${producto.tahor ? 'green' : 'red'};">
+ html += `<p style="color:${producto.tahor ? 'green' : 'red'};">
           ${producto.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>`;
 
-        resultadoDiv.innerHTML = html;
-        return true;
+        return html;
       }
     } catch (err) {
-      // Archivo inexistente o error de red, continúa con el siguiente
       continue;
     }
   }
 
   quitarCarga();
-  return false; // No encontrado
+  return null;
 }
