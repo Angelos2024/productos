@@ -68,5 +68,21 @@
     ],
     "tahor": false,
     "estado": "pendiente"
+  },
+  {
+    "marca": "coca cola",
+    "nombre": "coca cola",
+    "pais": "México",
+    "ingredientes": [
+      "AGUA CARBONATADA",
+      "AZÚCARES AÑADIDOS (AZÚCAR Y JARABE DE ALTA FRUCTOSA)",
+      "COLOR CARAMELO CLASE IV",
+      "ACIDO FOSFÓRICO",
+      "SABORIZANTES",
+      "SUCRALOSA (4.4 mg / 100 g) Y CAFEINA",
+      "Color caramelo IV (E150d)​",
+      "Saborizantes naturales (incluyendo cafeína)."
+    ],
+    "tahor": false
   }
 ]
