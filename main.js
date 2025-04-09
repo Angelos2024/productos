@@ -77,8 +77,12 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
 
-  const encontrado = await buscarProductoEnArchivos(nombre, marca, ean);
-  if (encontrado) return;
+ const html = await buscarProductoEnArchivos(nombre, marca, ean);
+if (html) {
+  resultadoDiv.innerHTML = html;
+  return;
+}
+
 
   resultadoDiv.innerHTML += '<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>';
   const res = await buscarEnOpenFoodFacts(nombre, ean);
