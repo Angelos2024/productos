@@ -1,7 +1,7 @@
 // Configuración
 const MAX_ARCHIVOS = 15;  // Número total de archivos
 const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/base/';
-const PATRON_ARCHIVO = i => `producto_(${i}).json`;
+const PATRON_ARCHIVO = i => `producto${i}.json`;
 
 // Normalización como en main.js
 function normalizeYsingularizar(txt) {
