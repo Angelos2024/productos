@@ -1,5 +1,3 @@
-// cargandogithub.js
-
 function mostrarMensajeTemporal(mensaje, segundos = 30) {
   const contenedor = document.getElementById("mensajeUsuario");
   contenedor.innerHTML = `
@@ -31,16 +29,17 @@ function mostrarMensajeTemporal(mensaje, segundos = 30) {
 }
 
 function verificarConflictoEnvio() {
-  if (localStorage.getItem("envioEnCurso")) {
-    const tiempo = localStorage.getItem("envioTiempo");
-    const segundosRestantes = Math.ceil((parseInt(tiempo) - Date.now()) / 1000);
-    if (segundosRestantes > 0) {
-      document.getElementById("mensajeUsuario").innerHTML = `
-        ⏳ Otro usuario está registrando un producto.<br>
-        Por favor, espera <strong>${segundosRestantes}</strong> segundos antes de intentar de nuevo.
-      `;
-      return true;
-    }
+  const envioActivo = localStorage.getItem("envioEnCurso");
+  const tiempoFinal = parseInt(localStorage.getItem("envioTiempo"), 10);
+  const ahora = Date.now();
+
+  if (envioActivo && tiempoFinal > ahora) {
+    const segundosRestantes = Math.ceil((tiempoFinal - ahora) / 1000);
+    document.getElementById("mensajeUsuario").innerHTML = `
+      ⏳ Otro usuario está registrando un producto.<br>
+      Por favor, espera <strong>${segundosRestantes}</strong> segundos antes de intentar de nuevo.
+    `;
+    return true;
   }
   return false;
 }
@@ -49,16 +48,18 @@ document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("formRegistroManual");
   if (!form) return;
 
-  form.addEventListener("submit", async (e) => {
+  form.addEventListener("submit", (e) => {
     if (verificarConflictoEnvio()) {
       e.preventDefault();
       return;
     }
 
     // Marca el envío como en curso
+    const tiempoFuturo = Date.now() + 30000;
     localStorage.setItem("envioEnCurso", "true");
-    localStorage.setItem("envioTiempo", Date.now() + 30000); // 30 seg
+    localStorage.setItem("envioTiempo", tiempoFuturo);
 
+    // Mostrar mensaje con progreso
     mostrarMensajeTemporal("📡 Enviando producto al servidor...", 30);
   });
 });
