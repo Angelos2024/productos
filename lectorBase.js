@@ -38,8 +38,6 @@ function quitarCarga() {
 // Busca archivo por archivo
 async function buscarProductoEnArchivos(nombre, marca, ean) {
   mostrarCarga();
-  const resultadoDiv = document.getElementById('analisisResultado');
-
   const clave = normalizeYsingularizar(marca + " " + nombre);
 
   for (let i = 1; i <= MAX_ARCHIVOS; i++) {
@@ -49,37 +47,40 @@ async function buscarProductoEnArchivos(nombre, marca, ean) {
       const res = await fetch(url);
       if (!res.ok) continue;
 
-      const producto = await res.json();
+      const productos = await res.json();
 
-      const claveProd = normalizeYsingularizar(producto.marca + " " + producto.nombre);
-      const eanCoincide = producto.ean && producto.ean === ean;
+      for (const producto of productos) {
+        const claveProd = normalizeYsingularizar(producto.marca + " " + producto.nombre);
+        const eanCoincide = producto.ean && producto.ean === ean;
 
-      if (clave === claveProd || (ean && eanCoincide)) {
-        quitarCarga();
+        if (clave === claveProd || (ean && eanCoincide)) {
+          quitarCarga();
 
-        const ing = producto.ingredientes.map(i =>
-          isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
+          const ing = producto.ingredientes.map(i =>
+            isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
 
-        let html = `
-          <p><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</p>
-          ${producto.imagen && producto.imagen !== "imagen no disponible" ? 
-            `<img src="${producto.imagen}" alt="Imagen del producto" style="max-width:200px; display:block; margin-bottom:10px;">` :
-            `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
-          <p><strong>Ingredientes:</strong> ${ing}</p>
-        `;
+          let html = `
+            <p><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</p>
+            ${producto.imagen && producto.imagen !== "imagen no disponible" ? 
+              `<img src="${producto.imagen}" alt="Imagen del producto" style="max-width:200px;">` :
+              `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
+            <p><strong>Ingredientes:</strong> ${ing}</p>
+          `;
 
-        if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
-          html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-          html += `<ul style="color:red;">${producto.ingredientes_tame.map(obj =>
-            `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
+          if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
+            html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
+            html += `<ul style="color:red;">${producto.ingredientes_tame.map(obj =>
+              `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
+          }
+
+          html += `<p style="color:${producto.tahor ? 'green' : 'red'};">
+            ${producto.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>`;
+
+          return html;
         }
-
- html += `<p style="color:${producto.tahor ? 'green' : 'red'};">
-          ${producto.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>`;
-
-        return html;
       }
     } catch (err) {
+      // Si falla un archivo, simplemente pasa al siguiente
       continue;
     }
   }
