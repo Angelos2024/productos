@@ -38,6 +38,7 @@ function quitarCarga() {
 // Busca archivo por archivo
 async function buscarProductoEnArchivos(nombre, marca, ean) {
   mostrarCarga();
+  const resultadoDiv = document.getElementById('analisisResultado');
 
   const clave = normalizeYsingularizar(marca + " " + nombre);
 
@@ -56,7 +57,6 @@ async function buscarProductoEnArchivos(nombre, marca, ean) {
       if (clave === claveProd || (ean && eanCoincide)) {
         quitarCarga();
 
-        const resultadoDiv = document.getElementById('analisisResultado');
         const ing = producto.ingredientes.map(i =>
           isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
 
@@ -68,7 +68,7 @@ async function buscarProductoEnArchivos(nombre, marca, ean) {
           <p><strong>Ingredientes:</strong> ${ing}</p>
         `;
 
-        if (producto.ingredientes_tame.length > 0) {
+        if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
           html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
           html += `<ul style="color:red;">${producto.ingredientes_tame.map(obj =>
             `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
