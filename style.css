@@ -197,3 +197,14 @@ img {
   100% { transform: rotate(360deg); }
 }
 
+#registroManual .grupo-formulario label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+}
+
+#registroManual input[type="radio"] {
+  transform: scale(1.2);
+  margin-right: 0.5rem;
+}
