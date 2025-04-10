@@ -72,6 +72,7 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 
   for (const url of urls) {
     try {
+       console.log(`🔍 Buscando en: ${url}`); // ← Aquí muestra el archivo que está leyendo
       const res = await fetch(url);
       if (!res.ok) continue;
 
