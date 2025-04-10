@@ -93,7 +93,8 @@ if (resultadosHTML.length < 5) {
     <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
   `;
 
-  const resultadoOFF = await buscarEnOpenFoodFacts(nombre, ean, pais);
+const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
+
 
   if (resultadoOFF) {
     resultadosHTML.push(...resultadoOFF); // resultadoOFF será un array de HTMLs
@@ -254,7 +255,8 @@ async function rechazarProducto(index) {
 }
 
 
-async function buscarEnOpenFoodFacts(nombre, ean, pais = "") {
+async function buscarEnOpenFoodFacts(nombre, marca, ean, pais = "") {
+
   try {
     let resultados = [];
     let productos = [];
