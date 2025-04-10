@@ -284,20 +284,26 @@ productos = productos.filter(p => {
   const nombreCoincide = nombreProd.includes(claveNombre);
   const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
 
-  return nombreCoincide && marcaCoincide;
+  return nombreCoincide || marcaCoincide;
 });
+
 
 
     }
 
     // Filtrar por país si se indica
-    if (pais) {
-      productos = productos.filter(p => {
-        const tags = (p.countries_tags || []).map(c => c.replace('en:', '').toLowerCase());
-        const texto = (p.countries || "").toLowerCase();
-        return tags.includes(pais.toLowerCase()) || texto.includes(pais.toLowerCase());
-      });
-    }
+if (pais) {
+  const productosFiltrados = productos.filter(p => {
+    const tags = (p.countries_tags || []).map(c => c.replace('en:', '').toLowerCase());
+    const texto = (p.countries || "").toLowerCase();
+    return tags.includes(pais.toLowerCase()) || texto.includes(pais.toLowerCase());
+  });
+
+  // Solo si hay productos filtrados por país, usamos ese filtro
+  if (productosFiltrados.length > 0) {
+    productos = productosFiltrados;
+  }
+}
 
     for (const prod of productos) {
     if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
