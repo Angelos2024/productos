@@ -139,6 +139,13 @@ function activarTab(idActiva) {
   });
   document.getElementById(idActiva)?.classList.add('tab-activa');
 }
+function mostrarFormularioRegistro() {
+  document.getElementById('formBusquedaProducto').style.display = 'none';
+  document.getElementById('analisisResultado').style.display = 'none';
+  document.getElementById('registroManual').style.display = 'block';
+  activarTab('tabRegistrar');
+  mensajeUsuario.innerHTML = '';
+}
 
 // Añadir pestaña de revisión solo si no existe
 function mostrarBuzonAdmin() {
