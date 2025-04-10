@@ -277,3 +277,5 @@ async function buscarEnOpenFoodFacts(nombre, ean) {
     return null;
   }
 }
+
+document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
