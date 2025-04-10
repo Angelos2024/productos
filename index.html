@@ -35,30 +35,36 @@
   </div>
 </section>
 
-    <!-- FORMULARIO DE BÚSQUEDA -->
+<!-- FORMULARIO DE BÚSQUEDA MEJORADO -->
 <section id="formBusquedaProducto" style="display:block;">
-      <h2>Buscar Producto</h2>
-      <div class="grupo-formulario">
-        <select id="paisFiltro">
-  <option value="">-- Selecciona País --</option>
-  <option value="España">España</option>
-  <option value="Francia">Francia</option>
-  <option value="México">México</option>
-  <option value="USA">USA</option>
-</select>
+  <h2>Buscar Producto</h2>
 
-        <input type="text" id="marcaEntrada" placeholder="Marca *">
-        <input type="text" id="nombreEntrada" placeholder="Nombre del producto *">
-        <input type="text" id="eanEntrada" placeholder="Código de barras">
-      </div>
+  <!-- OPCIÓN 1: Búsqueda por nombre, marca y país -->
+  <div class="grupo-formulario" style="background:#ffffff; border:1px solid #ccc; padding:1rem; border-radius:10px; margin-bottom:1rem">
+    <h3 style="margin-top:0;">🔎 Buscar por Nombre / Marca / País</h3>
+    <input type="text" id="nombreEntrada" placeholder="Nombre del producto *">
+    <input type="text" id="marcaEntrada" placeholder="Marca *">
+    <select id="paisFiltro">
+      <option value="">-- Selecciona País --</option>
+      <option value="México">México</option>
+      <option value="USA">USA</option>
+      <option value="España">España</option>
+      <option value="Francia">Francia</option>
+    </select>
+    <button id="botonBusqueda" style="margin-top:0.5rem">🔍 Buscar por nombre</button>
+  </div>
 
-      <select id="selectCamara" class="dropdown-camara"></select>
+  <!-- OPCIÓN 2: Búsqueda por código de barras -->
+  <div class="grupo-formulario" style="background:#f0f0f0; border:1px solid #ccc; padding:1rem; border-radius:10px;">
+    <h3 style="margin-top:0;">📷 Buscar por Código de Barras (EAN)</h3>
+    <input type="text" id="eanEntrada" placeholder="Código de barras (EAN)">
+    <select id="selectCamara" class="dropdown-camara"></select>
+    <div class="botones">
+      <button id="escanearCodigo">📷 Escanear</button>
+    </div>
+  </div>
+</section>
 
-      <div class="botones">
-        <button id="botonBusqueda">🔍 Buscar</button>
-        <button id="escanearCodigo">📷 Escanear</button>
-      </div>
-    </section>
 
     <!-- RESULTADOS -->
     <section id="analisisResultado"></section>
