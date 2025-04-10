@@ -1,8 +1,9 @@
 // Configuración
 const MAX_ARCHIVOS = 15;  // Puedes ajustar según tu cantidad real
-const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/base/';
+const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
 const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
-const PATRON_ARCHIVO = i => `producto${i}.json`;
+const PATRON_ARCHIVO = i => `base/producto${i}.json`;
+
 
 // Normalización
 function normalizeYsingularizar(txt) {
