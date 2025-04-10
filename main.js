@@ -79,30 +79,41 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
 
-const html = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+const resultadosHTML = [];
+const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
 
-// Si hay coincidencias locales
-if (html) {
-  resultadoDiv.innerHTML = `
-    <p><strong>🔎 Se encontraron coincidencias en la base local:</strong></p>
-    ${html}
-  `;
-  return;
+if (htmlLocales) {
+  resultadosHTML.push(...htmlLocales.split('<hr>')); // separar productos individuales
 }
 
-// Si no hay coincidencias locales
-resultadoDiv.innerHTML = `
-  <p style="color:red;">❌ Producto no encontrado en base local.</p>
-  <p>¿Nos ayudas a registrarlo? 🙌</p>
-  <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-  <hr>
-  <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
-`;
+// Si aún hay menos de 5 coincidencias, buscar en OpenFoodFacts
+if (resultadosHTML.length < 5) {
+  resultadoDiv.innerHTML = `
+    <p><strong>🔍 Buscando coincidencias... (${resultadosHTML.length} encontradas hasta ahora)</strong></p>
+    <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
+  `;
 
-const resultadoOFF = await buscarEnOpenFoodFacts(nombre, ean);
+  const resultadoOFF = await buscarEnOpenFoodFacts(nombre, ean, pais);
 
-resultadoDiv.innerHTML += resultadoOFF || "<p style='color:red;'>❌ No se encontró información en OpenFoodFacts.</p>";
+  if (resultadoOFF) {
+    resultadosHTML.push(...resultadoOFF); // resultadoOFF será un array de HTMLs
+  }
+}
 
+// Si al final hay coincidencias, mostrarlas
+if (resultadosHTML.length > 0) {
+  resultadoDiv.innerHTML = `
+    <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+    ${resultadosHTML.slice(0, 5).join('<hr>')}
+  `;
+} else {
+  // Si no se encontró nada en ningún lado
+  resultadoDiv.innerHTML = `
+    <p style="color:red;">❌ Producto no encontrado.</p>
+    <p>¿Nos ayudas a registrarlo? 🙌</p>
+    <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+  `;
+}
 
 });
 
@@ -243,36 +254,76 @@ async function rechazarProducto(index) {
 }
 
 
-async function buscarEnOpenFoodFacts(nombre, ean) {
+async function buscarEnOpenFoodFacts(nombre, ean, pais = "") {
   try {
-    let url = "";
+    let resultados = [];
+    let productos = [];
+
     if (ean && /^[0-9]{8,14}$/.test(ean)) {
-      url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+      const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+      const res = await fetch(url);
+      const data = await res.json();
+      if (data.product) productos.push(data.product);
     } else {
       const nombreBusqueda = encodeURIComponent(nombre);
-      url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1`;
+      const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=10`;
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      const data = await res.json();
+      productos = data.products || [];
     }
 
-    const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
-    const data = await res.json();
-    const prod = data.product || (data.products && data.products[0]);
-    if (!prod) return null;
+    // Filtrar por país si se indica
+    if (pais) {
+      productos = productos.filter(p => {
+        const tags = (p.countries_tags || []).map(c => c.replace('en:', '').toLowerCase());
+        const texto = (p.countries || "").toLowerCase();
+        return tags.includes(pais.toLowerCase()) || texto.includes(pais.toLowerCase());
+      });
+    }
 
-    const ingredientes = prod.ingredients_text || "";
-    const lista = ingredientes.toLowerCase().split(/,|\./).map(i => i.trim()).filter(i => i.length > 1);
-    const htmlIng = lista.map(ing => isTame(ing) ? `<span style="color:red">${ing}</span>` : `<span>${ing}</span>`).join(', ');
-    const tame = lista.some(i => isTame(i));
+    for (const prod of productos) {
+      if (!prod.product_name || !prod.ingredients_text) continue;
 
-    return `
-      ${prod.image_url ? `<img src="${prod.image_url}" alt="Imagen del producto">` : ''}
-      <p><strong>${prod.product_name || 'Producto'}</strong></p>
-      <p>Ingredientes: ${htmlIng}</p>
-      <p style="color:${tame ? 'red' : 'green'};">
-        ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>`;
+      const ingredientes = prod.ingredients_text.toLowerCase()
+        .split(/,|\./)
+        .map(i => i.trim())
+        .filter(i => i.length > 1);
+
+      const htmlIng = ingredientes.map(ing =>
+        isTame(ing) ? `<span style="color:red">${ing}</span>` : `<span>${ing}</span>`
+      ).join(', ');
+
+      const ingredientesTame = ingredientes.filter(isTame);
+      const tame = ingredientesTame.length > 0;
+
+      let html = `
+        <details class="detalle-producto">
+          <summary><strong>${prod.product_name}</strong> – ${prod.brands || "Marca desconocida"}</summary>
+          ${prod.image_url ? `<img src="${prod.image_url}" alt="Imagen del producto" style="max-width:200px;">` : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+          <p><strong>Ingredientes:</strong> ${htmlIng}</p>
+      `;
+
+      if (tame) {
+        html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
+        html += `<ul style="color:red;">${ingredientesTame.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
+      }
+
+      html += `<p style="color:${tame ? 'red' : 'green'};">
+        ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>
+        </details>
+      `;
+
+      resultados.push(html);
+      if (resultados.length >= 5) break;
+    }
+
+    return resultados.length > 0 ? resultados : null;
+
   } catch (e) {
     console.error("❌ Error al consultar OpenFoodFacts:", e);
     return null;
   }
 }
+
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
