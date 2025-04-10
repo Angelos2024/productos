@@ -70,6 +70,4 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 }
 
 
-  quitarCarga();
-  return null;
-}
+
