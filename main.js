@@ -101,13 +101,9 @@ resultadoDiv.innerHTML = `
 
 const resultadoOFF = await buscarEnOpenFoodFacts(nombre, ean);
 
-resultadoDiv.innerHTML += res || "<p style='color:red;'>❌ No se encontró información en OpenFoodFacts.</p>";
+resultadoDiv.innerHTML += resultadoOFF || "<p style='color:red;'>❌ No se encontró información en OpenFoodFacts.</p>";
 
 
-
-  resultadoDiv.innerHTML += '<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>';
-  const res = await buscarEnOpenFoodFacts(nombre, ean);
-resultadoDiv.innerHTML += resultadoOFF || "<p>❌ No se encontró información en OpenFoodFacts.</p>";
 });
 
 function abrirTahor() {
