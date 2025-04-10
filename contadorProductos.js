@@ -1,43 +1,24 @@
-async function contarProductosRegistrados() {
-  let total = 0;
+document.addEventListener('DOMContentLoaded', async () => {
+  const rutasArchivos = [
+    'base_tahor_tame.json',
+    ...Array.from({ length: 15 }, (_, i) => `base/producto${i + 1}.json`)
+  ];
 
-  try {
-    // Contar base principal
-    const resBase = await fetch('base_tahor_tame.json');
-    if (resBase.ok) {
-      const baseGeneral = await resBase.json();
-      if (Array.isArray(baseGeneral)) total += baseGeneral.length;
-    } else {
-      console.warn('⚠️ No se pudo cargar base_tahor_tame.json');
-    }
+  let totalProductos = 0;
 
-    // Contar archivos en /base/
-    const MAX_ARCHIVOS = 15;
-    for (let i = 1; i <= MAX_ARCHIVOS; i++) {
-      try {
-        const res = await fetch(`base/producto${i}.json`);
-        if (res.ok) {
-          const producto = await res.json();
-          if (producto?.nombre) total++;
-        }
-      } catch (e) {
-        console.warn(`⚠️ base/producto${i}.json no cargó`);
-      }
-    }
-
-    // Mostrar resultado
-    const contador = document.getElementById('contadorProductos');
-    if (contador) {
-      contador.textContent = `📦 Productos registrados: ${total}`;
-    }
-
-  } catch (error) {
-    console.error("❌ Error al contar productos:", error);
-    const contador = document.getElementById('contadorProductos');
-    if (contador) {
-      contador.textContent = "❌ Error al contar productos.";
+  for (const ruta of rutasArchivos) {
+    try {
+      const respuesta = await fetch(ruta);
+      if (!respuesta.ok) throw new Error(`No se pudo cargar ${ruta}`);
+      const datos = await respuesta.json();
+      totalProductos += Array.isArray(datos) ? datos.length : 1;
+    } catch (error) {
+      console.error(`Error al procesar ${ruta}:`, error);
     }
   }
-}
 
-document.addEventListener('DOMContentLoaded', contarProductosRegistrados);
+  const contadorElement = document.getElementById('contadorProductos');
+  if (contadorElement) {
+    contadorElement.textContent = `Total de productos registrados: ${totalProductos}`;
+  }
+});
