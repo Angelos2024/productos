@@ -65,6 +65,8 @@ botonBusqueda.addEventListener('click', async () => {
   const marca = document.getElementById('marcaEntrada').value.trim();
   const nombre = document.getElementById('nombreEntrada').value.trim();
   const ean = document.getElementById('eanEntrada')?.value.trim();
+    const pais = document.getElementById('paisFiltro')?.value.trim() || "";
+
 
   if (!ean && (!marca || !nombre)) {
     alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
@@ -77,7 +79,8 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
 
- const html = await buscarProductoEnArchivos(nombre, marca, ean);
+  const html = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+
 if (html) {
   resultadoDiv.innerHTML = html;
   return;
