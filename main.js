@@ -355,12 +355,20 @@ if (pais) {
     return null;
   }
 }
-function scrollAResultados() {
+function scrollAResultados(intentos = 0) {
   const resultados = document.getElementById('analisisResultado');
-  if (resultados) {
+  if (!resultados) return;
+
+  // Si ya hay contenido y altura suficiente
+  if (resultados.offsetHeight > 0 || intentos >= 5) {
     resultados.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
   }
+
+  // Si aún no tiene altura visible, espera y vuelve a intentar
+  setTimeout(() => scrollAResultados(intentos + 1), 100);
 }
+
 
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
