@@ -37,59 +37,38 @@ function quitarCarga() {
 
 // Función de búsqueda
 async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
-
   mostrarCarga();
   const clave = normalizeYsingularizar(marca + " " + nombre);
-
   const urls = [
     `${RUTA_BASE}${ARCHIVO_BASE_PRINCIPAL}`,
     ...Array.from({ length: MAX_ARCHIVOS }, (_, i) => `${RUTA_BASE}${PATRON_ARCHIVO(i + 1)}`)
   ];
 
+  let encontrados = [];
+
   for (const url of urls) {
     try {
       const res = await fetch(url);
       if (!res.ok) continue;
-
       const productos = await res.json();
 
-      for (const producto of productos) {
-        const claveProd = normalizeYsingularizar(producto.marca + " " + producto.nombre);
-        const eanCoincide = producto.ean && producto.ean === ean;
+      const filtrados = productos.filter(producto =>
+        filtrarPorCoincidencia(producto, clave, ean, pais)
+      );
 
-        const paisCoincide = !pais || (producto.pais && producto.pais.toLowerCase() === pais.toLowerCase());
-if ((clave === claveProd || (ean && eanCoincide)) && paisCoincide) {
-
-          quitarCarga();
-
-          const ing = producto.ingredientes.map(i =>
-            isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
-
-          let html = `
-            <p><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</p>
-            ${producto.imagen && producto.imagen !== "imagen no disponible" ? 
-              `<img src="${producto.imagen}" alt="Imagen del producto" style="max-width:200px;">` :
-              `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
-            <p><strong>Ingredientes:</strong> ${ing}</p>
-          `;
-
-          if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
-            html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-            html += `<ul style="color:red;">${producto.ingredientes_tame.map(obj =>
-              `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
-          }
-
-          html += `<p style="color:${producto.tahor ? 'green' : 'red'};">
-            ${producto.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>`;
-
-          return html;
-        }
-      }
+      encontrados.push(...filtrados);
     } catch (err) {
       console.warn("❌ Error cargando:", url, err);
       continue;
     }
   }
+
+  quitarCarga();
+
+  if (encontrados.length === 0) return null;
+  return renderizarResultadosMultiples(encontrados);
+}
+
 
   quitarCarga();
   return null;
