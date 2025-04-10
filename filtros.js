@@ -1,7 +1,11 @@
 // filtros.js
 
 function filtrarPorCoincidencia(nombre, marca, pais, producto) {
-  const normalizar = str => str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+  const normalizar = str =>
+    typeof str === "string"
+      ? str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim()
+      : "";
+
   const nombreNorm = normalizar(nombre);
   const marcaNorm = normalizar(marca);
   const paisNorm = pais ? normalizar(pais) : null;
@@ -16,6 +20,7 @@ function filtrarPorCoincidencia(nombre, marca, pais, producto) {
 
   return coincideNombre && coincideMarca && coincidePais;
 }
+
 
 function renderizarResultadosMultiples(productos) {
   if (!productos.length) {
