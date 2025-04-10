@@ -349,6 +349,15 @@ if (pais) {
     return null;
   }
 }
+function scrollAResultados() {
+  const resultados = document.getElementById('analisisResultado');
+  if (resultados) {
+    resultados.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
 
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
+
+
+
