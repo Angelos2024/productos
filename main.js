@@ -366,7 +366,8 @@ function scrollAResultados(intentos = 0) {
   }
 
   // Si aún no tiene altura visible, espera y vuelve a intentar
-  setTimeout(() => scrollAResultados(intentos + 1), 100);
+setTimeout(() => scrollAResultados(intentos + 1), 50);
+
 }
 
 
