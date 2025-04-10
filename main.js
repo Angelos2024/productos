@@ -273,11 +273,19 @@ async function buscarEnOpenFoodFacts(nombre, marca, ean, pais = "") {
       const data = await res.json();
       productos = data.products || [];
       // 🔎 Filtrado por coincidencia parcial en nombre + marca
-const claveBuscada = normalizeYsingularizar(`${nombre} ${marca}`);
+const claveNombre = normalizeYsingularizar(nombre);
+const claveMarca = normalizeYsingularizar(marca);
+
 productos = productos.filter(p => {
-  const nombreProd = normalizeYsingularizar(`${p.product_name || ''} ${p.brands || ''}`);
-  return nombreProd.includes(claveBuscada);
+  const nombreProd = normalizeYsingularizar(p.product_name || '');
+  const marcaProd = normalizeYsingularizar(p.brands || '');
+
+  const nombreCoincide = nombreProd.includes(claveNombre);
+  const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
+
+  return nombreCoincide && marcaCoincide;
 });
+
 
     }
 
