@@ -79,12 +79,29 @@ botonBusqueda.addEventListener('click', async () => {
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
 
-  const html = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+const html = await buscarProductoEnArchivos(nombre, marca, ean, pais);
 
+// Si hay coincidencias locales
 if (html) {
-  resultadoDiv.innerHTML = html;
+  resultadoDiv.innerHTML = `
+    <p><strong>🔎 Se encontraron coincidencias en la base local:</strong></p>
+    ${html}
+  `;
   return;
 }
+
+// Si no hay coincidencias locales
+resultadoDiv.innerHTML = `
+  <p style="color:red;">❌ Producto no encontrado en base local.</p>
+  <p>¿Nos ayudas a registrarlo? 🙌</p>
+  <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+  <hr>
+  <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
+`;
+
+const res = await buscarEnOpenFoodFacts(nombre, ean);
+resultadoDiv.innerHTML += res || "<p style='color:red;'>❌ No se encontró información en OpenFoodFacts.</p>";
+
 
 
   resultadoDiv.innerHTML += '<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>';
