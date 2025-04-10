@@ -82,8 +82,8 @@ botonBusqueda.addEventListener('click', async () => {
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
 
 const resultadosHTML = [];
-const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
-
+//const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+const htmlLocales = null;
 if (htmlLocales) {
   resultadosHTML.push(...htmlLocales.split('<hr>')); // separar productos individuales
 }
