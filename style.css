@@ -238,27 +238,3 @@ img {
   color: red;
   font-weight: bold;
 }
-.resultado-expandible button.toggle {
-  background-color: #eee;
-  border: none;
-  padding: 0.6rem 1rem;
-  width: 100%;
-  text-align: left;
-  cursor: pointer;
-  font-weight: bold;
-  border-radius: 4px;
-  margin-bottom: 0.5rem;
-}
-
-.contenido-expandible {
-  display: none;
-  padding: 1rem;
-  background: #fafafa;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  margin-bottom: 1rem;
-}
-
-.contenido-expandible.visible {
-  display: block;
-}
