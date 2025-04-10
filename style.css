@@ -238,3 +238,22 @@ img {
   color: red;
   font-weight: bold;
 }
+.detalle-producto {
+  background-color: #fdfdfd;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.detalle-producto summary {
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #2c3e50;
+}
+
+.detalle-producto[open] {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
