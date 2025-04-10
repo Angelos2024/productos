@@ -36,7 +36,8 @@ function quitarCarga() {
 }
 
 // Función de búsqueda
-async function buscarProductoEnArchivos(nombre, marca, ean) {
+async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
+
   mostrarCarga();
   const clave = normalizeYsingularizar(marca + " " + nombre);
 
@@ -56,7 +57,9 @@ async function buscarProductoEnArchivos(nombre, marca, ean) {
         const claveProd = normalizeYsingularizar(producto.marca + " " + producto.nombre);
         const eanCoincide = producto.ean && producto.ean === ean;
 
-        if (clave === claveProd || (ean && eanCoincide)) {
+        const paisCoincide = !pais || (producto.pais && producto.pais.toLowerCase() === pais.toLowerCase());
+if ((clave === claveProd || (ean && eanCoincide)) && paisCoincide) {
+
           quitarCarga();
 
           const ing = producto.ingredientes.map(i =>
