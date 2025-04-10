@@ -2,33 +2,37 @@ async function contarProductosRegistrados() {
   let total = 0;
 
   try {
-    // Leer base principal
+    // Cargar base principal
     const resBase = await fetch('base_tahor_tame.json');
-    const baseGeneral = await resBase.json();
-    total += baseGeneral.length || 0;
+    if (resBase.ok) {
+      const basePrincipal = await resBase.json();
+      total += Array.isArray(basePrincipal) ? basePrincipal.length : 0;
+    }
 
-    // Leer archivos individuales en /base/
-    const MAX_ARCHIVOS = 50; // Ajusta según tu número real de archivos
+    // Cargar archivos individuales de la carpeta /base/
+    const MAX_ARCHIVOS = 15;
     for (let i = 1; i <= MAX_ARCHIVOS; i++) {
       try {
         const res = await fetch(`base/producto${i}.json`);
-        if (!res.ok) continue;
-        const producto = await res.json();
-        if (producto && producto.nombre) total++;
-      } catch (err) {
-        // Ignorar archivos inexistentes
+        if (res.ok) {
+          const producto = await res.json();
+          if (producto && producto.nombre) total++;
+        }
+      } catch (errInterno) {
+        console.warn(`Archivo base/producto${i}.json no encontrado o con error.`);
       }
     }
 
-    // Mostrar el total en la interfaz
+    // Mostrar total
     const contadorUI = document.getElementById('contadorProductos');
     if (contadorUI) {
       contadorUI.textContent = `📦 Productos registrados: ${total}`;
     }
+
   } catch (err) {
-    console.error("❌ Error al contar productos:", err);
+    console.error("❌ Error general al contar productos:", err);
   }
 }
 
-// Ejecutar al cargar la página
+// Ejecutar al cargar DOM
 document.addEventListener('DOMContentLoaded', contarProductosRegistrados);
