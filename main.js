@@ -250,29 +250,6 @@ async function buscarEnOpenFoodFacts(nombre, ean) {
         ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>`;
   } catch (e) {
     console.error("❌ Error al consultar OpenFoodFacts:", e);
-if (Array.isArray(data.products) && data.products.length > 1) {
-  const filtrados = data.products.filter(p =>
-    filtrarPorCoincidencia({
-      nombre: p.product_name || '',
-      marca: p.brands || '',
-      pais: p.countries_tags?.[0] || '',
-      ean: p.code
-    }, nombre, ean, '')
-  ).map(prod => ({
-    nombre: prod.product_name || 'Sin nombre',
-    marca: prod.brands || 'Sin marca',
-    pais: prod.countries_tags?.[0] || 'Desconocido',
-    imagen: prod.image_url || '',
-    ingredientes: (prod.ingredients_text || '').split(/,|\./).map(i => i.trim()).filter(i => i.length > 1),
-    tahor: true
-  }));
-
-  if (filtrados.length > 0) {
-    return renderizarResultadosMultiples(filtrados);
-  }
-}
-
-return "<p>❌ No se encontró información del producto.</p>";
-
+    return null;
   }
 }
