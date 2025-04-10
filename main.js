@@ -51,6 +51,8 @@ if (escanearCodigoBtn) {
       const result = await codeReader.decodeOnceFromVideoDevice(selectedDeviceId, previewElem);
       document.getElementById('eanEntrada').value = result.text;
       resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+      scrollAResultados();
+
     } catch (err) {
       console.error('Error escaneando:', err);
       resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
@@ -115,6 +117,10 @@ if (resultadosHTML.length > 0) {
     <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
   `;
 }
+setTimeout(() => {
+  scrollAResultados();
+}, 150); // 150 ms da tiempo a que el DOM se actualice
+
 
 });
 
