@@ -80,6 +80,8 @@ botonBusqueda.addEventListener('click', async () => {
   eanGlobal = ean;
 
   resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
+scrollAResultados(); // <- NUEVO: desplazar a resultados incluso si aún no cargan
+
 
 const resultadosHTML = [];
 //const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
