@@ -18,6 +18,20 @@ const ingredientesTame = [
   "marisco", "camarón", "langosta", "surimi",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
+ "carmine", "cochineal", "carminic acid", "carminic acid",
+"lac", "carmine lac", "cochineal lac", "crimson lake",
+"natural red 4", "natural red 4", "CI 75470", "E120",
+"carminic acid", "natural red", "natural carmine", "CI natural red 4",
+
+"pork", "pig", "swine",
+"horse", "donkey", "mule",
+"camel", "hare", "rabbit",
+"dog", "cat", "fox", "skunk",
+
+"shellfish", "shrimp", "lobster", "surimi",
+"oyster", "clam", "mussel", "squid", "octopus",
+"eel", "shark", "whale", "stingray",
+
 
   // Insectos y derivados
   "cochinilla", "carmín", "e120", "insecto", "larva", "gusano",
@@ -37,6 +51,20 @@ const ingredientesTame = [
 
   // Sangre
   "sangre", "morcilla", "negra de cerdo",
+ "cochineal", "carmine", "e120", "insect", "larva", "worm",
+"beetle", "fly", "bee", "wasp", "ant",
+"scorpion", "locust", "cricket",
+
+"frog", "toad", "turtle", "snake", "crocodile", "lizard",
+
+"eagle", "vulture", "falcon", "owl", "raven",
+"seagull", "bat", "ostrich", "pelican",
+
+"gelatin", "pork gelatin", "pork fat", "animal fat",
+"animal rennet", "pork rennet", "animal enzyme", "jam", "jam",
+
+"blood", "blood sausage", "black pudding",
+
 
   // Otros
   "colágeno animal", "extracto animal", "caldo de cerdo", "cuajo animal", "enzima animal", "pepsina porcina",
@@ -48,7 +76,17 @@ const ingredientesTame = [
   "mono y diglicéridos", "ésteres de glicerol", "monoestearato de sorbitán",
 
   // Glicerina y Glicerol
-  "glicerina", "glicerol", "e422", "glicerina vegetal", "glicerina animal", "glicerol vegetal","grenetina", "glicerol animal"
+  "glicerina", "glicerol", "e422", "glicerina vegetal", "glicerina animal", "glicerol vegetal","grenetina", "glicerol animal",
+ "animal collagen", "animal extract", "pork broth", "animal rennet", "animal enzyme", "porcine pepsin",
+"porcine collagen", "animal glycerin", "animal stearic acid",
+"animal magnesium stearate", "pork meat extract",
+"e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
+"monostearate", "monoglycerides", "diglycerides", "mono- and diglycerides of fatty acids",
+"glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
+"mono- and diglycerides", "glycerol esters", "sorbitan monostearate",
+
+"glycerin", "glycerol", "e422", "vegetable glycerin", "animal glycerin", "vegetable glycerol", "gelatin", "animal glycerol"
+
 ];
 
 function isTame(ingrediente) {
