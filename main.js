@@ -1,3 +1,6 @@
+let currentPreviewStream = null;
+
+
 function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
@@ -40,26 +43,56 @@ if (escanearCodigoBtn) {
     selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
   });
 
-  escanearCodigoBtn.addEventListener('click', async () => {
-    const selectedDeviceId = selectCamara.value;
-    const previewElem = document.createElement('video');
-    previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
-    resultadoDiv.innerHTML = '<p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>';
-    resultadoDiv.appendChild(previewElem);
+escanearCodigoBtn.addEventListener('click', async () => {
+  const selectedDeviceId = selectCamara.value;
 
-    try {
-      const result = await codeReader.decodeOnceFromVideoDevice(selectedDeviceId, previewElem);
-      document.getElementById('eanEntrada').value = result.text;
-      resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-      scrollAResultados();
+  // Detener cualquier transmisión previa
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
 
-    } catch (err) {
-      console.error('Error escaneando:', err);
-      resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-    } finally {
-      codeReader.reset();
+  const previewElem = document.createElement('video');
+  previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
+  resultadoDiv.innerHTML = `
+  <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
+  <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+`;
+resultadoDiv.appendChild(previewElem);
+
+document.getElementById('cancelarEscaneo').addEventListener('click', () => {
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
+  codeReader.reset();
+  resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
+});
+
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ video: { deviceId: selectedDeviceId } });
+    previewElem.srcObject = stream;
+    previewElem.play();
+    currentPreviewStream = stream;
+
+    const result = await codeReader.decodeOnceFromStream(stream, previewElem);
+    document.getElementById('eanEntrada').value = result.text;
+    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+    scrollAResultados();
+
+  } catch (err) {
+    console.error('Error escaneando:', err);
+    resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+  } finally {
+    codeReader.reset();
+    if (currentPreviewStream) {
+      currentPreviewStream.getTracks().forEach(track => track.stop());
+      currentPreviewStream = null;
     }
-  });
+  }
+});
+
 }
 
 // --- Búsqueda principal
