@@ -48,7 +48,7 @@ const ingredientesTame = [
   "mono y diglicéridos", "ésteres de glicerol", "monoestearato de sorbitán",
 
   // Glicerina y Glicerol
-  "glicerina", "glicerol", "e422", "glicerina vegetal", "glicerina animal", "glicerol vegetal", "glicerol animal"
+  "glicerina", "glicerol", "e422", "glicerina vegetal", "glicerina animal", "glicerol vegetal","grenetina", "glicerol animal"
 ];
 
 function isTame(ingrediente) {
