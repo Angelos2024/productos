@@ -76,7 +76,7 @@ const ingredientesTame = [
   "mono y diglicéridos", "ésteres de glicerol", "monoestearato de sorbitán",
 
   // Glicerina y Glicerol
-  "glicerina", "glicerol", "e422", "glicerina vegetal", "glicerina animal", "glicerol vegetal","grenetina", "glicerol animal",
+  "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
  "animal collagen", "animal extract", "pork broth", "animal rennet", "animal enzyme", "porcine pepsin",
 "porcine collagen", "animal glycerin", "animal stearic acid",
 "animal magnesium stearate", "pork meat extract",
@@ -85,7 +85,7 @@ const ingredientesTame = [
 "glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
 "mono- and diglycerides", "glycerol esters", "sorbitan monostearate",
 
-"glycerin", "glycerol", "e422", "vegetable glycerin", "animal glycerin", "vegetable glycerol", "gelatin", "animal glycerol"
+"glycerin", "glycerol", "e422", "animal glycerin", "gelatin", "animal glycerol"
 
 ];
 
