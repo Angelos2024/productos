@@ -90,7 +90,11 @@ const ingredientesTame = [
 ];
 
 function isTame(ingrediente) {
-  return ingredientesTame.some(tame => ingrediente.includes(tame));
+return ingredientesTame.some(tame => {
+  const palabras = ingrediente.toLowerCase().split(/\W+/);
+  return palabras.includes(tame.toLowerCase());
+});
+
 }
 
 function analizarIngredientes(ingredientes) {
