@@ -5,26 +5,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Escáner de Productos Lev 11</title>
   <link rel="stylesheet" href="style.css"/>
+  <style>
+    #contadorProductos {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      padding: 0.5rem 1rem;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 0.95rem;
+    }
+  </style>
 </head>
 <body>
 <main class="contenedor">
  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-   <p id="contadorProductos" style="margin: 0;">más de 3,783,408 productos registrados de todo el mundo</p>
-   <h1 style="margin: 0;">Escáner de Productos Lev 11</h1>
+   <p style="margin: 0;">más de 3,783,408 productos registrados de todo el mundo</p>
+  <h1 style="margin: 0;">Escáner de Productos Lev 11</h1>
 </div>
 
   <div id="menuInicial">
+    
     <button id="btnAbrirTahor">🧪 Verificador de productos Tahor</button>
     <button disabled>🍞 Verificador de productos sin levadura (Próximamente)</button>
   </div>
 
   <div id="bloqueTahor" style="display:none">
-    <div id="tabs">
-      <button id="tabBuscar" class="tab-activa">🔍 Buscar productos</button>
-      <button id="tabRegistrar">📝 Ayúdanos a registrar más productos</button>
-      <button id="adminAccess" title="Administrador">🔐</button>
+
+    <!-- PESTAÑAS SUPERIORES -->
+    <div id="tabs" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+      <div style="flex: 1;">
+        <button id="tabBuscar" class="tab-activa">🔍 Buscar productos</button>
+        <button id="tabRegistrar">📝 Ayúdanos a registrar más productos</button>
+      </div>
+      <button id="adminAccess" style="background:none; border:none; font-size:1.3rem; cursor:pointer;" title="Administrador">🔐</button>
     </div>
 
+    <!-- Buzón de revisiones (inicialmente oculto) -->
     <section id="buzonRevisiones" style="display:none">
       <h2>📬 Buzón de revisiones</h2>
       <div id="listaPendientes" class="grupo-formulario">
@@ -32,16 +51,15 @@
       </div>
     </section>
 
+    <!-- FORMULARIO DE BÚSQUEDA MEJORADO -->
     <section id="formBusquedaProducto" style="display:block;">
       <h2>Buscar Producto</h2>
-      <div class="grupo-formulario">
-        <label for="nombreEntrada">🔎 Nombre del producto *</label>
-        <input type="text" id="nombreEntrada" placeholder="Ej: Cereal Natural...">
 
-        <label for="marcaEntrada">Marca *</label>
-        <input type="text" id="marcaEntrada" placeholder="Ej: Kellogg's">
-
-        <label for="paisFiltro">País</label>
+      <!-- OPCIÓN 1: Búsqueda por nombre, marca y país -->
+      <div class="grupo-formulario" style="background:#ffffff; border:1px solid #ccc; padding:1rem; border-radius:10px; margin-bottom:1rem">
+        <h3 style="margin-top:0;">🔎 Buscar por Nombre / Marca / País</h3>
+        <input type="text" id="nombreEntrada" placeholder="Nombre del producto *">
+        <input type="text" id="marcaEntrada" placeholder="Marca *">
         <select id="paisFiltro">
           <option value="">-- Selecciona País (Opcional) --</option>
           <option value="México">México</option>
@@ -49,39 +67,38 @@
           <option value="España">España</option>
           <option value="Francia">Francia</option>
           <option value="Belice">Belice</option>
-          <option value="Guatemala">Guatemala</option>
-          <option value="Honduras">Honduras</option>
-          <option value="El Salvador">El Salvador</option>
-          <option value="Nicaragua">Nicaragua</option>
-          <option value="Costa Rica">Costa Rica</option>
-          <option value="Panamá">Panamá</option>
-          <option value="Uruguay">Uruguay</option>
-          <option value="Paraguay">Paraguay</option>
-          <option value="Bolivia">Bolivia</option>
-          <option value="Ecuador">Ecuador</option>
-          <option value="República Dominicana">República Dominicana</option>
-          <option value="Puerto Rico">Puerto Rico</option>
-          <option value="Cuba">Cuba</option>
+<option value="Guatemala">Guatemala</option>
+<option value="Honduras">Honduras</option>
+<option value="El Salvador">El Salvador</option>
+<option value="Nicaragua">Nicaragua</option>
+<option value="Costa Rica">Costa Rica</option>
+<option value="Panamá">Panamá</option>
+<option value="Uruguay">Uruguay</option>
+<option value="Paraguay">Paraguay</option>
+<option value="Bolivia">Bolivia</option>
+<option value="Ecuador">Ecuador</option>
+<option value="República Dominicana">República Dominicana</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Cuba">Cuba</option>
         </select>
-
-        <button id="botonBusqueda">🔍 Buscar por nombre</button>
+        <button id="botonBusqueda" style="margin-top:0.5rem">🔍 Buscar por nombre</button>
       </div>
 
-      <div class="grupo-formulario" style="background:#f0f0f0">
-        <label for="eanEntrada">📷 Código de barras (EAN)</label>
-        <input type="text" id="eanEntrada" placeholder="Ej: 750123456789">
-
-        <label for="selectCamara">Cámara disponible:</label>
+      <!-- OPCIÓN 2: Búsqueda por código de barras -->
+      <div class="grupo-formulario" style="background:#f0f0f0; border:1px solid #ccc; padding:1rem; border-radius:10px;">
+        <h3 style="margin-top:0;">📷 Buscar por Código de Barras (EAN)</h3>
+        <input type="text" id="eanEntrada" placeholder="Código de barras (EAN)">
         <select id="selectCamara" class="dropdown-camara"></select>
-
         <div class="botones">
           <button id="escanearCodigo">📷 Escanear</button>
         </div>
       </div>
     </section>
 
+    <!-- RESULTADOS -->
     <section id="analisisResultado"></section>
 
+    <!-- REGISTRO MANUAL -->
     <section id="registroManual" style="display:none">
       <h2>Registrar Producto Manualmente</h2>
       <form id="formRegistroManual">
@@ -112,19 +129,13 @@
       <p id="mensajeUsuario"></p>
     </section>
 
+    <!-- PANEL ADMIN -->
     <section id="adminPanel" style="display:none; margin-top:2rem">
       <h2>Modo Administrador</h2>
+      <!-- Aquí va el contenido admin dinámico -->
     </section>
   </div>
 </main>
-
-<footer id="menuInferior">
-  <button onclick="document.getElementById('tabBuscar').click()">🔍 Buscar</button>
-  <button onclick="document.getElementById('tabRegistrar').click()">📝 Registrar</button>
-  <button onclick="document.getElementById('adminAccess').click()">🔐 Admin</button>
-</footer>
-
-<button id="btnArriba" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">⬆️</button>
 
 <!-- Scripts -->
 <script src="tahor-checker.js"></script>
@@ -140,6 +151,8 @@
     document.body.appendChild(script);
   }
 </script>
+
+<!-- Tabs y admin -->
 <script>
   let adminAutenticado = false;
 
@@ -159,7 +172,6 @@
   document.getElementById('tabRegistrar').addEventListener('click', () => {
     document.getElementById('formBusquedaProducto').style.display = 'none';
     document.getElementById('analisisResultado').style.display = 'none';
-    document.getElementById('registroManual').style.display = 'block';
     document.getElementById('buzonRevisiones').style.display = 'none';
     activarTab('tabRegistrar');
   });
@@ -169,6 +181,7 @@
       mostrarBuzonAdmin();
       return;
     }
+
     const pass = prompt("🔑 Ingresa la contraseña de administrador:");
     if (pass === "levitico11") {
       adminAutenticado = true;
@@ -180,30 +193,10 @@
     }
   });
 
-  function mostrarBuzonAdmin() {
-    document.getElementById('buzonRevisiones').style.display = 'block';
-    document.getElementById('formBusquedaProducto').style.display = 'none';
-    document.getElementById('registroManual').style.display = 'none';
-    activarTab('adminAccess');
-  }
-
   document.addEventListener("DOMContentLoaded", () => {
     activarTab('tabBuscar');
     document.getElementById('formBusquedaProducto').style.display = 'block';
     document.getElementById('analisisResultado').style.display = 'block';
-  });
-
-  // Cerrar teclado al hacer clic fuera de inputs
-  document.addEventListener('click', function (e) {
-    if (!e.target.closest('input, textarea, select')) {
-      document.activeElement.blur();
-    }
-  });
-
-  // Botón para volver arriba visible solo al hacer scroll
-  window.addEventListener("scroll", () => {
-    document.getElementById("btnArriba").style.display =
-      window.scrollY > 300 ? "block" : "none";
   });
 </script>
 </body>
