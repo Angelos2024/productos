@@ -1,6 +1,4 @@
-/* =======================
-   ESTILOS GENERALES
-======================= */
+/* Estilos generales */
 body {
   margin: 0;
   padding: 0;
@@ -29,10 +27,8 @@ h2 {
   margin-top: 2rem;
 }
 
-/* =======================
-   FORMULARIOS
-======================= */
-input, textarea, select {
+/* Formularios */
+input, textarea {
   width: 100%;
   padding: 0.8rem;
   margin-top: 0.4rem;
@@ -48,25 +44,7 @@ textarea {
   min-height: 90px;
 }
 
-.grupo-formulario {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  background: #ffffff;
-  border: 1px solid #ccc;
-  padding: 1rem;
-  border-radius: 10px;
-  margin-bottom: 1rem;
-}
-
-.dropdown-camara {
-  background-color: #fff;
-  color: #333;
-}
-
-/* =======================
-   BOTONES
-======================= */
+/* Botones */
 button {
   background-color: #3498db;
   color: #fff;
@@ -97,41 +75,7 @@ button:hover {
   }
 }
 
-/* =======================
-   TABS
-======================= */
-#tabs {
-  display: flex;
-  justify-content: space-between;
-  gap: 0.5rem;
-  margin-bottom: 1rem;
-  flex-wrap: wrap;
-}
-
-#tabs button {
-  background-color: #d6eaf8;
-  color: #2c3e50;
-  padding: 0.6rem 1rem;
-  border-radius: 8px;
-  cursor: pointer;
-  font-weight: bold;
-  transition: background-color 0.3s;
-  flex: 1;
-}
-
-#tabs button:hover {
-  background-color: #85c1e9;
-  color: #1b2631;
-}
-
-#tabs .tab-activa {
-  background-color: #3498db;
-  color: #fff;
-}
-
-/* =======================
-   SECCIONES Y RESULTADOS
-======================= */
+/* Secciones dinámicas */
 #analisisResultado,
 #registroManual,
 #adminPanel {
@@ -142,6 +86,7 @@ button:hover {
   border: 1px solid #ddd;
 }
 
+/* Mensajes */
 #mensajeUsuario {
   margin-top: 1rem;
   font-weight: bold;
@@ -149,20 +94,120 @@ button:hover {
   text-align: center;
 }
 
+/* Imágenes de productos */
 img {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
   margin-bottom: 1rem;
 }
+.grupo-formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.grupo-formulario input {
+  padding: 0.5rem;
+  font-size: 0.95rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.dropdown-camara {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 0.95rem;
+  background-color: #fff;
+  color: #333;
+}
 
 #analisisResultado img {
+  max-width: 100%;
+  margin: 1rem 0;
+  border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-/* =======================
-   RADIO BUTTONS TAHOR/TAME
-======================= */
+#tabs button {
+  background-color: #d6eaf8; /* azul claro para inactivas */
+  color: #2c3e50;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  margin-right: 0.3rem;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#tabs button:hover {
+  background-color: #85c1e9; /* un azul un poco más marcado al pasar mouse */
+  color: #1b2631;
+}
+
+#tabs .tab-activa {
+  background-color: #3498db; /* azul activo más fuerte */
+  color: #fff;
+}
+
+
+.tarjeta-pendiente {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+
+.spinner {
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #3498db;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: girar 1s linear infinite;
+  margin: auto;
+}
+/* Barra de carga para envíos */
+#barraProgreso {
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 1rem;
+  height: 20px;
+}
+
+#barraProgresoInterna {
+  height: 100%;
+  width: 0%;
+  background-color: #3498db;
+  transition: width 1s linear;
+}
+
+@keyframes girar {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#registroManual .grupo-formulario label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+}
+
+#registroManual input[type="radio"] {
+  transform: scale(1.2);
+  margin-right: 0.5rem;
+}
 .selector-tahor {
   margin-top: 1rem;
   padding: 1rem;
@@ -176,7 +221,6 @@ img {
   margin-bottom: 0.5rem;
   font-size: 1rem;
   cursor: pointer;
-  font-weight: bold;
 }
 
 .selector-tahor input[type="radio"] {
@@ -185,17 +229,15 @@ img {
   accent-color: #3498db;
 }
 
-#labelTahor {
+.selector-tahor label[for="tahor"] {
   color: green;
+  font-weight: bold;
 }
 
-#labelTame {
+.selector-tahor label[for="tame"] {
   color: red;
+  font-weight: bold;
 }
-
-/* =======================
-   DETALLES DE PRODUCTO
-======================= */
 .detalle-producto {
   background-color: #fdfdfd;
   border: 1px solid #ccc;
@@ -208,90 +250,10 @@ img {
 .detalle-producto summary {
   font-weight: bold;
   font-size: 1rem;
+  cursor: pointer;
   color: #2c3e50;
 }
 
 .detalle-producto[open] {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-/* =======================
-   MENÚ INFERIOR FIJO
-======================= */
-#menuInferior {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  display: flex;
-  justify-content: space-around;
-  background-color: #ffffff;
-  border-top: 1px solid #ccc;
-  padding: 0.5rem;
-  z-index: 999;
-}
-
-#menuInferior button {
-  flex: 1;
-  margin: 0 0.25rem;
-  padding: 0.8rem 0;
-  font-size: 1rem;
-  border-radius: 8px;
-}
-
-/* =======================
-   BOTÓN FLOTANTE VOLVER ARRIBA
-======================= */
-#btnArriba {
-  position: fixed;
-  bottom: 4.5rem;
-  right: 1rem;
-  background: #3498db;
-  color: #fff;
-  border: none;
-  padding: 0.8rem;
-  border-radius: 50%;
-  font-size: 1.3rem;
-  display: none;
-  z-index: 1000;
-}
-
-/* =======================
-   OPTIMIZACIÓN MÓVIL
-======================= */
-@media (max-width: 480px) {
-  body {
-    font-size: 16px;
-    padding: 0.5rem;
-  }
-
-  main.contenedor {
-    margin: 0.5rem;
-    padding: 1rem;
-    box-shadow: none;
-    border-radius: 0;
-  }
-
-  #contadorProductos {
-    position: static;
-    margin: 1rem 0;
-    width: 100%;
-    text-align: center;
-  }
-
-  #tabs {
-    flex-direction: column;
-  }
-
-  #tabs button {
-    width: 100%;
-  }
-
-  button {
-    width: 100%;
-  }
-
-  .botones {
-    flex-direction: column;
-  }
 }
