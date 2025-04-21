@@ -101,12 +101,18 @@ const ingredientesTame = [
 
 ];
 
+// 🛠️ Al inicio: genera lista normalizada una sola vez
+const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
+
 function isTame(ingrediente) {
   const ingNormalizado = normalizeYsingularizar(ingrediente);
-  return ingredientesTame.some(tame =>
-    ingNormalizado.includes(normalizeYsingularizar(tame))
+  const palabras = ingNormalizado.split(" ");
+  return palabras.some(palabra =>
+    ingredientesTameNormalizados.includes(palabra)
   );
 }
+
+
 function analizarIngredientes(ingredientes) {
   const impuros = ingredientes.filter(i => isTame(i));
   return {
