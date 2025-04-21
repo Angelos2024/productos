@@ -88,9 +88,13 @@ await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir
     currentPreviewStream = stream;
 
     const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-    document.getElementById('eanEntrada').value = result.text;
-    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-    scrollAResultados();
+   document.getElementById('eanEntrada').value = result.text;
+resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+scrollAResultados();
+
+// Lanzar automáticamente la búsqueda por código detectado
+botonBusqueda.click();
+
 
   } catch (err) {
     console.error('Error escaneando:', err);
