@@ -39,35 +39,21 @@ document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
   activarTabMatzah('tabRegistrarMatzah');
 });
 
-// ✅ Escaneo simulado por nombre y marca
-document.getElementById('botonBusquedaMatzah')?.addEventListener('click', () => {
+document.getElementById('botonBusquedaMatzah')?.addEventListener('click', async () => {
   const nombre = document.getElementById('nombreEntradaMatzah').value.trim();
   const marca = document.getElementById('marcaEntradaMatzah').value.trim();
+  const ean = document.getElementById('eanEntradaMatzah')?.value.trim();
   const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
 
-  if (!nombre || !marca) {
-    alert("⚠️ Completa Nombre y Marca para buscar.");
+  if (!ean && (!nombre || !marca)) {
+    alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
     return;
   }
 
-  // 📌 Simulación básica de ingredientes (reemplazar luego con búsqueda real)
-  const ingredientes = ["agua", "harina", "levadura", "sal"]; // simulado
+  document.getElementById('resultadoMatzah').innerHTML = "<p>🔍 Buscando coincidencias...</p>";
 
-  const resultado = analizarIngredientesMatzah(ingredientes);
-
-  let html = `<p><strong>Resultado:</strong> ${resultado.resultado}</p>`;
-
-  if (resultado.ingredientesTame.length > 0) {
-    html += `<p style="color:red;">❌ Ingredientes Tame: ${resultado.ingredientesTame.join(', ')}</p>`;
-  }
-  if (resultado.ingredientesLeud.length > 0) {
-    html += `<p style="color:orange;">⚠️ Leudantes: ${resultado.ingredientesLeud.join(', ')}</p>`;
-  }
-  if (resultado.resultado === "Tahor") {
-    html += `<p style="color:green;">✅ Producto apto para panes sin levadura</p>`;
-  }
-
-  document.getElementById('resultadoMatzah').innerHTML = html;
+  const html = await buscarProductoEnArchivosMatzah(nombre, marca, ean, pais);
+  document.getElementById('resultadoMatzah').innerHTML = html || `<p style="color:red;">❌ Producto no encontrado.</p>`;
 });
 
 // ✅ Búsqueda por código de barras: botón rápido
