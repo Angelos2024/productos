@@ -87,10 +87,14 @@
       <!-- OPCIÓN 2: Búsqueda por código de barras -->
       <div class="grupo-formulario" style="background:#f0f0f0; border:1px solid #ccc; padding:1rem; border-radius:10px;">
         <h3 style="margin-top:0;">📷 Buscar por Código de Barras (EAN)</h3>
-        <input type="text" id="eanEntrada" placeholder="Código de barras (EAN)">
+       <div style="display:flex; gap:0.5rem; align-items: center;">
+  <input type="text" id="eanEntrada" placeholder="Código de barras" style="flex:1;">
+  <button id="botonBuscarRapido" title="Buscar por código manualmente" style="padding: 0.4rem 0.7rem; font-size: 0.9rem;">🔎</button>
+</div>
+
         <select id="selectCamara" class="dropdown-camara"></select>
         <div class="botones">
-          <button id="escanearCodigo">📷 Escanear</button>
+          <button id="escanearCodigo">📷 Escanear codigo</button>
         </div>
       </div>
     </section>
