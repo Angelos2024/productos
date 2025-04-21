@@ -15,6 +15,11 @@ function normalizeYsingularizar(txt) {
 }
 
 const botonBusqueda = document.getElementById('botonBusqueda');
+const botonBuscarRapido = document.getElementById('botonBuscarRapido');
+botonBuscarRapido?.addEventListener('click', () => {
+  botonBusqueda.click();
+});
+
 const escanearCodigoBtn = document.getElementById('escanearCodigo');
 const resultadoDiv = document.getElementById('analisisResultado');
 const registroManualDiv = document.getElementById('registroManual');
@@ -115,13 +120,13 @@ botonBusqueda.addEventListener('click', async () => {
   const marca = document.getElementById('marcaEntrada').value.trim();
   const nombre = document.getElementById('nombreEntrada').value.trim();
   const ean = document.getElementById('eanEntrada')?.value.trim();
-    const pais = document.getElementById('paisFiltro')?.value.trim() || "";
-
+  const pais = document.getElementById('paisFiltro')?.value.trim() || "";
 
   if (!ean && (!marca || !nombre)) {
     alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
     return;
   }
+
 
   marcaGlobal = marca;
   nombreGlobal = nombre;
