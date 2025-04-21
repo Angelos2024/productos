@@ -26,7 +26,11 @@ let eanGlobal = '';
 
 // --- Cámara y escaneo
 if (escanearCodigoBtn) {
-  const codeReader = new ZXing.BrowserBarcodeReader();
+ const codeReader = new ZXing.BrowserBarcodeReader(undefined, {
+  delayBetweenScanAttempts: 100,
+  delayBetweenScanSuccess: 500
+});
+
   const selectCamara = document.getElementById('selectCamara');
 
   navigator.mediaDevices.getUserMedia({ video: true }).then(async () => {
@@ -71,9 +75,18 @@ document.getElementById('cancelarEscaneo').addEventListener('click', () => {
 
 
   try {
-    const stream = await navigator.mediaDevices.getUserMedia({ video: { deviceId: selectedDeviceId } });
-    previewElem.srcObject = stream;
-    previewElem.play();
+    const stream = await navigator.mediaDevices.getUserMedia({
+  video: {
+    deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+    facingMode: "environment", // 💡 fuerza cámara trasera
+    width: { ideal: 1280 },
+    height: { ideal: 720 }
+  }
+});
+
+  previewElem.srcObject = stream;
+await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+
     currentPreviewStream = stream;
 
     const result = await codeReader.decodeOnceFromStream(stream, previewElem);
