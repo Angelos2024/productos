@@ -148,27 +148,97 @@
     </div>
   </div>
 
-  <section id="formBusquedaMatzah" style="display:block;">
-    <h2>Buscar Producto sin Levadura</h2>
-    <!-- Aquí duplicamos el formulario de búsqueda, pero con id diferentes -->
-  </section>
+<section id="formBusquedaMatzah" style="display:block;">
+  <h2>Buscar Producto sin Levadura</h2>
 
-  <section id="resultadoMatzah"></section>
+  <!-- OPCIÓN 1: Búsqueda por nombre, marca y país -->
+  <div class="grupo-formulario" style="background:#ffffff; border:1px solid #ccc; padding:1rem; border-radius:10px; margin-bottom:1rem">
+    <h3 style="margin-top:0;">🔎 Buscar por Nombre / Marca / País</h3>
+    <input type="text" id="nombreEntradaMatzah" placeholder="Nombre del producto *">
+    <input type="text" id="marcaEntradaMatzah" placeholder="Marca *">
+    <select id="paisFiltroMatzah">
+      <option value="">-- Selecciona País (Opcional) --</option>
+      <option value="México">México</option>
+      <option value="USA">USA</option>
+      <option value="España">España</option>
+      <option value="Francia">Francia</option>
+      <option value="Belice">Belice</option>
+      <option value="Guatemala">Guatemala</option>
+      <option value="Honduras">Honduras</option>
+      <option value="El Salvador">El Salvador</option>
+      <option value="Nicaragua">Nicaragua</option>
+      <option value="Costa Rica">Costa Rica</option>
+      <option value="Panamá">Panamá</option>
+      <option value="Uruguay">Uruguay</option>
+      <option value="Paraguay">Paraguay</option>
+      <option value="Bolivia">Bolivia</option>
+      <option value="Ecuador">Ecuador</option>
+      <option value="República Dominicana">República Dominicana</option>
+      <option value="Puerto Rico">Puerto Rico</option>
+      <option value="Cuba">Cuba</option>
+    </select>
+    <button id="botonBusquedaMatzah" style="margin-top:0.5rem">🔍 Buscar por nombre</button>
+  </div>
 
-  <section id="registroManualMatzah" style="display:none">
-    <h2>Registrar Producto sin Levadura</h2>
-    <!-- Aquí va el nuevo formulario adaptado -->
-  </section>
+  <!-- OPCIÓN 2: Búsqueda por código de barras -->
+  <div class="grupo-formulario" style="background:#f0f0f0; border:1px solid #ccc; padding:1rem; border-radius:10px;">
+    <h3 style="margin-top:0;">📷 Buscar por Código de Barras (EAN)</h3>
+    <div style="display:flex; gap:0.5rem; align-items: center;">
+      <input type="text" id="eanEntradaMatzah" placeholder="introducir código manualmente o con cámara" style="flex:1;">
+      <button id="botonBuscarRapidoMatzah" title="Buscar por código manualmente" style="padding: 0.4rem 0.7rem; font-size: 0.9rem;">🔎</button>
+    </div>
+
+    <select id="selectCamaraMatzah" class="dropdown-camara"></select>
+    <div class="botones">
+      <button id="escanearCodigoMatzah">📷 Escanear código</button>
+    </div>
+  </div>
+</section>
+
+<section id="resultadoMatzah"></section>
+
+<section id="registroManualMatzah" style="display:none">
+  <h2>Registrar Producto sin Levadura</h2>
+  <form id="formRegistroManualMatzah">
+    <input type="text" id="marcaManualMatzah" placeholder="Marca del producto" required>
+    <input type="text" id="nombreManualMatzah" placeholder="Nombre del producto" required>
+    <input type="text" id="eanManualMatzah" placeholder="Código de barras (opcional)">
+    <input type="text" id="paisManualMatzah" placeholder="País o región" required>
+    <textarea id="ingredientesManualMatzah" placeholder="Ingredientes separados por coma" required></textarea>
+
+    <label><strong>¿Es apto para panes sin levadura?</strong></label>
+    <div class="selector-tahor">
+      <label id="labelMatzahTahor" for="matzahTahor">
+        <input type="radio" name="estadoMatzah" id="matzahTahor" value="true" required>
+        ✅ Apto (sin levadura)
+      </label>
+      <label id="labelMatzahTame" for="matzahTame">
+        <input type="radio" name="estadoMatzah" id="matzahTame" value="false" required>
+        ❌ No Apto (con levadura o impuro)
+      </label>
+    </div>
+
+    <label for="imagenManualMatzah">📷 Subir imagen (opcional):</label>
+    <input type="url" id="imagenManualMatzah" placeholder="URL de la imagen del producto">
+
+    <button type="submit">Enviar a Revisión</button>
+  </form>
+
+  <p id="mensajeUsuarioMatzah"></p>
+</section>
+
 </div>
 
 <!-- Scripts -->
 <script src="tahor-checker.js"></script>
+  <script src="matzah-checker.js"></script>
 <script src="https://unpkg.com/@zxing/library@0.18.6/umd/index.min.js"></script>
 <script src="main.js"></script>
 <script src="lectorBase.js"></script>
 <script src="cargandogithub.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@octokit/rest@19.0.7/dist/octokit.umd.js" onload="loadAdmin()"></script>
 <script>
+  
   function loadAdmin() {
     const script = document.createElement("script");
     script.src = "admin.js";
