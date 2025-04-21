@@ -1,4 +1,16 @@
 // tahor-checker.js - Núcleo para verificar ingredientes Tame según Levítico 11
+function normalizeYsingularizar(txt) {
+  return txt
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9 ]/g, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(" ")
+    .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
+    .join(" ");
+}
 
 // Lista simplificada sin tradiciones rabínicas
 const ingredientesTame = [
@@ -90,13 +102,11 @@ const ingredientesTame = [
 ];
 
 function isTame(ingrediente) {
-return ingredientesTame.some(tame => {
-  const palabras = ingrediente.toLowerCase().split(/\W+/);
-  return palabras.includes(tame.toLowerCase());
-});
-
+  const ingNormalizado = normalizeYsingularizar(ingrediente);
+  return ingredientesTame.some(tame =>
+    ingNormalizado.includes(normalizeYsingularizar(tame))
+  );
 }
-
 function analizarIngredientes(ingredientes) {
   const impuros = ingredientes.filter(i => isTame(i));
   return {
