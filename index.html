@@ -29,7 +29,7 @@
   <div id="menuInicial">
     
     <button id="btnAbrirTahor">🧪 Verificador de productos Tahor</button>
-    <button disabled>🍞 Verificador de productos sin levadura (Próximamente)</button>
+    <button id="btnAbrirMatzah">🍞 Verificador de productos sin levadura</button>
   </div>
 
   <div id="bloqueTahor" style="display:none">
@@ -140,6 +140,26 @@
     </section>
   </div>
 </main>
+<div id="bloqueMatzah" style="display:none">
+  <div id="tabsMatzah" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+    <div style="flex: 1;">
+      <button id="tabBuscarMatzah" class="tab-activa">🔍 Buscar sin levadura</button>
+      <button id="tabRegistrarMatzah">📝 Registrar producto sin levadura</button>
+    </div>
+  </div>
+
+  <section id="formBusquedaMatzah" style="display:block;">
+    <h2>Buscar Producto sin Levadura</h2>
+    <!-- Aquí duplicamos el formulario de búsqueda, pero con id diferentes -->
+  </section>
+
+  <section id="resultadoMatzah"></section>
+
+  <section id="registroManualMatzah" style="display:none">
+    <h2>Registrar Producto sin Levadura</h2>
+    <!-- Aquí va el nuevo formulario adaptado -->
+  </section>
+</div>
 
 <!-- Scripts -->
 <script src="tahor-checker.js"></script>
