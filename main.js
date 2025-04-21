@@ -26,10 +26,8 @@ let eanGlobal = '';
 
 // --- Cámara y escaneo
 if (escanearCodigoBtn) {
- const codeReader = new ZXing.BrowserBarcodeReader(undefined, {
-  delayBetweenScanAttempts: 100,
-  delayBetweenScanSuccess: 500
-});
+const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
+
 
   const selectCamara = document.getElementById('selectCamara');
 
