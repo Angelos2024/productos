@@ -300,6 +300,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
   document.getElementById('btnAbrirMatzah')?.addEventListener('click', abrirMatzah);
+localStorage.setItem('ultimaSeccionActiva', 'tahor'); // en abrirTahor()
+localStorage.setItem('ultimaSeccionActiva', 'matzah'); // en abrirMatzah()
 
 function abrirMatzah() {
   document.getElementById('menuInicial').style.display = 'none';
