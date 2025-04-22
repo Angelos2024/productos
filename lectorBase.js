@@ -197,13 +197,20 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 
       for (const producto of productos) {
         const claveProd = normalizeYsingularizar(`${producto.marca} ${producto.nombre}`);
-        const eanCoincide = producto.ean && producto.ean === ean;
+     const eanCoincide = producto.ean && String(producto.ean) === String(ean);
+
         const paisCoincide = !pais || (producto.pais && producto.pais.toLowerCase() === pais.toLowerCase());
 
-        const esCoincidente = (
-          claveProd.includes(claveBusqueda) || claveBusqueda.includes(claveProd) ||
-          (ean && eanCoincide)
-        );
+        
+      let esCoincidente = false;
+
+if (ean) {
+  esCoincidente = producto.ean === ean;
+} else {
+  esCoincidente =
+    claveProd.includes(claveBusqueda) || claveBusqueda.includes(claveProd);
+}
+
 
         if (esCoincidente && paisCoincide) {
           coincidencias.push(producto);
