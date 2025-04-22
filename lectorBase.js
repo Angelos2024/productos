@@ -51,14 +51,15 @@ function generarHTMLProducto(producto) {
   let ingredientesTameDetectados = [];
 
   // 1️⃣ Si ya vienen desde el JSON
-  if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
-    ingredientesTameDetectados = producto.ingredientes_tame;
-  } else {
-    // 2️⃣ Si no vienen, los detectamos dinámicamente
-    ingredientesTameDetectados = producto.ingredientes
-      .filter(i => isTame(i))
-      .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
-  }
+const manuales = producto.ingredientes_tame || [];
+
+const detectados = producto.ingredientes
+  .filter(i => !manuales.find(m => normalizeYsingularizar(m.ingrediente) === normalizeYsingularizar(i)))
+  .filter(i => isTame(i))
+  .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
+
+const ingredientesTameDetectados = [...manuales, ...detectados];
+
 
   // Resaltado visual de ingredientes
   const ing = producto.ingredientes.map(i => {
