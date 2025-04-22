@@ -185,6 +185,7 @@ setTimeout(() => {
 function abrirTahor() {
   document.getElementById('menuInicial').style.display = 'none';
   document.getElementById('bloqueTahor').style.display = 'block';
+document.getElementById('botonVolverMenu').style.display = 'block';
 
   // Mostrar solo la pestaña de búsqueda al iniciar
   document.getElementById('formBusquedaProducto').style.display = 'block';
@@ -431,12 +432,12 @@ setTimeout(() => scrollAResultados(intentos + 1), 50);
 
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
+document.getElementById('botonVolverMenu').addEventListener('click', volverAlMenu);
 
 function volverAlMenu() {
   document.getElementById('bloqueTahor').style.display = 'none';
   document.getElementById('bloqueMatzah').style.display = 'none';
   document.getElementById('menuInicial').style.display = 'block';
+  document.getElementById('botonVolverMenu').style.display = 'none';
   localStorage.removeItem('ultimaSeccionActiva');
 }
-
-
