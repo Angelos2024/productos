@@ -36,6 +36,24 @@ module.exports = async (req, res) => {
 
   const { accion, producto } = body;
 
+
+    // 🌐 Acción: PROXY hacia OpenFoodFacts
+  if (accion === "proxyOpenFood") {
+    const { url } = body;
+    if (!url || typeof url !== "string") {
+      return res.status(400).json({ error: "URL no válida para proxy" });
+    }
+
+    try {
+      const openFoodRes = await fetch(url, { headers: { Accept: "application/json" } });
+      const data = await openFoodRes.json();
+      return res.status(200).json(data);
+    } catch (e) {
+      console.error("❌ Error proxyOpenFood:", e);
+      return res.status(500).json({ error: "Fallo al consultar OpenFoodFacts" });
+    }
+  }
+
   try {
     // Leer pendientes.json
     const pendientesRes = await octokit.repos.getContent({
