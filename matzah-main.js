@@ -14,16 +14,17 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
-const botonBusqueda = document.getElementById('botonBusqueda');
-const botonBuscarRapido = document.getElementById('botonBuscarRapido');
+const botonBusqueda = document.getElementById('botonBusquedaMatzah');
+const botonBuscarRapido = document.getElementById('botonBuscarRapidoMatzah');
 botonBuscarRapido?.addEventListener('click', () => {
   botonBusqueda.click();
 });
 
-const escanearCodigoBtn = document.getElementById('escanearCodigo');
-const resultadoDiv = document.getElementById('analisisResultado');
-const registroManualDiv = document.getElementById('registroManual');
-const mensajeUsuario = document.getElementById('mensajeUsuario');
+const escanearCodigoBtn = document.getElementById('escanearCodigoMatzah');
+const resultadoDiv = document.getElementById('resultadoMatzah');
+const registroManualDiv = document.getElementById('registroManualMatzah');
+const mensajeUsuario = document.getElementById('mensajeUsuarioMatzah');
+
 
 let marcaGlobal = '';
 let nombreGlobal = '';
@@ -34,7 +35,8 @@ if (escanearCodigoBtn) {
 const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
 
 
-  const selectCamara = document.getElementById('selectCamara');
+ const selectCamara = document.getElementById('selectCamaraMatzah');
+
 
   navigator.mediaDevices.getUserMedia({ video: true }).then(async () => {
     const devices = await codeReader.getVideoInputDevices();
@@ -93,7 +95,8 @@ await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir
     currentPreviewStream = stream;
 
     const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-   document.getElementById('eanEntrada').value = result.text;
+   document.getElementById('eanEntradaMatzah').value = result.text;
+
 resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
 scrollAResultados();
 
@@ -117,10 +120,11 @@ botonBusqueda.click();
 
 // --- Búsqueda principal
 botonBusqueda.addEventListener('click', async () => {
-  const marca = document.getElementById('marcaEntrada').value.trim();
-  const nombre = document.getElementById('nombreEntrada').value.trim();
-  const ean = document.getElementById('eanEntrada')?.value.trim();
-  const pais = document.getElementById('paisFiltro')?.value.trim() || "";
+  const marca = document.getElementById('marcaEntradaMatzah').value.trim();
+const nombre = document.getElementById('nombreEntradaMatzah').value.trim();
+const ean = document.getElementById('eanEntradaMatzah')?.value.trim();
+const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
+
 
   if (!ean && (!marca || !nombre)) {
     alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
@@ -375,12 +379,18 @@ if (pais) {
         .map(i => i.trim())
         .filter(i => i.length > 1);
 
-      const htmlIng = ingredientes.map(ing =>
-        isTame(ing) ? `<span style="color:red">${ing}</span>` : `<span>${ing}</span>`
-      ).join(', ');
+     const ingredientesTame = ingredientes.filter(isTameMatzah);
+const ingredientesLeud = ingredientes.filter(i => !isTameMatzah(i) && isLeudante(i));
+const resultado = ingredientesTame.length > 0 ? 'Tame'
+                : ingredientesLeud.length > 0 ? 'Leudado'
+                : 'Tahor';
 
-      const ingredientesTame = ingredientes.filter(isTame);
-      const tame = ingredientesTame.length > 0;
+const htmlIng = ingredientes.map(ing => {
+  if (isTameMatzah(ing)) return `<span style="color:red">${ing}</span>`;
+  if (isLeudante(ing)) return `<span style="color:orange">${ing}</span>`;
+  return `<span>${ing}</span>`;
+}).join(', ');
+
 
       let html = `
         <details class="detalle-producto">
@@ -394,8 +404,11 @@ if (pais) {
         html += `<ul style="color:red;">${ingredientesTame.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
       }
 
-      html += `<p style="color:${tame ? 'red' : 'green'};">
-        ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>
+html += `<p style="color:${resultado === 'Tame' ? 'red' : resultado === 'Leudado' ? 'orange' : 'green'};">
+  ${resultado === 'Tame' ? '❌ No Apto (Tame)'
+  : resultado === 'Leudado' ? '⚠️ Contiene Leudante'
+  : '✅ Apto (sin levadura)'}</p>`;
+
         </details>
       `;
 
