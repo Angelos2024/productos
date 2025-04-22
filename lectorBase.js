@@ -101,8 +101,11 @@ const ingredientesTame = [
 
 function isTame(i) {
   const normalizado = normalizeYsingularizar(i);
-  return ingredientesTame.includes(normalizado);
+  return ingredientesTame.some(tame =>
+    normalizado.includes(normalizeYsingularizar(tame))
+  );
 }
+
 
 const MAX_ARCHIVOS = 15;
 const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
