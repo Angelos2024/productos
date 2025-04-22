@@ -353,9 +353,10 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({ accion: "proxyOpenFood", url })
 });
-const data = await proxyRes.json();
+const respuestaEAN = await proxyRes.json();
 
-      if (data.product) productos.push(data.product);
+   if (respuestaEAN.product) productos.push(respuestaEAN.product);
+
     } else {
 const nombreBusqueda = encodeURIComponent(nombre);
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
@@ -364,9 +365,11 @@ const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombre
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({ accion: "proxyOpenFood", url })
 });
-const data = await proxyRes.json();
+const respuestaNombre = await proxyRes.json();
 
-      productos = data.products || [];
+
+    productos = respuestaNombre.products || [];
+
       // 🔎 Filtrado por coincidencia parcial en nombre + marca
 const claveNombre = normalizeYsingularizar(nombre);
 const claveMarca = normalizeYsingularizar(marca);
