@@ -85,14 +85,19 @@ escanearCodigoBtn.addEventListener('click', async () => {
   });
 
   try {
-    const stream = await navigator.mediaDevices.getUserMedia({
-      video: {
-        deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-        facingMode: "environment",
-        width: { ideal: 1280 },
-        height: { ideal: 720 }
-      }
-    });
+  const constraints = {
+  video: {
+    facingMode: "environment",
+    width: { ideal: 1280 },
+    height: { ideal: 720 }
+  }
+};
+
+if (selectedDeviceId) {
+  constraints.video.deviceId = { exact: selectedDeviceId };
+}
+
+const stream = await navigator.mediaDevices.getUserMedia(constraints);
 
     previewElem.srcObject = stream;
     await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
