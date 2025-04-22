@@ -15,7 +15,7 @@
   }
 
   // Lista Tame (idéntica a tahor-checker.js pero renombrada internamente)
-  const ingredientesTameMatzah =
+  const ingredientesTameMatzah =[
  // Carmin
   "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
 "laca", "laca armin", "laca de cochinilla", "crimson lake",
