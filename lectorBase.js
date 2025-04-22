@@ -128,4 +128,7 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 
   return coincidencias.map(generarHTMLProducto).join('<hr>');
 }
+
+  window.buscarProductoEnArchivos = buscarProductoEnArchivos;
+
 })();
