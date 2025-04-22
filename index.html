@@ -233,6 +233,7 @@
 </div>
 
 </main>
+
 <!-- Scripts -->
 <script src="tahor-checker.js"></script>
   <script src="matzah-checker.js"></script>
@@ -341,7 +342,20 @@ document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
 
 </script>
 
-    <button id="botonVolverMenu" style="display:none;">⬅ Menú</button>
+<button id="botonVolverMenu" style="
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  background: #eee;
+  border: 1px solid #ccc;
+  padding: 0.3rem 0.7rem;
+  font-size: 0.85rem;
+  border-radius: 8px;
+  z-index: 999;
+  cursor: pointer;
+">⬅ Menú</button>
+
 </body>
 
 
