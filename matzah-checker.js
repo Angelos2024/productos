@@ -27,7 +27,7 @@
   const ingredientesLeudantes = [
     "levadura", "fermento", "masa madre", "malta", "vinagre de malta",
     "polvo para hornear", "bicarbonato", "gasificante","vinagre",
-    "carbonato", "hidrogenocarbonato",
+    "carbonato", "hidrogenocarbonato","trigo", "gluten",
     "raising agents", "baking powder", "sourdough", "yeast", "malt", "leavening"
   ];
 
