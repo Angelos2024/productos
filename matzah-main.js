@@ -103,7 +103,7 @@ async function buscarProductoEnArchivosMatzah(nombre, marca, ean, pais = "") {
     const resultados = [];
 
     for (const archivo of archivos) {
-      const respuesta = await fetch(`https://productos-amber.vercel.app/data/${archivo}`);
+     const respuesta = await fetch(`https://productos-amber.vercel.app/${archivo}`);
       const productos = await respuesta.json();
 
       for (const producto of productos) {
