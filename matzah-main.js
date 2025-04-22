@@ -1,10 +1,11 @@
-let currentPreviewStreamMatzah = null;
+let currentPreviewStream = null;
+
 
 function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
     .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
     .trim()
@@ -13,214 +14,27 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
-function generarHTMLProductoMatzah(producto) {
-  const resultado = analizarIngredientesMatzah(producto.ingredientes || []);
-
-  const ingredientesHTML = (producto.ingredientes || []).map(i => {
-    if (isTame(i)) return `<span style="color:red">${i}</span>`;
-    if (isLeudante(i)) return `<span style="color:orange">⚠️ ${i}</span>`;
-    return `<span>${i}</span>`;
-  }).join(', ');
-
-  let html = `<details class="detalle-producto" open>
-    <summary><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</summary>
-    ${producto.imagen && producto.imagen !== "imagen no disponible"
-      ? `<img src="${producto.imagen}" alt="Imagen del producto" style="max-width:200px; border-radius:6px; margin: 0.5rem 0;">`
-      : `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
-
-    <p><strong>Ingredientes:</strong> ${ingredientesHTML}</p>
-  `;
-
-  if (resultado.ingredientesTame.length > 0) {
-    html += `<p style="color:red;"><strong>Ingredientes Tame:</strong>
-      <ul>${resultado.ingredientesTame.map(i => `<li>${i}</li>`).join('')}</ul></p>`;
-  }
-
-  if (resultado.ingredientesLeud.length > 0) {
-    html += `<p style="color:orange;"><strong>Leudantes detectados:</strong>
-      <ul>${resultado.ingredientesLeud.map(i => `<li>⚠️ ${i}</li>`).join('')}</ul></p>`;
-  }
-
-  html += `<p style="color:${
-    resultado.resultado === 'Tahor' ? 'green' :
-    resultado.resultado === 'Leudado' ? 'orange' : 'red'
-  }">
-    ${
-      resultado.resultado === 'Tahor'
-        ? '✅ Apto para panes sin levadura'
-        : resultado.resultado === 'Leudado'
-          ? '⚠️ Contiene ingredientes fermentables'
-          : '❌ Contiene ingredientes impuros según Levítico 11'
-    }
-  </p>`;
-
-  html += `<p style="font-style: italic; color:gray;">
-    Evaluación según Levítico 11 y Éxodo 12:15 (Matzah).
-  </p>`;
-
-  html += `</details>`;
-  return html;
-}
-
-
-async function buscarEnOpenFoodFactsMatzah(ean) {
-  if (!ean || !/^[0-9]{8,14}$/.test(ean)) return null;
-
-  const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
-  try {
-    const res = await fetch(url);
-    const data = await res.json();
-    const p = data.product;
-
-    if (!p || !p.product_name || (!p.ingredients_text && !p.ingredients)) return null;
-
-    const ingredientes = p.ingredients_text.toLowerCase()
-      .split(/,|\./)
-      .map(i => i.trim())
-      .filter(i => i.length > 1);
-
-    const producto = {
-      nombre: p.product_name,
-      marca: p.brands || "Marca desconocida",
-      pais: p.countries || "País no especificado",
-      ean: p.code,
-      imagen: p.image_url || "",
-      ingredientes,
-      esMatzah: true
-    };
-
-    return generarHTMLProductoMatzah(producto);
-
-  } catch (err) {
-    console.error("❌ Error consultando OpenFoodFacts Matzah:", err);
-    return null;
-  }
-}
-
-async function buscarProductoEnArchivosMatzah(nombre, marca, ean, pais = "") {
-  const archivos = ["base_tahor_tame.json"];
-  try {
-    const resultados = [];
-
-    for (const archivo of archivos) {
-     const respuesta = await fetch(`https://productos-amber.vercel.app/${archivo}`);
-      const productos = await respuesta.json();
-
-      for (const producto of productos) {
-        if (!producto.esMatzah) continue;
-
-        const claveNombre = normalizeYsingularizar(nombre);
-        const claveMarca = normalizeYsingularizar(marca);
-        const nombreProd = normalizeYsingularizar(producto.nombre || '');
-        const marcaProd = normalizeYsingularizar(producto.marca || '');
-
-        const nombreCoincide = nombreProd.includes(claveNombre);
-        const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
-        const eanCoincide = ean && producto.ean && ean === producto.ean;
-
-        if ((nombreCoincide && marcaCoincide) || eanCoincide) {
-          resultados.push(generarHTMLProductoMatzah(producto));
-          if (resultados.length >= 5) break;
-        }
-      }
-
-      if (resultados.length >= 5) break;
-    }
-
-    return resultados.length > 0 ? resultados.join('<hr>') : null;
-  } catch (err) {
-    console.error("❌ Error buscando productos en archivos Matzah:", err);
-    return null;
-  }
-}
-
-async function buscarEnOpenFoodFactsMatzah(ean) {
-  if (!ean || !/^[0-9]{8,14}$/.test(ean)) return null;
-
-  const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
-
-  try {
-    const res = await fetch(url);
-    const data = await res.json();
-    const p = data.product;
-
-    if (!p || !p.product_name || (!p.ingredients_text && !p.ingredients)) return null;
-
-    const ingredientes = p.ingredients_text.toLowerCase()
-      .split(/,|\./)
-      .map(i => i.trim())
-      .filter(i => i.length > 1);
-
-    const resultado = analizarIngredientesMatzah(ingredientes);
-
-    const htmlIng = ingredientes.map(i =>
-      resultado.ingredientesTame.includes(i)
-        ? `<span style="color:red">${i}</span>`
-        : resultado.ingredientesLeud.includes(i)
-          ? `<span style="color:orange">⚠️ ${i}</span>`
-          : `<span>${i}</span>`
-    ).join(', ');
-
-    let html = `
-      <details class="detalle-producto" open>
-        <summary><strong>${p.product_name}</strong> – ${p.brands || "Marca desconocida"}</summary>
-        ${p.image_url
-          ? `<img src="${p.image_url}" style="max-width:200px; border-radius:6px; margin:0.5rem 0;">`
-          : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-        <p><strong>Ingredientes:</strong> ${htmlIng}</p>
-    `;
-
-    if (resultado.ingredientesTame.length > 0) {
-      html += `<p style="color:red;"><strong>Ingredientes Tame:</strong>
-        <ul>${resultado.ingredientesTame.map(i => `<li>${i}</li>`).join('')}</ul></p>`;
-    }
-
-    if (resultado.ingredientesLeud.length > 0) {
-      html += `<p style="color:orange;"><strong>Leudantes:</strong>
-        <ul>${resultado.ingredientesLeud.map(i => `<li>⚠️ ${i}</li>`).join('')}</ul></p>`;
-    }
-
-    html += `<p style="color:${
-      resultado.resultado === 'Tahor' ? 'green' :
-      resultado.resultado === 'Leudado' ? 'orange' : 'red'
-    };">
-      ${
-        resultado.resultado === 'Tahor'
-          ? '✅ Apto para panes sin levadura'
-          : resultado.resultado === 'Leudado'
-            ? '⚠️ Contiene ingredientes fermentables'
-            : '❌ Contiene ingredientes impuros según Levítico 11'
-      }</p>`;
-
-    html += `<p style="font-style: italic; color:gray;">
-      Evaluación según Levítico 11 y Éxodo 12:15 (Matzah).
-    </p>`;
-
-    html += `</details>`;
-    return html;
-
-  } catch (err) {
-    console.error("❌ Error al consultar OpenFoodFacts:", err);
-    return null;
-  }
-}
-
-
-const botonBusquedaMatzah = document.getElementById('botonBusquedaMatzah');
-const botonBuscarRapidoMatzah = document.getElementById('botonBuscarRapidoMatzah');
-const escanearCodigoBtnMatzah = document.getElementById('escanearCodigoMatzah');
-const resultadoDivMatzah = document.getElementById('resultadoMatzah');
-const registroManualDivMatzah = document.getElementById('registroManualMatzah');
-const mensajeUsuarioMatzah = document.getElementById('mensajeUsuarioMatzah');
-
-botonBuscarRapidoMatzah?.addEventListener('click', () => {
-  botonBusquedaMatzah.click();
+const botonBusqueda = document.getElementById('botonBusqueda');
+const botonBuscarRapido = document.getElementById('botonBuscarRapido');
+botonBuscarRapido?.addEventListener('click', () => {
+  botonBusqueda.click();
 });
 
+const escanearCodigoBtn = document.getElementById('escanearCodigo');
+const resultadoDiv = document.getElementById('analisisResultado');
+const registroManualDiv = document.getElementById('registroManual');
+const mensajeUsuario = document.getElementById('mensajeUsuario');
+
+let marcaGlobal = '';
+let nombreGlobal = '';
+let eanGlobal = '';
+
 // --- Cámara y escaneo
-if (escanearCodigoBtnMatzah) {
-  const codeReader = new ZXing.BrowserBarcodeReader();
-  const selectCamara = document.getElementById('selectCamaraMatzah');
+if (escanearCodigoBtn) {
+const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
+
+
+  const selectCamara = document.getElementById('selectCamara');
 
   navigator.mediaDevices.getUserMedia({ video: true }).then(async () => {
     const devices = await codeReader.getVideoInputDevices();
@@ -236,120 +50,381 @@ if (escanearCodigoBtnMatzah) {
     selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
   });
 
-  escanearCodigoBtnMatzah.addEventListener('click', async () => {
-    const selectedDeviceId = selectCamara.value;
+escanearCodigoBtn.addEventListener('click', async () => {
+  const selectedDeviceId = selectCamara.value;
 
-    if (currentPreviewStreamMatzah) {
-      currentPreviewStreamMatzah.getTracks().forEach(track => track.stop());
-      currentPreviewStreamMatzah = null;
+  // Detener cualquier transmisión previa
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
+
+  const previewElem = document.createElement('video');
+  previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
+  resultadoDiv.innerHTML = `
+  <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
+  <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+`;
+resultadoDiv.appendChild(previewElem);
+
+document.getElementById('cancelarEscaneo').addEventListener('click', () => {
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
+  codeReader.reset();
+  resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
+});
+
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({
+  video: {
+    deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+    facingMode: "environment", // 💡 fuerza cámara trasera
+    width: { ideal: 1280 },
+    height: { ideal: 720 }
+  }
+});
+
+  previewElem.srcObject = stream;
+await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+
+    currentPreviewStream = stream;
+
+    const result = await codeReader.decodeOnceFromStream(stream, previewElem);
+   document.getElementById('eanEntrada').value = result.text;
+resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+scrollAResultados();
+
+// Lanzar automáticamente la búsqueda por código detectado
+botonBusqueda.click();
+
+
+  } catch (err) {
+    console.error('Error escaneando:', err);
+    resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+  } finally {
+    codeReader.reset();
+    if (currentPreviewStream) {
+      currentPreviewStream.getTracks().forEach(track => track.stop());
+      currentPreviewStream = null;
     }
+  }
+});
 
-    const previewElem = document.createElement('video');
-    previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
-    resultadoDivMatzah.innerHTML = `
-      <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
-      <button id="cancelarEscaneoMatzah" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
-    `;
-    resultadoDivMatzah.appendChild(previewElem);
-
-    document.getElementById('cancelarEscaneoMatzah').addEventListener('click', () => {
-      if (currentPreviewStreamMatzah) {
-        currentPreviewStreamMatzah.getTracks().forEach(track => track.stop());
-        currentPreviewStreamMatzah = null;
-      }
-      codeReader.reset();
-      resultadoDivMatzah.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
-    });
-
-    try {
-      const stream = await navigator.mediaDevices.getUserMedia({
-        video: {
-          deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-          facingMode: "environment",
-          width: { ideal: 1280 },
-          height: { ideal: 720 }
-        }
-      });
-
-      previewElem.srcObject = stream;
-      await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
-      currentPreviewStreamMatzah = stream;
-
-      const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-      document.getElementById('eanEntradaMatzah').value = result.text;
-      resultadoDivMatzah.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-      botonBusquedaMatzah.click();
-
-    } catch (err) {
-      console.error('Error escaneando:', err);
-      resultadoDivMatzah.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-    } finally {
-      codeReader.reset();
-      if (currentPreviewStreamMatzah) {
-        currentPreviewStreamMatzah.getTracks().forEach(track => track.stop());
-        currentPreviewStreamMatzah = null;
-      }
-    }
-  });
 }
 
 // --- Búsqueda principal
-botonBusquedaMatzah?.addEventListener('click', async () => {
-  const marca = document.getElementById('marcaEntradaMatzah').value.trim();
-  const nombre = document.getElementById('nombreEntradaMatzah').value.trim();
-  const ean = document.getElementById('eanEntradaMatzah')?.value.trim();
-  const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
+botonBusqueda.addEventListener('click', async () => {
+  const marca = document.getElementById('marcaEntrada').value.trim();
+  const nombre = document.getElementById('nombreEntrada').value.trim();
+  const ean = document.getElementById('eanEntrada')?.value.trim();
+  const pais = document.getElementById('paisFiltro')?.value.trim() || "";
 
   if (!ean && (!marca || !nombre)) {
     alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
     return;
   }
 
-  resultadoDivMatzah.innerHTML = '<p><strong>🔍 Buscando coincidencias...</strong></p>';
 
-  const html = await buscarProductoEnArchivosMatzah(nombre, marca, ean, pais);
-  if (html) {
-    resultadoDivMatzah.innerHTML = html;
-  } else {
-    const htmlOFF = await buscarEnOpenFoodFactsMatzah(ean);
-    resultadoDivMatzah.innerHTML = htmlOFF || `<p style="color:red;">❌ Producto no encontrado.</p>`;
+  marcaGlobal = marca;
+  nombreGlobal = nombre;
+  eanGlobal = ean;
+
+  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
+scrollAResultados(); // <- NUEVO: desplazar a resultados incluso si aún no cargan
+
+
+const resultadosHTML = [];
+//const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+const htmlLocales = null;
+if (htmlLocales) {
+  resultadosHTML.push(...htmlLocales.split('<hr>')); // separar productos individuales
+}
+
+// Si aún hay menos de 5 coincidencias, buscar en OpenFoodFacts
+if (resultadosHTML.length < 5) {
+  resultadoDiv.innerHTML = `
+    <p><strong>🔍 Buscando coincidencias... (${resultadosHTML.length} encontradas hasta ahora)</strong></p>
+    <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
+  `;
+
+const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
+
+
+  if (resultadoOFF) {
+    resultadosHTML.push(...resultadoOFF); // resultadoOFF será un array de HTMLs
   }
+}
+
+// Si al final hay coincidencias, mostrarlas
+if (resultadosHTML.length > 0) {
+  resultadoDiv.innerHTML = `
+    <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+    ${resultadosHTML.slice(0, 5).join('<hr>')}
+  `;
+} else {
+  // Si no se encontró nada en ningún lado
+  resultadoDiv.innerHTML = `
+    <p style="color:red;">❌ Producto no encontrado.</p>
+    <p>¿Nos ayudas a registrarlo? 🙌</p>
+    <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+  `;
+}
+setTimeout(() => {
+  scrollAResultados();
+}, 150); // 150 ms da tiempo a que el DOM se actualice
+
+
 });
 
-// --- Mostrar sección Matzah
-document.getElementById('btnAbrirMatzah')?.addEventListener('click', () => {
+function abrirTahor() {
   document.getElementById('menuInicial').style.display = 'none';
-  document.getElementById('bloqueTahor').style.display = 'none';
-  document.getElementById('bloqueMatzah').style.display = 'block';
+  document.getElementById('bloqueTahor').style.display = 'block';
 
-  document.getElementById('formBusquedaMatzah').style.display = 'block';
-  document.getElementById('resultadoMatzah').style.display = 'block';
-  document.getElementById('registroManualMatzah').style.display = 'none';
+  // Mostrar solo la pestaña de búsqueda al iniciar
+  document.getElementById('formBusquedaProducto').style.display = 'block';
+  document.getElementById('analisisResultado').style.display = 'block';
+  document.getElementById('registroManual').style.display = 'none';
+  document.getElementById('buzonRevisiones').style.display = 'none';
+  activarTab('tabBuscar');
 
-  activarTabMatzah('tabBuscarMatzah');
-  resultadoDivMatzah.innerHTML = '';
-  mensajeUsuarioMatzah.innerHTML = '';
+  resultadoDiv.innerHTML = '';
+  mensajeUsuario.innerHTML = '';
+}
+
+
+document.getElementById('tabRegistrar').addEventListener('click', () => {
+  document.getElementById('formBusquedaProducto').style.display = 'none';
+  document.getElementById('analisisResultado').style.display = 'none';
+  document.getElementById('registroManual').style.display = 'block';
+  activarTab('tabRegistrar');
 });
 
-// --- Tabs
-function activarTabMatzah(idActiva) {
-  ['tabBuscarMatzah', 'tabRegistrarMatzah'].forEach(id => {
+function activarTab(idActiva) {
+  ['tabBuscar', 'tabRegistrar', 'tabBuzon'].forEach(id => {
     const tab = document.getElementById(id);
     if (tab) tab.classList.remove('tab-activa');
   });
   document.getElementById(idActiva)?.classList.add('tab-activa');
 }
+function mostrarFormularioRegistro() {
+  document.getElementById('formBusquedaProducto').style.display = 'none';
+  document.getElementById('analisisResultado').style.display = 'none';
+  document.getElementById('registroManual').style.display = 'block';
+  activarTab('tabRegistrar');
+  mensajeUsuario.innerHTML = '';
+}
 
-document.getElementById('tabBuscarMatzah')?.addEventListener('click', () => {
-  document.getElementById('formBusquedaMatzah').style.display = 'block';
-  document.getElementById('resultadoMatzah').style.display = 'block';
-  document.getElementById('registroManualMatzah').style.display = 'none';
-  activarTabMatzah('tabBuscarMatzah');
+// Añadir pestaña de revisión solo si no existe
+function mostrarBuzonAdmin() {
+  if (!document.getElementById('tabBuzon')) {
+    const nuevaTab = document.createElement('button');
+    nuevaTab.id = 'tabBuzon';
+    nuevaTab.innerText = '📬 Buzón de revisiones';
+    nuevaTab.addEventListener('click', () => {
+      document.getElementById('formBusquedaProducto').style.display = 'none';
+      document.getElementById('analisisResultado').style.display = 'none';
+      document.getElementById('registroManual').style.display = 'none';
+      document.getElementById('buzonRevisiones').style.display = 'block';
+      activarTab('tabBuzon');
+      cargarPendientes();
+    });
+
+    document.getElementById('tabs').firstElementChild.appendChild(nuevaTab);
+  }
+}
+
+let productosPendientes = [];
+
+async function cargarPendientes() {
+  const contenedor = document.getElementById('listaPendientes');
+  contenedor.innerHTML = "<p>Cargando...</p>";
+
+  try {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accion: "listar" })
+    });
+
+    if (!res.ok) throw new Error("Error al listar productos");
+
+    const productos = await res.json();
+    productosPendientes = productos;
+
+    if (!productos.length) {
+      contenedor.innerHTML = "<p>🎉 No hay productos pendientes.</p>";
+      return;
+    }
+
+    contenedor.innerHTML = '';
+    productos.forEach((producto, index) => {
+      const tarjeta = document.createElement('div');
+      tarjeta.className = 'tarjeta-pendiente';
+      tarjeta.innerHTML = `
+        <strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})<br>
+        <small>Ingredientes:</small><br>
+        <span>${producto.ingredientes.join(', ')}</span><br><br>
+        <button onclick="aprobarProducto(${index})">✔️ Aprobar</button>
+        <button onclick="rechazarProducto(${index})" style="background-color:#e74c3c">❌ Rechazar</button>
+      `;
+      contenedor.appendChild(tarjeta);
+    });
+
+  } catch (err) {
+    contenedor.innerHTML = "<p style='color:red;'>❌ Error al cargar pendientes.</p>";
+    console.error(err);
+  }
+}
+
+async function aprobarProducto(index) {
+  const producto = productosPendientes[index];
+  if (!producto) return;
+
+  try {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ accion: 'aprobar', producto })
+    });
+
+    if (!res.ok) throw new Error('Error al aprobar producto');
+    cargarPendientes();
+  } catch (err) {
+    console.error('❌ Error al aprobar producto:', err);
+  }
+}
+
+async function rechazarProducto(index) {
+  const producto = productosPendientes[index];
+  if (!producto) return;
+
+  try {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ accion: 'rechazar', producto })
+    });
+
+    if (!res.ok) throw new Error('Error al rechazar producto');
+    cargarPendientes();
+  } catch (err) {
+    console.error('❌ Error al rechazar producto:', err);
+  }
+}
+
+
+async function buscarEnOpenFoodFacts(nombre, marca, ean, pais = "") {
+console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais });
+
+  try {
+    let resultados = [];
+    let productos = [];
+
+    if (ean && /^[0-9]{8,14}$/.test(ean)) {
+      const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+      const res = await fetch(url);
+      const data = await res.json();
+      if (data.product) productos.push(data.product);
+    } else {
+      const nombreBusqueda = encodeURIComponent(nombre);
+      const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=10`;
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      const data = await res.json();
+      productos = data.products || [];
+      // 🔎 Filtrado por coincidencia parcial en nombre + marca
+const claveNombre = normalizeYsingularizar(nombre);
+const claveMarca = normalizeYsingularizar(marca);
+
+productos = productos.filter(p => {
+  const nombreProd = normalizeYsingularizar(p.product_name || '');
+  const marcaProd = normalizeYsingularizar(p.brands || '');
+
+  const nombreCoincide = nombreProd.includes(claveNombre);
+  const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
+
+  return nombreCoincide || marcaCoincide;
 });
 
-document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
-  document.getElementById('formBusquedaMatzah').style.display = 'none';
-  document.getElementById('resultadoMatzah').style.display = 'none';
-  document.getElementById('registroManualMatzah').style.display = 'block';
-  activarTabMatzah('tabRegistrarMatzah');
-});
+
+
+    }
+
+    // Filtrar por país si se indica
+if (pais) {
+  const productosFiltrados = productos.filter(p => {
+    const tags = (p.countries_tags || []).map(c => c.replace('en:', '').toLowerCase());
+    const texto = (p.countries || "").toLowerCase();
+    return tags.includes(pais.toLowerCase()) || texto.includes(pais.toLowerCase());
+  });
+
+  // Solo si hay productos filtrados por país, usamos ese filtro
+  if (productosFiltrados.length > 0) {
+    productos = productosFiltrados;
+  }
+}
+
+    for (const prod of productos) {
+    if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
+
+
+      const ingredientes = prod.ingredients_text.toLowerCase()
+        .split(/,|\./)
+        .map(i => i.trim())
+        .filter(i => i.length > 1);
+
+      const htmlIng = ingredientes.map(ing =>
+        isTame(ing) ? `<span style="color:red">${ing}</span>` : `<span>${ing}</span>`
+      ).join(', ');
+
+      const ingredientesTame = ingredientes.filter(isTame);
+      const tame = ingredientesTame.length > 0;
+
+      let html = `
+        <details class="detalle-producto">
+          <summary><strong>${prod.product_name}</strong> – ${prod.brands || "Marca desconocida"}</summary>
+          ${prod.image_url ? `<img src="${prod.image_url}" alt="Imagen del producto" style="max-width:200px;">` : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+          <p><strong>Ingredientes:</strong> ${htmlIng}</p>
+      `;
+
+      if (tame) {
+        html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
+        html += `<ul style="color:red;">${ingredientesTame.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
+      }
+
+      html += `<p style="color:${tame ? 'red' : 'green'};">
+        ${tame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>
+        </details>
+      `;
+
+      resultados.push(html);
+      if (resultados.length >= 5) break;
+    }
+
+    return resultados.length > 0 ? resultados : null;
+
+  } catch (e) {
+    console.error("❌ Error al consultar OpenFoodFacts:", e);
+    return null;
+  }
+}
+function scrollAResultados(intentos = 0) {
+  const resultados = document.getElementById('analisisResultado');
+  if (!resultados) return;
+
+  // Si ya hay contenido y altura suficiente
+  if (resultados.offsetHeight > 0 || intentos >= 5) {
+    resultados.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
+  }
+
+  // Si aún no tiene altura visible, espera y vuelve a intentar
+setTimeout(() => scrollAResultados(intentos + 1), 50);
+
+}
+
+
+
+document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
