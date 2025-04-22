@@ -166,8 +166,8 @@ scrollAResultados(); // <- NUEVO: desplazar a resultados incluso si aún no carg
 
 
 const resultadosHTML = [];
-//const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
-const htmlLocales = null;
+const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+
 if (htmlLocales) {
   resultadosHTML.push(...htmlLocales.split('<hr>')); // separar productos individuales
 }
