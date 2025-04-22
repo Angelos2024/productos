@@ -61,6 +61,8 @@
   }
 
   // ✅ Exportar solo las funciones necesarias al ámbito global
+  // ✅ Exportar solo las funciones necesarias al ámbito global
   window.isLeudante = isLeudante;
   window.analizarIngredientesMatzah = analizarIngredientesMatzah;
+  window.isTameMatzah = isTameMatzah; // <-- 👈 esta es la que te falta
 })();
