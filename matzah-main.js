@@ -505,4 +505,56 @@ document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', 
   }
 });
 
+document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
+  e.preventDefault();
+
+  const marca = document.getElementById('marcaManualMatzah').value.trim();
+  const nombre = document.getElementById('nombreManualMatzah').value.trim();
+  const ean = document.getElementById('eanManualMatzah').value.trim();
+  const pais = document.getElementById('paisManualMatzah').value.trim();
+  const ingredientesTexto = document.getElementById('ingredientesManualMatzah').value.trim();
+  const imagen = document.getElementById('imagenManualMatzah').value.trim();
+  const estado = document.querySelector('input[name="estadoMatzah"]:checked')?.value;
+
+  const btnEnviar = e.submitter || e.target.querySelector('button[type="submit"]');
+  if (!marca || !nombre || !pais || !ingredientesTexto || !estado) {
+    mensajeUsuario.innerHTML = `<p style="color:red;">⚠️ Por favor, completa todos los campos requeridos.</p>`;
+    return;
+  }
+
+  const producto = {
+    marca,
+    nombre,
+    ean,
+    pais,
+    imagen,
+    ingredientes: ingredientesTexto.split(',').map(i => i.trim()).filter(i => i.length > 1),
+    estado: estado === 'true',
+    esMatzah: true
+  };
+
+  // Desactivar botón y mostrar mensaje
+  mensajeUsuario.innerHTML = `<p style="color:gray;">⏳ Enviando producto para revisión. Esto puede tardar unos segundos...</p>`;
+  btnEnviar.disabled = true;
+
+  try {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accion: "registrar", producto })
+    });
+
+    if (!res.ok) throw new Error("Error al registrar el producto");
+
+    mensajeUsuario.innerHTML = `<p style="color:green;">✅ Producto enviado correctamente. Gracias por tu aporte.</p>`;
+    document.getElementById("formRegistroManualMatzah").reset();
+  } catch (err) {
+    mensajeUsuario.innerHTML = `<p style="color:red;">❌ Error al registrar el producto. Intenta nuevamente en unos segundos.</p>`;
+    console.error("Error al registrar producto Matzah:", err);
+  } finally {
+    btnEnviar.disabled = false;
+  }
+});
+
+  
  })();
