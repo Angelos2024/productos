@@ -348,14 +348,24 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
 
     if (ean && /^[0-9]{8,14}$/.test(ean)) {
       const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
-      const res = await fetch(url);
-      const data = await res.json();
+     const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({ accion: "proxyOpenFood", url })
+});
+const data = await proxyRes.json();
+
       if (data.product) productos.push(data.product);
     } else {
 const nombreBusqueda = encodeURIComponent(nombre);
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
-      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
-      const data = await res.json();
+      const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({ accion: "proxyOpenFood", url })
+});
+const data = await proxyRes.json();
+
       productos = data.products || [];
       // 🔎 Filtrado por coincidencia parcial en nombre + marca
 const claveNombre = normalizeYsingularizar(nombre);
