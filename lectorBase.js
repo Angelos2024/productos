@@ -82,10 +82,10 @@ function generarHTMLProducto(producto) {
       `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
   }
 
-  html += `<p style="color:${producto.tahor ? 'green' : 'red'};">
-    ${producto.tahor ? '✅ Apto (Tahor)' : '❌ No Apto (Tame)'}</p>
-    </details>
-  `;
+ const esTame = ingredientesTameDetectados.length > 0;
+html += `<p style="color:${esTame ? 'red' : 'green'};">
+  ${esTame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>`;
+
 
   return html;
 }
