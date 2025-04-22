@@ -1,4 +1,7 @@
-let currentPreviewStream = null;
+(() => {
+  let currentPreviewStream = null;
+  
+ 
 
 
 function normalizeYsingularizar(txt) {
@@ -446,3 +449,5 @@ setTimeout(() => scrollAResultados(intentos + 1), 50);
 
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
+
+ })();
