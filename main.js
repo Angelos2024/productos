@@ -41,22 +41,40 @@ escanearCodigoBtn.addEventListener('click', async () => {
   const selectCamara = document.getElementById('selectCamara');
 
   // 🔄 Obtener lista de cámaras en el momento del escaneo
-  try {
-    const devices = await codeReader.getVideoInputDevices();
-    selectCamara.innerHTML = '';
-    devices.forEach((device, index) => {
-      const option = document.createElement('option');
-      option.value = device.deviceId;
-      option.text = device.label || `Cámara ${index + 1}`;
-      selectCamara.appendChild(option);
-    });
-  } catch (err) {
-    console.error('❌ No se pudo acceder a la cámara para listar dispositivos:', err);
-    selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-    return;
+try {
+  // 🔒 Paso 1: Solicitar permiso explícito antes de listar
+  await navigator.mediaDevices.getUserMedia({ video: true });
+} catch (err) {
+  console.error("❌ Permiso denegado para la cámara:", err);
+  selectCamara.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
+  return;
+}
+
+let devices = [];
+try {
+  // 📷 Paso 2: Obtener lista de cámaras ahora con permiso
+  devices = await codeReader.getVideoInputDevices();
+  selectCamara.innerHTML = '';
+  devices.forEach((device, index) => {
+    const option = document.createElement('option');
+    option.value = device.deviceId;
+    option.text = device.label || `Cámara ${index + 1}`;
+    selectCamara.appendChild(option);
+  });
+
+  // ✅ Selección automática de la primera cámara disponible si no se elige una
+  if (!selectCamara.value && devices.length > 0) {
+    selectCamara.value = devices[0].deviceId;
   }
 
-  const selectedDeviceId = selectCamara.value;
+} catch (err) {
+  console.error('❌ No se pudo listar dispositivos de cámara:', err);
+  selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
+  return;
+}
+
+const selectedDeviceId = selectCamara.value;
+
 
   // 🛑 Detener cualquier stream previo
   if (currentPreviewStream) {
