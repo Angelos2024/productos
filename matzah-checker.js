@@ -15,7 +15,7 @@
   }
 
   // Lista Tame (idéntica a tahor-checker.js pero renombrada internamente)
-  const ingredientesTameMatzah =[
+ window.ingredientesTameMatzah = [
  // Carmin
   "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
 "laca", "laca armin", "laca de cochinilla", "crimson lake",
@@ -103,27 +103,28 @@
 
 ];
 
-  const ingredientesLeudantes = [
+  window.ingredientesLeudantes = [
     "levadura", "fermento", "masa madre", "malta", "vinagre de malta",
     "polvo para hornear", "bicarbonato", "gasificante","vinagre",
     "carbonato", "hidrogenocarbonato","trigo", "gluten",
     "raising agents", "baking powder", "sourdough", "yeast", "malt", "leavening"
   ];
 
-  const ingredientesTameNorm = ingredientesTameMatzah.map(normalizeYsingularizar);
-  const ingredientesLeudNorm = ingredientesLeudantes.map(normalizeYsingularizar);
 
-  function isTameMatzah(ing) {
-    const normal = normalizeYsingularizar(ing);
-    const palabras = normal.split(" ");
-    return palabras.some(p => ingredientesTameNorm.includes(p));
-  }
 
-  function isLeudante(ing) {
-    const normal = normalizeYsingularizar(ing);
-    const palabras = normal.split(" ");
-    return palabras.some(p => ingredientesLeudNorm.includes(p));
-  }
+function isTameMatzah(ing) {
+  const normal = normalizeYsingularizar(ing);
+  return window.ingredientesTameMatzah.some(tame =>
+    normal.includes(normalizeYsingularizar(tame))
+  );
+}
+
+function isLeudante(ing) {
+  const normal = normalizeYsingularizar(ing);
+  return window.ingredientesLeudantes.some(leud =>
+    normal.includes(normalizeYsingularizar(leud))
+  );
+}
 
   // Función principal para escaneo en sección matzah
   function analizarIngredientesMatzah(ingredientes) {
