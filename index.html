@@ -304,7 +304,9 @@ function abrirMatzah() {
   document.getElementById('formBusquedaMatzah').style.display = 'block';
   document.getElementById('resultadoMatzah').style.display = 'block';
   document.getElementById('registroManualMatzah').style.display = 'none';
-  document.getElementById('buzonRevisionesMatzah')?.style.display = 'none'; // opcional, si llegas a agregar uno
+const buzonMatzah = document.getElementById('buzonRevisionesMatzah');
+if (buzonMatzah) buzonMatzah.style.display = 'none';
+
 
   activarTabMatzah('tabBuscarMatzah');
 }
