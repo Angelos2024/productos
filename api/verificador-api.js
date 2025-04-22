@@ -38,21 +38,33 @@ module.exports = async (req, res) => {
 
 
     // 🌐 Acción: PROXY hacia OpenFoodFacts
-  if (accion === "proxyOpenFood") {
-    const { url } = body;
-    if (!url || typeof url !== "string") {
-      return res.status(400).json({ error: "URL no válida para proxy" });
-    }
+  // ✅ NUEVO BLOQUE: Proxy para OpenFoodFacts
+if (accion === "proxyOpenFood") {
+  const fetch = require("node-fetch"); // asegúrate de tenerlo instalado o usar global si es runtime edge
+
+  const { url } = body;
+  if (!url || !url.startsWith("https://world.openfoodfacts.org")) {
+    return res.status(400).json({ error: "URL inválida para proxy" });
+  }
+
+  try {
+    const offRes = await fetch(url);
+    const text = await offRes.text();
 
     try {
-      const openFoodRes = await fetch(url, { headers: { Accept: "application/json" } });
-      const data = await openFoodRes.json();
-      return res.status(200).json(data);
-    } catch (e) {
-      console.error("❌ Error proxyOpenFood:", e);
-      return res.status(500).json({ error: "Fallo al consultar OpenFoodFacts" });
+      const json = JSON.parse(text);
+      return res.status(200).json(json);
+    } catch (err) {
+      console.error("❌ Respuesta no era JSON:", text.slice(0, 100));
+      return res.status(502).json({ error: "Respuesta no válida de OpenFoodFacts" });
     }
+
+  } catch (err) {
+    console.error("❌ Error en proxyOpenFood:", err);
+    return res.status(500).json({ error: "Fallo en proxy a OpenFoodFacts" });
   }
+}
+
 
   try {
     // Leer pendientes.json
