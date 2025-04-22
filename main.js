@@ -432,5 +432,11 @@ setTimeout(() => scrollAResultados(intentos + 1), 50);
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
 
+function volverAlMenu() {
+  document.getElementById('bloqueTahor').style.display = 'none';
+  document.getElementById('bloqueMatzah').style.display = 'none';
+  document.getElementById('menuInicial').style.display = 'block';
+  localStorage.removeItem('ultimaSeccionActiva');
+}
 
 
