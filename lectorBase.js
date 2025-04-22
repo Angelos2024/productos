@@ -1,3 +1,17 @@
+// Copiar función isTame del tahor-checker.js o importar
+function isTame(i) {
+  const normalizado = normalizeYsingularizar(i);
+  return ingredientesTame.includes(normalizado);
+}
+
+// Copia la lista básica o importa desde tahor-checker.js
+const ingredientesTame = [ 
+  "glicerina", "glicerol", "monoestearato de sorbitán", 
+  "gelatina", "grasa de cerdo", 
+  // (agrega toda tu lista aquí o importa externamente)
+];
+
+
 const MAX_ARCHIVOS = 15;
 const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
 const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
