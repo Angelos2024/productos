@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "marca": "Coca cola",
+    "nombre": "ciie",
+    "pais": "Mexico",
+    "ean": "",
+    "imagen": "https://health.osu.edu/-/media/health/images/stories/2023/08/soda-glass-sm.jpg",
+    "ingredientes": [
+      "soda",
+      "vef",
+      "fc",
+      "vd",
+      ""
+    ],
+    "tahor": false,
+    "ingredientes_tame": []
+  }
+]
