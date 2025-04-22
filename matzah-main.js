@@ -4,13 +4,134 @@ function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
     .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
+    .replace(/[\u0300-\u036f]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
     .trim()
     .split(" ")
     .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
     .join(" ");
+}
+
+function generarHTMLProductoMatzah(producto) {
+  const resultado = analizarIngredientesMatzah(producto.ingredientes || []);
+
+  const ingredientesHTML = (producto.ingredientes || []).map(i => {
+    if (isTame(i)) return `<span style="color:red">${i}</span>`;
+    if (isLeudante(i)) return `<span style="color:orange">⚠️ ${i}</span>`;
+    return `<span>${i}</span>`;
+  }).join(', ');
+
+  let html = `<details class="detalle-producto" open>
+    <summary><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</summary>
+    ${producto.imagen && producto.imagen !== "imagen no disponible"
+      ? `<img src="${producto.imagen}" alt="Imagen del producto" style="max-width:200px; border-radius:6px; margin: 0.5rem 0;">`
+      : `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
+
+    <p><strong>Ingredientes:</strong> ${ingredientesHTML}</p>
+  `;
+
+  if (resultado.ingredientesTame.length > 0) {
+    html += `<p style="color:red;"><strong>Ingredientes Tame:</strong>
+      <ul>${resultado.ingredientesTame.map(i => `<li>${i}</li>`).join('')}</ul></p>`;
+  }
+
+  if (resultado.ingredientesLeud.length > 0) {
+    html += `<p style="color:orange;"><strong>Leudantes detectados:</strong>
+      <ul>${resultado.ingredientesLeud.map(i => `<li>⚠️ ${i}</li>`).join('')}</ul></p>`;
+  }
+
+  html += `<p style="color:${
+    resultado.resultado === 'Tahor' ? 'green' :
+    resultado.resultado === 'Leudado' ? 'orange' : 'red'
+  }">
+    ${
+      resultado.resultado === 'Tahor'
+        ? '✅ Apto para panes sin levadura'
+        : resultado.resultado === 'Leudado'
+          ? '⚠️ Contiene ingredientes fermentables'
+          : '❌ Contiene ingredientes impuros según Levítico 11'
+    }
+  </p>`;
+
+  html += `<p style="font-style: italic; color:gray;">
+    Evaluación según Levítico 11 y Éxodo 12:15 (Matzah).
+  </p>`;
+
+  html += `</details>`;
+  return html;
+}
+
+
+async function buscarEnOpenFoodFactsMatzah(ean) {
+  if (!ean || !/^[0-9]{8,14}$/.test(ean)) return null;
+
+  const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+    const p = data.product;
+
+    if (!p || !p.product_name || (!p.ingredients_text && !p.ingredients)) return null;
+
+    const ingredientes = p.ingredients_text.toLowerCase()
+      .split(/,|\./)
+      .map(i => i.trim())
+      .filter(i => i.length > 1);
+
+    const producto = {
+      nombre: p.product_name,
+      marca: p.brands || "Marca desconocida",
+      pais: p.countries || "País no especificado",
+      ean: p.code,
+      imagen: p.image_url || "",
+      ingredientes,
+      esMatzah: true
+    };
+
+    return generarHTMLProductoMatzah(producto);
+
+  } catch (err) {
+    console.error("❌ Error consultando OpenFoodFacts Matzah:", err);
+    return null;
+  }
+}
+
+async function buscarProductoEnArchivosMatzah(nombre, marca, ean, pais = "") {
+  const archivos = ["base_tahor_tame.json"];
+  try {
+    const resultados = [];
+
+    for (const archivo of archivos) {
+      const respuesta = await fetch(`https://productos-amber.vercel.app/data/${archivo}`);
+      const productos = await respuesta.json();
+
+      for (const producto of productos) {
+        if (!producto.esMatzah) continue;
+
+        const claveNombre = normalizeYsingularizar(nombre);
+        const claveMarca = normalizeYsingularizar(marca);
+        const nombreProd = normalizeYsingularizar(producto.nombre || '');
+        const marcaProd = normalizeYsingularizar(producto.marca || '');
+
+        const nombreCoincide = nombreProd.includes(claveNombre);
+        const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
+        const eanCoincide = ean && producto.ean && ean === producto.ean;
+
+        if ((nombreCoincide && marcaCoincide) || eanCoincide) {
+          resultados.push(generarHTMLProductoMatzah(producto));
+          if (resultados.length >= 5) break;
+        }
+      }
+
+      if (resultados.length >= 5) break;
+    }
+
+    return resultados.length > 0 ? resultados.join('<hr>') : null;
+  } catch (err) {
+    console.error("❌ Error buscando productos en archivos Matzah:", err);
+    return null;
+  }
 }
 
 const botonBusquedaMatzah = document.getElementById('botonBusquedaMatzah');
