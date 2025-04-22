@@ -176,7 +176,7 @@ if (htmlLocales) {
 if (resultadosHTML.length < 5) {
   resultadoDiv.innerHTML = `
     <p><strong>🔍 Buscando coincidencias... (${resultadosHTML.length} encontradas hasta ahora)</strong></p>
-    <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
+    <p><strong>🌐🕵️‍♂️ Revisión avanzada (Nivel 2) en progreso...</strong></p>
   `;
 
 const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
