@@ -412,10 +412,10 @@ if (ingredientesLeud.length > 0) {
 html += `<p style="color:${resultado === 'Tame' ? 'red' : resultado === 'Leudado' ? 'orange' : 'green'};">
   ${resultado === 'Tame' ? '❌ No Apto (Tame)'
   : resultado === 'Leudado' ? '⚠️ Contiene Leudante'
-  : '✅ Apto (sin levadura)'}</p>`;
+  : '✅ Apto (sin levadura)'}</p>
+</details>
+`;
 
-        </details>
-      `;
 
       resultados.push(html);
       if (resultados.length >= 5) break;
