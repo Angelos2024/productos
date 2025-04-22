@@ -43,23 +43,39 @@ const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
 escanearCodigoBtn.addEventListener('click', async () => {
   const selectCamara = document.getElementById('selectCamaraMatzah');
 
-  // 🔄 Obtener lista de cámaras justo cuando el usuario inicia escaneo
-  try {
-    const devices = await codeReader.getVideoInputDevices();
-    selectCamara.innerHTML = '';
-    devices.forEach((device, index) => {
-      const option = document.createElement('option');
-      option.value = device.deviceId;
-      option.text = device.label || `Cámara ${index + 1}`;
-      selectCamara.appendChild(option);
-    });
-  } catch (err) {
-    console.error('❌ No se pudo acceder a la cámara para listar dispositivos:', err);
-    selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-    return;
+ 
+ // ✅ Paso 1: Pedir permisos antes
+try {
+  await navigator.mediaDevices.getUserMedia({ video: true });
+} catch (err) {
+  console.error("❌ Permiso denegado para la cámara:", err);
+  resultadoDiv.innerHTML = '<p style="color:red;">❌ Debes permitir acceso a la cámara.</p>';
+  return;
+}
+
+// ✅ Paso 2: Obtener cámaras ahora que hay permiso
+let devices = [];
+try {
+  devices = await codeReader.getVideoInputDevices();
+  selectCamara.innerHTML = '';
+  devices.forEach((device, index) => {
+    const option = document.createElement('option');
+    option.value = device.deviceId;
+    option.text = device.label || `Cámara ${index + 1}`;
+    selectCamara.appendChild(option);
+  });
+
+  // Auto-seleccionar la primera si no hay selección previa
+  if (!selectCamara.value && devices[0]) {
+    selectCamara.value = devices[0].deviceId;
   }
 
-  const selectedDeviceId = selectCamara.value;
+} catch (err) {
+  console.error('❌ No se pudo listar dispositivos de cámara:', err);
+  selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
+  return;
+}
+
 
   // 🛑 Detener cualquier stream previo
   if (currentPreviewStream) {
@@ -85,7 +101,9 @@ escanearCodigoBtn.addEventListener('click', async () => {
   });
 
   try {
-  const constraints = {
+const selectedDeviceId = selectCamara.value;
+
+const constraints = {
   video: {
     facingMode: "environment",
     width: { ideal: 1280 },
