@@ -288,11 +288,47 @@
     }
   });
 
-  document.addEventListener("DOMContentLoaded", () => {
-    activarTab('tabBuscar');
-    document.getElementById('formBusquedaProducto').style.display = 'block';
-    document.getElementById('analisisResultado').style.display = 'block';
+document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById('menuInicial').style.display = 'block';
+  document.getElementById('bloqueTahor').style.display = 'none';
+  document.getElementById('bloqueMatzah').style.display = 'none';
+});
+
+
+  document.getElementById('btnAbrirMatzah')?.addEventListener('click', abrirMatzah);
+
+function abrirMatzah() {
+  document.getElementById('menuInicial').style.display = 'none';
+  document.getElementById('bloqueMatzah').style.display = 'block';
+
+  document.getElementById('formBusquedaMatzah').style.display = 'block';
+  document.getElementById('resultadoMatzah').style.display = 'block';
+  document.getElementById('registroManualMatzah').style.display = 'none';
+  document.getElementById('buzonRevisionesMatzah')?.style.display = 'none'; // opcional, si llegas a agregar uno
+
+  activarTabMatzah('tabBuscarMatzah');
+}
+function activarTabMatzah(idActiva) {
+  ['tabBuscarMatzah', 'tabRegistrarMatzah'].forEach(id => {
+    const tab = document.getElementById(id);
+    if (tab) tab.classList.remove('tab-activa');
   });
+  document.getElementById(idActiva)?.classList.add('tab-activa');
+}
+document.getElementById('tabBuscarMatzah')?.addEventListener('click', () => {
+  document.getElementById('formBusquedaMatzah').style.display = 'block';
+  document.getElementById('resultadoMatzah').style.display = 'block';
+  document.getElementById('registroManualMatzah').style.display = 'none';
+  activarTabMatzah('tabBuscarMatzah');
+});
+
+document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
+  document.getElementById('formBusquedaMatzah').style.display = 'none';
+  document.getElementById('resultadoMatzah').style.display = 'none';
+  document.getElementById('registroManualMatzah').style.display = 'block';
+  activarTabMatzah('tabRegistrarMatzah');
+});
+
 </script>
 </body>
 </html>
