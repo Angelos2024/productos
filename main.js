@@ -432,7 +432,13 @@ setTimeout(() => scrollAResultados(intentos + 1), 50);
 
 
 document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
-document.getElementById('botonVolverMenu').addEventListener('click', volverAlMenu);
+document.addEventListener("DOMContentLoaded", () => {
+  const btnVolver = document.getElementById('botonVolverMenu');
+  if (btnVolver) {
+    btnVolver.addEventListener('click', volverAlMenu);
+  }
+});
+
 
 function volverAlMenu() {
   document.getElementById('bloqueTahor').style.display = 'none';
