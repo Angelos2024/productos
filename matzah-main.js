@@ -404,8 +404,18 @@ if (pais) {
         .map(i => i.trim())
         .filter(i => i.length > 1);
 
-     const ingredientesTame = ingredientes.filter(isTameMatzah);
-const ingredientesLeud = ingredientes.filter(i => !isTameMatzah(i) && isLeudante(i));
+     const ingredientesTame = [];
+const ingredientesLeud = [];
+
+for (const ing of ingredientes) {
+  const norm = normalizeYsingularizar(ing);
+  if (ingredientesTameMatzah.includes(norm)) {
+    ingredientesTame.push(ing);
+  } else if (ingredientesLeudantes.includes(norm)) {
+    ingredientesLeud.push(ing);
+  }
+}
+
 const resultado = ingredientesTame.length > 0 ? 'Tame'
                 : ingredientesLeud.length > 0 ? 'Leudado'
                 : 'Tahor';
