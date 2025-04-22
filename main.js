@@ -186,6 +186,8 @@ function abrirTahor() {
   document.getElementById('menuInicial').style.display = 'none';
   document.getElementById('bloqueTahor').style.display = 'block';
 document.getElementById('botonVolverMenu').style.display = 'block';
+document.title = "Escáner de Productos Tame / Tahor";
+document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Tame / Tahor";
 
   // Mostrar solo la pestaña de búsqueda al iniciar
   document.getElementById('formBusquedaProducto').style.display = 'block';
@@ -441,6 +443,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 function volverAlMenu() {
+  document.title = "Escáner de Productos Lev 11";
+document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Lev 11";
   document.getElementById('bloqueTahor').style.display = 'none';
   document.getElementById('bloqueMatzah').style.display = 'none';
   document.getElementById('menuInicial').style.display = 'block';
