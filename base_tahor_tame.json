@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "marca": "vuala",
+    "nombre": "cuernitos rellenos",
+    "ean": "",
+    "pais": "MEXICO",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_890576-MLM77503318808_072024-O.webp",
+    "ingredientes": [
+      "harina de trigo",
+      "aceites vegetales",
+      "azúcar",
+      "levadura",
+      "sal",
+      "estabilizadores",
+      "vainillina",
+      "regulador de acidez",
+      "conservador",
+      "y para el relleno de chocolate",
+      "ingredientes adicionales como aceite de palma",
+      "jarabe de glucosa",
+      "polvo de cacao",
+      "leche descremada",
+      "alcohol etílico",
+      "emulsificante",
+      "gelificante y más conservadores"
+    ],
+    "esMatzah": true
+  }
+]
