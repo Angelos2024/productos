@@ -1,4 +1,4 @@
-
+(() => {
 function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
@@ -128,3 +128,4 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 
   return coincidencias.map(generarHTMLProducto).join('<hr>');
 }
+})();
