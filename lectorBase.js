@@ -1,21 +1,3 @@
-// Copiar función isTame del tahor-checker.js o importar
-function isTame(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesTame.includes(normalizado);
-}
-
-// Copia la lista básica o importa desde tahor-checker.js
-const ingredientesTame = [ 
-  "glicerina", "glicerol", "monoestearato de sorbitán", 
-  "gelatina", "grasa de cerdo", 
-  // (agrega toda tu lista aquí o importa externamente)
-];
-
-
-const MAX_ARCHIVOS = 15;
-const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
-const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
-const PATRON_ARCHIVO = i => `base/producto${i}.json`;
 
 function normalizeYsingularizar(txt) {
   return txt
@@ -29,6 +11,25 @@ function normalizeYsingularizar(txt) {
     .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
     .join(" ");
 }
+
+const ingredientesTame = [
+  "glicerina", "glicerol", "monoestearato de sorbitán",
+  "gelatina", "grasa de cerdo", "monoestearato", "e471", "e472", "cochinilla",
+  "cerdo", "puerco", "surimi", "ostra", "calamar", "anguila",
+  "laca de cochinilla", "e120", "carmin", "gelatina de cerdo",
+  "cuajo animal", "enzima animal", "colágeno animal", "animal fat",
+  "pork gelatin", "blood", "sangre", "morcilla", "animal glycerin"
+];
+
+function isTame(i) {
+  const normalizado = normalizeYsingularizar(i);
+  return ingredientesTame.includes(normalizado);
+}
+
+const MAX_ARCHIVOS = 15;
+const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
+const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
+const PATRON_ARCHIVO = i => `base/producto${i}.json`;
 
 function mostrarCarga() {
   const div = document.getElementById('analisisResultado');
@@ -46,10 +47,17 @@ function quitarCarga() {
   if (anim) anim.remove();
 }
 
-// Nueva función que genera la tarjeta desplegable por producto
 function generarHTMLProducto(producto) {
-  const ing = producto.ingredientes.map(i =>
-    isTame(i) ? `<span style="color:red">${i}</span>` : `<span>${i}</span>`).join(', ');
+  const ingredientesTameDetectados = [];
+
+  const ing = producto.ingredientes.map(i => {
+    if (isTame(i)) {
+      ingredientesTameDetectados.push({ ingrediente: i, razon: 'Detectado en lista Tame' });
+      return `<span style="color:red">${i}</span>`;
+    } else {
+      return `<span>${i}</span>`;
+    }
+  }).join(', ');
 
   let html = `
     <details class="detalle-producto">
@@ -60,9 +68,9 @@ function generarHTMLProducto(producto) {
       <p><strong>Ingredientes:</strong> ${ing}</p>
   `;
 
-  if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
+  if (ingredientesTameDetectados.length > 0) {
     html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-    html += `<ul style="color:red;">${producto.ingredientes_tame.map(obj =>
+    html += `<ul style="color:red;">${ingredientesTameDetectados.map(obj =>
       `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
   }
 
@@ -86,7 +94,7 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 
   for (const url of urls) {
     try {
-       console.log(`🔍 Buscando en: ${url}`); // ← Aquí muestra el archivo que está leyendo
+      console.log(`🔍 Buscando en: ${url}`);
       const res = await fetch(url);
       if (!res.ok) continue;
 
@@ -95,7 +103,6 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
       for (const producto of productos) {
         const claveProd = normalizeYsingularizar(`${producto.marca} ${producto.nombre}`);
         const eanCoincide = producto.ean && producto.ean === ean;
-
         const paisCoincide = !pais || (producto.pais && producto.pais.toLowerCase() === pais.toLowerCase());
 
         const esCoincidente = (
@@ -105,14 +112,13 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
 
         if (esCoincidente && paisCoincide) {
           coincidencias.push(producto);
-          if (coincidencias.length >= 5) break; // solo los primeros 5
+          if (coincidencias.length >= 5) break;
         }
       }
 
       if (coincidencias.length >= 5) break;
     } catch (err) {
       console.warn("❌ Error cargando:", url, err);
-      continue;
     }
   }
 
