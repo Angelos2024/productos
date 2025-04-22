@@ -90,7 +90,7 @@ document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', 
     pais,
     imagen: imagen || "imagen no disponible",
     ingredientes: ingredientesTexto.split(',').map(i => i.trim()).filter(Boolean),
-    estado: estado === "true"
+    estado: estado === "true",
       esMatzah: true // ✅ importante
   };
 
