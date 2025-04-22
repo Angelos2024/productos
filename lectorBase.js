@@ -48,15 +48,23 @@ function quitarCarga() {
 }
 
 function generarHTMLProducto(producto) {
-  const ingredientesTameDetectados = [];
+  let ingredientesTameDetectados = [];
 
+  // 1️⃣ Si ya vienen desde el JSON
+  if (producto.ingredientes_tame && producto.ingredientes_tame.length > 0) {
+    ingredientesTameDetectados = producto.ingredientes_tame;
+  } else {
+    // 2️⃣ Si no vienen, los detectamos dinámicamente
+    ingredientesTameDetectados = producto.ingredientes
+      .filter(i => isTame(i))
+      .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
+  }
+
+  // Resaltado visual de ingredientes
   const ing = producto.ingredientes.map(i => {
-    if (isTame(i)) {
-      ingredientesTameDetectados.push({ ingrediente: i, razon: 'Detectado en lista Tame' });
-      return `<span style="color:red">${i}</span>`;
-    } else {
-      return `<span>${i}</span>`;
-    }
+    return ingredientesTameDetectados.find(obj => normalizeYsingularizar(obj.ingrediente) === normalizeYsingularizar(i))
+      ? `<span style="color:red">${i}</span>`
+      : `<span>${i}</span>`;
   }).join(', ');
 
   let html = `
