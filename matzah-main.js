@@ -17,6 +17,21 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
+function isTameMatzah(i) {
+  const normalizado = normalizeYsingularizar(i);
+  return ingredientesTameMatzah.some(tame =>
+    normalizado.includes(normalizeYsingularizar(tame))
+  );
+}
+
+function isLeudante(i) {
+  const normalizado = normalizeYsingularizar(i);
+  return ingredientesLeudantes.some(l =>
+    normalizado.includes(normalizeYsingularizar(l))
+  );
+}
+
+
 const botonBusqueda = document.getElementById('botonBusquedaMatzah');
 const botonBuscarRapido = document.getElementById('botonBuscarRapidoMatzah');
 botonBuscarRapido?.addEventListener('click', () => {
