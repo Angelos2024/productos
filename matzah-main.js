@@ -134,6 +134,78 @@ async function buscarProductoEnArchivosMatzah(nombre, marca, ean, pais = "") {
   }
 }
 
+async function buscarEnOpenFoodFactsMatzah(ean) {
+  if (!ean || !/^[0-9]{8,14}$/.test(ean)) return null;
+
+  const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+    const p = data.product;
+
+    if (!p || !p.product_name || (!p.ingredients_text && !p.ingredients)) return null;
+
+    const ingredientes = p.ingredients_text.toLowerCase()
+      .split(/,|\./)
+      .map(i => i.trim())
+      .filter(i => i.length > 1);
+
+    const resultado = analizarIngredientesMatzah(ingredientes);
+
+    const htmlIng = ingredientes.map(i =>
+      resultado.ingredientesTame.includes(i)
+        ? `<span style="color:red">${i}</span>`
+        : resultado.ingredientesLeud.includes(i)
+          ? `<span style="color:orange">⚠️ ${i}</span>`
+          : `<span>${i}</span>`
+    ).join(', ');
+
+    let html = `
+      <details class="detalle-producto" open>
+        <summary><strong>${p.product_name}</strong> – ${p.brands || "Marca desconocida"}</summary>
+        ${p.image_url
+          ? `<img src="${p.image_url}" style="max-width:200px; border-radius:6px; margin:0.5rem 0;">`
+          : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+        <p><strong>Ingredientes:</strong> ${htmlIng}</p>
+    `;
+
+    if (resultado.ingredientesTame.length > 0) {
+      html += `<p style="color:red;"><strong>Ingredientes Tame:</strong>
+        <ul>${resultado.ingredientesTame.map(i => `<li>${i}</li>`).join('')}</ul></p>`;
+    }
+
+    if (resultado.ingredientesLeud.length > 0) {
+      html += `<p style="color:orange;"><strong>Leudantes:</strong>
+        <ul>${resultado.ingredientesLeud.map(i => `<li>⚠️ ${i}</li>`).join('')}</ul></p>`;
+    }
+
+    html += `<p style="color:${
+      resultado.resultado === 'Tahor' ? 'green' :
+      resultado.resultado === 'Leudado' ? 'orange' : 'red'
+    };">
+      ${
+        resultado.resultado === 'Tahor'
+          ? '✅ Apto para panes sin levadura'
+          : resultado.resultado === 'Leudado'
+            ? '⚠️ Contiene ingredientes fermentables'
+            : '❌ Contiene ingredientes impuros según Levítico 11'
+      }</p>`;
+
+    html += `<p style="font-style: italic; color:gray;">
+      Evaluación según Levítico 11 y Éxodo 12:15 (Matzah).
+    </p>`;
+
+    html += `</details>`;
+    return html;
+
+  } catch (err) {
+    console.error("❌ Error al consultar OpenFoodFacts:", err);
+    return null;
+  }
+}
+
+
 const botonBusquedaMatzah = document.getElementById('botonBusquedaMatzah');
 const botonBuscarRapidoMatzah = document.getElementById('botonBuscarRapidoMatzah');
 const escanearCodigoBtnMatzah = document.getElementById('escanearCodigoMatzah');
