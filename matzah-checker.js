@@ -114,17 +114,26 @@
 
 function isTameMatzah(ing) {
   const normal = normalizeYsingularizar(ing);
-  return window.ingredientesTameMatzah.some(tame =>
-    normal.includes(normalizeYsingularizar(tame))
-  );
+
+  return window.ingredientesTameMatzah.some(tame => {
+    const tameNorm = normalizeYsingularizar(tame);
+
+    // Coincidencia exacta
+    if (normal === tameNorm) return true;
+
+    // Coincidencia por palabra si está en medio de una frase compuesta
+    const palabras = normal.split(" ");
+    return palabras.includes(tameNorm);
+  });
 }
+
 
 function isLeudante(ing) {
   const normal = normalizeYsingularizar(ing);
-  return window.ingredientesLeudantes.some(leud =>
-    normal.includes(normalizeYsingularizar(leud))
-  );
+  const palabras = normal.split(" ");
+  return palabras.some(p => ingredientesLeudNorm.includes(p));
 }
+
 
   // Función principal para escaneo en sección matzah
   function analizarIngredientesMatzah(ingredientes) {
