@@ -126,26 +126,27 @@ function quitarCarga() {
 }
 
 function generarHTMLProducto(producto) {
-  let ingredientesTameDetectados = [];
+  // 📝 Toma la lista manual si existe
+  const manuales = producto.ingredientes_tame || [];
 
-  // 1️⃣ Si ya vienen desde el JSON
-const manuales = producto.ingredientes_tame || [];
+  // 🧠 Detecta dinámicamente ingredientes Tame que no estén ya en la lista manual
+  const detectados = producto.ingredientes
+    .filter(i => !manuales.find(m => normalizeYsingularizar(m.ingrediente) === normalizeYsingularizar(i)))
+    .filter(i => isTame(i))
+    .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
 
-const detectados = producto.ingredientes
-  .filter(i => !manuales.find(m => normalizeYsingularizar(m.ingrediente) === normalizeYsingularizar(i)))
-  .filter(i => isTame(i))
-  .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
+  // 🔁 Combina los dos conjuntos
+  const ingredientesTameDetectados = [...manuales, ...detectados];
 
-const ingredientesTameDetectados = [...manuales, ...detectados];
-
-
-  // Resaltado visual de ingredientes
+  // 🎨 Resalta visualmente los ingredientes
   const ing = producto.ingredientes.map(i => {
-    return ingredientesTameDetectados.find(obj => normalizeYsingularizar(obj.ingrediente) === normalizeYsingularizar(i))
+    return ingredientesTameDetectados.find(obj =>
+      normalizeYsingularizar(obj.ingrediente) === normalizeYsingularizar(i))
       ? `<span style="color:red">${i}</span>`
       : `<span>${i}</span>`;
   }).join(', ');
 
+  // 🧾 Construye HTML del producto
   let html = `
     <details class="detalle-producto">
       <summary><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</summary>
@@ -155,19 +156,23 @@ const ingredientesTameDetectados = [...manuales, ...detectados];
       <p><strong>Ingredientes:</strong> ${ing}</p>
   `;
 
+  // 🔴 Lista de ingredientes Tame detectados
   if (ingredientesTameDetectados.length > 0) {
     html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
     html += `<ul style="color:red;">${ingredientesTameDetectados.map(obj =>
       `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
   }
 
- const esTame = ingredientesTameDetectados.length > 0;
-html += `<p style="color:${esTame ? 'red' : 'green'};">
-  ${esTame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>`;
-
+  // ✅ Veredicto final basado solo en ingredientes
+  const esTame = ingredientesTameDetectados.length > 0;
+  html += `<p style="color:${esTame ? 'red' : 'green'};">
+    ${esTame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>
+    </details>
+  `;
 
   return html;
 }
+
 
 async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
   mostrarCarga();
