@@ -38,21 +38,7 @@ if (escanearCodigoBtn) {
 const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
 
 
- const selectCamara = document.getElementById('selectCamaraMatzah');
 
-
-
-    selectCamara.innerHTML = '';
-    devices.forEach((device, index) => {
-      const option = document.createElement('option');
-      option.value = device.deviceId;
-      option.text = device.label || `Cámara ${index + 1}`;
-      selectCamara.appendChild(option);
-    });
-  }).catch(err => {
-    console.error('No se pudo acceder a la cámara para listar dispositivos:', err);
-    selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-  });
 
 escanearCodigoBtn.addEventListener('click', async () => {
   const selectCamara = document.getElementById('selectCamaraMatzah');
@@ -445,18 +431,22 @@ html += `<p style="color:${resultado === 'Tame' ? 'red' : resultado === 'Leudado
   }
 }
 function scrollAResultados(intentos = 0) {
-  const resultados = document.getElementById('analisisResultado');
+  // Detectar cuál div de resultados está visible (tahor o matzah)
+  const resultadoTahor = document.getElementById('analisisResultado');
+  const resultadoMatzah = document.getElementById('resultadoMatzah');
+
+  const resultados = resultadoMatzah?.offsetParent !== null
+    ? resultadoMatzah
+    : resultadoTahor;
+
   if (!resultados) return;
 
-  // Si ya hay contenido y altura suficiente
   if (resultados.offsetHeight > 0 || intentos >= 5) {
     resultados.scrollIntoView({ behavior: 'smooth', block: 'start' });
     return;
   }
 
-  // Si aún no tiene altura visible, espera y vuelve a intentar
-setTimeout(() => scrollAResultados(intentos + 1), 50);
-
+  setTimeout(() => scrollAResultados(intentos + 1), 50);
 }
 
 
