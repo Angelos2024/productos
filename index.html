@@ -294,17 +294,31 @@
   });
 
 document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById('menuInicial').style.display = 'block';
-  document.getElementById('bloqueTahor').style.display = 'none';
-  document.getElementById('bloqueMatzah').style.display = 'none';
+  const seccionGuardada = localStorage.getItem("ultimaSeccionActiva");
+
+  if (seccionGuardada === "tahor") {
+    abrirTahor();
+  } else if (seccionGuardada === "matzah") {
+    abrirMatzah();
+  } else {
+    document.getElementById('menuInicial').style.display = 'block';
+    document.getElementById('bloqueTahor').style.display = 'none';
+    document.getElementById('bloqueMatzah').style.display = 'none';
+  }
+
+  const btnVolver = document.getElementById('botonVolverMenu');
+  if (btnVolver) {
+    btnVolver.addEventListener('click', volverAlMenu);
+  }
 });
 
 
+
   document.getElementById('btnAbrirMatzah')?.addEventListener('click', abrirMatzah);
-localStorage.setItem('ultimaSeccionActiva', 'tahor'); // en abrirTahor()
-localStorage.setItem('ultimaSeccionActiva', 'matzah'); // en abrirMatzah()
+
 
 function abrirMatzah() {
+   localStorage.setItem("ultimaSeccionActiva", "matzah");
   document.getElementById('menuInicial').style.display = 'none';
   document.getElementById('bloqueMatzah').style.display = 'block';
 document.getElementById('botonVolverMenu').style.display = 'block';
@@ -348,7 +362,7 @@ document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
   position: fixed;
   top: 1rem;
   left: 1rem;
-  background-color: #3498db
+  background-color: #000;
   border: 1px solid #ccc;
   padding: 0.3rem 0.7rem;
   font-size: 0.85rem;
