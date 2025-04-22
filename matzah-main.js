@@ -335,8 +335,8 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
       const data = await res.json();
       if (data.product) productos.push(data.product);
     } else {
-      const nombreBusqueda = encodeURIComponent(nombre);
-      const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=10`;
+const nombreBusqueda = encodeURIComponent(nombre);
+const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
       const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
       const data = await res.json();
       productos = data.products || [];
