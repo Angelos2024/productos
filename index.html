@@ -24,7 +24,8 @@
 <main class="contenedor">
  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
    <p style="margin: 0;">más de 3,783,408 productos registrados de todo el mundo</p>
-  <h1 style="margin: 0;">Escáner de Productos Lev 11</h1>
+  <h1 id="tituloPrincipal" style="margin: 0;">Escáner de Productos Lev 11 Éxodo 12</h1>
+
 </div>
 
   <div id="menuInicial">
@@ -322,6 +323,8 @@ function abrirMatzah() {
   document.getElementById('menuInicial').style.display = 'none';
   document.getElementById('bloqueMatzah').style.display = 'block';
 document.getElementById('botonVolverMenu').style.display = 'block';
+document.title = "Escáner de Productos para Pésaj";
+document.getElementById("tituloPrincipal").textContent = "Escáner de Productos para Pésaj";
 
   document.getElementById('formBusquedaMatzah').style.display = 'block';
   document.getElementById('resultadoMatzah').style.display = 'block';
