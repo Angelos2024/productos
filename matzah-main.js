@@ -399,10 +399,15 @@ const htmlIng = ingredientes.map(ing => {
           <p><strong>Ingredientes:</strong> ${htmlIng}</p>
       `;
 
-      if (tame) {
-        html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-        html += `<ul style="color:red;">${ingredientesTame.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
-      }
+     if (ingredientesTame.length > 0) {
+  html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
+  html += `<ul style="color:red;">${ingredientesTame.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
+}
+if (ingredientesLeud.length > 0) {
+  html += `<p><strong style="color:orange;">Ingredientes leudantes detectados:</strong><br>`;
+  html += `<ul style="color:orange;">${ingredientesLeud.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
+}
+
 
 html += `<p style="color:${resultado === 'Tame' ? 'red' : resultado === 'Leudado' ? 'orange' : 'green'};">
   ${resultado === 'Tame' ? '❌ No Apto (Tame)'
