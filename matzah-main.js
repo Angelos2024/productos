@@ -487,7 +487,7 @@ document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', 
     estado: estado === 'true',
     esMatzah: true
   };
-
+ 
   try {
     const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
       method: "POST",
