@@ -1,3 +1,4 @@
+
 let currentPreviewStream = null;
 
 
@@ -167,7 +168,7 @@ if (htmlLocales) {
 if (resultadosHTML.length < 5) {
   resultadoDiv.innerHTML = `
     <p><strong>🔍 Buscando coincidencias... (${resultadosHTML.length} encontradas hasta ahora)</strong></p>
-    <p><strong>🌐🕵️‍♂️ Revisión avanzada (Nivel 2) en progreso...</strong></p>
+    <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
   `;
 
 const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
@@ -348,57 +349,15 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
 
     if (ean && /^[0-9]{8,14}$/.test(ean)) {
       const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
-     const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify({ accion: "proxyOpenFood", url })
-});
-
-let respuestaEAN = {};
-try {
-  respuestaEAN = await proxyRes.json();
-
-  // 🔴 Validar si el proxy devolvió error explícito
-  if (respuestaEAN.error) {
-    console.error("❌ Error desde proxy EAN:", respuestaEAN.mensaje || respuestaEAN.texto || respuestaEAN);
-    return null;
-  }
-
-  if (respuestaEAN.product) {
-    productos.push(respuestaEAN.product);
-  }
-} catch (err) {
-  console.error("❌ La respuesta del proxy (EAN) no fue JSON válido:", err);
-  return null;
-}
-
+      const res = await fetch(url);
+      const data = await res.json();
+      if (data.product) productos.push(data.product);
     } else {
-      const nombreBusqueda = encodeURIComponent(nombre);
-
+const nombreBusqueda = encodeURIComponent(nombre);
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
-let respuestaNombre = {};
-try {
-  const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ accion: "proxyOpenFood", url })
-  });
-
-  respuestaNombre = await proxyRes.json();
-
-  if (respuestaNombre.error) {
-    console.error("❌ Error desde proxy por nombre:", respuestaNombre.mensaje || respuestaNombre.texto || respuestaNombre);
-    return null;
-  }
-
-  productos = respuestaNombre.products || [];
-} catch (err) {
-  console.error("❌ La respuesta del proxy por nombre no fue JSON válido:", err);
-  return null;
-}
-
-    productos = respuestaNombre.products || [];
-
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      const data = await res.json();
+      productos = data.products || [];
       // 🔎 Filtrado por coincidencia parcial en nombre + marca
 const claveNombre = normalizeYsingularizar(nombre);
 const claveMarca = normalizeYsingularizar(marca);
