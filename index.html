@@ -61,6 +61,7 @@
       <!-- OPCIÓN 1: Búsqueda por nombre, marca y país -->
       <div class="grupo-formulario" style="background:#ffffff; border:1px solid #ccc; padding:1rem; border-radius:10px; margin-bottom:1rem">
         <h3 style="margin-top:0;">🔎 Buscar por Nombre / Marca / País</h3>
+        <p class="instruccion">🔤 <strong>Nombre</strong> y <strong>Marca</strong> son obligatorios. País es opcional.</p>
         <input type="text" id="nombreEntrada" placeholder="Nombre del producto *">
         <input type="text" id="marcaEntrada" placeholder="Marca *">
         <select id="paisFiltro">
@@ -84,15 +85,17 @@
 <option value="Puerto Rico">Puerto Rico</option>
 <option value="Cuba">Cuba</option>
         </select>
-        <button id="botonBusqueda" style="margin-top:0.5rem">🔍 Buscar por nombre</button>
+        <button id="botonBusqueda" style="margin-top:0.5rem">🔍 Buscar por Nombre y Marca</button>
       </div>
 
       <!-- OPCIÓN 2: Búsqueda por código de barras -->
       <div class="grupo-formulario" style="background:#f0f0f0; border:1px solid #ccc; padding:1rem; border-radius:10px;">
         <h3 style="margin-top:0;">📷 Buscar por Código de Barras (EAN)</h3>
        <div style="display:flex; gap:0.5rem; align-items: center;">
+         <p class="instruccion">📸 Puedes escanear o introducir el código. <b>No llenes Nombre ni Marca.</b></p>
   <input type="text" id="eanEntrada" placeholder="introducir codigo manualmente o con cámara" style="flex:1;">
-  <button id="botonBuscarRapido" title="Buscar por código manualmente" style="padding: 0.4rem 0.7rem; font-size: 0.9rem;">🔎</button>
+ <button id="botonBuscarRapido" title="Buscar por código">🔎 Buscar Código</button>
+         
 </div>
 
         <select id="selectCamara" class="dropdown-camara"></select>
@@ -158,6 +161,7 @@
   <!-- OPCIÓN 1: Búsqueda por nombre, marca y país -->
   <div class="grupo-formulario" style="background:#ffffff; border:1px solid #ccc; padding:1rem; border-radius:10px; margin-bottom:1rem">
     <h3 style="margin-top:0;">🔎 Buscar por Nombre / Marca / País</h3>
+    <p class="instruccion">🔤 <strong>Nombre</strong> y <strong>Marca</strong> son obligatorios. País es opcional.</p>
     <input type="text" id="nombreEntradaMatzah" placeholder="Nombre del producto *">
     <input type="text" id="marcaEntradaMatzah" placeholder="Marca *">
     <select id="paisFiltroMatzah">
@@ -181,15 +185,18 @@
       <option value="Puerto Rico">Puerto Rico</option>
       <option value="Cuba">Cuba</option>
     </select>
-    <button id="botonBusquedaMatzah" style="margin-top:0.5rem">🔍 Buscar por nombre</button>
+    <button id="botonBusquedaMatzah" style="margin-top:0.5rem">🔍 Buscar por Nombre y Marca</button>
+
   </div>
 
   <!-- OPCIÓN 2: Búsqueda por código de barras -->
   <div class="grupo-formulario" style="background:#f0f0f0; border:1px solid #ccc; padding:1rem; border-radius:10px;">
     <h3 style="margin-top:0;">📷 Buscar por Código de Barras (EAN)</h3>
     <div style="display:flex; gap:0.5rem; align-items: center;">
+      <p class="instruccion">📸 Puedes escanear o introducir el código. <b>No se contemplará Nombre ni Marca.</b></p>
       <input type="text" id="eanEntradaMatzah" placeholder="introducir código manualmente o con cámara" style="flex:1;">
-      <button id="botonBuscarRapidoMatzah" title="Buscar por código manualmente" style="padding: 0.4rem 0.7rem; font-size: 0.9rem;">🔎</button>
+      <button id="botonBuscarRapidoMatzah" title="Buscar por código">🔎 Buscar Código</button>
+
     </div>
 
     <select id="selectCamaraMatzah" class="dropdown-camara"></select>
