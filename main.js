@@ -509,9 +509,7 @@ async function inicializarListaCamaras(selectId) {
   if (!select) return;
 
   try {
- escanearCodigoBtn.addEventListener('click', async () => {
-  codeReader.reset(); // solo reinicia, no redeclares
-  const devices = await codeReader.getVideoInputDevices();
+    const devices = await codeReader.getVideoInputDevices();
 
     select.innerHTML = '';
     devices.forEach((device, index) => {
