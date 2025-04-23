@@ -116,14 +116,14 @@ try {
   try {
 const selectedDeviceId = selectCamara.value;
 
-const constraints = {
+const stream = await navigator.mediaDevices.getUserMedia({
   video: {
-    facingMode: { ideal: "environment" },
+    deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+    facingMode: { ideal: "environment" }, // ✅ aquí va la coma
     width: { ideal: 1280 },
-    height: { ideal: 720 },
-    deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined
+    height: { ideal: 720 }
   }
-};
+});
 
 
 if (selectedDeviceId) {
