@@ -479,8 +479,7 @@ async function inicializarListaCamaras(selectId) {
   if (!select) return;
 
   try {
-    await navigator.mediaDevices.getUserMedia({ video: true });
-    const codeReader = new ZXing.BrowserBarcodeReader(); // ← aquí está el fix
+    const codeReader = new ZXing.BrowserBarcodeReader();
     const devices = await codeReader.getVideoInputDevices();
 
     select.innerHTML = '';
@@ -494,6 +493,7 @@ async function inicializarListaCamaras(selectId) {
     if (!select.value && devices[0]) {
       select.value = devices[0].deviceId;
     }
+
   } catch (err) {
     console.error('❌ Error al inicializar cámaras:', err);
     select.innerHTML = '<option>Error acceso a cámara</option>';
@@ -501,11 +501,8 @@ async function inicializarListaCamaras(selectId) {
 }
 
 
-// ✅ Ejecutar al cargar
-document.addEventListener("DOMContentLoaded", () => {
-  inicializarListaCamaras('selectCamara'); // para Tahor
 
-});
+
 document.getElementById('selectCamara')?.addEventListener('change', () => {
   if (currentPreviewStream) {
     currentPreviewStream.getTracks().forEach(track => track.stop());
