@@ -155,18 +155,25 @@ if (escanearCodigoBtn) {
 
 // --- Búsqueda principal
 botonBusqueda.addEventListener('click', async () => {
-  const marca = document.getElementById('marcaEntradaMatzah').value.trim();
+const marca = document.getElementById('marcaEntradaMatzah').value.trim();
 const nombre = document.getElementById('nombreEntradaMatzah').value.trim();
-// 🟡 Si se hace clic en el botón de búsqueda manual, ignoramos el código EAN
-const ean = ''; // ← forzamos que no se use el EAN aquí
+const ean = document.getElementById('eanEntradaMatzah').value.trim();
+
 
 const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
 
 
-  if (!ean && (!marca || !nombre)) {
-    alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
-    return;
-  }
+ if (!ean && (!marca || !nombre)) {
+  alert("⚠️ Completa al menos Marca y Nombre, o el Código de Barras.");
+  return;
+}
+
+// Si hay EAN válido, ignoramos marca y nombre completamente
+if (ean && /^[0-9]{8,14}$/.test(ean)) {
+  buscarSoloPorEanMatzah(ean);
+  return;
+}
+
 
 
   marcaGlobal = marca;
