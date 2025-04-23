@@ -353,18 +353,21 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({ accion: "proxyOpenFood", url })
 });
-const respuestaEAN = await proxyRes.json();
 
-   if (respuestaEAN.product) productos.push(respuestaEAN.product);
+const respuestaEAN = await proxyRes.json();
+if (respuestaEAN.product) productos.push(respuestaEAN.product);
+
 
     } else {
-const nombreBusqueda = encodeURIComponent(nombre);
+      const nombreBusqueda = encodeURIComponent(nombre);
+
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
-      const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
   method: "POST",
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({ accion: "proxyOpenFood", url })
 });
+
 const respuestaNombre = await proxyRes.json();
 
 
