@@ -48,108 +48,99 @@ let eanGlobal = '';
 
 // --- Cámara y escaneo
 if (escanearCodigoBtn) {
-const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
+  const codeReader = new ZXing.BrowserBarcodeReader();
 
+  escanearCodigoBtn.addEventListener('click', async () => {
+    const selectCamara = document.getElementById('selectCamaraMatzah');
 
-
-
-escanearCodigoBtn.addEventListener('click', async () => {
-  const selectCamara = document.getElementById('selectCamaraMatzah');
-
- 
- // ✅ Paso 1: Pedir permisos antes
-try {
-  await navigator.mediaDevices.getUserMedia({ video: true });
-} catch (err) {
-  console.error("❌ Permiso denegado para la cámara:", err);
-  resultadoDiv.innerHTML = '<p style="color:red;">❌ Debes permitir acceso a la cámara.</p>';
-  return;
-}
-
-// ✅ Paso 2: Obtener cámaras ahora que hay permiso
-let devices = [];
-try {
-  devices = await codeReader.getVideoInputDevices();
-  selectCamara.innerHTML = '';
-  devices.forEach((device, index) => {
-    const option = document.createElement('option');
-    option.value = device.deviceId;
-    option.text = device.label || `Cámara ${index + 1}`;
-    selectCamara.appendChild(option);
-  });
-
-  // Auto-seleccionar la primera si no hay selección previa
-  if (!selectCamara.value && devices[0]) {
-    selectCamara.value = devices[0].deviceId;
-  }
-
-} catch (err) {
-  console.error('❌ No se pudo listar dispositivos de cámara:', err);
-  selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-  return;
-}
-
-
-  // 🛑 Detener cualquier stream previo
-  if (currentPreviewStream) {
-    currentPreviewStream.getTracks().forEach(track => track.stop());
-    currentPreviewStream = null;
-  }
-   }
-
-const previewElem = document.createElement('video');
-previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
-resultadoDiv.innerHTML = `
-  <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
-  <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
-`;
-resultadoDiv.appendChild(previewElem);
-
-document.getElementById('cancelarEscaneo').addEventListener('click', () => {
-  if (currentPreviewStream) {
-    currentPreviewStream.getTracks().forEach(track => track.stop());
-    currentPreviewStream = null;
-  }
-  codeReader.reset();
-  resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
-});
-
-try {
-  const selectedDeviceId = selectCamara.value;
-
-  const stream = await navigator.mediaDevices.getUserMedia({
-    video: {
-      deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-      facingMode: { ideal: "environment" },
-      width: { ideal: 1280 },
-      height: { ideal: 720 }
+    try {
+      await navigator.mediaDevices.getUserMedia({ video: true });
+    } catch (err) {
+      console.error("❌ Permiso denegado para la cámara:", err);
+      resultadoDiv.innerHTML = '<p style="color:red;">❌ Debes permitir acceso a la cámara.</p>';
+      return;
     }
-  });
 
-  previewElem.srcObject = stream;
-  await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
-  currentPreviewStream = stream;
+    let devices = [];
+    try {
+      devices = await codeReader.getVideoInputDevices();
+      selectCamara.innerHTML = '';
+      devices.forEach((device, index) => {
+        const option = document.createElement('option');
+        option.value = device.deviceId;
+        option.text = device.label || `Cámara ${index + 1}`;
+        selectCamara.appendChild(option);
+      });
 
-  const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-  document.getElementById('eanEntradaMatzah').value = result.text;
-  resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-  scrollAResultados();
-  buscarSoloPorEanMatzah(result.text);
+      if (!selectCamara.value && devices[0]) {
+        selectCamara.value = devices[0].deviceId;
+      }
 
-} catch (err) {
-  console.error('❌ Error escaneando:', err);
-  resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-} finally {
-  codeReader.reset();
-  if (currentPreviewStream) {
-    currentPreviewStream.getTracks().forEach(track => track.stop());
-    currentPreviewStream = null;
-  }
-}
-  });
+    } catch (err) {
+      console.error('❌ No se pudo listar dispositivos de cámara:', err);
+      selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
+      return;
+    }
 
+    if (currentPreviewStream) {
+      currentPreviewStream.getTracks().forEach(track => track.stop());
+      currentPreviewStream = null;
+    }
 
-}
+    const previewElem = document.createElement('video');
+    previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
+    resultadoDiv.innerHTML = `
+      <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
+      <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+    `;
+    resultadoDiv.appendChild(previewElem);
+
+    document.getElementById('cancelarEscaneo').addEventListener('click', () => {
+      if (currentPreviewStream) {
+        currentPreviewStream.getTracks().forEach(track => track.stop());
+        currentPreviewStream = null;
+      }
+      codeReader.reset();
+      resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
+    });
+
+    try {
+      const selectedDeviceId = selectCamara.value;
+
+      const stream = await navigator.mediaDevices.getUserMedia({
+        video: {
+          deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+          facingMode: { ideal: "environment" },
+          width: { ideal: 1280 },
+          height: { ideal: 720 }
+        }
+      });
+
+      previewElem.srcObject = stream;
+      await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+      currentPreviewStream = stream;
+
+      const result = await codeReader.decodeOnceFromStream(stream, previewElem);
+      document.getElementById('eanEntradaMatzah').value = result.text;
+      resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+      scrollAResultados();
+      buscarSoloPorEanMatzah(result.text);
+
+    } catch (err) {
+      console.error('❌ Error escaneando:', err);
+      resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+    } finally {
+      codeReader.reset();
+      if (currentPreviewStream) {
+        currentPreviewStream.getTracks().forEach(track => track.stop());
+        currentPreviewStream = null;
+      }
+    }
+
+  });  // 👈 Cierre del addEventListener
+
+}  // ✅ Cierre correcto del if (escanearCodigoBtn)
+
 
 // --- Búsqueda principal
 botonBusqueda.addEventListener('click', async () => {
