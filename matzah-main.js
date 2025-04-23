@@ -47,8 +47,10 @@ let nombreGlobal = '';
 let eanGlobal = '';
 
 // --- Cámara y escaneo
+let codeReader = new ZXing.BrowserMultiFormatReader(); // ⬅️ fuera del evento, como en main.js
+
 if (escanearCodigoBtn) {
-  const codeReader = new ZXing.BrowserBarcodeReader();
+
 
   escanearCodigoBtn.addEventListener('click', async () => {
     const selectCamara = document.getElementById('selectCamaraMatzah');
@@ -120,22 +122,25 @@ if (escanearCodigoBtn) {
       await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
       currentPreviewStream = stream;
 
-      const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-      document.getElementById('eanEntradaMatzah').value = result.text;
-      resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-      scrollAResultados();
-      buscarSoloPorEanMatzah(result.text);
+    codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+  if (result) {
+    document.getElementById('eanEntradaMatzah').value = result.text;
+    buscarSoloPorEanMatzah(result.text);
+
+    codeReader.reset();
+    if (currentPreviewStream) {
+      currentPreviewStream.getTracks().forEach(track => track.stop());
+      currentPreviewStream = null;
+    }
+  }
+}); // <-- CIERRA AQUÍ el decodeFromVideoDevice
+
+
 
     } catch (err) {
       console.error('❌ Error escaneando:', err);
       resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-    } finally {
-      codeReader.reset();
-      if (currentPreviewStream) {
-        currentPreviewStream.getTracks().forEach(track => track.stop());
-        currentPreviewStream = null;
-      }
-    }
+   
 
   });  // 👈 Cierre del addEventListener
 
