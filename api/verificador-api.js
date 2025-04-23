@@ -40,45 +40,47 @@ module.exports = async (req, res) => {
     // 🌐 Acción: PROXY hacia OpenFoodFacts
   // ✅ NUEVO BLOQUE: Proxy para OpenFoodFacts
 if (accion === "proxyOpenFood") {
-  const fetch = require("node-fetch"); // asegúrate de tenerlo instalado o usar global si es runtime edge
+  const fetch = require("node-fetch"); // si estás en Vercel Node, ya está disponible
 
   const { url } = body;
   if (!url || !url.startsWith("https://world.openfoodfacts.org")) {
     return res.status(400).json({ error: "URL inválida para proxy" });
   }
 
- console.log("🔍 Consultando OpenFoodFacts con:", url);
+  console.log("🔍 Consultando OpenFoodFacts con:", url);
 
-try {
-  const offRes = await fetch(url);
-  const status = offRes.status;
-  const text = await offRes.text();
+  try {
+    const offRes = await fetch(url);
+    const status = offRes.status;
+    const contentType = offRes.headers.get("content-type") || "";
+    const text = await offRes.text();
 
-  console.log("🔁 Estado HTTP de respuesta:", status);
+    console.log("🔁 Estado HTTP de respuesta:", status);
 
-  // Verifica que OpenFoodFacts haya respondido con éxito
-  if (!offRes.ok) {
-    console.error("❌ OpenFoodFacts respondió con error:", status, text.slice(0, 100));
-    return res.status(status).json({ error: "Error en la respuesta de OpenFoodFacts" });
+    if (!offRes.ok) {
+      console.error("❌ OpenFoodFacts falló:", status, text.slice(0, 80));
+      return res.status(status).json({ error: "OpenFoodFacts respondió con error" });
+    }
+
+    if (!contentType.includes("application/json")) {
+      console.error("❌ Tipo de respuesta inválido:", contentType);
+      return res.status(502).json({ error: "Respuesta de OpenFoodFacts no es JSON" });
+    }
+
+    try {
+      const json = JSON.parse(text);
+      return res.status(200).json(json);
+    } catch (err) {
+      console.error("❌ No se pudo parsear como JSON:", text.slice(0, 100));
+      return res.status(502).json({ error: "Respuesta no válida de OpenFoodFacts" });
+    }
+
+  } catch (err) {
+    console.error("❌ Error al hacer fetch a OpenFoodFacts:", err);
+    return res.status(500).json({ error: "Fallo en proxy a OpenFoodFacts" });
   }
-
-  // Verifica que la respuesta sea JSON
-  const contentType = offRes.headers.get("content-type") || "";
-  if (!contentType.includes("application/json")) {
-    console.error("❌ Tipo de contenido inválido:", contentType);
-    return res.status(502).json({ error: "Respuesta no es JSON válido" });
-  }
-
-  // Ahora sí intenta parsear como JSON
-  const json = JSON.parse(text);
-  return res.status(200).json(json);
-
-} catch (err) {
-  console.error("❌ Error en proxyOpenFood:", err);
-  return res.status(500).json({ error: "Fallo en proxy a OpenFoodFacts" });
 }
 
-}
 
 
   try {
