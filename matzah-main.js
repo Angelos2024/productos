@@ -95,6 +95,7 @@ try {
     currentPreviewStream.getTracks().forEach(track => track.stop());
     currentPreviewStream = null;
   }
+   }
 
 const previewElem = document.createElement('video');
 previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
