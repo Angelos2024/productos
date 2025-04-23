@@ -115,44 +115,45 @@ try {
     resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
   });
 
-  try {
-const selectedDeviceId = selectCamara.value;
+try {
+  const selectedDeviceId = selectCamara.value;
 
-const constraints = {
-  video: {
-    facingMode: "environment",
-    width: { ideal: 1280 },
-    height: { ideal: 720 }
+  const constraints = {
+    video: {
+      facingMode: "environment",
+      width: { ideal: 1280 },
+      height: { ideal: 720 }
+    }
+  };
+
+  if (selectedDeviceId) {
+    constraints.video.deviceId = { exact: selectedDeviceId };
   }
-};
 
-if (selectedDeviceId) {
-  constraints.video.deviceId = { exact: selectedDeviceId };
+  const stream = await navigator.mediaDevices.getUserMedia(constraints);
+
+  previewElem.srcObject = stream;
+  await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+  currentPreviewStream = stream;
+
+  const result = await codeReader.decodeOnceFromStream(stream, previewElem);
+  document.getElementById('eanEntradaMatzah').value = result.text;
+  resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+  scrollAResultados();
+
+  botonBusqueda.click();
+
+} catch (err) {
+  console.error('❌ Error escaneando:', err);
+  resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+} finally {
+  codeReader.reset();
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
 }
 
-const stream = await navigator.mediaDevices.getUserMedia(constraints);
-
-    previewElem.srcObject = stream;
-    await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
-    currentPreviewStream = stream;
-
-    const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-    document.getElementById('eanEntradaMatzah').value = result.text;
-    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-    scrollAResultados();
-
-    botonBusqueda.click();
-
-  } catch (err) {
-    console.error('❌ Error escaneando:', err);
-    resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-  } finally {
-    codeReader.reset();
-    if (currentPreviewStream) {
-      currentPreviewStream.getTracks().forEach(track => track.stop());
-      currentPreviewStream = null;
-    }
-  }
 });
 
 
@@ -576,5 +577,6 @@ document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', 
   }
 });
 
-  
- })();
+// Aquí cierra correctamente el bloque autoejecutable
+})();
+
