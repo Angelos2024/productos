@@ -40,7 +40,7 @@ const selectCamara = document.getElementById('selectCamara');
 
 
 escanearCodigoBtn.addEventListener('click', async () => {
-  const selectCamara = document.getElementById('selectCamara');
+
 
   // 🔄 Obtener lista de cámaras en el momento del escaneo
 try {
