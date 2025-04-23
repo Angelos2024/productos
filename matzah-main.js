@@ -12,11 +12,23 @@ function normalizeYsingularizar(txt) {
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
-    .trim()
-    .split(" ")
-    .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
-    .join(" ");
+    .trim();
 }
+
+function isTameMatzah(i) {
+  const normalizado = normalizeYsingularizar(i);
+  return ingredientesTameMatzah.some(tame =>
+    normalizado.includes(normalizeYsingularizar(tame))
+  );
+}
+
+function isLeudante(i) {
+  const normalizado = normalizeYsingularizar(i);
+  return ingredientesLeudantes.some(leu =>
+    normalizado.includes(normalizeYsingularizar(leu))
+  );
+}
+
 
 const botonBusqueda = document.getElementById('botonBusquedaMatzah');
 const botonBuscarRapido = document.getElementById('botonBuscarRapidoMatzah');
