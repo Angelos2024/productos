@@ -130,9 +130,7 @@ const stream = await navigator.mediaDevices.getUserMedia({
    codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
   if (result) {
     document.getElementById('eanEntrada').value = result.text;
-    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-    scrollAResultados();
-    buscarSoloPorEan(result.text);
+    
 
     // Detener escaneo al detectar
     codeReader.reset();
