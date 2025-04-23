@@ -504,12 +504,23 @@ async function inicializarListaCamaras(selectId) {
 
 
 
-document.getElementById('selectCamara')?.addEventListener('change', () => {
+const selectCamara = document.getElementById('selectCamara');
+
+selectCamara.addEventListener('change', () => {
   if (currentPreviewStream) {
     currentPreviewStream.getTracks().forEach(track => track.stop());
     currentPreviewStream = null;
   }
+
+  // Muy importante: resetear lector para evitar bugs de ZXing
+  codeReader.reset();
+
+  // Informar al usuario
+  resultadoDiv.innerHTML = `
+    <p style="color:gray;">📷 Cámara reiniciada. Pulsa nuevamente "Escanear código".</p>
+  `;
 });
+
 async function buscarSoloPorEan(ean) {
   const pais = document.getElementById('paisFiltro')?.value.trim() || "";
 
