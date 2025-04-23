@@ -31,8 +31,9 @@ let nombreGlobal = '';
 let eanGlobal = '';
 
 // --- Cámara y escaneo
-if (escanearCodigoBtn) {
 const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
+if (escanearCodigoBtn) {
+
 
 
 const selectCamara = document.getElementById('selectCamara');
@@ -469,3 +470,40 @@ document.getElementById("tituloPrincipal").textContent = "Escáner de Productos 
   document.getElementById('botonVolverMenu').style.display = 'none';
   localStorage.removeItem('ultimaSeccionActiva');
 }
+// 🔁 Llenar select de cámaras desde el inicio
+async function inicializarListaCamaras(selectId) {
+  const select = document.getElementById(selectId);
+  if (!select) return;
+
+  try {
+    // Obtener permiso antes de listar dispositivos
+    await navigator.mediaDevices.getUserMedia({ video: true });
+    const devices = await ZXing.BrowserBarcodeReader.getVideoInputDevices();
+    select.innerHTML = '';
+    devices.forEach((device, index) => {
+      const option = document.createElement('option');
+      option.value = device.deviceId;
+      option.text = device.label || `Cámara ${index + 1}`;
+      select.appendChild(option);
+    });
+    if (!select.value && devices[0]) {
+      select.value = devices[0].deviceId;
+    }
+  } catch (err) {
+    console.error('❌ Error al inicializar cámaras:', err);
+    select.innerHTML = '<option>Error acceso a cámara</option>';
+  }
+}
+
+// ✅ Ejecutar al cargar
+document.addEventListener("DOMContentLoaded", () => {
+  inicializarListaCamaras('selectCamara'); // para Tahor
+
+});
+document.getElementById('selectCamara')?.addEventListener('change', () => {
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
+});
+
