@@ -357,20 +357,26 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
 let respuestaEAN = {};
 try {
   respuestaEAN = await proxyRes.json();
+
+  // 🔴 Validar si el proxy devolvió error explícito
+  if (respuestaEAN.error) {
+    console.error("❌ Error desde proxy EAN:", respuestaEAN.mensaje || respuestaEAN.texto || respuestaEAN);
+    return null;
+  }
+
+  if (respuestaEAN.product) {
+    productos.push(respuestaEAN.product);
+  }
 } catch (err) {
   console.error("❌ La respuesta del proxy (EAN) no fue JSON válido:", err);
   return null;
 }
-
-if (respuestaEAN.product) productos.push(respuestaEAN.product);
-
 
     } else {
       const nombreBusqueda = encodeURIComponent(nombre);
 
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
 let respuestaNombre = {};
-
 try {
   const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
     method: "POST",
@@ -379,11 +385,17 @@ try {
   });
 
   respuestaNombre = await proxyRes.json();
+
+  if (respuestaNombre.error) {
+    console.error("❌ Error desde proxy por nombre:", respuestaNombre.mensaje || respuestaNombre.texto || respuestaNombre);
+    return null;
+  }
+
+  productos = respuestaNombre.products || [];
 } catch (err) {
-  console.error("❌ La respuesta del proxy no fue JSON válido:", err);
+  console.error("❌ La respuesta del proxy por nombre no fue JSON válido:", err);
   return null;
 }
-
 
     productos = respuestaNombre.products || [];
 
