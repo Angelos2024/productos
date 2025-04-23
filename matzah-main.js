@@ -494,7 +494,57 @@ function volverAlMenu() {
   localStorage.removeItem('ultimaSeccionActiva');
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+  const form = document.getElementById("formRegistroManualMatzah");
+  if (!form) return;
 
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    if (verificarConflictoEnvioMatzah()) return;
+
+    const producto = {
+      marca: document.getElementById("marcaManualMatzah").value.trim(),
+      nombre: document.getElementById("nombreManualMatzah").value.trim(),
+      pais: document.getElementById("paisManualMatzah").value.trim(),
+      ean: document.getElementById("eanManualMatzah").value.trim() || "",
+      imagen: document.getElementById("imagenManualMatzah").value.trim() || "imagen no disponible",
+      ingredientes: document.getElementById("ingredientesManualMatzah").value
+        .split(",")
+        .map(i => i.trim()),
+      estado: document.querySelector('input[name="estadoMatzah"]:checked')?.value === "true",
+      esMatzah: true
+    };
+
+    try {
+      const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ accion: "registrar", producto })
+      });
+
+      if (!res.ok) {
+        document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al registrar producto.";
+        console.error("Error HTTP:", res.status);
+        return;
+      }
+
+      form.reset();
+
+      const tiempoFuturo = Date.now() + 30000;
+      localStorage.setItem("envioEnCursoMatzah", "true");
+      localStorage.setItem("envioTiempoMatzah", tiempoFuturo);
+
+      mostrarMensajeTemporalMatzah("📡 Enviando producto al servidor...", 30);
+
+    } catch (err) {
+      document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al conectar con el servidor.";
+      console.error(err);
+    }
+  });
+});
+
+  
 function verificarConflictoEnvioMatzah() {
   const envioActivo = localStorage.getItem("envioEnCursoMatzah");
   const tiempoFinal = parseInt(localStorage.getItem("envioTiempoMatzah"), 10);
