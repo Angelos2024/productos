@@ -138,8 +138,8 @@ const stream = await navigator.mediaDevices.getUserMedia(constraints);
     document.getElementById('eanEntradaMatzah').value = result.text;
     resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
     scrollAResultados();
+buscarSoloPorEanMatzah(result.text);
 
-    botonBusqueda.click();
 
   } catch (err) {
     console.error('❌ Error escaneando:', err);
@@ -641,5 +641,40 @@ document.addEventListener("DOMContentLoaded", () => {
     currentPreviewStream = null;
   }
 });
+async function buscarSoloPorEanMatzah(ean) {
+  const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
+
+  nombreGlobal = '';
+  marcaGlobal = '';
+  eanGlobal = ean;
+
+  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando solo por Código de Barras...</strong></p>';
+  scrollAResultados();
+
+  const resultadosHTML = [];
+  const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
+  if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
+
+  if (resultadosHTML.length < 5) {
+    resultadoDiv.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
+    const resultadoOFF = await buscarEnOpenFoodFacts('', '', ean, pais);
+    if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
+  }
+
+  if (resultadosHTML.length > 0) {
+    resultadoDiv.innerHTML = `
+      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+      ${resultadosHTML.slice(0, 5).join('<hr>')}
+    `;
+  } else {
+    resultadoDiv.innerHTML = `
+      <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
+      <p>¿Nos ayudas a registrarlo? 🙌</p>
+      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+    `;
+  }
+
+  setTimeout(() => scrollAResultados(), 150);
+}
 
  })();
