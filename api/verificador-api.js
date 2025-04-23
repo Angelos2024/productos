@@ -1,3 +1,4 @@
+
 const { Octokit } = require("@octokit/rest");
 
 const REPO_OWNER = "angelos2024";
@@ -35,63 +36,6 @@ module.exports = async (req, res) => {
   }
 
   const { accion, producto } = body;
-
-
-    // 🌐 Acción: PROXY hacia OpenFoodFacts
-  // ✅ NUEVO BLOQUE: Proxy para OpenFoodFacts
-if (accion === "proxyOpenFood") {
-  const fetch = require("node-fetch");
-  const { url } = body;
-
-  if (!url || !url.startsWith("https://world.openfoodfacts.org")) {
-    return res.status(400).json({ error: true, mensaje: "URL inválida para proxy" });
-  }
-
-  console.log("🌐 Proxying OpenFoodFacts:", url);
-
-  try {
-    const offRes = await fetch(url);
-    const status = offRes.status;
-    const contentType = offRes.headers.get("content-type") || "";
-    const text = await offRes.text();
-
-    // Si no es JSON o es error del servidor, devolver info clara
-    if (!offRes.ok || !contentType.includes("application/json")) {
-      console.error("❌ Respuesta no válida:", status, text.slice(0, 80));
-      return res.status(200).json({
-        error: true,
-        mensaje: "OpenFoodFacts falló o devolvió respuesta inválida",
-        status,
-        tipo: contentType,
-        texto: text.slice(0, 200)
-      });
-    }
-
-    // Intentar parsear JSON
-    try {
-      const json = JSON.parse(text);
-      return res.status(200).json(json);
-    } catch (err) {
-      console.error("❌ Error al parsear JSON:", err);
-      return res.status(200).json({
-        error: true,
-        mensaje: "Respuesta de OpenFoodFacts no era JSON válido",
-        texto: text.slice(0, 200)
-      });
-    }
-
-  } catch (err) {
-    console.error("❌ Error en fetch a OpenFoodFacts:", err);
-    return res.status(200).json({
-      error: true,
-      mensaje: "Error de red al contactar OpenFoodFacts",
-      detalle: err.message
-    });
-  }
-}
-
-
-
 
   try {
     // Leer pendientes.json
