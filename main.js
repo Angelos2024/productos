@@ -126,11 +126,12 @@ codeReader = new ZXing.BrowserMultiFormatReader(); // ✅ usa el mismo tipo que 
 const stream = await navigator.mediaDevices.getUserMedia({
   video: {
     deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-    width: { min: 1280 },
-    height: { min: 720 },
-    frameRate: { ideal: 30 }
+    width: { ideal: 1280 },
+    height: { ideal: 720 }
   }
 });
+
+
 
 
 
