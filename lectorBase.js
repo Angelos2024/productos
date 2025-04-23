@@ -13,10 +13,10 @@ function normalizeYsingularizar(txt) {
 }
 
 const ingredientesTame = [
-  "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
+  "carmín", "cochinilla", "carminico",
 "laca", "laca armin", "laca de cochinilla", "crimson lake",
 "natural red 4", "natural rojo 4", "CI 75470", "E120",
-"carminic acid", "natural red", "carmesi natural", "ci natural red 4",
+"carminic", "natural red", "carmesi natural", "ci natural red 4",
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
@@ -28,10 +28,9 @@ const ingredientesTame = [
   "marisco", "camarón", "langosta", "surimi",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
- "carmine", "cochineal", "carminic acid", "carminic acid",
+ "carmine", "cochineal",
 "lac", "carmine lac", "cochineal lac", "crimson lake",
-"natural red 4", "natural red 4", "CI 75470", "E120",
-"carminic acid", "natural red", "natural carmine", "CI natural red 4",
+"natural red 4", "natural red 4", "CI 75470", "E120", "natural red", "natural carmine", "CI natural red 4",
 
 "pork", "pig", "swine",
 "horse", "donkey", "mule",
