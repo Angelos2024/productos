@@ -1,47 +1,3 @@
-if (accion === "proxyOpenFood") {
-  const fetch = require("node-fetch");
-  const { url } = body;
-
-  if (!url || !url.startsWith("https://world.openfoodfacts.org")) {
-    return res.status(400).json({ error: true, mensaje: "URL inválida para proxy" });
-  }
-
-  try {
-    const offRes = await fetch(url);
-    const contentType = offRes.headers.get("content-type") || "";
-    const text = await offRes.text();
-
-    if (!offRes.ok || !contentType.includes("application/json")) {
-      return res.status(200).json({
-        error: true,
-        mensaje: "OpenFoodFacts falló o devolvió respuesta no válida",
-        status: offRes.status,
-        tipo: contentType,
-        texto: text.slice(0, 200)
-      });
-    }
-
-    try {
-      const json = JSON.parse(text);
-      return res.status(200).json(json);
-    } catch (err) {
-      return res.status(200).json({
-        error: true,
-        mensaje: "Respuesta de OpenFoodFacts no es JSON válido",
-        texto: text.slice(0, 200)
-      });
-    }
-
-  } catch (err) {
-    return res.status(200).json({
-      error: true,
-      mensaje: "Error de red al contactar OpenFoodFacts",
-      detalle: err.message
-    });
-  }
-}
-
-
 const { Octokit } = require("@octokit/rest");
 
 const REPO_OWNER = "angelos2024";
@@ -79,6 +35,24 @@ module.exports = async (req, res) => {
   }
 
   const { accion, producto } = body;
+
+
+    // 🌐 Acción: PROXY hacia OpenFoodFacts
+  if (accion === "proxyOpenFood") {
+    const { url } = body;
+    if (!url || typeof url !== "string") {
+      return res.status(400).json({ error: "URL no válida para proxy" });
+    }
+
+    try {
+      const openFoodRes = await fetch(url, { headers: { Accept: "application/json" } });
+      const data = await openFoodRes.json();
+      return res.status(200).json(data);
+    } catch (e) {
+      console.error("❌ Error proxyOpenFood:", e);
+      return res.status(500).json({ error: "Fallo al consultar OpenFoodFacts" });
+    }
+  }
 
   try {
     // Leer pendientes.json
