@@ -1,3 +1,4 @@
+
 (() => {
   let currentPreviewStream = null;
   
@@ -16,21 +17,6 @@ function normalizeYsingularizar(txt) {
     .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
     .join(" ");
 }
-
-function isTameMatzah(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesTameMatzah.some(tame =>
-    normalizado.includes(normalizeYsingularizar(tame))
-  );
-}
-
-function isLeudante(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesLeudantes.some(l =>
-    normalizado.includes(normalizeYsingularizar(l))
-  );
-}
-
 
 const botonBusqueda = document.getElementById('botonBusquedaMatzah');
 const botonBuscarRapido = document.getElementById('botonBuscarRapidoMatzah');
@@ -115,45 +101,44 @@ try {
     resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
   });
 
-try {
-  const selectedDeviceId = selectCamara.value;
+  try {
+const selectedDeviceId = selectCamara.value;
 
-  const constraints = {
-    video: {
-      facingMode: "environment",
-      width: { ideal: 1280 },
-      height: { ideal: 720 }
-    }
-  };
-
-  if (selectedDeviceId) {
-    constraints.video.deviceId = { exact: selectedDeviceId };
+const constraints = {
+  video: {
+    facingMode: "environment",
+    width: { ideal: 1280 },
+    height: { ideal: 720 }
   }
+};
 
-  const stream = await navigator.mediaDevices.getUserMedia(constraints);
-
-  previewElem.srcObject = stream;
-  await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
-  currentPreviewStream = stream;
-
-  const result = await codeReader.decodeOnceFromStream(stream, previewElem);
-  document.getElementById('eanEntradaMatzah').value = result.text;
-  resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-  scrollAResultados();
-
-  botonBusqueda.click();
-
-} catch (err) {
-  console.error('❌ Error escaneando:', err);
-  resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-} finally {
-  codeReader.reset();
-  if (currentPreviewStream) {
-    currentPreviewStream.getTracks().forEach(track => track.stop());
-    currentPreviewStream = null;
-  }
+if (selectedDeviceId) {
+  constraints.video.deviceId = { exact: selectedDeviceId };
 }
 
+const stream = await navigator.mediaDevices.getUserMedia(constraints);
+
+    previewElem.srcObject = stream;
+    await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+    currentPreviewStream = stream;
+
+    const result = await codeReader.decodeOnceFromStream(stream, previewElem);
+    document.getElementById('eanEntradaMatzah').value = result.text;
+    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+    scrollAResultados();
+
+    botonBusqueda.click();
+
+  } catch (err) {
+    console.error('❌ Error escaneando:', err);
+    resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+  } finally {
+    codeReader.reset();
+    if (currentPreviewStream) {
+      currentPreviewStream.getTracks().forEach(track => track.stop());
+      currentPreviewStream = null;
+    }
+  }
 });
 
 
@@ -192,7 +177,7 @@ if (htmlLocales) {
 if (resultadosHTML.length < 5) {
   resultadoDiv.innerHTML = `
     <p><strong>🔍 Buscando coincidencias... (${resultadosHTML.length} encontradas hasta ahora)</strong></p>
-    <p><strong>🌐🕵️‍♂️ Revisión avanzada (Nivel 2) en progreso...</strong></p>
+    <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
   `;
 
 const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
@@ -368,30 +353,17 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
     let resultados = [];
     let productos = [];
 
-if (ean && /^[0-9]{8,14}$/.test(ean)) {
-  const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
-  const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ accion: "proxyOpenFood", url })
-  });
-  const respuestaEAN = await proxyRes.json();
-  if (respuestaEAN.product) productos.push(respuestaEAN.product);
-}
-
-
+    if (ean && /^[0-9]{8,14}$/.test(ean)) {
+      const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+      const res = await fetch(url);
+      const data = await res.json();
+      if (data.product) productos.push(data.product);
+    } else {
 const nombreBusqueda = encodeURIComponent(nombre);
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
-     const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify({ accion: "proxyOpenFood", url })
-});
-const respuestaNombre = await proxyRes.json(); // ✅ nuevo nombre
-
-
-     productos = respuestaNombre.products || [];
-
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      const data = await res.json();
+      productos = data.products || [];
       // 🔎 Filtrado por coincidencia parcial en nombre + marca
 const claveNombre = normalizeYsingularizar(nombre);
 const claveMarca = normalizeYsingularizar(marca);
@@ -523,8 +495,49 @@ function volverAlMenu() {
 }
 
 // --- Registro manual Matzah
+document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
+  e.preventDefault();
 
+  const marca = document.getElementById('marcaManualMatzah').value.trim();
+  const nombre = document.getElementById('nombreManualMatzah').value.trim();
+  const ean = document.getElementById('eanManualMatzah').value.trim();
+  const pais = document.getElementById('paisManualMatzah').value.trim();
+  const ingredientesTexto = document.getElementById('ingredientesManualMatzah').value.trim();
+  const imagen = document.getElementById('imagenManualMatzah').value.trim();
+  const estado = document.querySelector('input[name="estadoMatzah"]:checked')?.value;
 
+  if (!marca || !nombre || !pais || !ingredientesTexto || !estado) {
+    mensajeUsuario.innerHTML = `<p style="color:red;">⚠️ Por favor, completa todos los campos requeridos.</p>`;
+    return;
+  }
+
+  const producto = {
+    marca,
+    nombre,
+    ean,
+    pais,
+    imagen,
+    ingredientes: ingredientesTexto.split(',').map(i => i.trim()).filter(i => i.length > 1),
+    estado: estado === 'true',
+    esMatzah: true
+  };
+ 
+  try {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ accion: "registrar", producto })
+    });
+
+    if (!res.ok) throw new Error("Error al registrar el producto");
+
+    mensajeUsuario.innerHTML = `<p style="color:green;">✅ Producto enviado para revisión.</p>`;
+    document.getElementById("formRegistroManualMatzah").reset();
+  } catch (err) {
+    mensajeUsuario.innerHTML = `<p style="color:red;">❌ Error al registrar el producto. Intenta más tarde.</p>`;
+    console.error("Error al registrar producto Matzah:", err);
+  }
+});
 
 document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
   e.preventDefault();
@@ -577,6 +590,5 @@ document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', 
   }
 });
 
-// Aquí cierra correctamente el bloque autoejecutable
-})();
-
+  
+ })();
