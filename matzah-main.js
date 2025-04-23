@@ -2,7 +2,7 @@
 (() => {
   let currentPreviewStream = null;
   
- 
+  
 
 
 function normalizeYsingularizar(txt) {
