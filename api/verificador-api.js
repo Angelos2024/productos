@@ -91,25 +91,6 @@ if (accion === "proxyOpenFood") {
 }
 
 
-    if (!contentType.includes("application/json")) {
-      console.error("❌ Tipo de respuesta inválido:", contentType);
-      return res.status(502).json({ error: "Respuesta de OpenFoodFacts no es JSON" });
-    }
-
-    try {
-      const json = JSON.parse(text);
-      return res.status(200).json(json);
-    } catch (err) {
-      console.error("❌ No se pudo parsear como JSON:", text.slice(0, 100));
-      return res.status(502).json({ error: "Respuesta no válida de OpenFoodFacts" });
-    }
-
-  } catch (err) {
-    console.error("❌ Error al hacer fetch a OpenFoodFacts:", err);
-    return res.status(500).json({ error: "Fallo en proxy a OpenFoodFacts" });
-  }
-}
-
 
 
   try {
