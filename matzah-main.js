@@ -367,19 +367,18 @@ console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais })
     let resultados = [];
     let productos = [];
 
-    if (ean && /^[0-9]{8,14}$/.test(ean)) {
-      const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify({ accion: "proxyOpenFood", url })
-});
-  const respuestaEAN = await proxyRes.json(); // ✅ nuevo nombre
-
+if (ean && /^[0-9]{8,14}$/.test(ean)) {
+  const url = `https://world.openfoodfacts.org/api/v0/product/${ean}.json`;
+  const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ accion: "proxyOpenFood", url })
+  });
+  const respuestaEAN = await proxyRes.json();
   if (respuestaEAN.product) productos.push(respuestaEAN.product);
+}
 
-      const data = await res.json();
-      if (data.product) productos.push(data.product);
-    } else {
+
 const nombreBusqueda = encodeURIComponent(nombre);
 const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
      const proxyRes = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
@@ -523,49 +522,8 @@ function volverAlMenu() {
 }
 
 // --- Registro manual Matzah
-document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
-  e.preventDefault();
 
-  const marca = document.getElementById('marcaManualMatzah').value.trim();
-  const nombre = document.getElementById('nombreManualMatzah').value.trim();
-  const ean = document.getElementById('eanManualMatzah').value.trim();
-  const pais = document.getElementById('paisManualMatzah').value.trim();
-  const ingredientesTexto = document.getElementById('ingredientesManualMatzah').value.trim();
-  const imagen = document.getElementById('imagenManualMatzah').value.trim();
-  const estado = document.querySelector('input[name="estadoMatzah"]:checked')?.value;
 
-  if (!marca || !nombre || !pais || !ingredientesTexto || !estado) {
-    mensajeUsuario.innerHTML = `<p style="color:red;">⚠️ Por favor, completa todos los campos requeridos.</p>`;
-    return;
-  }
-
-  const producto = {
-    marca,
-    nombre,
-    ean,
-    pais,
-    imagen,
-    ingredientes: ingredientesTexto.split(',').map(i => i.trim()).filter(i => i.length > 1),
-    estado: estado === 'true',
-    esMatzah: true
-  };
- 
-  try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ accion: "registrar", producto })
-    });
-
-    if (!res.ok) throw new Error("Error al registrar el producto");
-
-    mensajeUsuario.innerHTML = `<p style="color:green;">✅ Producto enviado para revisión.</p>`;
-    document.getElementById("formRegistroManualMatzah").reset();
-  } catch (err) {
-    mensajeUsuario.innerHTML = `<p style="color:red;">❌ Error al registrar el producto. Intenta más tarde.</p>`;
-    console.error("Error al registrar producto Matzah:", err);
-  }
-});
 
 document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
   e.preventDefault();
