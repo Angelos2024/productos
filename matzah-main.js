@@ -400,10 +400,12 @@ if (pais) {
     if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
 
 
-      const ingredientes = prod.ingredients_text.toLowerCase()
-        .split(/,|\./)
-        .map(i => i.trim())
-        .filter(i => i.length > 1);
+    const etiquetasIgnoradas = ['sans gluten', 'gluten free', 'no gluten', 'sin gluten'];
+
+const ingredientes = prod.ingredients_text.toLowerCase()
+  .split(/,|\./)
+  .map(i => i.trim())
+  .filter(i => i.length > 1 && !etiquetasIgnoradas.includes(i));
 
      const ingredientesTame = [];
 const ingredientesLeud = [];
