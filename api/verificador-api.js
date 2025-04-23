@@ -57,10 +57,16 @@ if (accion === "proxyOpenFood") {
 
     console.log("🔁 Estado HTTP de respuesta:", status);
 
-    if (!offRes.ok) {
-      console.error("❌ OpenFoodFacts falló:", status, text.slice(0, 80));
-      return res.status(status).json({ error: "OpenFoodFacts respondió con error" });
-    }
+  if (!offRes.ok || !contentType.includes("application/json")) {
+  console.error("❌ OpenFoodFacts falló:", status, text.slice(0, 100));
+  return res.status(200).json({
+    error: true,
+    mensaje: "OpenFoodFacts respondió con error",
+    status,
+    contenido: text.slice(0, 200) // para debug si es HTML o texto
+  });
+}
+
 
     if (!contentType.includes("application/json")) {
       console.error("❌ Tipo de respuesta inválido:", contentType);
