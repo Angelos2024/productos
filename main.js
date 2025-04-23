@@ -142,12 +142,7 @@ const stream = await navigator.mediaDevices.getUserMedia({
 });
 
 
-    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
-    scrollAResultados();
-
-    // 🧠 Ejecutar búsqueda automáticamente
- buscarSoloPorEan(result.text);
-
+ 
 
   } catch (err) {
     console.error('❌ Error escaneando:', err);
