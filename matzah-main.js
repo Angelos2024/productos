@@ -140,7 +140,13 @@ if (escanearCodigoBtn) {
     } catch (err) {
       console.error('❌ Error escaneando:', err);
       resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-   
+   } finally {
+  codeReader.reset();
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
+}
 
   });  // 👈 Cierre del addEventListener
 
