@@ -93,7 +93,7 @@ const selectedDeviceId = selectCamara.value;
   }
 
   const previewElem = document.createElement('video');
-  previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
+previewElem.setAttribute('style', 'width:100%; max-width:480px; margin-bottom:1rem;');
   resultadoDiv.innerHTML = `
     <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
     <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
@@ -127,8 +127,22 @@ const stream = await navigator.mediaDevices.getUserMedia({
 
     currentPreviewStream = stream;
 
-    const result = await codeReader.decodeOnceFromStream(stream, previewElem);
+   codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+  if (result) {
     document.getElementById('eanEntrada').value = result.text;
+    resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
+    scrollAResultados();
+    buscarSoloPorEan(result.text);
+
+    // Detener escaneo al detectar
+    codeReader.reset();
+    if (currentPreviewStream) {
+      currentPreviewStream.getTracks().forEach(track => track.stop());
+      currentPreviewStream = null;
+    }
+  }
+});
+
 
     resultadoDiv.innerHTML = `<p><strong>✅ Código detectado:</strong> ${result.text}</p>`;
     scrollAResultados();
