@@ -146,6 +146,10 @@ try {
     currentPreviewStream = null;
   }
 }
+  });
+
+
+}
 
 // --- Búsqueda principal
 botonBusqueda.addEventListener('click', async () => {
