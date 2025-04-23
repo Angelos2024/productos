@@ -57,18 +57,25 @@ let devices = [];
 try {
   // 📷 Paso 2: Obtener lista de cámaras ahora con permiso
   devices = await codeReader.getVideoInputDevices();
-  selectCamara.innerHTML = '';
-  devices.forEach((device, index) => {
-    const option = document.createElement('option');
-    option.value = device.deviceId;
-    option.text = device.label || `Cámara ${index + 1}`;
-    selectCamara.appendChild(option);
-  });
+// 🧠 Guardar la selección actual si existe
+const camaraAnterior = selectCamara.value;
 
-  // ✅ Selección automática de la primera cámara disponible si no se elige una
-  if (!selectCamara.value && devices.length > 0) {
-    selectCamara.value = devices[0].deviceId;
-  }
+selectCamara.innerHTML = '';
+devices.forEach((device, index) => {
+  const option = document.createElement('option');
+  option.value = device.deviceId;
+  option.text = device.label || `Cámara ${index + 1}`;
+  selectCamara.appendChild(option);
+});
+
+// 🔁 Volver a seleccionar la misma si sigue existiendo
+const existeAun = devices.some(d => d.deviceId === camaraAnterior);
+if (existeAun) {
+  selectCamara.value = camaraAnterior;
+} else if (devices.length > 0) {
+  selectCamara.value = devices[0].deviceId; // fallback
+}
+
 
 } catch (err) {
   console.error('❌ No se pudo listar dispositivos de cámara:', err);
