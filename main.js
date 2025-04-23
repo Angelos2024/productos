@@ -31,7 +31,8 @@ let nombreGlobal = '';
 let eanGlobal = '';
 
 // --- Cámara y escaneo
-const codeReader = new ZXing.BrowserBarcodeReader(); // ← sin argumentos
+let codeReader = new ZXing.BrowserBarcodeReader();
+ // ← sin argumentos
 if (escanearCodigoBtn) {
 
 
@@ -97,7 +98,9 @@ const selectedDeviceId = selectCamara.value;
       currentPreviewStream.getTracks().forEach(track => track.stop());
       currentPreviewStream = null;
     }
-    codeReader.reset();
+   codeReader.reset();
+codeReader = new ZXing.BrowserBarcodeReader(); // <- recrea el lector para usar otro deviceId
+
     resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
   });
 
@@ -513,7 +516,8 @@ selectCamara.addEventListener('change', () => {
   }
 
   // Muy importante: resetear lector para evitar bugs de ZXing
-  codeReader.reset();
+   codeReader.reset();
+  codeReader = new ZXing.BrowserBarcodeReader();
 
   // Informar al usuario
   resultadoDiv.innerHTML = `
