@@ -130,8 +130,10 @@ function isTameMatzah(ing) {
 
 function isLeudante(ing) {
   const normal = normalizeYsingularizar(ing);
-  const palabras = normal.split(" ");
-  return palabras.some(p => ingredientesLeudNorm.includes(p));
+  return ingredientesLeudantes.some(leud => {
+    const leudNorm = normalizeYsingularizar(leud);
+    return normal.includes(leudNorm);
+  });
 }
 
 
