@@ -140,10 +140,12 @@ const stream = await navigator.mediaDevices.getUserMedia({
 
     currentPreviewStream = stream;
 
-   codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+  codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
   if (result) {
     document.getElementById('eanEntrada').value = result.text;
-    
+
+    // Lanzar búsqueda automática
+    buscarSoloPorEan(result.text);
 
     // Detener escaneo al detectar
     codeReader.reset();
@@ -153,6 +155,7 @@ const stream = await navigator.mediaDevices.getUserMedia({
     }
   }
 });
+
 
 
  
@@ -496,7 +499,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 function volverAlMenu() {
-  document.title = "Escáner de Productos Lev 11";
+  document.title = "Escáner de Productos Lev 11 Éxodo 12";
   document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Lev 11 Éxodo 12";
   document.getElementById('bloqueTahor').style.display = 'none';
   document.getElementById('bloqueMatzah').style.display = 'none';
