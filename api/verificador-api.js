@@ -40,14 +40,14 @@ module.exports = async (req, res) => {
     // 🌐 Acción: PROXY hacia OpenFoodFacts
   // ✅ NUEVO BLOQUE: Proxy para OpenFoodFacts
 if (accion === "proxyOpenFood") {
-  const fetch = require("node-fetch"); // si estás en Vercel Node, ya está disponible
-
+  const fetch = require("node-fetch");
   const { url } = body;
+
   if (!url || !url.startsWith("https://world.openfoodfacts.org")) {
-    return res.status(400).json({ error: "URL inválida para proxy" });
+    return res.status(400).json({ error: true, mensaje: "URL inválida para proxy" });
   }
 
-  console.log("🔍 Consultando OpenFoodFacts con:", url);
+  console.log("🌐 Proxying OpenFoodFacts:", url);
 
   try {
     const offRes = await fetch(url);
@@ -55,16 +55,39 @@ if (accion === "proxyOpenFood") {
     const contentType = offRes.headers.get("content-type") || "";
     const text = await offRes.text();
 
-    console.log("🔁 Estado HTTP de respuesta:", status);
+    // Si no es JSON o es error del servidor, devolver info clara
+    if (!offRes.ok || !contentType.includes("application/json")) {
+      console.error("❌ Respuesta no válida:", status, text.slice(0, 80));
+      return res.status(200).json({
+        error: true,
+        mensaje: "OpenFoodFacts falló o devolvió respuesta inválida",
+        status,
+        tipo: contentType,
+        texto: text.slice(0, 200)
+      });
+    }
 
-  if (!offRes.ok || !contentType.includes("application/json")) {
-  console.error("❌ OpenFoodFacts falló:", status, text.slice(0, 100));
-  return res.status(200).json({
-    error: true,
-    mensaje: "OpenFoodFacts respondió con error",
-    status,
-    contenido: text.slice(0, 200) // para debug si es HTML o texto
-  });
+    // Intentar parsear JSON
+    try {
+      const json = JSON.parse(text);
+      return res.status(200).json(json);
+    } catch (err) {
+      console.error("❌ Error al parsear JSON:", err);
+      return res.status(200).json({
+        error: true,
+        mensaje: "Respuesta de OpenFoodFacts no era JSON válido",
+        texto: text.slice(0, 200)
+      });
+    }
+
+  } catch (err) {
+    console.error("❌ Error en fetch a OpenFoodFacts:", err);
+    return res.status(200).json({
+      error: true,
+      mensaje: "Error de red al contactar OpenFoodFacts",
+      detalle: err.message
+    });
+  }
 }
 
 
