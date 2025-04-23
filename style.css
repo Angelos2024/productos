@@ -12,6 +12,12 @@ body {
   background-color: #f3f3f3;
   color: #333;
 }
+.bloque-busqueda {
+  border-left: 4px solid #3498db;
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
 #botonVolverMenu {
   position: fixed;
   top: 1rem;
