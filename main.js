@@ -31,7 +31,8 @@ let nombreGlobal = '';
 let eanGlobal = '';
 
 // --- Cámara y escaneo
-let codeReader = new ZXing.BrowserBarcodeReader();
+let codeReader = new ZXing.BrowserMultiFormatReader(); // detecta EAN-13 y más
+
  // ← sin argumentos
 if (escanearCodigoBtn) {
 
@@ -93,7 +94,16 @@ const selectedDeviceId = selectCamara.value;
   }
 
   const previewElem = document.createElement('video');
-previewElem.setAttribute('style', 'width:100%; max-width:480px; margin-bottom:1rem;');
+previewElem.setAttribute('id', 'previewElem');
+previewElem.setAttribute('style', `
+  width: 100%;
+  max-width: 480px;
+  margin: 1rem auto;
+  display: block;
+  border: 3px dashed #3498db;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+`);
+
   resultadoDiv.innerHTML = `
     <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
     <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
@@ -106,7 +116,8 @@ previewElem.setAttribute('style', 'width:100%; max-width:480px; margin-bottom:1r
       currentPreviewStream = null;
     }
    codeReader.reset();
-codeReader = new ZXing.BrowserBarcodeReader(); // <- recrea el lector para usar otro deviceId
+codeReader = new ZXing.BrowserMultiFormatReader(); // ✅ usa el mismo tipo que arriba
+
 
     resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
   });
@@ -115,11 +126,12 @@ codeReader = new ZXing.BrowserBarcodeReader(); // <- recrea el lector para usar 
 const stream = await navigator.mediaDevices.getUserMedia({
   video: {
     deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-    facingMode: { ideal: "environment" }, // ✅ aquí va la coma
-    width: { ideal: 1280 },
-    height: { ideal: 720 }
+    width: { min: 1280 },
+    height: { min: 720 },
+    frameRate: { ideal: 30 }
   }
 });
+
 
 
     previewElem.srcObject = stream;
