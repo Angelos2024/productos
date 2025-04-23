@@ -630,12 +630,49 @@ async function inicializarListaCamaras(selectId) {
 }
 
 
-  document.getElementById('selectCamaraMatzah')?.addEventListener('change', () => {
+ document.getElementById('selectCamaraMatzah')?.addEventListener('change', async () => {
   if (currentPreviewStream) {
     currentPreviewStream.getTracks().forEach(track => track.stop());
     currentPreviewStream = null;
   }
+
+  // Reiniciar escaneo con nueva cámara seleccionada
+  const selectedDeviceId = document.getElementById('selectCamaraMatzah').value;
+  const previewElem = document.querySelector('#resultadoMatzah video');
+  if (!previewElem) return;
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({
+      video: {
+        deviceId: { exact: selectedDeviceId },
+        facingMode: { ideal: "environment" },
+        width: { ideal: 1280 },
+        height: { ideal: 720 }
+      }
+    });
+
+    previewElem.srcObject = stream;
+    await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+    currentPreviewStream = stream;
+
+    codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+      if (result) {
+        document.getElementById('eanEntradaMatzah').value = result.text;
+        buscarSoloPorEanMatzah(result.text);
+
+        codeReader.reset();
+        if (currentPreviewStream) {
+          currentPreviewStream.getTracks().forEach(track => track.stop());
+          currentPreviewStream = null;
+        }
+      }
+    });
+
+  } catch (err) {
+    console.error('❌ Error al reiniciar escaneo con nueva cámara:', err);
+  }
 });
+
 async function buscarSoloPorEanMatzah(ean) {
   const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
 
