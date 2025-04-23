@@ -118,11 +118,13 @@ const selectedDeviceId = selectCamara.value;
 
 const constraints = {
   video: {
-    facingMode: "environment",
+    facingMode: { ideal: "environment" },
     width: { ideal: 1280 },
-    height: { ideal: 720 }
+    height: { ideal: 720 },
+    deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined
   }
 };
+
 
 if (selectedDeviceId) {
   constraints.video.deviceId = { exact: selectedDeviceId };
@@ -611,10 +613,8 @@ async function inicializarListaCamaras(selectId) {
   if (!select) return;
 
   try {
-    await navigator.mediaDevices.getUserMedia({ video: true });
-
-    const tempReader = new ZXing.BrowserBarcodeReader(); // 👈 esta línea es nueva
-    const devices = await tempReader.getVideoInputDevices();
+    const codeReader = new ZXing.BrowserBarcodeReader();
+    const devices = await codeReader.getVideoInputDevices();
 
     select.innerHTML = '';
     devices.forEach((device, index) => {
@@ -627,17 +627,14 @@ async function inicializarListaCamaras(selectId) {
     if (!select.value && devices[0]) {
       select.value = devices[0].deviceId;
     }
+
   } catch (err) {
     console.error('❌ Error al inicializar cámaras:', err);
     select.innerHTML = '<option>Error acceso a cámara</option>';
   }
 }
 
-// ✅ Ejecutar al cargar
-document.addEventListener("DOMContentLoaded", () => {
 
-  inicializarListaCamaras('selectCamaraMatzah'); // para Matzah
-});
   document.getElementById('selectCamaraMatzah')?.addEventListener('change', () => {
   if (currentPreviewStream) {
     currentPreviewStream.getTracks().forEach(track => track.stop());
