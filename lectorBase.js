@@ -16,7 +16,7 @@ const ingredientesTame = [
   "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
 "laca", "laca armin", "laca de cochinilla", "crimson lake",
 "natural red 4", "natural rojo 4", "CI 75470", "E120",
-"carminic acid", "natural red", "carmesi natural", "ci natural red 4",
+"carminic", "natural red", "carmesi natural", "ci natural red 4",
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
@@ -28,10 +28,10 @@ const ingredientesTame = [
   "marisco", "camarón", "langosta", "surimi",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
- "carmine", "cochineal", "carminic acid", "carminic acid",
+ "carmine", "cochineal",
 "lac", "carmine lac", "cochineal lac", "crimson lake",
 "natural red 4", "natural red 4", "CI 75470", "E120",
-"carminic acid", "natural red", "natural carmine", "CI natural red 4",
+, "natural red", "natural carmine", "CI natural red 4",
 
 "pork", "pig", "swine",
 "horse", "donkey", "mule",
@@ -88,7 +88,7 @@ const ingredientesTame = [
   // Glicerina y Glicerol
   "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
  "animal collagen", "animal extract", "pork broth", "animal rennet", "animal enzyme", "porcine pepsin",
-"porcine collagen", "animal glycerin", "animal stearic acid",
+"porcine collagen", "animal glycerin", "animal stearic",
 "animal magnesium stearate", "pork meat extract",
 "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
 "monostearate", "monoglycerides", "diglycerides", "mono- and diglycerides of fatty acids",
