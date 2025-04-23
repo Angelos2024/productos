@@ -13,5 +13,20 @@
     ],
     "estado": true,
     "esMatzah": true
+  },
+  {
+    "marca": "bimbo",
+    "nombre": "bimbollo",
+    "ean": "",
+    "pais": "mexico",
+    "imagen": "",
+    "ingredientes": [
+      "uyih",
+      "vf",
+      "vfv",
+      "by"
+    ],
+    "estado": true,
+    "esMatzah": true
   }
 ]
