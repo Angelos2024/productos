@@ -123,7 +123,8 @@ const selectedDeviceId = selectCamara.value;
     scrollAResultados();
 
     // 🧠 Ejecutar búsqueda automáticamente
-    botonBusqueda.click();
+ buscarSoloPorEan(result.text);
+
 
   } catch (err) {
     console.error('❌ Error escaneando:', err);
@@ -142,7 +143,9 @@ const selectedDeviceId = selectCamara.value;
 botonBusqueda.addEventListener('click', async () => {
   const marca = document.getElementById('marcaEntrada').value.trim();
   const nombre = document.getElementById('nombreEntrada').value.trim();
-  const ean = document.getElementById('eanEntrada')?.value.trim();
+// 🟡 Ignorar EAN si se trata de búsqueda manual
+const ean = '';
+
   const pais = document.getElementById('paisFiltro')?.value.trim() || "";
 
   if (!ean && (!marca || !nombre)) {
@@ -506,4 +509,39 @@ document.getElementById('selectCamara')?.addEventListener('change', () => {
     currentPreviewStream = null;
   }
 });
+async function buscarSoloPorEan(ean) {
+  const pais = document.getElementById('paisFiltro')?.value.trim() || "";
+
+  nombreGlobal = '';
+  marcaGlobal = '';
+  eanGlobal = ean;
+
+  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando solo por Código de Barras...</strong></p>';
+  scrollAResultados();
+
+  const resultadosHTML = [];
+  const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
+  if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
+
+  if (resultadosHTML.length < 5) {
+    resultadoDiv.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
+    const resultadoOFF = await buscarEnOpenFoodFacts('', '', ean, pais);
+    if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
+  }
+
+  if (resultadosHTML.length > 0) {
+    resultadoDiv.innerHTML = `
+      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+      ${resultadosHTML.slice(0, 5).join('<hr>')}
+    `;
+  } else {
+    resultadoDiv.innerHTML = `
+      <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
+      <p>¿Nos ayudas a registrarlo? 🙌</p>
+      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+    `;
+  }
+
+  setTimeout(() => scrollAResultados(), 150);
+}
 
