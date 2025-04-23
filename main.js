@@ -175,17 +175,24 @@ const stream = await navigator.mediaDevices.getUserMedia({
 
 // --- Búsqueda principal
 botonBusqueda.addEventListener('click', async () => {
-  const marca = document.getElementById('marcaEntrada').value.trim();
-  const nombre = document.getElementById('nombreEntrada').value.trim();
-// 🟡 Ignorar EAN si se trata de búsqueda manual
-const ean = '';
+const marca = document.getElementById('marcaEntrada').value.trim();
+const nombre = document.getElementById('nombreEntrada').value.trim();
+const ean = document.getElementById('eanEntrada').value.trim();
+
 
   const pais = document.getElementById('paisFiltro')?.value.trim() || "";
 
-  if (!ean && (!marca || !nombre)) {
-    alert("⚠️ Completa al menos Marca y Nombre, o solo Código de Barras.");
-    return;
-  }
+ if (!ean && (!marca || !nombre)) {
+  alert("⚠️ Completa al menos Marca y Nombre, o el Código de Barras.");
+  return;
+}
+
+// Si hay un EAN válido, hacer búsqueda solo por código
+if (ean && /^[0-9]{8,14}$/.test(ean)) {
+  buscarSoloPorEan(ean);
+  return;
+}
+
 
 
   marcaGlobal = marca;
