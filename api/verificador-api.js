@@ -14,7 +14,7 @@ if (accion === "proxyOpenFood") {
     if (!offRes.ok || !contentType.includes("application/json")) {
       return res.status(200).json({
         error: true,
-        mensaje: "OpenFoodFacts falló o devolvió respuesta inválida",
+        mensaje: "OpenFoodFacts falló o devolvió respuesta no válida",
         status: offRes.status,
         tipo: contentType,
         texto: text.slice(0, 200)
@@ -27,7 +27,7 @@ if (accion === "proxyOpenFood") {
     } catch (err) {
       return res.status(200).json({
         error: true,
-        mensaje: "Respuesta de OpenFoodFacts no era JSON válido",
+        mensaje: "Respuesta de OpenFoodFacts no es JSON válido",
         texto: text.slice(0, 200)
       });
     }
@@ -35,11 +35,12 @@ if (accion === "proxyOpenFood") {
   } catch (err) {
     return res.status(200).json({
       error: true,
-      mensaje: "Error al contactar OpenFoodFacts",
+      mensaje: "Error de red al contactar OpenFoodFacts",
       detalle: err.message
     });
   }
 }
+
 
 const { Octokit } = require("@octokit/rest");
 
