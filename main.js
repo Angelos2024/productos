@@ -160,7 +160,7 @@ const stream = await navigator.mediaDevices.getUserMedia({
     console.error('❌ Error escaneando:', err);
     resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
   } finally {
-    codeReader.reset();
+ 
     if (currentPreviewStream) {
       currentPreviewStream.getTracks().forEach(track => track.stop());
       currentPreviewStream = null;
@@ -509,8 +509,9 @@ async function inicializarListaCamaras(selectId) {
   if (!select) return;
 
   try {
-    const codeReader = new ZXing.BrowserBarcodeReader();
-    const devices = await codeReader.getVideoInputDevices();
+ escanearCodigoBtn.addEventListener('click', async () => {
+  codeReader.reset(); // solo reinicia, no redeclares
+  const devices = await codeReader.getVideoInputDevices();
 
     select.innerHTML = '';
     devices.forEach((device, index) => {
