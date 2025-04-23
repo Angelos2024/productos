@@ -31,7 +31,7 @@ const ingredientesTame = [
  "carmine", "cochineal",
 "lac", "carmine lac", "cochineal lac", "crimson lake",
 "natural red 4", "natural red 4", "CI 75470", "E120",
-, "natural red", "natural carmine", "CI natural red 4",
+"natural red", "natural carmine", "CI natural red 4",
 
 "pork", "pig", "swine",
 "horse", "donkey", "mule",
