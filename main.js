@@ -496,13 +496,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function volverAlMenu() {
   document.title = "Escáner de Productos Lev 11";
-document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Lev 11";
+  document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Lev 11 Éxodo 12";
   document.getElementById('bloqueTahor').style.display = 'none';
   document.getElementById('bloqueMatzah').style.display = 'none';
   document.getElementById('menuInicial').style.display = 'block';
   document.getElementById('botonVolverMenu').style.display = 'none';
   localStorage.removeItem('ultimaSeccionActiva');
 }
+
 // 🔁 Llenar select de cámaras desde el inicio
 async function inicializarListaCamaras(selectId) {
   const select = document.getElementById(selectId);
