@@ -28,5 +28,17 @@
     ],
     "estado": true,
     "esMatzah": true
+  },
+  {
+    "marca": "coca cola",
+    "nombre": "jfieji",
+    "pais": "ij",
+    "ean": "",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "cijdij"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
