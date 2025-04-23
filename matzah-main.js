@@ -611,9 +611,11 @@ async function inicializarListaCamaras(selectId) {
   if (!select) return;
 
   try {
-    // Obtener permiso antes de listar dispositivos
     await navigator.mediaDevices.getUserMedia({ video: true });
-    const devices = await ZXing.BrowserBarcodeReader.getVideoInputDevices();
+
+    const tempReader = new ZXing.BrowserBarcodeReader(); // 👈 esta línea es nueva
+    const devices = await tempReader.getVideoInputDevices();
+
     select.innerHTML = '';
     devices.forEach((device, index) => {
       const option = document.createElement('option');
@@ -621,6 +623,7 @@ async function inicializarListaCamaras(selectId) {
       option.text = device.label || `Cámara ${index + 1}`;
       select.appendChild(option);
     });
+
     if (!select.value && devices[0]) {
       select.value = devices[0].deviceId;
     }
