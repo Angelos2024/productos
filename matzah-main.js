@@ -494,101 +494,50 @@ function volverAlMenu() {
   localStorage.removeItem('ultimaSeccionActiva');
 }
 
-// --- Registro manual Matzah
-document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
-  e.preventDefault();
 
-  const marca = document.getElementById('marcaManualMatzah').value.trim();
-  const nombre = document.getElementById('nombreManualMatzah').value.trim();
-  const ean = document.getElementById('eanManualMatzah').value.trim();
-  const pais = document.getElementById('paisManualMatzah').value.trim();
-  const ingredientesTexto = document.getElementById('ingredientesManualMatzah').value.trim();
-  const imagen = document.getElementById('imagenManualMatzah').value.trim();
-  const estado = document.querySelector('input[name="estadoMatzah"]:checked')?.value;
+function verificarConflictoEnvioMatzah() {
+  const envioActivo = localStorage.getItem("envioEnCursoMatzah");
+  const tiempoFinal = parseInt(localStorage.getItem("envioTiempoMatzah"), 10);
+  const ahora = Date.now();
 
-  if (!marca || !nombre || !pais || !ingredientesTexto || !estado) {
-    mensajeUsuario.innerHTML = `<p style="color:red;">⚠️ Por favor, completa todos los campos requeridos.</p>`;
-    return;
+  if (envioActivo && tiempoFinal > ahora) {
+    const segundosRestantes = Math.ceil((tiempoFinal - ahora) / 1000);
+    document.getElementById("mensajeUsuarioMatzah").innerHTML = `
+      ⏳ Otro usuario está registrando un producto.<br>
+      Por favor, espera <strong>${segundosRestantes}</strong> segundos antes de intentar de nuevo.
+    `;
+    return true;
   }
+  return false;
+}
+function mostrarMensajeTemporalMatzah(mensaje, segundos = 30) {
+  const contenedor = document.getElementById("mensajeUsuarioMatzah");
+  contenedor.innerHTML = `
+    <div>
+      ⏳ ${mensaje}<br>
+      Espera <strong id="tiempoRestanteMatzah">${segundos}</strong> segundos mientras se actualiza la base de datos...
+      <div id="barraProgreso"><div id="barraProgresoInterna" style="width:0%; background:orange; height:8px;"></div></div>
+    </div>
+  `;
 
-  const producto = {
-    marca,
-    nombre,
-    ean,
-    pais,
-    imagen,
-    ingredientes: ingredientesTexto.split(',').map(i => i.trim()).filter(i => i.length > 1),
-    estado: estado === 'true',
-    esMatzah: true
-  };
- 
-  try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ accion: "registrar", producto })
-    });
+  let tiempoRestante = segundos;
+  const progreso = document.getElementById("barraProgresoInterna");
+  const tiempoTexto = document.getElementById("tiempoRestanteMatzah");
 
-    if (!res.ok) throw new Error("Error al registrar el producto");
+  const intervalo = setInterval(() => {
+    tiempoRestante--;
+    tiempoTexto.textContent = tiempoRestante;
+    const porcentaje = ((segundos - tiempoRestante) / segundos) * 100;
+    progreso.style.width = `${porcentaje}%`;
 
-    mensajeUsuario.innerHTML = `<p style="color:green;">✅ Producto enviado para revisión.</p>`;
-    document.getElementById("formRegistroManualMatzah").reset();
-  } catch (err) {
-    mensajeUsuario.innerHTML = `<p style="color:red;">❌ Error al registrar el producto. Intenta más tarde.</p>`;
-    console.error("Error al registrar producto Matzah:", err);
-  }
-});
-
-document.getElementById('formRegistroManualMatzah')?.addEventListener('submit', async (e) => {
-  e.preventDefault();
-
-  const marca = document.getElementById('marcaManualMatzah').value.trim();
-  const nombre = document.getElementById('nombreManualMatzah').value.trim();
-  const ean = document.getElementById('eanManualMatzah').value.trim();
-  const pais = document.getElementById('paisManualMatzah').value.trim();
-  const ingredientesTexto = document.getElementById('ingredientesManualMatzah').value.trim();
-  const imagen = document.getElementById('imagenManualMatzah').value.trim();
-  const estado = document.querySelector('input[name="estadoMatzah"]:checked')?.value;
-
-  const btnEnviar = e.submitter || e.target.querySelector('button[type="submit"]');
-  if (!marca || !nombre || !pais || !ingredientesTexto || !estado) {
-    mensajeUsuario.innerHTML = `<p style="color:red;">⚠️ Por favor, completa todos los campos requeridos.</p>`;
-    return;
-  }
-
-  const producto = {
-    marca,
-    nombre,
-    ean,
-    pais,
-    imagen,
-    ingredientes: ingredientesTexto.split(',').map(i => i.trim()).filter(i => i.length > 1),
-    estado: estado === 'true',
-    esMatzah: true
-  };
-
-  // Desactivar botón y mostrar mensaje
-  mensajeUsuario.innerHTML = `<p style="color:gray;">⏳ Enviando producto para revisión. Esto puede tardar unos segundos...</p>`;
-  btnEnviar.disabled = true;
-
-  try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ accion: "registrar", producto })
-    });
-
-    if (!res.ok) throw new Error("Error al registrar el producto");
-
-    mensajeUsuario.innerHTML = `<p style="color:green;">✅ Producto enviado correctamente. Gracias por tu aporte.</p>`;
-    document.getElementById("formRegistroManualMatzah").reset();
-  } catch (err) {
-    mensajeUsuario.innerHTML = `<p style="color:red;">❌ Error al registrar el producto. Intenta nuevamente en unos segundos.</p>`;
-    console.error("Error al registrar producto Matzah:", err);
-  } finally {
-    btnEnviar.disabled = false;
-  }
-});
+    if (tiempoRestante <= 0) {
+      clearInterval(intervalo);
+      contenedor.innerHTML = "✅ Producto enviado para revisión. Puedes continuar.";
+      localStorage.removeItem("envioEnCursoMatzah");
+      localStorage.removeItem("envioTiempoMatzah");
+    }
+  }, 1000);
+}
 
   
  })();
