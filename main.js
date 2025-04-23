@@ -479,9 +479,10 @@ async function inicializarListaCamaras(selectId) {
   if (!select) return;
 
   try {
-    // Obtener permiso antes de listar dispositivos
     await navigator.mediaDevices.getUserMedia({ video: true });
-    const devices = await ZXing.BrowserBarcodeReader.getVideoInputDevices();
+    const codeReader = new ZXing.BrowserBarcodeReader(); // ← aquí está el fix
+    const devices = await codeReader.getVideoInputDevices();
+
     select.innerHTML = '';
     devices.forEach((device, index) => {
       const option = document.createElement('option');
@@ -489,6 +490,7 @@ async function inicializarListaCamaras(selectId) {
       option.text = device.label || `Cámara ${index + 1}`;
       select.appendChild(option);
     });
+
     if (!select.value && devices[0]) {
       select.value = devices[0].deviceId;
     }
@@ -497,6 +499,7 @@ async function inicializarListaCamaras(selectId) {
     select.innerHTML = '<option>Error acceso a cámara</option>';
   }
 }
+
 
 // ✅ Ejecutar al cargar
 document.addEventListener("DOMContentLoaded", () => {
