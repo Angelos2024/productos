@@ -102,14 +102,15 @@ const selectedDeviceId = selectCamara.value;
   });
 
   try {
-    const stream = await navigator.mediaDevices.getUserMedia({
-      video: {
-        deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-        facingMode: "environment",
-        width: { ideal: 1280 },
-        height: { ideal: 720 }
-      }
-    });
+const stream = await navigator.mediaDevices.getUserMedia({
+  video: {
+    deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+    facingMode: { ideal: "environment" }, // ✅ aquí va la coma
+    width: { ideal: 1280 },
+    height: { ideal: 720 }
+  }
+});
+
 
     previewElem.srcObject = stream;
     await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
