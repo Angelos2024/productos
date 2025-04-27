@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "marca": "Chimex",
+    "nombre": "chimexon",
+    "pais": "MÉXICO",
+    "ean": "",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "NNI",
+      "V",
+      "FV",
+      "FSFCD",
+      "FE",
+      "v",
+      "rvd",
+      ""
+    ],
+    "tahor": false,
+    "ingredientes_tame": []
+  }
+]
