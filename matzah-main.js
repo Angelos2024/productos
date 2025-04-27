@@ -269,10 +269,16 @@ botonBusqueda.addEventListener('click', async () => {
   }
 
   if (resultadosHTML.length < 5) {
-    resultadoDiv.innerHTML = `
-      <p><strong>🔍 Buscando coincidencias... (${resultadosHTML.length} encontradas hasta ahora)</strong></p>
-      <p><strong>🌐 Consultando OpenFoodFacts...</strong></p>
-    `;
+  resultadoDiv.innerHTML = `
+    <div style="text-align:center">
+      <div class="spinner"></div>
+      <p><strong>🔍 Buscando coincidencias locales...</strong></p>
+      <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
+    </div>
+  `;
+}
+
+
     const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
     if (resultadoOFF) {
       resultadosHTML.push(...resultadoOFF);
@@ -494,7 +500,7 @@ function restaurarFlexBusquedaMatzah() {
 
 
 async function buscarEnOpenFoodFacts(nombre, marca, ean, pais = "") {
-console.log("🌐 Consultando OpenFoodFacts con:", { nombre, marca, ean, pais });
+console.log("🌐 Consultando con:", { nombre, marca, ean, pais });
 
   try {
     let resultados = [];
@@ -609,7 +615,7 @@ html += `<p style="color:${resultado === 'Tame' ? 'red' : resultado === 'Leudado
     return resultados.length > 0 ? resultados : null;
 
   } catch (e) {
-    console.error("❌ Error al consultar OpenFoodFacts:", e);
+    console.error("❌ Error al consultar:", e);
     return null;
   }
 }
@@ -820,7 +826,7 @@ async function buscarSoloPorEanMatzah(ean) {
   if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
 
   if (resultadosHTML.length < 5) {
-    resultadoDiv.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
+    resultadoDiv.innerHTML += `<p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>`;
     const resultadoOFF = await buscarEnOpenFoodFacts('', '', ean, pais);
     if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
   }
