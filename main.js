@@ -321,18 +321,83 @@ function mostrarBuzonAdmin() {
     const nuevaTab = document.createElement('button');
     nuevaTab.id = 'tabBuzon';
     nuevaTab.innerText = '📬 Buzón de revisiones';
+    
+    // 🔵 AÑADIRLE ESTILO FLOTANTE
+    nuevaTab.style.position = 'fixed';
+    nuevaTab.style.bottom = '5rem'; // 1 botón arriba de 🔐
+    nuevaTab.style.right = '1rem';
+    nuevaTab.style.backgroundColor = '#00796b';
+    nuevaTab.style.color = 'white';
+    nuevaTab.style.border = 'none';
+    nuevaTab.style.borderRadius = '12px';
+    nuevaTab.style.padding = '0.5rem 1rem';
+    nuevaTab.style.zIndex = '9999';
+    nuevaTab.style.boxShadow = '0 2px 6px rgba(0,0,0,0.2)';
+    nuevaTab.style.cursor = 'pointer';
+
     nuevaTab.addEventListener('click', () => {
       document.getElementById('formBusquedaProducto').style.display = 'none';
       document.getElementById('analisisResultado').style.display = 'none';
       document.getElementById('registroManual').style.display = 'none';
+      document.getElementById('adminPanel').style.display = 'none'; // ⬅️ ocultar panel admin
       document.getElementById('buzonRevisiones').style.display = 'block';
+
       activarTab('tabBuzon');
       cargarPendientes();
+
+      mostrarBotonVolverInicio(); // ⬅️ Mostrar nuevo botón de volver al inicio
     });
 
-    document.getElementById('tabs').firstElementChild.appendChild(nuevaTab);
+    document.body.appendChild(nuevaTab); // No en tabs, sino flotante en body
   }
 }
+
+function mostrarBotonVolverInicio() {
+  if (!document.getElementById('botonVolverInicio')) {
+    const botonVolver = document.createElement('button');
+    botonVolver.id = 'botonVolverInicio';
+    botonVolver.innerText = '⬅️ Volver al inicio';
+    
+    botonVolver.style.position = 'fixed';
+    botonVolver.style.bottom = '9rem';
+    botonVolver.style.right = '1rem';
+    botonVolver.style.backgroundColor = '#e67e22'; // Naranja
+    botonVolver.style.color = 'white';
+    botonVolver.style.border = 'none';
+    botonVolver.style.borderRadius = '12px';
+    botonVolver.style.padding = '0.5rem 1rem';
+    botonVolver.style.zIndex = '9999';
+    botonVolver.style.boxShadow = '0 2px 6px rgba(0,0,0,0.2)';
+    botonVolver.style.cursor = 'pointer';
+
+    botonVolver.addEventListener('click', () => {
+      // 🛑 Ocultar buzón y panel admin
+      document.getElementById('buzonRevisiones').style.display = 'none';
+      document.getElementById('adminPanel').style.display = 'none';
+      
+      // ✅ Mostrar formulario de búsqueda y resultados
+      document.getElementById('formBusquedaProducto').style.display = 'block';
+      document.getElementById('analisisResultado').style.display = 'block';
+      
+      // ✅ Restaurar encabezado
+      const titulo = document.getElementById('titulo');
+      const tituloPrincipal = document.getElementById('tituloPrincipal');
+      if (titulo) titulo.textContent = "🧪 Escáner de Productos Tame / Tahor";
+      if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos Lev 11 Éxodo 12";
+      document.title = "Escáner de Productos Tame / Tahor";
+
+      // ✅ Activar pestaña de búsqueda
+      activarTab('tabBuscar');
+
+      // 🧹 Opcional: eliminar el botón volver
+      botonVolver.remove();
+    });
+
+    document.body.appendChild(botonVolver);
+  }
+}
+
+
 
 let productosPendientes = [];
 
