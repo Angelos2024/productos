@@ -1,0 +1,538 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>  
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Escáner de Productos Lev 11</title>
+  <link rel="stylesheet" href="style.css"/>
+  <style>
+    #contadorProductos {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      padding: 0.5rem 1rem;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+
+ <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  
+  <h1 id="tituloPrincipal" style="margin: 0; display:none;">Escáner de Productos Lev 11 Éxodo 12</h1>
+
+</div>
+
+
+  <div id="bloqueTahor" style="display:none">
+
+
+
+    <!-- PESTAÑAS SUPERIORES -->
+    <div id="tabs" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+      <div style="flex: 1;">
+
+      </div>
+     
+    </div>
+
+    <!-- Buzón de revisiones (inicialmente oculto) -->
+    <section id="buzonRevisiones" style="display:none">
+      <h2>📬 Buzón de revisiones</h2>
+      <div id="listaPendientes" class="grupo-formulario">
+        <p>Cargando productos pendientes...</p>
+      </div>
+    </section>
+
+
+<!-- Botón flotante Registrar -->
+<button id="tabRegistrar" onclick="mostrarFormularioRegistro()" title="Registrar productos">
+  📝<br>Ayúdanos a<br>Registrar productos
+</button>
+    
+
+
+
+    <!-- FORMULARIO DE BÚSQUEDA AL ESTILO DEL DISEÑO -->
+<section id="formBusquedaProducto" style="display:block; padding: 1rem;">
+
+
+  <div class="contenedor">
+
+    <!-- Bloque 1: Nombre / Marca / País -->
+    <div class="bloque">
+      <h2>🔎 Buscar por Nombre / Marca / País</h2>
+
+      <div class="campo">
+        <label for="nombreEntrada">Nombre del producto</label>
+        <input type="text" id="nombreEntrada" placeholder="Ej. Carne de res, salmón...">
+      </div>
+
+      <div class="campo">
+        <label for="marcaEntrada">Marca</label>
+        <input type="text" id="marcaEntrada" placeholder="Ej. SuKarne, Great Value">
+      </div>
+
+      <div class="campo">
+        <label for="paisFiltro">País</label>
+        <select id="paisFiltro">
+          <option value="">-- Selecciona País (Opcional) --</option>
+          <option value="México">México</option>
+          <option value="USA">USA</option>
+          <option value="España">España</option>
+          <option value="Francia">Francia</option>
+          <option value="Belice">Belice</option>
+          <option value="Guatemala">Guatemala</option>
+          <option value="Honduras">Honduras</option>
+          <option value="El Salvador">El Salvador</option>
+          <option value="Nicaragua">Nicaragua</option>
+          <option value="Costa Rica">Costa Rica</option>
+          <option value="Panamá">Panamá</option>
+          <option value="Uruguay">Uruguay</option>
+          <option value="Paraguay">Paraguay</option>
+          <option value="Bolivia">Bolivia</option>
+          <option value="Ecuador">Ecuador</option>
+          <option value="República Dominicana">República Dominicana</option>
+          <option value="Puerto Rico">Puerto Rico</option>
+          <option value="Cuba">Cuba</option>
+        </select>
+      </div>
+
+      <button class="boton" id="botonBusqueda">🔍 Buscar por Nombre y Marca</button>
+    </div>
+
+    <!-- Bloque 2: Buscar por código -->
+    <div class="bloque">
+      <h2>📷 Buscar por Código de Barras</h2>
+
+      <div class="campo">
+        <label for="eanEntrada">Código manual</label>
+        <input type="text" id="eanEntrada" placeholder="Ej. 7501234567890">
+      </div>
+
+      <div class="campo">
+        <label for="selectCamara">Seleccionar cámara</label>
+        <select id="selectCamara" class="dropdown-camara">
+          <option value="">(Auto)</option>
+        </select>
+      </div>
+
+      <button class="boton" id="botonBuscarRapido">🔎 Buscar por código</button>
+
+      <div style="margin: 1rem 0; text-align: center;">o</div>
+
+      <button class="boton" id="escanearCodigo">📷 Escanear con cámara</button>
+    </div>
+
+  </div>
+</section>
+
+    <!-- RESULTADOS -->
+    <section id="analisisResultado"></section>
+
+    <!-- REGISTRO MANUAL -->
+    <section id="registroManual" style="display:none">
+      <!-- Botón para volver a buscar productos Tahor/Tame -->
+<button id="tabBuscar" class="boton boton-volver-tahor" style="margin-bottom: 1rem;">⬅️ Volver a buscar productos</button>
+  <div class="contenedor">
+    <div class="bloque">
+      <h2>Registrar Producto Manualmente</h2>
+      <form id="formRegistroManual">
+        <input type="text" id="marcaManual" placeholder="Marca del producto" required>
+        <input type="text" id="nombreManual" placeholder="Nombre del producto" required>
+        <input type="text" id="eanManual" placeholder="Código de barras (opcional)">
+        <input type="text" id="paisManual" placeholder="País o región" required>
+        <textarea id="ingredientesManual" placeholder="Ingredientes separados por coma" required></textarea>
+
+        <label><strong>¿Es Tahor o Tame?</strong></label>
+        <div class="selector-tahor">
+          <label id="labelTahor" for="tahor">
+            <input type="radio" name="estadoTahor" id="tahor" value="true" required>
+            ✅ Apto (Tahor)
+          </label>
+          <label id="labelTame" for="tame">
+            <input type="radio" name="estadoTahor" id="tame" value="false" required>
+            ❌ No Apto (Tame)
+          </label>
+        </div>
+
+        <label for="imagenManual">📷 Subir imagen (opcional):</label>
+        <input type="url" id="imagenManual" placeholder="URL de la imagen del producto">
+
+        <button type="submit" id="botonrevision1">Enviar a Revisión</button>
+      </form>
+
+      <p id="mensajeUsuario"></p>
+          </div>
+  </div>
+    </section>
+
+    <!-- PANEL ADMIN -->
+    <section id="adminPanel" style="display:none; margin-top:2rem">
+      <h2>Modo Administrador</h2>
+      <!-- Aquí va el contenido admin dinámico -->
+    </section>
+  </div>
+<div id="bloqueMatzah" style="display:none">
+
+
+  <div id="tabsMatzah" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+    <div style="flex: 1;">
+
+    </div>
+  </div>
+
+<!-- Botón flotante para registrar en sección Matzah -->
+<button id="tabRegistrarMatzah" onclick="mostrarFormularioRegistroMatzah()" title="Registrar productos sin levadura">
+   📝<br>Ayúdanos a<br>Registrar productos
+</button>
+
+
+<section id="formBusquedaMatzah">
+<div class="contenedor-matzah">
+  <!-- BLOQUE IZQUIERDO -->
+  <div class="bloque bloque-matzah">
+    <h2>🔎 Buscar por Nombre / Marca / País</h2>
+
+    <div class="campo">
+      <label for="nombreEntradaMatzah">Nombre del producto</label>
+      <input type="text" id="nombreEntradaMatzah" placeholder="Ej. Matzá, Harina, Galletas...">
+    </div>
+
+    <div class="campo">
+      <label for="marcaEntradaMatzah">Marca</label>
+      <input type="text" id="marcaEntradaMatzah" placeholder="Ej. Yehuda, Great Value">
+    </div>
+
+    <div class="campo">
+      <label for="paisFiltroMatzah">País</label>
+      <select id="paisFiltroMatzah">
+        <option value="">-- Selecciona País (Opcional) --</option>
+        <option value="México">México</option>
+        <option value="USA">USA</option>
+        <option value="España">España</option>
+        <option value="Francia">Francia</option>
+        <option value="Belice">Belice</option>
+        <option value="Guatemala">Guatemala</option>
+        <option value="Honduras">Honduras</option>
+        <option value="El Salvador">El Salvador</option>
+        <option value="Nicaragua">Nicaragua</option>
+        <option value="Costa Rica">Costa Rica</option>
+        <option value="Panamá">Panamá</option>
+        <option value="Uruguay">Uruguay</option>
+        <option value="Paraguay">Paraguay</option>
+        <option value="Bolivia">Bolivia</option>
+        <option value="Ecuador">Ecuador</option>
+        <option value="República Dominicana">República Dominicana</option>
+        <option value="Puerto Rico">Puerto Rico</option>
+        <option value="Cuba">Cuba</option>
+      </select>
+    </div>
+
+    <button class="boton" id="botonBusquedaMatzah">🔍 Buscar por Nombre y Marca</button>
+  </div>
+
+  <!-- BLOQUE DERECHO -->
+  <div class="bloque bloque-matzah">
+    <h2>📷 Buscar por Código de Barras</h2>
+
+    <div class="campo">
+      <label for="eanEntradaMatzah">Código manual</label>
+      <input type="text" id="eanEntradaMatzah" placeholder="Ej. 7509876543210">
+    </div>
+
+    <div class="campo">
+      <label for="selectCamaraMatzah">Seleccionar cámara</label>
+      <select id="selectCamaraMatzah">
+        <option value="">(Auto)</option>
+      </select>
+    </div>
+
+    <button class="boton" id="botonBuscarRapidoMatzah">🔎 Buscar por código</button>
+
+    <div style="margin: 1rem 0; text-align: center;">o</div>
+
+    <button class="boton" id="escanearCodigoMatzah">📷 Escanear con cámara</button>
+  </div>
+  </div>
+</section>
+
+
+
+<section id="resultadoMatzah"></section>
+
+<section id="registroManualMatzah" style="display:none">
+  <!-- Botón para volver a buscar productos Matzah -->
+<button id="tabBuscarMatzah" class="boton boton-volver-matzah" style="margin-bottom: 1rem;">⬅️ Volver a buscar productos</button>
+ <div class="contenedor">
+    <div class="bloque">
+  <h2>Registrar Producto sin Levadura</h2>
+  <form id="formRegistroManualMatzah">
+    <input type="text" id="marcaManualMatzah" placeholder="Marca del producto" required>
+    <input type="text" id="nombreManualMatzah" placeholder="Nombre del producto" required>
+    <input type="text" id="eanManualMatzah" placeholder="Código de barras (opcional)">
+    <input type="text" id="paisManualMatzah" placeholder="País o región" required>
+    <textarea id="ingredientesManualMatzah" placeholder="Ingredientes separados por coma" required></textarea>
+
+    <label><strong>¿Es apto para panes sin levadura?</strong></label>
+    <div class="selector-tahor">
+      <label id="labelMatzahTahor" for="matzahTahor">
+        <input type="radio" name="estadoMatzah" id="matzahTahor" value="true" required>
+        ✅ Apto (sin levadura)
+      </label>
+      <label id="labelMatzahTame" for="matzahTame">
+        <input type="radio" name="estadoMatzah" id="matzahTame" value="false" required>
+        ❌ No Apto (con levadura o impuro)
+      </label>
+    </div>
+
+    <label for="imagenManualMatzah">📷 Subir imagen (opcional):</label>
+    <input type="url" id="imagenManualMatzah" placeholder="URL de la imagen del producto">
+
+    <button type="submit" id="enviarboton2">Enviar a Revisión</button>
+  </form>
+
+  <p id="mensajeUsuarioMatzah"></p>
+  </div>
+  </div>
+</section>
+
+</div>
+
+
+
+<button id="adminAccess" title="Modo administrador" style="
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background: none;
+  color: #34495e;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  z-index: 9999;
+  padding: 0.2rem;
+">
+  🔐
+</button>
+
+<div id="contadorFlotante" style="
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+  background-color: #ffffffdd;
+  color: #333;
+  padding: 0.4rem 0.8rem;
+  font-size: 13px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  z-index: 9999;
+">
+  más de 3,783,408 productos<br> registrados de todo el mundo
+</div>
+
+
+<!-- Scripts -->
+<script src="tahor-checker.js"></script>
+<script src="matzah-checker.js"></script>
+<script src="lectorBase.js"></script>         <!-- MOVER arriba -->
+<script src="https://unpkg.com/@zxing/library@0.18.6/umd/index.min.js"></script>
+<script src="main.js"></script>
+<script src="matzah-main.js"></script>        <!-- Cargar después -->
+<script src="cargandogithub.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@octokit/rest@19.0.7/dist/octokit.umd.js" onload="loadAdmin()"></script>
+
+<script>
+  
+  function loadAdmin() {
+    const script = document.createElement("script");
+    script.src = "admin.js";
+    document.body.appendChild(script);
+  }
+</script>
+
+<!-- Tabs y admin -->
+<script>
+  let adminAutenticado = false;
+
+  function activarTab(idActiva) {
+    document.querySelectorAll('#tabs button').forEach(btn => btn.classList.remove('tab-activa'));
+    document.getElementById(idActiva).classList.add('tab-activa');
+  }
+
+  document.getElementById('tabBuscar').addEventListener('click', () => {
+  document.getElementById('formBusquedaProducto').style.display = 'block';
+  document.getElementById('analisisResultado').style.display = 'block';
+  document.getElementById('registroManual').style.display = 'none';
+  activarTab('tabBuscar');
+
+  // ➡️ Mostrar otra vez el botón flotante de registrar productos
+  const botonFlotante = document.getElementById('tabRegistrar');
+  if (botonFlotante) {
+    botonFlotante.style.display = 'block';
+  }
+});
+
+
+  document.getElementById('tabRegistrar').addEventListener('click', () => {
+    document.getElementById('formBusquedaProducto').style.display = 'none';
+    document.getElementById('analisisResultado').style.display = 'none';
+    document.getElementById('buzonRevisiones').style.display = 'none';
+    activarTab('tabRegistrar');
+  });
+
+  document.getElementById('adminAccess').addEventListener('click', () => {
+    if (adminAutenticado) {
+      mostrarBuzonAdmin();
+      return;
+    }
+
+    const pass = prompt("🔑 Ingresa la contraseña de administrador:");
+    if (pass === "levitico11") {
+      adminAutenticado = true;
+      document.getElementById('adminPanel').style.display = 'block';
+      mostrarBuzonAdmin();
+      alert("✅ Acceso concedido al modo administrador.");
+    } else {
+      alert("❌ Contraseña incorrecta.");
+    }
+  });
+
+
+
+
+
+
+
+
+
+
+function activarTabMatzah(idActiva) {
+  ['tabBuscarMatzah', 'tabRegistrarMatzah'].forEach(id => {
+    const tab = document.getElementById(id);
+    if (tab) tab.classList.remove('tab-activa');
+  });
+  document.getElementById(idActiva)?.classList.add('tab-activa');
+}
+document.getElementById('tabBuscarMatzah')?.addEventListener('click', () => {
+  document.getElementById('formBusquedaMatzah').style.display = 'block';
+  document.getElementById('resultadoMatzah').style.display = 'block';
+  document.getElementById('registroManualMatzah').style.display = 'none';
+  activarTabMatzah('tabBuscarMatzah');
+});
+
+document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
+  document.getElementById('formBusquedaMatzah').style.display = 'none';
+  document.getElementById('resultadoMatzah').style.display = 'none';
+  document.getElementById('registroManualMatzah').style.display = 'block';
+  activarTabMatzah('tabRegistrarMatzah');
+});
+
+// Agregar esto como script en tu index.html o en un pequeño JS aparte
+function toggleMenu() {
+  const menu = document.getElementById('menu');
+  menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+}
+
+function cambiarVista(tipo) {
+  const titulo = document.getElementById('tituloPrincipal');
+  const encabezado = document.getElementById('encabezado');
+  const body = document.body;
+  const bloqueTahor = document.getElementById('bloqueTahor');
+  const bloqueMatzah = document.getElementById('bloqueMatzah');
+
+  if (tipo === 'pesaj') {
+    titulo.textContent = '🍞 Escáner de Productos para Pesaj';
+    encabezado.className = 'pesaj';
+    body.className = 'pesaj';
+    bloqueTahor.style.display = 'none';
+    bloqueMatzah.style.display = 'block';
+  } else {
+    titulo.textContent = '🧪 Escáner de Productos Tahor / Tame';
+    encabezado.className = 'tahor';
+    body.className = 'tahor';
+    bloqueTahor.style.display = 'block';
+    bloqueMatzah.style.display = 'none';
+  }
+
+  menu.style.display = 'none';
+}
+function cambiarVista(tipo) {
+  const titulo = document.getElementById('tituloPrincipal');
+  const encabezado = document.getElementById('encabezado');
+  const body = document.body;
+  const bloqueTahor = document.getElementById('bloqueTahor');
+  const bloqueMatzah = document.getElementById('bloqueMatzah');
+
+  if (tipo === 'pesaj') {
+    titulo.textContent = '🍞 Escáner de Productos para Pesaj';
+    encabezado.className = 'pesaj';
+    body.className = 'pesaj';
+    bloqueTahor.style.display = 'none';
+    bloqueMatzah.style.display = 'block';
+    titulo.style.color = '#895510'; // Color Pesaj
+  } else {
+    titulo.textContent = '🧪 Escáner de Productos Tame / Tahor';
+    encabezado.className = 'tahor';
+    body.className = 'tahor';
+    bloqueTahor.style.display = 'block';
+    bloqueMatzah.style.display = 'none';
+    titulo.style.color = '#00695c'; // Color Tahor
+  }
+
+  document.getElementById('menu').style.display = 'none';
+}
+
+// Función para abrir Tahor/Tame
+function abrirTahor() {
+  document.getElementById('bloqueTahor').style.display = 'block';
+  document.getElementById('bloqueMatzah').style.display = 'none';
+
+  const titulo = document.getElementById('titulo');
+  const encabezado = document.getElementById('encabezado');
+  const body = document.body;
+
+  if (titulo) titulo.textContent = '🧪 Escáner de Productos Tahor / Tame';
+  if (encabezado) encabezado.className = 'tahor';
+  if (body) body.className = 'tahor';
+}
+
+// Función para abrir Matzah (Pesaj)
+function abrirMatzah() {
+  document.getElementById('bloqueTahor').style.display = 'none';
+  document.getElementById('bloqueMatzah').style.display = 'block';
+
+  const titulo = document.getElementById('titulo');
+  const encabezado = document.getElementById('encabezado');
+  const body = document.body;
+
+  if (titulo) titulo.textContent = '🍞 Escáner de Productos para Pesaj';
+  if (encabezado) encabezado.className = 'pesaj';
+  if (body) body.className = 'pesaj';
+}
+
+
+</script>
+
+<!-- BOTÓN FLOTANTE DEL MENÚ EN LUGAR DE botonVolverMenu -->
+<header class="tahor" id="encabezado">
+  <button class="menu-boton" onclick="toggleMenu()">☰ Menú</button>
+  <div id="titulo">🧪 Escáner de Productos Tame / Tahor</div>
+  <div class="menu-desplegable" id="menu">
+<button onclick="abrirMatzah()">🍞 Escáner Pesaj (sin jametz)</button>
+
+    <button onclick="mostrarSeccionTahor()">🧪 Escáner Tahor / Tame</button>
+  </div>
+</header>
+
+
+</body>
+
+
+</html>

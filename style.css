@@ -1,0 +1,841 @@
+/* Estilos generales */
+.instruccion {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.3rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f3f3f3;
+  color: #333;
+}
+.bloque-busqueda {
+  border-left: 4px solid #3498db;
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+#botonVolverMenu {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.8rem;
+  z-index: 9999;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+#botonVolverMenu:hover {
+  background-color: #555;
+}
+
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  color: #34495e;
+  margin-top: 2rem;
+}
+
+/* Formularios */
+input, textarea {
+  width: 100%;
+  padding: 0.8rem;
+  margin-top: 0.4rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+textarea {
+  min-height: 90px;
+}
+
+/* Botones */
+#botonrevision1{
+background-color:#00695c !important;
+  }
+button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 0.8rem 1.4rem;
+  margin-top: 0.6rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+.botones {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+@media (min-width: 480px) {
+  .botones {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+/* Secciones dinámicas */
+#analisisResultado,
+#registroManual,
+#adminPanel {
+  margin-top: 2rem;
+  background-color: #fafafa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+
+/* Mensajes */
+#mensajeUsuario {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+/* Imágenes de productos */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+.grupo-formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.grupo-formulario input {
+  padding: 0.5rem;
+  font-size: 0.95rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.dropdown-camara {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 0.95rem;
+  background-color: #fff;
+  color: #333;
+}
+
+#analisisResultado img {
+  max-width: 100%;
+  margin: 1rem 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+#tabs button {
+  background-color: #d6eaf8; /* azul claro para inactivas */
+  color: #2c3e50;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  margin-right: 0.3rem;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#tabs button:hover {
+  background-color: #85c1e9; /* un azul un poco más marcado al pasar mouse */
+  color: #1b2631;
+}
+
+#tabs .tab-activa {
+  background-color: #3498db; /* azul activo más fuerte */
+  color: #fff;
+}
+
+
+.tarjeta-pendiente {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+
+.spinner {
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #3498db;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: girar 1s linear infinite;
+  margin: auto;
+}
+/* Barra de carga para envíos */
+#barraProgreso {
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 1rem;
+  height: 20px;
+}
+
+#barraProgresoInterna {
+  height: 100%;
+  width: 0%;
+  background-color: #3498db;
+  transition: width 1s linear;
+}
+
+@keyframes girar {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#registroManual .grupo-formulario label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+}
+
+#registroManual input[type="radio"] {
+  transform: scale(1.2);
+  margin-right: 0.5rem;
+}
+.selector-tahor {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #fdfdfd;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.selector-tahor label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.selector-tahor input[type="radio"] {
+  margin-right: 0.6rem;
+  transform: scale(1.2);
+  accent-color: #3498db;
+}
+
+.selector-tahor label[for="tahor"] {
+  color: green;
+  font-weight: bold;
+}
+
+.selector-tahor label[for="tame"] {
+  color: red;
+  font-weight: bold;
+}
+.detalle-producto {
+  background-color: #fdfdfd;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+#tabsMatzah button {
+  background-color: #d6eaf8;
+  color: #2c3e50;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px 8px 0 0;
+  cursor: pointer;
+  margin-right: 0.3rem;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#tabsMatzah button:hover {
+  background-color: #85c1e9;
+  color: #1b2631;
+}
+
+#tabsMatzah .tab-activa {
+  background-color: #3498db;
+  color: #fff;
+}
+#resultadoMatzah,
+#registroManualMatzah {
+  margin-top: 2rem;
+  background-color: #fafafa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+#mensajeUsuarioMatzah {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+#registroManualMatzah .grupo-formulario label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+}
+
+#registroManualMatzah input[type="radio"] {
+  transform: scale(1.2);
+  margin-right: 0.5rem;
+}
+
+.detalle-producto summary {
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #2c3e50;
+}
+
+.detalle-producto[open] {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+#encabezado {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+height: 35px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+#titulo {
+  font-size: 1.1rem;
+  font-weight: bold;
+  flex: 1;
+  margin-left: -110px;
+  text-align: center;
+}
+
+.menu-boton {
+  position: relative; /* necesario */
+  background: inherit;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 1;
+}
+#registroManual .contenedor {
+  max-width: 500px; /* 👈 más angosto */
+  margin: 0 auto;   /* 👈 centrado */
+  padding: 1rem;    /* 👈 menos espacio interno */
+}
+
+#registroManual .bloque {
+  padding: 1rem;
+  margin-top: -20px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+}
+
+
+
+#registroManualMatzah .contenedor {
+  max-width: 500px; /* 👈 más angosto */
+  margin: 0 auto;   /* 👈 centrado */
+  padding: 1rem;    /* 👈 menos espacio interno */
+}
+
+#registroManualMatzah .bloque {
+  padding: 1rem;
+  margin-top: -20px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+}
+/* Este pseudo-elemento expandirá el área clickeable */
+.menu-boton::before {
+  content: '';
+  position: absolute;
+  top: -10px; /* expande hacia arriba */
+  bottom: -10px; /* expande hacia abajo */
+  left: -15px; /* expande a la izquierda */
+  right: -10px; /* expande a la derecha */
+  z-index: -1; /* detrás del botón */
+}
+
+header.tahor .menu-boton {
+  background: #00796b;
+}
+
+header.pesaj .menu-boton {
+  background: #00796b !important;
+}
+
+#tabBuscarMatzah {
+  background-color: #895510 !important;
+}
+.menu-boton:hover {
+  background: #00251a;
+}
+
+#enviarboton2 {
+  background-color: #895510 !important;
+
+}
+.menu-desplegable {
+  position: absolute;
+  top: 2rem;
+  left: 1rem;
+  font-size: 13px;
+  background: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  display: none;
+  flex-direction: column;
+}
+header.tahor {
+  background-color: #37474f;
+  transition: background-color 0.3s;
+}
+
+header.pesaj {
+  background-color: #895510;
+  transition: background-color 0.3s;
+}
+
+/* El botón de menú hereda el fondo del header */
+header.tahor .menu-boton {
+  background-color: #00796b;
+}
+
+header.pesaj .menu-boton {
+  background-color: #895510;
+}
+
+.menu-boton {
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+.menu-desplegable button {
+  display: block;
+  width: 100%;
+  color: black;
+  padding: 0.7rem;
+  background: white;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+}
+.tahor #titulo {
+  color: white !important;
+}
+
+.pesaj #titulo {
+  color: #fce5cd; /* color marrón clarito */
+}
+
+
+.menu-desplegable button:hover {
+  background-color: #f0f0f0;
+}
+
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.bloque {
+  background: white;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 50px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.bloque h2 {
+  margin-top: 0;
+
+}
+
+.campo {
+    margin-bottom: 1rem;
+}
+
+.campo label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.campo input, .campo select {
+  width: 100%;
+  padding: 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+
+.boton:hover {
+   background: #a77b3b;
+}
+section#formBusquedaMatzah {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+#formBusquedaMatzah {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+#formBusquedaMatzah {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+}
+@media (max-width: 767px) {
+  #formBusquedaMatzah {
+    flex-direction: column;
+  }
+}
+/* Colores dinámicos para Tahor y Matzah */
+.tahor-encabezado {
+  background-color: #37474f !important;
+}
+
+.matzah-encabezado {
+  background-color: #895510 !important;
+}
+
+.boton-tahor {
+  background-color: #00695c !important;
+}
+
+.boton-matzah {
+  background-color: #895510 !important;
+}
+
+.contenedor-matzah {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+@media (max-width: 767px) {
+  .contenedor-matzah {
+    flex-direction: column;
+  }
+}
+
+.bloque-matzah {
+  background: white;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Elementos internos */
+.bloque-matzah h2 {
+  margin-top: 0;
+  color: #895510;
+}
+#tabRegistrar {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: #00796b;
+  color: white;
+  border: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 12px;
+  z-index: 9999;
+  cursor: pointer;
+  font-size: 0.7rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  line-height: 1.2;
+}
+
+#tabRegistrar:hover {
+  background: #2980b9;
+}
+#tabRegistrarMatzah {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: #00796b !important; /* Marrón Pesaj */
+  color: white;
+  border: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 12px;
+  z-index: 9999;
+  cursor: pointer;
+  font-size: 0.7rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  line-height: 1.2;
+}
+
+#tabRegistrarMatzah:hover {
+  background: #a77b3b;
+}
+
+.campo {
+  margin-bottom: 1rem;
+}
+
+.campo label {
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+.boton-volver-matzah {
+  background-color: #888;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: 1rem auto;
+}
+
+.boton-volver-matzah:hover {
+  background-color: #666;
+}
+.boton-volver-tahor {
+  background-color: #888;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: 1rem auto;
+}
+
+.boton-volver-tahor:hover {
+  background-color: #666;
+}
+
+.campo input,
+.campo select {
+  width: 100%;
+  padding: 0.6rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.boton {
+  width: 100%;
+  padding: 0.7rem;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  background: #895510;
+}
+
+.boton:hover {
+  background: #a77b3b;
+}
+
+/* 👉 Alineación horizontal solo en pantallas grandes */
+@media (min-width: 768px) {
+  #formBusquedaMatzah {
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .bloque-matzah {
+    flex: 1;
+    max-width: 420px;
+  }
+}
+#analisisResultado {
+  background: white;
+  margin: 2rem 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  display: none; /* inicialmente oculto */
+}
+
+#resultadoMatzah {
+  background: white;
+  margin: 2rem 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  display: block;
+
+}
+
+body.tahor {
+  background-color: #f3f3f3 !important;
+}
+
+body.tahor .boton {
+  background: #00695c !important
+}
+body.tahor .boton:hover {
+  background: #00695c !important
+}
+body.tahor #tituloPrincipal {
+  color: #2c3e50 !important;
+}
+
+/* Para Matzah (Pesaj) */
+body.matzah {
+  background-color: #f3f3f3 !important;
+}
+
+body.matzah .boton {
+  background: #895510 !important;
+}
+body.matzah .boton:hover {
+  background: #a77b3b !important;
+}
+body.matzah #tituloPrincipal {
+  color: #895510 !important;
+}
+
+/* Al final de tu style.css agrega: */
+body.tahor {
+  background-color: #f5f5f5;
+  transition: background-color 0.3s;
+}
+
+body.pesaj {
+  background-color: #f5f5f5;
+  transition: background-color 0.3s;
+}
+
+header.tahor {
+  background-color: #37474f;
+  transition: background-color 0.3s;
+}
+
+header.pesaj {
+  background-color: #895510;
+  transition: background-color 0.3s;
+}
+
+/* Botón de menú */
+
+.menu-boton:hover {
+  background: #004d40;
+}
+
+/* Menú desplegable */
+.menu-desplegable {
+  display: none;
+  position: absolute;
+  top: 3.2rem;
+  left: 1rem;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  z-index: 1000;
+}
+
+
+.pesaj #titulo {
+  color: #fce5cd; /* color marrón clarito */
+}
+
+  text-align: left;
+  cursor: pointer;
+}
+.menu-desplegable button:hover {
+  background: #f0f0f0;
+}
+.tahor .bloque h2 {
+  color: #00695c; /* Verde azulado para modo Tahor */
+}
+
+
+body.tahor #tituloPrincipal {
+  color: #00695c; /* Verde azulado para Tahor */
+}
+
+body.pesaj #tituloPrincipal {
+  color: #895510; /* Marrón para Pesaj */
+}
+body.tahor #tituloPrincipal {
+  color: #00695c;
+}
+
+body.pesaj #tituloPrincipal {
+  color: #895510;
+}
+
