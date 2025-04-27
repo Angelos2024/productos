@@ -823,7 +823,13 @@ async function buscarSoloPorEanMatzah(ean) {
   if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
 
   if (resultadosHTML.length < 5) {
-    resultadoDiv.innerHTML += `<p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>`;
+    resultadoDiv.innerHTML += `
+  <div style="text-align:center">
+    <div class="spinner"></div>
+    <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
+  </div>
+`;
+
     const resultadoOFF = await buscarEnOpenFoodFacts('', '', ean, pais);
     if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
   }
