@@ -717,8 +717,8 @@ function mostrarSeccionTahor() {
   document.getElementById("bloqueTahor").style.display = "block";
   document.getElementById("bloqueMatzah").style.display = "none";
   document.title = "Escáner de Productos Tame / Tahor";
-  document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Tame / Tahor";
-  document.getElementById("titulo").textContent = "🧪 Escáner de Productos Tame / Tahor";
+  document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Tahor";
+  document.getElementById("titulo").textContent = "🧪 Escáner de Productos Tahor";
 
   const encabezado = document.getElementById("encabezado");
   if (encabezado) {
