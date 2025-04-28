@@ -4,6 +4,12 @@
   color: #555;
   margin-bottom: 0.3rem;
 }
+@media (max-width: 500px) {
+  header.pesaj .menu-boton,
+  header.tahor .menu-boton {
+    margin-top: 50px;
+  }
+}
 
 body {
   margin: 0;
