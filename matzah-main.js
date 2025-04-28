@@ -263,12 +263,36 @@ botonBusqueda.addEventListener('click', async () => {
   scrollAResultados();
 
   const resultadosHTML = [];
+  // 🔵 Variables para checar si hay ingredientes prohibidos
+let productoApto = true;
+let listaDeIngredientesTame = [];
+
   const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
   if (htmlLocales) {
     resultadosHTML.push(...htmlLocales.split('<hr>'));
-  }
+    // 🔵 Análisis de ingredientes del producto
+const parser = new DOMParser();
+const doc = parser.parseFromString(htmlLocales, 'text/html');
 
-  if (resultadosHTML.length < 5) {
+const ingredientesTexto = doc.querySelector('small')?.innerText || '';
+const ingredientesDelProducto = ingredientesTexto.split(',').map(i => i.trim());
+
+ingredientesDelProducto.forEach(ingrediente => {
+  if (isTameMatzah(ingrediente)) {
+    productoApto = false;
+    listaDeIngredientesTame.push(ingrediente);
+  }
+});
+
+// 🔵 Resultado de si el producto es apto o no
+let estadoProductoHTML = '';
+if (!productoApto) {
+  estadoProductoHTML = `<p style="color:red;"><strong>❌ No Apto para Pesaj</strong><br>Ingredientes prohibidos detectados: ${listaDeIngredientesTame.join(', ')}</strong></p><hr>`;
+} else {
+  estadoProductoHTML = `<p style="color:green;"><strong>✅ Apto (sin ingredientes prohibidos detectados)</strong></p><hr>`;
+}
+
+if (resultadosHTML.length < 5) {
   resultadoDiv.innerHTML = `
     <div style="text-align:center">
       <div class="spinner"></div>
@@ -276,29 +300,32 @@ botonBusqueda.addEventListener('click', async () => {
       <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
     </div>
   `;
-    const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
-    if (resultadoOFF) {
-      resultadosHTML.push(...resultadoOFF);
-    }
+  
+  const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
+  if (resultadoOFF) {
+    resultadosHTML.push(...resultadoOFF);
   }
+}
 
-  if (resultadosHTML.length > 0) {
-    resultadoDiv.innerHTML = `
-      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
-    `;
-  } else {
-    resultadoDiv.innerHTML = `
-      <p style="color:red;">❌ Producto no encontrado.</p>
-      <p>¿Nos ayudas a registrarlo? 🙌</p>
-      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-    `;
-  }
+// 🔵 Mostrar primero si es Apto o No
+resultadoDiv.innerHTML = estadoProductoHTML;
 
-  setTimeout(() => {
-    scrollAResultados();
-  }, 150);
-});
+if (resultadosHTML.length > 0) {
+  resultadoDiv.innerHTML += `
+    <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+    ${resultadosHTML.slice(0, 5).join('<hr>')}
+  `;
+} else {
+  resultadoDiv.innerHTML += `
+    <p style="color:red;">❌ Producto no encontrado.</p>
+    <p>¿Nos ayudas a registrarlo? 🙌</p>
+    <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+  `;
+}
+
+setTimeout(() => {
+  scrollAResultados();
+}, 150);
 
 
 function abrirTahor() {
@@ -834,18 +861,20 @@ async function buscarSoloPorEanMatzah(ean) {
     if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
   }
 
-  if (resultadosHTML.length > 0) {
-    resultadoDiv.innerHTML = `
-      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
-    `;
-  } else {
-    resultadoDiv.innerHTML = `
-      <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
-      <p>¿Nos ayudas a registrarlo? 🙌</p>
-      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-    `;
-  }
+if (resultadosHTML.length > 0) {
+  resultadoDiv.innerHTML += `
+    <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+    ${resultadosHTML.slice(0, 5).join('<hr>')}
+  `;
+} else {
+  resultadoDiv.innerHTML += `
+    <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
+    <p>¿Nos ayudas a registrarlo? 🙌</p>
+    <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+  `;
+}
+
+
 
   setTimeout(() => scrollAResultados(), 150);
 }
