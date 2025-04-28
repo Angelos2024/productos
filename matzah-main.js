@@ -879,4 +879,8 @@ if (resultadosHTML.length > 0) {
   setTimeout(() => scrollAResultados(), 150);
 }
 
- })();
+// Todo tu archivo, funciones, eventos, etc...
+
+}  // ← CIERRA AQUÍ la función autoejecutable
+)(); // ← Luego invocas la función
+
