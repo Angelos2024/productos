@@ -12,23 +12,30 @@ function normalizeYsingularizar(txt) {
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
-    .trim();
+    .trim()
+    .split(" ")
+    .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
+    .join(" ");
 }
 
-function isTameMatzah(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesTameMatzah.some(tame =>
-    normalizado.includes(normalizeYsingularizar(tame))
+
+  function isTameMatzah(i) {
+  const palabras = normalizeYsingularizar(i).split(' ');
+  return palabras.some(palabra => 
+    window.ingredientesTameMatzah.some(tame =>
+      palabra === normalizeYsingularizar(tame)
+    )
   );
 }
 
 function isLeudante(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesLeudantes.some(leu =>
-    normalizado.includes(normalizeYsingularizar(leu))
+  const palabras = normalizeYsingularizar(i).split(' ');
+  return palabras.some(palabra => 
+    window.ingredientesLeudantes.some(leudante =>
+      palabra === normalizeYsingularizar(leudante)
+    )
   );
 }
-
 
 const botonBusqueda = document.getElementById('botonBusquedaMatzah');
 const botonBuscarRapido = document.getElementById('botonBuscarRapidoMatzah');
@@ -263,36 +270,12 @@ botonBusqueda.addEventListener('click', async () => {
   scrollAResultados();
 
   const resultadosHTML = [];
-  // 🔵 Variables para checar si hay ingredientes prohibidos
-let productoApto = true;
-let listaDeIngredientesTame = [];
-
   const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
   if (htmlLocales) {
     resultadosHTML.push(...htmlLocales.split('<hr>'));
-    // 🔵 Análisis de ingredientes del producto
-const parser = new DOMParser();
-const doc = parser.parseFromString(htmlLocales, 'text/html');
-
-const ingredientesTexto = doc.querySelector('small')?.innerText || '';
-const ingredientesDelProducto = ingredientesTexto.split(',').map(i => i.trim());
-
-ingredientesDelProducto.forEach(ingrediente => {
-  if (isTameMatzah(ingrediente)) {
-    productoApto = false;
-    listaDeIngredientesTame.push(ingrediente);
   }
-});
 
-// 🔵 Resultado de si el producto es apto o no
-let estadoProductoHTML = '';
-if (!productoApto) {
-  estadoProductoHTML = `<p style="color:red;"><strong>❌ No Apto para Pesaj</strong><br>Ingredientes prohibidos detectados: ${listaDeIngredientesTame.join(', ')}</strong></p><hr>`;
-} else {
-  estadoProductoHTML = `<p style="color:green;"><strong>✅ Apto (sin ingredientes prohibidos detectados)</strong></p><hr>`;
-}
-
-if (resultadosHTML.length < 5) {
+  if (resultadosHTML.length < 5) {
   resultadoDiv.innerHTML = `
     <div style="text-align:center">
       <div class="spinner"></div>
@@ -300,32 +283,29 @@ if (resultadosHTML.length < 5) {
       <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
     </div>
   `;
-  
-  const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
-  if (resultadoOFF) {
-    resultadosHTML.push(...resultadoOFF);
+    const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
+    if (resultadoOFF) {
+      resultadosHTML.push(...resultadoOFF);
+    }
   }
-}
 
-// 🔵 Mostrar primero si es Apto o No
-resultadoDiv.innerHTML = estadoProductoHTML;
+  if (resultadosHTML.length > 0) {
+    resultadoDiv.innerHTML = `
+      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+      ${resultadosHTML.slice(0, 5).join('<hr>')}
+    `;
+  } else {
+    resultadoDiv.innerHTML = `
+      <p style="color:red;">❌ Producto no encontrado.</p>
+      <p>¿Nos ayudas a registrarlo? 🙌</p>
+      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+    `;
+  }
 
-if (resultadosHTML.length > 0) {
-  resultadoDiv.innerHTML += `
-    <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-    ${resultadosHTML.slice(0, 5).join('<hr>')}
-  `;
-} else {
-  resultadoDiv.innerHTML += `
-    <p style="color:red;">❌ Producto no encontrado.</p>
-    <p>¿Nos ayudas a registrarlo? 🙌</p>
-    <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-  `;
-}
-
-setTimeout(() => {
-  scrollAResultados();
-}, 150);
+  setTimeout(() => {
+    scrollAResultados();
+  }, 150);
+});
 
 
 function abrirTahor() {
@@ -397,7 +377,7 @@ function mostrarFormularioRegistro() {
 
   resultadoDiv.innerHTML = '';
   mensajeUsuario.innerHTML = '';
-}
+
   // ➡️ Ocultar el botón flotante de Tahor
   const botonRegistrar = document.getElementById('tabRegistrar');
   if (botonRegistrar) botonRegistrar.style.display = 'none';
@@ -405,7 +385,7 @@ function mostrarFormularioRegistro() {
   // ➡️ Ocultar también el de Matzah si existe
   const botonRegistrarMatzah = document.getElementById('tabRegistrarMatzah');
   if (botonRegistrarMatzah) botonRegistrarMatzah.style.display = 'none';
-
+}
 
 
 
@@ -861,26 +841,20 @@ async function buscarSoloPorEanMatzah(ean) {
     if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
   }
 
-if (resultadosHTML.length > 0) {
-  resultadoDiv.innerHTML += `
-    <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-    ${resultadosHTML.slice(0, 5).join('<hr>')}
-  `;
-} else {
-  resultadoDiv.innerHTML += `
-    <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
-    <p>¿Nos ayudas a registrarlo? 🙌</p>
-    <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-  `;
-}
-
-
+  if (resultadosHTML.length > 0) {
+    resultadoDiv.innerHTML = `
+      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+      ${resultadosHTML.slice(0, 5).join('<hr>')}
+    `;
+  } else {
+    resultadoDiv.innerHTML = `
+      <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
+      <p>¿Nos ayudas a registrarlo? 🙌</p>
+      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
+    `;
+  }
 
   setTimeout(() => scrollAResultados(), 150);
 }
 
-// Todo tu archivo, funciones, eventos, etc...
-
-}  // ← CIERRA AQUÍ la función autoejecutable
-)(); // ← Luego invocas la función
-
+ })();
