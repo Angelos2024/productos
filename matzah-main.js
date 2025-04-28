@@ -1,9 +1,4 @@
 
-(() => {
-  let currentPreviewStream = null;
-  
-  
-
 
 function normalizeYsingularizar(txt) {
   return txt
@@ -19,8 +14,9 @@ function normalizeYsingularizar(txt) {
 }
 
 
-  function isTameMatzah(i) {
-  const palabras = normalizeYsingularizar(i).split(' ');
+// --- Detección Tame para Matzah ---
+function isTameMatzah(ingrediente) {
+  const palabras = normalizeYsingularizar(ingrediente).split(' ');
   return palabras.some(palabra => 
     window.ingredientesTameMatzah.some(tame =>
       palabra === normalizeYsingularizar(tame)
@@ -28,112 +24,98 @@ function normalizeYsingularizar(txt) {
   );
 }
 
-function isLeudante(i) {
-  const palabras = normalizeYsingularizar(i).split(' ');
+
+// --- Detección Leudante para Matzah (nuevo igual a Tame) ---
+function isLeudante(ingrediente) {
+  const palabras = normalizeYsingularizar(ingrediente).split(' ');
   return palabras.some(palabra => 
     window.ingredientesLeudantes.some(leudante =>
       palabra === normalizeYsingularizar(leudante)
     )
-  );
+  );  
 }
 
-const botonBusqueda = document.getElementById('botonBusquedaMatzah');
-const botonBuscarRapido = document.getElementById('botonBuscarRapidoMatzah');
+
+// --- Analizar una lista de ingredientes en Matzah ---
+function analizarIngredientesMatzah(ingredientes) {
+  let tameDetectado = false;
+  let leudanteDetectado = false;
+
+  for (const ing of ingredientes) {
+    const normalizado = normalizeYsingularizar(ing);
+
+    if (isTameMatzah(normalizado)) tameDetectado = true;
+    if (isLeudante(normalizado)) leudanteDetectado = true;
+
+    if (tameDetectado && leudanteDetectado) break; // 🚀 Salir si ambos detectados
+  }
+
+  return { tameDetectado, leudanteDetectado };
+}
+
+// --- Elementos DOM para Matzah ---
+const botonBusquedaMatzah = document.getElementById('botonBusquedaMatzah');
+const botonBuscarRapidoMatzah = document.getElementById('botonBuscarRapidoMatzah');
+
+
+
+
 botonBuscarRapido?.addEventListener('click', () => {
-  botonBusqueda.click();
-});
-// Manejar cambio de pestañas en Matzah (volver de registro a búsqueda)
-document.getElementById('tabBuscarMatzah').addEventListener('click', () => {
-  const formBusquedaMatzah = document.getElementById('formBusquedaMatzah');
-  const resultadoMatzah = document.getElementById('resultadoMatzah');
-  const registroManualMatzah = document.getElementById('registroManualMatzah');
-  
-  if (formBusquedaMatzah) {
-    formBusquedaMatzah.style.display = 'flex'; // Solo muestra
-  }
-
-  if (resultadoMatzah) resultadoMatzah.style.display = 'block';
-  if (registroManualMatzah) registroManualMatzah.style.display = 'none';
-
-  activarTab('tabBuscarMatzah');
-
-  const botonFlotanteMatzah = document.getElementById('tabRegistrarMatzah');
-  if (botonFlotanteMatzah) {
-    botonFlotanteMatzah.style.display = 'block';
-  }
+  botonBusquedaMatzah.click();
 });
 
+const escanearCodigoMatzah = document.getElementById('escanearCodigoMatzah');
+const resultadoMatzah = document.getElementById('resultadoMatzah');
+const registroManualMatzah = document.getElementById('registroManualMatzah');
+const mensajeUsuarioMatzah = document.getElementById('mensajeUsuarioMatzah');
 
+let marcaGlobalMatzah = '';
+let nombreGlobalMatzah = '';
+let eanGlobalMatzah = '';
 
+// --- Cámara y escaneo para Matzah ---
+let codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
 
-  // Tu código de matzah-main.js
+if (escanearCodigoMatzah) {
+  const selectCamaraMatzah = document.getElementById('selectCamaraMatzah');
 
-  // 🔵 Aquí agregas esta función pública:
-  window.mostrarFormularioRegistroMatzah = function() {
-    document.getElementById('formBusquedaMatzah').style.display = 'none';
-    document.getElementById('resultadoMatzah').style.display = 'none';
-    document.getElementById('registroManualMatzah').style.display = 'block';
-    activarTab('tabRegistrarMatzah');
-
-    const mensajeUsuarioMatzah = document.getElementById('mensajeUsuarioMatzah');
-    if (mensajeUsuarioMatzah) mensajeUsuarioMatzah.innerHTML = '';
-
-    const botonFlotanteMatzah = document.getElementById('tabRegistrarMatzah');
-    if (botonFlotanteMatzah) botonFlotanteMatzah.style.display = 'none';
-  };
-
-
-
-
-const escanearCodigoBtn = document.getElementById('escanearCodigoMatzah');
-const resultadoDiv = document.getElementById('resultadoMatzah');
-const registroManualDiv = document.getElementById('registroManualMatzah');
-const mensajeUsuario = document.getElementById('mensajeUsuarioMatzah');
-
-
-let marcaGlobal = '';
-let nombreGlobal = '';
-let eanGlobal = '';
-
-// --- Cámara y escaneo
-let codeReader = new ZXing.BrowserMultiFormatReader(); // ⬅️ fuera del evento, como en main.js
-
-if (escanearCodigoBtn) {
-
-
-  escanearCodigoBtn.addEventListener('click', async () => {
-    const selectCamara = document.getElementById('selectCamaraMatzah');
-
+  escanearCodigoMatzah.addEventListener('click', async () => {
     try {
+      // Paso 1: Solicitar permisos de cámara
       await navigator.mediaDevices.getUserMedia({ video: true });
     } catch (err) {
       console.error("❌ Permiso denegado para la cámara:", err);
-      resultadoDiv.innerHTML = '<p style="color:red;">❌ Debes permitir acceso a la cámara.</p>';
-      resultadoDiv.style.display = 'block';
-
+      selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
       return;
     }
 
     let devices = [];
     try {
-      devices = await codeReader.getVideoInputDevices();
-      selectCamara.innerHTML = '';
+      // Paso 2: Obtener lista de cámaras disponibles
+      devices = await codeReaderMatzah.getVideoInputDevices();
+      const camaraAnterior = selectCamaraMatzah.value;
+
+      selectCamaraMatzah.innerHTML = '';
       devices.forEach((device, index) => {
         const option = document.createElement('option');
         option.value = device.deviceId;
         option.text = device.label || `Cámara ${index + 1}`;
-        selectCamara.appendChild(option);
+        selectCamaraMatzah.appendChild(option);
       });
 
-      if (!selectCamara.value && devices[0]) {
-        selectCamara.value = devices[0].deviceId;
+      const existeAun = devices.some(d => d.deviceId === camaraAnterior);
+      if (existeAun) {
+        selectCamaraMatzah.value = camaraAnterior;
+      } else if (devices.length > 0) {
+        selectCamaraMatzah.value = devices[0].deviceId;
       }
-
     } catch (err) {
       console.error('❌ No se pudo listar dispositivos de cámara:', err);
-      selectCamara.innerHTML = '<option>No se pudo acceder a la cámara</option>';
+      selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
       return;
     }
+
+    const selectedDeviceId = selectCamaraMatzah.value;
 
     if (currentPreviewStream) {
       currentPreviewStream.getTracks().forEach(track => track.stop());
@@ -141,32 +123,36 @@ if (escanearCodigoBtn) {
     }
 
     const previewElem = document.createElement('video');
-    previewElem.setAttribute('style', 'width:100%; max-width:300px; margin-bottom:1rem;');
-    resultadoDiv.innerHTML = `
+    previewElem.setAttribute('id', 'previewElemMatzah');
+    previewElem.setAttribute('style', `
+      width: 100%;
+      max-width: 480px;
+      margin: 1rem auto;
+      display: block;
+      border: 3px dashed #895510;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    `);
+
+    resultadoMatzah.innerHTML = `
       <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
       <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
     `;
-    resultadoDiv.style.display = 'block';
-
-    resultadoDiv.appendChild(previewElem);
+    resultadoMatzah.appendChild(previewElem);
 
     document.getElementById('cancelarEscaneo').addEventListener('click', () => {
       if (currentPreviewStream) {
         currentPreviewStream.getTracks().forEach(track => track.stop());
         currentPreviewStream = null;
       }
-      codeReader.reset();
-      resultadoDiv.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
-       resultadoDiv.style.display = 'block';
+      codeReaderMatzah.reset();
+      codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
+      resultadoMatzah.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
     });
 
     try {
-      const selectedDeviceId = selectCamara.value;
-
       const stream = await navigator.mediaDevices.getUserMedia({
         video: {
           deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-          facingMode: { ideal: "environment" },
           width: { ideal: 1280 },
           height: { ideal: 720 }
         }
@@ -176,43 +162,33 @@ if (escanearCodigoBtn) {
       await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
       currentPreviewStream = stream;
 
-    codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
-  if (result) {
-    document.getElementById('eanEntradaMatzah').value = result.text;
-    buscarSoloPorEanMatzah(result.text);
+      codeReaderMatzah.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+        if (result) {
+          document.getElementById('eanEntradaMatzah').value = result.text;
+          buscarSoloPorEanMatzah(result.text);
 
-    codeReader.reset();
-    if (currentPreviewStream) {
-      currentPreviewStream.getTracks().forEach(track => track.stop());
-      currentPreviewStream = null;
-    }
-  }
-}); // <-- CIERRA AQUÍ el decodeFromVideoDevice
-
-
+          codeReaderMatzah.reset();
+          if (currentPreviewStream) {
+            currentPreviewStream.getTracks().forEach(track => track.stop());
+            currentPreviewStream = null;
+          }
+        }
+      });
 
     } catch (err) {
       console.error('❌ Error escaneando:', err);
-      resultadoDiv.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-   } finally {
-  codeReader.reset();
-  if (currentPreviewStream) {
-    currentPreviewStream.getTracks().forEach(track => track.stop());
-    currentPreviewStream = null;
-  }
+      resultadoMatzah.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+    }
+  });
 }
 
-  });  // 👈 Cierre del addEventListener
 
-}  // ✅ Cierre correcto del if (escanearCodigoBtn)
-
-
-// --- Búsqueda principal
-botonBusqueda.addEventListener('click', async () => {
+// --- Búsqueda principal para Matzah ---
+botonBusquedaMatzah.addEventListener('click', async () => {
   const marca = document.getElementById('marcaEntradaMatzah').value.trim();
   const nombre = document.getElementById('nombreEntradaMatzah').value.trim();
   const ean = document.getElementById('eanEntradaMatzah').value.trim();
-
+  
   const bloqueMatzahVisible = document.getElementById('bloqueMatzah').style.display === 'block';
   const encabezado = document.getElementById('encabezado');
 
@@ -226,29 +202,19 @@ botonBusqueda.addEventListener('click', async () => {
     }
   }
 
-  // 🔥 🔥 🔥 🔥 Aquí pones el nuevo código 🔥 🔥 🔥 🔥
+  // 🔵 Ajuste de color de botones
   const botonRegistrar = document.getElementById('tabRegistrar');
-  const botonBuscar = document.getElementById('tabBuscar');
-  const botonBuzon = document.getElementById('tabBuzon');
   const botonRegistrarMatzah = document.getElementById('tabRegistrarMatzah');
-  const botonBuscarMatzah = document.getElementById('tabBuscarMatzah');
 
   if (bloqueMatzahVisible) {
-    if (botonRegistrarMatzah) botonRegistrarMatzah.style.backgroundColor = '#895510'; // Marrón Pesaj
-    if (botonBuscarMatzah) botonBuscarMatzah.style.backgroundColor = '#895510';
-    if (botonRegistrar) botonRegistrar.style.backgroundColor = '#3498db'; // Azul neutro
-    if (botonBuscar) botonBuscar.style.backgroundColor = '#3498db';
-    if (botonBuzon) botonBuzon.style.backgroundColor = '#3498db';
+    if (botonRegistrarMatzah) botonRegistrarMatzah.style.backgroundColor = '#895510';
+    if (botonRegistrar) botonRegistrar.style.backgroundColor = '#3498db';
   } else {
-    if (botonRegistrar) botonRegistrar.style.backgroundColor = '#00695c'; // Verde Tahor
-    if (botonBuscar) botonBuscar.style.backgroundColor = '#00695c';
-    if (botonBuzon) botonBuzon.style.backgroundColor = '#00695c';
-    if (botonRegistrarMatzah) botonRegistrarMatzah.style.backgroundColor = '#3498db'; // Azul neutro
-    if (botonBuscarMatzah) botonBuscarMatzah.style.backgroundColor = '#3498db';
+    if (botonRegistrar) botonRegistrar.style.backgroundColor = '#00695c';
+    if (botonRegistrarMatzah) botonRegistrarMatzah.style.backgroundColor = '#3498db';
   }
-  // 🔥 🔥 🔥 🔥 Termina el nuevo código 🔥 🔥 🔥 🔥
 
-  // 🔵 Y después sigues normal con tu flujo de validaciones
+  // 🔵 Flujo normal de búsqueda
   const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
 
   if (!ean && (!marca || !nombre)) {
@@ -261,12 +227,11 @@ botonBusqueda.addEventListener('click', async () => {
     return;
   }
 
-  marcaGlobal = marca;
-  nombreGlobal = nombre;
-  eanGlobal = ean;
+  marcaGlobalMatzah = marca;
+  nombreGlobalMatzah = nombre;
+  eanGlobalMatzah = ean;
 
-  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
-  resultadoDiv.style.display = 'block';
+  resultadoMatzah.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
   scrollAResultados();
 
   const resultadosHTML = [];
@@ -276,158 +241,232 @@ botonBusqueda.addEventListener('click', async () => {
   }
 
   if (resultadosHTML.length < 5) {
-  resultadoDiv.innerHTML = `
-    <div style="text-align:center">
-      <div class="spinner"></div>
-      <p><strong>🔍 Buscando coincidencias locales...</strong></p>
-      <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
-    </div>
-  `;
+    resultadoMatzah.innerHTML = `
+      <div style="text-align:center">
+        <div class="spinner"></div>
+        <p><strong>🔍 Buscando coincidencias locales...</strong></p>
+        <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
+      </div>
+    `;
     const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
     if (resultadoOFF) {
       resultadosHTML.push(...resultadoOFF);
     }
   }
 
-  if (resultadosHTML.length > 0) {
-    resultadoDiv.innerHTML = `
-      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
+if (resultadosHTML.length > 0) {
+  resultadoMatzah.innerHTML = `<p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>`;
+
+  resultadosHTML.slice(0, 5).forEach(htmlProducto => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlProducto, 'text/html');
+    const nombreProducto = doc.querySelector('strong')?.textContent || "";
+    const ingredientesTexto = doc.querySelector('p')?.textContent || "";
+    const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
+
+    const { tameDetectado, leudanteDetectado } = analizarIngredientesMatzah(ingredientes);
+
+    const htmlIngredientes = ingredientes.map(ing => {
+      const normalizado = normalizeYsingularizar(ing);
+      if (isTameMatzah(normalizado)) {
+        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+      } else if (isLeudante(normalizado)) {
+        return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+      } else {
+        return `<span>${ing}</span>`;
+      }
+    }).join(", ");
+
+    let colorEstado = 'green';
+    let textoEstado = '✅ Apto (Tahor)';
+    if (tameDetectado) {
+      colorEstado = 'red';
+      textoEstado = '❌ No Apto (Tame)';
+    } else if (leudanteDetectado) {
+      colorEstado = 'orange';
+      textoEstado = '⚠️ Contiene Leudante';
+    }
+
+    resultadoMatzah.innerHTML += `
+      <details class="detalle-producto">
+        <summary><strong>${nombreProducto}</strong></summary>
+        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
+        <p style="color:${colorEstado}; font-weight:bold;">${textoEstado}</p>
+      </details>
+      <hr>
     `;
-  } else {
-    resultadoDiv.innerHTML = `
-      <p style="color:red;">❌ Producto no encontrado.</p>
-      <p>¿Nos ayudas a registrarlo? 🙌</p>
-      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-    `;
-  }
+  });
+
+} else {
+  resultadoMatzah.innerHTML = `
+    <p style="color:red;">❌ Producto no encontrado.</p>
+    <p>¿Nos ayudas a registrarlo? 🙌</p>
+    <button onclick="mostrarFormularioRegistroMatzah()">📝 Registrar manualmente</button>
+  `;
+}
+
+
 
   setTimeout(() => {
     scrollAResultados();
   }, 150);
 });
-
-
-function abrirTahor() {
-
-  document.getElementById('bloqueTahor').style.display = 'block';
-
-
-  // Mostrar solo la pestaña de búsqueda al iniciar
-  document.getElementById('formBusquedaProducto').style.display = 'block';
-  document.getElementById('analisisResultado').style.display = 'block';
-  document.getElementById('registroManual').style.display = 'none';
-  document.getElementById('buzonRevisiones').style.display = 'none';
-  activarTab('tabBuscar');
-
-  resultadoDiv.innerHTML = '';
-  mensajeUsuario.innerHTML = '';
-}
-
-window.abrirMatzah = function() {
-  document.getElementById('bloqueTahor').style.display = 'none';
+function abrirMatzah() {
+    cerrarMenu(); // 👈 Cierra el menú apenas cambias a Matzah
   document.getElementById('bloqueMatzah').style.display = 'block';
+  document.getElementById('bloqueTahor').style.display = 'none';
+  
+
 
   const titulo = document.getElementById('titulo');
   const tituloPrincipal = document.getElementById('tituloPrincipal');
-  if (titulo) titulo.textContent = "🍞 Escáner de Productos para Matzá";
-  if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos para Matzá / Sin Levadura";
+  if (titulo) titulo.textContent = "🥖 Escáner de Productos para Pesaj (Matzah)";
+  if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos para Pesaj (Matzah)";
 
-  document.title = "Escáner de Productos para Matzá / Sin Levadura";
+  document.title = "Escáner de Productos Pesaj";
 
   const encabezado = document.getElementById('encabezado');
   if (encabezado) {
-    encabezado.classList.remove('tahor'); // 🔥 Quitar color de Tahor
-    encabezado.classList.add('pesaj');     // 🔥 Activar color de Pesaj
+    encabezado.classList.remove('tahor');
+    encabezado.classList.add('pesaj');
   }
 
   const botonesFlotantes = document.querySelectorAll('#tabRegistrarMatzah, #tabBuscarMatzah');
   botonesFlotantes.forEach(boton => {
     if (boton) {
-      boton.style.backgroundColor = '#895510'; // Marrón para Matzah
+      boton.style.backgroundColor = '#895510';
     }
   });
 
   const botonRegistrarMatzah = document.getElementById('tabRegistrarMatzah');
   if (botonRegistrarMatzah) botonRegistrarMatzah.style.display = 'block';
-};
+}
 
-
-
-
-document.getElementById('tabRegistrar').addEventListener('click', () => {
-  document.getElementById('formBusquedaProducto').style.display = 'none';
-  document.getElementById('analisisResultado').style.display = 'none';
-  document.getElementById('registroManual').style.display = 'block';
-  activarTab('tabRegistrar');
+// --- Cambio de pestañas en Matzah ---
+document.getElementById('tabRegistrarMatzah').addEventListener('click', () => {
+  document.getElementById('formBusquedaMatzah').style.display = 'none';
+  document.getElementById('resultadoMatzah').style.display = 'none';
+  document.getElementById('registroManualMatzah').style.display = 'block';
+  activarTabMatzah('tabRegistrarMatzah');
 });
 
-function activarTab(idActiva) {
-  ['tabBuscar', 'tabRegistrar', 'tabBuzon'].forEach(id => {
+function activarTabMatzah(idActiva) {
+  ['tabBuscarMatzah', 'tabRegistrarMatzah'].forEach(id => {
     const tab = document.getElementById(id);
     if (tab) tab.classList.remove('tab-activa');
   });
   document.getElementById(idActiva)?.classList.add('tab-activa');
 }
-function mostrarFormularioRegistro() {
-  document.getElementById('formBusquedaProducto').style.display = 'none';
-  document.getElementById('analisisResultado').style.display = 'none';
-  document.getElementById('registroManual').style.display = 'block';
-  activarTab('tabRegistrar');
 
-  resultadoDiv.innerHTML = '';
-  mensajeUsuario.innerHTML = '';
+function mostrarFormularioRegistroMatzah() {
+  document.getElementById('formBusquedaMatzah').style.display = 'none';
+  document.getElementById('resultadoMatzah').style.display = 'none';
+  document.getElementById('registroManualMatzah').style.display = 'block';
+  activarTabMatzah('tabRegistrarMatzah');
 
-  // ➡️ Ocultar el botón flotante de Tahor
-  const botonRegistrar = document.getElementById('tabRegistrar');
-  if (botonRegistrar) botonRegistrar.style.display = 'none';
+  mensajeUsuarioMatzah.innerHTML = '';
 
-  // ➡️ Ocultar también el de Matzah si existe
   const botonRegistrarMatzah = document.getElementById('tabRegistrarMatzah');
   if (botonRegistrarMatzah) botonRegistrarMatzah.style.display = 'none';
 }
 
-
-
-// Añadir pestaña de revisión solo si no existe
-function mostrarBuzonAdmin() {
-  if (!document.getElementById('tabBuzon')) {
+// Añadir pestaña de revisión solo si no existe (modo Matzah)
+function mostrarBuzonAdminMatzah() {
+  if (!document.getElementById('tabBuzonMatzah')) {
     const nuevaTab = document.createElement('button');
-    nuevaTab.id = 'tabBuzon';
-    nuevaTab.innerText = '📬 Buzón de revisiones';
+    nuevaTab.id = 'tabBuzonMatzah';
+    nuevaTab.innerText = '📬 Buzón de revisiones (Pesaj)';
+
+    nuevaTab.style.position = 'fixed';
+    nuevaTab.style.bottom = '5rem';
+    nuevaTab.style.right = '1rem';
+    nuevaTab.style.backgroundColor = '#895510'; // Marrón Pesaj
+    nuevaTab.style.color = 'white';
+    nuevaTab.style.border = 'none';
+    nuevaTab.style.borderRadius = '12px';
+    nuevaTab.style.padding = '0.5rem 1rem';
+    nuevaTab.style.zIndex = '9999';
+    nuevaTab.style.boxShadow = '0 2px 6px rgba(0,0,0,0.2)';
+    nuevaTab.style.cursor = 'pointer';
+
     nuevaTab.addEventListener('click', () => {
-      document.getElementById('formBusquedaProducto').style.display = 'none';
-      document.getElementById('analisisResultado').style.display = 'none';
-      document.getElementById('registroManual').style.display = 'none';
-      document.getElementById('buzonRevisiones').style.display = 'block';
-      activarTab('tabBuzon');
-      cargarPendientes();
+      document.getElementById('formBusquedaMatzah').style.display = 'none';
+      document.getElementById('resultadoMatzah').style.display = 'none';
+      document.getElementById('registroManualMatzah').style.display = 'none';
+      document.getElementById('adminPanelMatzah').style.display = 'none';
+      document.getElementById('buzonRevisionesMatzah').style.display = 'block';
+
+      activarTabMatzah('tabBuzonMatzah');
+      cargarPendientesMatzah();
+
+      mostrarBotonVolverInicioMatzah();
     });
 
-    document.getElementById('tabs').firstElementChild.appendChild(nuevaTab);
+    document.body.appendChild(nuevaTab);
   }
 }
 
-let productosPendientes = [];
+function mostrarBotonVolverInicioMatzah() {
+  if (!document.getElementById('botonVolverInicioMatzah')) {
+    const botonVolver = document.createElement('button');
+    botonVolver.id = 'botonVolverInicioMatzah';
+    botonVolver.innerText = '⬅️ Volver a inicio Pesaj';
 
-async function cargarPendientes() {
-  const contenedor = document.getElementById('listaPendientes');
+    botonVolver.style.position = 'fixed';
+    botonVolver.style.bottom = '9rem';
+    botonVolver.style.right = '1rem';
+    botonVolver.style.backgroundColor = '#e67e22'; // Naranja
+    botonVolver.style.color = 'white';
+    botonVolver.style.border = 'none';
+    botonVolver.style.borderRadius = '12px';
+    botonVolver.style.padding = '0.5rem 1rem';
+    botonVolver.style.zIndex = '9999';
+    botonVolver.style.boxShadow = '0 2px 6px rgba(0,0,0,0.2)';
+    botonVolver.style.cursor = 'pointer';
+
+    botonVolver.addEventListener('click', () => {
+      document.getElementById('buzonRevisionesMatzah').style.display = 'none';
+      document.getElementById('adminPanelMatzah').style.display = 'none';
+
+      document.getElementById('formBusquedaMatzah').style.display = 'block';
+      document.getElementById('resultadoMatzah').style.display = 'block';
+
+      const titulo = document.getElementById('titulo');
+      const tituloPrincipal = document.getElementById('tituloPrincipal');
+      if (titulo) titulo.textContent = "🥖 Escáner de Productos para Pesaj (Matzah)";
+      if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos para Pesaj (Matzah)";
+      document.title = "Escáner de Productos Pesaj";
+
+      activarTabMatzah('tabBuscarMatzah');
+
+      botonVolver.remove();
+    });
+
+    document.body.appendChild(botonVolver);
+  }
+}
+
+let productosPendientesMatzah = [];
+
+async function cargarPendientesMatzah() {
+  const contenedor = document.getElementById('listaPendientesMatzah');
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ accion: "listar" })
     });
 
-    if (!res.ok) throw new Error("Error al listar productos");
+    if (!res.ok) throw new Error("Error al listar productos (Pesaj)");
 
     const productos = await res.json();
-    productosPendientes = productos;
+    productosPendientesMatzah = productos;
 
     if (!productos.length) {
-      contenedor.innerHTML = "<p>🎉 No hay productos pendientes.</p>";
+      contenedor.innerHTML = "<p>🎉 No hay productos pendientes para Pesaj.</p>";
       return;
     }
 
@@ -438,73 +477,69 @@ async function cargarPendientes() {
       tarjeta.innerHTML = `
         <strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})<br>
         <small>Ingredientes:</small><br>
-        <span>${producto.ingredientes.join(', ')}</span><br><br>
-        <button onclick="aprobarProducto(${index})">✔️ Aprobar</button>
-        <button onclick="rechazarProducto(${index})" style="background-color:#e74c3c">❌ Rechazar</button>
+      <span>${
+  producto.ingredientes.map(ing => {
+    const normalizado = normalizeYsingularizar(ing);
+    if (isTameMatzah(normalizado)) {
+      return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+    } else if (isLeudante(normalizado)) {
+      return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+    } else {
+      return `<span>${ing}</span>`;
+    }
+  }).join(", ")
+}</span><br><br>
+
+        <button onclick="aprobarProductoMatzah(${index})">✔️ Aprobar</button>
+        <button onclick="rechazarProductoMatzah(${index})" style="background-color:#e74c3c">❌ Rechazar</button>
       `;
       contenedor.appendChild(tarjeta);
     });
 
   } catch (err) {
-    contenedor.innerHTML = "<p style='color:red;'>❌ Error al cargar pendientes.</p>";
+    contenedor.innerHTML = "<p style='color:red;'>❌ Error al cargar pendientes de Pesaj.</p>";
     console.error(err);
   }
 }
 
-async function aprobarProducto(index) {
-  const producto = productosPendientes[index];
+async function aprobarProductoMatzah(index) {
+  const producto = productosPendientesMatzah[index];
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api-matzah.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'aprobar', producto })
     });
 
-    if (!res.ok) throw new Error('Error al aprobar producto');
-    cargarPendientes();
+    if (!res.ok) throw new Error('Error al aprobar producto Pesaj');
+    cargarPendientesMatzah();
   } catch (err) {
-    console.error('❌ Error al aprobar producto:', err);
+    console.error('❌ Error al aprobar producto Pesaj:', err);
   }
 }
 
-async function rechazarProducto(index) {
-  const producto = productosPendientes[index];
+async function rechazarProductoMatzah(index) {
+  const producto = productosPendientesMatzah[index];
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api-matzah.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'rechazar', producto })
     });
 
-    if (!res.ok) throw new Error('Error al rechazar producto');
-    cargarPendientes();
+    if (!res.ok) throw new Error('Error al rechazar producto Pesaj');
+    cargarPendientesMatzah();
   } catch (err) {
-    console.error('❌ Error al rechazar producto:', err);
-  }
-}
-function restaurarFlexBusquedaMatzah() {
-  const formBusquedaMatzah = document.getElementById('formBusquedaMatzah');
-  if (formBusquedaMatzah) {
-    formBusquedaMatzah.style.display = 'flex';
-    if (window.innerWidth >= 768) {
-      formBusquedaMatzah.style.flexDirection = 'row';
-      formBusquedaMatzah.style.justifyContent = 'center';
-      formBusquedaMatzah.style.alignItems = 'flex-start';
-    } else {
-      formBusquedaMatzah.style.flexDirection = 'column';
-    }
-    formBusquedaMatzah.style.flexWrap = 'wrap';
-    formBusquedaMatzah.style.gap = '1rem';
+    console.error('❌ Error al rechazar producto Pesaj:', err);
   }
 }
 
-
-async function buscarEnOpenFoodFacts(nombre, marca, ean, pais = "") {
-console.log("🌐 Consultando con:", { nombre, marca, ean, pais });
+async function buscarEnOpenFoodFactsMatzah(nombre, marca, ean, pais = "") {
+  console.log("🌐 Consultando para Pesaj con:", { nombre, marca, ean, pais });
 
   try {
     let resultados = [];
@@ -516,122 +551,93 @@ console.log("🌐 Consultando con:", { nombre, marca, ean, pais });
       const data = await res.json();
       if (data.product) productos.push(data.product);
     } else {
-const nombreBusqueda = encodeURIComponent(nombre);
-const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
+      const nombreBusqueda = encodeURIComponent(nombre);
+      const url = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${nombreBusqueda}&search_simple=1&action=process&json=1&page_size=5`;
       const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
       const data = await res.json();
       productos = data.products || [];
+
       // 🔎 Filtrado por coincidencia parcial en nombre + marca
-const claveNombre = normalizeYsingularizar(nombre);
-const claveMarca = normalizeYsingularizar(marca);
+      const claveNombre = normalizeYsingularizar(nombre);
+      const claveMarca = normalizeYsingularizar(marca);
 
-productos = productos.filter(p => {
-  const nombreProd = normalizeYsingularizar(p.product_name || '');
-  const marcaProd = normalizeYsingularizar(p.brands || '');
+      productos = productos.filter(p => {
+        const nombreProd = normalizeYsingularizar(p.product_name || '');
+        const marcaProd = normalizeYsingularizar(p.brands || '');
 
-  const nombreCoincide = nombreProd.includes(claveNombre);
-  const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
+        const nombreCoincide = nombreProd.includes(claveNombre);
+        const marcaCoincide = !claveMarca || marcaProd.includes(claveMarca);
 
-  return nombreCoincide || marcaCoincide;
-});
-
-
-
+        return nombreCoincide || marcaCoincide;
+      });
     }
 
-    // Filtrar por país si se indica
-if (pais) {
-  const productosFiltrados = productos.filter(p => {
-    const tags = (p.countries_tags || []).map(c => c.replace('en:', '').toLowerCase());
-    const texto = (p.countries || "").toLowerCase();
-    return tags.includes(pais.toLowerCase()) || texto.includes(pais.toLowerCase());
-  });
+    // 🔵 Filtro adicional por país
+    if (pais) {
+      const productosFiltrados = productos.filter(p => {
+        const tags = (p.countries_tags || []).map(c => c.replace('en:', '').toLowerCase());
+        const texto = (p.countries || "").toLowerCase();
+        return tags.includes(pais.toLowerCase()) || texto.includes(pais.toLowerCase());
+      });
 
-  // Solo si hay productos filtrados por país, usamos ese filtro
-  if (productosFiltrados.length > 0) {
-    productos = productosFiltrados;
-  }
-}
+      if (productosFiltrados.length > 0) {
+        productos = productosFiltrados;
+      }
+    }
 
+    // 🔥 Procesar productos encontrados
     for (const prod of productos) {
-    if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
+      console.log(prod.image_url);
 
 
-    const etiquetasIgnoradas = ['sans gluten', 'gluten free', 'no gluten', 'sin gluten'];
+  if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
 
-const ingredientes = prod.ingredients_text.toLowerCase()
-  .split(/,|\./)
-  .map(i => i.trim())
-  .filter(i => i.length > 1 && !etiquetasIgnoradas.includes(i));
+  const ingredientes = (prod.ingredients_text || "")
+    .toLowerCase()
+    .split(/,|\./)
+    .map(i => i.trim())
+    .filter(i => i.length > 1);
 
-     const ingredientesTame = [];
-const ingredientesLeud = [];
-
-for (const ing of ingredientes) {
-  const norm = normalizeYsingularizar(ing);
-  if (ingredientesTameMatzah.includes(norm)) {
-    ingredientesTame.push(ing);
-  } else if (ingredientesLeudantes.includes(norm)) {
-    ingredientesLeud.push(ing);
-  }
-}
-
-const resultado = ingredientesTame.length > 0 ? 'Tame'
-                : ingredientesLeud.length > 0 ? 'Leudado'
-                : 'Tahor';
+  const { tameDetectado, leudanteDetectado } = analizarIngredientesMatzah(ingredientes);
 
 const htmlIng = ingredientes.map(ing => {
-  if (isTameMatzah(ing)) return `<span style="color:red">${ing}</span>`;
-  if (isLeudante(ing)) return `<span style="color:orange">${ing}</span>`;
-  return `<span>${ing}</span>`;
-}).join(', ');
+  const normalizado = normalizeYsingularizar(ing);
+  if (isTameMatzah(normalizado)) {
+    return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+  } else if (isLeudante(normalizado)) {
+    return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+  } else {
+    return `<span>${ing}</span>`;
+  }
+}).join(", ");
 
 
-      let html = `
-        <details class="detalle-producto">
-          <summary><strong>${prod.product_name}</strong> – ${prod.brands || "Marca desconocida"}</summary>
-          ${prod.image_url ? `<img src="${prod.image_url}" alt="Imagen del producto" style="max-width:200px;">` : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-          <p><strong>Ingredientes:</strong> ${htmlIng}</p>
-      `;
-
-     if (ingredientesTame.length > 0) {
-  html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-  html += `<ul style="color:red;">${ingredientesTame.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
-}
-if (ingredientesLeud.length > 0) {
-  html += `<p><strong style="color:orange;">Ingredientes leudantes detectados:</strong><br>`;
-  html += `<ul style="color:orange;">${ingredientesLeud.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
-}
-
-
-html += `<p style="color:${resultado === 'Tame' ? 'red' : resultado === 'Leudado' ? 'orange' : 'green'};">
-  ${resultado === 'Tame' ? '❌ No Apto (Tame)'
-  : resultado === 'Leudado' ? '⚠️ Contiene Leudante'
-  : '✅ Apto (sin levadura)'}</p>
+const resultadoHTML = `
+<details class="detalle-producto">
+  <summary><strong>${nombreProducto}</strong> – ${marcaProducto || "Marca desconocida"}</summary>
+  ${imagenProducto ? `<img src="${imagenProducto}" alt="Imagen del producto" style="max-width:200px;">` : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+  <p><strong>Ingredientes:</strong> ${ingredientesHTML}</p>
+  <p>${evaluacionFinal}</p>
 </details>
 `;
 
 
-      resultados.push(html);
-      if (resultados.length >= 5) break;
+  resultados.push(html);
+
+  if (resultados.length >= 5) break;
+
     }
 
     return resultados.length > 0 ? resultados : null;
 
   } catch (e) {
-    console.error("❌ Error al consultar:", e);
+    console.error("❌ Error al consultar OpenFoodFacts:", e);
     return null;
   }
 }
-function scrollAResultados(intentos = 0) {
-  // Detectar cuál div de resultados está visible (tahor o matzah)
-  const resultadoTahor = document.getElementById('analisisResultado');
-  const resultadoMatzah = document.getElementById('resultadoMatzah');
 
-  const resultados = resultadoMatzah?.offsetParent !== null
-    ? resultadoMatzah
-    : resultadoTahor;
-
+function scrollAResultadosMatzah(intentos = 0) {
+  const resultados = document.getElementById('resultadoMatzah');
   if (!resultados) return;
 
   if (resultados.offsetHeight > 0 || intentos >= 5) {
@@ -639,117 +645,51 @@ function scrollAResultados(intentos = 0) {
     return;
   }
 
-  setTimeout(() => scrollAResultados(intentos + 1), 50);
+  setTimeout(() => scrollAResultadosMatzah(intentos + 1), 50);
 }
 
+async function buscarSoloPorEanMatzah(ean) {
+  const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
 
+  nombreGlobalMatzah = '';
+  marcaGlobalMatzah = '';
+  eanGlobalMatzah = ean;
 
-document.getElementById('btnAbrirTahor')?.addEventListener('click', abrirTahor);
+  resultadoMatzah.innerHTML = '<p><strong>🔍 Buscando solo por Código de Barras en Pesaj...</strong></p>';
+  scrollAResultadosMatzah();
 
+  const resultadosHTML = [];
+  const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
+  if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
 
-document.addEventListener("DOMContentLoaded", () => {
-  const form = document.getElementById("formRegistroManualMatzah");
-  if (!form) return;
-
-  form.addEventListener("submit", async (e) => {
-    e.preventDefault();
-
-    if (verificarConflictoEnvioMatzah()) return;
-
-    const producto = {
-      marca: document.getElementById("marcaManualMatzah").value.trim(),
-      nombre: document.getElementById("nombreManualMatzah").value.trim(),
-      pais: document.getElementById("paisManualMatzah").value.trim(),
-      ean: document.getElementById("eanManualMatzah").value.trim() || "",
-      imagen: document.getElementById("imagenManualMatzah").value.trim() || "imagen no disponible",
-      ingredientes: document.getElementById("ingredientesManualMatzah").value
-        .split(",")
-        .map(i => i.trim()),
-      estado: document.querySelector('input[name="estadoMatzah"]:checked')?.value === "true",
-      esMatzah: true
-    };
-
-    try {
-      const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ accion: "registrar", producto })
-      });
-
-      if (!res.ok) {
-        document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al registrar producto.";
-        console.error("Error HTTP:", res.status);
-        return;
-      }
-
-      form.reset();
-
-      const tiempoFuturo = Date.now() + 30000;
-      localStorage.setItem("envioEnCursoMatzah", "true");
-      localStorage.setItem("envioTiempoMatzah", tiempoFuturo);
-
-      mostrarMensajeTemporalMatzah("📡 Enviando producto al servidor...", 30);
-
-    } catch (err) {
-      document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al conectar con el servidor.";
-      console.error(err);
-    }
-  });
-});
-
-  
-function verificarConflictoEnvioMatzah() {
-  const envioActivo = localStorage.getItem("envioEnCursoMatzah");
-  const tiempoFinal = parseInt(localStorage.getItem("envioTiempoMatzah"), 10);
-  const ahora = Date.now();
-
-  if (envioActivo && tiempoFinal > ahora) {
-    const segundosRestantes = Math.ceil((tiempoFinal - ahora) / 1000);
-    document.getElementById("mensajeUsuarioMatzah").innerHTML = `
-      ⏳ Otro usuario está registrando un producto.<br>
-      Por favor, espera <strong>${segundosRestantes}</strong> segundos antes de intentar de nuevo.
-    `;
-    return true;
+  if (resultadosHTML.length < 5) {
+    resultadoMatzah.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
+    const resultadoOFF = await buscarEnOpenFoodFactsMatzah('', '', ean, pais);
+    if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
   }
-  return false;
-}
-function mostrarMensajeTemporalMatzah(mensaje, segundos = 30) {
-  const contenedor = document.getElementById("mensajeUsuarioMatzah");
-  contenedor.innerHTML = `
-    <div>
-      ⏳ ${mensaje}<br>
-      Espera <strong id="tiempoRestanteMatzah">${segundos}</strong> segundos mientras se actualiza la base de datos...
-      <div id="barraProgreso"><div id="barraProgresoInterna" style="width:0%; background:orange; height:8px;"></div></div>
-    </div>
-  `;
 
-  let tiempoRestante = segundos;
-  const progreso = document.getElementById("barraProgresoInterna");
-  const tiempoTexto = document.getElementById("tiempoRestanteMatzah");
+  if (resultadosHTML.length > 0) {
+    resultadoMatzah.innerHTML = `
+      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
+      ${resultadosHTML.slice(0, 5).join('<hr>')}
+    `;
+  } else {
+    resultadoMatzah.innerHTML = `
+      <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
+      <p>¿Nos ayudas a registrarlo? 🙌</p>
+      <button onclick="mostrarFormularioRegistroMatzah()">📝 Registrar manualmente</button>
+    `;
+  }
 
-  const intervalo = setInterval(() => {
-    tiempoRestante--;
-    tiempoTexto.textContent = tiempoRestante;
-    const porcentaje = ((segundos - tiempoRestante) / segundos) * 100;
-    progreso.style.width = `${porcentaje}%`;
-
-    if (tiempoRestante <= 0) {
-      clearInterval(intervalo);
-      contenedor.innerHTML = "✅ Producto enviado para revisión. Puedes continuar.";
-      localStorage.removeItem("envioEnCursoMatzah");
-      localStorage.removeItem("envioTiempoMatzah");
-    }
-  }, 1000);
+  setTimeout(() => scrollAResultadosMatzah(), 150);
 }
 
-  // 🔁 Llenar select de cámaras desde el inicio
-async function inicializarListaCamaras(selectId) {
+async function inicializarListaCamarasMatzah(selectId) {
   const select = document.getElementById(selectId);
   if (!select) return;
 
   try {
-    const codeReader = new ZXing.BrowserBarcodeReader();
-    const devices = await codeReader.getVideoInputDevices();
+    const devices = await codeReaderMatzah.getVideoInputDevices();
 
     select.innerHTML = '';
     devices.forEach((device, index) => {
@@ -764,97 +704,43 @@ async function inicializarListaCamaras(selectId) {
     }
 
   } catch (err) {
-    console.error('❌ Error al inicializar cámaras:', err);
+    console.error('❌ Error al inicializar cámaras en Matzah:', err);
     select.innerHTML = '<option>Error acceso a cámara</option>';
   }
 }
 
+// Seleccionar cámara para matzah
+const selectCamaraMatzah = document.getElementById('selectCamaraMatzah');
 
- document.getElementById('selectCamaraMatzah')?.addEventListener('change', async () => {
+selectCamaraMatzah?.addEventListener('change', () => {
   if (currentPreviewStream) {
     currentPreviewStream.getTracks().forEach(track => track.stop());
     currentPreviewStream = null;
   }
 
-  // Reiniciar escaneo con nueva cámara seleccionada
-  const selectedDeviceId = document.getElementById('selectCamaraMatzah').value;
-  const previewElem = document.querySelector('#resultadoMatzah video');
-  if (!previewElem) return;
+  codeReaderMatzah.reset();
+codeReaderMatzah = new ZXing.BrowserBarcodeReader();
 
-  try {
-    const stream = await navigator.mediaDevices.getUserMedia({
-      video: {
-        deviceId: { exact: selectedDeviceId },
-        facingMode: { ideal: "environment" },
-        width: { ideal: 1280 },
-        height: { ideal: 720 }
-      }
-    });
 
-    previewElem.srcObject = stream;
-    await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
-    currentPreviewStream = stream;
+  resultadoMatzah.innerHTML = `
+    <p style="color:gray;">📷 Cámara reiniciada. Pulsa nuevamente "Escanear código".</p>
+  `;
+});
 
-    codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
-      if (result) {
-        document.getElementById('eanEntradaMatzah').value = result.text;
-        buscarSoloPorEanMatzah(result.text);
+function volverAlMenuMatzah() {
+  document.title = "Escáner de Productos Lev 11 Éxodo 12";
+  document.getElementById("tituloPrincipal").textContent = "Escáner de Productos Lev 11 Éxodo 12";
+  document.getElementById('bloqueTahor').style.display = 'none';
+  document.getElementById('bloqueMatzah').style.display = 'none';
+  localStorage.removeItem('ultimaSeccionActiva');
+}
 
-        codeReader.reset();
-        if (currentPreviewStream) {
-          currentPreviewStream.getTracks().forEach(track => track.stop());
-          currentPreviewStream = null;
-        }
-      }
-    });
-
-  } catch (err) {
-    console.error('❌ Error al reiniciar escaneo con nueva cámara:', err);
+document.addEventListener('DOMContentLoaded', () => {
+  const seccionGuardada = localStorage.getItem("ultimaSeccionActiva");
+  if (seccionGuardada === "matzah") {
+    mostrarSeccionMatzah();
+  } else {
+    mostrarSeccionTahor(); // por defecto
   }
 });
 
-async function buscarSoloPorEanMatzah(ean) {
-  const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
-
-  nombreGlobal = '';
-  marcaGlobal = '';
-  eanGlobal = ean;
-
-  resultadoDiv.innerHTML = '<p><strong>🔍 Buscando solo por Código de Barras...</strong></p>';
-  resultadoDiv.style.display = 'block';
-
-  scrollAResultados();
-
-  const resultadosHTML = [];
-  const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
-  if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
-
-  if (resultadosHTML.length < 5) {
-    resultadoDiv.innerHTML += `
-  <div style="text-align:center">
-    <div class="spinner"></div>
-    <p><strong>🌐 Consultando en más de 3,783,408 productos...</strong></p>
-  </div>
-`;
-
-    const resultadoOFF = await buscarEnOpenFoodFacts('', '', ean, pais);
-    if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
-  }
-
-  if (resultadosHTML.length > 0) {
-    resultadoDiv.innerHTML = `
-      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
-    `;
-  } else {
-    resultadoDiv.innerHTML = `
-      <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
-      <p>¿Nos ayudas a registrarlo? 🙌</p>
-      <button onclick="mostrarFormularioRegistro()">📝 Registrar manualmente</button>
-    `;
-  }
-
-  setTimeout(() => scrollAResultados(), 150);
-}
-
- })();
