@@ -397,7 +397,7 @@ function mostrarFormularioRegistro() {
 
   resultadoDiv.innerHTML = '';
   mensajeUsuario.innerHTML = '';
-
+}
   // ➡️ Ocultar el botón flotante de Tahor
   const botonRegistrar = document.getElementById('tabRegistrar');
   if (botonRegistrar) botonRegistrar.style.display = 'none';
