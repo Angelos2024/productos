@@ -263,10 +263,28 @@ botonBusqueda.addEventListener('click', async () => {
   }, 150);
 });
 
+function cerrarMenu() {
+  const menu = document.getElementById('menu');
+  if (menu) {
+    menu.style.display = 'none';  // 🔥 Oblígalo a cerrar, sin preguntar
+  }
+}
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('#menu button').forEach(boton => {
+    boton.addEventListener('click', () => {
+      cerrarMenu(); // 🔥 Cierra sí o sí al dar clic en cualquier botón del menú
+    });
+  });
+});
+
+
 function abrirTahor() {
+
+  cerrarMenu(); // 👈 Cierra el menú apenas cambias a Tahor
   document.getElementById('bloqueTahor').style.display = 'block';
   document.getElementById('bloqueMatzah').style.display = 'none';
-  
+
+
   const titulo = document.getElementById('titulo');
   const tituloPrincipal = document.getElementById('tituloPrincipal');
   if (titulo) titulo.textContent = "🧪 Escáner de Productos Tahor";
@@ -276,14 +294,14 @@ function abrirTahor() {
 
   const encabezado = document.getElementById('encabezado');
   if (encabezado) {
-    encabezado.classList.remove('pesaj'); // 🔥 Quitar color marrón de Pesaj
-    encabezado.classList.add('tahor');     // 🔥 Agregar color de Tahor
+    encabezado.classList.remove('pesaj');
+    encabezado.classList.add('tahor');
   }
 
   const botonesFlotantes = document.querySelectorAll('#tabRegistrar, #tabBuscar, #tabBuzon');
   botonesFlotantes.forEach(boton => {
     if (boton) {
-      boton.style.backgroundColor = '#00695c'; // Verde oscuro para Tahor
+      boton.style.backgroundColor = '#00695c';
     }
   });
 
@@ -692,10 +710,13 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function toggleMenu() {
-  const menu = document.getElementById("menu");
-  const visible = menu.style.display === "block";
-  menu.style.display = visible ? "none" : "block";
+  const menu = document.getElementById('menu');
+  if (menu) {
+    const visible = window.getComputedStyle(menu).display !== 'none';
+    menu.style.display = visible ? 'none' : 'block';
+  }
 }
+
 
 // 👇 Escucha clics fuera del menú para cerrarlo
 document.addEventListener("click", function (e) {
@@ -714,6 +735,7 @@ document.addEventListener("click", function (e) {
 
 
 function mostrarSeccionTahor() {
+  cerrarMenu(); // ⬅️ Agregar aquí
   document.getElementById("bloqueTahor").style.display = "block";
   document.getElementById("bloqueMatzah").style.display = "none";
   document.title = "Escáner de Productos Tame / Tahor";
@@ -725,6 +747,11 @@ function mostrarSeccionTahor() {
     encabezado.classList.remove('pesaj');
     encabezado.classList.add('tahor');
   }
+
+  // 🔥 Cerrar el menú al cambiar de área
+  document.getElementById("menu").style.display = "none";
+
+
 
   // 🔥 Cambiar color de botones grandes (tabs)
   const botonRegistrar = document.getElementById('tabRegistrar');
@@ -753,6 +780,7 @@ function mostrarSeccionTahor() {
 }
 
 function mostrarSeccionMatzah() {
+  cerrarMenu();
   document.getElementById("bloqueTahor").style.display = "none";
   document.getElementById("bloqueMatzah").style.display = "block";
   document.title = "Escáner de Productos para Pésaj";
@@ -764,6 +792,10 @@ function mostrarSeccionMatzah() {
     encabezado.classList.remove('tahor');
     encabezado.classList.add('pesaj');
   }
+
+  // 🔥 Cerrar el menú al cambiar de área
+  document.getElementById("menu").style.display = "none";
+
 
   // 🔥 Cambiar color de botones grandes (tabs)
   const botonRegistrar = document.getElementById('tabRegistrar');
@@ -789,6 +821,7 @@ function mostrarSeccionMatzah() {
 
   localStorage.setItem("ultimaSeccionActiva", "matzah");
   document.getElementById("menu").style.display = "none";
+
 }
 
 
