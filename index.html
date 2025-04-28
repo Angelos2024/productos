@@ -478,7 +478,7 @@ function cambiarVista(tipo) {
     bloqueMatzah.style.display = 'block';
     titulo.style.color = '#895510'; // Color Pesaj
   } else {
-    titulo.textContent = '🧪 Escáner de Productos Tahor';
+    titulo.textContent = '🧪 Escáner de Productos Tame / Tahor';
     encabezado.className = 'tahor';
     body.className = 'tahor';
     bloqueTahor.style.display = 'block';
@@ -498,7 +498,7 @@ function abrirTahor() {
   const encabezado = document.getElementById('encabezado');
   const body = document.body;
 
-  if (titulo) titulo.textContent = '🧪 Escáner de Productos Tahor / Tame';
+  if (titulo) titulo.textContent = '🧪 Escáner de Productos Tahor';
   if (encabezado) encabezado.className = 'tahor';
   if (body) body.className = 'tahor';
 }
@@ -517,17 +517,20 @@ function abrirMatzah() {
   if (body) body.className = 'pesaj';
 }
 
-
+function toggleMenu() {
+  const menu = document.getElementById('menu');
+  menu.style.display = (menu.style.display === 'flex' ? 'none' : 'flex');
+}
 </script>
 
-<!-- BOTÓN FLOTANTE DEL MENÚ EN LUGAR DE botonVolverMenu -->
 <header class="tahor" id="encabezado">
-  <button class="menu-boton" onclick="toggleMenu()">☰ Menú</button>
-  <div id="titulo">🧪 Escáner de Productos Tahor</div>
+  <div class="header-contenido">
+    <button class="menu-boton" onclick="toggleMenu()">☰ Menú</button>
+    <div id="titulo">🧪 Escáner de Productos Tahor</div>
+  </div>
   <div class="menu-desplegable" id="menu">
-<button onclick="abrirMatzah()">🍞 Escáner Pesaj (sin jametz)</button>
-
-    <button onclick="mostrarSeccionTahor()">🧪 Escáner Tahor / Tame</button>
+    <button onclick="abrirMatzah()">🍞 Escáner Pesaj (sin jametz)</button>
+    <button onclick="mostrarSeccionTahor()">🧪 Escáner Tahor</button>
   </div>
 </header>
 
