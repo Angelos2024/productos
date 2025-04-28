@@ -405,7 +405,7 @@ function mostrarFormularioRegistro() {
   // ➡️ Ocultar también el de Matzah si existe
   const botonRegistrarMatzah = document.getElementById('tabRegistrarMatzah');
   if (botonRegistrarMatzah) botonRegistrarMatzah.style.display = 'none';
-}
+
 
 
 
