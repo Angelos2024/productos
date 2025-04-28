@@ -4,12 +4,6 @@
   color: #555;
   margin-bottom: 0.3rem;
 }
-@media (max-width: 500px) {
-  header.pesaj .menu-boton,
-  header.tahor .menu-boton {
-    margin-top: 50px;
-  }
-}
 
 body {
   margin: 0;
@@ -354,21 +348,27 @@ height: 35px;
 #titulo {
   font-size: 1.1rem;
   font-weight: bold;
+  white-space: nowrap;
+}
+.header-contenido {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
   flex: 1;
-  margin-left: -110px;
-  text-align: center;
+  justify-content: flex-start;
+  padding-left: 1rem;
 }
 
+
 .menu-boton {
-  position: relative; /* necesario */
   background: inherit;
   color: white;
   border: none;
   padding: 0.5rem 1rem;
   border-radius: 8px;
   cursor: pointer;
-  z-index: 1;
 }
+
 #registroManual .contenedor {
   max-width: 500px; /* 👈 más angosto */
   margin: 0 auto;   /* 👈 centrado */
@@ -428,14 +428,15 @@ header.pesaj .menu-boton {
 }
 .menu-desplegable {
   position: absolute;
-  top: 2rem;
-  left: 1rem;
-  font-size: 13px;
+  top: 100%; /* justo debajo del header */
+  left: 0;
   background: white;
   border: 1px solid #ccc;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   display: none;
   flex-direction: column;
+  min-width: 200px;
+  z-index: 1001;
 }
 header.tahor {
   background-color: #37474f;
@@ -466,14 +467,27 @@ header.pesaj .menu-boton {
 
 
 .menu-desplegable button {
-  display: block;
   width: 100%;
+  background: white;
   color: black;
   padding: 0.7rem;
-  background: white;
   border: none;
   text-align: left;
   cursor: pointer;
+}
+
+.menu-desplegable button:hover {
+  background-color: #f0f0f0;
+}
+/* Responsivo */
+@media (max-width: 600px) {
+  #titulo {
+    font-size: 1rem;
+  }
+  
+  .menu-boton {
+    padding: 0.4rem 0.8rem;
+  }
 }
 .tahor #titulo {
   color: white !important;
@@ -869,3 +883,86 @@ body.pesaj #tituloPrincipal {
   color: #895510;
 }
 
+.header-contenido {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex: 1;
+  padding: 0 1rem;
+  overflow: hidden;
+}
+
+#titulo {
+  font-size: 1.1rem;
+  font-weight: bold;
+  flex: 1;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.menu-boton {
+  background: inherit;
+  color: white;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  cursor: pointer;
+  flex-shrink: 0; /* No se achica el botón */
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+/* Estilos de la sección de menú desplegable */
+.menu-desplegable {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  display: none;
+  flex-direction: column;
+  min-width: 200px;
+  z-index: 1001;
+}
+
+.menu-desplegable button {
+  width: 100%;
+  background: white;
+  color: black;
+  padding: 0.7rem;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.menu-desplegable button:hover {
+  background-color: #f0f0f0;
+}
+
+/* ✅ Responsivo preciso */
+@media (max-width: 400px) {
+  #titulo {
+    font-size: 1rem;
+  }
+  .menu-boton {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 300px) {
+  #titulo {
+    font-size: 0.9rem;
+  }
+  .menu-boton {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* 👑 Aquí el recorte elegante que pides 👑 */
+@media (max-width: 250px) {
+  .
