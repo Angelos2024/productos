@@ -613,43 +613,42 @@ section#formBusquedaMatzah {
   margin-top: 0;
   color: #895510;
 }
-#tabRegistrar {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  background: #00796b;
-  color: white;
-  border: none;
-  padding: 0.5rem 0.8rem;
-  border-radius: 12px;
-  z-index: 9999;
-  cursor: pointer;
-  font-size: 0.7rem;
-  text-align: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  line-height: 1.2;
+#tabRegistra {
+    position: fixed;
+    top: 1.4rem;
+    right: -10px;
+    background: #00796b !important;
+    color: white;
+    border: none;
+    padding: 0.25rem 0.28rem;
+    border-radius: 12px;
+    z-index: 9999;
+    cursor: pointer;
+    font-size: 0.7rem;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    line-height: 1.2;
 }
 
 #tabRegistrar:hover {
   background: #2980b9;
 }
 #tabRegistrarMatzah {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  background: #00796b !important; /* Marrón Pesaj */
-  color: white;
-  border: none;
-  padding: 0.5rem 0.8rem;
-  border-radius: 12px;
-  z-index: 9999;
-  cursor: pointer;
-  font-size: 0.7rem;
-  text-align: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  line-height: 1.2;
+    position: fixed;
+    top: 1.4rem;
+    right: -10px;
+    background: #00796b !important;
+    color: white;
+    border: none;
+    padding: 0.25rem 0.28rem;
+    border-radius: 12px;
+    z-index: 9999;
+    cursor: pointer;
+    font-size: 0.7rem;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    line-height: 1.2;
 }
-
 #tabRegistrarMatzah:hover {
   background: #a77b3b;
 }
