@@ -269,10 +269,10 @@ function abrirTahor() {
   
   const titulo = document.getElementById('titulo');
   const tituloPrincipal = document.getElementById('tituloPrincipal');
-  if (titulo) titulo.textContent = "🧪 Escáner de Productos Tame / Tahor";
-  if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos Tame / Tahor";
+  if (titulo) titulo.textContent = "🧪 Escáner de Productos Tahor";
+  if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos Tahor";
 
-  document.title = "Escáner de Productos Tame / Tahor";
+  document.title = "Escáner de Productos Tahor";
 
   const encabezado = document.getElementById('encabezado');
   if (encabezado) {
@@ -385,9 +385,9 @@ function mostrarBotonVolverInicio() {
       // ✅ Restaurar encabezado
       const titulo = document.getElementById('titulo');
       const tituloPrincipal = document.getElementById('tituloPrincipal');
-      if (titulo) titulo.textContent = "🧪 Escáner de Productos Tame / Tahor";
+      if (titulo) titulo.textContent = "🧪 Escáner de Productos Tahor";
       if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos Lev 11 Éxodo 12";
-      document.title = "Escáner de Productos Tame / Tahor";
+      document.title = "Escáner de Productos Tahor";
 
       // ✅ Activar pestaña de búsqueda
       activarTab('tabBuscar');
