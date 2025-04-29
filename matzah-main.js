@@ -310,7 +310,7 @@ if (resultadosHTML.length > 0) {
 
   setTimeout(() => {
     scrollAResultados();
-  }, 150);
+  }, 250);
 });
 function abrirMatzah() {
     cerrarMenu(); // 👈 Cierra el menú apenas cambias a Matzah
@@ -681,7 +681,7 @@ async function buscarSoloPorEanMatzah(ean) {
     `;
   }
 
-  setTimeout(() => scrollAResultadosMatzah(), 150);
+  setTimeout(() => scrollAResultadosMatzah(), 250);
 }
 
 async function inicializarListaCamarasMatzah(selectId) {
