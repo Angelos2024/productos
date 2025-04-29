@@ -232,7 +232,7 @@ botonBusquedaMatzah.addEventListener('click', async () => {
   eanGlobalMatzah = ean;
 
   resultadoMatzah.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
-  scrollAResultados();
+  scrollAResultadosMatzah();
 
   const resultadosHTML = [];
   const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
@@ -309,7 +309,7 @@ if (resultadosHTML.length > 0) {
 
 
   setTimeout(() => {
-    scrollAResultados();
+    scrollAResultadosMatzah();
   }, 250);
 });
 function abrirMatzah() {
