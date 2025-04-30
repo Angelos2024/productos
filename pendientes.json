@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "marca": "Marinela",
+    "nombre": "Dalmata",
+    "pais": "México",
+    "ean": "7501000105236",
+    "imagen": "https://tse1.mm.bing.net/th/id/OIP.BHrFw1f7CN6_AYyhmlkGoQHaOM?pid=Api",
+    "ingredientes": [
+      "harina de trigo",
+      "grasas vegetales",
+      "azúcar",
+      "jarabe de glucosa y fructosa",
+      "aceite vegetal",
+      "estabilizantes",
+      "leche en polvo",
+      "pasta de avellanas",
+      "almidón",
+      "cacao en polvo",
+      "sal",
+      "grasas vegetales totalmente hidrogenadas",
+      "emulsionantes",
+      "suero de leche en polvo",
+      "lactosa",
+      "aromatizantes",
+      "levadura",
+      "proteínas de la leche",
+      "correctores de acidez",
+      "antioxidantes y conservadores"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
+  }
+]
