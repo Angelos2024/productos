@@ -226,10 +226,43 @@ botonBusqueda.addEventListener('click', async () => {
   scrollAResultados();
 
   const resultadosHTML = [];
-  const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
-  if (htmlLocales) {
-    resultadosHTML.push(...htmlLocales.split('<hr>'));
+ const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+if (htmlLocales) {
+  const partes = htmlLocales.split('<hr>');
+
+  for (const htmlProducto of partes) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlProducto, 'text/html');
+    const nombreProducto = doc.querySelector('strong')?.textContent || "";
+    const ingredientesTexto = doc.querySelector('p')?.textContent || "";
+    const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
+
+    let contieneTame = false;
+
+    const htmlIngredientes = ingredientes.map(ing => {
+      const normalizado = normalizeYsingularizar(ing);
+      if (typeof isTame === "function" && isTame(normalizado)) {
+        contieneTame = true;
+        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+      } else {
+        return `<span>${ing}</span>`;
+      }
+    }).join(", ");
+
+    const color = contieneTame ? "red" : "green";
+    const estado = contieneTame ? "❌ No Apto (Tame)" : "✅ Apto (Tahor)";
+
+    resultadosHTML.push(`
+      <details class="detalle-producto">
+        <summary><strong>${nombreProducto}</strong></summary>
+        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
+        <p style="color:${color}; font-weight:bold;">${estado}</p>
+      </details>
+    `);
   }
+}
+
 
   if (resultadosHTML.length < 5) {
    resultadoDiv.innerHTML = `
