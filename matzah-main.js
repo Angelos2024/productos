@@ -235,10 +235,51 @@ botonBusquedaMatzah.addEventListener('click', async () => {
   scrollAResultadosMatzah();
 
   const resultadosHTML = [];
-  const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
-  if (htmlLocales) {
-    resultadosHTML.push(...htmlLocales.split('<hr>'));
+const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
+if (htmlLocales) {
+  const partes = htmlLocales.split('<hr>');
+
+  for (const htmlProducto of partes) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlProducto, 'text/html');
+    const nombreProducto = doc.querySelector('strong')?.textContent || "";
+    const ingredientesTexto = doc.querySelector('p')?.textContent || "";
+    const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
+
+    const { tameDetectado, leudanteDetectado } = analizarIngredientesMatzah(ingredientes);
+
+    const htmlIngredientes = ingredientes.map(ing => {
+      const normalizado = normalizeYsingularizar(ing);
+      if (isTameMatzah(normalizado)) {
+        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+      } else if (isLeudante(normalizado)) {
+        return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+      } else {
+        return `<span>${ing}</span>`;
+      }
+    }).join(", ");
+
+    let colorEstado = 'green';
+    let textoEstado = '✅ Apto (Tahor)';
+    if (tameDetectado) {
+      colorEstado = 'red';
+      textoEstado = '❌ No Apto (Tame)';
+    } else if (leudanteDetectado) {
+      colorEstado = 'orange';
+      textoEstado = '⚠️ Contiene Leudante';
+    }
+
+    resultadosHTML.push(`
+      <details class="detalle-producto">
+        <summary><strong>${nombreProducto}</strong></summary>
+        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
+        <p style="color:${colorEstado}; font-weight:bold;">${textoEstado}</p>
+      </details>
+    `);
   }
+}
+
 
   if (resultadosHTML.length < 5) {
     resultadoMatzah.innerHTML = `
