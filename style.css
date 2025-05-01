@@ -70,20 +70,50 @@ textarea {
 #botonrevision1{
 background-color:#00695c !important;
   }
+
 button {
-  background-color: #3498db;
-  color: #fff;
-  border: none;
-  padding: 0.8rem 1.4rem;
-  margin-top: 0.6rem;
-  border-radius: 6px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+    background-color: #895510;
+    color: #fff;
+    border: none;
+    padding: 0.3rem 1.4rem;
+    margin-top: 0.6rem;
+    margin-bottom: 2px;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
 }
 
+
 button:hover {
-  background-color: #2980b9;
+  background-color: #2980b9 !important;
+}
+
+body.tahor .boton-escaneo {
+  background-color: #00695c !important;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.2rem;
+  padding: 0.4rem 0.7rem;
+}
+
+body.tahor .boton-escaneo:hover {
+  background-color: #004d40 !important;
+}
+
+body.matzah .boton-escaneo {
+  background-color: #895510 !important;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.2rem;
+  padding: 0.4rem 0.7rem;
+}
+
+body.matzah .boton-escaneo:hover {
+  background-color: #a77b3b !important;
 }
 
 .botones {
@@ -510,6 +540,19 @@ header.pesaj .menu-boton {
   gap: 1rem;
 }
 
+.select-camara-reducido {
+  margin-top: 0.2rem !important;
+  font-size: 0.75rem !important;
+  padding: 0.25rem 0.4rem !important;
+  border-radius: 6px !important;
+  border: 1px solid #ccc !important;
+  background-color: #fff !important;
+  width: auto !important;
+  max-width: 100% !important;
+  display: block !important;
+}
+
+
 .bloque {
   background: white;
   border-radius: 10px;
@@ -565,11 +608,7 @@ section#formBusquedaMatzah {
   align-items: flex-start;
   gap: 1rem;
 }
-@media (max-width: 767px) {
-  #formBusquedaMatzah {
-    flex-direction: column;
-  }
-}
+
 /* Colores dinámicos para Tahor y Matzah */
 .tahor-encabezado {
   background-color: #37474f !important;
@@ -605,6 +644,7 @@ section#formBusquedaMatzah {
   background: white;
   border-radius: 10px;
   padding: 1rem;
+  margin-top: 60px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
