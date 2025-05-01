@@ -18,8 +18,8 @@ async function verificarPendientesActualizado() {
 
 
 
-function mostrarMensajeTemporal(mensaje, segundos = 30) {
-  const contenedor = document.getElementById("mensajeUsuario");
+function mostrarMensajeTemporal(mensaje, segundos = 30, idContenedor = "mensajeUsuario") {
+  const contenedor = document.getElementById(idContenedor);
   contenedor.innerHTML = `
     <div>
       ⏳ ${mensaje}<br>
@@ -27,6 +27,7 @@ function mostrarMensajeTemporal(mensaje, segundos = 30) {
       <div id="barraProgreso"><div id="barraProgresoInterna"></div></div>
     </div>
   `;
+
 
   let tiempoRestante = segundos;
   const progreso = document.getElementById("barraProgresoInterna");
@@ -39,12 +40,31 @@ function mostrarMensajeTemporal(mensaje, segundos = 30) {
     const porcentaje = ((segundos - tiempoRestante) / segundos) * 100;
     progreso.style.width = `${porcentaje}%`;
 
-    if (tiempoRestante <= 0) {
-      clearInterval(intervalo);
-      contenedor.innerHTML = "✅ Producto enviado para revisión. Puedes continuar.";
-      localStorage.removeItem("envioEnCurso");
-      localStorage.removeItem("envioTiempo");
+if (tiempoRestante <= 0) {
+  clearInterval(intervalo);
+  contenedor.innerHTML = "✅ Producto enviado para revisión. Puedes continuar.";
+  localStorage.removeItem("envioEnCurso");
+  localStorage.removeItem("envioTiempo");
+
+  // Restaurar botón Matzah si aplica
+  if (idContenedor === "mensajeUsuarioMatzah") {
+    const boton = document.getElementById("enviarboton2");
+    if (boton) {
+      boton.disabled = false;
+      boton.textContent = "📝 Registrar producto";
     }
+  }
+
+  if (idContenedor === "mensajeUsuario") {
+  const boton = document.getElementById("botonrevision1");
+  if (boton) {
+    boton.disabled = false;
+    boton.textContent = "📝 Registrar producto";
+  }
+}
+
+}
+
   }, 1000);
 }
 
@@ -76,6 +96,74 @@ form.addEventListener("submit", async (e) => {
     return;
   }
 
+
+  const formMatzah = document.getElementById("formRegistroManualMatzah");
+if (formMatzah) {
+  formMatzah.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    if (verificarConflictoEnvio()) return;
+
+    const bloqueadoPorOtro = await verificarPendientesActualizado();
+    if (bloqueadoPorOtro) {
+      document.getElementById("mensajeUsuarioMatzah").innerHTML = `
+        ⏳ Otro usuario acaba de registrar un producto.<br>
+        Por favor espera 30 segundos antes de registrar otro.
+      `;
+      return;
+    }
+
+    const producto = {
+      marca: document.getElementById("marcaManualMatzah").value.trim(),
+      nombre: document.getElementById("nombreManualMatzah").value.trim(),
+      pais: document.getElementById("paisManualMatzah").value.trim(),
+      ean: document.getElementById("eanManualMatzah").value.trim() || "",
+      imagen: document.getElementById("imagenManualMatzah").value.trim() || "imagen no disponible",
+      ingredientes: document.getElementById("ingredientesManualMatzah").value
+        .split(",")
+        .map(i => i.trim()),
+      tahor: document.querySelector('input[name="estadoMatzah"]:checked')?.value === "true",
+      ingredientes_tame: []
+    };
+
+    try {
+      document.getElementById("enviarboton2").disabled = true;
+document.getElementById("enviarboton2").textContent = "⏳ Enviando...";
+
+      const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ accion: "registrar", producto })
+      });
+
+      if (!res.ok) {
+        document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al registrar producto.";
+        return;
+      }
+
+      formMatzah.reset();
+
+      const tiempoFuturo = Date.now() + 30000;
+      localStorage.setItem("envioEnCurso", "true");
+      localStorage.setItem("envioTiempo", tiempoFuturo);
+
+      mostrarMensajeTemporal("📡 Enviando producto sin jametz...", 30, "mensajeUsuarioMatzah");
+
+} catch (err) {
+  document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error de conexión.";
+  console.error("Error al enviar Matzah:", err);
+
+  // Restaurar botón si hubo error
+  const boton = document.getElementById("enviarboton2");
+  if (boton) {
+    boton.disabled = false;
+    boton.textContent = "📝 Registrar producto";
+  }
+}
+
+  });
+}
+
   // 2. Verificación remota de actividad reciente
   const otroUsuarioEnProceso = await verificarPendientesActualizado();
   if (otroUsuarioEnProceso) {
@@ -102,7 +190,11 @@ form.addEventListener("submit", async (e) => {
     };
 
     try {
+      document.getElementById("botonrevision1").disabled = true;
+document.getElementById("botonrevision1").textContent = "⏳ Enviando...";
+
       // Enviar inmediatamente
+
       const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -125,9 +217,17 @@ form.addEventListener("submit", async (e) => {
       // Mostrar mensaje con barra de progreso
       mostrarMensajeTemporal("📡 Enviando producto al servidor...", 30);
 
-    } catch (err) {
-      document.getElementById("mensajeUsuario").innerHTML = "❌ Error de conexión.";
-      console.error("Error al enviar:", err);
-    }
+} catch (err) {
+  document.getElementById("mensajeUsuario").innerHTML = "❌ Error de conexión.";
+  console.error("Error al enviar:", err);
+
+  // Restaurar botón si hubo error
+  const boton = document.getElementById("botonrevision1");
+  if (boton) {
+    boton.disabled = false;
+    boton.textContent = "📝 Registrar producto";
+  }
+}
+
   });
 });
