@@ -1,20 +1,29 @@
 async function verificarPendientesActualizado() {
   try {
+    // Verificar tiempo local primero
+    const localSubida = parseInt(localStorage.getItem("registroManualSubido"), 10);
+    const ahora = Date.now();
+    if (!isNaN(localSubida) && ahora - localSubida < 60000) {
+      return true; // aún está dentro del minuto local
+    }
+
+    // Verificación remota con HEAD a pendientes.json
     const res = await fetch("https://angelos2024.github.io/productos/pendientes.json", {
       method: "HEAD",
       cache: "no-cache"
     });
+
     const modificado = res.headers.get("Last-Modified");
     const fecha = new Date(modificado);
-    const ahora = new Date();
     const segundos = (ahora - fecha) / 1000;
 
     return segundos < 60;
   } catch (err) {
     console.warn("No se pudo verificar pendientes.json:", err);
-    return false; // si falla, dejamos pasar
+    return false; // permitir si falla
   }
 }
+
 
 
 
@@ -145,6 +154,7 @@ document.getElementById("enviarboton2").textContent = "⏳ Enviando...";
 
       const tiempoFuturo = Date.now() + 30000;
       localStorage.setItem("envioEnCurso", "true");
+      localStorage.setItem("registroManualSubido", Date.now());
       localStorage.setItem("envioTiempo", tiempoFuturo);
 
       mostrarMensajeTemporal("📡 Enviando producto sin jametz...", 30, "mensajeUsuarioMatzah");
@@ -212,6 +222,8 @@ document.getElementById("botonrevision1").textContent = "⏳ Enviando...";
       // Iniciar bloqueo de nuevos registros por 30 segundos
       const tiempoFuturo = Date.now() + 30000;
       localStorage.setItem("envioEnCurso", "true");
+      localStorage.setItem("registroManualSubido", Date.now());
+
       localStorage.setItem("envioTiempo", tiempoFuturo);
 
       // Mostrar mensaje con barra de progreso
