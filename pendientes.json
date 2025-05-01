@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "marca": "Tradi pan",
+    "nombre": "Levadura casera",
+    "pais": "México",
+    "ean": "017929111014",
+    "imagen": "https://www.amazon.com.mx/LeSaffre-Tradi-Pan-levadura-55gr/dp/B087R4FC45",
+    "ingredientes": [
+      "Levadura instantánea",
+      "monoestearato de sorbitán",
+      "ácido ascórbico"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
+  }
+]
