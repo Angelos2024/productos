@@ -55,14 +55,18 @@ function analizarIngredientesMatzah(ingredientes) {
 
 // --- Elementos DOM para Matzah ---
 const botonBusquedaMatzah = document.getElementById('botonBusquedaMatzah');
+
+
 const botonBuscarRapidoMatzah = document.getElementById('botonBuscarRapidoMatzah');
-
-
-
-
-botonBuscarRapido?.addEventListener('click', () => {
-  botonBusquedaMatzah.click();
+botonBuscarRapidoMatzah?.addEventListener('click', () => {
+  const ean = document.getElementById('eanEntradaMatzah').value.trim();
+  if (!ean) {
+    alert("⚠️ Introduce un código de barras.");
+    return;
+  }
+  buscarSoloPorEanMatzah(ean);
 });
+
 
 const escanearCodigoMatzah = document.getElementById('escanearCodigoMatzah');
 const resultadoMatzah = document.getElementById('resultadoMatzah');
@@ -217,10 +221,10 @@ botonBusquedaMatzah.addEventListener('click', async () => {
   // 🔵 Flujo normal de búsqueda
   const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
 
-  if (!ean && (!marca || !nombre)) {
-    alert("⚠️ Completa al menos Marca y Nombre, o el Código de Barras.");
-    return;
-  }
+if (!ean && (!marca || !nombre)) {
+  return; // sin alertar, lo gestiona el botón específico
+}
+
 
   if (ean && /^[0-9]{8,14}$/.test(ean)) {
     buscarSoloPorEanMatzah(ean);
