@@ -1,3 +1,23 @@
+async function verificarPendientesActualizado() {
+  try {
+    const res = await fetch("https://angelos2024.github.io/productos/pendientes.json", {
+      method: "HEAD",
+      cache: "no-cache"
+    });
+    const modificado = res.headers.get("Last-Modified");
+    const fecha = new Date(modificado);
+    const ahora = new Date();
+    const segundos = (ahora - fecha) / 1000;
+
+    return segundos < 60;
+  } catch (err) {
+    console.warn("No se pudo verificar pendientes.json:", err);
+    return false; // si falla, dejamos pasar
+  }
+}
+
+
+
 function mostrarMensajeTemporal(mensaje, segundos = 30) {
   const contenedor = document.getElementById("mensajeUsuario");
   contenedor.innerHTML = `
@@ -48,12 +68,24 @@ document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("formRegistroManual");
   if (!form) return;
 
-  form.addEventListener("submit", async (e) => {
-    e.preventDefault();
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
 
-    if (verificarConflictoEnvio()) {
-      return;
-    }
+  // 1. Verificación local de bloqueo por tiempo
+  if (verificarConflictoEnvio()) {
+    return;
+  }
+
+  // 2. Verificación remota de actividad reciente
+  const otroUsuarioEnProceso = await verificarPendientesActualizado();
+  if (otroUsuarioEnProceso) {
+    document.getElementById("mensajeUsuario").innerHTML = `
+      ⏳ Otro usuario acaba de registrar un producto.<br>
+      Por favor espera 30 segundos antes de registrar otro.
+    `;
+    return;
+  }
+
 
     // Crear objeto producto completo
     const producto = {
