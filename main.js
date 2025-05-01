@@ -18,8 +18,14 @@ function normalizeYsingularizar(txt) {
 const botonBusqueda = document.getElementById('botonBusqueda');
 const botonBuscarRapido = document.getElementById('botonBuscarRapido');
 botonBuscarRapido?.addEventListener('click', () => {
-  botonBusqueda.click();
+  const ean = document.getElementById('eanEntrada').value.trim();
+  if (!ean) {
+    alert("⚠️ Introduce un código de barras.");
+    return;
+  }
+  buscarSoloPorEan(ean); // buscar aunque sea inválido o no esté
 });
+
 
 const escanearCodigoBtn = document.getElementById('escanearCodigo');
 const resultadoDiv = document.getElementById('analisisResultado');
@@ -208,10 +214,10 @@ botonBusqueda.addEventListener('click', async () => {
 
   const pais = document.getElementById('paisFiltro')?.value.trim() || "";
 
-  if (!ean && (!marca || !nombre)) {
-    alert("⚠️ Completa al menos Marca y Nombre, o el Código de Barras.");
-    return;
-  }
+if (!ean && (!marca || !nombre)) {
+  return; // no alertar, dejar que botón rápido lo maneje
+}
+
 
   if (ean && /^[0-9]{8,14}$/.test(ean)) {
     buscarSoloPorEan(ean);
