@@ -85,9 +85,8 @@
   "colágeno porcino", "glicerina animal", "ácido esteárico animal",
   "estearato de magnesio animal", "extracto de carne de cerdo",
    "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-  "monoestearato", "monoglicéridos", "diglicéridos", "monoglicéridos y diglicéridos de ácidos grasos",
   "monoestearato de glicerilo", "glicerol monoestearato", "acetilgliceridos",
-  "mono y diglicéridos", "ésteres de glicerol", "monoestearato de sorbitán",
+ "ésteres de glicerol",
 
   // Glicerina y Glicerol
   "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
@@ -95,9 +94,8 @@
 "porcine collagen", "animal glycerin", "animal stearic acid",
 "animal magnesium stearate", "pork meat extract",
 "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-"monostearate", "monoglycerides", "diglycerides", "mono- and diglycerides of fatty acids",
 "glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
-"mono- and diglycerides", "glycerol esters", "sorbitan monostearate",
+"glycerol esters",
 
 "glycerin", "glycerol", "e422", "animal glycerin", "gelatin", "animal glycerol"
 
