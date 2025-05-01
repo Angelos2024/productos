@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "marca": "riko pollo",
+    "nombre": "caldo de pollo",
+    "pais": "Mexico",
+    "ean": "",
+    "imagen": "https://m.media-amazon.com/images/I/91kCx7Iia9L._AC_UF1000,1000_QL80_.jpg",
+    "ingredientes": [
+      "Sal yodada",
+      "Glutamato monosódico",
+      "Fécula de maíz",
+      "Grasa vegetal hidrogenada",
+      "Carne y grasa de pollo",
+      "Azúcares añadidos",
+      "Cebolla deshidratada",
+      "Extracto de levadura",
+      "Proteína vegetal hidrolizada de soya",
+      "Saborizantes idénticos al natural",
+      "Ácido cítrico",
+      "Silicato de calcio",
+      "Perejil deshidratado",
+      "Colorantes."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
+  }
+]
