@@ -18,7 +18,7 @@ const ingredientesTame = [
   "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
 "laca", "laca armin", "laca de cochinilla", "crimson lake",
 "natural red 4", "natural rojo 4", "CI 75470", "E120",
-"carminic acid", "natural red", "carmesi natural", "ci natural red 4",
+"carminic acid", "natural red", "carmesi natural", "ci natural red 4","carmines",
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
