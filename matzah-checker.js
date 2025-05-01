@@ -61,7 +61,7 @@
 
   // Productos derivados de animales impuros
   "gelatina", "gelatina de cerdo", "grasa de cerdo", "grasa animal",
-  "cuajo animal", "cuajo de cerdo", "enzima animal", "mermelada", "jam",
+  "cuajo animal", "cuajo de cerdo", "enzima animal", "mermelada", "jam","carmines",
 
   // Sangre
   "sangre", "morcilla", "negra de cerdo",
