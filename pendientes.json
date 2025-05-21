@@ -1,23 +1,5 @@
 [
   {
-    "marca": "Lala",
-    "nombre": "flan",
-    "pais": "México",
-    "ean": "7501020510041",
-    "imagen": "https://subodega.mx/articulo/27650/01.webp",
-    "ingredientes": [
-      "leche entera pasteurizada de vaca",
-      "azúcares añadidos (sacarosa)",
-      "caramelo",
-      "leche descremada en polvo",
-      "almidón modificado",
-      "carragenina",
-      "saborizantes artificiales y colorantes (amarillo 5 y amarillo 6)."
-    ],
-    "tahor": true,
-    "ingredientes_tame": []
-  },
-  {
     "marca": "Danette",
     "nombre": "flan",
     "pais": "México",
