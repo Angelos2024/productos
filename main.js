@@ -270,7 +270,7 @@ if (htmlLocales) {
 }
 
 
-  if (resultadosHTML.length < 5) {
+  if (resultadosHTML.length < 3) {
    resultadoDiv.innerHTML = `
     <div style="text-align:center">
       <div class="spinner"></div>
@@ -287,7 +287,7 @@ if (htmlLocales) {
   if (resultadosHTML.length > 0) {
     resultadoDiv.innerHTML = `
       <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
+      ${resultadosHTML.slice(0, 3).join('<hr>')}
     `;
   } else {
     resultadoDiv.innerHTML = `
@@ -623,7 +623,7 @@ if (pais) {
       `;
 
       resultados.push(html);
-      if (resultados.length >= 5) break;
+      if (resultados.length >= 3) break;
     }
 
     return resultados.length > 0 ? resultados : null;
@@ -722,7 +722,7 @@ async function buscarSoloPorEan(ean) {
   const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
   if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
 
-  if (resultadosHTML.length < 5) {
+  if (resultadosHTML.length < 3) {
     resultadoDiv.innerHTML += `<p><strong>🌐 Consultando...</strong></p>`;
     const resultadoOFF = await buscarEnOpenFoodFacts('', '', ean, pais);
     if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
@@ -731,7 +731,7 @@ async function buscarSoloPorEan(ean) {
   if (resultadosHTML.length > 0) {
     resultadoDiv.innerHTML = `
       <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
+      ${resultadosHTML.slice(0, 3).join('<hr>')}
     `;
   } else {
     resultadoDiv.innerHTML = `
