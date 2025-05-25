@@ -285,7 +285,7 @@ if (htmlLocales) {
 }
 
 
-  if (resultadosHTML.length < 5) {
+  if (resultadosHTML.length < 3) {
     resultadoMatzah.innerHTML = `
       <div style="text-align:center">
         <div class="spinner"></div>
@@ -302,7 +302,7 @@ if (htmlLocales) {
 if (resultadosHTML.length > 0) {
   resultadoMatzah.innerHTML = `<p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>`;
 
-  resultadosHTML.slice(0, 5).forEach(htmlProducto => {
+  resultadosHTML.slice(0, 3).forEach(htmlProducto => {
     const parser = new DOMParser();
     const doc = parser.parseFromString(htmlProducto, 'text/html');
     const nombreProducto = doc.querySelector('strong')?.textContent || "";
@@ -669,7 +669,7 @@ const resultadoHTML = `
 
   resultados.push(html);
 
-  if (resultados.length >= 5) break;
+  if (resultados.length >= 3) break;
 
     }
 
@@ -707,7 +707,7 @@ async function buscarSoloPorEanMatzah(ean) {
   const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
   if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
 
-  if (resultadosHTML.length < 5) {
+  if (resultadosHTML.length < 3) {
     resultadoMatzah.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
     const resultadoOFF = await buscarEnOpenFoodFactsMatzah('', '', ean, pais);
     if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
@@ -716,7 +716,7 @@ async function buscarSoloPorEanMatzah(ean) {
   if (resultadosHTML.length > 0) {
     resultadoMatzah.innerHTML = `
       <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 5).join('<hr>')}
+      ${resultadosHTML.slice(0, 3).join('<hr>')}
     `;
   } else {
     resultadoMatzah.innerHTML = `
