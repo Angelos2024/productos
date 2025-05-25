@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "marca": "Bimbo",
+    "nombre": "Rebanadas",
+    "pais": "México",
+    "ean": "7501000112845",
+    "imagen": "https://arteli.vtexassets.com/arquivos/ids/206864-800-auto?v=638576461733000000&width=800&height=auto&aspect=true",
+    "ingredientes": [
+      "HARINA DE TRIGO (GLUTEN)",
+      "AZÚCAR",
+      "GRASA Y ACEITE VEGETAL",
+      "LECHE RECONSTITUIDA (5%)",
+      "JARABE DE MAÍZ DE ALTA FRUCTOSA",
+      "LEVADURA",
+      "MARGARINA",
+      "LECITINA DE SOYA",
+      "SAL YODADA",
+      "SABORIZANTE ARTIFICIAL",
+      "ÉSTERES DE ÁCIDO DIACETIL TARTÁRICO",
+      "MINERALES (HIERRO Y ZINC)",
+      "ESTEVIA (6 mg/100g)",
+      "ENZIMAS. PUEDE CONTENER: HUEVO",
+      "AJONJOLÍ",
+      "AMARILLO 5 Y NUEZ"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
+  }
+]
