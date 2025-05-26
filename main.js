@@ -1,6 +1,73 @@
 
 let currentPreviewStream = null;
 
+// Desactivar nombre/marca si hay código de barras en Tahor
+const eanEntrada = document.getElementById('eanEntrada');
+const nombreEntrada = document.getElementById('nombreEntrada');
+const marcaEntrada = document.getElementById('marcaEntrada');
+
+eanEntrada?.addEventListener('input', () => {
+  const tieneCodigo = eanEntrada.value.trim() !== "";
+nombreEntrada.readOnly = tieneCodigo;
+marcaEntrada.readOnly = tieneCodigo;
+});
+
+function mostrarNotaBusqueda(mensaje) {
+  const nota = document.getElementById('notaBusqueda');
+  if (!nota) return;
+
+  nota.textContent = mensaje;
+  nota.style.display = 'block';
+
+  // Trigger reflow for transition
+  void nota.offsetWidth;
+  nota.style.opacity = '1';
+
+  // Ocultar después de 4 segundos
+  clearTimeout(nota._timeout);
+  nota._timeout = setTimeout(() => {
+    nota.style.opacity = '0';
+    setTimeout(() => {
+      nota.style.display = 'none';
+    }, 500);
+  }, 4000);
+}
+function protegerCampoBloqueado(input, mensajeFuncion) {
+  input.addEventListener('mousedown', (e) => {
+    if (input.readOnly) {
+      mensajeFuncion("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+      e.preventDefault();
+    }
+  });
+
+  input.addEventListener('keydown', (e) => {
+    if (input.readOnly) {
+      mensajeFuncion("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+      e.preventDefault();
+    }
+  });
+
+  input.addEventListener('focus', (e) => {
+    if (input.readOnly) {
+      mensajeFuncion("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+      input.blur(); // quita el foco para evitar confusión
+    }
+  });
+}
+
+
+
+// Tahor
+protegerCampoBloqueado(nombreEntrada, mostrarNotaBusqueda);
+protegerCampoBloqueado(marcaEntrada, mostrarNotaBusqueda);
+
+
+marcaEntrada.addEventListener('click', (e) => {
+  if (marcaEntrada.disabled) {
+    mostrarNotaBusqueda("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+    e.preventDefault();
+  }
+});
 
 function normalizeYsingularizar(txt) {
   return txt
