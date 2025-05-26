@@ -4,6 +4,39 @@
   color: #555;
   margin-bottom: 0.3rem;
 }
+.detalle-busqueda-codigo {
+  margin-top: 1.2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fefefe;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.detalle-busqueda-codigo summary {
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: #2c3e50;
+  padding: 0.5rem 0;
+}
+input[readonly] {
+  background-color: #f8f8f8;
+  cursor: not-allowed;
+}
+
+
+.detalle-busqueda-codigo[open] {
+  background-color: #f8f9fa;
+  border-color: #3498db;
+}
+
+.detalle-busqueda-codigo[open] summary {
+  color: #1a5276;
+}
+#codigoManualDetalleMatzah[open] {
+  border-color: #895510; /* Color característico de Pesaj */
+}
 
 body {
   margin: 0;
