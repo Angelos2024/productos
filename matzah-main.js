@@ -1,3 +1,69 @@
+// Desactivar nombre/marca si hay código de barras en Matzah
+const eanEntradaMatzah = document.getElementById('eanEntradaMatzah');
+const nombreEntradaMatzah = document.getElementById('nombreEntradaMatzah');
+const marcaEntradaMatzah = document.getElementById('marcaEntradaMatzah');
+
+eanEntradaMatzah?.addEventListener('input', () => {
+  const tieneCodigo = eanEntradaMatzah.value.trim() !== "";
+nombreEntradaMatzah.readOnly = tieneCodigo;
+marcaEntradaMatzah.readOnly = tieneCodigo;
+
+});
+
+function mostrarNotaBusquedaMatzah(mensaje) {
+  const nota = document.getElementById('notaBusquedaMatzah');
+  if (!nota) return;
+
+  nota.textContent = mensaje;
+  nota.style.display = 'block';
+
+  void nota.offsetWidth;
+  nota.style.opacity = '1';
+
+  clearTimeout(nota._timeout);
+  nota._timeout = setTimeout(() => {
+    nota.style.opacity = '0';
+    setTimeout(() => {
+      nota.style.display = 'none';
+    }, 500);
+  }, 4000);
+}
+
+function protegerCampoBloqueadoMatzah(input, mensajeFuncion) {
+  input.addEventListener('mousedown', (e) => {
+    if (input.readOnly) {
+      mensajeFuncion("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+      e.preventDefault();
+    }
+  });
+
+  input.addEventListener('keydown', (e) => {
+    if (input.readOnly) {
+      mensajeFuncion("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+      e.preventDefault();
+    }
+  });
+
+  input.addEventListener('focus', (e) => {
+    if (input.readOnly) {
+      mensajeFuncion("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+      input.blur();
+    }
+  });
+}
+
+
+// Matzah
+protegerCampoBloqueado(nombreEntradaMatzah, mostrarNotaBusquedaMatzah);
+protegerCampoBloqueado(marcaEntradaMatzah, mostrarNotaBusquedaMatzah);
+
+
+marcaEntradaMatzah.addEventListener('click', (e) => {
+  if (marcaEntradaMatzah.disabled) {
+    mostrarNotaBusquedaMatzah("⚠️ Solo puedes buscar por nombre/marca o por código. Borra uno para activar el otro.");
+    e.preventDefault();
+  }
+});
 
 
 function normalizeYsingularizar(txt) {
