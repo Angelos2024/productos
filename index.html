@@ -84,26 +84,44 @@
         <input type="text" id="marcaEntrada" placeholder="Ej. SuKarne, Great Value">
       </div>
 <!-- Aclaración -->
-<p style="font-size: 0.85rem; color: #555; margin: 0.2rem 0 0.4rem;">
-  🔁 También puedes buscar <strong>solo con el código</strong> sin llenar nombre o marca.
-</p>
 
-<!-- Campo con botón escáner -->
-<div class="campo" style="display: flex; align-items: center; gap: 0.5rem;">
-  <div style="flex: 1;">
-    <label for="eanEntrada">Código manual</label>
-    <input type="text" id="eanEntrada" placeholder="Ej. 7501234567890">
+<!-- NOTA AMARILLA DE ADVERTENCIA -->
+<div id="notaBusqueda" style="
+  display: none;
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  font-weight: bold;
+  transition: opacity 0.4s ease;
+  opacity: 0;
+"></div>
+
+<!-- BUSQUEDA POR CÓDIGO - PLEGABLE -->
+<details id="codigoManualDetalle" class="detalle-busqueda-codigo">
+  <summary>
+      🔁 También puedes buscar <strong>solo con el código</strong> sin llenar nombre o marca.
+  </summary>
+
+  <div class="campo" style="display: flex; align-items: center; gap: 0.5rem; margin-top: 1rem;">
+    <div style="flex: 1;">
+      <label for="eanEntrada">Código manual</label>
+      <input type="text" id="eanEntrada" placeholder="Ej. 7501234567890">
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+      <button id="escanearCodigo" class="boton-escaneo" title="Escanear con cámara">📷</button>
+      <select id="selectCamara" class="select-camara-reducido dropdown-camara">
+        <option value="">(Auto)</option>
+      </select>
+    </div>
   </div>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
- <button id="escanearCodigo" class="boton-escaneo" title="Escanear con cámara">📷</button>
-  <select id="selectCamara" class="select-camara-reducido">
-    <option value="">(Auto)</option>
-  </select>
-</div>
+</details>
 
 
-</div>
 
 
 
@@ -133,6 +151,8 @@
       </div>
 
       <button class="boton" id="botonBusqueda">🔍 Buscar producto</button>
+
+
     </div>
 
    
@@ -214,20 +234,42 @@
       <label for="marcaEntradaMatzah">Marca</label>
       <input type="text" id="marcaEntradaMatzah" placeholder="Ej. Yehuda, Great Value">
     </div>
-<div class="campo" style="display: flex; align-items: center; gap: 0.5rem;">
-  <div style="flex: 1;">
-    <label for="eanEntradaMatzah">Código manual</label>
-    <input type="text" id="eanEntradaMatzah" placeholder="Ej. 7501234567890">
+<!-- NOTA AMARILLA DE ADVERTENCIA PARA MATZAH -->
+<div id="notaBusquedaMatzah" style="
+  display: none;
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  font-weight: bold;
+  transition: opacity 0.4s ease;
+  opacity: 0;
+"></div>
+
+<!-- BUSQUEDA POR CÓDIGO PARA MATZAH - PLEGABLE -->
+<details id="codigoManualDetalleMatzah" class="detalle-busqueda-codigo">
+  <summary>
+    🔁 <strong>Buscar solo con el código de barras (Matzah)</strong> (opcional)
+  </summary>
+
+  <div class="campo" style="display: flex; align-items: center; gap: 0.5rem; margin-top: 1rem;">
+    <div style="flex: 1;">
+      <label for="eanEntradaMatzah">Código manual</label>
+      <input type="text" id="eanEntradaMatzah" placeholder="Ej. 7501234567890">
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+      <button id="escanearCodigoMatzah" class="boton-escaneo" title="Escanear con cámara">📷</button>
+      <select id="selectCamaraMatzah" class="select-camara-reducido dropdown-camara">
+        <option value="">(Auto)</option>
+      </select>
+    </div>
   </div>
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
- <button id="escanearCodigoMatzah" class="boton-escaneo" title="Escanear con cámara">📷</button>
-  <select id="selectCamaraMatzah" class="select-camara-reducido">
-    <option value="">(Auto)</option>
-  </select>
-</div>
+</details>
 
-
-</div>
 
 
     <div class="campo">
@@ -256,10 +298,13 @@
     </div>
 
     <button class="boton" id="botonBusquedaMatzah">🔍 Buscar producto</button>
+
+
   </div>
 
   </div>
 </section>
+
 
 
 
