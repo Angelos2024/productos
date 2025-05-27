@@ -36,8 +36,7 @@ module.exports = async (req, res) => {
 
   const { accion, producto } = body;
 
-
-    // 🌐 Acción: PROXY hacia OpenFoodFacts
+  // 🌐 Acción: PROXY hacia OpenFoodFacts
   if (accion === "proxyOpenFood") {
     const { url } = body;
     if (!url || typeof url !== "string") {
@@ -45,7 +44,12 @@ module.exports = async (req, res) => {
     }
 
     try {
-      const openFoodRes = await fetch(url, { headers: { Accept: "application/json" } });
+      const openFoodRes = await fetch(url, {
+        headers: {
+          Accept: "application/json",
+          "User-Agent": "Mozilla/5.0 (compatible; productos-amber)"
+        }
+      });
       const data = await openFoodRes.json();
       return res.status(200).json(data);
     } catch (e) {
