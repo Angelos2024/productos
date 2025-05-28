@@ -284,5 +284,35 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "gamesa",
+    "nombre": "marinas betunadas",
+    "pais": "México",
+    "ean": "7501000658404",
+    "imagen": "https://ibarramayoreo.mayoreoenlinea.mx/products/galletas-gamesa-marinas-betunadas-1-kg",
+    "ingredientes": [
+      "HARINA DE TRIGO",
+      "AZÚCAR",
+      "ACEITE VEGETAL (CONTIENE ANTIOXIDANTES TBHQ",
+      "PALMITATO DE ASCORBILO",
+      "TOCOFEROLES)",
+      "JARABE DE MAÍZ DE ALTA FRUCTOSA",
+      "SAL YODADA",
+      "ALMIDÓN",
+      "EMULSIFICANTES (ÉSTERES DE PROPILENGLICOL DE ACIDOS GRASOS",
+      "MONOESTEARATO DE GLICERILO",
+      "ESTEAROIL LACTILATO DE SODIO)",
+      "LECITINA DE SOYA",
+      "SABORIZANTES",
+      "GRENETINA",
+      "COLORANTES (CARAMELO CLASE IV",
+      "ÉRITROSINA)",
+      "BHI",
+      "ESTE PRODUCTO CONTIENE TRIGO (GLUTEN)",
+      "SOYA"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
