@@ -592,12 +592,27 @@ header.pesaj .menu-boton {
   background: white;
   border-radius: 10px;
   padding: 1rem;
-  margin-top: 10px;
+  margin-top: 50px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   width: 100%;
   max-width: 420px;
 }
 
+/* Para pantallas hasta 951px */
+@media (max-width: 951px) {
+  #bloque2,
+  #bloque3 {
+    margin-top: 10px !important;
+  }
+}
+
+/* Para pantallas desde 952px en adelante */
+@media (min-width: 952px) {
+  #bloque2,
+  #bloque3 {
+    margin-top: 50px !important;
+  }
+}
 
 .bloque h2 {
   margin-top: 0;
