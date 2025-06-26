@@ -106,7 +106,7 @@ function isTame(i) {
 }
 
 
-const MAX_ARCHIVOS = 15;
+const MAX_ARCHIVOS = 7;
 const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
 const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
 const PATRON_ARCHIVO = i => `base/producto${i}.json`;
