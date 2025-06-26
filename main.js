@@ -83,6 +83,13 @@ function normalizeYsingularizar(txt) {
 }
 
 const botonBusqueda = document.getElementById('botonBusqueda');
+const botonBusquedaCodigo = document.getElementById('botonBusquedaCodigo');
+if (botonBusquedaCodigo) {
+  botonBusquedaCodigo.addEventListener('click', () => {
+    botonBusqueda?.click(); // simula el clic en el botón original
+  });
+}
+
 const botonBuscarRapido = document.getElementById('botonBuscarRapido');
 botonBuscarRapido?.addEventListener('click', () => {
   const ean = document.getElementById('eanEntrada').value.trim();
@@ -841,7 +848,9 @@ document.addEventListener("click", function (e) {
 
 
 function mostrarSeccionTahor() {
+
   cerrarMenu(); // ⬅️ Agregar aquí
+  
   document.getElementById("bloqueTahor").style.display = "block";
   document.getElementById("bloqueMatzah").style.display = "none";
   document.title = "Escáner de Productos Tame / Tahor";
@@ -941,3 +950,78 @@ document.addEventListener("DOMContentLoaded", () => {
     mostrarSeccionTahor(); // por defecto
   }
 });
+
+
+function entrarSeccion(tipo) {
+  document.getElementById("pantallaInicial").style.display = "none";
+
+  // Mostrar el encabezado y el título
+  const titulo = document.getElementById("titulo");
+  titulo.style.display = "block";
+
+  // Mostrar botones flotantes
+  document.getElementById("tabRegistrar").style.visibility = "visible";
+  document.getElementById("adminAccess").style.visibility = "visible";
+  document.getElementById("contadorFlotante").style.visibility = "visible";
+  document.getElementById("encabezado").style.display = "flex";
+
+
+  if (tipo === "tahor") {
+    titulo.textContent = "🧪 Escáner de Productos Tahor";
+    abrirTahor();
+    document.getElementById("formBusquedaProducto").style.display = "block";
+    document.getElementById("analisisResultado").style.display = "block";
+    document.getElementById("registroManual").style.display = "none";
+  } else {
+    titulo.textContent = "🍞 Escáner de Productos para Pesaj";
+    abrirMatzah();
+    document.getElementById("formBusquedaMatzah").style.display = "block";
+    document.getElementById("resultadoMatzah").style.display = "block";
+    document.getElementById("registroManualMatzah").style.display = "none";
+  }
+}
+
+function irASeccion(tipo) {
+  // Ocultar pantalla inicial si aún visible
+const pantallaInicial = document.getElementById("pantallaInicial");
+if (pantallaInicial) pantallaInicial.style.display = "none";
+
+
+
+  // Mostrar título
+  const titulo = document.getElementById("titulo");
+  titulo.style.display = "block";
+
+  // Mostrar botones flotantes
+  document.getElementById("tabRegistrar").style.visibility = "visible";
+  document.getElementById("adminAccess").style.visibility = "visible";
+  document.getElementById("contadorFlotante").style.visibility = "visible";
+
+  // Cambiar vista según tipo
+  if (tipo === "tahor") {
+    titulo.textContent = "🧪 Escáner de Productos Tahor";
+    abrirTahor();
+    document.getElementById("formBusquedaProducto").style.display = "block";
+    document.getElementById("analisisResultado").style.display = "block";
+    document.getElementById("registroManual").style.display = "none";
+
+    // Ocultar sección Pesaj si estaba activa
+    document.getElementById("formBusquedaMatzah").style.display = "none";
+    document.getElementById("resultadoMatzah").style.display = "none";
+    document.getElementById("registroManualMatzah").style.display = "none";
+  } else {
+    titulo.textContent = "🍞 Escáner de Productos para Pesaj";
+    abrirMatzah();
+    document.getElementById("formBusquedaMatzah").style.display = "block";
+    document.getElementById("resultadoMatzah").style.display = "block";
+    document.getElementById("registroManualMatzah").style.display = "none";
+
+    // Ocultar sección Tahor si estaba activa
+    document.getElementById("formBusquedaProducto").style.display = "none";
+    document.getElementById("analisisResultado").style.display = "none";
+    document.getElementById("registroManual").style.display = "none";
+  }
+}
+
+
+
