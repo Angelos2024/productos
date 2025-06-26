@@ -698,10 +698,11 @@ async function buscarEnOpenFoodFactsMatzah(nombre, marca, ean, pais = "") {
 
     // 🔥 Procesar productos encontrados
     for (const prod of productos) {
-      console.log(prod.image_url);
-
-
   if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
+
+  const nombreProducto = prod.product_name || "Producto sin nombre";
+  const marcaProducto = prod.brands || "Marca desconocida";
+  const imagenProducto = prod.image_url || "";
 
   const ingredientes = (prod.ingredients_text || "")
     .toLowerCase()
@@ -711,33 +712,39 @@ async function buscarEnOpenFoodFactsMatzah(nombre, marca, ean, pais = "") {
 
   const { tameDetectado, leudanteDetectado } = analizarIngredientesMatzah(ingredientes);
 
-const htmlIng = ingredientes.map(ing => {
-  const normalizado = normalizeYsingularizar(ing);
-  if (isTameMatzah(normalizado)) {
-    return `<span style="color:red; font-weight:bold;">${ing}</span>`;
-  } else if (isLeudante(normalizado)) {
-    return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
-  } else {
-    return `<span>${ing}</span>`;
+  const ingredientesHTML = ingredientes.map(ing => {
+    const normalizado = normalizeYsingularizar(ing);
+    if (isTameMatzah(normalizado)) {
+      return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+    } else if (isLeudante(normalizado)) {
+      return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+    } else {
+      return `<span>${ing}</span>`;
+    }
+  }).join(", ");
+
+  let evaluacionFinal = '✅ Apto (sin levadura)';
+  if (tameDetectado) {
+    evaluacionFinal = '❌ No Apto (Tame)';
+  } else if (leudanteDetectado) {
+    evaluacionFinal = '⚠️ Contiene Leudante';
   }
-}).join(", ");
 
+  const resultadoHTML = `
+    <details class="detalle-producto">
+      <summary><strong>${nombreProducto}</strong> – ${marcaProducto}</summary>
+      ${imagenProducto ? `<img src="${imagenProducto}" alt="Imagen del producto" style="max-width:200px;">` : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+      <p><strong>Ingredientes:</strong> ${ingredientesHTML}</p>
+      <p style="font-weight:bold;">${evaluacionFinal}</p>
+    </details>
+  `;
 
-const resultadoHTML = `
-<details class="detalle-producto">
-  <summary><strong>${nombreProducto}</strong> – ${marcaProducto || "Marca desconocida"}</summary>
-  ${imagenProducto ? `<img src="${imagenProducto}" alt="Imagen del producto" style="max-width:200px;">` : '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-  <p><strong>Ingredientes:</strong> ${ingredientesHTML}</p>
-  <p>${evaluacionFinal}</p>
-</details>
-`;
-
-
-  resultados.push(html);
+  resultados.push(resultadoHTML);
 
   if (resultados.length >= 3) break;
+}
 
-    }
+
 
     return resultados.length > 0 ? resultados : null;
 
@@ -855,3 +862,18 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
 
+document.addEventListener('DOMContentLoaded', () => {
+  const botonBusquedaCodigoMatzah = document.getElementById('botonBusquedaCodigoMatzah');
+
+  if (botonBusquedaCodigoMatzah) {
+    botonBusquedaCodigoMatzah.addEventListener('click', () => {
+      const ean = document.getElementById('eanEntradaMatzah').value.trim();
+      if (!ean || !/^[0-9]{8,14}$/.test(ean)) {
+        resultadoMatzah.innerHTML = `<p style="color:red;">⚠️ Debes ingresar un código válido (8 a 14 dígitos).</p>`;
+        return;
+      }
+
+      buscarSoloPorEanMatzah(ean); // ya existe y está bien implementada
+    });
+  }
+});
