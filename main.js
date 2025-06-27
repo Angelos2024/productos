@@ -1024,4 +1024,13 @@ if (pantallaInicial) pantallaInicial.style.display = "none";
 }
 
 
+async function solicitarPermisoCamara() {
+  try {
+    await navigator.mediaDevices.getUserMedia({ video: true });
+    console.log("✅ Permiso de cámara concedido");
+  } catch (error) {
+    console.warn("❌ Permiso de cámara denegado:", error);
+    alert("🚫 Acceso a cámara denegado. Activa permisos manualmente desde la configuración del navegador.");
+  }
+}
 
