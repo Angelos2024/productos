@@ -877,3 +877,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
+const bloqueEscanerMatzah = document.getElementById("codigoManualDetalleMatzah");
+if (bloqueEscanerMatzah) {
+  bloqueEscanerMatzah.addEventListener("toggle", (e) => {
+    if (e.target.open) {
+      solicitarPermisoCamara();
+    }
+  });
+}
