@@ -455,12 +455,24 @@ function abrirMatzah() {
 }
 
 // --- Cambio de pestañas en Matzah ---
-document.getElementById('tabRegistrarMatzah').addEventListener('click', () => {
+document.getElementById('tabRegistrarMatzah')?.addEventListener('click', () => {
   document.getElementById('formBusquedaMatzah').style.display = 'none';
   document.getElementById('resultadoMatzah').style.display = 'none';
   document.getElementById('registroManualMatzah').style.display = 'block';
   activarTabMatzah('tabRegistrarMatzah');
+
+  // 🔽 Scroll suave a la sección de registro
+  const registroMatzah = document.getElementById('registroManualMatzah');
+  if (registroMatzah) {
+    setTimeout(() => {
+      registroMatzah.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 150);
+  }
+
+  const boton = document.getElementById('tabRegistrarMatzah');
+  if (boton) boton.style.display = 'none';
 });
+
 
 function activarTabMatzah(idActiva) {
   ['tabBuscarMatzah', 'tabRegistrarMatzah'].forEach(id => {
