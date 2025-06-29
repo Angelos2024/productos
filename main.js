@@ -428,6 +428,18 @@ document.getElementById('tabRegistrar').addEventListener('click', () => {
   document.getElementById('analisisResultado').style.display = 'none';
   document.getElementById('registroManual').style.display = 'block';
   activarTab('tabRegistrar');
+
+  // 🔽 Scroll hacia la sección de registro
+  const registro = document.getElementById('registroManual');
+  if (registro) {
+    setTimeout(() => {
+      registro.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 150); // Da tiempo a que se renderice
+  }
+
+  // Oculta botón flotante si aplica
+  const boton = document.getElementById('tabRegistrar');
+  if (boton) boton.style.display = 'none';
 });
 
 function activarTab(idActiva) {
