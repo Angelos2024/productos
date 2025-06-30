@@ -286,7 +286,12 @@ botonBusqueda.addEventListener('click', async () => {
 
   // 🔵 Después sigue tu flujo normal de búsqueda:
 
-  const pais = document.getElementById('paisFiltro')?.value.trim() || "";
+ const paisInputs = document.querySelectorAll('.paisFiltro');
+let pais = '';
+paisInputs.forEach(sel => {
+  const valor = sel.value.trim();
+  if (valor) pais = valor; // tomar el primero que tenga valor
+});
 
 if (!ean && (!marca || !nombre)) {
   return; // no alertar, dejar que botón rápido lo maneje
