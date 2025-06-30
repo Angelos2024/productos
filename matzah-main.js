@@ -285,7 +285,13 @@ botonBusquedaMatzah.addEventListener('click', async () => {
   }
 
   // 🔵 Flujo normal de búsqueda
-  const pais = document.getElementById('paisFiltroMatzah')?.value.trim() || "";
+const paisInputs = document.querySelectorAll('.paisFiltroMatzah');
+let pais = '';
+paisInputs.forEach(sel => {
+  const valor = sel.value.trim();
+  if (valor) pais = valor; // tomar el primero que tenga valor
+});
+
 
 if (!ean && (!marca || !nombre)) {
   return; // sin alertar, lo gestiona el botón específico
