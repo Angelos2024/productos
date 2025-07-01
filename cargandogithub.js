@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("enviarboton2").disabled = true;
         document.getElementById("enviarboton2").textContent = "⏳ Enviando...";
 
-        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
+        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ accion: "registrar", producto })
