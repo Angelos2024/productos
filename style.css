@@ -19,7 +19,7 @@
   font-size: 1rem;
   font-weight: bold;
   cursor: pointer;
-  color: #2c3e50;
+  color: #895510;
   padding: 0.5rem 0;
 }
 input[readonly] {
@@ -386,6 +386,50 @@ img {
   margin-right: 0.5rem;
 }
 
+
+
+
+
+
+
+
+#resultadoPersonal,
+#registroManualPersonal {
+  margin-top: 2rem;
+  background-color: #fafafa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+#mensajeUsuarioPersonal {
+  margin-top: 1rem;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+#registroManualPersonal .grupo-formulario label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+}
+
+#registroManualPersonal input[type="radio"] {
+  transform: scale(1.2);
+  margin-right: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
 .detalle-producto summary {
   font-weight: bold;
   font-size: 1rem;
@@ -483,6 +527,10 @@ header.pesaj .menu-boton {
 #tabBuscarMatzah {
   background-color: #895510 !important;
 }
+
+#tabBuscarPersonal {
+  background-color: #1d0a34 !important;
+}
 .menu-boton:hover {
   background: #00251a;
 }
@@ -513,6 +561,12 @@ header.pesaj {
   transition: background-color 0.3s;
 }
 
+
+header.pesaj {
+  background-color: #5c4080;
+  transition: background-color 0.3s;
+}
+
 /* El botón de menú hereda el fondo del header */
 header.tahor .menu-boton {
   background-color: #00796b;
@@ -520,6 +574,9 @@ header.tahor .menu-boton {
 
 header.pesaj .menu-boton {
   background-color: #895510;
+}
+header.personal .menu-boton {
+  background-color: #1d0a34;
 }
 
 .menu-boton {
@@ -790,6 +847,23 @@ section#formBusquedaMatzah {
   background-color: #666;
 }
 
+.boton boton-volver-tahor {
+  background-color: #888;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: 1rem auto;
+}
+
+.boton boton-volver-tahor:hover {
+  background-color: #666;
+}
 .campo input,
 .campo select {
   width: 100%;
@@ -874,7 +948,19 @@ section#formBusquedaMatzah {
   display: block;
 
 }
+#resultadoPersonal {
+  background: white;
+  margin: 2rem 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  display: block;
+  margin-bottom:200px;
 
+}
 body.tahor {
   background-color: #f3f3f3 !important;
 }
@@ -924,7 +1010,10 @@ header.pesaj {
   background-color: #895510;
   transition: background-color 0.3s;
 }
-
+header.personal {
+  background-color: #5c4080;
+  transition: background-color 0.3s;
+}
 /* Botón de menú */
 
 .menu-boton:hover {
@@ -958,7 +1047,9 @@ header.pesaj {
 .tahor .bloque h2 {
   color: #00695c; /* Verde azulado para modo Tahor */
 }
-
+.pesaj .bloque h2 {
+  color: #895510; /* Verde azulado para modo Tahor */
+}
 
 body.tahor #tituloPrincipal {
   color: #00695c; /* Verde azulado para Tahor */
@@ -1058,3 +1149,23 @@ body.pesaj #tituloPrincipal {
 /* 👑 Aquí el recorte elegante que pides 👑 */
 @media (max-width: 250px) {
   .
+/* Estilo dinámico para sección PERSONAL */
+body.personal {
+  background-color: #f9f7fc !important;
+}
+
+header.personal {
+  background-color: #5c4080; /* violeta profundo */
+}
+
+header.personal .menu-boton {
+  background-color: #1d0a34;
+}
+
+body.personal #tituloPrincipal {
+  color: #5c4080;
+}
+
+#tabRegistrarPersonal {
+  background: #5c4080 !important;
+}
