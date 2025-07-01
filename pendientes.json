@@ -51,5 +51,19 @@
     ],
     "tahor": false,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "uuh",
+    "nombre": "uhud",
+    "pais": "mji",
+    "ean": "323",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "cuc",
+      "ce",
+      "f"
+    ],
+    "tahor": false,
+    "ingredientes_tame": []
   }
 ]
