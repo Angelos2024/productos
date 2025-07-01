@@ -583,7 +583,7 @@ async function cargarPendientesMatzah() {
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ accion: "listar" })
@@ -636,7 +636,7 @@ async function aprobarProductoMatzah(index) {
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api-matzah.js', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'aprobar', producto })
@@ -654,7 +654,7 @@ async function rechazarProductoMatzah(index) {
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api-matzah.js', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'rechazar', producto })
