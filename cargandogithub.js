@@ -193,7 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
         boton.disabled = true;
         boton.textContent = "⏳ Enviando...";
 
-        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-personal.js", {
+        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ accion: "registrar", producto })
