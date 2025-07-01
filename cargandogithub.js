@@ -94,152 +94,201 @@ function verificarConflictoEnvio() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const form = document.getElementById("formRegistroManual");
-  if (!form) return;
-
-form.addEventListener("submit", async (e) => {
-  e.preventDefault();
-
-  // 1. Verificación local de bloqueo por tiempo
-  if (verificarConflictoEnvio()) {
-    return;
-  }
-
-
   const formMatzah = document.getElementById("formRegistroManualMatzah");
-if (formMatzah) {
-  formMatzah.addEventListener("submit", async (e) => {
-    e.preventDefault();
+  if (formMatzah) {
+    formMatzah.addEventListener("submit", async (e) => {
+      e.preventDefault();
 
-    if (verificarConflictoEnvio()) return;
+      if (verificarConflictoEnvio()) return;
 
-    const bloqueadoPorOtro = await verificarPendientesActualizado();
-    if (bloqueadoPorOtro) {
-      document.getElementById("mensajeUsuarioMatzah").innerHTML = `
-        ⏳ Otro usuario acaba de registrar un producto.<br>
-        Por favor espera 30 segundos antes de registrar otro.
-      `;
-      return;
-    }
-
-    const producto = {
-      marca: document.getElementById("marcaManualMatzah").value.trim(),
-      nombre: document.getElementById("nombreManualMatzah").value.trim(),
-      pais: document.getElementById("paisManualMatzah").value.trim(),
-      ean: document.getElementById("eanManualMatzah").value.trim() || "",
-      imagen: document.getElementById("imagenManualMatzah").value.trim() || "imagen no disponible",
-      ingredientes: document.getElementById("ingredientesManualMatzah").value
-        .split(",")
-        .map(i => i.trim()),
-      tahor: document.querySelector('input[name="estadoMatzah"]:checked')?.value === "true",
-      ingredientes_tame: []
-    };
-
-    try {
-      document.getElementById("enviarboton2").disabled = true;
-document.getElementById("enviarboton2").textContent = "⏳ Enviando...";
-
-      const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ accion: "registrar", producto })
-      });
-
-      if (!res.ok) {
-        document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al registrar producto.";
+      const bloqueadoPorOtro = await verificarPendientesActualizado();
+      if (bloqueadoPorOtro) {
+        document.getElementById("mensajeUsuarioMatzah").innerHTML = `
+          ⏳ Otro usuario acaba de registrar un producto.<br>
+          Por favor espera 30 segundos antes de registrar otro.
+        `;
         return;
       }
 
-      formMatzah.reset();
+      const producto = {
+        marca: document.getElementById("marcaManualMatzah").value.trim(),
+        nombre: document.getElementById("nombreManualMatzah").value.trim(),
+        pais: document.getElementById("paisManualMatzah").value.trim(),
+        ean: document.getElementById("eanManualMatzah").value.trim() || "",
+        imagen: document.getElementById("imagenManualMatzah").value.trim() || "imagen no disponible",
+        ingredientes: document.getElementById("ingredientesManualMatzah").value
+          .split(",")
+          .map(i => i.trim()),
+        tahor: document.querySelector('input[name="estadoMatzah"]:checked')?.value === "true",
+        ingredientes_tame: []
+      };
 
-      const tiempoFuturo = Date.now() + 30000;
-      localStorage.setItem("envioEnCurso", "true");
-      localStorage.setItem("registroManualSubido", Date.now());
-      localStorage.setItem("envioTiempo", tiempoFuturo);
+      try {
+        document.getElementById("enviarboton2").disabled = true;
+        document.getElementById("enviarboton2").textContent = "⏳ Enviando...";
 
-      mostrarMensajeTemporal("📡 Enviando producto sin jametz...", 30, "mensajeUsuarioMatzah");
+        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ accion: "registrar", producto })
+        });
 
-} catch (err) {
-  document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error de conexión.";
-  console.error("Error al enviar Matzah:", err);
+        if (!res.ok) {
+          document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error al registrar producto.";
+          return;
+        }
 
-  // Restaurar botón si hubo error
-  const boton = document.getElementById("enviarboton2");
-  if (boton) {
-    boton.disabled = false;
-    boton.textContent = "📝 Registrar producto";
+        formMatzah.reset();
+
+        const tiempoFuturo = Date.now() + 30000;
+        localStorage.setItem("envioEnCurso", "true");
+        localStorage.setItem("registroManualSubido", Date.now());
+        localStorage.setItem("envioTiempo", tiempoFuturo);
+
+        mostrarMensajeTemporal("📡 Enviando producto sin jametz...", 30, "mensajeUsuarioMatzah");
+      } catch (err) {
+        document.getElementById("mensajeUsuarioMatzah").innerHTML = "❌ Error de conexión.";
+        console.error("Error al enviar Matzah:", err);
+
+        const boton = document.getElementById("enviarboton2");
+        if (boton) {
+          boton.disabled = false;
+          boton.textContent = "📝 Registrar producto";
+        }
+      }
+    });
   }
-}
 
-  });
-}
+  const formPersonal = document.getElementById("formRegistroManualPersonal");
+  if (formPersonal) {
+    formPersonal.addEventListener("submit", async (e) => {
+      e.preventDefault();
 
-  // 2. Verificación remota de actividad reciente
-  const otroUsuarioEnProceso = await verificarPendientesActualizado();
-  if (otroUsuarioEnProceso) {
-    document.getElementById("mensajeUsuario").innerHTML = `
-      ⏳ Otro usuario acaba de registrar un producto.<br>
-      Por favor espera 30 segundos antes de registrar otro.
-    `;
-    return;
-  }
+      if (verificarConflictoEnvio()) return;
 
-
-    // Crear objeto producto completo
-    const producto = {
-      marca: document.getElementById("marcaManual").value.trim(),
-      nombre: document.getElementById("nombreManual").value.trim(),
-      pais: document.getElementById("paisManual").value.trim(),
-      ean: document.getElementById("eanManual").value.trim() || "",
-      imagen: document.getElementById("imagenManual").value.trim() || "imagen no disponible",
-      ingredientes: document.getElementById("ingredientesManual").value
-        .split(",")
-        .map(i => i.trim()),
-      tahor: document.querySelector('input[name="estadoTahor"]:checked')?.value === "true",
-      ingredientes_tame: []  // Se llena luego en revisión
-    };
-
-    try {
-      document.getElementById("botonrevision1").disabled = true;
-document.getElementById("botonrevision1").textContent = "⏳ Enviando...";
-
-      // Enviar inmediatamente
-
-      const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ accion: "registrar", producto })
-      });
-
-      if (!res.ok) {
-        document.getElementById("mensajeUsuario").innerHTML = "❌ Error al registrar producto.";
-        console.error("Error HTTP:", res.status);
+      const bloqueadoPorOtro = await verificarPendientesActualizado();
+      if (bloqueadoPorOtro) {
+        document.getElementById("mensajeUsuarioPersonal").innerHTML = `
+          ⏳ Otro usuario acaba de registrar un producto.<br>
+          Por favor espera 30 segundos antes de registrar otro.
+        `;
         return;
       }
 
-      form.reset(); // Limpiar campos
+      const producto = {
+        marca: document.getElementById("marcaManualPersonal").value.trim(),
+        nombre: document.getElementById("nombreManualPersonal").value.trim(),
+        pais: document.getElementById("paisManualPersonal").value.trim(),
+        ean: document.getElementById("eanManualPersonal").value.trim() || "",
+        imagen: document.getElementById("imagenManualPersonal").value.trim() || "imagen no disponible",
+        ingredientes: document.getElementById("ingredientesManualPersonal").value
+          .split(",")
+          .map(i => i.trim()),
+        tahor: document.querySelector('input[name="estadoPersonal"]:checked')?.value === "true",
+        ingredientes_tame: []
+      };
 
-      // Iniciar bloqueo de nuevos registros por 30 segundos
-      const tiempoFuturo = Date.now() + 30000;
-      localStorage.setItem("envioEnCurso", "true");
-      localStorage.setItem("registroManualSubido", Date.now());
+      try {
+        const boton = document.getElementById("enviarbotonPersonal");
+        boton.disabled = true;
+        boton.textContent = "⏳ Enviando...";
 
-      localStorage.setItem("envioTiempo", tiempoFuturo);
+        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-personal.js", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ accion: "registrar", producto })
+        });
 
-      // Mostrar mensaje con barra de progreso
-      mostrarMensajeTemporal("📡 Enviando producto al servidor...", 30);
+        if (!res.ok) {
+          document.getElementById("mensajeUsuarioPersonal").innerHTML = "❌ Error al registrar producto.";
+          return;
+        }
 
-} catch (err) {
-  document.getElementById("mensajeUsuario").innerHTML = "❌ Error de conexión.";
-  console.error("Error al enviar:", err);
+        formPersonal.reset();
 
-  // Restaurar botón si hubo error
-  const boton = document.getElementById("botonrevision1");
-  if (boton) {
-    boton.disabled = false;
-    boton.textContent = "📝 Registrar producto";
+        const tiempoFuturo = Date.now() + 30000;
+        localStorage.setItem("envioEnCurso", "true");
+        localStorage.setItem("registroManualSubido", Date.now());
+        localStorage.setItem("envioTiempo", tiempoFuturo);
+
+        mostrarMensajeTemporal("📡 Enviando producto personal...", 30, "mensajeUsuarioPersonal");
+      } catch (err) {
+        document.getElementById("mensajeUsuarioPersonal").innerHTML = "❌ Error de conexión.";
+        console.error("Error al enviar producto personal:", err);
+
+        const boton = document.getElementById("enviarbotonPersonal");
+        if (boton) {
+          boton.disabled = false;
+          boton.textContent = "📝 Registrar producto";
+        }
+      }
+    });
   }
-}
 
-  });
-});
+  const form = document.getElementById("formRegistroManual");
+  if (form) {
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      if (verificarConflictoEnvio()) return;
+
+      const otroUsuarioEnProceso = await verificarPendientesActualizado();
+      if (otroUsuarioEnProceso) {
+        document.getElementById("mensajeUsuario").innerHTML = `
+          ⏳ Otro usuario acaba de registrar un producto.<br>
+          Por favor espera 30 segundos antes de registrar otro.
+        `;
+        return;
+      }
+
+      const producto = {
+        marca: document.getElementById("marcaManual").value.trim(),
+        nombre: document.getElementById("nombreManual").value.trim(),
+        pais: document.getElementById("paisManual").value.trim(),
+        ean: document.getElementById("eanManual").value.trim() || "",
+        imagen: document.getElementById("imagenManual").value.trim() || "imagen no disponible",
+        ingredientes: document.getElementById("ingredientesManual").value
+          .split(",")
+          .map(i => i.trim()),
+        tahor: document.querySelector('input[name="estadoTahor"]:checked')?.value === "true",
+        ingredientes_tame: []
+      };
+
+      try {
+        document.getElementById("botonrevision1").disabled = true;
+        document.getElementById("botonrevision1").textContent = "⏳ Enviando...";
+
+        const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ accion: "registrar", producto })
+        });
+
+        if (!res.ok) {
+          document.getElementById("mensajeUsuario").innerHTML = "❌ Error al registrar producto.";
+          console.error("Error HTTP:", res.status);
+          return;
+        }
+
+        form.reset();
+
+        const tiempoFuturo = Date.now() + 30000;
+        localStorage.setItem("envioEnCurso", "true");
+        localStorage.setItem("registroManualSubido", Date.now());
+        localStorage.setItem("envioTiempo", tiempoFuturo);
+
+        mostrarMensajeTemporal("📡 Enviando producto al servidor...", 30);
+      } catch (err) {
+        document.getElementById("mensajeUsuario").innerHTML = "❌ Error de conexión.";
+        console.error("Error al enviar:", err);
+
+        const boton = document.getElementById("botonrevision1");
+        if (boton) {
+          boton.disabled = false;
+          boton.textContent = "📝 Registrar producto";
+        }
+      }
+    });
+  }
+}); // ← CIERRE del DOMContentLoaded
+
