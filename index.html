@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Escáner de Productos Lev 11</title>
   <link rel="stylesheet" href="style.css"/>
+   <script src="tahor-checker.js"></script> <!-- 👈 Mover aquí -->
   <style>
     #contadorProductos {
       position: absolute;
@@ -30,7 +31,7 @@
 
  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   
-  <h1 id="tituloPrincipal" style="margin: 0; display:none;">Escáner de Productos Lev 11 Éxodo 12</h1>
+  <h1 id="tituloPrincipal2" style="margin: 0; display:none;">Escáner de Productos Lev 11 Éxodo 12</h1>
 
 </div>
    
@@ -66,6 +67,17 @@
       cursor: pointer;
     ">🍞 Verificar 
   </br>productos para Pesaj</button>
+
+  <button onclick="irASeccion('personal')" style="
+  background-color: #5c4080;
+  font-size: 1.2rem;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  color: white;
+  border: none;
+  cursor: pointer;
+">🧴 Verificar<br>productos personales</button>
+
   </div>
 </div>
 
@@ -445,6 +457,167 @@
 
 </div>
 
+<div id="bloquePersonal" style="display:none;">
+
+  <!-- TABS SUPERIORES -->
+  <div id="tabsPersonal" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+    <div style="flex: 1;"></div>
+  </div>
+
+  <!-- Botón flotante de registro -->
+  <button id="tabRegistrarPersonal" onclick="mostrarFormularioRegistroPersonal()" title="Registrar productos personales" style="
+    position: fixed;
+    top: 1.4rem;
+    right: -10px;
+    background: #1d0a34 !important;
+    color: white;
+    border: none;
+    padding: 0.25rem 0.28rem;
+    border-radius: 12px;
+    z-index: 9999;
+    cursor: pointer;
+    font-size: 0.7rem;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    line-height: 1.2;
+  ">
+    📝<br>Ayúdanos a<br>Registrar productos
+  </button>
+
+  <!-- Formulario búsqueda -->
+  <section id="formBusquedaPersonal" style="padding: 1rem; display: none;">
+    <div class="contenedor">
+
+      <div class="bloque">
+        <details id="busquedaPersonal1" class="detalle-busqueda-codigo">
+          <summary><h2>🔎 Buscar por Nombre / Marca / País</h2></summary>
+
+          <div class="campo">
+            <label for="nombreEntradaPersonal">Nombre del producto</label>
+            <input type="text" id="nombreEntradaPersonal" placeholder="Ej. Shampoo, crema, jabón..." />
+          </div>
+
+          <div class="campo">
+            <label for="marcaEntradaPersonal">Marca</label>
+            <input type="text" id="marcaEntradaPersonal" placeholder="Ej. Nivea, Neutrogena..." />
+          </div>
+
+          <div class="campo">
+            <label for="paisFiltroPersonal">País</label>
+            <select id="paisFiltroPersonal" class="paisFiltro">
+    <option value="">-- Selecciona País (Opcional) --</option>
+    <option value="México">México</option>
+    <option value="USA">USA</option>
+    <option value="España">España</option>
+    <option value="Francia">Francia</option>
+    <option value="Belice">Belice</option>
+    <option value="Guatemala">Guatemala</option>
+    <option value="Honduras">Honduras</option>
+    <option value="El Salvador">El Salvador</option>
+    <option value="Nicaragua">Nicaragua</option>
+    <option value="Costa Rica">Costa Rica</option>
+    <option value="Panamá">Panamá</option>
+    <option value="Uruguay">Uruguay</option>
+    <option value="Paraguay">Paraguay</option>
+    <option value="Bolivia">Bolivia</option>
+    <option value="Ecuador">Ecuador</option>
+    <option value="República Dominicana">República Dominicana</option>
+    <option value="Puerto Rico">Puerto Rico</option>
+    <option value="Cuba">Cuba</option>
+            </select>
+          </div>
+
+          <button class="boton" id="botonBusquedaPersonal" style="background-color: #5c4080;">🔍 Buscar producto</button>
+        </details>
+      </div>
+
+<!-- Bloque 2: Búsqueda por código para PERSONAL -->
+<div class="bloque">
+  <details id="codigoManualDetallePersonal" class="detalle-busqueda-codigo">
+    <summary><h2>🔁 Buscar por Código de barras</h2></summary>
+
+    <div class="campo">
+      <label for="eanEntradaPersonal">Código manual</label>
+      <input type="text" id="eanEntradaPersonal" placeholder="Ej. 7501234567890" style="width: 100%;">
+    </div>
+
+    <div class="campo">
+      <label for="selectCamaraPersonal">Escanear con cámara (opcional)</label>
+      <button id="escanearCodigoPersonal" class="boton-escaneo" title="Escanear con cámara" style="width: 100%; background-color: #5c4080;">📷 Escanear</button>
+      <select id="selectCamaraPersonal" class="dropdown-camara" style="margin-top: 0.5rem;">
+        <option value="">(Auto)</option>
+      </select>
+    </div>
+
+    <div class="campo">
+      <label for="paisFiltroPersonal2">País</label>
+      <select id="paisFiltroPersonal2" class="paisFiltro">
+        <option value="">-- Selecciona País (Opcional) --</option>
+        <option value="México">México</option>
+        <option value="USA">USA</option>
+        <option value="España">España</option>
+        <option value="Francia">Francia</option>
+        <option value="Belice">Belice</option>
+        <option value="Guatemala">Guatemala</option>
+        <option value="Honduras">Honduras</option>
+        <option value="El Salvador">El Salvador</option>
+        <option value="Nicaragua">Nicaragua</option>
+        <option value="Costa Rica">Costa Rica</option>
+        <option value="Panamá">Panamá</option>
+        <option value="Uruguay">Uruguay</option>
+        <option value="Paraguay">Paraguay</option>
+        <option value="Bolivia">Bolivia</option>
+        <option value="Ecuador">Ecuador</option>
+        <option value="República Dominicana">República Dominicana</option>
+        <option value="Puerto Rico">Puerto Rico</option>
+        <option value="Cuba">Cuba</option>
+      </select>
+    </div>
+
+    <div style="margin-top: 1rem;">
+      <button class="boton" id="botonBusquedaCodigoPersonal" style="background-color: #5c4080;">🔍 Buscar producto</button>
+    </div>
+  </details>
+</div>
+
+    </div>
+
+
+  </section>
+
+  <!-- Resultados -->
+  <section id="resultadoPersonal"></section>
+
+  <!-- Registro Manual -->
+  <section id="registroManualPersonal" style="display:none">
+    <button id="tabBuscarPersonal" class="boton boton-volver-tahor" style="margin-bottom: 1rem;">⬅️ Volver a buscar productos</button>
+    <div class="contenedor">
+      <div class="bloque">
+        <h2>Registrar Producto de Uso Personal</h2>
+        <form id="formRegistroManualPersonal">
+          <input type="text" id="marcaManualPersonal" placeholder="Marca del producto" required>
+          <input type="text" id="nombreManualPersonal" placeholder="Nombre del producto" required>
+          <input type="text" id="eanManualPersonal" placeholder="Código de barras (opcional)">
+          <input type="text" id="paisManualPersonal" placeholder="País o región" required>
+          <textarea id="ingredientesManualPersonal" placeholder="Ingredientes separados por coma" required></textarea>
+
+          <label><strong>¿Es apto para uso personal según tus criterios?</strong></label>
+          <div class="selector-tahor">
+            <label for="personalTahor"><input type="radio" name="estadoPersonal" id="personalTahor" value="true" required>✅ Apto</label>
+            <label for="personalTame"><input type="radio" name="estadoPersonal" id="personalTame" value="false" required>❌ No Apto</label>
+          </div>
+
+          <label for="imagenManualPersonal">📷 Subir imagen (opcional):</label>
+          <input type="url" id="imagenManualPersonal" placeholder="URL de la imagen del producto">
+
+          <button type="submit" id="enviarbotonPersonal" style="background-color:#5c4080;">Enviar a Revisión</button>
+        </form>
+        <p id="mensajeUsuarioPersonal"></p>
+      </div>
+    </div>
+  </section>
+
+</div>
 
 
 <button id="adminAccess" title="Modo administrador" style="
@@ -480,12 +653,12 @@
 
 
 <!-- Scripts -->
-<script src="tahor-checker.js"></script>
 <script src="matzah-checker.js"></script>
 <script src="lectorBase.js"></script>         <!-- MOVER arriba -->
 <script src="https://unpkg.com/@zxing/library@0.18.6/umd/index.min.js"></script>
 <script src="main.js"></script>
 <script src="matzah-main.js"></script>        <!-- Cargar después -->
+<script src="personal-main.js"></script>  
 <script src="cargandogithub.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@octokit/rest@19.0.7/dist/octokit.umd.js" onload="loadAdmin()"></script>
 
@@ -548,6 +721,27 @@
 
 
 
+function activarTabPersonal(idActiva) {
+  ['tabBuscarPersonal', 'tabRegistrarPersonal'].forEach(id => {
+    const tab = document.getElementById(id);
+    if (tab) tab.classList.remove('tab-activa');
+  });
+  document.getElementById(idActiva)?.classList.add('tab-activa');
+}
+
+document.getElementById('tabBuscarPersonal')?.addEventListener('click', () => {
+  document.getElementById('formBusquedaPersonal').style.display = 'block';
+  document.getElementById('resultadoPersonal').style.display = 'block';
+  document.getElementById('registroManualPersonal').style.display = 'none';
+  activarTabPersonal('tabBuscarPersonal');
+});
+
+document.getElementById('tabRegistrarPersonal')?.addEventListener('click', () => {
+  document.getElementById('formBusquedaPersonal').style.display = 'none';
+  document.getElementById('resultadoPersonal').style.display = 'none';
+  document.getElementById('registroManualPersonal').style.display = 'block';
+  activarTabPersonal('tabRegistrarPersonal');
+});
 
 
 
@@ -582,11 +776,12 @@ function toggleMenu() {
 }
 
 function cambiarVista(tipo) {
-  const titulo = document.getElementById('tituloPrincipal');
+  const titulo = document.getElementById('tituloPrincipal') || document.getElementById('tituloPrincipal2');
   const encabezado = document.getElementById('encabezado');
   const body = document.body;
   const bloqueTahor = document.getElementById('bloqueTahor');
   const bloqueMatzah = document.getElementById('bloqueMatzah');
+  const bloquePersonal = document.getElementById('bloquePersonal'); // NUEVO
 
   if (tipo === 'pesaj') {
     titulo.textContent = '🍞 Escáner de Productos para Pesaj';
@@ -594,36 +789,25 @@ function cambiarVista(tipo) {
     body.className = 'pesaj';
     bloqueTahor.style.display = 'none';
     bloqueMatzah.style.display = 'block';
-  } else {
-    titulo.textContent = '🧪 Escáner de Productos Tahor / Tame';
-    encabezado.className = 'tahor';
-    body.className = 'tahor';
-    bloqueTahor.style.display = 'block';
-    bloqueMatzah.style.display = 'none';
-  }
-
-  menu.style.display = 'none';
-}
-function cambiarVista(tipo) {
-  const titulo = document.getElementById('tituloPrincipal');
-  const encabezado = document.getElementById('encabezado');
-  const body = document.body;
-  const bloqueTahor = document.getElementById('bloqueTahor');
-  const bloqueMatzah = document.getElementById('bloqueMatzah');
-
-  if (tipo === 'pesaj') {
-    titulo.textContent = '🍞 Escáner de Productos para Pesaj';
-    encabezado.className = 'pesaj';
-    body.className = 'pesaj';
-    bloqueTahor.style.display = 'none';
-    bloqueMatzah.style.display = 'block';
+    bloquePersonal.style.display = 'none';
     titulo.style.color = '#895510'; // Color Pesaj
+
+  } else if (tipo === 'personal') {
+    titulo.textContent = '🧴 Escáner de Productos de Higiene Personal';
+    encabezado.className = 'personal';
+    body.className = 'personal';
+    bloqueTahor.style.display = 'none';
+    bloqueMatzah.style.display = 'none';
+    bloquePersonal.style.display = 'block';
+    titulo.style.color = '#5c4080'; // Color Personal
+
   } else {
     titulo.textContent = '🧪 Escáner de Productos Tame / Tahor';
     encabezado.className = 'tahor';
     body.className = 'tahor';
     bloqueTahor.style.display = 'block';
     bloqueMatzah.style.display = 'none';
+    bloquePersonal.style.display = 'none';
     titulo.style.color = '#00695c'; // Color Tahor
   }
 
@@ -657,6 +841,37 @@ function abrirMatzah() {
   if (encabezado) encabezado.className = 'pesaj';
   if (body) body.className = 'pesaj';
 }
+function abrirPersonal() {
+  cerrarMenu(); // 👈 Cierra el menú al cambiar a sección Personal
+
+  document.getElementById('bloquePersonal').style.display = 'block';
+  document.getElementById('bloqueTahor').style.display = 'none';
+  document.getElementById('bloqueMatzah').style.display = 'none';
+
+  const titulo = document.getElementById('titulo');
+  const tituloPrincipal = document.getElementById('tituloPrincipal');
+  if (titulo) titulo.textContent = "🧴 Escáner de Productos de Higiene Personal";
+  if (tituloPrincipal) tituloPrincipal.textContent = "Escáner de Productos de Higiene Personal";
+
+  document.title = "Escáner de Productos Personales";
+
+  const encabezado = document.getElementById('encabezado');
+  if (encabezado) {
+    encabezado.classList.remove('tahor', 'pesaj');
+    encabezado.classList.add('personal');
+  }
+
+  const botonesFlotantes = document.querySelectorAll('#tabRegistrarPersonal, #tabBuscarPersonal');
+  botonesFlotantes.forEach(boton => {
+    if (boton) {
+      boton.style.backgroundColor = '#5c4080';
+    }
+  });
+
+  const botonRegistrarPersonal = document.getElementById('tabRegistrarPersonal');
+  if (botonRegistrarPersonal) botonRegistrarPersonal.style.display = 'block';
+}
+
 
 function toggleMenu() {
   const menu = document.getElementById('menu');
@@ -673,7 +888,7 @@ function toggleMenu() {
   <div id="menu" class="menu-desplegable">
 <button onclick="irASeccion('tahor')">🧪 Escaner productos Tahor</button>
 <button onclick="irASeccion('pesaj')">🍞 Escaner productos Pesaj</button>
-
+<button onclick="irASeccion('personal')">🧴 Escaner productos Personal</button>
   </div>
 </header>
 
