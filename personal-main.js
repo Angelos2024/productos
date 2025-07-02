@@ -129,9 +129,11 @@ async function buscarProductoPersonalConLocalYRemoto(nombre, marca, ean, pais) {
 
   // 1️⃣ Intentar con base local
   const htmlLocal = await buscarProductoEnArchivosSoloBase(nombre, marca, ean, pais);
-  if (htmlLocal) {
-    resultadosHTML.push(...htmlLocal.split('<hr>'));
-  }
+if (htmlLocal?.length) {
+  resultadosHTML.push(...htmlLocal);
+}
+
+
 
   // 2️⃣ Si no hay resultados, buscar en OpenBeautyFacts
   if (resultadosHTML.length === 0) {
@@ -140,7 +142,12 @@ async function buscarProductoPersonalConLocalYRemoto(nombre, marca, ean, pais) {
     if (externos) resultadosHTML.push(...externos);
   }
 
-  return resultadosHTML.length > 0 ? resultadosHTML.slice(0, 3) : null;
+ // Devolver todos los resultados si hay locales
+if (htmlLocal) return resultadosHTML;
+
+// Si solo hay externos, limitar a 3
+return resultadosHTML.length > 0 ? resultadosHTML.slice(0, 3) : null;
+
 }
 
 // --- Elementos DOM para Matzah ---
@@ -840,7 +847,8 @@ async function buscarProductoEnArchivosSoloBase(nombre, marca, ean, pais) {
 });
 
 
-      return htmls.join('<hr>');
+     return htmls; // devuelves array de resultados
+
 
     } catch (err) {
       console.warn("❌ Error al buscar en:", url, err);
