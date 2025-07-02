@@ -216,18 +216,26 @@ if (escanearCodigoPersonal) {
 
     const previewElem = document.createElement('video');
     previewElem.setAttribute('id', 'previewElemPersonal');
-    previewElem.setAttribute('style', `
-      width: 100%;
-      max-width: 480px;
-      margin: 1rem auto;
-      display: block;
-      border: 3px dashed #5c4080;
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    `);
+   previewElem.setAttribute('style', `
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  display: block;
+  background: black;
+  z-index: 999;
+  position: fixed;
+  top: 0;
+  left: 0;
+`);
+
 
     resultadoPersonal.innerHTML = `
       <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
-      <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+      <button id="cancelarEscaneo"
+ style="position: fixed; top: 1rem; right: 1rem; background: red;
+ color: white; font-weight: bold; border-radius: 8px; border: none;
+ padding: 0.5rem 1rem; z-index: 1000;">❌ Cancelar</button>
+
     `;
     resultadoPersonal.appendChild(previewElem);
 
@@ -290,6 +298,7 @@ botonBusquedaPersonal.addEventListener('click', async () => {
 
   const botonRegistrarPersonal = document.getElementById('tabRegistrarPersonal');
   if (bloquePersonalVisible && botonRegistrarPersonal) {
+    botonRegistrarPersonal.style.backgroundColor = '#5c4080';
   }
 
   // Obtener país seleccionado
@@ -789,11 +798,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const bloqueEscanerPersonal = document.getElementById("codigoManualDetallePersonal");
 if (bloqueEscanerPersonal) {
-  bloqueEscanerPersonal.addEventListener("toggle", (e) => {
-    if (e.target.open) {
-      solicitarPermisoCamara();
-    }
-  });
+bloqueEscanerPersonal.addEventListener("toggle", (e) => {
+  if (e.target.open) {
+    solicitarPermisoCamara();
+
+    // Esperar un momento y hacer scroll al preview
+    setTimeout(() => {
+      const video = document.getElementById("previewElemPersonal");
+      if (video) video.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 1000);
+  }
+});
+
 }
 
 
