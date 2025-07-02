@@ -290,7 +290,6 @@ botonBusquedaPersonal.addEventListener('click', async () => {
 
   const botonRegistrarPersonal = document.getElementById('tabRegistrarPersonal');
   if (bloquePersonalVisible && botonRegistrarPersonal) {
-    botonRegistrarPersonal.style.backgroundColor = '#5c4080';
   }
 
   // Obtener país seleccionado
