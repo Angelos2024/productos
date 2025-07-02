@@ -677,7 +677,8 @@ async function buscarSoloPorEanPersonal(ean) {
 
   // 1️⃣ Buscar en base local primero
   const local = await buscarProductoEnArchivosSoloBase('', '', ean, pais);
-  if (local) resultadosHTML.push(...local.split('<hr>'));
+ if (local?.length) resultadosHTML.push(...local);
+
 
   // 2️⃣ Buscar en OpenBeautyFacts si no hubo resultados locales
   if (resultadosHTML.length === 0) {
