@@ -136,11 +136,14 @@ if (htmlLocal?.length) {
 
 
   // 2️⃣ Si no hay resultados, buscar en OpenBeautyFacts
-  if (resultadosHTML.length === 0) {
-    resultadoPersonal.innerHTML += `<p><strong>🌐 Consultando OpenBeautyFacts...</strong></p>`;
-    const externos = await buscarEnOpenBeautyFactsPersonal(nombre, marca, ean, pais);
-    if (externos) resultadosHTML.push(...externos);
-  }
+// 🔧 CAMBIO AQUÍ:
+if (resultadosHTML.length < 3) {
+  resultadoPersonal.innerHTML += `<p><strong>🌐 Consultando OpenBeautyFacts...</strong></p>`;
+  const externos = await buscarEnOpenBeautyFactsPersonal(nombre, marca, ean, pais);
+  if (externos) resultadosHTML.push(...externos);
+}
+
+
 
  // Devolver todos los resultados si hay locales
 if (htmlLocal) return resultadosHTML;
