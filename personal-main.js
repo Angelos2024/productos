@@ -175,7 +175,13 @@ if (escanearCodigoPersonal) {
 
   escanearCodigoPersonal.addEventListener('click', async () => {
     try {
+
       await navigator.mediaDevices.getUserMedia({ video: true });
+      const bloqueEscanerPersonal = document.getElementById("codigoManualDetallePersonal");
+if (bloqueEscanerPersonal && !bloqueEscanerPersonal.open) {
+  bloqueEscanerPersonal.open = true;
+}
+
     } catch (err) {
       console.error("❌ Permiso denegado para la cámara:", err);
       selectCamaraPersonal.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
