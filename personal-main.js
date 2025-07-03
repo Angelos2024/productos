@@ -243,17 +243,19 @@ overlay.setAttribute('style', `
 `);
 
 overlay.innerHTML = `
+  <!-- Línea horizontal centrada -->
   <div style="
     position: absolute;
     top: 50%;
-    left: 10%;
-    width: 80%;
+    left: 0;
+    width: 100%;
     height: 2px;
     background: white;
-    opacity: 0.8;
-    transform: translateY(-1px);
+    opacity: 0.9;
+    transform: translateY(-50%);
   "></div>
 
+  <!-- Marco general -->
   <div style="
     position: absolute;
     top: 0;
@@ -265,6 +267,7 @@ overlay.innerHTML = `
     box-sizing: border-box;
   "></div>
 `;
+
 
 const contenedorEscaneo = document.createElement('div');
 contenedorEscaneo.style.position = 'relative';
