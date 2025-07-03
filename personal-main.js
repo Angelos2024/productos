@@ -237,11 +237,34 @@ overlay.setAttribute('style', `
   left: 0;
   width: 100%;
   height: 260px;
-  border: 2px dashed white;
   box-sizing: border-box;
   pointer-events: none;
   z-index: 10;
 `);
+
+overlay.innerHTML = `
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 80%;
+    height: 2px;
+    background: white;
+    opacity: 0.8;
+    transform: translateY(-1px);
+  "></div>
+
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 2px dashed white;
+    border-radius: 12px;
+    box-sizing: border-box;
+  "></div>
+`;
 
 const contenedorEscaneo = document.createElement('div');
 contenedorEscaneo.style.position = 'relative';
