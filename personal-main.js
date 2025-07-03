@@ -214,30 +214,49 @@ if (escanearCodigoPersonal) {
       currentPreviewStream = null;
     }
 
-    const previewElem = document.createElement('video');
-    previewElem.setAttribute('id', 'previewElemPersonal');
-   previewElem.setAttribute('style', `
-  width: 100vw;
-  height: 100vh;
+  // Crear elementos de escaneo
+const previewElem = document.createElement('video');
+previewElem.setAttribute('id', 'previewElemPersonal');
+previewElem.setAttribute('style', `
+  width: 100%;
+  max-width: 480px;
+  height: 260px;
   object-fit: cover;
+  margin: 0 auto;
   display: block;
-  background: black;
-  z-index: 999;
-  position: fixed;
-  top: 0;
-  left: 0;
+  border: 3px solid white;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  position: relative;
 `);
 
+const overlay = document.createElement('div');
+overlay.setAttribute('style', `
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 260px;
+  border: 2px dashed white;
+  box-sizing: border-box;
+  pointer-events: none;
+  z-index: 10;
+`);
 
-    resultadoPersonal.innerHTML = `
-      <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
-      <button id="cancelarEscaneo"
- style="position: fixed; top: 1rem; right: 1rem; background: red;
- color: white; font-weight: bold; border-radius: 8px; border: none;
- padding: 0.5rem 1rem; z-index: 1000;">❌ Cancelar</button>
+const contenedorEscaneo = document.createElement('div');
+contenedorEscaneo.style.position = 'relative';
+contenedorEscaneo.style.margin = '1rem auto';
+contenedorEscaneo.style.maxWidth = '480px';
+contenedorEscaneo.appendChild(previewElem);
+contenedorEscaneo.appendChild(overlay);
 
-    `;
-    resultadoPersonal.appendChild(previewElem);
+// Mostrar en pantalla
+resultadoPersonal.innerHTML = `
+  <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
+  <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+`;
+resultadoPersonal.appendChild(contenedorEscaneo);
+
 
     document.getElementById('cancelarEscaneo').addEventListener('click', () => {
       if (currentPreviewStream) {
