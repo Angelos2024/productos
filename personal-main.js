@@ -272,7 +272,7 @@ overlay.innerHTML = `
 
 const contenedorEscaneo = document.createElement('div');
 contenedorEscaneo.style.position = 'relative';
-contenedorEscaneo.style.margin = '1rem auto';
+contenedorEscaneo.style.margin = '4rem auto 2rem'; // antes era '1rem auto'
 contenedorEscaneo.style.maxWidth = '480px';
 contenedorEscaneo.appendChild(previewElem);
 contenedorEscaneo.appendChild(overlay);
@@ -850,9 +850,10 @@ bloqueEscanerPersonal.addEventListener("toggle", (e) => {
 
     // Esperar un momento y hacer scroll al preview
     setTimeout(() => {
-      const video = document.getElementById("previewElemPersonal");
-      if (video) video.scrollIntoView({ behavior: "smooth", block: "start" });
-    }, 1000);
+  const video = document.getElementById("previewElemPersonal");
+  if (video) video.scrollIntoView({ behavior: "smooth", block: "center" });
+}, 1000);
+
   }
 });
 
