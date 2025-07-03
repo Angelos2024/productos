@@ -243,17 +243,19 @@ overlay.setAttribute('style', `
 `);
 
 overlay.innerHTML = `
-  <!-- Línea horizontal centrada -->
+
+<!-- Línea horizontal centrada -->
 <div style="
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 0;
   width: 100%;
   height: 2px;
   background: white;
   opacity: 0.9;
-  transform: translateY(-1px);
+  transform: translateY(-50%);
 "></div>
+
 
 
   <!-- Marco general -->
@@ -269,13 +271,14 @@ overlay.innerHTML = `
   "></div>
 `;
 
-
 const contenedorEscaneo = document.createElement('div');
+contenedorEscaneo.id = 'contenedorEscaneoPersonal'; // ← importante
 contenedorEscaneo.style.position = 'relative';
-contenedorEscaneo.style.margin = '4rem auto 2rem'; // antes era '1rem auto'
-contenedorEscaneo.style.maxWidth = '480px';
+contenedorEscaneo.style.margin = '8rem auto 8rem';
+contenedorEscaneo.style.maxWidth = '460px'; // 20px menos que el video
 contenedorEscaneo.appendChild(previewElem);
 contenedorEscaneo.appendChild(overlay);
+
 
 // Mostrar en pantalla
 resultadoPersonal.innerHTML = `
@@ -850,8 +853,8 @@ bloqueEscanerPersonal.addEventListener("toggle", (e) => {
 
     // Esperar un momento y hacer scroll al preview
     setTimeout(() => {
-  const video = document.getElementById("previewElemPersonal");
-  if (video) video.scrollIntoView({ behavior: "smooth", block: "center" });
+const contenedor = document.getElementById("contenedorEscaneoPersonal");
+if (contenedor) contenedor.scrollIntoView({ behavior: "smooth", block: "center" });
 }, 1000);
 
   }
