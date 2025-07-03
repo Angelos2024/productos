@@ -292,6 +292,8 @@ resultadoPersonal.innerHTML = `
   <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
 `;
 resultadoPersonal.appendChild(contenedorEscaneo);
+scrollAResultadosPersonal(); // ← hace scroll al área de escaneo
+
 
 
     document.getElementById('cancelarEscaneo').addEventListener('click', () => {
