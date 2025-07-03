@@ -244,16 +244,17 @@ overlay.setAttribute('style', `
 
 overlay.innerHTML = `
   <!-- Línea horizontal centrada -->
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background: white;
-    opacity: 0.9;
-    transform: translateY(-50%);
-  "></div>
+<div style="
+  position: absolute;
+  top: 60%;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: white;
+  opacity: 0.9;
+  transform: translateY(-1px);
+"></div>
+
 
   <!-- Marco general -->
   <div style="
