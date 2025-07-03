@@ -149,107 +149,154 @@ let codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
 if (escanearCodigoMatzah) {
   const selectCamaraMatzah = document.getElementById('selectCamaraMatzah');
 
-  escanearCodigoMatzah.addEventListener('click', async () => {
-    try {
-      // Paso 1: Solicitar permisos de cámara
-      await navigator.mediaDevices.getUserMedia({ video: true });
-    } catch (err) {
-      console.error("❌ Permiso denegado para la cámara:", err);
-      selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
-      return;
+escanearCodigoMatzah.addEventListener('click', async () => {
+  try {
+    await navigator.mediaDevices.getUserMedia({ video: true });
+  } catch (err) {
+    console.error("❌ Permiso denegado para la cámara:", err);
+    selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
+    return;
+  }
+
+  let devices = [];
+  try {
+    devices = await codeReaderMatzah.getVideoInputDevices();
+    const camaraAnterior = selectCamaraMatzah.value;
+
+    selectCamaraMatzah.innerHTML = '';
+    devices.forEach((device, index) => {
+      const option = document.createElement('option');
+      option.value = device.deviceId;
+      option.text = device.label || `Cámara ${index + 1}`;
+      selectCamaraMatzah.appendChild(option);
+    });
+
+    if (devices.some(d => d.deviceId === camaraAnterior)) {
+      selectCamaraMatzah.value = camaraAnterior;
+    } else if (devices.length > 0) {
+      selectCamaraMatzah.value = devices[0].deviceId;
     }
+  } catch (err) {
+    console.error('❌ No se pudo listar cámaras:', err);
+    selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
+    return;
+  }
 
-    let devices = [];
-    try {
-      // Paso 2: Obtener lista de cámaras disponibles
-      devices = await codeReaderMatzah.getVideoInputDevices();
-      const camaraAnterior = selectCamaraMatzah.value;
+  const selectedDeviceId = selectCamaraMatzah.value;
 
-      selectCamaraMatzah.innerHTML = '';
-      devices.forEach((device, index) => {
-        const option = document.createElement('option');
-        option.value = device.deviceId;
-        option.text = device.label || `Cámara ${index + 1}`;
-        selectCamaraMatzah.appendChild(option);
-      });
+  if (currentPreviewStream) {
+    currentPreviewStream.getTracks().forEach(track => track.stop());
+    currentPreviewStream = null;
+  }
 
-      const existeAun = devices.some(d => d.deviceId === camaraAnterior);
-      if (existeAun) {
-        selectCamaraMatzah.value = camaraAnterior;
-      } else if (devices.length > 0) {
-        selectCamaraMatzah.value = devices[0].deviceId;
-      }
-    } catch (err) {
-      console.error('❌ No se pudo listar dispositivos de cámara:', err);
-      selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-      return;
-    }
+  // NUEVO DISEÑO DE ESCANEO
+  const previewElem = document.createElement('video');
+  previewElem.setAttribute('id', 'previewElemMatzah');
+  previewElem.setAttribute('style', `
+    width: 100%;
+    max-width: 480px;
+    height: 260px;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+    border: 3px solid white;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+  `);
 
-    const selectedDeviceId = selectCamaraMatzah.value;
+  const overlay = document.createElement('div');
+  overlay.setAttribute('style', `
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 260px;
+    box-sizing: border-box;
+    pointer-events: none;
+    z-index: 10;
+  `);
+  overlay.innerHTML = `
+    <div style="
+      position: absolute;
+      top: 50%;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: white;
+      opacity: 0.9;
+      transform: translateY(-50%);
+    "></div>
+    <div style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 2px dashed white;
+      border-radius: 12px;
+      box-sizing: border-box;
+    "></div>
+  `;
 
+  const contenedorEscaneo = document.createElement('div');
+  contenedorEscaneo.id = 'contenedorEscaneoMatzah';
+  contenedorEscaneo.style.position = 'relative';
+  contenedorEscaneo.style.margin = '8rem auto 8rem';
+  contenedorEscaneo.style.maxWidth = '460px';
+  contenedorEscaneo.appendChild(previewElem);
+  contenedorEscaneo.appendChild(overlay);
+
+  resultadoMatzah.innerHTML = `
+    <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
+    <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+  `;
+  resultadoMatzah.appendChild(contenedorEscaneo);
+
+  scrollAResultadosMatzah();
+
+  document.getElementById('cancelarEscaneo').addEventListener('click', () => {
     if (currentPreviewStream) {
       currentPreviewStream.getTracks().forEach(track => track.stop());
       currentPreviewStream = null;
     }
+    codeReaderMatzah.reset();
+    codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
+    resultadoMatzah.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
+  });
 
-    const previewElem = document.createElement('video');
-    previewElem.setAttribute('id', 'previewElemMatzah');
-    previewElem.setAttribute('style', `
-      width: 100%;
-      max-width: 480px;
-      margin: 1rem auto;
-      display: block;
-      border: 3px dashed #895510;
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    `);
-
-    resultadoMatzah.innerHTML = `
-      <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
-      <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
-    `;
-    resultadoMatzah.appendChild(previewElem);
-
-    document.getElementById('cancelarEscaneo').addEventListener('click', () => {
-      if (currentPreviewStream) {
-        currentPreviewStream.getTracks().forEach(track => track.stop());
-        currentPreviewStream = null;
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({
+      video: {
+        deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+        width: { ideal: 1280 },
+        height: { ideal: 720 }
       }
-      codeReaderMatzah.reset();
-      codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
-      resultadoMatzah.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
     });
 
-    try {
-      const stream = await navigator.mediaDevices.getUserMedia({
-        video: {
-          deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
-          width: { ideal: 1280 },
-          height: { ideal: 720 }
+    previewElem.srcObject = stream;
+    await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+    currentPreviewStream = stream;
+
+    codeReaderMatzah.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+      if (result) {
+        document.getElementById('eanEntradaMatzah').value = result.text;
+        buscarSoloPorEanMatzah(result.text);
+
+        codeReaderMatzah.reset();
+        if (currentPreviewStream) {
+          currentPreviewStream.getTracks().forEach(track => track.stop());
+          currentPreviewStream = null;
         }
-      });
+      }
+    });
 
-      previewElem.srcObject = stream;
-      await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
-      currentPreviewStream = stream;
+  } catch (err) {
+    console.error('❌ Error escaneando:', err);
+    resultadoMatzah.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+  }
+});
 
-      codeReaderMatzah.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
-        if (result) {
-          document.getElementById('eanEntradaMatzah').value = result.text;
-          buscarSoloPorEanMatzah(result.text);
-
-          codeReaderMatzah.reset();
-          if (currentPreviewStream) {
-            currentPreviewStream.getTracks().forEach(track => track.stop());
-            currentPreviewStream = null;
-          }
-        }
-      });
-
-    } catch (err) {
-      console.error('❌ Error escaneando:', err);
-      resultadoMatzah.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
-    }
-  });
 }
 
 
@@ -583,7 +630,7 @@ async function cargarPendientesMatzah() {
   contenedor.innerHTML = "<p>Cargando...</p>";
 
   try {
-    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api.js", {
+    const res = await fetch("https://productos-amber.vercel.app/api/verificador-api-matzah.js", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ accion: "listar" })
@@ -636,7 +683,7 @@ async function aprobarProductoMatzah(index) {
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api-matzah.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'aprobar', producto })
@@ -654,7 +701,7 @@ async function rechazarProductoMatzah(index) {
   if (!producto) return;
 
   try {
-    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api.js', {
+    const res = await fetch('https://productos-amber.vercel.app/api/verificador-api-matzah.js', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ accion: 'rechazar', producto })
