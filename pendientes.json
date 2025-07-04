@@ -1,34 +1,5 @@
 [
   {
-    "marca": "Alco",
-    "nombre": "Salchipollo",
-    "pais": "México",
-    "ean": "7501720800077",
-    "imagen": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750172080007L.jpg",
-    "ingredientes": [
-      "Carne de pollo",
-      "agua",
-      "condimentos",
-      "almidón de maíz",
-      "triplosofatos de sodio",
-      "proteína hidrolizada de maíz",
-      "carregenina",
-      "soya",
-      "glutamato monosodico",
-      "trigo",
-      "tapioca",
-      "bicarbonato de sodio",
-      "rojo 40",
-      "amarillo ocaso",
-      "leche",
-      "huevo",
-      "nuez",
-      "gluten."
-    ],
-    "tahor": true,
-    "ingredientes_tame": []
-  },
-  {
     "marca": "Levia",
     "nombre": "Yogurt",
     "pais": "México",
