@@ -651,7 +651,7 @@ header.personal .menu-boton {
   padding: 1rem;
   margin-top: 50px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  width: 100%;
+  width: auto;
   max-width: 420px;
 }
 
@@ -1169,3 +1169,50 @@ body.personal #tituloPrincipal {
 #tabRegistrarPersonal {
   background: #5c4080 !important;
 }
+
+}
+#tituloPrincipal {
+  margin-top: 60px; /* escritorio por defecto */
+}
+
+
+@media (max-width: 600px) {
+  #tituloPrincipal {
+    margin-top: 110px; /* móviles estándar */
+  }
+}
+@media (min-height: 801px) {
+  #tituloPrincipal {
+    margin-top: 40px; /* ajusta según lo que necesites */
+  }
+}
+@media (max-width: 500px) {
+  #tituloPrincipal {
+    margin-top: 130px; /* iPhone 13 Pro o similares */
+  }
+}
+@media (max-width: 400px) {
+  #tituloPrincipal {
+    margin-top: 130px; /* iPhone 13 Pro o similares */
+  }
+}
+@media (max-width: 380px) {
+  #tituloPrincipal {
+    margin-top: 200px; /* iPhone 13 Pro o similares */
+  }
+}
+
+@media (max-width: 340px) and (max-height: 600px) {
+  #tituloPrincipal {
+    margin-top: 350px;
+    display: block;
+    text-align: center;
+    font-size: 1.8rem;
+  }
+}
+
+
+html, body {
+  overflow-y: scroll;
+}
+
