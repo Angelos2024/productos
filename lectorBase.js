@@ -180,8 +180,7 @@ async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
   mostrarCarga();
   const claveBusqueda = normalizeYsingularizar(`${marca} ${nombre}`);
   const urls = [
-    `${RUTA_BASE}${ARCHIVO_BASE_PRINCIPAL}`,
-    ...Array.from({ length: MAX_ARCHIVOS }, (_, i) => `${RUTA_BASE}${PATRON_ARCHIVO(i + 1)}`)
+    `${RUTA_BASE}${ARCHIVO_BASE_PRINCIPAL}`
   ];
 
   const coincidencias = [];
