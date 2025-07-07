@@ -14,8 +14,8 @@ function normalizeYsingularizar(txt) {
 
 const ingredientesTame = [
   "carmín", "cochinilla", "carminico",
-"laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120",
+"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
+"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
 "carminic", "natural red", "carmesi natural", "ci natural red 4",
 
   // Carnes impuras
