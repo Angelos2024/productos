@@ -27,7 +27,7 @@ const ingredientesTame = [
   "perro", "gato", "zorro", "zorrillo",
 
   // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi",
+  "marisco", "camarón", "langosta", "surimi","glycerina",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
  "carmine", "cochineal", "carminic acid", "carminic acid",
