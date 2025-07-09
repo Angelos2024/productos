@@ -407,5 +407,23 @@
     ],
     "tahor": false,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Electrolit",
+    "nombre": "Suero hidratante",
+    "pais": "México",
+    "ean": "7501125118562",
+    "imagen": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750112511856L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "ingredientes": [
+      "agua",
+      "cloruro de sodio",
+      "cloruro de potasio",
+      "cloruro de calcio",
+      "cloruro de magnesio",
+      "lactato de sodio",
+      "glucosa y saborizantes naturales de lima-limón."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
