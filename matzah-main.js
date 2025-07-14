@@ -280,8 +280,10 @@ escanearCodigoMatzah.addEventListener('click', async () => {
 
     codeReaderMatzah.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
       if (result) {
-        document.getElementById('eanEntradaMatzah').value = result.text;
-        buscarSoloPorEanMatzah(result.text);
+document.getElementById('eanEntradaMatzah').value = result.text;
+buscarSoloPorEanMatzah(result.text);
+document.getElementById('eanEntradaMatzah').value = ''; // 🧹 Limpia tras escaneo
+
 
         codeReaderMatzah.reset();
         if (currentPreviewStream) {
@@ -345,10 +347,12 @@ if (!ean && (!marca || !nombre)) {
 }
 
 
-  if (ean && /^[0-9]{8,14}$/.test(ean)) {
-    buscarSoloPorEanMatzah(ean);
-    return;
-  }
+if (ean && /^[0-9]{8,14}$/.test(ean)) {
+  buscarSoloPorEanMatzah(ean);
+  document.getElementById('eanEntradaMatzah').value = ''; // 🧹 Limpia campo manual
+  return;
+}
+
 
   marcaGlobalMatzah = marca;
   nombreGlobalMatzah = nombre;
