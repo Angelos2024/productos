@@ -254,8 +254,10 @@ escanearCodigoBtn.addEventListener('click', async () => {
 
     codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
       if (result) {
-        document.getElementById('eanEntrada').value = result.text;
-        buscarSoloPorEan(result.text);
+ document.getElementById('eanEntrada').value = result.text;
+buscarSoloPorEan(result.text);
+document.getElementById('eanEntrada').value = ''; // 🧹 Limpia tras escaneo
+
 
         codeReader.reset();
         if (currentPreviewStream) {
@@ -317,11 +319,11 @@ if (!ean && (!marca || !nombre)) {
 }
 
 
-  if (ean && /^[0-9]{8,14}$/.test(ean)) {
-    buscarSoloPorEan(ean);
-    return;
-  }
-
+ if (ean && /^[0-9]{8,14}$/.test(ean)) {
+  buscarSoloPorEan(ean);
+  document.getElementById('eanEntrada').value = ''; // 🧹 Limpia el campo después de buscar
+  return;
+}
   marcaGlobal = marca;
   nombreGlobal = nombre;
   eanGlobal = ean;
