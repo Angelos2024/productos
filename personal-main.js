@@ -321,8 +321,10 @@ scrollAResultadosPersonal(); // ← hace scroll al área de escaneo
 
       codeReaderPersonal.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
         if (result) {
-          document.getElementById('eanEntradaPersonal').value = result.text;
-          buscarSoloPorEanPersonal(result.text);
+document.getElementById('eanEntradaPersonal').value = result.text;
+buscarSoloPorEanPersonal(result.text);
+document.getElementById('eanEntradaPersonal').value = ''; // 🧹 Limpia tras escaneo
+
 
           codeReaderPersonal.reset();
           if (currentPreviewStream) {
@@ -371,10 +373,11 @@ botonBusquedaPersonal.addEventListener('click', async () => {
     return;
   }
 
-  if (ean && /^[0-9]{8,14}$/.test(ean)) {
-    buscarSoloPorEanPersonal(ean);
-    return;
-  }
+if (ean && /^[0-9]{8,14}$/.test(ean)) {
+  buscarSoloPorEanPersonal(ean);
+  document.getElementById('eanEntradaPersonal').value = ''; // 🧹 Limpia campo manual
+  return;
+}
 
   marcaGlobalPersonal = marca;
   nombreGlobalPersonal = nombre;
