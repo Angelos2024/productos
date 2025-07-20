@@ -1,6 +1,6 @@
 {
   "name": "Escáner Productos Levítico 11",
-  "short_name": "Productos Lev 11",
+  "short_name": "Bediqah-App",
   "description": "Verifica productos Tahor, Pesaj y Personales según Levítico 11",
   "start_url": "/",
   "display": "standalone",
