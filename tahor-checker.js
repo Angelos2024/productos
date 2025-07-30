@@ -106,7 +106,7 @@ const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar
 function isTame(ingrediente) {
   const normal = normalizeYsingularizar(ingrediente);
 
-  // ⚠️ Detección especial para "goma laca" como frase
+  // Excepciones por inclusión específica
   if (
     normal.includes("goma laca") ||
     normal.includes("e904") ||
@@ -114,16 +114,12 @@ function isTame(ingrediente) {
     normal.includes("laca de cochinilla") ||
     normal.includes("cochineal lac") ||
     normal.includes("carmine lac")
-  ) {
-    return true;
-  }
+  ) return true;
 
-  // Evaluación por palabras individuales para el resto
-  const palabras = normal.split(" ");
-  return window.ingredientesTame?.some(tame => {
-    const tameNorm = normalizeYsingularizar(tame);
-    return palabras.includes(tameNorm);
-  });
+  // Comparación exacta por frase
+  return window.ingredientesTame?.some(tame =>
+    normalizeYsingularizar(tame) === normal
+  );
 }
 
 
