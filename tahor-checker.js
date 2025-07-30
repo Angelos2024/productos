@@ -1,21 +1,24 @@
 // tahor-checker.js - Núcleo para verificar ingredientes Tame según Levítico 11
-function normalizeFrase(txt) {
+function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
-    .trim();
+    .trim()
+    .split(" ")
+    .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
+    .join(" ");
 }
 
 // Lista simplificada sin tradiciones rabínicas
 const ingredientesTame = [
  // Carmin
-  "carmín", "cochinilla", "carminico",
-"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
-"carminic", "natural red", "carmesi natural", "ci natural red 4",
+  "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
+"laca", "laca armin", "laca de cochinilla", "crimson lake",
+"natural red 4", "natural rojo 4", "CI 75470", "E120",
+"carminic acid", "natural red", "carmesi natural", "ci natural red 4","carmines",
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
@@ -24,7 +27,7 @@ const ingredientesTame = [
   "perro", "gato", "zorro", "zorrillo",
 
   // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi","glycerina",
+  "marisco", "camarón", "langosta", "surimi",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
  "carmine", "cochineal", "carminic acid", "carminic acid",
@@ -97,28 +100,18 @@ const ingredientesTame = [
 ];
 
 // 🛠️ Al inicio: genera lista normalizada una sola vez
+const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
 
-// Generar versión normalizada
-const ingredientesTameNormalizados = ingredientesTame.map(normalizeFrase);
 
-// Verificador exacto
 function isTame(ingrediente) {
-  const normal = normalizeFrase(ingrediente);
-
-  // Excepciones específicas por fragmento
-  if (
-    normal.includes("goma laca") ||
-    normal.includes("e904") ||
-    normal.includes("shellac") ||
-    normal.includes("laca de cochinilla") ||
-    normal.includes("cochineal lac") ||
-    normal.includes("carmine lac")
-  ) return true;
-
-  return ingredientesTameNormalizados.includes(normal);
+  const ingNormalizado = normalizeYsingularizar(ingrediente);
+  const palabras = ingNormalizado.split(" ");
+  return palabras.some(palabra =>
+    ingredientesTameNormalizados.includes(palabra)
+  );
 }
 
-// Resultado global
+
 function analizarIngredientes(ingredientes) {
   const impuros = ingredientes.filter(i => isTame(i));
   return {
@@ -127,5 +120,5 @@ function analizarIngredientes(ingredientes) {
   };
 }
 
-// ✅ Si deseas exportar para otros scripts, usa esto:
-window.ingredientesTame = ingredientesTame; // sin normalizar
+// Exportar al entorno global para que personal-main.js lo use también
+window.ingredientesTame = ingredientesTameNormalizados;
