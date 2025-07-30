@@ -253,8 +253,8 @@ escanearCodigoBtn.addEventListener('click', async () => {
     currentPreviewStream = stream;
 
     codeReader.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
-      if (result) {
- document.getElementById('eanEntrada').value = result.text;
+      if (result) { 
+      document.getElementById('eanEntrada').value = result.text;
 buscarSoloPorEan(result.text);
 document.getElementById('eanEntrada').value = ''; // 🧹 Limpia tras escaneo
 
@@ -319,11 +319,12 @@ if (!ean && (!marca || !nombre)) {
 }
 
 
- if (ean && /^[0-9]{8,14}$/.test(ean)) {
-  buscarSoloPorEan(ean);
-  document.getElementById('eanEntrada').value = ''; // 🧹 Limpia el campo después de buscar
-  return;
-}
+  if (ean && /^[0-9]{8,14}$/.test(ean)) {
+    buscarSoloPorEan(ean);
+     document.getElementById('eanEntrada').value = ''; // 🧹 Limpia el campo después de buscar
+    return;
+  }
+
   marcaGlobal = marca;
   nombreGlobal = nombre;
   eanGlobal = ean;
@@ -341,10 +342,9 @@ if (htmlLocales) {
     const doc = parser.parseFromString(htmlProducto, 'text/html');
     const nombreProducto = doc.querySelector('strong')?.textContent || "";
     const ingredientesTexto = doc.querySelector('p')?.textContent || "";
-    const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
+const ingredientes = ingredientesTexto.split(',').map(i => i?.trim()).filter(Boolean);
 
-    let contieneTame = false;
-
+let contieneTame = false;
 const htmlIngredientes = ingredientes.map(ing => {
   if (typeof isTame === "function" && isTame(ing)) {
     contieneTame = true;
@@ -354,18 +354,17 @@ const htmlIngredientes = ingredientes.map(ing => {
   }
 }).join(", ");
 
-const color = contieneTame ? "red" : "green";
-const estado = contieneTame ? "❌ No Apto (Tame)" : "✅ Apto (Tahor)";
+    const color = contieneTame ? "red" : "green";
+    const estado = contieneTame ? "❌ No Apto (Tame)" : "✅ Apto (Tahor)";
 
-resultadosHTML.push(`
-  <details class="detalle-producto">
-    <summary><strong>${nombreProducto}</strong></summary>
-    ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-    <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
-    <p style="color:${color}; font-weight:bold;">${estado}</p>
-  </details>
-`);
-
+    resultadosHTML.push(`
+      <details class="detalle-producto">
+        <summary><strong>${nombreProducto}</strong></summary>
+        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
+        <p style="color:${color}; font-weight:bold;">${estado}</p>
+      </details>
+    `);
   }
 }
 
@@ -705,7 +704,7 @@ if (pais) {
     if (!prod.product_name || (!prod.ingredients_text && !prod.ingredients)) continue;
 
 
-      const ingredientes = prod.ingredients_text.toLowerCase()
+     const ingredientes = prod.ingredients_text
         .split(/,|\./)
         .map(i => i.trim())
         .filter(i => i.length > 1);
