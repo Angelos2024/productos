@@ -102,7 +102,6 @@ const ingredientesTame = [
 // 🛠️ Al inicio: genera lista normalizada una sola vez
 const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
 
-
 function isTame(ingrediente) {
   const ingNormalizado = normalizeYsingularizar(ingrediente);
   const palabras = ingNormalizado.split(" ");
@@ -119,6 +118,3 @@ function analizarIngredientes(ingredientes) {
     ingredientesTame: impuros
   };
 }
-
-// Exportar al entorno global para que personal-main.js lo use también
-window.ingredientesTame = ingredientesTameNormalizados;
