@@ -17,10 +17,10 @@
   // Lista Tame (idéntica a tahor-checker.js pero renombrada internamente)
  window.ingredientesTameMatzah = [
  // Carmin
-  "carmín", "cochinilla", "carminico",
-"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
-"carminic", "natural red", "carmesi natural", "ci natural red 4",
+  "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
+"laca", "laca armin", "laca de cochinilla", "crimson lake",
+"natural red 4", "natural rojo 4", "CI 75470", "E120",
+"carminic acid", "natural red", "carmesi natural", "ci natural red 4",
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
@@ -113,18 +113,17 @@
 function isTameMatzah(ing) {
   const normal = normalizeYsingularizar(ing);
 
-  // Verificación especial para "goma laca" como frase exacta
-  if (normal.includes("goma laca") || normal.includes("e904") || normal.includes("shellac")) {
-    return true;
-  }
-
-  const palabras = normal.split(" ");
   return window.ingredientesTameMatzah.some(tame => {
     const tameNorm = normalizeYsingularizar(tame);
+
+    // Coincidencia exacta
+    if (normal === tameNorm) return true;
+
+    // Coincidencia por palabra si está en medio de una frase compuesta
+    const palabras = normal.split(" ");
     return palabras.includes(tameNorm);
   });
 }
-
 
 
 function isLeudante(ing) {
