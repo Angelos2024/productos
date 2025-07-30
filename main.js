@@ -345,27 +345,27 @@ if (htmlLocales) {
 
     let contieneTame = false;
 
-    const htmlIngredientes = ingredientes.map(ing => {
-      const normalizado = normalizeYsingularizar(ing);
-      if (typeof isTame === "function" && isTame(normalizado)) {
-        contieneTame = true;
-        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
-      } else {
-        return `<span>${ing}</span>`;
-      }
-    }).join(", ");
+const htmlIngredientes = ingredientes.map(ing => {
+  if (typeof isTame === "function" && isTame(ing)) {
+    contieneTame = true;
+    return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+  } else {
+    return `<span>${ing}</span>`;
+  }
+}).join(", ");
 
-    const color = contieneTame ? "red" : "green";
-    const estado = contieneTame ? "❌ No Apto (Tame)" : "✅ Apto (Tahor)";
+const color = contieneTame ? "red" : "green";
+const estado = contieneTame ? "❌ No Apto (Tame)" : "✅ Apto (Tahor)";
 
-    resultadosHTML.push(`
-      <details class="detalle-producto">
-        <summary><strong>${nombreProducto}</strong></summary>
-        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
-        <p style="color:${color}; font-weight:bold;">${estado}</p>
-      </details>
-    `);
+resultadosHTML.push(`
+  <details class="detalle-producto">
+    <summary><strong>${nombreProducto}</strong></summary>
+    ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
+    <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
+    <p style="color:${color}; font-weight:bold;">${estado}</p>
+  </details>
+`);
+
   }
 }
 
