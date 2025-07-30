@@ -20,6 +20,7 @@ const ingredientesTame = [
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
+  "amarillo ocaso", "amarillo ocaso FCF", "e110"
   "caballo", "burro", "mulo",
   "camello", "liebre", "conejo",
   "perro", "gato", "zorro", "zorrillo",
@@ -56,7 +57,7 @@ const ingredientesTame = [
 
   // Productos derivados de animales impuros
   "gelatina", "gelatina de cerdo", "grasa de cerdo", "grasa animal",
-  "cuajo animal", "cuajo de cerdo", "enzima animal", "mermelada", "jam",
+  "cuajo animal", "cuajo de cerdo", "enzima animal","laca", "mermelada", "jam",
 
   // Sangre
   "sangre", "morcilla", "negra de cerdo",
