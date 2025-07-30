@@ -12,99 +12,237 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
-const ingredientesTame = [
-  "carmín", "cochinilla", "carminico",
-"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
-"carminic", "natural red", "carmesi natural", "ci natural red 4",
+const ingredientesTameFrases = [
+  'CI 75470',
+  'E-120',
+  'CI natural red 4',
+  'amarillo ocaso',
+  'amarillo ocaso FCF',
+  'animal collagen',
+  'animal enzyme',
+  'animal extract',
+  'animal fat',
+  'animal glycerin',
+  'animal glycerol',
+  'animal magnesium stearate',
+  'animal rennet',
+  'animal stearic acid',
+  'black pudding',
+  'blood sausage',
+  'caldo de cerdo',
+  'carmesi natural',
+  'carmine lac',
+  'ci natural red 4',
+  'cochineal lac',
+  'colorante amarillo ocaso FCF',
+  'colágeno animal',
+  'colágeno porcino',
+  'crimson lake',
+  'cuajo animal',
+  'cuajo de cerdo',
+  'enzima animal',
+  'estearato de magnesio animal',
+  'extracto animal',
+  'extracto de carne de cerdo',
+  'gelatina de cerdo',
+  'glicerina animal',
+  'glicerol animal',
+  'glicerol monoestearato',
+  'glycerol esters',
+  'glycerol monostearate',
+  'glyceryl monostearate',
+  'goma laca',
+  'grasa animal',
+  'grasa de cerdo',
+  'laca armin',
+  'laca de cochinilla',
+  'mono y diglicéridos',
+  'mono- and diglycerides',
+  'mono- and diglycerides of fatty acids',
+  'monoestearato de glicerilo',
+  'monoestearato de sorbitán',
+  'monoglicéridos y diglicéridos de ácidos grasos',
+  'natural carmine',
+  'natural red',
+  'natural red 4',
+  'natural rojo 4',
+  'negra de cerdo',
+  'pepsina porcina',
+  'porcine collagen',
+  'porcine pepsin',
+  'pork broth',
+  'pork fat',
+  'pork gelatin',
+  'pork meat extract',
+  'pork rennet',
+  'sorbitan monostearate',
+  'ácido esteárico animal',
+  'ésteres de glicerol'
+].map(normalizeYsingularizar);
 
-  // Carnes impuras
-  "cerdo", "chancho", "puerco",
-  "amarillo ocaso", "amarillo ocaso FCF", "e110",
-  "caballo", "burro", "mulo",
-  "camello", "liebre", "conejo",
-  "perro", "gato", "zorro", "zorrillo",
 
-  // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi",
-  "ostra", "almeja", "mejillón", "calamar", "pulpo",
-  "anguila", "tiburón", "ballena", "mantarraya",
- "carmine", "cochineal",
-"lac", "carmine lac", "cochineal lac", "crimson lake",
-"natural red 4", "natural red 4", "CI 75470", "E120", "natural red", "natural carmine", "CI natural red 4",
+const ingredientesTamePalabras = [
+  'E120',
+  'abeja',
+  'acetilgliceridos',
+  'acetylglycerides',
+  'almeja',
+  'anguila',
+  'ant',
+  'avestruz',
+  'avispa',
+  'ballena',
+  'bat',
+  'bee',
+  'beetle',
+  'buitre',
+  'burro',
+  'búho',
+  'caballo',
+  'calamar',
+  'camarón',
+  'camel',
+  'camello',
+  'carmine',
+  'carminic',
+  'carminico',
+  'carmín',
+  'cat',
+  'cerdo',
+  'chancho',
+  'clam',
+  'cochineal',
+  'cochinilla',
+  'cocodrilo',
+  'conejo',
+  'cricket',
+  'crocodile',
+  'cuervo',
+  'diglicéridos',
+  'diglycerides',
+  'dog',
+  'donkey',
+  'e110',
+  'e120',
+  'e422',
+  'e470a',
+  'e470b',
+  'e471',
+  'e472',
+  'e473',
+  'e474',
+  'e475',
+  'e904',
+  'eagle',
+  'eel',
+  'escarabajo',
+  'escorpión',
+  'falcon',
+  'fly',
+  'fox',
+  'frog',
+  'gato',
+  'gaviota',
+  'gelatin',
+  'glycerin',
+  'glycerol',
+  'grenetina',
+  'grillo',
+  'gusano',
+  'halcón',
+  'hare',
+  'hormiga',
+  'horse',
+  'insect',
+  'insecto',
+  'lac',
+  'laca',
+  'lagarto',
+  'langosta',
+  'larva',
+  'liebre',
+  'lizard',
+  'lobster',
+  'locust',
+  'mantarraya',
+  'marisco',
+  'mejillón',
+  'mermelada',
+  'monoestearato',
+  'monoglicéridos',
+  'monoglycerides',
+  'monostearate',
+  'morcilla',
+  'mosca',
+  'mule',
+  'mulo',
+  'murciélago',
+  'mussel',
+  'octopus',
+  'ostra',
+  'ostrich',
+  'owl',
+  'oyster',
+  'pelican',
+  'pelícano',
+  'perro',
+  'pig',
+  'pork',
+  'puerco',
+  'pulpo',
+  'rabbit',
+  'rana',
+  'raven',
+  'saltamontes',
+  'sangre',
+  'sapo',
+  'scorpion',
+  'seagull',
+  'serpiente',
+  'shrimp',
+  'skunk',
+  'snake',
+  'sorbitan monostearate',
+  'squid',
+  'stingray',
+  'surimi',
+  'swine',
+  'tiburón',
+  'toad',
+  'tortuga',
+  'turtle',
+  'vulture',
+  'wasp',
+  'whale',
+  'worm',
+  'zorrillo',
+  'zorro'
+].map(normalizeYsingularizar);
 
-"pork", "pig", "swine",
-"horse", "donkey", "mule",
-"camel", "hare", "rabbit",
-"dog", "cat", "fox", "skunk",
 
-"shellfish", "shrimp", "lobster", "surimi",
-"oyster", "clam", "mussel", "squid", "octopus",
-"eel", "shark", "whale", "stingray",
-
-
-  // Insectos y derivados
-  "cochinilla", "carmín", "e120", "insecto", "larva", "gusano",
-  "escarabajo", "mosca", "abeja", "avispa", "hormiga",
-  "escorpión", "saltamontes", "grillo", // solo algunos son permitidos, pero se eliminan por seguridad
-
-  // Reptiles, anfibios y otros
-  "rana", "sapo", "tortuga", "serpiente", "cocodrilo", "lagarto",
-
-  // Aves impuras
-  "águila", "buitre", "halcón", "búho", "cuervo",
-  "gaviota", "murciélago", "avestruz", "pelícano",
-
-  // Productos derivados de animales impuros
-  "gelatina", "gelatina de cerdo", "grasa de cerdo", "grasa animal",
-  "cuajo animal", "cuajo de cerdo", "enzima animal","laca", "mermelada", "jam",
-
-  // Sangre
-  "sangre", "morcilla", "negra de cerdo",
- "cochineal", "carmine", "e120", "insect", "larva", "worm",
-"beetle", "fly", "bee", "wasp", "ant",
-"scorpion", "locust", "cricket",
-
-"frog", "toad", "turtle", "snake", "crocodile", "lizard",
-
-"eagle", "vulture", "falcon", "owl", "raven",
-"seagull", "bat", "ostrich", "pelican",
-
-"gelatin", "pork gelatin", "pork fat", "animal fat",
-"animal rennet", "pork rennet", "animal enzyme", "jam", "jam",
-
-"blood", "blood sausage", "black pudding",
-
-
-  // Otros
-  "colágeno animal", "extracto animal", "caldo de cerdo", "cuajo animal", "enzima animal", "pepsina porcina",
-  "colágeno porcino", "glicerina animal", "ácido esteárico animal",
-  "estearato de magnesio animal", "extracto de carne de cerdo",
-   "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-  "monoestearato", "monoglicéridos", "diglicéridos", "monoglicéridos y diglicéridos de ácidos grasos",
-  "monoestearato de glicerilo", "glicerol monoestearato", "acetilgliceridos",
-  "mono y diglicéridos", "ésteres de glicerol", "monoestearato de sorbitán",
-
-  // Glicerina y Glicerol
-  "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
- "animal collagen", "animal extract", "pork broth", "animal rennet", "animal enzyme", "porcine pepsin",
-"porcine collagen", "animal glycerin", "animal stearic acid",
-"animal magnesium stearate", "pork meat extract",
-"e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-"monostearate", "monoglycerides", "diglycerides", "mono- and diglycerides of fatty acids",
-"glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
-"mono- and diglycerides", "glycerol esters", "sorbitan monostearate",
-
-"glycerin", "glycerol", "e422", "animal glycerin", "gelatin", "animal glycerol"
-
-];
+const excepcionesPermitidas = [
+  "saborizante natural",
+  "saborizante artificial",
+  "saborizante idéntico al natural",
+  "curcuma",
+  "colorante como tartrazina",
+  "conservador",
+  "antiglutinante"
+].map(normalizeYsingularizar);
 
 function isTame(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesTame.some(tame =>
-    normalizado.includes(normalizeYsingularizar(tame))
-  );
+  const normal = normalizeYsingularizar(i);
+
+  if (excepcionesPermitidas.some(exc => normal.includes(exc))) return false;
+
+  // Primero buscar coincidencias exactas en frases Tame
+  if (ingredientesTameFrases?.some(tame => normal === normalizeYsingularizar(tame))) return true;
+
+  // Luego verificar por palabras sueltas
+  const palabras = normal.split(" ");
+  return palabras.some(p => ingredientesTamePalabras?.includes(p));
 }
+
 
 
 const MAX_ARCHIVOS = 7;
@@ -129,27 +267,33 @@ function quitarCarga() {
 }
 
 function generarHTMLProducto(producto) {
-  // 📝 Toma la lista manual si existe
   const manuales = producto.ingredientes_tame || [];
 
-  // 🧠 Detecta dinámicamente ingredientes Tame que no estén ya en la lista manual
-  const detectados = producto.ingredientes
+  const ingredientes = Array.isArray(producto.ingredientes) ? producto.ingredientes : [];
+
+  const detectados = ingredientes
     .filter(i => !manuales.find(m => normalizeYsingularizar(m.ingrediente) === normalizeYsingularizar(i)))
     .filter(i => isTame(i))
     .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
 
-  // 🔁 Combina los dos conjuntos
   const ingredientesTameDetectados = [...manuales, ...detectados];
 
-  // 🎨 Resalta visualmente los ingredientes
-  const ing = producto.ingredientes.map(i => {
-    return ingredientesTameDetectados.find(obj =>
-      normalizeYsingularizar(obj.ingrediente) === normalizeYsingularizar(i))
-      ? `<span style="color:red">${i}</span>`
-      : `<span>${i}</span>`;
+  const leudantesDetectados = ingredientes.filter(i =>
+    !ingredientesTameDetectados.find(obj => normalizeYsingularizar(obj.ingrediente) === normalizeYsingularizar(i))
+    && isLeudante(i)
+  );
+
+  const ing = ingredientes.map(i => {
+    const normal = normalizeYsingularizar(i);
+    if (ingredientesTameDetectados.find(obj => normalizeYsingularizar(obj.ingrediente) === normal)) {
+      return `<span style="color:red">${i}</span>`;
+    } else if (typeof isLeudante === "function" && isLeudante(i)) {
+      return `<span style="color:orange; font-weight:bold;">${i}</span>`;
+    } else {
+      return `<span>${i}</span>`;
+    }
   }).join(', ');
 
-  // 🧾 Construye HTML del producto
   let html = `
     <details class="detalle-producto">
       <summary><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</summary>
@@ -159,22 +303,43 @@ function generarHTMLProducto(producto) {
       <p><strong>Ingredientes:</strong> ${ing}</p>
   `;
 
-  // 🔴 Lista de ingredientes Tame detectados
   if (ingredientesTameDetectados.length > 0) {
     html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
     html += `<ul style="color:red;">${ingredientesTameDetectados.map(obj =>
       `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
   }
 
-  // ✅ Veredicto final basado solo en ingredientes
+  if (leudantesDetectados.length > 0) {
+    html += `<p><strong style="color:orange;">Ingredientes Leudantes detectados:</strong><br>`;
+    html += `<ul style="color:orange;">${leudantesDetectados.map(i => `<li><b>${i}</b></li>`).join('')}</ul></p>`;
+  }
+
   const esTame = ingredientesTameDetectados.length > 0;
-  html += `<p style="color:${esTame ? 'red' : 'green'};">
-    ${esTame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>
-    </details>
-  `;
+  const esLeudado = leudantesDetectados.length > 0;
+
+  let mensajeFinal = '';
+  let colorFinal = 'green';
+
+  if (esTame && esLeudado) {
+    mensajeFinal = '❌ No Apto (Tame y Leudado para Pesaj)';
+    colorFinal = 'darkred';
+  } else if (esTame) {
+    mensajeFinal = '❌ No Apto (Tame)';
+    colorFinal = 'red';
+  } else if (esLeudado) {
+    mensajeFinal = '⚠️ Apto (Tahor) pero Leudado – No apto para Pesaj';
+    colorFinal = 'orange';
+  } else {
+    mensajeFinal = '✅ Apto (Tahor y sin Leudante)';
+    colorFinal = 'green';
+  }
+
+  html += `<p style="color:${colorFinal}; font-weight:bold;">${mensajeFinal}</p>`;
+  html += `</details>`;
 
   return html;
 }
+
 
 
 async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
