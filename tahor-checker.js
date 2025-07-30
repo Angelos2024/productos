@@ -1,10 +1,10 @@
-(() => {
+// tahor-checker.js - Núcleo para verificar ingredientes Tame según Levítico 11
 function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
-    .replace(/[^a-z0-9 ]/g, "") 
+    .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
     .trim()
     .split(" ")
@@ -12,10 +12,12 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
+// Lista simplificada sin tradiciones rabínicas
 const ingredientesTame = [
+ // Carmin
   "carmín", "cochinilla", "carminico",
-"laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120",
+"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
+"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
 "carminic", "natural red", "carmesi natural", "ci natural red 4",
 
   // Carnes impuras
@@ -25,12 +27,13 @@ const ingredientesTame = [
   "perro", "gato", "zorro", "zorrillo",
 
   // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi",
+  "marisco", "camarón", "langosta", "surimi","glycerina",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
- "carmine", "cochineal",
+ "carmine", "cochineal", "carminic acid", "carminic acid",
 "lac", "carmine lac", "cochineal lac", "crimson lake",
-"natural red 4", "natural red 4", "CI 75470", "E120", "natural red", "natural carmine", "CI natural red 4",
+"natural red 4", "natural red 4", "CI 75470", "E120",
+"carminic acid", "natural red", "natural carmine", "CI natural red 4",
 
 "pork", "pig", "swine",
 "horse", "donkey", "mule",
@@ -80,9 +83,8 @@ const ingredientesTame = [
   "colágeno porcino", "glicerina animal", "ácido esteárico animal",
   "estearato de magnesio animal", "extracto de carne de cerdo",
    "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-  "monoestearato", "monoglicéridos", "diglicéridos", "monoglicéridos y diglicéridos de ácidos grasos",
   "monoestearato de glicerilo", "glicerol monoestearato", "acetilgliceridos",
-  "mono y diglicéridos", "ésteres de glicerol", "monoestearato de sorbitán",
+ "ésteres de glicerol",
 
   // Glicerina y Glicerol
   "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
@@ -90,145 +92,49 @@ const ingredientesTame = [
 "porcine collagen", "animal glycerin", "animal stearic acid",
 "animal magnesium stearate", "pork meat extract",
 "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-"monostearate", "monoglycerides", "diglycerides", "mono- and diglycerides of fatty acids",
 "glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
-"mono- and diglycerides", "glycerol esters", "sorbitan monostearate",
+"glycerol esters",
 
 "glycerin", "glycerol", "e422", "animal glycerin", "gelatin", "animal glycerol"
 
 ];
 
-function isTame(i) {
-  const normalizado = normalizeYsingularizar(i);
-  return ingredientesTame.some(tame =>
-    normalizado.includes(normalizeYsingularizar(tame))
-  );
-}
+// 🛠️ Al inicio: genera lista normalizada una sola vez
+const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
 
 
-const MAX_ARCHIVOS = 7;
-const RUTA_BASE = 'https://raw.githubusercontent.com/angelos2024/productos/main/';
-const ARCHIVO_BASE_PRINCIPAL = 'base_tahor_tame.json';
-const PATRON_ARCHIVO = i => `base/producto${i}.json`;
+function isTame(ingrediente) {
+  const normal = normalizeYsingularizar(ingrediente);
 
-function mostrarCarga() {
-  const div = document.getElementById('analisisResultado');
-  div.innerHTML = `
-    <div class="cargando">
-      <div class="spinner"></div>
-      <p>🔄 Revisando base local archivo por archivo...</p>
-    </div>
-  `;
-}
-
-function quitarCarga() {
-  const div = document.getElementById('analisisResultado');
-  const anim = div.querySelector('.cargando');
-  if (anim) anim.remove();
-}
-
-function generarHTMLProducto(producto) {
-  // 📝 Toma la lista manual si existe
-  const manuales = producto.ingredientes_tame || [];
-
-  // 🧠 Detecta dinámicamente ingredientes Tame que no estén ya en la lista manual
-  const detectados = producto.ingredientes
-    .filter(i => !manuales.find(m => normalizeYsingularizar(m.ingrediente) === normalizeYsingularizar(i)))
-    .filter(i => isTame(i))
-    .map(i => ({ ingrediente: i, razon: "Detectado en lista Tame" }));
-
-  // 🔁 Combina los dos conjuntos
-  const ingredientesTameDetectados = [...manuales, ...detectados];
-
-  // 🎨 Resalta visualmente los ingredientes
-  const ing = producto.ingredientes.map(i => {
-    return ingredientesTameDetectados.find(obj =>
-      normalizeYsingularizar(obj.ingrediente) === normalizeYsingularizar(i))
-      ? `<span style="color:red">${i}</span>`
-      : `<span>${i}</span>`;
-  }).join(', ');
-
-  // 🧾 Construye HTML del producto
-  let html = `
-    <details class="detalle-producto">
-      <summary><strong>${producto.nombre}</strong> – ${producto.marca} (${producto.pais})</summary>
-      ${producto.imagen && producto.imagen !== "imagen no disponible"
-        ? `<img src="${producto.imagen}" alt="Imagen del producto" style="max-width:200px;">`
-        : `<p style="color:gray;">🖼️ Imagen no disponible</p>`}
-      <p><strong>Ingredientes:</strong> ${ing}</p>
-  `;
-
-  // 🔴 Lista de ingredientes Tame detectados
-  if (ingredientesTameDetectados.length > 0) {
-    html += `<p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>`;
-    html += `<ul style="color:red;">${ingredientesTameDetectados.map(obj =>
-      `<li><b>${obj.ingrediente}</b>: ${obj.razon}</li>`).join("")}</ul></p>`;
+  // ⚠️ Detección especial para "goma laca" como frase
+  if (
+    normal.includes("goma laca") ||
+    normal.includes("e904") ||
+    normal.includes("shellac") ||
+    normal.includes("laca de cochinilla") ||
+    normal.includes("cochineal lac") ||
+    normal.includes("carmine lac")
+  ) {
+    return true;
   }
 
-  // ✅ Veredicto final basado solo en ingredientes
-  const esTame = ingredientesTameDetectados.length > 0;
-  html += `<p style="color:${esTame ? 'red' : 'green'};">
-    ${esTame ? '❌ No Apto (Tame)' : '✅ Apto (Tahor)'}</p>
-    </details>
-  `;
-
-  return html;
+  // Evaluación por palabras individuales para el resto
+  const palabras = normal.split(" ");
+  return window.ingredientesTame?.some(tame => {
+    const tameNorm = normalizeYsingularizar(tame);
+    return palabras.includes(tameNorm);
+  });
 }
 
 
-async function buscarProductoEnArchivos(nombre, marca, ean, pais = "") {
-  mostrarCarga();
-  const claveBusqueda = normalizeYsingularizar(`${marca} ${nombre}`);
-  const urls = [
-    `${RUTA_BASE}${ARCHIVO_BASE_PRINCIPAL}`
-  ];
 
-  const coincidencias = [];
-
-  for (const url of urls) {
-    try {
-      console.log(`🔍 Buscando en: ${url}`);
-      const res = await fetch(url);
-      if (!res.ok) continue;
-
-      const productos = await res.json();
-
-      for (const producto of productos) {
-        const claveProd = normalizeYsingularizar(`${producto.marca} ${producto.nombre}`);
-     const eanCoincide = producto.ean && String(producto.ean) === String(ean);
-
-        const paisCoincide = !pais || (producto.pais && producto.pais.toLowerCase() === pais.toLowerCase());
-
-        
-      let esCoincidente = false;
-
-if (ean) {
-  esCoincidente = producto.ean === ean;
-} else {
-  esCoincidente =
-    claveProd.includes(claveBusqueda) || claveBusqueda.includes(claveProd);
+function analizarIngredientes(ingredientes) {
+  const impuros = ingredientes.filter(i => isTame(i));
+  return {
+    resultado: impuros.length > 0 ? 'Tame' : 'Tahor',
+    ingredientesTame: impuros
+  };
 }
 
-
-        if (esCoincidente && paisCoincide) {
-          coincidencias.push(producto);
-          if (coincidencias.length >= 5) break;
-        }
-      }
-
-      if (coincidencias.length >= 5) break;
-    } catch (err) {
-      console.warn("❌ Error cargando:", url, err);
-    }
-  }
-
-  quitarCarga();
-
-  if (coincidencias.length === 0) return null;
-
-  return coincidencias.map(generarHTMLProducto).join('<hr>');
-}
-
-  window.buscarProductoEnArchivos = buscarProductoEnArchivos;
-
-})();
+// Exportar al entorno global para que personal-main.js lo use también
+window.ingredientesTame = ingredientesTameNormalizados;
