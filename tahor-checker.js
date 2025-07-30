@@ -119,12 +119,10 @@ function isTame(ingrediente) {
   }
 
   // Evaluación por palabras individuales para el resto
-  const palabras = normal.split(" ");
-  return window.ingredientesTame?.some(tame => {
-    const tameNorm = normalizeYsingularizar(tame);
-    return palabras.includes(tameNorm);
-  });
-}
+return window.ingredientesTame?.some(tame => {
+  const tameNorm = normalizeYsingularizar(tame);
+  return normal === tameNorm; // compara la frase completa, no palabra por palabra
+});
 
 
 
