@@ -97,12 +97,15 @@ const ingredientesTame = [
 ];
 
 // 🛠️ Al inicio: genera lista normalizada una sola vez
+
+// Generar versión normalizada
 const ingredientesTameNormalizados = ingredientesTame.map(normalizeFrase);
 
+// Verificador exacto
 function isTame(ingrediente) {
   const normal = normalizeFrase(ingrediente);
 
-  // Excepciones especiales por fragmento (por seguridad)
+  // Excepciones específicas por fragmento
   if (
     normal.includes("goma laca") ||
     normal.includes("e904") ||
@@ -115,9 +118,7 @@ function isTame(ingrediente) {
   return ingredientesTameNormalizados.includes(normal);
 }
 
-
-
-
+// Resultado global
 function analizarIngredientes(ingredientes) {
   const impuros = ingredientes.filter(i => isTame(i));
   return {
@@ -126,5 +127,5 @@ function analizarIngredientes(ingredientes) {
   };
 }
 
-// Exportar al entorno global para que personal-main.js lo use también
-window.ingredientesTame = ingredientesTameNormalizados;
+// ✅ Si deseas exportar para otros scripts, usa esto:
+window.ingredientesTame = ingredientesTame; // sin normalizar
