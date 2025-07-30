@@ -13,93 +13,107 @@
       .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
       .join(" ");
   }
+const excepcionesPermitidasMatzah = [
+  "monoestearato de sorbitán", "sorbitan monostearate", 
+  "saborizante natural", "saborizante artificial", 
+  "saborizante idéntico al natural", "curcuma",
+  "colorante como tartrazina", "conservador", 
+  "antiglutinante"
+].map(normalizeYsingularizar);
 
   // Lista Tame (idéntica a tahor-checker.js pero renombrada internamente)
- window.ingredientesTameMatzah = [
- // Carmin
-  "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
-"laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120",
-"carminic acid", "natural red", "carmesi natural", "ci natural red 4",
-
-  // Carnes impuras
-  "cerdo", "chancho", "puerco",
-  "caballo", "burro", "mulo",
-  "camello", "liebre", "conejo",
-  "perro", "gato", "zorro", "zorrillo",
-
-  // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi",
-  "ostra", "almeja", "mejillón", "calamar", "pulpo",
-  "anguila", "tiburón", "ballena", "mantarraya",
- "carmine", "cochineal", "carminic acid", "carminic acid",
-"lac", "carmine lac", "cochineal lac", "crimson lake",
-"natural red 4", "natural red 4", "CI 75470", "E120",
-"carminic acid", "natural red", "natural carmine", "CI natural red 4",
-
-"pork", "pig", "swine",
-"horse", "donkey", "mule",
-"camel", "hare", "rabbit",
-"dog", "cat", "fox", "skunk",
-
-"shellfish", "shrimp", "lobster", "surimi",
-"oyster", "clam", "mussel", "squid", "octopus",
-"eel", "shark", "whale", "stingray",
-
-
-  // Insectos y derivados
-  "cochinilla", "carmín", "e120", "insecto", "larva", "gusano",
-  "escarabajo", "mosca", "abeja", "avispa", "hormiga",
-  "escorpión", "saltamontes", "grillo", // solo algunos son permitidos, pero se eliminan por seguridad
-
-  // Reptiles, anfibios y otros
-  "rana", "sapo", "tortuga", "serpiente", "cocodrilo", "lagarto",
-
-  // Aves impuras
-  "águila", "buitre", "halcón", "búho", "cuervo",
-  "gaviota", "murciélago", "avestruz", "pelícano",
-
-  // Productos derivados de animales impuros
-  "gelatina", "gelatina de cerdo", "grasa de cerdo", "grasa animal",
-  "cuajo animal", "cuajo de cerdo", "enzima animal", "mermelada", "jam","carmines",
-
-  // Sangre
-  "sangre", "morcilla", "negra de cerdo",
- "cochineal", "carmine", "e120", "insect", "larva", "worm",
-"beetle", "fly", "bee", "wasp", "ant",
-"scorpion", "locust", "cricket",
-
-"frog", "toad", "turtle", "snake", "crocodile", "lizard",
-
-"eagle", "vulture", "falcon", "owl", "raven",
-"seagull", "bat", "ostrich", "pelican",
-
-"gelatin", "pork gelatin", "pork fat", "animal fat",
-"animal rennet", "pork rennet", "animal enzyme", "jam", "jam",
-
-"blood", "blood sausage", "black pudding",
-
-
-  // Otros
-  "colágeno animal", "extracto animal", "caldo de cerdo", "cuajo animal", "enzima animal", "pepsina porcina",
-  "colágeno porcino", "glicerina animal", "ácido esteárico animal",
-  "estearato de magnesio animal", "extracto de carne de cerdo",
-   "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-  "monoestearato de glicerilo", "glicerol monoestearato", "acetilgliceridos",
- "ésteres de glicerol",
-
-  // Glicerina y Glicerol
-  "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
- "animal collagen", "animal extract", "pork broth", "animal rennet", "animal enzyme", "porcine pepsin",
-"porcine collagen", "animal glycerin", "animal stearic acid",
-"animal magnesium stearate", "pork meat extract",
-"e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-"glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
-"glycerol esters",
-
-"glycerin", "glycerol", "e422", "animal glycerin", "gelatin", "animal glycerol"
-
-];
+const ingredientesTameFrasesMatzah = ['CI 75470',
+  'E-120',
+  'CI natural red 4',
+  'amarillo ocaso',
+  'amarillo ocaso FCF',
+  'animal collagen',
+  'animal enzyme',
+  'animal extract',
+  'animal fat',
+  'animal glycerin',
+  'animal glycerol',
+  'animal magnesium stearate',
+  'animal rennet',
+  'animal stearic acid',
+  'black pudding',
+  'blood sausage',
+  'caldo de cerdo',
+  'carmesi natural',
+  'carmine lac',
+  'ci natural red 4',
+  'cochineal lac',
+  'colorante amarillo ocaso FCF',
+  'colágeno animal',
+  'colágeno porcino',
+  'crimson lake',
+  'cuajo animal',
+  'cuajo de cerdo',
+  'enzima animal',
+  'estearato de magnesio animal',
+  'extracto animal',
+  'extracto de carne de cerdo',
+  'gelatina de cerdo',
+  'glicerina animal',
+  'glicerol animal',
+  'glicerol monoestearato',
+  'glycerol esters',
+  'glycerol monostearate',
+  'glyceryl monostearate',
+  'goma laca',
+  'grasa animal',
+  'grasa de cerdo',
+  'laca armin',
+  'laca de cochinilla',
+  'mono y diglicéridos',
+  'mono- and diglycerides',
+  'mono- and diglycerides of fatty acids',
+  'monoestearato de glicerilo',
+  'monoestearato de sorbitán',
+  'monoglicéridos y diglicéridos de ácidos grasos',
+  'natural carmine',
+  'natural red',
+  'natural red 4',
+  'natural rojo 4',
+  'negra de cerdo',
+  'pepsina porcina',
+  'porcine collagen',
+  'porcine pepsin',
+  'pork broth',
+  'pork fat',
+  'pork gelatin',
+  'pork meat extract',
+  'pork rennet',
+  'sorbitan monostearate',
+  'ácido esteárico animal',
+  'ésteres de glicerol'
+].map(normalizeYsingularizar);
+const ingredientesTamePalabrasMatzah = [
+  'e120', 'e122', 'e123', 'e124', 'e129','glicerol',
+  'cochinilla', 'carmín', 'carminico', 'carminic', 'carminic acid',
+  'cochineal', 'lac', 'carmine', 'carmines','glicerina', 'polyglycerol',
+  'glycerin',
+  'cerdo', 'chancho', 'puerco', 'pig', 'pork', 'swine',
+  'caballo', 'burro', 'mulo', 'camel', 'camello', 'horse', 'donkey', 'mule',
+  'liebre', 'conejo', 'hare', 'rabbit',
+  'perro', 'gato', 'zorro', 'zorrillo', 'dog', 'cat', 'fox', 'skunk',
+  'marisco', 'camarón', 'langosta', 'surimi',
+  'ostra', 'almeja', 'mejillón', 'calamar', 'pulpo',
+  'anguila', 'tiburón', 'ballena', 'mantarraya',
+  'shellfish', 'shrimp', 'lobster', 'oyster', 'clam',
+  'mussel', 'squid', 'octopus', 'eel', 'shark', 'whale', 'stingray',
+  'insecto', 'insect', 'larva', 'worm', 'gusano',
+  'escarabajo', 'mosca', 'abeja', 'avispa', 'hormiga',
+  'beetle', 'fly', 'bee', 'wasp', 'ant',
+  'escorpión', 'scorpion', 'saltamontes', 'grillo', 'locust', 'cricket',
+  'rana', 'sapo', 'tortuga', 'serpiente', 'cocodrilo', 'lagarto',
+  'frog', 'toad', 'turtle', 'snake', 'crocodile', 'lizard',
+  'águila', 'buitre', 'halcón', 'búho', 'cuervo',
+  'gaviota', 'murciélago', 'avestruz', 'pelícano',
+  'eagle', 'vulture', 'falcon', 'owl', 'raven',
+  'seagull', 'bat', 'ostrich', 'pelican',
+  'gelatin', 'blood', 'sangre', 'grenetina'
+].map(normalizeYsingularizar);
 
   window.ingredientesLeudantes = [
     "levadura", "fermento", "masa madre", "malta", "vinagre de malta",
@@ -110,47 +124,53 @@
 
 
 
-function isTameMatzah(ing) {
-  const normal = normalizeYsingularizar(ing);
-
-  return window.ingredientesTameMatzah.some(tame => {
-    const tameNorm = normalizeYsingularizar(tame);
-
-    // Coincidencia exacta
-    if (normal === tameNorm) return true;
-
-    // Coincidencia por palabra si está en medio de una frase compuesta
-    const palabras = normal.split(" ");
-    return palabras.includes(tameNorm);
-  });
-}
-
-
 function isLeudante(ing) {
   const normal = normalizeYsingularizar(ing);
+
   return ingredientesLeudantes.some(leud => {
     const leudNorm = normalizeYsingularizar(leud);
-    return normal.includes(leudNorm);
+    return normal.includes(leudNorm) || normal.split(" ").includes(leudNorm);
   });
 }
+
+function isTameMatzah(ing) {
+  if (!ing) return false;
+
+  const normal = normalizeYsingularizar(ing);
+  if (!normal) return false;
+
+  if (excepcionesPermitidasMatzah.some(exc => normal.includes(exc))) return false;
+
+  if (ingredientesTameFrasesMatzah.includes(normal)) return true;
+
+  const palabras = normal.split(" ");
+  return Array.isArray(ingredientesTamePalabrasMatzah) &&
+         palabras.some(p => ingredientesTamePalabrasMatzah.includes(p));
+}
+
 
 
   // Función principal para escaneo en sección matzah
-  function analizarIngredientesMatzah(ingredientes) {
-    const tame = ingredientes.filter(isTameMatzah);
-    const leud = ingredientes.filter(i => !isTameMatzah(i) && isLeudante(i));
+function analizarIngredientesMatzah(ingredientes) {
+  const lista = Array.isArray(ingredientes) ? ingredientes.filter(Boolean) : [];
 
-    return {
-      resultado: tame.length > 0 ? 'Tame'
-               : leud.length > 0 ? 'Leudado'
-               : 'Tahor',
-      ingredientesTame: tame,
-      ingredientesLeud: leud
-    };
-  }
+  const tame = lista.filter(i => typeof i === 'string' && isTameMatzah(i));
+  const leud = lista.filter(i => typeof i === 'string' && !isTameMatzah(i) && isLeudante(i));
+
+
+  return {
+    resultado: tame.length > 0 ? 'Tame'
+             : leud.length > 0 ? 'Leudado'
+             : 'Tahor',
+    ingredientesTame: tame,
+    ingredientesLeud: leud
+  };
+}
+
 
   // ✅ Exportar solo las funciones necesarias al ámbito global
   // ✅ Exportar solo las funciones necesarias al ámbito global
+  window.isTameMatzah = isTameMatzah;
   window.isLeudante = isLeudante;
   window.analizarIngredientesMatzah = analizarIngredientesMatzah;
   window.isTameMatzah = isTameMatzah; // <-- 👈 esta es la que te falta
