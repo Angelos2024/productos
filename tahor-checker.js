@@ -128,7 +128,6 @@ function isTame(ingrediente) {
 
 
 
-
 function analizarIngredientes(ingredientes) {
   const impuros = ingredientes.filter(i => isTame(i));
   return {
