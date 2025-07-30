@@ -1,4 +1,6 @@
+
 // tahor-checker.js - Núcleo para verificar ingredientes Tame según Levítico 11
+
 function normalizeYsingularizar(txt) {
   return txt
     .toLowerCase()
@@ -12,122 +14,244 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
-// Lista simplificada sin tradiciones rabínicas
-const ingredientesTame = [
- // Carmin
-  "carmín", "cochinilla", "carminico",
-"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
-"carminic", "natural red", "carmesi natural", "ci natural red 4",
 
-  // Carnes impuras
-  "cerdo", "chancho", "puerco",
-  "caballo", "burro", "mulo",
-  "camello", "liebre", "conejo",
-  "perro", "gato", "zorro", "zorrillo",
-
-  // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi","glycerina",
-  "ostra", "almeja", "mejillón", "calamar", "pulpo",
-  "anguila", "tiburón", "ballena", "mantarraya",
- "carmine", "cochineal", "carminic acid", "carminic acid",
-"lac", "carmine lac", "cochineal lac", "crimson lake",
-"natural red 4", "natural red 4", "CI 75470", "E120",
-"carminic acid", "natural red", "natural carmine", "CI natural red 4",
-
-"pork", "pig", "swine",
-"horse", "donkey", "mule",
-"camel", "hare", "rabbit",
-"dog", "cat", "fox", "skunk",
-
-"shellfish", "shrimp", "lobster", "surimi",
-"oyster", "clam", "mussel", "squid", "octopus",
-"eel", "shark", "whale", "stingray",
+// 🟢 Lista blanca: frases que no deben marcarse como Tame
+const excepcionesPermitidas = [
+  "saborizante natural",
+  "saborizante artificial",
+  "saborizante idéntico al natural",
+  "curcuma",
+  "colorante como tartrazina",
+  "conservador",
+  "antiglutinante"
+].map(normalizeYsingularizar);
 
 
-  // Insectos y derivados
-  "cochinilla", "carmín", "e120", "insecto", "larva", "gusano",
-  "escarabajo", "mosca", "abeja", "avispa", "hormiga",
-  "escorpión", "saltamontes", "grillo", // solo algunos son permitidos, pero se eliminan por seguridad
+// 🔴 Frases exactas que deben marcarse como Tame
+const ingredientesTameFrases = [
+  'CI 75470',
+  'E-120',
+  'CI natural red 4',
+  'amarillo ocaso',
+  'amarillo ocaso FCF',
+  'animal collagen',
+  'animal enzyme',
+  'animal extract',
+  'animal fat',
+  'animal glycerin',
+  'animal glycerol',
+  'animal magnesium stearate',
+  'animal rennet',
+  'animal stearic acid',
+  'black pudding',
+  'blood sausage',
+  'caldo de cerdo',
+  'carmesi natural',
+  'carmine lac',
+  'ci natural red 4',
+  'cochineal lac',
+  'colorante amarillo ocaso FCF',
+  'colágeno animal',
+  'colágeno porcino',
+  'crimson lake',
+  'cuajo animal',
+  'cuajo de cerdo',
+  'enzima animal',
+  'estearato de magnesio animal',
+  'extracto animal',
+  'extracto de carne de cerdo',
+  'gelatina de cerdo',
+  'glicerina animal',
+  'glicerol animal',
+  'glicerol monoestearato',
+  'glycerol esters',
+  'glycerol monostearate',
+  'glyceryl monostearate',
+  'goma laca',
+  'grasa animal',
+  'grasa de cerdo',
+  'laca armin',
+  'laca de cochinilla',
+  'mono y diglicéridos',
+  'mono- and diglycerides',
+  'mono- and diglycerides of fatty acids',
+  'monoestearato de glicerilo',
+  'monoestearato de sorbitán',
+  'monoglicéridos y diglicéridos de ácidos grasos',
+  'natural carmine',
+  'natural red',
+  'natural red 4',
+  'natural rojo 4',
+  'negra de cerdo',
+  'pepsina porcina',
+  'porcine collagen',
+  'porcine pepsin',
+  'pork broth',
+  'pork fat',
+  'pork gelatin',
+  'pork meat extract',
+  'pork rennet',
+  'sorbitan monostearate',
+  'ácido esteárico animal',
+  'ésteres de glicerol'
+].map(normalizeYsingularizar);
 
-  // Reptiles, anfibios y otros
-  "rana", "sapo", "tortuga", "serpiente", "cocodrilo", "lagarto",
+// 🟥 Palabras sueltas que deben marcarse como Tame
+const ingredientesTamePalabras = [
+  'E120',
+  'abeja',
+  'glicerol',
+  'glicerina',
+  'polyglycerol',
+  'glycerin',
+  'acetilgliceridos',
+  'acetylglycerides',
+  'almeja',
+  'anguila',
+  'ant',
+  'avestruz',
+  'avispa',
+  'ballena',
+  'bat',
+  'bee',
+  'beetle',
+  'buitre',
+  'burro',
+  'búho',
+  'caballo',
+  'calamar',
+  'camarón',
+  'camel',
+  'camello',
+  'carmine',
+  'carminic',
+  'carminico',
+  'carmín',
+  'cat',
+  'cerdo',
+  'chancho',
+  'clam',
+  'cochineal',
+  'cochinilla',
+  'cocodrilo',
+  'conejo',
+  'cricket',
+  'crocodile',
+  'cuervo',
+  'diglicéridos',
+  'diglycerides',
+  'dog',
+  'donkey',
+  'e110',
+  'e120',
+  'e422',
+  'e470a',
+  'e470b',
+  'e471',
+  'e472',
+  'e473',
+  'e474',
+  'e475',
+  'e904',
+  'eagle',
+  'eel',
+  'escarabajo',
+  'escorpión',
+  'falcon',
+  'fly',
+  'fox',
+  'frog',
+  'gato',
+  'gaviota',
+  'gelatin',
+  'glycerin',
+  'glycerol',
+  'grenetina',
+  'grillo',
+  'gusano',
+  'halcón',
+  'hare',
+  'hormiga',
+  'horse',
+  'insect',
+  'insecto',
+  'lac',
+  'laca',
+  'lagarto',
+  'langosta',
+  'larva',
+  'liebre',
+  'lizard',
+  'lobster',
+  'locust',
+  'mantarraya',
+  'marisco',
+  'mejillón',
+  'mermelada',
+  'monoestearato',
+  'monoglicéridos',
+  'monoglycerides',
+  'monostearate',
+  'morcilla',
+  'mosca',
+  'mule',
+  'mulo',
+  'murciélago',
+  'mussel',
+  'octopus',
+  'ostra',
+  'ostrich',
+  'owl',
+  'oyster',
+  'pelican',
+  'pelícano',
+  'perro',
+  'pig',
+  'pork',
+  'puerco',
+  'pulpo',
+  'rabbit',
+  'rana',
+  'raven',
+  'saltamontes',
+  'sangre',
+  'sapo',
+  'scorpion',
+  'seagull',
+  'serpiente',
+  'shrimp',
+  'skunk',
+  'snake',
+  'sorbitan monostearate',
+  'squid',
+  'stingray',
+  'surimi',
+  'swine',
+  'tiburón',
+  'toad',
+  'tortuga',
+  'turtle',
+  'vulture',
+  'wasp',
+  'whale',
+  'worm',
+  'zorrillo',
+  'zorro'
+].map(normalizeYsingularizar);
 
-  // Aves impuras
-  "águila", "buitre", "halcón", "búho", "cuervo",
-  "gaviota", "murciélago", "avestruz", "pelícano",
-
-  // Productos derivados de animales impuros
-  "gelatina", "gelatina de cerdo", "grasa de cerdo", "grasa animal",
-  "cuajo animal", "cuajo de cerdo", "enzima animal", "mermelada", "jam",
-
-  // Sangre
-  "sangre", "morcilla", "negra de cerdo",
- "cochineal", "carmine", "e120", "insect", "larva", "worm",
-"beetle", "fly", "bee", "wasp", "ant",
-"scorpion", "locust", "cricket",
-
-"frog", "toad", "turtle", "snake", "crocodile", "lizard",
-
-"eagle", "vulture", "falcon", "owl", "raven",
-"seagull", "bat", "ostrich", "pelican",
-
-"gelatin", "pork gelatin", "pork fat", "animal fat",
-"animal rennet", "pork rennet", "animal enzyme", "jam", "jam",
-
-"blood", "blood sausage", "black pudding",
-
-
-  // Otros
-  "colágeno animal", "extracto animal", "caldo de cerdo", "cuajo animal", "enzima animal", "pepsina porcina",
-  "colágeno porcino", "glicerina animal", "ácido esteárico animal",
-  "estearato de magnesio animal", "extracto de carne de cerdo",
-   "e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-  "monoestearato de glicerilo", "glicerol monoestearato", "acetilgliceridos",
- "ésteres de glicerol",
-
-  // Glicerina y Glicerol
-  "glicerina", "glicerol", "e422", "glicerina animal","grenetina", "glicerol animal",
- "animal collagen", "animal extract", "pork broth", "animal rennet", "animal enzyme", "porcine pepsin",
-"porcine collagen", "animal glycerin", "animal stearic acid",
-"animal magnesium stearate", "pork meat extract",
-"e471", "e472", "e470a", "e470b", "e473", "e474", "e475",
-"glyceryl monostearate", "glycerol monostearate", "acetylglycerides",
-"glycerol esters",
-
-"glycerin", "glycerol", "e422", "animal glycerin", "gelatin", "animal glycerol"
-
-];
-
-// 🛠️ Al inicio: genera lista normalizada una sola vez
-const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
-
-
+// ✅ Función segura y blindada para detectar Tame
 function isTame(ingrediente) {
+  if (!ingrediente || typeof ingrediente !== 'string') return false;
+
   const normal = normalizeYsingularizar(ingrediente);
+if (excepcionesPermitidas.some(exc => normal.includes(exc))) return false;
+  if (ingredientesTameFrases.includes(normal)) return true;
 
-  // ⚠️ Detección especial para "goma laca" como frase
-  if (
-    normal.includes("goma laca") ||
-    normal.includes("e904") ||
-    normal.includes("shellac") ||
-    normal.includes("laca de cochinilla") ||
-    normal.includes("cochineal lac") ||
-    normal.includes("carmine lac")
-  ) {
-    return true;
-  }
-
-  // Evaluación por palabras individuales para el resto
   const palabras = normal.split(" ");
-  return window.ingredientesTame?.some(tame => {
-    const tameNorm = normalizeYsingularizar(tame);
-    return palabras.includes(tameNorm);
-  });
+  return palabras.some(p => ingredientesTamePalabras.includes(p));
 }
 
-
-
+// 🔍 Analizar lista de ingredientes
 function analizarIngredientes(ingredientes) {
   const impuros = ingredientes.filter(i => isTame(i));
   return {
@@ -135,6 +259,3 @@ function analizarIngredientes(ingredientes) {
     ingredientesTame: impuros
   };
 }
-
-// Exportar al entorno global para que personal-main.js lo use también
-window.ingredientesTame = ingredientesTameNormalizados;
