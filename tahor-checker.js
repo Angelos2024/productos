@@ -15,10 +15,10 @@ function normalizeYsingularizar(txt) {
 // Lista simplificada sin tradiciones rabínicas
 const ingredientesTame = [
  // Carmin
-  "carmín", "cochinilla", "ácido carmínico", "ácido carminico",
-"laca", "laca armin", "laca de cochinilla", "crimson lake",
-"natural red 4", "natural rojo 4", "CI 75470", "E120",
-"carminic acid", "natural red", "carmesi natural", "ci natural red 4","carmines",
+  "carmín", "cochinilla", "carminico",
+"goma laca", "laca armin", "laca de cochinilla", "crimson lake",
+"natural red 4", "natural rojo 4", "CI 75470", "E120","e904",
+"carminic", "natural red", "carmesi natural", "ci natural red 4",
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
@@ -27,7 +27,7 @@ const ingredientesTame = [
   "perro", "gato", "zorro", "zorrillo",
 
   // Animales marinos sin escamas ni aletas
-  "marisco", "camarón", "langosta", "surimi",
+  "marisco", "camarón", "langosta", "surimi","glycerina",
   "ostra", "almeja", "mejillón", "calamar", "pulpo",
   "anguila", "tiburón", "ballena", "mantarraya",
  "carmine", "cochineal", "carminic acid", "carminic acid",
@@ -102,13 +102,30 @@ const ingredientesTame = [
 // 🛠️ Al inicio: genera lista normalizada una sola vez
 const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
 
+
 function isTame(ingrediente) {
-  const ingNormalizado = normalizeYsingularizar(ingrediente);
-  const palabras = ingNormalizado.split(" ");
-  return palabras.some(palabra =>
-    ingredientesTameNormalizados.includes(palabra)
-  );
+  const normal = normalizeYsingularizar(ingrediente);
+
+  // ⚠️ Detección especial para "goma laca" como frase
+  if (
+    normal.includes("goma laca") ||
+    normal.includes("e904") ||
+    normal.includes("shellac") ||
+    normal.includes("laca de cochinilla") ||
+    normal.includes("cochineal lac") ||
+    normal.includes("carmine lac")
+  ) {
+    return true;
+  }
+
+  // Evaluación por palabras individuales para el resto
+  const palabras = normal.split(" ");
+  return window.ingredientesTame?.some(tame => {
+    const tameNorm = normalizeYsingularizar(tame);
+    return palabras.includes(tameNorm);
+  });
 }
+
 
 
 function analizarIngredientes(ingredientes) {
@@ -118,3 +135,6 @@ function analizarIngredientes(ingredientes) {
     ingredientesTame: impuros
   };
 }
+
+// Exportar al entorno global para que personal-main.js lo use también
+window.ingredientesTame = ingredientesTameNormalizados;
