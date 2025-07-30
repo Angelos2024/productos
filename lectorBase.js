@@ -20,7 +20,7 @@ const ingredientesTame = [
 
   // Carnes impuras
   "cerdo", "chancho", "puerco",
-  "amarillo ocaso", "amarillo ocaso FCF", "e110"
+  "amarillo ocaso", "amarillo ocaso FCF", "e110",
   "caballo", "burro", "mulo",
   "camello", "liebre", "conejo",
   "perro", "gato", "zorro", "zorrillo",
