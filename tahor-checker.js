@@ -1,15 +1,12 @@
 // tahor-checker.js - Núcleo para verificar ingredientes Tame según Levítico 11
-function normalizeYsingularizar(txt) {
+function normalizeFrase(txt) {
   return txt
     .toLowerCase()
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
-    .trim()
-    .split(" ")
-    .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
-    .join(" ");
+    .trim();
 }
 
 // Lista simplificada sin tradiciones rabínicas
@@ -100,13 +97,12 @@ const ingredientesTame = [
 ];
 
 // 🛠️ Al inicio: genera lista normalizada una sola vez
-const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
-
+const ingredientesTameNormalizados = ingredientesTame.map(normalizeFrase);
 
 function isTame(ingrediente) {
-  const normal = normalizeYsingularizar(ingrediente);
+  const normal = normalizeFrase(ingrediente);
 
-  // ⚠️ Detección especial para "goma laca" como frase
+  // Excepciones especiales por fragmento (por seguridad)
   if (
     normal.includes("goma laca") ||
     normal.includes("e904") ||
@@ -114,17 +110,11 @@ function isTame(ingrediente) {
     normal.includes("laca de cochinilla") ||
     normal.includes("cochineal lac") ||
     normal.includes("carmine lac")
-  ) {
-    return true;
-  }
+  ) return true;
 
-  // Evaluación por palabras individuales para el resto
-  const palabras = normal.split(" ");
-  return window.ingredientesTame?.some(tame => {
-    const tameNorm = normalizeYsingularizar(tame);
-    return palabras.includes(tameNorm);
-  });
+  return ingredientesTameNormalizados.includes(normal);
 }
+
 
 
 
