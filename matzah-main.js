@@ -80,26 +80,8 @@ function normalizeYsingularizar(txt) {
 }
 
 
-// --- Detección Tame para Matzah ---
-function isTameMatzah(ingrediente) {
-  const palabras = normalizeYsingularizar(ingrediente).split(' ');
-  return palabras.some(palabra => 
-    window.ingredientesTameMatzah.some(tame =>
-      palabra === normalizeYsingularizar(tame)
-    )
-  );
-}
 
 
-// --- Detección Leudante para Matzah (nuevo igual a Tame) ---
-function isLeudante(ingrediente) {
-  const palabras = normalizeYsingularizar(ingrediente).split(' ');
-  return palabras.some(palabra => 
-    window.ingredientesLeudantes.some(leudante =>
-      palabra === normalizeYsingularizar(leudante)
-    )
-  );  
-}
 
 
 // --- Analizar una lista de ingredientes en Matzah ---
