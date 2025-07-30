@@ -102,25 +102,20 @@ const ingredientesTame = [
 // 🛠️ Al inicio: genera lista normalizada una sola vez
 const ingredientesTameNormalizados = ingredientesTame.map(normalizeYsingularizar);
 
-
 function isTame(ingrediente) {
   const normal = normalizeYsingularizar(ingrediente);
 
-  // Excepciones por inclusión específica
-  if (
-    normal.includes("goma laca") ||
-    normal.includes("e904") ||
-    normal.includes("shellac") ||
-    normal.includes("laca de cochinilla") ||
-    normal.includes("cochineal lac") ||
-    normal.includes("carmine lac")
-  ) return true;
+  const excepcionesExactas = [
+    "goma laca", "e904", "shellac",
+    "laca de cochinilla", "cochineal lac", "carmine lac"
+  ];
+  if (excepcionesExactas.includes(normal)) return true;
 
-  // Comparación exacta por frase
   return window.ingredientesTame?.some(tame =>
     normalizeYsingularizar(tame) === normal
   );
 }
+
 
 
 
