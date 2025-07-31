@@ -177,6 +177,7 @@
 
     <button class="boton" id="botonBusqueda">🔍 Buscar producto</button>
   </details>
+ 
 </div>
 
 
@@ -418,7 +419,31 @@
 </section>
 
 
-
+ <div id="filtrosPR" style="
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: center;
+  justify-content: start;
+  max-width: 420px;
+">
+  <strong style="font-size: 0.85rem; color: #333;">Ver:</strong>
+  <label style="display:flex; align-items:center; gap:0.3rem;">
+    <input type="checkbox" id="filtroTame" checked> Tame
+  </label>
+  <label style="display:flex; align-items:center; gap:0.3rem;">
+    <input type="checkbox" id="filtroLeudado"> Leudante
+  </label>
+  <label style="display:flex; align-items:center; gap:0.3rem;">
+    <input type="checkbox" id="filtroDudoso"> Dudoso
+  </label>
+</div>
 
 
 <section id="resultadoMatzah"></section>
