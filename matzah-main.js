@@ -1,4 +1,6 @@
 // Desactivar nombre/marca si hay código de barras en Matzah
+let productosMatzahTemporales = [];
+
 const eanEntradaMatzah = document.getElementById('eanEntradaMatzah');
 const nombreEntradaMatzah = document.getElementById('nombreEntradaMatzah');
 const marcaEntradaMatzah = document.getElementById('marcaEntradaMatzah');
@@ -100,6 +102,8 @@ function analizarIngredientesMatzah(ingredientes) {
 
   return { tameDetectado, leudanteDetectado };
 }
+
+productosMatzahTemporales = []; // limpia resultados anteriores
 
 // --- Elementos DOM para Matzah ---
 const botonBusquedaMatzah = document.getElementById('botonBusquedaMatzah');
@@ -357,16 +361,31 @@ if (htmlLocales) {
 
     const { tameDetectado, leudanteDetectado } = analizarIngredientesMatzah(ingredientes);
 
-    const htmlIngredientes = ingredientes.map(ing => {
-      const normalizado = normalizeYsingularizar(ing);
-      if (isTameMatzah(normalizado)) {
-        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
-      } else if (isLeudante(normalizado)) {
-        return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
-      } else {
-        return `<span>${ing}</span>`;
-      }
-    }).join(", ");
+    const filtroTame = document.getElementById('filtroTame')?.checked;
+const filtroLeudado = document.getElementById('filtroLeudado')?.checked;
+const filtroDudoso = document.getElementById('filtroDudoso')?.checked;
+
+if (!filtroTame && !filtroLeudado && !filtroDudoso) {
+  resultadoMatzah.innerHTML = `<p style="color:red;">⚠️ Debes activar al menos un filtro para hacer la búsqueda.</p>`;
+  return;
+}
+
+const htmlIngredientes = ingredientes.map(ing => {
+  const normalizado = normalizeYsingularizar(ing);
+  const esTame = isTameMatzah(normalizado);
+  const esLeudante = isLeudante(normalizado);
+
+  if (esTame && filtroTame) {
+    return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+  } else if (esLeudante && filtroLeudado) {
+    return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+  } else if (!esTame && !esLeudante && filtroDudoso) {
+    return `<span style="color:gray;">${ing}</span>`;
+  } else {
+    return ``; // Oculta ingredientes no deseados
+  }
+}).filter(Boolean).join(", ");
+
 
     let colorEstado = 'green';
     let textoEstado = '✅ Apto (Tahor)';
@@ -378,14 +397,13 @@ if (htmlLocales) {
       textoEstado = '⚠️ Contiene Leudante';
     }
 
-    resultadosHTML.push(`
-      <details class="detalle-producto">
-        <summary><strong>${nombreProducto}</strong></summary>
-        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
-        <p style="color:${colorEstado}; font-weight:bold;">${textoEstado}</p>
-      </details>
-    `);
+    const productoObj = {
+  nombre: nombreProducto,
+  imagenHTML: doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>',
+  ingredientesRaw: ingredientes
+};
+productosMatzahTemporales.push(productoObj);
+
   }
 }
 
@@ -399,9 +417,22 @@ if (htmlLocales) {
       </div>
     `;
     const resultadoOFF = await buscarEnOpenFoodFacts(nombre, marca, ean, pais);
-    if (resultadoOFF) {
-      resultadosHTML.push(...resultadoOFF);
-    }
+if (resultadoOFF) {
+  resultadoOFF.forEach(htmlProducto => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlProducto, 'text/html');
+    const nombreProducto = doc.querySelector('strong')?.textContent || "";
+    const ingredientesTexto = doc.querySelector('p')?.textContent || "";
+    const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
+
+    productosMatzahTemporales.push({
+      nombre: nombreProducto,
+      imagenHTML: doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>',
+      ingredientesRaw: ingredientes
+    });
+  });
+}
+
   }
 
 if (resultadosHTML.length > 0) {
@@ -838,10 +869,8 @@ async function buscarSoloPorEanMatzah(ean) {
   }
 
   if (resultadosHTML.length > 0) {
-    resultadoMatzah.innerHTML = `
-      <p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>
-      ${resultadosHTML.slice(0, 3).join('<hr>')}
-    `;
+renderizarResultadosMatzah();
+
   } else {
     resultadoMatzah.innerHTML = `
       <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
@@ -937,3 +966,48 @@ if (bloqueEscanerMatzah) {
     }
   });
 }
+function renderizarResultadosMatzah() {
+  const contenedor = document.getElementById("resultadoMatzah");
+  contenedor.innerHTML = `<p><strong>🔎 Resultados encontrados (${productosMatzahTemporales.length}):</strong></p>`;
+
+  const filtroTame = document.getElementById('filtroTame')?.checked;
+  const filtroLeudado = document.getElementById('filtroLeudado')?.checked;
+  const filtroDudoso = document.getElementById('filtroDudoso')?.checked;
+
+  if (!filtroTame && !filtroLeudado && !filtroDudoso) {
+    contenedor.innerHTML = `<p style="color:red;">⚠️ Debes activar al menos un filtro para mostrar los resultados.</p>`;
+    return;
+  }
+
+  productosMatzahTemporales.forEach(prod => {
+    const htmlIngredientes = prod.ingredientesRaw.map(ing => {
+      const normal = normalizeYsingularizar(ing);
+      const esTame = isTameMatzah(normal);
+      const esLeudante = isLeudante(normal);
+
+      if (esTame && filtroTame) {
+        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+      } else if (esLeudante && filtroLeudado) {
+        return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+      } else if (!esTame && !esLeudante && filtroDudoso) {
+        return `<span style="color:gray;">${ing}</span>`;
+      } else {
+        return ``;
+      }
+    }).filter(Boolean).join(", ");
+
+    contenedor.innerHTML += `
+      <details class="detalle-producto">
+        <summary><strong>${prod.nombre}</strong></summary>
+        ${prod.imagenHTML}
+        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
+      </details>
+      <hr>
+    `;
+  });
+}
+
+
+document.getElementById('filtroTame')?.addEventListener('change', renderizarResultadosMatzah);
+document.getElementById('filtroLeudado')?.addEventListener('change', renderizarResultadosMatzah);
+document.getElementById('filtroDudoso')?.addEventListener('change', renderizarResultadosMatzah);
