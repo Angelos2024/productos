@@ -19,7 +19,7 @@
   font-size: 1rem;
   font-weight: bold;
   cursor: pointer;
-  color: #895510;
+  color: #00796b;
   padding: 0.5rem 0;
 }
 input[readonly] {
@@ -37,7 +37,7 @@ input[readonly] {
   color: #1a5276;
 }
 #codigoManualDetalleMatzah[open] {
-  border-color: #895510; /* Color característico de Pesaj */
+  border-color: #00796b; /* Color característico de Pesaj */
 }
 
 body {
@@ -107,7 +107,7 @@ background-color:#00695c !important;
   }
 
 button {
-    background-color: #895510;
+    background-color: #00796b;
     color: #fff;
     border: none;
     padding: 0.3rem 1.4rem;
@@ -139,7 +139,7 @@ body.tahor .boton-escaneo:hover {
 }
 
 body.matzah .boton-escaneo {
-  background-color: #895510 !important;
+  background-color: #00796b !important;
   color: white;
   border: none;
   border-radius: 6px;
@@ -387,49 +387,6 @@ img {
 }
 
 
-
-
-
-
-
-
-#resultadoPersonal,
-#registroManualPersonal {
-  margin-top: 2rem;
-  background-color: #fafafa;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border: 1px solid #ddd;
-}
-
-#mensajeUsuarioPersonal {
-  margin-top: 1rem;
-  font-weight: bold;
-  color: green;
-  text-align: center;
-}
-
-#registroManualPersonal .grupo-formulario label {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  font-size: 1rem;
-}
-
-#registroManualPersonal input[type="radio"] {
-  transform: scale(1.2);
-  margin-right: 0.5rem;
-}
-
-
-
-
-
-
-
-
-
-
 .detalle-producto summary {
   font-weight: bold;
   font-size: 1rem;
@@ -525,18 +482,16 @@ header.pesaj .menu-boton {
 }
 
 #tabBuscarMatzah {
-  background-color: #895510 !important;
+  background-color: #00796b !important;
 }
 
-#tabBuscarPersonal {
-  background-color: #1d0a34 !important;
-}
+
 .menu-boton:hover {
   background: #00251a;
 }
 
 #enviarboton2 {
-  background-color: #895510 !important;
+  background-color: #00796b !important;
 
 }
 .menu-desplegable {
@@ -557,7 +512,7 @@ header.tahor {
 }
 
 header.pesaj {
-  background-color: #895510;
+  background-color: #00796b;
   transition: background-color 0.3s;
 }
 
@@ -573,7 +528,7 @@ header.tahor .menu-boton {
 }
 
 header.pesaj .menu-boton {
-  background-color: #895510;
+  background-color: #00796b;
 }
 header.personal .menu-boton {
   background-color: #1d0a34;
@@ -616,7 +571,7 @@ header.personal .menu-boton {
 }
 
 .pesaj #titulo {
-  color: #fce5cd; /* color marrón clarito */
+  color: #fff; /* color marrón clarito */
 }
 
 
@@ -725,7 +680,7 @@ section#formBusquedaMatzah {
 }
 
 .matzah-encabezado {
-  background-color: #895510 !important;
+  background-color: #00796b !important;
 }
 
 .boton-tahor {
@@ -733,7 +688,7 @@ section#formBusquedaMatzah {
 }
 
 .boton-matzah {
-  background-color: #895510 !important;
+  background-color: #00796b !important;
 }
 
 .contenedor-matzah {
@@ -761,7 +716,7 @@ section#formBusquedaMatzah {
 /* Elementos internos */
 .bloque-matzah h2 {
   margin-top: 0;
-  color: #895510;
+  color: #00796b;
 }
 #tabRegistrar {
     position: fixed;
@@ -880,7 +835,7 @@ section#formBusquedaMatzah {
   color: white;
   font-size: 1rem;
   cursor: pointer;
-  background: #895510;
+  background: #00796b;
 }
 
 .boton:hover {
@@ -948,19 +903,7 @@ section#formBusquedaMatzah {
   display: block;
 
 }
-#resultadoPersonal {
-  background: white;
-  margin: 2rem 1rem;
-  border-radius: 10px;
-  padding: 1rem;
-  max-width: 850px;
-  margin-left: auto;
-  margin-right: auto;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  display: block;
-  margin-bottom:200px;
 
-}
 body.tahor {
   background-color: #f3f3f3 !important;
 }
@@ -981,13 +924,13 @@ body.matzah {
 }
 
 body.matzah .boton {
-  background: #895510 !important;
+  background: #00796b !important;
 }
 body.matzah .boton:hover {
   background: #a77b3b !important;
 }
 body.matzah #tituloPrincipal {
-  color: #895510 !important;
+  color: #00796b !important;
 }
 
 /* Al final de tu style.css agrega: */
@@ -1007,7 +950,7 @@ header.tahor {
 }
 
 header.pesaj {
-  background-color: #895510;
+  background-color: #37474f;
   transition: background-color 0.3s;
 }
 header.personal {
@@ -1035,7 +978,7 @@ header.personal {
 
 
 .pesaj #titulo {
-  color: #fce5cd; /* color marrón clarito */
+  color: #fafafa; /* color marrón clarito */
 }
 
   text-align: left;
@@ -1048,7 +991,7 @@ header.personal {
   color: #00695c; /* Verde azulado para modo Tahor */
 }
 .pesaj .bloque h2 {
-  color: #895510; /* Verde azulado para modo Tahor */
+  color: #00796b; /* Verde azulado para modo Tahor */
 }
 
 body.tahor #tituloPrincipal {
@@ -1056,14 +999,14 @@ body.tahor #tituloPrincipal {
 }
 
 body.pesaj #tituloPrincipal {
-  color: #895510; /* Marrón para Pesaj */
+  color: #00796b; /* Marrón para Pesaj */
 }
 body.tahor #tituloPrincipal {
   color: #00695c;
 }
 
 body.pesaj #tituloPrincipal {
-  color: #895510;
+  color: #00796b;
 }
 
 .header-contenido {
@@ -1166,9 +1109,6 @@ body.personal #tituloPrincipal {
   color: #5c4080;
 }
 
-#tabRegistrarPersonal {
-  background: #5c4080 !important;
-}
 
 }
 #tituloPrincipal {
