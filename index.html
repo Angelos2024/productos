@@ -45,12 +45,12 @@
   <h1 id="tituloPrincipal">Selecciona una categoría de productos</h1>
   
   <div id="descripcionIntro" style="max-width: 600px; margin: 1rem auto; font-size: 1rem; color: #444;">
-  Bienvenido. Esta aplicación te permite verificar si <span style="color:#3c763d; font-weight:bold;">un producto alimenticio</span> o de <span style="color:#5c4080; font-weight:bold;">uso personal</span> es <strong>Tahor</strong> (apto) o <strong>Tame</strong> (no apto) según los criterios de <strong>Levítico 11</strong>. También puedes comprobar si contiene <span style="color:#a84300; font-weight:bold;">levadura para Pesaj</span>. Escoge una sección para comenzar.
+  Bienvenido. Esta aplicación te permite verificar si <span style="color:#3c763d; font-weight:bold;">un producto alimenticio</span> es <strong>Tahor</strong> (apto) o <span style="color:red; font-weight:bold;">Tame</span> (no apto) según los criterios de <strong>Levítico 11</strong>. También puedes comprobar si contiene <span style="color:#a84300; font-weight:bold;">levadura para Pesaj</span>.
 </p>
   </div>
 
   <div style="margin-top: 2rem; display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center;">
-<button onclick="irASeccion('tahor')" style="
+<!-- <button onclick="irASeccion('tahor')" style="
       background-color: #00695c;
       font-size: 1.2rem;
       padding: 1rem 2rem;
@@ -59,28 +59,18 @@
       border: none;
       cursor: pointer;
     ">🧪 Verificar 
-  </br>productos Tahor</button>
+  </br>productos Tahor</button>-->
 
 <button onclick="irASeccion('pesaj')" style="
-      background-color: #895510;
+      background-color: #00695c;
       font-size: 1.2rem;
-      padding: 1rem 2rem;
+      padding: 1rem 3.4rem;
       border-radius: 12px;
       color: white;
       border: none;
       cursor: pointer;
-    ">🍞 Verificar 
-  </br>productos para Pesaj</button>
-
-  <button onclick="irASeccion('personal')" style="
-  background-color: #5c4080;
-  font-size: 1.2rem;
-  padding: 1rem 2rem;
-  border-radius: 12px;
-  color: white;
-  border: none;
-  cursor: pointer;
-">🧴 Verificar<br>productos personales</button>
+    ">🔎 Verificar 
+  </br>productos</button>
 
   </div>
 </div>
@@ -362,8 +352,33 @@
           </select>
         </div>
 
-        <button class="boton" id="botonBusquedaMatzah" style="background-color: #895510;">🔍 Buscar producto</button>
+        <button class="boton" id="botonBusquedaMatzah" style="background-color: #37474f;">🔍 Buscar producto</button>
       </details>
+      <div id="filtrosPR" style="
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: center;
+  justify-content: start;
+  max-width: 420px;
+">
+  <strong style="font-size: 0.85rem; color: #333;">Ver:</strong>
+  <label style="display:flex; align-items:center; gap:0.3rem;">
+    <input type="checkbox" id="filtroTame" checked> Tame
+  </label>
+  <label style="display:flex; align-items:center; gap:0.3rem;">
+    <input type="checkbox" id="filtroLeudado"> Leudante
+  </label>
+  <label style="display:flex; align-items:center; gap:0.3rem;">
+    <input type="checkbox" id="filtroDudoso"> Dudoso
+  </label>
+</div>
     </div>
 
     <!-- Bloque 2: Búsqueda por código -->
@@ -378,7 +393,7 @@
 
         <div class="campo">
           <label for="selectCamaraMatzah">Escanear con cámara (opcional)</label>
-          <button id="escanearCodigoMatzah" class="boton-escaneo" title="Escanear con cámara" style="width: 100%; background-color: #895510;">📷 Escanear</button>
+          <button id="escanearCodigoMatzah" class="boton-escaneo" title="Escanear con cámara" style="width: 100%; background-color: #37474f;">📷 Escanear</button>
           <select id="selectCamaraMatzah" class="dropdown-camara" style="margin-top: 0.5rem;">
             <option value="">(Auto)</option>
           </select>
@@ -410,40 +425,17 @@
 
 
         <div style="margin-top: 1rem;">
-          <button class="boton" id="botonBusquedaCodigoMatzah" style="background-color: #895510;">🔍 Buscar producto</button>
+          <button class="boton" id="botonBusquedaCodigoMatzah" style="background-color: #37474f;">🔍 Buscar producto</button>
         </div>
       </details>
+
     </div>
 
   </div>
 </section>
 
 
- <div id="filtrosPR" style="
-  margin-top: 0.5rem;
-  padding: 0.4rem 0.8rem;
-  background-color: #f9f9f9;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  font-size: 0.85rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.8rem;
-  align-items: center;
-  justify-content: start;
-  max-width: 420px;
-">
-  <strong style="font-size: 0.85rem; color: #333;">Ver:</strong>
-  <label style="display:flex; align-items:center; gap:0.3rem;">
-    <input type="checkbox" id="filtroTame" checked> Tame
-  </label>
-  <label style="display:flex; align-items:center; gap:0.3rem;">
-    <input type="checkbox" id="filtroLeudado"> Leudante
-  </label>
-  <label style="display:flex; align-items:center; gap:0.3rem;">
-    <input type="checkbox" id="filtroDudoso"> Dudoso
-  </label>
-</div>
+
 
 
 <section id="resultadoMatzah"></section>
@@ -453,23 +445,23 @@
 <button id="tabBuscarMatzah" class="boton boton-volver-matzah" style="margin-bottom: 1rem;">⬅️ Volver a buscar productos</button>
  <div class="contenedor">
     <div class="bloque">
-  <h2>Registrar Producto sin Levadura</h2>
+  <h2>Registrar Nuevo Producto </h2>
   <form id="formRegistroManualMatzah">
-    <input type="text" id="marcaManualMatzah" placeholder="Marca del producto" required>
     <input type="text" id="nombreManualMatzah" placeholder="Nombre del producto" required>
+    <input type="text" id="marcaManualMatzah" placeholder="Marca del producto" required>
     <input type="text" id="eanManualMatzah" placeholder="Código de barras (opcional)">
     <input type="text" id="paisManualMatzah" placeholder="País o región" required>
     <textarea id="ingredientesManualMatzah" placeholder="Ingredientes separados por coma" required></textarea>
 
-    <label><strong>¿Es apto para panes sin levadura?</strong></label>
+    <label><strong>¿Es apto para consumo?</strong></label>
     <div class="selector-tahor">
       <label id="labelMatzahTahor" for="matzahTahor">
         <input type="radio" name="estadoMatzah" id="matzahTahor" value="true" required>
-        ✅ Apto (sin levadura)
+        ✅ Apto
       </label>
       <label id="labelMatzahTame" for="matzahTame">
         <input type="radio" name="estadoMatzah" id="matzahTame" value="false" required>
-        ❌ No Apto (con levadura o impuro)
+        ❌ No Apto
       </label>
     </div>
 
@@ -486,167 +478,6 @@
 
 </div>
 
-<div id="bloquePersonal" style="display:none;">
-
-  <!-- TABS SUPERIORES -->
-  <div id="tabsPersonal" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
-    <div style="flex: 1;"></div>
-  </div>
-
-  <!-- Botón flotante de registro -->
-  <button id="tabRegistrarPersonal" onclick="mostrarFormularioRegistroPersonal()" title="Registrar productos personales" style="
-    position: fixed;
-    top: 1.4rem;
-    right: -10px;
-    background: #1d0a34 !important;
-    color: white;
-    border: none;
-    padding: 0.25rem 0.28rem;
-    border-radius: 12px;
-    z-index: 9999;
-    cursor: pointer;
-    font-size: 0.7rem;
-    text-align: center;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-    line-height: 1.2;
-  ">
-    📝<br>Ayúdanos a<br>Registrar productos
-  </button>
-
-  <!-- Formulario búsqueda -->
-  <section id="formBusquedaPersonal" style="padding: 1rem; display: none;">
-    <div class="contenedor">
-
-      <div class="bloque">
-        <details id="busquedaPersonal1" class="detalle-busqueda-codigo">
-          <summary><h2>🔎 Buscar por Nombre / Marca / País</h2></summary>
-
-          <div class="campo">
-            <label for="nombreEntradaPersonal">Nombre del producto</label>
-            <input type="text" id="nombreEntradaPersonal" placeholder="Ej. Shampoo, crema, jabón..." />
-          </div>
-
-          <div class="campo">
-            <label for="marcaEntradaPersonal">Marca</label>
-            <input type="text" id="marcaEntradaPersonal" placeholder="Ej. Nivea, Neutrogena..." />
-          </div>
-
-          <div class="campo">
-            <label for="paisFiltroPersonal">País</label>
-            <select id="paisFiltroPersonal" class="paisFiltro">
-    <option value="">-- Selecciona País (Opcional) --</option>
-    <option value="México">México</option>
-    <option value="USA">USA</option>
-    <option value="España">España</option>
-    <option value="Francia">Francia</option>
-    <option value="Belice">Belice</option>
-    <option value="Guatemala">Guatemala</option>
-    <option value="Honduras">Honduras</option>
-    <option value="El Salvador">El Salvador</option>
-    <option value="Nicaragua">Nicaragua</option>
-    <option value="Costa Rica">Costa Rica</option>
-    <option value="Panamá">Panamá</option>
-    <option value="Uruguay">Uruguay</option>
-    <option value="Paraguay">Paraguay</option>
-    <option value="Bolivia">Bolivia</option>
-    <option value="Ecuador">Ecuador</option>
-    <option value="República Dominicana">República Dominicana</option>
-    <option value="Puerto Rico">Puerto Rico</option>
-    <option value="Cuba">Cuba</option>
-            </select>
-          </div>
-
-          <button class="boton" id="botonBusquedaPersonal" style="background-color: #5c4080;">🔍 Buscar producto</button>
-        </details>
-      </div>
-
-<!-- Bloque 2: Búsqueda por código para PERSONAL -->
-<div class="bloque">
-  <details id="codigoManualDetallePersonal" class="detalle-busqueda-codigo">
-    <summary><h2>🔁 Buscar por Código de barras</h2></summary>
-
-    <div class="campo">
-      <label for="eanEntradaPersonal">Código manual</label>
-      <input type="text" id="eanEntradaPersonal" placeholder="Ej. 7501234567890" style="width: 100%;">
-    </div>
-
-    <div class="campo">
-      <label for="selectCamaraPersonal">Escanear con cámara (opcional)</label>
-      <button id="escanearCodigoPersonal" class="boton-escaneo" title="Escanear con cámara" style="width: 100%; background-color: #5c4080;">📷 Escanear</button>
-      <select id="selectCamaraPersonal" class="dropdown-camara" style="margin-top: 0.5rem;">
-        <option value="">(Auto)</option>
-      </select>
-    </div>
-
-    <div class="campo">
-      <label for="paisFiltroPersonal2">País</label>
-      <select id="paisFiltroPersonal2" class="paisFiltro">
-        <option value="">-- Selecciona País (Opcional) --</option>
-        <option value="México">México</option>
-        <option value="USA">USA</option>
-        <option value="España">España</option>
-        <option value="Francia">Francia</option>
-        <option value="Belice">Belice</option>
-        <option value="Guatemala">Guatemala</option>
-        <option value="Honduras">Honduras</option>
-        <option value="El Salvador">El Salvador</option>
-        <option value="Nicaragua">Nicaragua</option>
-        <option value="Costa Rica">Costa Rica</option>
-        <option value="Panamá">Panamá</option>
-        <option value="Uruguay">Uruguay</option>
-        <option value="Paraguay">Paraguay</option>
-        <option value="Bolivia">Bolivia</option>
-        <option value="Ecuador">Ecuador</option>
-        <option value="República Dominicana">República Dominicana</option>
-        <option value="Puerto Rico">Puerto Rico</option>
-        <option value="Cuba">Cuba</option>
-      </select>
-    </div>
-
-    <div style="margin-top: 1rem;">
-      <button class="boton" id="botonBusquedaCodigoPersonal" style="background-color: #5c4080;">🔍 Buscar producto</button>
-    </div>
-  </details>
-</div>
-
-    </div>
-
-
-  </section>
-
-  <!-- Resultados -->
-  <section id="resultadoPersonal"></section>
-
-  <!-- Registro Manual -->
-  <section id="registroManualPersonal" style="display:none">
-    <button id="tabBuscarPersonal" class="boton boton-volver-tahor" style="margin-bottom: 1rem;">⬅️ Volver a buscar productos</button>
-    <div class="contenedor">
-      <div class="bloque">
-        <h2>Registrar Producto de Uso Personal</h2>
-        <form id="formRegistroManualPersonal">
-          <input type="text" id="marcaManualPersonal" placeholder="Marca del producto" required>
-          <input type="text" id="nombreManualPersonal" placeholder="Nombre del producto" required>
-          <input type="text" id="eanManualPersonal" placeholder="Código de barras (opcional)">
-          <input type="text" id="paisManualPersonal" placeholder="País o región" required>
-          <textarea id="ingredientesManualPersonal" placeholder="Ingredientes separados por coma" required></textarea>
-
-          <label><strong>¿Es apto para uso personal según tus criterios?</strong></label>
-          <div class="selector-tahor">
-            <label for="personalTahor"><input type="radio" name="estadoPersonal" id="personalTahor" value="true" required>✅ Apto</label>
-            <label for="personalTame"><input type="radio" name="estadoPersonal" id="personalTame" value="false" required>❌ No Apto</label>
-          </div>
-
-          <label for="imagenManualPersonal">📷 Subir imagen (opcional):</label>
-          <input type="url" id="imagenManualPersonal" placeholder="URL de la imagen del producto">
-
-          <button type="submit" id="enviarbotonPersonal" style="background-color:#5c4080;">Enviar a Revisión</button>
-        </form>
-        <p id="mensajeUsuarioPersonal"></p>
-      </div>
-    </div>
-  </section>
-
-</div>
 
 
 <button id="adminAccess" title="Modo administrador" style="
@@ -686,8 +517,7 @@
 <script src="lectorBase.js"></script>         <!-- MOVER arriba -->
 <script src="https://unpkg.com/@zxing/library@0.18.6/umd/index.min.js"></script>
 <script src="main.js"></script>
-<script src="matzah-main.js"></script>        <!-- Cargar después -->
-<script src="personal-main.js"></script>  
+<script src="matzah-main.js"></script>        <!-- Cargar después --> 
 <script src="cargandogithub.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@octokit/rest@19.0.7/dist/octokit.umd.js" onload="loadAdmin()"></script>
 
@@ -813,22 +643,13 @@ function cambiarVista(tipo) {
   const bloquePersonal = document.getElementById('bloquePersonal'); // NUEVO
 
   if (tipo === 'pesaj') {
-    titulo.textContent = '🍞 Escáner de Productos para Pesaj';
+    titulo.textContent = '🔎Escáner de Productos Tahor/Tame';
     encabezado.className = 'pesaj';
     body.className = 'pesaj';
     bloqueTahor.style.display = 'none';
     bloqueMatzah.style.display = 'block';
     bloquePersonal.style.display = 'none';
     titulo.style.color = '#895510'; // Color Pesaj
-
-  } else if (tipo === 'personal') {
-    titulo.textContent = '🧴 Escáner de Productos de Higiene Personal';
-    encabezado.className = 'personal';
-    body.className = 'personal';
-    bloqueTahor.style.display = 'none';
-    bloqueMatzah.style.display = 'none';
-    bloquePersonal.style.display = 'block';
-    titulo.style.color = '#5c4080'; // Color Personal
 
   } else {
     titulo.textContent = '🧪 Escáner de Productos Tame / Tahor';
@@ -866,7 +687,7 @@ function abrirMatzah() {
   const encabezado = document.getElementById('encabezado');
   const body = document.body;
 
-  if (titulo) titulo.textContent = '🍞 Escáner de Productos para Pesaj';
+  if (titulo) titulo.textContent = '🔎Escáner de Productos Tahor/Tame';
   if (encabezado) encabezado.className = 'pesaj';
   if (body) body.className = 'pesaj';
 }
@@ -887,7 +708,6 @@ function abrirPersonal() {
   const encabezado = document.getElementById('encabezado');
   if (encabezado) {
     encabezado.classList.remove('tahor', 'pesaj');
-    encabezado.classList.add('personal');
   }
 
   const botonesFlotantes = document.querySelectorAll('#tabRegistrarPersonal, #tabBuscarPersonal');
@@ -910,14 +730,13 @@ function toggleMenu() {
 
 <header id="encabezado" class="tahor">
   <div class="header-contenido">
-    <button class="menu-boton" onclick="toggleMenu()">☰</button>
+    <!-- <button class="menu-boton" onclick="toggleMenu()">☰</button>-->
     <span id="titulo">🧪 Escáner de Productos Tahor</span>
   </div>
 
   <div id="menu" class="menu-desplegable">
 <button onclick="irASeccion('tahor')">🧪 Escaner productos Tahor</button>
 <button onclick="irASeccion('pesaj')">🍞 Escaner productos Pesaj</button>
-<button onclick="irASeccion('personal')">🧴 Escaner productos Personal</button>
   </div>
 </header>
 
