@@ -44,7 +44,7 @@ const listaDudosos = [
 "Emulsionantes",
 "Estabilizantes",
 "Ácidos grasos",
-"Butírica,
+"Butírica",
   "monoglicéridos y diglicéridos de ácidos grasos",
 ];
 
@@ -293,4 +293,5 @@ function analizarIngredientes(ingredientes) {
     ingredientesTame: impuros
   };
 }
+
 
