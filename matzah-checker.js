@@ -65,12 +65,6 @@ const ingredientesTameFrasesMatzah = ['CI 75470',
   'grasa de cerdo',
   'laca armin',
   'laca de cochinilla',
-  'mono y diglicéridos',
-  'mono- and diglycerides',
-  'mono- and diglycerides of fatty acids',
-  'monoestearato de glicerilo',
-  'monoestearato de sorbitán',
-  'monoglicéridos y diglicéridos de ácidos grasos',
   'natural carmine',
   'natural red',
   'natural red 4',
@@ -167,7 +161,7 @@ function analizarIngredientesMatzah(ingredientes) {
   };
 }
 
- 
+
   // ✅ Exportar solo las funciones necesarias al ámbito global
   // ✅ Exportar solo las funciones necesarias al ámbito global
   window.isTameMatzah = isTameMatzah;
