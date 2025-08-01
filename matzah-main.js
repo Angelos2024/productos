@@ -346,6 +346,7 @@ if (ean && /^[0-9]{8,14}$/.test(ean)) {
 
   resultadoMatzah.innerHTML = '<p><strong>🔍 Buscando en base local archivo por archivo...</strong></p>';
   scrollAResultadosMatzah();
+productosMatzahTemporales = []; // 🧹 Limpia resultados anteriores
 
   const resultadosHTML = [];
 const htmlLocales = await buscarProductoEnArchivos(nombre, marca, ean, pais);
@@ -435,50 +436,8 @@ if (resultadoOFF) {
 
   }
 
-if (resultadosHTML.length > 0) {
-  resultadoMatzah.innerHTML = `<p><strong>🔎 Resultados encontrados (${resultadosHTML.length}):</strong></p>`;
-
-  resultadosHTML.slice(0, 3).forEach(htmlProducto => {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(htmlProducto, 'text/html');
-    const nombreProducto = doc.querySelector('strong')?.textContent || "";
-    const ingredientesTexto = doc.querySelector('p')?.textContent || "";
-    const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
-
-    const { tameDetectado, leudanteDetectado } = analizarIngredientesMatzah(ingredientes);
-
-    const htmlIngredientes = ingredientes.map(ing => {
-      const normalizado = normalizeYsingularizar(ing);
-      if (isTameMatzah(normalizado)) {
-        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
-      } else if (isLeudante(normalizado)) {
-        return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
-      } else {
-        return `<span>${ing}</span>`;
-      }
-    }).join(", ");
-
-    let colorEstado = 'green';
-    let textoEstado = '✅ Apto (Tahor)';
-    if (tameDetectado) {
-      colorEstado = 'red';
-      textoEstado = '❌ No Apto (Tame)';
-    } else if (leudanteDetectado) {
-      colorEstado = 'orange';
-      textoEstado = '⚠️ Contiene Leudante';
-    }
-
-    resultadoMatzah.innerHTML += `
-      <details class="detalle-producto">
-        <summary><strong>${nombreProducto}</strong></summary>
-        ${doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>'}
-        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
-        <p style="color:${colorEstado}; font-weight:bold;">${textoEstado}</p>
-      </details>
-      <hr>
-    `;
-  });
-
+if (productosMatzahTemporales.length > 0) {
+  renderizarResultadosMatzah();
 } else {
   resultadoMatzah.innerHTML = `
     <p style="color:red;">❌ Producto no encontrado.</p>
@@ -486,6 +445,7 @@ if (resultadosHTML.length > 0) {
     <button onclick="mostrarFormularioRegistroMatzah()">📝 Registrar manualmente</button>
   `;
 }
+
 
 
 
@@ -858,19 +818,49 @@ async function buscarSoloPorEanMatzah(ean) {
   resultadoMatzah.innerHTML = '<p><strong>🔍 Buscando solo por Código de Barras en Pesaj...</strong></p>';
   scrollAResultadosMatzah();
 
-  const resultadosHTML = [];
-  const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
-  if (htmlLocales) resultadosHTML.push(...htmlLocales.split('<hr>'));
+  productosMatzahTemporales = []; // 🧹 limpia anteriores
 
-  if (resultadosHTML.length < 3) {
-    resultadoMatzah.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
-    const resultadoOFF = await buscarEnOpenFoodFactsMatzah('', '', ean, pais);
-    if (resultadoOFF) resultadosHTML.push(...resultadoOFF);
+  const htmlLocales = await buscarProductoEnArchivos('', '', ean, pais);
+  if (htmlLocales) {
+    const partes = htmlLocales.split('<hr>');
+
+    for (const htmlProducto of partes) {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(htmlProducto, 'text/html');
+      const nombreProducto = doc.querySelector('strong')?.textContent || "";
+      const ingredientesTexto = doc.querySelector('p')?.textContent || "";
+      const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
+
+      productosMatzahTemporales.push({
+        nombre: nombreProducto,
+        imagenHTML: doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>',
+        ingredientesRaw: ingredientes
+      });
+    }
   }
 
-  if (resultadosHTML.length > 0) {
-renderizarResultadosMatzah();
+  if (productosMatzahTemporales.length < 3) {
+    resultadoMatzah.innerHTML += `<p><strong>🌐 Consultando OpenFoodFacts...</strong></p>`;
+    const resultadoOFF = await buscarEnOpenFoodFactsMatzah('', '', ean, pais);
+    if (resultadoOFF) {
+      resultadoOFF.forEach(htmlProducto => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(htmlProducto, 'text/html');
+        const nombreProducto = doc.querySelector('strong')?.textContent || "";
+        const ingredientesTexto = doc.querySelector('p')?.textContent || "";
+        const ingredientes = ingredientesTexto.split(',').map(i => i.trim());
 
+        productosMatzahTemporales.push({
+          nombre: nombreProducto,
+          imagenHTML: doc.querySelector('img')?.outerHTML || '<p style="color:gray;">🖼️ Imagen no disponible</p>',
+          ingredientesRaw: ingredientes
+        });
+      });
+    }
+  }
+
+  if (productosMatzahTemporales.length > 0) {
+    renderizarResultadosMatzah();
   } else {
     resultadoMatzah.innerHTML = `
       <p style="color:red;">❌ Producto no encontrado por código de barras.</p>
@@ -881,6 +871,7 @@ renderizarResultadosMatzah();
 
   setTimeout(() => scrollAResultadosMatzah(), 250);
 }
+
 
 async function inicializarListaCamarasMatzah(selectId) {
   const select = document.getElementById(selectId);
@@ -966,6 +957,19 @@ if (bloqueEscanerMatzah) {
     }
   });
 }
+
+
+function resaltarPalabrasDudosas(textoOriginal, palabrasDudosas, activo) {
+  if (!activo) return textoOriginal;
+
+  let texto = textoOriginal;
+  palabrasDudosas.forEach(palabra => {
+    const regex = new RegExp(`\\b(${palabra})\\b`, 'gi');
+    texto = texto.replace(regex, `<span style="color:#7B61FF; font-weight:bold;">$1</span>`);
+  });
+  return texto;
+}
+
 function renderizarResultadosMatzah() {
   const contenedor = document.getElementById("resultadoMatzah");
   contenedor.innerHTML = `<p><strong>🔎 Resultados encontrados (${productosMatzahTemporales.length}):</strong></p>`;
@@ -980,30 +984,89 @@ function renderizarResultadosMatzah() {
   }
 
   productosMatzahTemporales.forEach(prod => {
-    const htmlIngredientes = prod.ingredientesRaw.map(ing => {
-      const normal = normalizeYsingularizar(ing);
-      const esTame = isTameMatzah(normal);
-      const esLeudante = isLeudante(normal);
+const htmlIngredientes = prod.ingredientesRaw.map(ing => {
+  const normal = normalizeYsingularizar(ing);
+  const esTame = isTameMatzah(normal);
+  const esLeudante = isLeudante(normal);
+  const esDudoso = isDudoso(normal);
 
-      if (esTame && filtroTame) {
-        return `<span style="color:red; font-weight:bold;">${ing}</span>`;
-      } else if (esLeudante && filtroLeudado) {
-        return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
-      } else if (!esTame && !esLeudante && filtroDudoso) {
-        return `<span style="color:gray;">${ing}</span>`;
-      } else {
-        return ``;
-      }
-    }).filter(Boolean).join(", ");
+  if (esTame && filtroTame) {
+    return `<span style="color:red; font-weight:bold;">${ing}</span>`;
+  } else if (esLeudante && filtroLeudado) {
+    return `<span style="color:orange; font-weight:bold;">${ing}</span>`;
+  } else if (esDudoso && filtroDudoso) {
+    return resaltarPalabrasDudosas(ing, listaDudosos, true);
+  } else {
+    return `<span>${ing}</span>`;
+  }
+}).join(", ");
 
-    contenedor.innerHTML += `
-      <details class="detalle-producto">
-        <summary><strong>${prod.nombre}</strong></summary>
+
+
+
+const ingredientesTameDetectados = prod.ingredientesRaw.filter(i =>
+  isTameMatzah(normalizeYsingularizar(i))
+);
+
+const ingredientesLeudDetectados = prod.ingredientesRaw.filter(i =>
+  !isTameMatzah(normalizeYsingularizar(i)) &&
+  isLeudante(normalizeYsingularizar(i))
+);
+
+const ingredientesDudososDetectados = prod.ingredientesRaw.filter(i =>
+  !isTameMatzah(normalizeYsingularizar(i)) &&
+  !isLeudante(normalizeYsingularizar(i)) &&
+  isDudoso(normalizeYsingularizar(i))
+);
+
+
+let mensajeFinal = '✅ Apto (Tahor)';
+let colorFinal = 'green';
+
+if (ingredientesTameDetectados.length > 0 && ingredientesLeudDetectados.length > 0) {
+  mensajeFinal = '❌ No Apto (Tame y Leudado)';
+  colorFinal = 'darkred';
+} else if (ingredientesTameDetectados.length > 0) {
+  mensajeFinal = '❌ No Apto (Tame)';
+  colorFinal = 'red';
+} else if (ingredientesLeudDetectados.length > 0) {
+  mensajeFinal = '⚠️ Contiene Leudante';
+  colorFinal = 'orange';
+}
+
+contenedor.innerHTML += `
+  <details class="detalle-producto">
+    <summary><strong>${prod.nombre}</strong></summary>
+    <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+      <div style="flex: 0 0 auto;">
         ${prod.imagenHTML}
-        <p><strong>Ingredientes:</strong> ${htmlIngredientes}</p>
-      </details>
-      <hr>
-    `;
+      </div>
+<div style="flex: 1 1 220px; max-width: 520px;">
+  <p><strong>Ingredientes:</strong><br>${htmlIngredientes}</p>
+
+${filtroTame && ingredientesTameDetectados.length > 0 ? `
+  <p><strong style="color:red;">Ingredientes Tame detectados:</strong><br>
+  <ul style="color:red;">${ingredientesTameDetectados.map(i => `<li><b>${i}</b></li>`).join("")}</ul></p>` : ""
+}
+${filtroDudoso && ingredientesDudososDetectados.length > 0 ? `
+  <p><strong style="color:#7B61FF;">Ingredientes Dudosos detectados:</strong><br>
+  <ul style="color:#7B61FF;">${ingredientesDudososDetectados.map(i => `<li><b>${i}</b></li>`).join("")}</ul></p>` : ""
+}
+
+${filtroLeudado && ingredientesLeudDetectados.length > 0 ? `
+  <p><strong style="color:orange;">Ingredientes Leudantes detectados:</strong><br>
+  <ul style="color:orange;">${ingredientesLeudDetectados.map(i => `<li><b>${i}</b></li>`).join("")}</ul></p>` : ""
+}
+
+
+  <p style="color:${colorFinal}; font-weight:bold;">${mensajeFinal}</p>
+</div>
+
+    </div>
+  </details>
+  <hr>
+`;
+
   });
 }
 
