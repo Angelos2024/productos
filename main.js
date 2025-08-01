@@ -1043,7 +1043,7 @@ function irASeccion(tipo) {
     document.getElementById("formBusquedaMatzah").style.display = "none";
     document.getElementById("resultadoMatzah").style.display = "none";
     document.getElementById("registroManualMatzah").style.display = "none";
-    document.getElementById("bloquePersonal").style.display = "none";
+
 
   } else if (tipo === "pesaj") {
     titulo.textContent = "🍞 Escáner de Productos para Pesaj";
@@ -1055,32 +1055,9 @@ function irASeccion(tipo) {
     document.getElementById("formBusquedaProducto").style.display = "none";
     document.getElementById("analisisResultado").style.display = "none";
     document.getElementById("registroManual").style.display = "none";
-    document.getElementById("bloquePersonal").style.display = "none";
 
-  } else if (tipo === "personal") {
-    titulo.textContent = "🧴 Escáner de Productos de Higiene Personal";
-    document.getElementById("bloqueTahor").style.display = "none";
-    document.getElementById("bloqueMatzah").style.display = "none";
-    document.getElementById("bloquePersonal").style.display = "block";
 
-    document.getElementById("formBusquedaPersonal").style.display = "block";
-    document.getElementById("resultadoPersonal").style.display = "block";
-    document.getElementById("registroManualPersonal").style.display = "none";
-
-    const encabezado = document.getElementById("encabezado");
-    if (encabezado) encabezado.className = "personal";
-
-    const body = document.body;
-    if (body) body.className = "personal";
-
-    const tituloPrincipal = document.getElementById("tituloPrincipal");
-    if (tituloPrincipal) {
-      tituloPrincipal.textContent = "🧴 Escáner de Productos de Higiene Personal";
-      tituloPrincipal.style.color = "#5c4080";
-    }
-
-    document.title = "🧴 Escáner de Productos de Higiene Personal";
-  }
+  } 
 }
 
 
