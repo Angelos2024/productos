@@ -14,6 +14,37 @@ function normalizeYsingularizar(txt) {
     .join(" ");
 }
 
+const listaDudosos = [
+  "carboximetilcelulosa","monostearate",
+  "mono y diglicéridos",
+  "mono- and diglycerides",
+  "mono- and diglycerides of fatty acids",
+  "monoestearato de glicerilo",
+  "monoestearato de sorbitán",
+  "monoglicéridos y diglicéridos de ácidos grasos",
+    "monoestearato",
+  "monoglicéridos",
+  "monoglycerides",
+  "monostearate",
+    "saborizante natural",
+  "saborizante artificial",
+     "saborizantes naturales",
+  "saborizantes artificiales",
+  "saborizante idéntico al natural",
+  "saborizantes",
+];
+
+function isDudoso(ingredienteOriginal) {
+  const normal = normalizeYsingularizar(ingredienteOriginal);
+
+  // Intentar también con plural agregando una "s" al final de cada palabra que no termina en "es"
+  const plural = normal
+    .split(" ")
+    .map(w => (w.endsWith("s") || w.endsWith("es") ? w : w + "s"))
+    .join(" ");
+
+  return listaDudosos.some(d => normal.includes(d) || plural.includes(d));
+}
 
 // 🟢 Lista blanca: frases que no deben marcarse como Tame
 const excepcionesPermitidas = [
@@ -63,21 +94,15 @@ const ingredientesTameFrases = [
   'gelatina de cerdo',
   'glicerina animal',
   'glicerol animal',
-  'glicerol monoestearato',
+  'glicerol',
   'glycerol esters',
-  'glycerol monostearate',
-  'glyceryl monostearate',
+  'glycerol',
+  'glyceryl',
   'goma laca',
   'grasa animal',
   'grasa de cerdo',
   'laca armin',
   'laca de cochinilla',
-  'mono y diglicéridos',
-  'mono- and diglycerides',
-  'mono- and diglycerides of fatty acids',
-  'monoestearato de glicerilo',
-  'monoestearato de sorbitán',
-  'monoglicéridos y diglicéridos de ácidos grasos',
   'natural carmine',
   'natural red',
   'natural red 4',
@@ -91,7 +116,6 @@ const ingredientesTameFrases = [
   'pork gelatin',
   'pork meat extract',
   'pork rennet',
-  'sorbitan monostearate',
   'ácido esteárico animal',
   'ésteres de glicerol'
 ].map(normalizeYsingularizar);
@@ -188,10 +212,6 @@ const ingredientesTamePalabras = [
   'marisco',
   'mejillón',
   'mermelada',
-  'monoestearato',
-  'monoglicéridos',
-  'monoglycerides',
-  'monostearate',
   'morcilla',
   'mosca',
   'mule',
