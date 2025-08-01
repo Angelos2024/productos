@@ -37,6 +37,14 @@ const listaDudosos = [
   "mono- and diglycerides of fatty acids",
   "monoestearato de glicerilo",
   "monoestearato de sorbitán",
+  "Ésteres acéticos",
+"Ésteres lácticos",
+"Ésteres cítricos",
+"Triglicéridos",
+"Emulsionantes",
+"Estabilizantes",
+"Ácidos grasos",
+"Butírica,
   "monoglicéridos y diglicéridos de ácidos grasos",
 ];
 
@@ -285,3 +293,4 @@ function analizarIngredientes(ingredientes) {
     ingredientesTame: impuros
   };
 }
+
