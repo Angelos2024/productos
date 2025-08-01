@@ -167,7 +167,7 @@ function analizarIngredientesMatzah(ingredientes) {
   };
 }
 
-
+ 
   // ✅ Exportar solo las funciones necesarias al ámbito global
   // ✅ Exportar solo las funciones necesarias al ámbito global
   window.isTameMatzah = isTameMatzah;
