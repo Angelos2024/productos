@@ -32,6 +32,12 @@ const listaDudosos = [
   "saborizantes artificiales",
   "saborizante idéntico al natural",
   "saborizantes",
+  "mono y diglicéridos",
+  "mono- and diglycerides",
+  "mono- and diglycerides of fatty acids",
+  "monoestearato de glicerilo",
+  "monoestearato de sorbitán",
+  "monoglicéridos y diglicéridos de ácidos grasos",
 ];
 
 function isDudoso(ingredienteOriginal) {
