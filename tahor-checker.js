@@ -32,6 +32,7 @@ const listaDudosos = [
   "saborizantes artificiales",
   "saborizante idéntico al natural",
   "saborizantes",
+  "saborizante",
   "mono y diglicéridos",
   "mono- and diglycerides",
   "mono- and diglycerides of fatty acids",
@@ -290,6 +291,7 @@ function analizarIngredientes(ingredientes) {
     ingredientesTame: impuros
   };
 }
+
 
 
 
