@@ -16,6 +16,8 @@ const ingredientesTameFrases = [
   'CI 75470',
   'E-120',
   'CI natural red 4',
+  'amarillo ocaso',
+  'amarillo ocaso FCF',
   'animal collagen',
   'animal enzyme',
   'animal extract',
@@ -32,6 +34,7 @@ const ingredientesTameFrases = [
   'carmine lac',
   'ci natural red 4',
   'cochineal lac',
+  'colorante amarillo ocaso FCF',
   'colágeno animal',
   'colágeno porcino',
   'crimson lake',
@@ -395,4 +398,3 @@ if (ean) {
   window.buscarProductoEnArchivos = buscarProductoEnArchivos;
 
 })();
-
