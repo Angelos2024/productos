@@ -33,6 +33,11 @@ const listaDudosos = [
   "monoglycerides",
   "monostearate",
   "sintetico",
+  "Grasa butírica",
+  "butrica",
+  "butírico",
+  "butíricos",
+  "acido butírico",
   "artificial",
   "artificiales",
     "saborizante natural",
@@ -294,4 +299,5 @@ function analizarIngredientes(ingredientes) {
 }
 
 window.isDudoso = isDudoso;
+
 
