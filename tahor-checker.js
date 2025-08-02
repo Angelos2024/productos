@@ -32,6 +32,9 @@ const listaDudosos = [
   "monoglicéridos",
   "monoglycerides",
   "monostearate",
+  "sintetico",
+  "artificial",
+  "artificiales",
     "saborizante natural",
   "saborizante artificial",
      "saborizantes naturales",
@@ -291,3 +294,4 @@ function analizarIngredientes(ingredientes) {
 }
 
 window.isDudoso = isDudoso;
+
