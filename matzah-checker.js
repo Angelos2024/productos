@@ -14,11 +14,7 @@
       .join(" ");
   }
 const excepcionesPermitidasMatzah = [
-  "monoestearato de sorbitán", "sorbitan monostearate", 
-  "saborizante natural", "saborizante artificial", 
-  "saborizante idéntico al natural", "curcuma",
-  "colorante como tartrazina", "conservador", 
-  "antiglutinante"
+
 ].map(normalizeYsingularizar);
 
   // Lista Tame (idéntica a tahor-checker.js pero renombrada internamente)
@@ -126,6 +122,7 @@ function isLeudante(ing) {
     return normal.includes(leudNorm) || normal.split(" ").includes(leudNorm);
   });
 }
+
 
 function isTameMatzah(ing) {
   if (!ing) return false;
