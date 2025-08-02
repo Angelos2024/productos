@@ -1023,16 +1023,26 @@ const ingredientesDudososDetectados = prod.ingredientesRaw.filter(i =>
 let mensajeFinal = '✅ Apto (Tahor)';
 let colorFinal = 'green';
 
-if (ingredientesTameDetectados.length > 0 && ingredientesLeudDetectados.length > 0) {
-  mensajeFinal = '❌ No Apto (Tame y Leudado)';
-  colorFinal = 'darkred';
-} else if (ingredientesTameDetectados.length > 0) {
-  mensajeFinal = '❌ No Apto (Tame)';
-  colorFinal = 'red';
-} else if (ingredientesLeudDetectados.length > 0) {
-  mensajeFinal = '⚠️ Contiene Leudante';
-  colorFinal = 'orange';
+const hayTame = ingredientesTameDetectados.length > 0;
+const hayLeud = ingredientesLeudDetectados.length > 0;
+
+// ✅ Regla 1: Si hay Tame y el filtro Tame está activo
+if (filtroTame && hayTame) {
+  if (filtroLeudado && hayLeud) {
+    mensajeFinal = '❌ No Apto (Tame y Leudado)';
+    colorFinal = 'darkred';
+  } else {
+    mensajeFinal = '❌ No Apto (Tame)';
+    colorFinal = 'red';
+  }
 }
+// ✅ Regla 2: Si no hay Tame y está activado filtro de levadura → advertencia + color verde
+else if (!hayTame && filtroLeudado && hayLeud) {
+  mensajeFinal = '✅ Apto (Tahor)<br><span style="color:orange;">⚠️ Contiene leudante</span>';
+  colorFinal = 'green'; // 👈 ¡IMPORTANTE! Se mantiene color verde
+}
+// ✅ Regla 3: Si todo está bien → sigue Apto Tahor con verde
+
 
 contenedor.innerHTML += `
   <details class="detalle-producto">
