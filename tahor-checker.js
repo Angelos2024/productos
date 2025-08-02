@@ -35,6 +35,9 @@ const listaDudosos = [
   "sintetico",
   "Grasa butírica",
   "butrica",
+  "grasa butrica",
+  "butricos",
+  "butrico",
   "butírico",
   "butíricos",
   "acido butírico",
@@ -301,6 +304,7 @@ function analizarIngredientes(ingredientes) {
 }
 
 window.isDudoso = isDudoso;
+
 
 
 
