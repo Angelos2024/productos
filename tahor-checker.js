@@ -54,18 +54,20 @@ const listaDudosos = [
   "monoestearato de sorbitán",
   "monoglicéridos y diglicéridos de ácidos grasos",
 ];
-
 function isDudoso(ingredienteOriginal) {
   const normal = normalizeYsingularizar(ingredienteOriginal);
+  const palabras = normal.split(" ");
 
-  // Intentar también con plural agregando una "s" al final de cada palabra que no termina en "es"
-  const plural = normal
-    .split(" ")
-    .map(w => (w.endsWith("s") || w.endsWith("es") ? w : w + "s"))
-    .join(" ");
+  // Revisar si alguna palabra individual coincide con listaDudosos
+  const matchPorPalabra = palabras.some(p => listaDudosos.includes(p));
 
-  return listaDudosos.some(d => normal.includes(d) || plural.includes(d));
+  // Revisar si alguna frase completa coincide en singular o plural
+  const plural = palabras.map(w => (w.endsWith("s") || w.endsWith("es") ? w : w + "s")).join(" ");
+  const matchPorFrase = listaDudosos.some(d => normal.includes(d) || plural.includes(d));
+
+  return matchPorPalabra || matchPorFrase;
 }
+
 
 // 🟢 Lista blanca: frases que no deben marcarse como Tame
 const excepcionesPermitidas = [
@@ -299,5 +301,6 @@ function analizarIngredientes(ingredientes) {
 }
 
 window.isDudoso = isDudoso;
+
 
 
