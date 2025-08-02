@@ -1,18 +1,24 @@
 
 // tahor-checker.js - Núcleo para verificar ingredientes Tame según Levítico 11
 
-function normalizeYsingularizar(txt) {
+
+function normalizeBasico(txt) {
   return txt
     .toLowerCase()
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
-    .trim()
+    .trim();
+}
+
+function normalizeYsingularizar(txt) {
+  return normalizeBasico(txt)
     .split(" ")
     .map(w => w.endsWith("s") && !w.endsWith("es") ? w.slice(0, -1) : w)
     .join(" ");
 }
+
 
 const listaDudosos = [
   "carboximetilcelulosa","monostearate",
@@ -38,14 +44,6 @@ const listaDudosos = [
   "mono- and diglycerides of fatty acids",
   "monoestearato de glicerilo",
   "monoestearato de sorbitán",
-  "Ésteres acéticos",
-"Ésteres lácticos",
-"Ésteres cítricos",
-"Triglicéridos",
-"Emulsionantes",
-"Estabilizantes",
-"Ácidos grasos",
-"Butírica",
   "monoglicéridos y diglicéridos de ácidos grasos",
 ];
 
@@ -292,6 +290,4 @@ function analizarIngredientes(ingredientes) {
   };
 }
 
-
-
-
+window.isDudoso = isDudoso;
