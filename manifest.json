@@ -1,15 +1,16 @@
 {
   "id": "/com.productosamber.bediqah",
-  "name": "Bediqah",
+  "name": "Bediqah-App",
   "short_name": "Bediqah-App",
   "description": "Verifica productos Tahor/Tame Según Levítico 11 y leudados para Pesaj",
- "start_url": "/index.html",
+  "start_url": "/index.html",
   "dir": "ltr",
-   "display": "fullscreen",
+  "display": "fullscreen",
   "display_override": [
     "fullscreen",
     "browser",
-    "window-controls-overlay"  ],
+    "window-controls-overlay"
+  ],
   "background_color": "#ffffff",
   "theme_color": "#00695c",
   "orientation": "portrait",
@@ -24,5 +25,9 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "lang": "es",
+  "categories": [
+    "lifestyle"
   ]
 }
