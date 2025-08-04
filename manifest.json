@@ -5,8 +5,11 @@
   "description": "Verifica productos Tahor/Tame Según Levítico 11 y leudados para Pesaj",
   "start_url": "/",
   "dir": "ltr",
-  "display": "fullscreen",
-  "display_override": ["fullscreen", "browser"],
+   "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "browser",
+    "window-controls-overlay"  ],
   "background_color": "#ffffff",
   "theme_color": "#00695c",
   "orientation": "portrait",
