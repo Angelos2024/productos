@@ -2,9 +2,10 @@
   "name": "Bediqah",
   "short_name": "Bediqah-App",
   "description": "Verifica productos Tahor, Pesaj y Personales según Levítico 11",
-  "start_url": "index.html",
+  "start_url": "/",
+  "dir": "ltr",
   "display": "fullscreen",
-"display_override": ["fullscreen", "standalone", "browser"]
+  "display_override": ["fullscreen", "standalone", "browser"],
   "background_color": "#ffffff",
   "theme_color": "#00695c",
   "orientation": "portrait",
