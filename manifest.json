@@ -2,7 +2,7 @@
   "id": "/com.productosamber.bediqah",
   "name": "Bediqah",
   "short_name": "Bediqah-App",
-  "description": "Verifica productos Tahor, Pesaj y Personales según Levítico 11",
+  "description": "Verifica productos Tahor/Tame Según Levítico 11 y leudados para Pesaj",
   "start_url": "/",
   "dir": "ltr",
   "display": "fullscreen",
