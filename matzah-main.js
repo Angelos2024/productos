@@ -136,49 +136,13 @@ if (escanearCodigoMatzah) {
   const selectCamaraMatzah = document.getElementById('selectCamaraMatzah');
 
 escanearCodigoMatzah.addEventListener('click', async () => {
-  try {
-    await navigator.mediaDevices.getUserMedia({
-  video: { facingMode: { ideal: "environment" } }
-}).then(stream => {
-  videoElement.srcObject = stream;
-  videoElement.play();
-}).catch(err => {
-  console.error("Error al acceder a la cámara: ", err);
-});
-  } catch (err) {
+  catch (err) {
     console.error("❌ Permiso denegado para la cámara:", err);
     selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
     return;
   }
 
-try {
-  const devices = await codeReaderMatzah.getVideoInputDevices();
-selectCamaraMatzah.innerHTML = ""; // 👈 Agrega esta línea aquí
-  devices.forEach((device, index) => {
-    const option = document.createElement('option');
-    option.value = device.deviceId;
-    option.text = device.label || `Cámara ${index + 1}`;
-    selectCamaraMatzah.appendChild(option);
-  });
 
-// Solo cambiar la selección si aún no hay nada seleccionado
-if (!select.value) {
-  const camaraTrasera = devices.find(d =>
-    /back|environment|trasera/i.test(d.label)
-  );
-
-  if (camaraTrasera) {
-    selectCamaraMatzah.value = camaraTrasera.deviceId;
-  } else if (devices.length > 0) {
-    selectCamaraMatzah.value = devices[0].deviceId;
-  }
-}
-
-} catch (err) {
-  console.error('❌ No se pudo listar cámaras:', err);
-  selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-  return;
-}
 
 
   const selectedDeviceId = selectCamaraMatzah.value;
@@ -910,9 +874,9 @@ if (!select.value) {
   );
 
   if (camaraTrasera) {
-    selectCamaraMatzah.value = camaraTrasera.deviceId;
+    select.value = camaraTrasera.deviceId;
   } else if (devices.length > 0) {
-    selectCamaraMatzah.value = devices[0].deviceId;
+   select.value = devices[0].deviceId;
   }
 }
 
