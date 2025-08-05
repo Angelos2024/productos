@@ -849,12 +849,20 @@ async function inicializarListaCamarasMatzah(selectId) {
     const devices = await codeReaderMatzah.getVideoInputDevices();
 select.innerHTML = ""; // limpia la lista
 
+// 🔄 Reordenar para poner primero la cámara trasera
+devices.sort((a, b) => {
+  const aEsTrasera = /back|environment|trasera/i.test(a.label);
+  const bEsTrasera = /back|environment|trasera/i.test(b.label);
+  return (bEsTrasera ? 1 : 0) - (aEsTrasera ? 1 : 0);
+});
+
 devices.forEach((device, index) => {
   const option = document.createElement('option');
   option.value = device.deviceId;
   option.text = device.label || `Cámara ${index + 1}`;
   select.appendChild(option);
 });
+
 
 
 // 🔧 Buscar cámara trasera como preferida
