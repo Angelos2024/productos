@@ -153,7 +153,7 @@ escanearCodigoMatzah.addEventListener('click', async () => {
 
 try {
   const devices = await codeReaderMatzah.getVideoInputDevices();
-
+selectCamaraMatzah.innerHTML = ""; // 👈 Agrega esta línea aquí
   devices.forEach((device, index) => {
     const option = document.createElement('option');
     option.value = device.deviceId;
@@ -888,13 +888,15 @@ async function inicializarListaCamarasMatzah(selectId) {
 
   try {
     const devices = await codeReaderMatzah.getVideoInputDevices();
+select.innerHTML = ""; // limpia la lista
 
 devices.forEach((device, index) => {
   const option = document.createElement('option');
   option.value = device.deviceId;
   option.text = device.label || `Cámara ${index + 1}`;
-  selectCamara.appendChild(option);
+  select.appendChild(option);
 });
+
 
 // 🔧 Buscar cámara trasera como preferida
 const camaraTrasera = devices.find(d =>
@@ -903,11 +905,11 @@ const camaraTrasera = devices.find(d =>
 
 // Si hay una cámara trasera identificada, seleccionarla
 if (camaraTrasera) {
-  selectCamara.value = camaraTrasera.deviceId;
+  select.value = camaraTrasera.deviceId;
 } else {
-  // Si no se identifica, usar la primera disponible
-  selectCamara.value = devices[0]?.deviceId || "";
+  select.value = devices[0]?.deviceId || "";
 }
+
 
 
     if (!select.value && devices[0]) {
