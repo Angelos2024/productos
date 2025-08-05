@@ -944,6 +944,8 @@ document.addEventListener('DOMContentLoaded', () => {
   } else {
     mostrarSeccionTahor(); // por defecto
   }
+  inicializarListaCamarasMatzah('selectCamaraMatzah');
+
 });
 
 document.addEventListener('DOMContentLoaded', () => {
