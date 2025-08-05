@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "marca": "Satoru",
+    "nombre": "Salsa de soya preparada con citricos",
+    "pais": "México",
+    "ean": "7503018092416",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6cpV-yFFYCNxx0EVrzgIVjwg6M3-BuTbKCsWpdRkuy7ep4DTZwhNTag&s=10",
+    "ingredientes": [
+      "Salsa soya",
+      "agua",
+      "trigo",
+      "sal",
+      "soya",
+      "azúcares añadidos",
+      "jugo de limón",
+      "jugo de naranja",
+      "proteína vegetal",
+      "glutamato monosodico",
+      "E621",
+      "caramelo clase ll",
+      "E150",
+      "ácido cítrico",
+      "E330",
+      "sorbato de potasio",
+      "E202",
+      "benzoato de sodio",
+      "E211",
+      "gluten",
+      "trigo"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
+  }
+]
