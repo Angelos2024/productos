@@ -161,6 +161,8 @@ selectCamaraMatzah.innerHTML = ""; // 👈 Agrega esta línea aquí
     selectCamaraMatzah.appendChild(option);
   });
 
+// Solo cambiar la selección si aún no hay nada seleccionado
+if (!select.value) {
   const camaraTrasera = devices.find(d =>
     /back|environment|trasera/i.test(d.label)
   );
@@ -170,6 +172,8 @@ selectCamaraMatzah.innerHTML = ""; // 👈 Agrega esta línea aquí
   } else if (devices.length > 0) {
     selectCamaraMatzah.value = devices[0].deviceId;
   }
+}
+
 } catch (err) {
   console.error('❌ No se pudo listar cámaras:', err);
   selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
@@ -899,22 +903,18 @@ devices.forEach((device, index) => {
 
 
 // 🔧 Buscar cámara trasera como preferida
-const camaraTrasera = devices.find(d =>
-  /back|environment|trasera/i.test(d.label)
-);
+// Solo cambiar la selección si aún no hay nada seleccionado
+if (!select.value) {
+  const camaraTrasera = devices.find(d =>
+    /back|environment|trasera/i.test(d.label)
+  );
 
-// Si hay una cámara trasera identificada, seleccionarla
-if (camaraTrasera) {
-  select.value = camaraTrasera.deviceId;
-} else {
-  select.value = devices[0]?.deviceId || "";
+  if (camaraTrasera) {
+    selectCamaraMatzah.value = camaraTrasera.deviceId;
+  } else if (devices.length > 0) {
+    selectCamaraMatzah.value = devices[0].deviceId;
+  }
 }
-
-
-
-    if (!select.value && devices[0]) {
-      select.value = devices[0].deviceId;
-    }
 
   } catch (err) {
     console.error('❌ Error al inicializar cámaras en Matzah:', err);
