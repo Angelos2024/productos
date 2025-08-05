@@ -137,7 +137,14 @@ if (escanearCodigoMatzah) {
 
 escanearCodigoMatzah.addEventListener('click', async () => {
   try {
-    await navigator.mediaDevices.getUserMedia({ video: true });
+    await navigator.mediaDevices.getUserMedia({
+  video: { facingMode: { ideal: "environment" } }
+}).then(stream => {
+  videoElement.srcObject = stream;
+  videoElement.play();
+}).catch(err => {
+  console.error("Error al acceder a la cámara: ", err);
+});
   } catch (err) {
     console.error("❌ Permiso denegado para la cámara:", err);
     selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
