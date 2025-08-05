@@ -151,29 +151,31 @@ escanearCodigoMatzah.addEventListener('click', async () => {
     return;
   }
 
-  let devices = [];
-  try {
-    devices = await codeReaderMatzah.getVideoInputDevices();
-    const camaraAnterior = selectCamaraMatzah.value;
+try {
+  const devices = await codeReaderMatzah.getVideoInputDevices();
 
-    selectCamaraMatzah.innerHTML = '';
-    devices.forEach((device, index) => {
-      const option = document.createElement('option');
-      option.value = device.deviceId;
-      option.text = device.label || `Cámara ${index + 1}`;
-      selectCamaraMatzah.appendChild(option);
-    });
+  devices.forEach((device, index) => {
+    const option = document.createElement('option');
+    option.value = device.deviceId;
+    option.text = device.label || `Cámara ${index + 1}`;
+    selectCamaraMatzah.appendChild(option);
+  });
 
-    if (devices.some(d => d.deviceId === camaraAnterior)) {
-      selectCamaraMatzah.value = camaraAnterior;
-    } else if (devices.length > 0) {
-      selectCamaraMatzah.value = devices[0].deviceId;
-    }
-  } catch (err) {
-    console.error('❌ No se pudo listar cámaras:', err);
-    selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
-    return;
+  const camaraTrasera = devices.find(d =>
+    /back|environment|trasera/i.test(d.label)
+  );
+
+  if (camaraTrasera) {
+    selectCamaraMatzah.value = camaraTrasera.deviceId;
+  } else if (devices.length > 0) {
+    selectCamaraMatzah.value = devices[0].deviceId;
   }
+} catch (err) {
+  console.error('❌ No se pudo listar cámaras:', err);
+  selectCamaraMatzah.innerHTML = '<option>No se pudo acceder a la cámara</option>';
+  return;
+}
+
 
   const selectedDeviceId = selectCamaraMatzah.value;
 
@@ -887,13 +889,26 @@ async function inicializarListaCamarasMatzah(selectId) {
   try {
     const devices = await codeReaderMatzah.getVideoInputDevices();
 
-    select.innerHTML = '';
-    devices.forEach((device, index) => {
-      const option = document.createElement('option');
-      option.value = device.deviceId;
-      option.text = device.label || `Cámara ${index + 1}`;
-      select.appendChild(option);
-    });
+devices.forEach((device, index) => {
+  const option = document.createElement('option');
+  option.value = device.deviceId;
+  option.text = device.label || `Cámara ${index + 1}`;
+  selectCamara.appendChild(option);
+});
+
+// 🔧 Buscar cámara trasera como preferida
+const camaraTrasera = devices.find(d =>
+  /back|environment|trasera/i.test(d.label)
+);
+
+// Si hay una cámara trasera identificada, seleccionarla
+if (camaraTrasera) {
+  selectCamara.value = camaraTrasera.deviceId;
+} else {
+  // Si no se identifica, usar la primera disponible
+  selectCamara.value = devices[0]?.deviceId || "";
+}
+
 
     if (!select.value && devices[0]) {
       select.value = devices[0].deviceId;
