@@ -136,99 +136,89 @@ if (escanearCodigoMatzah) {
   const selectCamaraMatzah = document.getElementById('selectCamaraMatzah');
 
 escanearCodigoMatzah.addEventListener('click', async () => {
-  catch (err) {
-    console.error("❌ Permiso denegado para la cámara:", err);
-    selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
-    return;
-  }
+  try {
+    const selectedDeviceId = selectCamaraMatzah.value;
 
-
-
-
-  const selectedDeviceId = selectCamaraMatzah.value;
-
-  if (currentPreviewStream) {
-    currentPreviewStream.getTracks().forEach(track => track.stop());
-    currentPreviewStream = null;
-  }
-
-  // NUEVO DISEÑO DE ESCANEO
-  const previewElem = document.createElement('video');
-  previewElem.setAttribute('id', 'previewElemMatzah');
-  previewElem.setAttribute('style', `
-    width: 100%;
-    max-width: 480px;
-    height: 260px;
-    object-fit: cover;
-    margin: 0 auto;
-    display: block;
-    border: 3px solid white;
-    border-radius: 12px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-    position: relative;
-  `);
-
-  const overlay = document.createElement('div');
-  overlay.setAttribute('style', `
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 260px;
-    box-sizing: border-box;
-    pointer-events: none;
-    z-index: 10;
-  `);
-  overlay.innerHTML = `
-    <div style="
-      position: absolute;
-      top: 50%;
-      left: 0;
-      width: 100%;
-      height: 2px;
-      background: white;
-      opacity: 0.9;
-      transform: translateY(-50%);
-    "></div>
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border: 2px dashed white;
-      border-radius: 12px;
-      box-sizing: border-box;
-    "></div>
-  `;
-
-  const contenedorEscaneo = document.createElement('div');
-  contenedorEscaneo.id = 'contenedorEscaneoMatzah';
-  contenedorEscaneo.style.position = 'relative';
-  contenedorEscaneo.style.margin = '8rem auto 8rem';
-  contenedorEscaneo.style.maxWidth = '460px';
-  contenedorEscaneo.appendChild(previewElem);
-  contenedorEscaneo.appendChild(overlay);
-
-  resultadoMatzah.innerHTML = `
-    <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
-    <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
-  `;
-  resultadoMatzah.appendChild(contenedorEscaneo);
-
-  scrollAResultadosMatzah();
-
-  document.getElementById('cancelarEscaneo').addEventListener('click', () => {
     if (currentPreviewStream) {
       currentPreviewStream.getTracks().forEach(track => track.stop());
       currentPreviewStream = null;
     }
-    codeReaderMatzah.reset();
-    codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
-    resultadoMatzah.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
-  });
 
-  try {
+    const previewElem = document.createElement('video');
+    previewElem.setAttribute('id', 'previewElemMatzah');
+    previewElem.setAttribute('style', `
+      width: 100%;
+      max-width: 480px;
+      height: 260px;
+      object-fit: cover;
+      margin: 0 auto;
+      display: block;
+      border: 3px solid white;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+      position: relative;
+    `);
+
+    const overlay = document.createElement('div');
+    overlay.setAttribute('style', `
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 260px;
+      box-sizing: border-box;
+      pointer-events: none;
+      z-index: 10;
+    `);
+    overlay.innerHTML = `
+      <div style="
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background: white;
+        opacity: 0.9;
+        transform: translateY(-50%);
+      "></div>
+      <div style="
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 2px dashed white;
+        border-radius: 12px;
+        box-sizing: border-box;
+      "></div>
+    `;
+
+    const contenedorEscaneo = document.createElement('div');
+    contenedorEscaneo.id = 'contenedorEscaneoMatzah';
+    contenedorEscaneo.style.position = 'relative';
+    contenedorEscaneo.style.margin = '8rem auto 8rem';
+    contenedorEscaneo.style.maxWidth = '460px';
+    contenedorEscaneo.appendChild(previewElem);
+    contenedorEscaneo.appendChild(overlay);
+
+    resultadoMatzah.innerHTML = `
+      <p><strong>📷 Escaneando... permite acceso a la cámara</strong></p>
+      <button id="cancelarEscaneo" style="float:right; background:#e74c3c; color:white; border:none; padding:0.3rem 0.8rem; border-radius:5px; cursor:pointer; font-weight:bold;">❌ Cancelar escaneo</button>
+    `;
+    resultadoMatzah.appendChild(contenedorEscaneo);
+
+    scrollAResultadosMatzah();
+
+    document.getElementById('cancelarEscaneo').addEventListener('click', () => {
+      if (currentPreviewStream) {
+        currentPreviewStream.getTracks().forEach(track => track.stop());
+        currentPreviewStream = null;
+      }
+      codeReaderMatzah.reset();
+      codeReaderMatzah = new ZXing.BrowserMultiFormatReader();
+      resultadoMatzah.innerHTML = '<p style="color:gray;">⛔ Escaneo cancelado por el usuario.</p>';
+    });
+
     const stream = await navigator.mediaDevices.getUserMedia({
       video: {
         deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
@@ -243,12 +233,11 @@ escanearCodigoMatzah.addEventListener('click', async () => {
 
     codeReaderMatzah.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
       if (result) {
-document.getElementById('eanEntradaMatzah').value = result.text;
-buscarSoloPorEanMatzah(result.text);
-document.getElementById('eanEntradaMatzah').value = ''; // 🧹 Limpia tras escaneo
-
-
+        document.getElementById('eanEntradaMatzah').value = result.text;
+        buscarSoloPorEanMatzah(result.text);
+        document.getElementById('eanEntradaMatzah').value = '';
         codeReaderMatzah.reset();
+
         if (currentPreviewStream) {
           currentPreviewStream.getTracks().forEach(track => track.stop());
           currentPreviewStream = null;
@@ -257,10 +246,12 @@ document.getElementById('eanEntradaMatzah').value = ''; // 🧹 Limpia tras esca
     });
 
   } catch (err) {
-    console.error('❌ Error escaneando:', err);
-    resultadoMatzah.innerHTML = '<p style="color:red;">❌ No se pudo leer el código. Intenta nuevamente.</p>';
+    console.error("❌ Permiso denegado para la cámara:", err);
+    selectCamaraMatzah.innerHTML = '<option>❌ Permiso de cámara denegado</option>';
+    return;
   }
 });
+
 
 }
 
