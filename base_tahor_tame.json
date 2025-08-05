@@ -98,7 +98,7 @@
       "Sal",
       "Glutamato monosódico (potenciador de sabor)",
       "Saborizantes naturales (sabor pollo)",
-      "Saborizantes artificiales (pollo)", 
+      "Saborizantes artificiales (pollo)",
       "Grasa vegetal",
       "Almidón modificado",
       "Azúcar",
@@ -150,7 +150,7 @@
     "tahor": true,
     "ingredientes_tame": []
   },
-    {
+  {
     "marca": "Doña maría",
     "nombre": "Mole listo para servir",
     "pais": "México",
@@ -486,6 +486,24 @@
       "fosfato tricálcico",
       "saborizante idéntico al natural",
       "derivados de soya (puede contener)"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
+  },
+  {
+    "marca": "Sugoi",
+    "nombre": "Sugoi salsa agridulce",
+    "pais": "México",
+    "ean": "7503009765534",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsd4CXeGXPRbOf9L77UsmabvAv9MgDbllr29iCbrC7U1WEvhpnlRkkGtU&s=10",
+    "ingredientes": [
+      "Agua",
+      "azúcar",
+      "vinagre de arroz",
+      "almidón modificado",
+      "extracto natural de mango y chabacano",
+      "color amarillo",
+      "benzoato de potasio."
     ],
     "tahor": true,
     "ingredientes_tame": []
