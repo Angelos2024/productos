@@ -880,20 +880,54 @@ if (!select.value) {
 // Seleccionar cámara para matzah
 const selectCamaraMatzah = document.getElementById('selectCamaraMatzah');
 
-selectCamaraMatzah?.addEventListener('change', () => {
+selectCamaraMatzah?.addEventListener('change', async () => {
   if (currentPreviewStream) {
     currentPreviewStream.getTracks().forEach(track => track.stop());
     currentPreviewStream = null;
   }
 
   codeReaderMatzah.reset();
-codeReaderMatzah = new ZXing.BrowserBarcodeReader();
+  codeReaderMatzah = new ZXing.BrowserBarcodeReader();
 
+  // 🟢 Reiniciar el escaneo automáticamente
+  const selectedDeviceId = selectCamaraMatzah.value;
 
-  resultadoMatzah.innerHTML = `
-    <p style="color:gray;">📷 Cámara reiniciada. Pulsa nuevamente "Escanear código".</p>
-  `;
+  const previewElem = document.getElementById('previewElemMatzah');
+  if (!previewElem) return;
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({
+      video: {
+        deviceId: selectedDeviceId ? { exact: selectedDeviceId } : undefined,
+        width: { ideal: 1280 },
+        height: { ideal: 720 }
+      }
+    });
+
+    previewElem.srcObject = stream;
+    await previewElem.play().catch(err => console.warn("⚠️ No se pudo reproducir cámara:", err));
+    currentPreviewStream = stream;
+
+    codeReaderMatzah.decodeFromVideoDevice(selectedDeviceId, previewElem, (result, err) => {
+      if (result) {
+        document.getElementById('eanEntradaMatzah').value = result.text;
+        buscarSoloPorEanMatzah(result.text);
+        document.getElementById('eanEntradaMatzah').value = '';
+        codeReaderMatzah.reset();
+
+        if (currentPreviewStream) {
+          currentPreviewStream.getTracks().forEach(track => track.stop());
+          currentPreviewStream = null;
+        }
+      }
+    });
+
+  } catch (err) {
+    console.error("❌ Error al cambiar de cámara:", err);
+    resultadoMatzah.innerHTML = `<p style="color:red;">❌ Error al activar cámara seleccionada.</p>`;
+  }
 });
+
 
 function volverAlMenuMatzah() {
   document.title = "Escáner de Productos Lev 11 Éxodo 12";
