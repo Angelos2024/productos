@@ -35,5 +35,23 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Sugoi",
+    "nombre": "Sugoi salsa agridulce",
+    "pais": "México",
+    "ean": "7503009765534",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsd4CXeGXPRbOf9L77UsmabvAv9MgDbllr29iCbrC7U1WEvhpnlRkkGtU&s=10",
+    "ingredientes": [
+      "Agua",
+      "azúcar",
+      "vinagre de arroz",
+      "almidón modificado",
+      "extracto natural de mango y chabacano",
+      "color amarillo",
+      "benzoato de potasio."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
