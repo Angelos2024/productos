@@ -12,11 +12,11 @@
     "window-controls-overlay"
   ],
   "handle_links": [
-  {
-    "origin": "https://productos-amber.vercel.app",
-    "url": "https://productos-amber.vercel.app/*"
-  }
-]
+    {
+      "origin": "https://productos-amber.vercel.app",
+      "url": "https://productos-amber.vercel.app/*"
+    }
+  ],
   "background_color": "#ffffff",
   "theme_color": "#00695c",
   "orientation": "portrait",
