@@ -1,4 +1,5 @@
 {
+  "id": "https://productos-amber.vercel.app/",
   "name": "Bediqah-App",
   "short_name": "Bediqah-App",
   "description": "Verifica productos Tahor/Tame Según Levítico 11 y leudados para Pesaj",
@@ -24,6 +25,12 @@
       "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "lang": "es",
