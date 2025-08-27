@@ -7,7 +7,7 @@
 <body style="max-width:700px; margin: 0 auto; font-family:sans-serif;">
   <h1>Política de Privacidad</h1>
 
-  <p><strong>Última actualización:</strong> 1 de julio de 2025</p>
+  <p><strong>Última actualización:</strong> 1 de agosto de 2025</p>
 
   <h2>1. Uso de la cámara</h2>
   <p>Esta aplicación accede a la cámara del dispositivo únicamente para escanear códigos de barras de productos. No capturamos, almacenamos ni compartimos imágenes o videos.</p>
