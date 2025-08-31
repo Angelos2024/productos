@@ -17,7 +17,8 @@
       "namespace": "android_app",
       "package_name": "app.vercel.productos_amber.twa",
       "sha256_cert_fingerprints": [
-        "E6:BE:E1:73:CE:92:DF:D9:57:81:F9:A7:26:46:F2:78:AE:49:99:DC:A9:59:61:DF:2A:59:E0:B1:B0:FB:21:4E"
+        "E6:BE:E1:73:CE:92:DF:D9:57:81:F9:A7:26:46:F2:78:AE:49:99:DC:A9:59:61:DF:2A:59:E0:B1:B0:FB:21:4E",
+        "69:0A:4A:18:45:FE:96:0C:16:1F:39:B8:30:36:57:8C:91:A9:17:EA:5B:D5:D0:E3:A5:41:A5:72:F0:FE:4D:77"
       ]
     }
   }
