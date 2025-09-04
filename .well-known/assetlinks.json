@@ -9,7 +9,19 @@
       "package_name": "bediqahapp2.appoiy",
       "sha256_cert_fingerprints": [
         "2A:03:EC:DD:DF:72:A7:4A:7C:18:C4:C8:66:C0:2A:DB:E2:E2:21:5C:8F:4F:36:30:A0:4B:5E:DF:CA:A4:D5:56"
+      ],
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.productos_amber.twa",
+      "sha256_cert_fingerprints": [
+        "69:0A:4A:18:45:FE:96:0C:16:1F:39:B8:30:36:57:8C:91:A9:17:EA:5B:D5:D0:E3:A5:41:A5:72:F0:FE:4D:77"
       ]
     }
   }
 ]
+
