@@ -22,5 +22,17 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Ahmed",
+    "nombre": "Shehu",
+    "pais": "Nigeria",
+    "ean": "",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "shehuahmed828@gmail.com"
+    ],
+    "tahor": false,
+    "ingredientes_tame": []
   }
 ]
