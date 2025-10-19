@@ -48,5 +48,28 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "La Serenísima",
+    "nombre": "Yogurísimo",
+    "pais": "Argentina",
+    "ean": "",
+    "imagen": "https://share.google/1SdegPUP3HHwXaFC3",
+    "ingredientes": [
+      "Leche entera",
+      "proteínas lácteas",
+      "almidón modificado de maíz",
+      "gelatina",
+      "lactasa",
+      "zinc",
+      "cultivos lácticos",
+      "cultivos probióticos (L casei",
+      "Bifidobacterium)",
+      "vitaminas B3",
+      "B12",
+      "A.D y ácido fólico."
+    ],
+    "tahor": false,
+    "ingredientes_tame": []
   }
 ]
