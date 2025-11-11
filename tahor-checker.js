@@ -88,6 +88,7 @@ const excepcionesPermitidas = [
 const ingredientesTameFrases = [
   'CI 75470',
   'E-120',
+    'gelatina',
   'CI natural red 4',
   'animal collagen',
   'animal enzyme',
@@ -148,6 +149,7 @@ const ingredientesTamePalabras = [
   'E120',
   'abeja',
   'glicerol',
+    'gelatina',
   'glicerina',
   'polyglycerol',
   'glycerin',
@@ -304,6 +306,7 @@ function analizarIngredientes(ingredientes) {
 }
 
 window.isDudoso = isDudoso;
+
 
 
 
