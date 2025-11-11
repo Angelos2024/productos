@@ -36,20 +36,6 @@
     "ingredientes_tame": []
   },
   {
-    "marca": "Latti",
-    "nombre": "Leche en polvo entera",
-    "pais": "Colombia",
-    "ean": "700304160594",
-    "imagen": "imagen no disponible",
-    "ingredientes": [
-      "Leche en polvo entera",
-      "premezcla de vitaminas A y D",
-      "contiene lactosa y proteínas lácteas cómo componentes natural de leche."
-    ],
-    "tahor": true,
-    "ingredientes_tame": []
-  },
-  {
     "marca": "La Serenísima",
     "nombre": "Yogurísimo",
     "pais": "Argentina",
