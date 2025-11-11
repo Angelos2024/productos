@@ -50,6 +50,7 @@ const ingredientesTameFrases = [
   'glyceryl monostearate',
   'goma laca',
   'grasa animal',
+  'gelatina',
   'grasa de cerdo',
   'laca armin',
   'laca de cochinilla',
@@ -89,6 +90,7 @@ const ingredientesTamePalabras = [
   'avestruz',
   'avispa',
   'ballena',
+    'gelatina',
   'bat',
   'bee',
   'beetle',
@@ -395,4 +397,5 @@ if (ean) {
   window.buscarProductoEnArchivos = buscarProductoEnArchivos;
 
 })();
+
 
