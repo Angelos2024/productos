@@ -640,5 +640,23 @@
     ],
     "tahor": false,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Águila Nut",
+    "nombre": "Águila Nut",
+    "pais": "Argentina",
+    "ean": "",
+    "imagen": "https://share.google/5zJ8dXGeuxdVD4I7P",
+    "ingredientes": [
+      "Azúcar",
+      "aceite de palma",
+      "aceite de girasol",
+      "aceite de soja",
+      "leche descremada en polvo",
+      "maní tostado",
+      "cacao en polvo."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
