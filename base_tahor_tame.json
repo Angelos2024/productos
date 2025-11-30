@@ -670,5 +670,19 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Sakanashi",
+    "nombre": "Salsa de soja",
+    "pais": "Argentina",
+    "ean": "",
+    "imagen": "https://share.google/JY7YPoXl3GQNUC3iy",
+    "ingredientes": [
+      "Soja",
+      "sal",
+      "caramelo"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
