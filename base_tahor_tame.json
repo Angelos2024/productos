@@ -703,5 +703,33 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "LALA",
+    "nombre": "QUESO MANCHEGO",
+    "pais": "México",
+    "ean": "",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "Mezcla de quesos (leche entera pasteurizada de vaca",
+      "sal yodada",
+      "cultivos lácticos y enzimas) agua",
+      "proteína láctea",
+      "leche de vaca descremada en polvo",
+      "sólidos de la leche",
+      "citrato de sodio ( regulador de acidez)",
+      "saborizante natural",
+      "azúcares añadidos ( dextrosa)",
+      "sal yodada",
+      "ácido cítrico",
+      "(acidulante)",
+      "ácido sórbico (conservador)",
+      "fosfato de sodio (emulsificante)",
+      "anaranjado alimentos 6",
+      "naranjo alimentos 5 (colorantes). Contiene leche",
+      "puede contener soya grasa de leche 15% min.proteina de leche 17.5% min. Humedad 51% max."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
