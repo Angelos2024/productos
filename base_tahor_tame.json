@@ -684,5 +684,24 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Member's Mark",
+    "nombre": "Crema de avellanas",
+    "pais": "México",
+    "ean": "7874219672",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "Azúcares añadidos",
+      "aceite vegetal",
+      "avellana",
+      "cacao",
+      "leche descremada en polvo",
+      "emulsificante: lecitina",
+      "saborizante artificial",
+      "avellanas"
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
