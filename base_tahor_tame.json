@@ -731,5 +731,31 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Marinela",
+    "nombre": "Príncipe Avellana tentación",
+    "pais": "México",
+    "ean": "7500810011133",
+    "imagen": "https://g.co/about/wdag7t",
+    "ingredientes": [
+      "HARINO DE TRIGO (GLUTEN) RELLENO SABOR AVELLANA (36%)",
+      "AZÚCARES AÑADIDOS (AZÚCAR",
+      "SÓLIDOS DE JARABE DE MAÍZ) GRASA VEGETAL",
+      "HUEVO",
+      "SAL YODADA",
+      "BICARBONATO DE SODIO",
+      "LECITINA DE SOYA",
+      "SABORIZANTE NATURAL",
+      "BENZOATO DE SODIO. CONTIENE GLUTEN",
+      "LECHE",
+      "HUEVO Y SOYA",
+      "PUEDE CONTENER NUEZ",
+      "CACAHUATE",
+      "COCO",
+      "ALMENDRA Y AJONJOLÍ."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
