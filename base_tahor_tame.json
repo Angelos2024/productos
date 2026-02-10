@@ -757,5 +757,36 @@
     ],
     "tahor": true,
     "ingredientes_tame": []
+  },
+  {
+    "marca": "Gamesa",
+    "nombre": "CHOKIS CHOCOBASE",
+    "pais": "México",
+    "ean": "7500478037421",
+    "imagen": "imagen no disponible",
+    "ingredientes": [
+      "Harina de trigo",
+      "azúcares añadidos (azúcar",
+      "jarabe de alta fructosa)",
+      "grasa vegetal",
+      "chispas sabor chocolate 17%",
+      "aceite vegetal hidrogenado",
+      "cocoa",
+      "maltodextrina",
+      "lecitina de soya",
+      "saborizantes naturales",
+      "idénticos al natural y artificiales",
+      "sal yodada",
+      "esteres de propilenglucol grasos",
+      "caramelo clase1",
+      "monoesterato de glicerilo",
+      "",
+      "estearoil lactilato de sodio",
+      "poliglicerol de polirricinoleato",
+      "caramelo clase IV. Contiene trigo(gluten)",
+      "leche y soya."
+    ],
+    "tahor": true,
+    "ingredientes_tame": []
   }
 ]
